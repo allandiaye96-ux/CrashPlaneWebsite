@@ -1,0 +1,1 @@
+              <div class="meta">${esc(a.airline || 'Compagnie inconnue')} • Fatalités: <span class="badge">${typeof a.fatalities==='number'?fmt(a.fatalities):'N/A'}</span></div>

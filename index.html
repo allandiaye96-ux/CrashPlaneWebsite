@@ -1,0 +1,2089 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chroniques des Crashes Aériens</title>
+    <meta name="description" content="Site pédagogique: recenser et raconter des accidents d'avion, avec sources et localisation." />
+    <meta property="og:title" content="Chroniques des Crashes Aériens" />
+    <meta property="og:description" content="Histoires, causes et lieux des accidents d'avion." />
+    <meta property="og:type" content="website" />
+    <link rel="icon" href="assets/img/plane.jpg" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="#/">✈ Chroniques des Crashes Aériens</a>
+        <nav class="top-actions">
+          <button id="themeToggle" class="btn" aria-pressed="false" aria-label="Basculer le thème">🌓</button>
+          <a class="btn" href="#/a-propos">À propos</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container" id="app" aria-live="polite"></main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>
+          Projet ouvert et pédagogique. Les informations sont fournies à titre documentaire et doivent être vérifiées via les sources citées.
+        </p>
+        <p>
+          Contribuer: voir <a href="README.md" target="_blank" rel="noopener">README</a>
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      // Données de secours pour ouverture en file:// (copie du JSON)
+      window.__ACCIDENTS_FALLBACK = [
+    {
+        "id":  "af447-2009",
+        "title":  "Air France 447 – Disparition au‑dessus de l’Atlantique",
+        "date":  "2009-06-01",
+        "location":  "Océan Atlantique, au large du Brésil",
+        "aircraft":  "Airbus A330-203 (F-GZCP)",
+        "airline":  "Air France",
+        "country":  "Océan Atlantique",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  228,
+        "fatalities":  228,
+        "lat":  -3.316,
+        "lon":  -30.516,
+        "images":  [
+                       {
+                           "url":  "assets/img/af447-2009.jpg",
+                           "caption":  "Zone de recherche (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Rio de Janeiro – Galeão",
+                                   "iata":  "GIG",
+                                   "lat":  -22.809,
+                                   "lon":  -43.25
+                               },
+                      "to":  {
+                                 "name":  "Paris – Charles‑de‑Gaulle",
+                                 "iata":  "CDG",
+                                 "lat":  49.0097,
+                                 "lon":  2.5479
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "BEA – Rapport final",
+                            "url":  "https://www.bea.aero/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe vol AF447, un Airbus A330 reliant Rio de Janeiro à Paris, traverse la Zone Intertropicale de Convergence où l’activité convective et le givrage en altitude sont fréquents. La météo impose une gestion attentive des vitesses et de l’énergie en croisière élevée.\u003c/p\u003e\u003cp\u003eAu cœur de l’Atlantique, le givrage des sondes de pression provoque des vitesses incohérentes et la désactivation du pilote automatique. L’équipage prend les commandes manuelles à très haute altitude ; l’avion entre alors dans un décrochage qui n’est pas identifié comme tel et se prolonge jusqu’à l’impact en mer.\u003c/p\u003e\u003cp\u003eL’enquête a mis en évidence le rôle des vitesses non fiables, la gestion inadaptée de l’assiette et de l’énergie, ainsi que la présentation des alertes et la charge cognitive au poste. Elle a conduit à des recommandations sur la formation aux « vitesses non fiables », l’ergonomie des alertes et la standardisation/robustesse des capteurs.\u003c/p\u003e"
+    },
+    {
+        "id":  "tenerife-1977",
+        "title":  "Collision de Tenerife – Catastrophe de Los Rodeos",
+        "date":  "1977-03-27",
+        "location":  "Aéroport de Los Rodeos (TFN), Tenerife, Espagne",
+        "aircraft":  "Boeing 747-121 \u0026 747-206B",
+        "airline":  "KLM / Pan Am",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Décollage",
+        "country":  "Espagne",
+        "passengersTotal":  644,
+        "fatalities":  583,
+        "lat":  28.4827,
+        "lon":  -16.3415,
+        "images":  [
+                       {
+                           "url":  "assets/img/tenerife-1977.jpg",
+                           "caption":  "Piste de Los Rodeos (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Tenerife – Los Rodeos",
+                                   "iata":  "TFN",
+                                   "lat":  28.4827,
+                                   "lon":  -16.3415
+                               },
+                      "to":  {
+                                 "name":  "Las Palmas – Gran Canaria",
+                                 "iata":  "LPA",
+                                 "lat":  27.9319,
+                                 "lon":  -15.3866
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "CIAIAC – Rapport",
+                            "url":  "https://www.mitma.gob.es/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe 27 mars 1977, un attentat à Gran Canaria entraîne le déroutement de nombreux vols vers Tenerife‑Los Rodeos. L’aéroport sature rapidement et, en fin de journée, un brouillard épais réduit la visibilité au sol.\u003c/p\u003e\u003cp\u003eAlors que le 747 de Pan Am n’a pas encore dégagé la piste, le 747 de KLM s’aligne et entame son décollage. Des messages radio se chevauchent, la phraséologie reste ambiguë et l’aérodrome ne dispose pas de radar sol : les contrôleurs ne perçoivent pas clairement la position exacte des avions. La collision survient au milieu de la piste, causant des centaines de victimes.\u003c/p\u003e\u003cp\u003eL’accident a mis en lumière l’importance d’une phraséologie standard, de l’utilisation du CRM et de moyens de surveillance au sol. Il a déclenché une évolution internationale des procédures radio et le déploiement de radars/SMR sur de nombreux aéroports.\u003c/p\u003e"
+    },
+    {
+        "id":  "jal123-1985",
+        "title":  "Japan Airlines 123 – Crash sur la crête d’Osutaka",
+        "date":  "1985-08-12",
+        "location":  "Ueno, préfecture de Gunma, Japon",
+        "aircraft":  "Boeing 747SR-46 (JA8119)",
+        "airline":  "Japan Airlines",
+        "country":  "Japon",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  524,
+        "fatalities":  520,
+        "lat":  36.05,
+        "lon":  138.62,
+        "images":  [
+                       {
+                           "url":  "assets/img/jal123.jpg",
+                           "caption":  "Mémorial près du site (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Tokyo – Haneda",
+                                   "iata":  "HND",
+                                   "lat":  35.5494,
+                                   "lon":  139.7798
+                               },
+                      "to":  {
+                                 "name":  "Osaka – Itami",
+                                 "iata":  "ITM",
+                                 "lat":  34.7855,
+                                 "lon":  135.4382
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "JTSB – Rapport",
+                            "url":  "https://www.mlit.go.jp/jtsb/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe 12 août 1985, un 747SR effectue une courte liaison intérieure très fréquentée entre Tokyo et Osaka. Plusieurs années auparavant, l’appareil avait subi un tailstrike ; la réparation de la cloison arrière, réalisée à l’époque, se révélera ultérieurement non conforme.\u003c/p\u003e\u003cp\u003eEn montée puis en croisière, la cloison se rompt : la décompression endommage les systèmes hydrauliques et prive l’équipage de la plupart des commandes. Les pilotes tentent de contrôler l’avion par la seule modulation de la poussée pendant plus d’une demi‑heure, avant un impact sur la crête d’Osutaka.\u003c/p\u003e\u003cp\u003eL’accident entraîne une refonte des procédures de réparation et d’inspection structurelles, un renforcement du contrôle qualité chez les constructeurs et opérateurs et une amélioration des entraînements d’urgence.\u003c/p\u003e"
+    },
+    {
+        "id":  "mh370-2014",
+        "title":  "Malaysia Airlines 370 – Disparition au‑dessus de l’océan Indien",
+        "date":  "2014-03-08",
+        "location":  "Océan Indien (zone présumée)",
+        "aircraft":  "Boeing 777-2H6ER (9M-MRO)",
+        "airline":  "Malaysia Airlines",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Croisière",
+        "country":  "Océan Indien",
+        "passengersTotal":  239,
+        "fatalities":  239,
+        "images":  [
+                       {
+                           "url":  "assets/img/mh370.jpg",
+                           "caption":  "Zones de recherche (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Kuala Lumpur – KUL",
+                                   "iata":  "KUL",
+                                   "lat":  2.7456,
+                                   "lon":  101.7090
+                               },
+                      "to":  {
+                                 "name":  "Pékin – PEK",
+                                 "iata":  "PEK",
+                                 "lat":  40.08,
+                                 "lon":  116.58
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Rapport (Malaisie, 2018)",
+                            "url":  "https://www.mot.gov.my/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eDans la nuit du 8 mars 2014, un 777 reliant Kuala Lumpur à Pékin disparaît des écrans. Après l’arrêt de l’ACARS et du transpondeur, des analyses de signaux satellites (handshakes Inmarsat) laissent penser à une route vers l’ouest puis le sud de l’océan Indien.\u003c/p\u003e\u003cp\u003eMalgré d’importantes recherches, l’épave principale n’a pas été localisée et les causes restent indéterminées au regard des informations publiques. Les autorités ont conservé une grande prudence sur les scénarios.\u003c/p\u003e\u003cp\u003eLe dossier a accéléré la mise en place du suivi mondial des vols (GADSS), l’amélioration de la traçabilité et des enregistreurs, ainsi que la coopération internationale pour les recherches en mer.\u003c/p\u003e"
+    },
+    {
+        "id":  "us1549-2009",
+        "title":  "US Airways 1549 – Amerrissage sur l’Hudson",
+        "date":  "2009-01-15",
+        "location":  "Fleuve Hudson, New York, États‑Unis",
+        "aircraft":  "Airbus A320-214 (N106US)",
+        "airline":  "US Airways",
+        "country":  "États‑Unis",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  155,
+        "fatalities":  0,
+        "lat":  40.769,
+        "lon":  -74.005,
+        "images":  [
+                       {
+                           "url":  "assets/img/us1549-2009.jpg",
+                           "caption":  "Amerrissage contrôlé (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "New York – LaGuardia",
+                                   "iata":  "LGA",
+                                   "lat":  40.7769,
+                                   "lon":  -73.8740
+                               },
+                      "to":  {
+                                 "name":  "Charlotte – CLT",
+                                 "iata":  "CLT",
+                                 "lat":  35.2140,
+                                 "lon":  -80.9431
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR-10/03",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003ePeu après le décollage de LaGuardia vers Charlotte, l’A320 traverse un vol d’oies bernaches et subit une double perte de poussée. En quelques secondes, l’équipage évalue les options (retour LGA, déroutements proches) mais retient l’amerrissage contrôlé sur l’Hudson.\u003c/p\u003e\u003cp\u003eLe posé est exécuté avec maîtrise, les évacuations s’effectuent rapidement et l’ensemble des occupants survivent. L’événement devient un cas d’école de gestion d’urgence à très faible altitude.\u003c/p\u003e\u003cp\u003eLes autorités et les opérateurs ont renforcé la préparation aux impacts d’oiseaux, la modélisation du risque faune et les entraînements aux pertes de poussée immédiates après décollage.\u003c/p\u003e"
+    },
+    {
+        "id":  "gwi9525-2015",
+        "title":  "Germanwings 9525 – Descente volontaire dans les Alpes",
+        "date":  "2015-03-24",
+        "location":  "Alpes-de-Haute-Provence, France",
+        "aircraft":  "Airbus A320-211 (D-AIPX)",
+        "airline":  "Germanwings",
+        "country":  "France",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  150,
+        "fatalities":  150,
+        "lat":  44.273,
+        "lon":  6.438,
+        "images":  [
+                       {
+                           "url":  "assets/img/gwi9525-2015.jpg",
+                           "caption":  "Zone de l’accident (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Barcelone – BCN",
+                                   "iata":  "BCN",
+                                   "lat":  41.297,
+                                   "lon":  2.078
+                               },
+                      "to":  {
+                                 "name":  "Düsseldorf – DUS",
+                                 "iata":  "DUS",
+                                 "lat":  51.279,
+                                 "lon":  6.766
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "BEA – Rapport final",
+                            "url":  "https://www.bea.aero/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe vol Germanwings 9525 relie Barcelone à Düsseldorf en Airbus A320. Le copilote, récemment déclaré temporairement inapte pour raisons médicales, est aux commandes au moment où le commandant quitte le poste.\u003c/p\u003e\u003cp\u003eLa porte du cockpit est verrouillée ; le copilote initie alors une longue descente vers le relief alpin et l’avion s’écrase. L’enquête conclut à une action volontaire et interroge l’équilibre entre confidentialité médicale, détection des signaux faibles et sécurisation de l’accès cockpit.\u003c/p\u003e\u003cp\u003eL’événement a conduit à des évolutions des politiques d’aptitude, du partage d’informations médicales, et à des ajustements des procédures d’accès cockpit dans de nombreuses compagnies.\u003c/p\u003e"
+    },
+    {
+        "id":  "af4590-2000",
+        "title":  "Air France 4590 – Concorde à Gonesse",
+        "date":  "2000-07-25",
+        "location":  "Gonesse, France",
+        "aircraft":  "Aérospatiale‑BAC Concorde (F-BTSC)",
+        "airline":  "Air France",
+        "country":  "France",
+        "manufacturer":  "Aérospatiale/BAC",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  109,
+        "fatalities":  109,
+        "lat":  48.994,
+        "lon":  2.460,
+        "images":  [
+                       {
+                           "url":  "assets/img/af4590-2000.jpg",
+                           "caption":  "Site de l’accident (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Paris – CDG",
+                                   "iata":  "CDG",
+                                   "lat":  49.0097,
+                                   "lon":  2.5479
+                               },
+                      "to":  {
+                                 "name":  "New York – JFK",
+                                 "iata":  "JFK",
+                                 "lat":  40.6413,
+                                 "lon":  -73.7781
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "BEA – Rapport final",
+                            "url":  "https://www.bea.aero/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe 25 juillet 2000, un vol charter opéré en Concorde décolle de Paris‑CDG à destination de New York. Lors de la course, un pneu éclate après avoir percuté un débris métallique tombé d’un autre appareil ; des fragments percent un réservoir et déclenchent un incendie.\u003c/p\u003e\u003cp\u003eLa poussée devient insuffisante et la trajectoire se dégrade ; l’avion s’écrase à Gonesse peu après la rotation. L’accident met en évidence la vulnérabilité de la protection carburant face aux débris et aux éclatements de pneus à haute vitesse.\u003c/p\u003e\u003cp\u003eDes modifications techniques (revêtements, pneus renforcés, équipements) et des procédures d’inspection des pistes ont été mises en œuvre. Le type sera retiré du service quelques années plus tard.\u003c/p\u003e"
+    },
+    {
+        "id":  "pa103-1988",
+        "title":  "Pan Am 103 – Attentat de Lockerbie",
+        "date":  "1988-12-21",
+        "location":  "Lockerbie, Écosse, Royaume‑Uni",
+        "aircraft":  "Boeing 747-121 (N739PA)",
+        "airline":  "Pan Am",
+        "passengersTotal":  259,
+        "fatalities":  259,
+        "lat":  55.124,
+        "lon":  -3.355,
+        "images":  [
+                       {
+                           "url":  "assets/img/pa103-1988.jpg",
+                           "caption":  "Zone de débris (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Londres – Heathrow",
+                                   "iata":  "LHR",
+                                   "lat":  51.4700,
+                                   "lon":  -0.4543
+                               },
+                      "to":  {
+                                 "name":  "New York – JFK",
+                                 "iata":  "JFK",
+                                 "lat":  40.6413,
+                                 "lon":  -73.7781
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Crown Office",
+                            "url":  "https://www.crownoffice.gov.uk/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe vol Pan Am 103 relie Londres‑Heathrow à New York. En croisière, une bombe dissimulée dans la soute explose et provoque la désintégration de l’appareil au‑dessus de Lockerbie, causant des victimes à bord et au sol.\u003c/p\u003e\u003cp\u003eL’enquête met en évidence une attaque terroriste et des failles dans la chaîne de sûreté bagages. À la suite de l’accident, les procédures de contrôle et d’appariement passager‑bagage sont fortement renforcées, marquant un tournant dans la sûreté du transport aérien.\u003c/p\u003e"
+    },
+    {
+        "id":  "ua232-1989",
+        "title":  "United 232 – Atterrissage d’urgence à Sioux City",
+        "date":  "1989-07-19",
+        "location":  "Sioux City, Iowa, États‑Unis",
+        "aircraft":  "McDonnell Douglas DC‑10‑10 (N1819U)",
+        "airline":  "United Airlines",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  296,
+        "fatalities":  111,
+        "lat":  42.402,
+        "lon":  -96.384,
+        "images":  [
+                       {
+                           "url":  "assets/img/ua232-1989.jpg",
+                           "caption":  "Piste à Sioux City (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Denver – DEN",
+                                   "iata":  "DEN",
+                                   "lat":  39.856,
+                                   "lon":  -104.673
+                               },
+                      "to":  {
+                                 "name":  "Chicago – ORD",
+                                 "iata":  "ORD",
+                                 "lat":  41.974,
+                                 "lon":  -87.907
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR‑90/06",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe 19 juillet 1989, un DC‑10 de United relie Denver à Chicago. En croisière, la rupture explosive d’un disque fan du moteur de queue sectionne les circuits ; l’avion perd toute hydraulique.\u003c/p\u003e\u003cp\u003eLes pilotes parviennent à garder un contrôle partiel en modulant la poussée des moteurs et tentent un atterrissage d’urgence à Sioux City. Si l’impact est violent, l’action de l’équipage sauve de nombreuses vies.\u003c/p\u003e\u003cp\u003eDes inspections renforcées des disques, des ajustements de conception et des évolutions des entraînements CRM/gestion de pannes majeures en sont issus.\u003c/p\u003e"
+    },
+    {
+        "id":  "sr111-1998",
+        "title":  "Swissair 111 – Incendie en vol près d’Halifax",
+        "date":  "1998-09-02",
+        "location":  "Au large de Peggy’s Cove, Canada",
+        "aircraft":  "McDonnell Douglas MD‑11 (HB‑IWF)",
+        "airline":  "Swissair",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  229,
+        "fatalities":  229,
+        "lat":  44.39,
+        "lon":  -63.78,
+        "images":  [
+                       {
+                           "url":  "assets/img/sr111-1998.jpg",
+                           "caption":  "Zone de recherche (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "New York – JFK",
+                                   "iata":  "JFK",
+                                   "lat":  40.6413,
+                                   "lon":  -73.7781
+                               },
+                      "to":  {
+                                 "name":  "Genève – GVA",
+                                 "iata":  "GVA",
+                                 "lat":  46.238,
+                                 "lon":  6.109
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "TSB – Rapport",
+                            "url":  "https://www.tsb.gc.ca/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eSwissair 111 relie New York à Genève de nuit sur MD‑11. Des odeurs de fumée apparaissent au cockpit, amenant l’équipage à dériver vers Halifax ; la situation se dégrade très vite, plusieurs systèmes sont affectés et l’appareil s’abîme en mer près de Peggy’s Cove.\u003c/p\u003e\u003cp\u003eL’enquête met en avant des problématiques de matériaux et de câblages (notamment liés au système IFEN) et la propagation d’un feu en zones isolantes.\u003c/p\u003e\u003cp\u003eElle entraîne des recommandations sur les matériaux, l’isolation, le câblage et la gestion des situations de « fumée en cockpit ».\u003c/p\u003e"
+    },
+    {
+        "id":  "jt610-2018",
+        "title":  "Lion Air JT610 – Mer de Java",
+        "date":  "2018-10-29",
+        "location":  "Mer de Java, Indonésie",
+        "aircraft":  "Boeing 737 MAX 8 (PK‑LQP)",
+        "airline":  "Lion Air",
+        "country":  "Indonésie",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  189,
+        "fatalities":  189,
+        "lat":  -5.8,
+        "lon":  106.6,
+        "images":  [
+                       {
+                           "url":  "assets/img/jt610-2018.jpg",
+                           "caption":  "Zone de recherche (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Jakarta – CGK",
+                                   "iata":  "CGK",
+                                   "lat":  -6.127,
+                                   "lon":  106.654
+                               },
+                      "to":  {
+                                 "name":  "Pangkal Pinang – PGK",
+                                 "iata":  "PGK",
+                                 "lat":  -2.162,
+                                 "lon":  106.139
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "KNKT – Rapport final",
+                            "url":  "http://knkt.dephub.go.id/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe vol Lion Air JT610 décolle de Jakarta vers Pangkal Pinang sur 737 MAX 8. Très tôt, des données d’angle d’attaque erronées déclenchent des ordres répétitifs du MCAS à piquer.\u003c/p\u003e\u003cp\u003eMalgré les tentatives de l’équipage, la trajectoire se dégrade et l’appareil chute en mer de Java. L’accident, suivi d’un autre événement similaire, conduit à l’immobilisation mondiale des MAX.\u003c/p\u003e\u003cp\u003eDes correctifs logiciels et documentaires, ainsi qu’une formation spécifique et de nouvelles directives de navigabilité, sont déployés avant le retour en service.\u003c/p\u003e"
+    },
+    {
+        "id":  "et302-2019",
+        "title":  "Ethiopian 302 – Près de Bishoftu",
+        "date":  "2019-03-10",
+        "location":  "Près de Bishoftu, Éthiopie",
+        "aircraft":  "Boeing 737 MAX 8 (ET‑AVJ)",
+        "airline":  "Ethiopian Airlines",
+        "country":  "Éthiopie",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  157,
+        "fatalities":  157,
+        "lat":  8.877,
+        "lon":  39.251,
+        "images":  [
+                       {
+                           "url":  "assets/img/et302-2019.jpg",
+                           "caption":  "Site de l’accident (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Addis‑Abeba – ADD",
+                                   "iata":  "ADD",
+                                   "lat":  8.977,
+                                   "lon":  38.799
+                               },
+                      "to":  {
+                                 "name":  "Nairobi – NBO",
+                                 "iata":  "NBO",
+                                 "lat":  -1.319,
+                                 "lon":  36.927
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "AIB Éthiopie – Préliminaire",
+                            "url":  "https://www.ecaa.gov.et"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe 10 mars 2019, un 737 MAX au départ d’Addis‑Abeba à destination de Nairobi rencontre rapidement des ordres MCAS à piquer consécutifs à des données d’angle d’attaque erronées. L’équipage tente la reprise, mais la vitesse augmente, compliquant toute récupération, et l’avion s’écrase près de Bishoftu.\u003c/p\u003e\u003cp\u003eÀ la suite de l’accident et d’un autre événement similaire, la flotte MAX est immobilisée. Des correctifs logiciels, des mises à jour documentaires et des exigences de formation supplémentaires sont imposés avant le retour en service.\u003c/p\u003e"
+    },
+    {
+        "id":  "tk981-1974",
+        "title":  "Turkish Airlines 981 – Ermenonville",
+        "date":  "1974-03-03",
+        "location":  "Forêt d’Ermenonville, France",
+        "aircraft":  "McDonnell Douglas DC-10-10 (TC-JAV)",
+        "airline":  "Turkish Airlines",
+        "country":  "France",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  346,
+        "fatalities":  346,
+        "lat":  49.12,
+        "lon":  2.60,
+        "images":  [
+                       {
+                           "url":  "assets/img/tk981-1974.jpg",
+                           "caption":  "Zone d’Ermenonville (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Paris – Orly",
+                                   "iata":  "ORY",
+                                   "lat":  48.726,
+                                   "lon":  2.365
+                               },
+                      "to":  {
+                                 "name":  "Londres – Heathrow",
+                                 "iata":  "LHR",
+                                 "lat":  51.470,
+                                 "lon":  -0.454
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "BEA – Synthèse",
+                            "url":  "https://www.bea.aero/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eLe vol intérieur européen relie Paris-Orly à Londres-Heathrow après une correspondance d’Istanbul.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003ePeu après le décollage, la porte de soute arrière mal verrouillée s’ouvre en vol, provoquant une décompression explosive. La déformation du plancher endommage les commandes; l’avion devient incontrôlable et s’écrase en forêt.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eVulnérabilités de conception/indication de verrouillage de la porte soute et procédures de chargement inadaptées.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eModifications des portes soutes DC-10 et renforcement des procédures de manutention/inspection.\u003c/p\u003e"
+    },
+    {
+        "id":  "aa191-1979",
+        "title":  "American Airlines 191 – Chicago O’Hare",
+        "date":  "1979-05-25",
+        "location":  "Chicago O’Hare, États-Unis",
+        "aircraft":  "McDonnell Douglas DC-10-10 (N110AA)",
+        "airline":  "American Airlines",
+        "country":  "États-Unis",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  271,
+        "fatalities":  271,
+        "lat":  42.005,
+        "lon":  -87.935,
+        "images":  [
+                       {
+                           "url":  "assets/img/aa191-1979.jpg",
+                           "caption":  "Proximité d’O’Hare (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Chicago – ORD",
+                                   "iata":  "ORD",
+                                   "lat":  41.974,
+                                   "lon":  -87.907
+                               },
+                      "to":  {
+                                 "name":  "Los Angeles – LAX",
+                                 "iata":  "LAX",
+                                 "lat":  33.942,
+                                 "lon":  -118.408
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – Rapport",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eDécollage d’ORD vers LAX sur DC-10 par météo VMC.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eÀ la rotation, le moteur gauche se détache, endommageant des systèmes. La portance se dégrade asymétriquement; l’appareil s’incline et s’écrase à proximité.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eProcédure de maintenance inappropriée ayant fragilisé les ferrures du pylône; contrôles/supervision insuffisants.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eRévisions de maintenance, inspections obligatoires et surveillance FAA accrues.\u003c/p\u003e"
+    },
+    {
+        "id":  "kal007-1983",
+        "title":  "Korean Air Lines 007 – Détournement de trajectoire",
+        "date":  "1983-09-01",
+        "location":  "Près de l’île Moneron, Sakhaline",
+        "aircraft":  "Boeing 747-230B (HL7442)",
+        "airline":  "Korean Air Lines",
+        "country":  "Russie",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  269,
+        "fatalities":  269,
+        "lat":  46.5,
+        "lon":  141.5,
+        "images":  [
+                       {
+                           "url":  "assets/img/kal007-1983.jpg",
+                           "caption":  "Mer du Japon (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Anchorage – ANC",
+                                   "iata":  "ANC",
+                                   "lat":  61.174,
+                                   "lon":  -149.996
+                               },
+                      "to":  {
+                                 "name":  "Séoul – Gimpo",
+                                 "iata":  "GMP",
+                                 "lat":  37.558,
+                                 "lon":  126.791
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "ICAO – Rapport",
+                            "url":  "https://www.icao.int/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eVol de nuit avec navigation INS, dans le contexte de la Guerre froide.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eUne erreur de navigation conduit l’avion en espace aérien soviétique; intercepté, il est abattu au large de Sakhaline.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eGestion défaillante de la navigation INS et décision d’interception létale des défenses soviétiques.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eAnnonce d’ouverture du GPS au civil; débat sur navigation/ATC en zones sensibles.\u003c/p\u003e"
+    },
+    {
+        "id":  "ai182-1985",
+        "title":  "Air India 182 – Atlantique au large de l’Irlande",
+        "date":  "1985-06-23",
+        "location":  "Océan Atlantique, au large de l’Irlande",
+        "aircraft":  "Boeing 747-237B (VT-EFO)",
+        "airline":  "Air India",
+        "country":  "Océan Atlantique",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  329,
+        "fatalities":  329,
+        "lat":  51.0,
+        "lon":  -11.5,
+        "images":  [
+                       {
+                           "url":  "assets/img/ai182-1985.jpg",
+                           "caption":  "Zone de recherche (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Montréal – YUL",
+                                   "iata":  "YUL",
+                                   "lat":  45.470,
+                                   "lon":  -73.740
+                               },
+                      "to":  {
+                                 "name":  "Londres – Heathrow",
+                                 "iata":  "LHR",
+                                 "lat":  51.470,
+                                 "lon":  -0.454
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Gouvernement du Canada – dossier",
+                            "url":  "https://www.publicsafety.gc.ca/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eVol transatlantique YUL → LHR sur 747.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eUne bombe explose en soute; l’avion se désintègre en vol et chute en mer.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eAttentat terroriste rendu possible par des failles dans la chaîne bagages/sûreté.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eRenforcement du screening, appariement passager-bagage et contrôle des expéditions.\u003c/p\u003e"
+    },
+    {
+        "id":  "twa800-1996",
+        "title":  "TWA 800 – Large de Long Island",
+        "date":  "1996-07-17",
+        "location":  "Au large de Long Island, États-Unis",
+        "aircraft":  "Boeing 747-131 (N93119)",
+        "airline":  "Trans World Airlines",
+        "country":  "États-Unis",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  230,
+        "fatalities":  230,
+        "lat":  40.64,
+        "lon":  -72.64,
+        "images":  [
+                       {
+                           "url":  "assets/img/twa800-1996.jpg",
+                           "caption":  "Côte de Long Island (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "New York – JFK",
+                                   "iata":  "JFK",
+                                   "lat":  40.6413,
+                                   "lon":  -73.7781
+                               },
+                      "to":  {
+                                 "name":  "Paris – CDG",
+                                 "iata":  "CDG",
+                                 "lat":  49.0097,
+                                 "lon":  2.5479
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR-00/03",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eVol JFK → CDG au crépuscule.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eExplosion du réservoir central; rupture en vol et chute en mer.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eInflammation de vapeurs carburant (source électrique/thermique probable) dans un réservoir chauffé.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eInertage, câblages/ventilation renforcés et directives SFAR 88.\u003c/p\u003e"
+    },
+    {
+        "id":  "valu592-1996",
+        "title":  "ValuJet 592 – Everglades",
+        "date":  "1996-05-11",
+        "location":  "Everglades, Floride, États-Unis",
+        "aircraft":  "McDonnell Douglas DC-9-32 (N904VJ)",
+        "airline":  "ValuJet Airlines",
+        "country":  "États-Unis",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  110,
+        "fatalities":  110,
+        "lat":  25.86,
+        "lon":  -80.57,
+        "images":  [
+                       {
+                           "url":  "assets/img/valu592-1996.jpg",
+                           "caption":  "Everglades (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Miami – MIA",
+                                   "iata":  "MIA",
+                                   "lat":  25.793,
+                                   "lon":  -80.290
+                               },
+                      "to":  {
+                                 "name":  "Atlanta – ATL",
+                                 "iata":  "ATL",
+                                 "lat":  33.640,
+                                 "lon":  -84.427
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR-97/06",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eLiaison MIA → ATL sur DC-9.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eIncendie de soute (générateurs d’oxygène mal emballés), fumées en cabine; perte de contrôle, impact.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eGestion des matières dangereuses et supervision maintenance défaillantes.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eRéglementation hazmat durcie, contrôles ateliers et détection incendie soutes.\u003c/p\u003e"
+    },
+    {
+        "id":  "la004-1991",
+        "title":  "Lauda Air 004 – Thaïlande",
+        "date":  "1991-05-26",
+        "location":  "Province de Suphanburi, Thaïlande",
+        "aircraft":  "Boeing 767-3Z9ER (OE-LAV)",
+        "airline":  "Lauda Air",
+        "country":  "Thaïlande",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  223,
+        "fatalities":  223,
+        "lat":  14.85,
+        "lon":  99.45,
+        "images":  [
+                       {
+                           "url":  "assets/img/la004-1991.jpg",
+                           "caption":  "Région de Suphanburi (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Bangkok – Don Mueang",
+                                   "iata":  "DMK",
+                                   "lat":  13.912,
+                                   "lon":  100.607
+                               },
+                      "to":  {
+                                 "name":  "Vienne – VIE",
+                                 "iata":  "VIE",
+                                 "lat":  48.110,
+                                 "lon":  16.569
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Rapport thaïlandais",
+                            "url":  "https://www.flightglobal.com/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eDépart DMK → VIE, météo favorable.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eSortie inopinée d’un inverseur de poussée en montée; perte de contrôle et rupture en vol.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eLogique/validation des inverseurs insuffisantes et hypothèses de certification inadaptées.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eModifications de verrouillage, procédures et consignes de navigabilité.\u003c/p\u003e"
+    },
+    {
+        "id":  "as261-2000",
+        "title":  "Alaska Airlines 261 – Pacifique au large de la Californie",
+        "date":  "2000-01-31",
+        "location":  "Océan Pacifique, au large de la Californie",
+        "aircraft":  "McDonnell Douglas MD-83 (N963AS)",
+        "airline":  "Alaska Airlines",
+        "country":  "États-Unis",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  88,
+        "fatalities":  88,
+        "lat":  34.30,
+        "lon":  -119.50,
+        "images":  [
+                       {
+                           "url":  "assets/img/as261-2000.jpg",
+                           "caption":  "Au large d’Anacapa (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Puerto Vallarta – PVR",
+                                   "iata":  "PVR",
+                                   "lat":  20.680,
+                                   "lon":  -105.254
+                               },
+                      "to":  {
+                                 "name":  "San Francisco – SFO",
+                                 "iata":  "SFO",
+                                 "lat":  37.621,
+                                 "lon":  -122.379
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR-02/01",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eLe vol AS261 assure une liaison PVR → SFO en MD‑83.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eUne usure et un grippage du vérin (jackscrew) du stabilisateur horizontal entraînent une perte de contrôle; l’avion s’abîme en mer.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eInsuffisance de lubrification et d’inspections; manquements organisationnels.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eRenforcement des intervalles de maintenance et de la surveillance réglementaire.\u003c/p\u003e"
+    },
+    {
+        "id":  "ci611-2002",
+        "title":  "China Airlines 611 – Détroit de Taïwan",
+        "date":  "2002-05-25",
+        "location":  "Détroit de Taïwan",
+        "aircraft":  "Boeing 747-209B (B-18255)",
+        "airline":  "China Airlines",
+        "country":  "Taïwan",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  225,
+        "fatalities":  225,
+        "lat":  23.90,
+        "lon":  119.70,
+        "images":  [
+                       {
+                           "url":  "assets/img/ci611-2002.jpg",
+                           "caption":  "Détroit de Taïwan (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Taipei – TPE",
+                                   "iata":  "TPE",
+                                   "lat":  25.080,
+                                   "lon":  121.232
+                               },
+                      "to":  {
+                                 "name":  "Hong Kong – HKG",
+                                 "iata":  "HKG",
+                                 "lat":  22.308,
+                                 "lon":  113.918
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "ASC Taiwan – Rapport",
+                            "url":  "https://www.asc.gov.tw/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eCI611 relie Taipei à Hong Kong.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eLe fuselage se rompt en vol à la suite d’une réparation inadéquate datant d’un ancien tailstrike, causant une rupture par fatigue.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eRévision des pratiques de réparation/inspection et contrôles de flotte.\u003c/p\u003e"
+    },
+    {
+        "id":  "btk2937-2002",
+        "title":  "Überlingen – Collision en vol (Bashkirian 2937 / DHL 611)",
+        "date":  "2002-07-01",
+        "location":  "Près d’Überlingen, Allemagne",
+        "aircraft":  "Tu‑154M \u0026 Boeing 757‑23APF",
+        "airline":  "Bashkirian Airlines / DHL",
+        "country":  "Allemagne",
+        "manufacturer":  "Tupolev/Boeing",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  71,
+        "fatalities":  71,
+        "lat":  47.98,
+        "lon":  9.25,
+        "images":  [
+                       {
+                           "url":  "assets/img/btk2937-2002.jpg",
+                           "caption":  "Région du lac de Constance (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Moscou – DME",
+                                   "iata":  "DME",
+                                   "lat":  55.41,
+                                   "lon":  37.90
+                               },
+                      "to":  {
+                                 "name":  "Barcelone – BCN",
+                                 "iata":  "BCN",
+                                 "lat":  41.297,
+                                 "lon":  2.078
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "BFU Allemagne – Rapport",
+                            "url":  "https://www.bfu-web.de/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eDeux appareils en croisière nocturne sous contrôle régional se rapprochent dangereusement.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eDes instructions ATC tardives et des avis TCAS contradictoires aboutissent à des manœuvres opposées; les trajectoires se croisent et la collision survient.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003ePriorité au TCAS réaffirmée; améliorations des procédures et de la technique de contrôle.\u003c/p\u003e"
+    },
+    {
+        "id":  "sp5022-2008",
+        "title":  "Spanair 5022 – Madrid-Barajas",
+        "date":  "2008-08-20",
+        "location":  "Madrid-Barajas, Espagne",
+        "aircraft":  "McDonnell Douglas MD-82 (EC-HFP)",
+        "airline":  "Spanair",
+        "country":  "Espagne",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  172,
+        "fatalities":  154,
+        "lat":  40.49,
+        "lon":  -3.57,
+        "images":  [
+                       {
+                           "url":  "assets/img/sp5022-2008.jpg",
+                           "caption":  "Barajas – zone de l’accident (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Madrid – MAD",
+                                   "iata":  "MAD",
+                                   "lat":  40.472,
+                                   "lon":  -3.561
+                               },
+                      "to":  {
+                                 "name":  "Las Palmas – LPA",
+                                 "iata":  "LPA",
+                                 "lat":  27.9319,
+                                 "lon":  -15.3866
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "CIAIAC – Rapport",
+                            "url":  "https://www.mitma.gob.es/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eDépart de MAD vers LPA par forte chaleur; un premier décollage a été avorté.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eL’avion décolle sans volets/becs et l’alarme TOWS ne retentit pas; décrochage après rotation.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eFiabilisation TOWS, maintenance renforcée et culture sécurité.\u003c/p\u003e"
+    },
+    {
+        "id":  "af90-1982",
+        "title":  "Air Florida 90 – Pont sur le Potomac",
+        "date":  "1982-01-13",
+        "location":  "Potomac, Washington D.C., États-Unis",
+        "aircraft":  "Boeing 737-222 (N62AF)",
+        "airline":  "Air Florida",
+        "country":  "États-Unis",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  79,
+        "fatalities":  74,
+        "lat":  38.87,
+        "lon":  -77.05,
+        "images":  [
+                       {
+                           "url":  "assets/img/af90-1982.jpg",
+                           "caption":  "Pont 14th Street – zone (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Washington – DCA",
+                                   "iata":  "DCA",
+                                   "lat":  38.853,
+                                   "lon":  -77.043
+                               },
+                      "to":  {
+                                 "name":  "Fort Lauderdale – FLL",
+                                 "iata":  "FLL",
+                                 "lat":  26.072,
+                                 "lon":  -80.152
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – Rapport",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eConditions hivernales; dégivrage réalisé mais attente prolongée.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eContamination des ailes et poussée insuffisante dégradent les performances; décrochage et impact sur le pont.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eProcédures hivernales/formation équipages renforcées.\u003c/p\u003e"
+    },
+    {
+        "id":  "aa587-2001",
+        "title":  "American Airlines 587 – Belle Harbor",
+        "date":  "2001-11-12",
+        "location":  "Belle Harbor, Queens, États-Unis",
+        "aircraft":  "Airbus A300-605R (N14053)",
+        "airline":  "American Airlines",
+        "country":  "États-Unis",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  260,
+        "fatalities":  260,
+        "lat":  40.59,
+        "lon":  -73.83,
+        "images":  [
+                       {
+                           "url":  "assets/img/aa587-2001.jpg",
+                           "caption":  "Quartier de Belle Harbor (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "New York – JFK",
+                                   "iata":  "JFK",
+                                   "lat":  40.6413,
+                                   "lon":  -73.7781
+                               },
+                      "to":  {
+                                 "name":  "Saint-Domingue – SDQ",
+                                 "iata":  "SDQ",
+                                 "lat":  18.430,
+                                 "lon":  -69.676
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR-04/04",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eDépart JFK → SDQ, turbulences de sillage d’un gros porteur précédent.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eEntrées palonnier amples et alternées; surcharge dérive; séparation de l’empennage.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eRévisions d’entraînement palonnier et consignes constructeur/autorités.\u003c/p\u003e"
+    },
+    {
+        "id":  "su593-1994",
+        "title":  "Aeroflot 593 – Montagnes de Sibérie",
+        "date":  "1994-03-23",
+        "location":  "Près de Mezhdurechensk, Russie",
+        "aircraft":  "Airbus A310-304 (F-OGQS)",
+        "airline":  "Aeroflot",
+        "country":  "Russie",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  75,
+        "fatalities":  75,
+        "lat":  52.00,
+        "lon":  87.90,
+        "images":  [
+                       {
+                           "url":  "assets/img/su593-1994.jpg",
+                           "caption":  "Massif montagneux – Sibérie (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Moscou – SVO",
+                                   "iata":  "SVO",
+                                   "lat":  55.972,
+                                   "lon":  37.414
+                               },
+                      "to":  {
+                                 "name":  "Hong Kong – HKG",
+                                 "iata":  "HKG",
+                                 "lat":  22.308,
+                                 "lon":  113.918
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "IAC (Russie)",
+                            "url":  "http://mak-iac.org/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eVol SVO → HKG en A310; proches autorisés au cockpit.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eAction involontaire sur le manche désengage partiellement l’AP; perte de contrôle en zone montagneuse.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eDiscipline cockpit renforcée; formation aux modes automatiques.\u003c/p\u003e"
+    },
+    {
+        "id":  "hel522-2005",
+        "title":  "Helios Airways 522 – Grammatiko",
+        "date":  "2005-08-14",
+        "location":  "Près de Grammatiko, Grèce",
+        "aircraft":  "Boeing 737-31S (5B-DBY)",
+        "airline":  "Helios Airways",
+        "country":  "Grèce",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  121,
+        "fatalities":  121,
+        "lat":  38.13,
+        "lon":  23.97,
+        "images":  [
+                       {
+                           "url":  "assets/img/hel522-2005.jpg",
+                           "caption":  "Zone de Grammatiko (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Larnaca – LCA",
+                                   "iata":  "LCA",
+                                   "lat":  34.882,
+                                   "lon":  33.630
+                               },
+                      "to":  {
+                                 "name":  "Prague – PRG",
+                                 "iata":  "PRG",
+                                 "lat":  50.100,
+                                 "lon":  14.260
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "AAIASB – Rapport",
+                            "url":  "https://aaiasb.gr/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eVol LCA → PRG (escale ATH prévue). Après maintenance, la pressurisation reste mal configurée.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eHypoxie de l’équipage; poursuite en pilote automatique jusqu’à épuisement carburant et impact.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eAlertes/Procédures de pressurisation revues et contrôles pré‑vol renforcés.\u003c/p\u003e"
+    },
+    {
+        "id":  "ts236-2001",
+        "title":  "Air Transat 236 – Plané jusqu’aux Açores",
+        "date":  "2001-08-24",
+        "location":  "Base de Lajes, Açores, Portugal",
+        "aircraft":  "Airbus A330-243 (C-GITS)",
+        "airline":  "Air Transat",
+        "country":  "Portugal (Açores)",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  306,
+        "fatalities":  0,
+        "lat":  38.761,
+        "lon":  -27.090,
+        "images":  [
+                       {
+                           "url":  "assets/img/ts236-2001.jpg",
+                           "caption":  "Atterrissage à Lajes (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Toronto – YYZ",
+                                   "iata":  "YYZ",
+                                   "lat":  43.677,
+                                   "lon":  -79.624
+                               },
+                      "to":  {
+                                 "name":  "Lisbonne – LIS",
+                                 "iata":  "LIS",
+                                 "lat":  38.774,
+                                 "lon":  -9.134
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "GPIAAF – Rapport final",
+                            "url":  "https://www.gpiaa.gov.pt"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eVol transatlantique YYZ → LIS.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eFuite carburant non détectée; panne sèche des deux moteurs; long plané et atterrissage sans poussée à Lajes.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eProcédures de maintenance/diagnostic carburant renforcées et reconnaissance de l’équipage.\u003c/p\u003e"
+    },
+    {
+        "id":  "selfridge-1908",
+        "title":  "Fort Myer 1908 – Premier décès en avion (Thomas E. Selfridge)",
+        "date":  "1908-09-17",
+        "location":  "Fort Myer, Virginie, États‑Unis",
+        "aircraft":  "Wright Model A (Wright Flyer)",
+        "airline":  "Wright Brothers (vol de démonstration)",
+        "country":  "États‑Unis",
+        "manufacturer":  "Wright",
+        "phaseOfFlight":  "Démonstration",
+        "passengersTotal":  2,
+        "fatalities":  1,
+        "lat":  38.879,
+        "lon":  -77.071,
+        "images":  [
+                       {
+                           "url":  "assets/img/selfridge-1908.jpg",
+                           "caption":  "Wright Model A à Fort Myer (illustration)."
+                       }
+                   ],
+        "sources":  [
+                        {
+                            "title":  "Wikipédia (fr) – Thomas Selfridge",
+                            "url":  "https://fr.wikipedia.org/wiki/Thomas_Selfridge"
+                        },
+                        {
+                            "title":  "Smithsonian – Fort Myer Crash",
+                            "url":  "https://airandspace.si.edu/"
+                        }
+                    ],
+        "description":  "\u003ch3\u003eContexte\u003c/h3\u003e\u003cp\u003eÀ l’automne 1908, Orville Wright effectue une série de vols de démonstration pour l’Armée américaine à Fort Myer. Le lieutenant Thomas E. Selfridge, observateur invité, prend place comme passager.\u003c/p\u003e\u003ch3\u003eDéroulement\u003c/h3\u003e\u003cp\u003eAu cours d’un tour de piste, une pale d’hélice se fissure puis se brise, provoquant de fortes vibrations et l’endommagement des commandes. L’appareil perd de l’altitude et s’écrase après une tentative de retour vers le terrain.\u003c/p\u003e\u003ch3\u003eCauses\u003c/h3\u003e\u003cp\u003eRupture d’hélice due à une faiblesse matérielle et aux contraintes vibratoires; défaillance consécutive des éléments de commande.\u003c/p\u003e\u003ch3\u003eConséquences\u003c/h3\u003e\u003cp\u003eSelfridge décède des suites de ses blessures, devenant la première victime de l’aviation motorisée. L’événement conduit les Wright à renforcer la conception des hélices et les procédures d’essais.\u003c/p\u003e"
+    },
+    {
+        "id":  "aa965-1995",
+        "title":  "American Airlines 965 – Collision avec terrain près de Cali",
+        "date":  "1995-12-20",
+        "location":  "Près de Cali (Buga), Colombie",
+        "aircraft":  "Boeing 757-223 (N651AA)",
+        "airline":  "American Airlines",
+        "country":  "Colombie",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  163,
+        "fatalities":  159,
+        "lat":  3.562,
+        "lon":  -76.491,
+        "images":  [
+                       {
+                           "url":  "assets/img/aa965-1995.jpg",
+                           "caption":  "Vallée de Cali (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Miami – MIA",
+                                   "iata":  "MIA",
+                                   "lat":  25.793,
+                                   "lon":  -80.290
+                               },
+                      "to":  {
+                                 "name":  "Cali – CLO",
+                                 "iata":  "CLO",
+                                 "lat":  3.543,
+                                 "lon":  -76.381
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – Rapport (résumé)",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eEn approche de Cali de nuit, l’équipage du B757 modifie la clairance et prépare une arrivée directe, dans un environnement radio chargé et avec un relief marqué. Une mauvaise sélection radio-navigation et une conscience situationnelle dégradée amènent l’avion hors de la trajectoire protégée.\u003c/p\u003e\u003cp\u003eLa descente se poursuit dans la vallée sans références visuelles suffisantes. L’appareil heurte un relief près de Buga. L’enquête mettra en avant des facteurs de gestion du vol (FMS), la charge de travail et la communication ATC.\u003c/p\u003e\u003cp\u003eL’accident entraîne des améliorations de procédures, de bases de données FMS et de la gestion des approches non stabilisées, ainsi que de la formation à la conscience situationnelle terrain.\u003c/p\u003e"
+    },
+    {
+        "id":  "ke801-1997",
+        "title":  "Korean Air 801 – Impact en approche de Guam",
+        "date":  "1997-08-06",
+        "location":  "Nimitz Hill, Guam (USA)",
+        "aircraft":  "Boeing 747-3B5 (HL7468)",
+        "airline":  "Korean Air",
+        "country":  "États-Unis (Guam)",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  254,
+        "fatalities":  228,
+        "lat":  13.485,
+        "lon":  144.789,
+        "images":  [
+                       {
+                           "url":  "assets/img/ke801-1997.jpg",
+                           "caption":  "Nimitz Hill (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Séoul – Gimpo",
+                                   "iata":  "GMP",
+                                   "lat":  37.558,
+                                   "lon":  126.791
+                               },
+                      "to":  {
+                                 "name":  "Guam – GUM",
+                                 "iata":  "GUM",
+                                 "lat":  13.483,
+                                 "lon":  144.797
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eEn approche nocturne à Guam par météo dégradée, l’équipage intercepte le plan sans disposer de toutes les aides (glide inutilisable). La gestion de l’énergie et la surveillance altitude/relief deviennent insuffisantes.\u003c/p\u003e\u003cp\u003eÀ l’issue d’une approche non stabilisée, l’avion percute Nimitz Hill avant la piste. L’enquête souligne des lacunes CRM, la préparation de l’approche et l’usage des aides disponibles.\u003c/p\u003e\u003cp\u003eDes améliorations de procédures d’approche, de formation CRM et de systèmes d’alerte terrain (EGPWS) sont déployées.\u003c/p\u003e"
+    },
+    {
+        "id":  "anz901-1979",
+        "title":  "Air New Zealand 901 – Mont Erebus, Antarctique",
+        "date":  "1979-11-28",
+        "location":  "Mont Erebus, Antarctique",
+        "aircraft":  "McDonnell Douglas DC-10-30 (ZK-NZP)",
+        "airline":  "Air New Zealand",
+        "country":  "Antarctique",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  257,
+        "fatalities":  257,
+        "lat":  -77.53,
+        "lon":  167.17,
+        "images":  [
+                       {
+                           "url":  "assets/img/anz901-1979.jpg",
+                           "caption":  "Région du Mont Erebus (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Auckland – AKL",
+                                   "iata":  "AKL",
+                                   "lat":  -37.008,
+                                   "lon":  174.791
+                               },
+                      "to":  {
+                                 "name":  "Vol touristique Antarctique",
+                                 "iata":  "",
+                                 "lat":  -77.85,
+                                 "lon":  166.67
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Commission Mahon",
+                            "url":  "https://teara.govt.nz/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLors d’un vol touristique vers l’Antarctique, des coordonnées de route ont été modifiées à l’insu de l’équipage. Conjuguée à des illusions visuelles en lumière diffuse, la trajectoire mène l’avion au pied du Mont Erebus.\u003c/p\u003e\u003cp\u003eSans perception du relief, le DC‑10 heurte la montagne. L’enquête met en cause la modification de la route, la gestion opérationnelle et les illusions visuelles.\u003c/p\u003e\u003cp\u003eElle entraîne des changements sur la préparation de vols spéciaux, le contrôle des bases de données et la prise en compte des illusions en environnements polaires.\u003c/p\u003e"
+    },
+    {
+        "id":  "sq006-2000",
+        "title":  "Singapore Airlines 006 – Mauvaise piste à Taipei",
+        "date":  "2000-10-31",
+        "location":  "Aéroport TPE, Taïwan",
+        "aircraft":  "Boeing 747-412 (9V-SPK)",
+        "airline":  "Singapore Airlines",
+        "country":  "Taïwan",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  179,
+        "fatalities":  83,
+        "lat":  25.077,
+        "lon":  121.234,
+        "images":  [
+                       {
+                           "url":  "assets/img/sq006-2000.jpg",
+                           "caption":  "CKS/Taoyuan – axes de pistes (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Taipei – TPE",
+                                   "iata":  "TPE",
+                                   "lat":  25.080,
+                                   "lon":  121.232
+                               },
+                      "to":  {
+                                 "name":  "Los Angeles – LAX",
+                                 "iata":  "LAX",
+                                 "lat":  33.942,
+                                 "lon":  -118.408
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "ASC Taiwan – Rapport",
+                            "url":  "https://www.asc.gov.tw/"
+                        }
+                    ],
+        "description":  "\u003cp\u003ePar nuit d’orage, le 747 s’aligne par erreur sur une piste fermée encombrée d’engins. La visibilité réduite et la signalisation temporaire contribuent à la confusion.\u003c/p\u003e\u003cp\u003eLa course de décollage est interrompue trop tard après des impacts avec les obstacles. L’événement souligne la nécessité d’une conscience stricte de position au sol et d’une signalisation claire lors de fermetures.\u003c/p\u003e\u003cp\u003eLes aéroports et compagnies renforcent procédures sol, NOTAM et marquages, et diffusent les enseignements.\u003c/p\u003e"
+    },
+    {
+        "id":  "jj3054-2007",
+        "title":  "TAM 3054 – Sortie de piste à São Paulo‑Congonhas",
+        "date":  "2007-07-17",
+        "location":  "São Paulo‑Congonhas (CGH), Brésil",
+        "aircraft":  "Airbus A320-233 (PR-MBK)",
+        "airline":  "TAM Linhas Aéreas",
+        "country":  "Brésil",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Atterrissage",
+        "passengersTotal":  187,
+        "fatalities":  187,
+        "lat":  -23.626,
+        "lon":  -46.656,
+        "images":  [
+                       {
+                           "url":  "assets/img/jj3054-2007.jpg",
+                           "caption":  "Piste courte et environnement urbain (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Porto Alegre – POA",
+                                   "iata":  "POA",
+                                   "lat":  -29.993,
+                                   "lon":  -51.171
+                               },
+                      "to":  {
+                                 "name":  "São Paulo – CGH",
+                                 "iata":  "CGH",
+                                 "lat":  -23.626,
+                                 "lon":  -46.656
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "CENIPA – Rapport",
+                            "url":  "https://www2.fab.mil.br/cenipa/"
+                        }
+                    ],
+        "description":  "\u003cp\u003ePar pluie intense, l’A320 atterrit à Congonhas au terme d’une approche complexe. Un levier de poussée laissé sur la position MAX REV empêche la symétrie des inverseurs; la poussée asymétrique et la piste courte conduisent à la sortie de piste et à l’impact contre un bâtiment.\u003c/p\u003e\u003cp\u003eLe drame accélère l’amélioration des procédures d’atterrissage sur pistes mouillées, la gestion des réverses et la politique d’activation/désactivation des inverseurs, ainsi que la gestion du risque à Congonhas.\u003c/p\u003e"
+    },
+    {
+        "id":  "aix812-2010",
+        "title":  "Air India Express 812 – Sortie de piste à Mangalore",
+        "date":  "2010-05-22",
+        "location":  "Mangalore (IXE), Inde",
+        "aircraft":  "Boeing 737-8HG (VT-AXV)",
+        "airline":  "Air India Express",
+        "country":  "Inde",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Atterrissage",
+        "passengersTotal":  166,
+        "fatalities":  158,
+        "lat":  12.961,
+        "lon":  74.889,
+        "images":  [
+                       {
+                           "url":  "assets/img/aix812-2010.jpg",
+                           "caption":  "Table‑top runway de Mangalore (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Dubai – DXB",
+                                   "iata":  "DXB",
+                                   "lat":  25.253,
+                                   "lon":  55.364
+                               },
+                      "to":  {
+                                 "name":  "Mangalore – IXE",
+                                 "iata":  "IXE",
+                                 "lat":  12.961,
+                                 "lon":  74.889
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "AAI Inde – Rapport",
+                            "url":  "https://dgca.gov.in/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eAprès une approche instable et une remise de gaz avortée, le 737 atterrit long sur une piste « table‑top ». L’avion dépasse l’extrémité et dévale le talus.\u003c/p\u003e\u003cp\u003eLes autorités revoient l’entraînement à l’approche stabilisée, la décision d’atterrissage/remise de gaz et la gestion du risque propre aux pistes en plateau.\u003c/p\u003e"
+    },
+    {
+        "id":  "pia8303-2020",
+        "title":  "Pakistan International 8303 – Crash en approche de Karachi",
+        "date":  "2020-05-22",
+        "location":  "Karachi (KHI), Pakistan",
+        "aircraft":  "Airbus A320-214 (AP-BLD)",
+        "airline":  "Pakistan International Airlines",
+        "country":  "Pakistan",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  99,
+        "fatalities":  97,
+        "lat":  24.906,
+        "lon":  67.161,
+        "images":  [
+                       {
+                           "url":  "assets/img/pia8303-2020.jpg",
+                           "caption":  "Zone urbaine près de KHI (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Lahore – LHE",
+                                   "iata":  "LHE",
+                                   "lat":  31.521,
+                                   "lon":  74.406
+                               },
+                      "to":  {
+                                 "name":  "Karachi – KHI",
+                                 "iata":  "KHI",
+                                 "lat":  24.906,
+                                 "lon":  67.161
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "AAIB Pakistan – Rapport",
+                            "url":  "https://www.caapakistan.com.pk/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eEn approche à Karachi, l’A320 effectue une première tentative avec train non sorti et touche les moteurs sur la piste, puis remet les gaz. La dégradation des paramètres conduit à une perte de puissance et l’avion s’écrase dans une zone urbaine lors du retour.\u003c/p\u003e\u003cp\u003eL’accident met en avant la rigueur requise pour l’approche stabilisée, le respect des paramètres minima et la prise de décision.\u003c/p\u003e"
+    },
+    {
+        "id":  "co3407-2009",
+        "title":  "Colgan Air 3407 – Perte de contrôle en approche de Buffalo",
+        "date":  "2009-02-12",
+        "location":  "Clarence Center, New York (USA)",
+        "aircraft":  "DHC-8-402 Q400 (N200WQ)",
+        "airline":  "Colgan Air (Continental Connection)",
+        "country":  "États-Unis",
+        "manufacturer":  "De Havilland Canada",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  49,
+        "fatalities":  49,
+        "lat":  43.022,
+        "lon":  -78.702,
+        "images":  [
+                       {
+                           "url":  "assets/img/co3407-2009.jpg",
+                           "caption":  "Zone résidentielle – Clarence Center (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Newark – EWR",
+                                   "iata":  "EWR",
+                                   "lat":  40.689,
+                                   "lon":  -74.174
+                               },
+                      "to":  {
+                                 "name":  "Buffalo – BUF",
+                                 "iata":  "BUF",
+                                 "lat":  42.939,
+                                 "lon":  -78.730
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR-10/01",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003ePar conditions givrantes, le Q400 connaît une alerte de décrochage en approche. Les réactions inadaptées aux avertissements et une mauvaise gestion des automatismes conduisent à une perte de contrôle et à un impact en zone résidentielle.\u003c/p\u003e\u003cp\u003eDes révisions d’entraînement au décrochage, de politiques de repos et de supervision des opérations régionales suivront.\u003c/p\u003e"
+    },
+    {
+        "id":  "bi301-1996",
+        "title":  "Birgenair 301 – Perte de vitesse indiquée au décollage",
+        "date":  "1996-02-06",
+        "location":  "Au large de Puerto Plata, République dominicaine",
+        "aircraft":  "Boeing 757-225 (TC-GEN)",
+        "airline":  "Birgenair",
+        "country":  "République dominicaine",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  189,
+        "fatalities":  189,
+        "lat":  19.75,
+        "lon":  -70.55,
+        "images":  [
+                       {
+                           "url":  "assets/img/bi301-1996.jpg",
+                           "caption":  "Côte nord – Puerto Plata (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Puerto Plata – POP",
+                                   "iata":  "POP",
+                                   "lat":  19.757,
+                                   "lon":  -70.570
+                               },
+                      "to":  {
+                                 "name":  "Francfort – FRA",
+                                 "iata":  "FRA",
+                                 "lat":  50.037,
+                                 "lon":  8.562
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Junta de Aviación – Rapport",
+                            "url":  "https://www.gob.do/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eAu décollage de nuit, une sonde Pitot obstruée fournit une vitesse erronée. La confusion qui s’ensuit, mêlant divergences d’instruments et gestion des automatismes, conduit à une perte de contrôle au-dessus de la mer.\u003c/p\u003e\u003cp\u003eL’événement rappelle l’importance des protections des sondes au sol, du diagnostic d’anomalies anémométriques et des procédures d’urgence associées.\u003c/p\u003e"
+    },
+    {
+        "id":  "pl603-1996",
+        "title":  "Aeroperú 603 – Indications erronées et perte de contrôle en mer",
+        "date":  "1996-10-02",
+        "location":  "Pacifique au large de Lima, Pérou",
+        "aircraft":  "Boeing 757-23A (N52AW)",
+        "airline":  "Aeroperú",
+        "country":  "Pérou",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  70,
+        "fatalities":  70,
+        "lat":  -12.20,
+        "lon":  -77.50,
+        "images":  [
+                       {
+                           "url":  "assets/img/pl603-1996.jpg",
+                           "caption":  "Large de Lima (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Lima – LIM",
+                                   "iata":  "LIM",
+                                   "lat":  -12.022,
+                                   "lon":  -77.114
+                               },
+                      "to":  {
+                                 "name":  "Santiago – SCL",
+                                 "iata":  "SCL",
+                                 "lat":  -33.397,
+                                 "lon":  -70.793
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB/FAA – Dossiers",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eAprès décollage de Lima, des bandes adhésives oubliées sur les orifices statiques faussent l’ensemble des paramètres de vol. L’équipage lutte contre des alarmes contradictoires et perd la conscience situationnelle.\u003c/p\u003e\u003cp\u003eLa perte de contrôle survient au-dessus du Pacifique. Le cas conduit à des audits de maintenance et à un accent sur les inspections visuelles critiques avant vol.\u003c/p\u003e"
+    },
+    {
+        "id":  "af296-1988",
+        "title":  "Air France 296 - Habsheim (vol de démonstration)",
+        "date":  "1988-06-26",
+        "location":  "Habsheim, France",
+        "aircraft":  "Airbus A320-111 (F-GFKC)",
+        "airline":  "Air France (vol de présentation)",
+        "country":  "France",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Démonstration",
+        "passengersTotal":  136,
+        "fatalities":  3,
+        "lat":  47.717,
+        "lon":  7.409,
+        "images":  [
+                       {
+                           "url":  "assets/img/af296-1988.jpg",
+                           "caption":  "Meeting aérien d\u0027Habsheim (illustration)."
+                       }
+                   ],
+        "sources":  [
+                        {
+                            "title":  "BEA - Dossier",
+                            "url":  "https://www.bea.aero/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLors d\u0027un vol de présentation, l\u0027A320 effectue un passage bas à faible vitesse au-dessus de la piste d\u0027Habsheim. La trajectoire descend sous les obstacles en bordure de forêt et l\u0027avion percute la cime des arbres avant de s\u0027embraser au sol.\u003c/p\u003e\u003cp\u003eL\u0027événement déclenche une vaste controverse opérationnelle et technique et aboutit à des recommandations sur la préparation et l\u0027encadrement des vols de démonstration, la gestion des automatismes et le respect des marges d\u0027obstacles.\u003c/p\u003e"
+    },
+    {
+        "id":  "ua173-1978",
+        "title":  "United 173 – Épuisement carburant près de Portland",
+        "date":  "1978-12-28",
+        "location":  "Portland, Oregon, États‑Unis",
+        "aircraft":  "McDonnell Douglas DC‑8‑61",
+        "airline":  "United Airlines",
+        "country":  "États‑Unis",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  189,
+        "fatalities":  10,
+        "lat":  45.55,
+        "lon":  -122.60,
+        "images":  [
+                       {
+                           "url":  "assets/img/ua173-1978.jpg",
+                           "caption":  "Secteur de Portland (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Denver – DEN",
+                                   "iata":  "DEN"
+                               },
+                      "to":  {
+                                 "name":  "Portland – PDX",
+                                 "iata":  "PDX"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR‑79/7",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLors de l’approche sur Portland, l’équipage interrompt la préparation à l’atterrissage pour analyser une anomalie de train d’atterrissage. La gestion prolongée de la situation, ponctuée d’échanges et de vérifications, détourne l’attention de la consommation réelle et des réserves disponibles.\u003c/p\u003e\u003cp\u003eÀ l’issue d’une attente, plusieurs moteurs s’éteignent successivement par manque de carburant et le DC‑8 s’écrase dans une zone boisée en périphérie de la ville. L’accident met en évidence l’importance du partage de la charge de travail, de la conscience carburant de tous les membres d’équipage et d’une communication claire sur les marges restantes.\u003c/p\u003e\u003cp\u003eIl conduit à un renforcement majeur de la formation CRM et des pratiques de suivi carburant en situation anormale.\u003c/p\u003e"
+    },
+    {
+        "id":  "av52-1990",
+        "title":  "Avianca 52 – Panne sèche et crash à Long Island",
+        "date":  "1990-01-25",
+        "location":  "Cove Neck, New York, États‑Unis",
+        "aircraft":  "Boeing 707‑321B",
+        "airline":  "Avianca",
+        "country":  "États‑Unis",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  158,
+        "fatalities":  73,
+        "lat":  40.90,
+        "lon":  -73.50,
+        "images":  [
+                       {
+                           "url":  "assets/img/av52-1990.jpg",
+                           "caption":  "North Shore de Long Island (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Bogotá – BOG",
+                                   "iata":  "BOG"
+                               },
+                      "to":  {
+                                 "name":  "New York – JFK",
+                                 "iata":  "JFK"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR‑91/04",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eAprès un long vol transcontinental émaillé de retards et d’attentes en approche de New York, l’avion arrive aux dernières marges carburant. Les équipages et le contrôle aérien ne partagent pas une même compréhension de l’urgence, la formulation demeurant ambiguë quant à l’état réel des réserves.\u003c/p\u003e\u003cp\u003ePeu avant la piste, plusieurs moteurs s’arrêtent par panne sèche et l’appareil s’abat sur une zone boisée de la côte nord de Long Island. L’enquête souligne le rôle de la phraséologie, des demandes de priorité explicites et de la planification carburant au regard des attentes prévisibles.\u003c/p\u003e\u003cp\u003eDes évolutions de formation, de procédures de déclaration d’urgence et de gestion carburant sont alors promulguées.\u003c/p\u003e"
+    },
+    {
+        "id":  "bm92-1989",
+        "title":  "British Midland 92 – Erreur moteur et crash de Kegworth",
+        "date":  "1989-01-08",
+        "location":  "Kegworth, Leicestershire, Royaume‑Uni",
+        "aircraft":  "Boeing 737‑400",
+        "airline":  "British Midland",
+        "country":  "Royaume‑Uni",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  126,
+        "fatalities":  47,
+        "lat":  52.83,
+        "lon":  -1.29,
+        "images":  [
+                       {
+                           "url":  "assets/img/bm92-1989.jpg",
+                           "caption":  "Proximité de la M1 (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Londres – Heathrow",
+                                   "iata":  "LHR"
+                               },
+                      "to":  {
+                                 "name":  "Belfast – Aldergrove",
+                                 "iata":  "BFS"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "AAIB – Report 4/90",
+                            "url":  "https://www.gov.uk/aaib-reports"
+                        }
+                    ],
+        "description":  "\u003cp\u003ePeu après le départ, un dysfonctionnement d’un moteur provoque des vibrations et des odeurs inhabituelles. Dans un environnement nouveau (version d’appareil récemment introduite), les indices sensoriels et l’instrumentation conduisent l’équipage à réduire puis arrêter le moteur sain.\u003c/p\u003e\u003cp\u003eEn approche de diversion, la poussée restante devient insuffisante et l’appareil s’écrase près de l’autoroute M1. Les enseignements portent sur l’identification des pannes, la formation à type récent, l’ergonomie des alarmes et la surveillance croisée en équipage.\u003c/p\u003e"
+    },
+    {
+        "id":  "sv163-1980",
+        "title":  "Saudia 163 – Incendie cabine et évacuation retardée",
+        "date":  "1980-08-19",
+        "location":  "Riyad (RUH), Arabie saoudite",
+        "aircraft":  "Lockheed L‑1011‑200 TriStar",
+        "airline":  "Saudi Arabian Airlines",
+        "country":  "Arabie saoudite",
+        "manufacturer":  "Lockheed",
+        "phaseOfFlight":  "Montée",
+        "passengersTotal":  301,
+        "fatalities":  301,
+        "lat":  24.96,
+        "lon":  46.70,
+        "images":  [
+                       {
+                           "url":  "assets/img/sv163-1980.jpg",
+                           "caption":  "Aéroport de Riyad (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Riyad – RUH",
+                                   "iata":  "RUH"
+                               },
+                      "to":  {
+                                 "name":  "Djeddah – JED",
+                                 "iata":  "JED"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "GACA – Rapport",
+                            "url":  "https://gaca.gov.sa/"
+                        }
+                    ],
+        "description":  "\u003cp\u003ePeu après le décollage, de la fumée est détectée en cabine arrière. L’équipage décide un retour sur Riyad et se pose rapidement, mais l’arrêt complet suivi des procédures d’évacuation tarde alors que l’incendie progresse à l’intérieur de la cellule.\u003c/p\u003e\u003cp\u003eMalgré l’atterrissage réussi, tous les occupants périssent avant de pouvoir évacuer. L’accident entraîne une remise à plat des procédures d’urgence au sol, des moyens de détection et de lutte incendie, ainsi qu’une réflexion sur la coordination cockpit–cabin crew en situation de fumées.\u003c/p\u003e"
+    },
+    {
+        "id":  "et961-1996",
+        "title":  "Ethiopian 961 – Détournement et amerrissage aux Comores",
+        "date":  "1996-11-23",
+        "location":  "Au large de Grande Comore, Comores",
+        "aircraft":  "Boeing 767‑260ER",
+        "airline":  "Ethiopian Airlines",
+        "country":  "Comores",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Croisière",
+        "passengersTotal":  175,
+        "fatalities":  125,
+        "lat":  -11.60,
+        "lon":  43.30,
+        "images":  [
+                       {
+                           "url":  "assets/img/et961-1996.jpg",
+                           "caption":  "Côtes de Moroni (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Addis‑Abeba – ADD",
+                                   "iata":  "ADD"
+                               },
+                      "to":  {
+                                 "name":  "Nairobi – NBO",
+                                 "iata":  "NBO"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Rapport éthiopien (extraits)",
+                            "url":  "https://www.ecaa.gov.et"
+                        }
+                    ],
+        "description":  "\u003cp\u003eUn détournement armé survient en croisière. Les pirates exigent un long vol au‑dessus de l’océan malgré des réserves insuffisantes. À l’approche des Comores, les moteurs s’arrêtent successivement par manque de carburant et le commandant tente un amerrissage d’urgence près du littoral.\u003c/p\u003e\u003cp\u003eL’impact en mer est violent et l’appareil se brise au contact des vagues. L’événement illustre les dilemmes en situation de menace dans le cockpit et conduit à des améliorations des procédures de négociation et de gestion carburant sous contrainte.\u003c/p\u003e"
+    },
+    {
+        "id":  "ac797-1983",
+        "title":  "Air Canada 797 – Feu à bord et atterrissage d’urgence à CVG",
+        "date":  "1983-06-02",
+        "location":  "Cincinnati/Northern Kentucky (CVG), États‑Unis",
+        "aircraft":  "McDonnell Douglas DC‑9‑32",
+        "airline":  "Air Canada",
+        "country":  "États‑Unis",
+        "manufacturer":  "McDonnell Douglas",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  46,
+        "fatalities":  23,
+        "lat":  39.05,
+        "lon":  -84.66,
+        "images":  [
+                       {
+                           "url":  "assets/img/ac797-1983.jpg",
+                           "caption":  "Aérogare de CVG (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Dallas/Fort Worth – DFW",
+                                   "iata":  "DFW"
+                               },
+                      "to":  {
+                                 "name":  "Toronto – YYZ",
+                                 "iata":  "YYZ"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR‑83/07",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eEn croisière, une odeur de fumée et des traces de chaleur apparaissent à l’arrière de la cabine. L’équipage accélère une descente et demande un déroutement immédiat vers Cincinnati. Après l’atterrissage et l’arrêt, l’ouverture des portes favorise un embrasement soudain de la cabine.\u003c/p\u003e\u003cp\u003eL’accident aura un retentissement majeur sur les normes: matériaux moins inflammables, détecteurs améliorés, directives renforcées sur l’évacuation et les équipements de lutte contre l’incendie.\u003c/p\u003e"
+    },
+    {
+        "id":  "ci140-1994",
+        "title":  "China Airlines 140 – Perte de contrôle à l’approche de Nagoya",
+        "date":  "1994-04-26",
+        "location":  "Nagoya (NGO), Japon",
+        "aircraft":  "Airbus A300‑600",
+        "airline":  "China Airlines",
+        "country":  "Japon",
+        "manufacturer":  "Airbus",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  271,
+        "fatalities":  264,
+        "lat":  35.25,
+        "lon":  136.93,
+        "images":  [
+                       {
+                           "url":  "assets/img/ci140-1994.jpg",
+                           "caption":  "Région de Chūbu (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Taipei – TPE",
+                                   "iata":  "TPE"
+                               },
+                      "to":  {
+                                 "name":  "Nagoya – NGO",
+                                 "iata":  "NGO"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "JAAIC/JTSB – Rapport",
+                            "url":  "https://www.mlit.go.jp/jtsb/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eÀ l’approche, une interaction non intentionnelle avec le mode de remise de gaz déclenche une logique de pilotage automatique contraire aux actions manuelles. La lutte entre automatisme et commandes aboutit à une assiette excessive et à une perte de contrôle à faible altitude.\u003c/p\u003e\u003cp\u003eL’enquête aboutit à des recommandations sur l’ergonomie des sélections de mode, la formation au monitoring des automatismes et la gestion des reprises manuelles tardives.\u003c/p\u003e"
+    },
+    {
+        "id":  "on1363-1989",
+        "title":  "Air Ontario 1363 – Décollage sous givre à Dryden",
+        "date":  "1989-03-10",
+        "location":  "Dryden (YHD), Ontario, Canada",
+        "aircraft":  "Fokker F28‑1000 Fellowship",
+        "airline":  "Air Ontario",
+        "country":  "Canada",
+        "manufacturer":  "Fokker",
+        "phaseOfFlight":  "Décollage",
+        "passengersTotal":  69,
+        "fatalities":  24,
+        "lat":  49.83,
+        "lon":  -92.75,
+        "images":  [
+                       {
+                           "url":  "assets/img/on1363-1989.jpg",
+                           "caption":  "Aérodrome de Dryden (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Thunder Bay – YQT",
+                                   "iata":  "YQT"
+                               },
+                      "to":  {
+                                 "name":  "Winnipeg – YWG",
+                                 "iata":  "YWG"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Commission Moshansky – Rapport",
+                            "url":  "https://www.tsb.gc.ca/"
+                        }
+                    ],
+        "description":  "\u003cp\u003ePar temps hivernal, l’appareil décolle avec une contamination par le givre sur les ailes et sans dégivrage adéquat, dans un contexte opérationnel contraint. La portance dégradée empêche la montée, l’appareil s’enfonce et percute la forêt au‑delà de la piste.\u003c/p\u003e\u003cp\u003eL’accident entraîne une réforme profonde des politiques de dégivrage/antigivrage au Canada et des pratiques décisionnelles en exploitation régionale.\u003c/p\u003e"
+    },
+    {
+        "id":  "oz214-2013",
+        "title":  "Asiana 214 – Approche non stabilisée à San Francisco",
+        "date":  "2013-07-06",
+        "location":  "San Francisco (SFO), États‑Unis",
+        "aircraft":  "Boeing 777‑200ER",
+        "airline":  "Asiana Airlines",
+        "country":  "États‑Unis",
+        "manufacturer":  "Boeing",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  307,
+        "fatalities":  3,
+        "lat":  37.619,
+        "lon":  -122.375,
+        "images":  [
+                       {
+                           "url":  "assets/img/oz214-2013.jpg",
+                           "caption":  "Seuil 28L/28R (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Séoul – Incheon",
+                                   "iata":  "ICN"
+                               },
+                      "to":  {
+                                 "name":  "San Francisco – SFO",
+                                 "iata":  "SFO"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "NTSB – AAR‑14/01",
+                            "url":  "https://www.ntsb.gov/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eEn VMC et avec l’ILS indisponible, l’approche est poursuivie à vue. La gestion de la vitesse et de l’angle de descente devient insuffisante, avec une confiance excessive dans les automatismes. À l’arrondi, l’avion heurte la digue en avant‑piste et s’immobilise en bord de piste.\u003c/p\u003e\u003cp\u003eL’enquête souligne l’importance de l’approche stabilisée, de la compréhension fine des protections d’automanette et de la communication entre membres d’équipage lors d’écarts de paramètres.\u003c/p\u003e"
+    },
+    {
+        "id":  "lamia2933-2016",
+        "title":  "LaMia 2933 – Panne sèche près de Medellín (Chapecoense)",
+        "date":  "2016-11-28",
+        "location":  "La Unión, Antioquia, Colombie",
+        "aircraft":  "BAe Avro RJ85",
+        "airline":  "LaMia",
+        "country":  "Colombie",
+        "manufacturer":  "BAe",
+        "phaseOfFlight":  "Approche",
+        "passengersTotal":  77,
+        "fatalities":  71,
+        "lat":  6.13,
+        "lon":  -75.43,
+        "images":  [
+                       {
+                           "url":  "assets/img/lamia2933-2016.jpg",
+                           "caption":  "Relief près de Rionegro (illustration)."
+                       }
+                   ],
+        "route":  {
+                      "from":  {
+                                   "name":  "Santa Cruz – VVI",
+                                   "iata":  "VVI"
+                               },
+                      "to":  {
+                                 "name":  "Medellín – MDE",
+                                 "iata":  "MDE"
+                             }
+                  },
+        "sources":  [
+                        {
+                            "title":  "Aviation civile Colombie – Rapport",
+                            "url":  "https://www.aerocivil.gov.co/"
+                        }
+                    ],
+        "description":  "\u003cp\u003eLe vol affrété pour l’équipe de Chapecoense est conduit avec une planification carburant notoirement insuffisante. À l’arrivée dans la région de Medellín, un circuit d’attente et la topographie retardent l’approche finale ; les moteurs s’arrêtent successivement et l’avion s’abat sur un relief.\u003c/p\u003e\u003cp\u003eLe drame met en lumière des défaillances systémiques de planification, de supervision de l’opérateur et de contrôle du respect des règles de réserve carburant.\u003c/p\u003e"
+    }
+];
+    </script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="assets/js/app.js?v=4"></script>
+  </body>
+  
+</html>
+
+
+
+
+
+
+
+
+
