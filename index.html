@@ -2116,10 +2116,37 @@
         email.addEventListener('input', isValid);
         msg.addEventListener('input', isValid);
         send.addEventListener('click', function () {
-          var to = 'allandiaye96@gmail.com';
-          var subject = encodeURIComponent('Contact CrashPlaneWebsite');
-          var body = encodeURIComponent('De: ' + (email.value || '') + '\n\n' + (msg.value || ''));
-          window.location.href = 'mailto:' + to + '?subject=' + subject + '&body=' + body;
+          if (send.disabled) return;
+          send.disabled = true;
+          send.textContent = 'Envoi…';
+          var endpoint = 'https://formsubmit.co/ajax/allandiaye96@gmail.com';
+          var payload = {
+            email: (email.value || '').trim(),
+            message: (msg.value || '').trim(),
+            _subject: 'Contact CrashPlaneWebsite'
+          };
+          fetch(endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify(payload)
+          }).then(function (r) { return r.json(); })
+            .then(function (data) {
+              send.textContent = 'Envoyé ✓';
+              var hint = document.getElementById('contactHint');
+              if (hint) {
+                hint.textContent = 'Merci, votre message a été envoyé. (Si c’est votre premier envoi, vérifiez l’email de confirmation Formsubmit pour activer le formulaire.)';
+              }
+              email.value = '';
+              msg.value = '';
+              setTimeout(function(){ send.textContent = 'Envoyer'; isValid(); }, 2500);
+            })
+            .catch(function (err) {
+              console.error(err);
+              send.textContent = 'Réessayer';
+              var hint = document.getElementById('contactHint');
+              if (hint) { hint.textContent = 'Échec de l’envoi. Vérifiez votre connexion et réessayez.'; }
+              setTimeout(function(){ isValid(); }, 1500);
+            });
         });
         isValid();
       })();
