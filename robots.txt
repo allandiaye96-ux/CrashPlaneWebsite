@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://allandiaye96-ux.github.io/CrashPlaneWebsite/sitemap.xml
+
