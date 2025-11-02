@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://allandiaye96-ux.github.io/CrashPlaneWebsite/sitemap.xml
-
+Sitemap: https://www.crashplanewebsite.com/sitemap.xml
