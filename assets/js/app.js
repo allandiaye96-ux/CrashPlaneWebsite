@@ -20,11 +20,102 @@
   };
 
   const $app = document.getElementById('app');
-  const USER_LANG = (localStorage.getItem('lang')||((navigator.language||'').toLowerCase().startsWith('fr')?'fr':'en'));
-  const locale = () => USER_LANG==='en'?'en-US':'fr-FR';
+  const getLang = () => (localStorage.getItem('lang')||((navigator.language||'').toLowerCase().startsWith('fr')?'fr':'en'));
+  const locale = () => getLang()==='en'?'en-US':'fr-FR';
   const fmt = n => typeof n === 'number' ? new Intl.NumberFormat(locale()).format(n) : n;
   const esc = s => String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
   const firstImage = a => (a.images && a.images.length && a.images[0].url) ? a.images[0].url : 'assets/img/plane.jpg';
+
+  const I18N = {
+    fr: {
+      heroTitle: "Accidents et crashes d'avion",
+      heroSubtitle: "Histoires documentées, illustrées, sourcées.",
+      filters: 'Filtres',
+      searchPlaceholder: 'Rechercher (titre, lieu, compagnie, appareil, détails)',
+      allAirlines: 'Toutes compagnies',
+      allCountries: 'Tous pays',
+      allManufacturers: 'Tous constructeurs',
+      allPhases: 'Toutes phases',
+      yearFrom: 'De', yearTo: 'À',
+      sort_date_desc: 'Trier: Date (récent → ancien)',
+      sort_date_asc: 'Trier: Date (ancien → récent)',
+      sort_deaths_desc: 'Trier: Morts (plus → moins)',
+      sort_deaths_asc: 'Trier: Morts (moins → plus)',
+      sort_surv_desc: 'Trier: Survivants (plus → moins)',
+      sort_surv_asc: 'Trier: Survivants (moins → plus)',
+      countSuffix: 'événement(s)',
+      adjustMap: 'Ajuster la carte aux résultats',
+      listLabel: 'Carte des accidents',
+      noResults: 'Aucun résultat. Ajustez votre recherche ou vos filtres.',
+      back: 'Retour',
+      date: 'Date', place: 'Lieu', airline: 'Compagnie', aircraft: 'Appareil',
+      deaths: 'Morts', paxTotal: 'Total passagers', survivors: 'Survivants',
+      sources: 'Sources', noSources: 'Aucune source fournie.',
+      share: 'Partager', copyLink: 'Copier le lien', copied: 'Lien copié ✓',
+      legend_from: 'Départ', legend_to: 'Arrivée prévue', legend_site: "Lieu de l'accident",
+      mapUnavailable: 'Carte indisponible (Leaflet non chargé).'
+    },
+    en: {
+      heroTitle: 'Aircraft accidents and crashes',
+      heroSubtitle: 'Documented stories with maps and sources.',
+      filters: 'Filters',
+      searchPlaceholder: 'Search (title, location, airline, aircraft, details)',
+      allAirlines: 'All airlines',
+      allCountries: 'All countries',
+      allManufacturers: 'All manufacturers',
+      allPhases: 'All phases',
+      yearFrom: 'From', yearTo: 'To',
+      sort_date_desc: 'Sort: Date (new → old)',
+      sort_date_asc: 'Sort: Date (old → new)',
+      sort_deaths_desc: 'Sort: Fatalities (high → low)',
+      sort_deaths_asc: 'Sort: Fatalities (low → high)',
+      sort_surv_desc: 'Sort: Survivors (high → low)',
+      sort_surv_asc: 'Sort: Survivors (low → high)',
+      countSuffix: 'event(s)',
+      adjustMap: 'Fit map to results',
+      listLabel: 'Accidents map',
+      noResults: 'No results. Adjust your query or filters.',
+      back: 'Back',
+      date: 'Date', place: 'Location', airline: 'Airline', aircraft: 'Aircraft',
+      deaths: 'Fatalities', paxTotal: 'Total passengers', survivors: 'Survivors',
+      sources: 'Sources', noSources: 'No sources provided.',
+      share: 'Share', copyLink: 'Copy link', copied: 'Link copied ✓',
+      legend_from: 'Departure', legend_to: 'Planned arrival', legend_site: 'Accident site',
+      mapUnavailable: 'Map unavailable (Leaflet not loaded).'
+    }
+  };
+  const t = (k) => (I18N[getLang()]&&I18N[getLang()][k]) || I18N.fr[k] || k;
+
+  function applyI18n(){
+    try{ document.documentElement.lang = getLang()==='en'?'en':'fr'; }catch{}
+    const heroH1 = document.querySelector('.hero h1'); if(heroH1) heroH1.textContent = t('heroTitle');
+    const heroP = document.querySelector('.hero p'); if(heroP) heroP.textContent = t('heroSubtitle');
+    const q = document.getElementById('q'); if(q) q.placeholder = t('searchPlaceholder');
+    const airline = document.getElementById('airline'); if(airline){ [...airline.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allAirlines'); }); }
+    const country = document.getElementById('country'); if(country){ [...country.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allCountries'); }); }
+    const manuf = document.getElementById('manufacturer'); if(manuf){ [...manuf.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allManufacturers'); }); }
+    const phase = document.getElementById('phase'); if(phase){ [...phase.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allPhases'); }); }
+    const yf = document.getElementById('yearFrom'); if(yf){ yf.placeholder = `${t('yearFrom')} ${yf.placeholder.replace(/\D+/g,'').trim()}`.trim(); }
+    const yt = document.getElementById('yearTo'); if(yt){ yt.placeholder = `${t('yearTo')} ${yt.placeholder.replace(/\D+/g,'').trim()}`.trim(); }
+    const sort = document.getElementById('sortBy'); if(sort){ [...sort.options].forEach(o=>{ const key = `sort_${o.value}`; if(I18N.fr[key]||I18N.en[key]) o.textContent=t(key); }); }
+    const count = document.querySelector('.count'); if(count){ count.textContent = `${fmt((window.state&&state.filtered&&state.filtered.length)||document.querySelectorAll('.grid .card').length)} ${t('countSuffix')}`; }
+    const fit = document.getElementById('fitMap'); if(fit){ fit.textContent = t('adjustMap'); }
+    document.querySelectorAll('.empty').forEach(el=>{ if(el.textContent.match(/Aucun|No results/)) el.textContent=t('noResults'); });
+    // Detail view tweaks
+    const back = document.querySelector('nav.meta a'); if(back){ back.textContent = t('back'); }
+    document.querySelectorAll('.detail .meta-row span').forEach(sp=>{
+      sp.textContent = sp.textContent.replace(/^\s*Date\s*:/, t('date')+':').replace(/^\s*Lieu\s*:/, t('place')+':').replace(/^\s*Compagnie\s*:/, t('airline')+':').replace(/^\s*Appareil\s*:/, t('aircraft')+':').replace(/^\s*Morts\s*:/, t('deaths')+':').replace(/^\s*Total passagers\s*:/, t('paxTotal')+':').replace(/^\s*Survivants\s*:/, t('survivors')+':');
+    });
+    document.querySelectorAll('h3').forEach(h=>{ if(h.textContent.trim()==='Sources'||h.textContent.trim()==='Sources') h.textContent=t('sources'); if(h.textContent.trim()==='Partager'||h.textContent.trim()==='Share') h.textContent=t('share'); });
+    const copyBtn=document.getElementById('copyLink'); if(copyBtn){ copyBtn.textContent=t('copyLink'); }
+    document.querySelectorAll('#mapList .empty, #mapDetail .empty').forEach(el=>{ if(el.textContent.includes('Carte indisponible')||el.textContent.includes('Map unavailable')) el.textContent=t('mapUnavailable'); });
+    // Legend labels inside detail map legend line
+    document.querySelectorAll('#mapDetail + div .meta, #mapDetail').forEach(()=>{
+      const metaDiv = document.querySelector('#mapDetail') ? document.querySelector('#mapDetail').parentElement.nextElementSibling : null;
+      if(!metaDiv) return;
+      metaDiv.innerHTML = metaDiv.innerHTML.replace(/D[é�]part/g, t('legend_from')).replace(/Arriv[é�]e pr[é�]vue/g, t('legend_to')).replace(/Lieu de l'accident/g, t('legend_site'));
+    });
+  }
 
   // Recherche tolérante aux accents et légère tolérance aux fautes (subsequence)
   const norm = s => String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
@@ -90,15 +181,15 @@
     const notice = state.fallbackUsed ? '<div class="notice" style="margin:10px 0;">Données chargées en mode local. Pour lire data/accidents.json : lancez <code>py -m http.server 5500</code> puis ouvrez <code>http://localhost:5500</code>.</div>' : '';
     const filters = `
       ${notice}
-      <section class="hero"><h1>Accidents et crashes d’avion</h1><p>Histoires documentées, illustrées, sourcées.</p></section>
+      <section class="hero"><h1>Accidents et crashes d’avion</h1><p> illustrées, sourcées.</p></section>
       <div class="panel" role="region" aria-label="Filtres">
         <div class="filters" style="padding:10px; display:grid; gap:8px; grid-template-columns: 1fr 180px 180px 180px 1fr 1fr 220px; align-items:center;">
           <label class="sr-only" for="q">Rechercher</label>
-          <input id="q" type="search" placeholder="Rechercher (titre, lieu, compagnie, appareil, détails)" value="${esc(state.q)}" />
-          <select id="airline">${airlines.map(a=>`<option value="${esc(a)}" ${state.airline===a?'selected':''}>${a==='all'?'Toutes compagnies':esc(a)}</option>`).join('')}</select>
-          <select id="country" ${countries.length<=1?'disabled':''}>${countries.map(c=>`<option value="${esc(c)}" ${state.country===c?'selected':''}>${c==='all'?'Tous pays':esc(c)}</option>`).join('')}</select>
-          <select id="manufacturer" ${mans.length<=1?'disabled':''}>${mans.map(m=>`<option value="${esc(m)}" ${state.manufacturer===m?'selected':''}>${m==='all'?'Tous constructeurs':esc(m)}</option>`).join('')}</select>
-          <select id="phase" ${phases.length<=1?'disabled':''}>${phases.map(p=>`<option value="${esc(p)}" ${state.phase===p?'selected':''}>${p==='all'?'Toutes phases':esc(p)}</option>`).join('')}</select>
+          <input id="q" type="search" placeholder="" value="${esc(state.q)}" />
+          <select id="airline">${airlines.map(a=>`<option value="${esc(a)}" ${state.airline===a?'selected':''}>${a==='all'?'':esc(a)}</option>`).join('')}</select>
+          <select id="country" ${countries.length<=1?'disabled':''}>${countries.map(c=>`<option value="${esc(c)}" ${state.country===c?'selected':''}>${c==='all'?'':esc(c)}</option>`).join('')}</select>
+          <select id="manufacturer" ${mans.length<=1?'disabled':''}>${mans.map(m=>`<option value="${esc(m)}" ${state.manufacturer===m?'selected':''}>${m==='all'?'':esc(m)}</option>`).join('')}</select>
+          <select id="phase" ${phases.length<=1?'disabled':''}>${phases.map(p=>`<option value="${esc(p)}" ${state.phase===p?'selected':''}>${p==='all'?'':esc(p)}</option>`).join('')}</select>
           <div style="display:flex; gap:8px;">
             <label class="sr-only" for="yearFrom">De</label>
             <input id="yearFrom" type="number" placeholder="De ${minY||''}" value="${esc(state.yearFrom)}" />
@@ -106,19 +197,19 @@
             <input id="yearTo" type="number" placeholder="À ${maxY||''}" value="${esc(state.yearTo)}" />
           </div>
           <select id="sortBy">
-            <option value="date_desc" ${state.sortBy==='date_desc'?'selected':''}>Trier : Date (récent → ancien)</option>
-            <option value="date_asc" ${state.sortBy==='date_asc'?'selected':''}>Trier : Date (ancien → récent)</option>
-            <option value="deaths_desc" ${state.sortBy==='deaths_desc'?'selected':''}>Trier : Morts (plus → moins)</option>
-            <option value="deaths_asc" ${state.sortBy==='deaths_asc'?'selected':''}>Trier : Morts (moins → plus)</option>
-            <option value="surv_desc" ${state.sortBy==='surv_desc'?'selected':''}>Trier : Survivants (plus → moins)</option>
-            <option value="surv_asc" ${state.sortBy==='surv_asc'?'selected':''}>Trier : Survivants (moins → plus)</option>
+            <option value="date_desc" ${state.sortBy==='date_desc'?'selected':''}></option>
+            <option value="date_asc" ${state.sortBy==='date_asc'?'selected':''}></option>
+            <option value="deaths_desc" ${state.sortBy==='deaths_desc'?'selected':''}></option>
+            <option value="deaths_asc" ${state.sortBy==='deaths_asc'?'selected':''}></option>
+            <option value="surv_desc" ${state.sortBy==='surv_desc'?'selected':''}></option>
+            <option value="surv_asc" ${state.sortBy==='surv_asc'?'selected':''}></option>
           </select>
         </div>
         <div style="padding:0 10px 10px;" class="count">${fmt(state.filtered.length)} évènement(s)</div>
       </div>
       <div class="panel" style="padding:10px; margin-top:10px;">
         <h2 class="sr-only">Carte des accidents</h2>
-        <div style="display:flex; justify-content:flex-end; margin-bottom:6px;"><button id="fitMap" class="btn">Ajuster la carte aux résultats</button></div>
+        <div style="display:flex; justify-content:flex-end; margin-bottom:6px;"><button id="fitMap" class="btn"></button></div>
         <div id="mapList" class="map" role="region" aria-label="Carte des accidents"></div>
       </div>`;
 
@@ -130,11 +221,11 @@
             <div>
               <h3><a href="#/accident/${encodeURIComponent(a.id)}">${highlightPlain(a.title,tokens)}</a></h3>
               <div class="meta">${new Date(a.date).toLocaleDateString(locale())} · ${highlightPlain(a.location,tokens)} · ${highlightPlain(a.aircraft||'Appareil',tokens)}</div>
-              <div class="meta">${highlightPlain(a.airline||'Compagnie inconnue',tokens)} · Morts : <span class="badge">${typeof a.fatalities==='number'?fmt(a.fatalities):'N/A'}</span></div>
-              <div class="meta">${typeof a.passengersTotal==='number'?`Total passagers : ${fmt(a.passengersTotal)} · `:''}${typeof a.fatalities==='number'?`Morts : ${fmt(a.fatalities)} · `:''}${typeof a.passengersTotal==='number'&&typeof a.fatalities==='number'?`Survivants : ${fmt(a.passengersTotal-a.fatalities)}`:''}</div>
+              <div class="meta">${highlightPlain(a.airline||'Compagnie inconnue',tokens)} · : <span class="badge">${typeof a.fatalities==='number'?fmt(a.fatalities):'N/A'}</span></div>
+              <div class="meta">${typeof a.passengersTotal==='number'?` : ${fmt(a.passengersTotal)} · `:''}${typeof a.fatalities==='number'?`: ${fmt(a.fatalities)} · `:''}${typeof a.passengersTotal==='number'&&typeof a.fatalities==='number'?` : ${fmt(a.passengersTotal-a.fatalities)}`:''}</div>
             </div>
           </article>`).join('')}
-        ${state.filtered.length===0?`<div class="empty">Aucun résultat. Ajustez votre recherche ou vos filtres.</div>`:''}
+        ${state.filtered.length===0?`<div class="empty"></div>`:''}
       </section>`;
 
     $app.innerHTML = filters + grid;
@@ -171,11 +262,11 @@
       <article class="detail panel"><section>
         <h1>${esc(acc.title)}</h1>
         <div class="meta-row">
-          <span>Date: ${new Date(acc.date).toLocaleDateString(locale())}</span>
-          <span>Lieu: ${esc(acc.location)}</span>
-          ${acc.airline?`<span>Compagnie: ${esc(acc.airline)}</span>`:''}
-          ${acc.aircraft?`<span>Appareil: ${esc(acc.aircraft)}</span>`:''}
-          ${typeof acc.fatalities==='number'?`<span>Morts : ${fmt(acc.fatalities)}</span>`:''}
+          <span> ${new Date(acc.date).toLocaleDateString(locale())}</span>
+          <span> ${esc(acc.location)}</span>
+          ${acc.airline?`<span> ${esc(acc.airline)}</span>`:''}
+          ${acc.aircraft?`<span> ${esc(acc.aircraft)}</span>`:''}
+          ${typeof acc.fatalities==='number'?`<span>: ${fmt(acc.fatalities)}</span>`:''}
         </div>
         ${(typeof acc.lat==='number'&&typeof acc.lon==='number')?`
         <div class="block" style="padding:0; margin-top:10px;">
@@ -187,17 +278,17 @@
           </div>
         </div>`:''}
         <div class="meta-row" style="margin-top:6px;">
-          ${typeof acc.passengersTotal==='number'?`<span>Total passagers : ${fmt(acc.passengersTotal)}</span>`:''}
-          ${typeof acc.fatalities==='number'?`<span>Morts : ${fmt(acc.fatalities)}</span>`:''}
-          ${typeof acc.passengersTotal==='number'&&typeof acc.fatalities==='number'?`<span>Survivants : ${fmt(acc.passengersTotal-acc.fatalities)}</span>`:''}
+          ${typeof acc.passengersTotal==='number'?`<span> : ${fmt(acc.passengersTotal)}</span>`:''}
+          ${typeof acc.fatalities==='number'?`<span>: ${fmt(acc.fatalities)}</span>`:''}
+          ${typeof acc.passengersTotal==='number'&&typeof acc.fatalities==='number'?`<span> : ${fmt(acc.passengersTotal-acc.fatalities)}</span>`:''}
         </div>
         <div class="block">${acc.description||'<p class="meta">Aucun récit disponible.</p>'}</div>
         ${images?`<section class="gallery">${images}</section>`:''}
       </section><aside>
-        <div class="block panel"><h3>Sources</h3>${sources?`<ul class="sources">${sources}</ul>`:'<p class="meta">Aucune source fournie.</p>'}</div>
-        <div class="block panel" style="margin-top:10px;"><h3>Partager</h3><button class="btn" id="copyLink">Copier le lien</button></div>
+        <div class="block panel"><h3></h3>${sources?`<ul class="sources">${sources}</ul>`:'<p class="meta"></p>'}</div>
+        <div class="block panel" style="margin-top:10px;"><h3></h3><button class="btn" id="copyLink"></button></div>
       </aside></article>`;
-    const btn=document.getElementById('copyLink'); if(btn) btn.addEventListener('click', async ()=>{ try{ await navigator.clipboard.writeText(location.href); btn.textContent='Lien copié ✓'; setTimeout(()=>btn.textContent='Copier le lien',1200);}catch{} });
+    const btn=document.getElementById('copyLink'); if(btn) btn.addEventListener('click', async ()=>{ try{ await navigator.clipboard.writeText(location.href); btn.textContent='Lien copié ✓'; setTimeout(()=>btn.textContent='',1200);}catch{} });
     setupDetailMap();
   }
 
@@ -242,14 +333,14 @@
   function setupLeafletDefaults(){ /* noop for now */ }
   function setupListMap(){
     const el=document.getElementById('mapList'); if(!el) return;
-    if(typeof L==='undefined'){ el.innerHTML='<div class="empty">Carte indisponible (Leaflet non chargé).</div>'; return; }
+    if(typeof L==='undefined'){ el.innerHTML='<div class="empty">.</div>'; return; }
     if(state.listMap){ try{ state.listMap.remove(); }catch{} state.listMap=null; }
     setupLeafletDefaults();
     const map=L.map('mapList'); state.listMap=map;
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
     const pts=state.filtered.filter(a=>typeof a.lat==='number'&&typeof a.lon==='number');
     if(pts.length===0){ map.setView([20,0],2); state._lastGroupBounds=null; return; }
-    const markers=pts.map(a=>{ const m=L.circleMarker([a.lat,a.lon],{radius:6,color:'#4ea1ff',weight:2,fillColor:'#4ea1ff',fillOpacity:0.8}); m.bindTooltip(esc(a.title),{direction:'top',offset:[0,-6],opacity:0.9}); m.bindPopup(`<strong>${esc(a.title)}</strong><br>${new Date(a.date).toLocaleDateString(locale())}<br><a href=\"#/accident/${encodeURIComponent(a.id)}\">Voir la fiche</a>`); return m; });
+    const markers=pts.map(a=>{ const m=L.circleMarker([a.lat,a.lon],{radius:6,color:'#4ea1ff',weight:2,fillColor:'#4ea1ff',fillOpacity:0.8}); m.bindTooltip(esc(a.title),{direction:'top',offset:[0,-6],opacity:0.9}); m.bindPopup(`<strong>${esc(a.title)}</strong><br>${new Date(a.date).toLocaleDateString(locale())}<br><a href=\"#/accident/${encodeURIComponent(a.id)}\"></a>`); return m; });
     let group;
     if(typeof L.markerClusterGroup==='function'){
       group=L.markerClusterGroup({showCoverageOnHover:false,spiderfyOnMaxZoom:true,disableClusteringAtZoom:7});
@@ -259,7 +350,7 @@
   }
   function setupDetailMap(){
     const el=document.getElementById('mapDetail'); if(!el) return;
-    if(typeof L==='undefined'){ el.innerHTML='<div class="empty">Carte indisponible (Leaflet non chargé).</div>'; return; }
+    if(typeof L==='undefined'){ el.innerHTML='<div class="empty">.</div>'; return; }
     if(state.detailMap){ try{ state.detailMap.remove(); }catch{} state.detailMap=null; }
     const id=(location.hash.split('/')[2]||'');
     const acc=state.accidents.find(a=>String(a.id)===decodeURIComponent(id||''));
@@ -283,15 +374,16 @@
     } else { map.setView([acc.lat,acc.lon],8); }
   }
 
-  window.addEventListener('hashchange',()=>{ router(); setTimeout(()=>{ setupListMap(); setupDetailMap(); },0); });
+  window.addEventListener('hashchange',()=>{ router(); setTimeout(()=>{ setupListMap(); setupDetailMap(); applyI18n(); },0); });
   window.addEventListener('DOMContentLoaded', async ()=>{
     initTheme();
     const appDiv=document.getElementById('app'); if(appDiv) appDiv.innerHTML='<div class="empty">Chargement…</div>';
     try{ await loadData(); }
     catch(e){ $app.innerHTML='<div class="empty">Erreur de chargement des données. Ouvrez via un serveur local ou utilisez le fallback.</div>'; console.error(e); return; }
-    router(); setupListMap(); setupDetailMap();
+    router(); setupListMap(); setupDetailMap(); applyI18n();
     try{ window.appReady=true;}catch{}
   });
   window.addEventListener('error', ev=>{ try{ const msg=(ev&&ev.message)?ev.message:'Erreur JS'; const where=ev&&ev.filename?(ev.filename+':'+ev.lineno):''; const box=document.createElement('div'); box.className='notice'; box.style.margin='10px 0'; box.textContent='Erreur: '+msg+(where?' ('+where+')':''); const app=document.getElementById('app'); if(app) app.prepend(box);}catch{} });
   window.addEventListener('unhandledrejection', ev=>{ try{ const msg=(ev&&ev.reason&&(ev.reason.message||ev.reason))||'Erreur promesse non gérée'; const box=document.createElement('div'); box.className='notice'; box.style.margin='10px 0'; box.textContent='Erreur: '+msg; const app=document.getElementById('app'); if(app) app.prepend(box);}catch{} });
 })();
+

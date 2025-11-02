@@ -2157,9 +2157,10 @@
         try{ var pref = localStorage.getItem('lang'); if(pref){ document.documentElement.lang = (pref==='en'?'en':'fr'); } }catch{}
       })();
     </script>
-  </body>
+  <script id="langSwitchInit">(function(){var fr=document.getElementById("langFr"),en=document.getElementById("langEn");if(fr){fr.addEventListener("click",function(){try{localStorage.setItem("lang","fr");document.documentElement.lang="fr";}catch(e){};location.reload();});}if(en){en.addEventListener("click",function(){try{localStorage.setItem("lang","en");document.documentElement.lang="en";}catch(e){};location.reload();});}try{var pref=localStorage.getItem("lang");if(pref){document.documentElement.lang=(pref==="en"?"en":"fr");}}catch(e){};})();</script></body>
   
 </html>
+
 
 
 
