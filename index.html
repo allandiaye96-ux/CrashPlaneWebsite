@@ -2080,6 +2080,50 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
     <script src="assets/js/app.js?v=4"></script>
+    <script>
+      // Remplace le pied de page par un formulaire de contact (client mailto)
+      (function () {
+        var footer = document.querySelector('.site-footer .container');
+        if (!footer) return;
+        footer.innerHTML = '' +
+          '<h3>Nous contacter</h3>' +
+          '<form id="contactForm" class="contact-form" onsubmit="return false" novalidate>' +
+          '  <label for="contactEmail">Email</label>' +
+          '  <input type="email" id="contactEmail" placeholder="votre@email" required />' +
+          '  <label for="contactMessage">Message</label>' +
+          '  <textarea id="contactMessage" rows="4" placeholder="Votre message…" required></textarea>' +
+          '  <button id="contactSend" class="btn" type="button" style="display:none" disabled>Envoyer</button>' +
+          '  <p id="contactHint" class="hint">Saisissez un email valide et au moins un mot.</p>' +
+          '</form>' +
+          '<p class="brand-mention">CrashPlaneWebsite — Chroniques des Crashes Aériens</p>';
+
+        var email = document.getElementById('contactEmail');
+        var msg = document.getElementById('contactMessage');
+        var send = document.getElementById('contactSend');
+        var emailRe = /^[^@\s]+@[^@\s]+\.[^@\s]+$/i;
+        function isValid() {
+          var okMail = emailRe.test((email.value || '').trim());
+          var text = (msg.value || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').trim();
+          var okMsg = /\b\w+\b/.test(text);
+          if (okMail && okMsg) {
+            send.style.display = 'inline-block';
+            send.disabled = false;
+          } else {
+            send.style.display = 'none';
+            send.disabled = true;
+          }
+        }
+        email.addEventListener('input', isValid);
+        msg.addEventListener('input', isValid);
+        send.addEventListener('click', function () {
+          var to = 'allandiaye96@gmail.com';
+          var subject = encodeURIComponent('Contact CrashPlaneWebsite');
+          var body = encodeURIComponent('De: ' + (email.value || '') + '\n\n' + (msg.value || ''));
+          window.location.href = 'mailto:' + to + '?subject=' + subject + '&body=' + body;
+        });
+        isValid();
+      })();
+    </script>
   </body>
   
 </html>
