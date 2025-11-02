@@ -23,9 +23,7 @@
       <div class="container header-inner">
         <a class="brand" href="#/">✈ Chroniques des Crashes Aériens</a>
         <nav class="top-actions">
-          <button id="themeToggle" class="btn" aria-pressed="false" aria-label="Basculer le thème">🌓</button>
-          <a class="btn" href="#/a-propos">À propos</a>
-        </nav>
+          <button id="themeToggle" class="btn" aria-pressed="false" aria-pressed="false" aria-label="Basculer le thème">🌓</button>\n          <a class="btn" href="#/a-propos">À propos</a>\n          <div class="lang-switch" style="display:inline-flex; gap:6px; margin-left:8px;">\n            <button id="langFr" class="btn" title="Français">FR</button>\n            <button id="langEn" class="btn" title="English">EN</button>\n          </div>\n        </nav>
       </div>
     </header>
 
@@ -2151,9 +2149,20 @@
         isValid();
       })();
     </script>
+    <script>
+      (function(){
+        var fr=document.getElementById('langFr'); var en=document.getElementById('langEn');
+        if(fr){ fr.addEventListener('click', function(){ try{ localStorage.setItem('lang','fr'); document.documentElement.lang='fr'; }catch{} location.reload(); }); }
+        if(en){ en.addEventListener('click', function(){ try{ localStorage.setItem('lang','en'); document.documentElement.lang='en'; }catch{} location.reload(); }); }
+        try{ var pref = localStorage.getItem('lang'); if(pref){ document.documentElement.lang = (pref==='en'?'en':'fr'); } }catch{}
+      })();
+    </script>
   </body>
   
 </html>
+
+
+
 
 
 

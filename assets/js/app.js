@@ -1,4 +1,4 @@
-/* App principal: liste, recherche, tri, filtres, cartes (Leaflet) */
+﻿/* App principal: liste, recherche, tri, filtres, cartes (Leaflet) */
 (function(){
   'use strict';
 
@@ -20,8 +20,9 @@
   };
 
   const $app = document.getElementById('app');
-  const NF = new Intl.NumberFormat('fr-FR');
-  const fmt = n => typeof n === 'number' ? NF.format(n) : n;
+  const USER_LANG = (localStorage.getItem('lang')||((navigator.language||'').toLowerCase().startsWith('fr')?'fr':'en'));
+  const locale = () => USER_LANG==='en'?'en-US':'fr-FR';
+  const fmt = n => typeof n === 'number' ? new Intl.NumberFormat(locale()).format(n) : n;
   const esc = s => String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
   const firstImage = a => (a.images && a.images.length && a.images[0].url) ? a.images[0].url : 'assets/img/plane.jpg';
 
@@ -128,7 +129,7 @@
             <a href="#/accident/${encodeURIComponent(a.id)}"><img class="thumb" src="${esc(firstImage(a))}" alt="Image" loading="lazy" /></a>
             <div>
               <h3><a href="#/accident/${encodeURIComponent(a.id)}">${highlightPlain(a.title,tokens)}</a></h3>
-              <div class="meta">${new Date(a.date).toLocaleDateString('fr-FR')} · ${highlightPlain(a.location,tokens)} · ${highlightPlain(a.aircraft||'Appareil',tokens)}</div>
+              <div class="meta">${new Date(a.date).toLocaleDateString(locale())} · ${highlightPlain(a.location,tokens)} · ${highlightPlain(a.aircraft||'Appareil',tokens)}</div>
               <div class="meta">${highlightPlain(a.airline||'Compagnie inconnue',tokens)} · Morts : <span class="badge">${typeof a.fatalities==='number'?fmt(a.fatalities):'N/A'}</span></div>
               <div class="meta">${typeof a.passengersTotal==='number'?`Total passagers : ${fmt(a.passengersTotal)} · `:''}${typeof a.fatalities==='number'?`Morts : ${fmt(a.fatalities)} · `:''}${typeof a.passengersTotal==='number'&&typeof a.fatalities==='number'?`Survivants : ${fmt(a.passengersTotal-a.fatalities)}`:''}</div>
             </div>
@@ -170,7 +171,7 @@
       <article class="detail panel"><section>
         <h1>${esc(acc.title)}</h1>
         <div class="meta-row">
-          <span>Date: ${new Date(acc.date).toLocaleDateString('fr-FR')}</span>
+          <span>Date: ${new Date(acc.date).toLocaleDateString(locale())}</span>
           <span>Lieu: ${esc(acc.location)}</span>
           ${acc.airline?`<span>Compagnie: ${esc(acc.airline)}</span>`:''}
           ${acc.aircraft?`<span>Appareil: ${esc(acc.aircraft)}</span>`:''}
@@ -248,7 +249,7 @@
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
     const pts=state.filtered.filter(a=>typeof a.lat==='number'&&typeof a.lon==='number');
     if(pts.length===0){ map.setView([20,0],2); state._lastGroupBounds=null; return; }
-    const markers=pts.map(a=>{ const m=L.circleMarker([a.lat,a.lon],{radius:6,color:'#4ea1ff',weight:2,fillColor:'#4ea1ff',fillOpacity:0.8}); m.bindTooltip(esc(a.title),{direction:'top',offset:[0,-6],opacity:0.9}); m.bindPopup(`<strong>${esc(a.title)}</strong><br>${new Date(a.date).toLocaleDateString('fr-FR')}<br><a href=\"#/accident/${encodeURIComponent(a.id)}\">Voir la fiche</a>`); return m; });
+    const markers=pts.map(a=>{ const m=L.circleMarker([a.lat,a.lon],{radius:6,color:'#4ea1ff',weight:2,fillColor:'#4ea1ff',fillOpacity:0.8}); m.bindTooltip(esc(a.title),{direction:'top',offset:[0,-6],opacity:0.9}); m.bindPopup(`<strong>${esc(a.title)}</strong><br>${new Date(a.date).toLocaleDateString(locale())}<br><a href=\"#/accident/${encodeURIComponent(a.id)}\">Voir la fiche</a>`); return m; });
     let group;
     if(typeof L.markerClusterGroup==='function'){
       group=L.markerClusterGroup({showCoverageOnHover:false,spiderfyOnMaxZoom:true,disableClusteringAtZoom:7});
@@ -268,7 +269,7 @@
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
     const crash=L.circleMarker([acc.lat,acc.lon],{radius:7,color:'#ff6b6b',weight:2,fillColor:'#ff6b6b',fillOpacity:0.85}).addTo(map);
     crash.bindTooltip(esc(acc.title),{direction:'top',offset:[0,-6],opacity:0.9});
-    crash.bindPopup(`<strong>${esc(acc.title)}</strong><br>${new Date(acc.date).toLocaleDateString('fr-FR')}`);
+    crash.bindPopup(`<strong>${esc(acc.title)}</strong><br>${new Date(acc.date).toLocaleDateString(locale())}`);
     const bounds=[[acc.lat,acc.lon]];
     if(acc.route&&acc.route.from&&acc.route.to&&typeof acc.route.from.lat==='number'&&typeof acc.route.from.lon==='number'&&typeof acc.route.to.lat==='number'&&typeof acc.route.to.lon==='number'){
       const from=[acc.route.from.lat,acc.route.from.lon]; const to=[acc.route.to.lat,acc.route.to.lon];
