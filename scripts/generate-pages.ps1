@@ -46,7 +46,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
 
   $html = @"
 <!DOCTYPE html>
-<html lang="${lang}">
+<html lang="fr">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -109,7 +109,7 @@ foreach ($acc in $data) {
 $links = ($data | ForEach-Object { "<li><a href=`"/accidents/$($_.id)/`">$($_.title)</a></li>" }) -join "`n"
 $listHtml = @"
 <!DOCTYPE html>
-<html lang="${lang}">
+<html lang="fr">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />

@@ -506,4 +506,30 @@
     "sources": [{"title": "Aviation civile Colombie – Rapport", "url": "https://www.aerocivil.gov.co/"}],
     "description": "<p>Le vol affrété pour l’équipe de Chapecoense est conduit avec une planification carburant notoirement insuffisante. À l’arrivée dans la région de Medellín, un circuit d’attente et la topographie retardent l’approche finale ; les moteurs s’arrêtent successivement et l’avion s’abat sur un relief.</p><p>Le drame met en lumière des défaillances systémiques de planification, de supervision de l’opérateur et de contrôle du respect des règles de réserve carburant.</p>"
   }
+  ,
+  {
+    "id": "ups2976-2025",
+    "title": "UPS 2976 – Crash à Louisville (MD‑11)",
+    "date": "2025-11-04",
+    "location": "Aéroport international de Louisville (SDF), Kentucky, États‑Unis",
+    "aircraft": "McDonnell Douglas MD‑11 (cargo)",
+    "airline": "UPS Airlines",
+    "country": "États‑Unis",
+    "manufacturer": "McDonnell Douglas",
+    "phaseOfFlight": "Décollage",
+    "passengersTotal": 3,
+    "fatalities": null,
+    "lat": 38.1744,
+    "lon": -85.7360,
+    "images": [{"url": "assets/img/ups2976-2025.jpg", "caption": "Zone aéroportuaire de Louisville – illustration."}],
+    "route": {
+      "from": {"name": "Louisville – Muhammad Ali Intl", "iata": "SDF"},
+      "to": {"name": "Honolulu – HNL (prévu)", "iata": "HNL"}
+    },
+    "sources": [
+      {"title": "FAA – Note d’information (4 nov.)", "url": "https://www.faa.gov/"},
+      {"title": "UPS – Communiqué", "url": "https://www.ups.com/"}
+    ],
+    "description": "<h3>Contexte</h3><p>Un avion‑cargo UPS opérant le vol 2976 décolle de Louisville (SDF) à destination d’Hawaï. L’appareil est un MD‑11 cargo avec trois membres d’équipage à bord.</p><h3>Déroulement</h3><p>Peu après le décollage, l’avion s’écrase au sein de l’emprise aéroportuaire dans une boule de feu. Les autorités locales rapportent au moins sept décès au total et redoutent un bilan plus lourd, les victimes comprenant des personnes au sol.</p><h3>Réponse d’urgence</h3><p>Les services de secours interviennent massivement; des capteurs de qualité de l’air sont déployés par les autorités de l’État du Kentucky. La FAA confirme l’horaire approximatif de l’accident (~17h15 locales) et l’identification du type d’appareil.</p><h3>Statut de l’enquête</h3><p>Une enquête fédérale est attendue (FAA/NTSB). Le transporteur indique collaborer pleinement et publie un communiqué. Les chiffres resteront provisoires jusqu’aux confirmations officielles.</p>"
+  }
 ]
