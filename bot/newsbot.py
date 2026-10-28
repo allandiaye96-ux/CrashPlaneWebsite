@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Robot d'actualités aéronautiques de Carnet de Vol.
 
-Cycle (lancé toutes les 30 min par GitHub Actions) :
+Cycle (lancé toutes les 10 min par GitHub Actions) :
   1. lit les flux RSS/Atom listés dans bot/config.json ;
   2. regroupe les nouveaux articles par événement (IA, modèle léger) ;
   3. applique les règles de corroboration (2 sources indépendantes ou 1 source officielle) ;

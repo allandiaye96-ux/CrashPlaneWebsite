@@ -2,7 +2,7 @@ name: Robot d'actualités
 
 on:
   schedule:
-    - cron: "7,37 * * * *"   # toutes les 30 min (GitHub peut retarder de quelques minutes)
+    - cron: "3-59/10 * * * *"   # toutes les 10 min (GitHub peut retarder ; Pages limite à ~10 reconstructions/heure)
   workflow_dispatch: {}      # bouton « Run workflow » pour un lancement manuel
 
 permissions:

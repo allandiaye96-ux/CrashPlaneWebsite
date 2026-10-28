@@ -1,7 +1,7 @@
 # Robot d'actualités
 
 Le robot publie des brèves d'actualité aéronautique sur la page `/actualites/`.
-Il tourne tout seul sur GitHub (GitHub Actions), toutes les 30 minutes environ, sans serveur.
+Il tourne tout seul sur GitHub (GitHub Actions), toutes les 10 minutes environ, sans serveur.
 
 ## Fonctionnement
 
