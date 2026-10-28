@@ -42,6 +42,13 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
   $basePath = if($lang -eq 'en'){ '/en/accidents' } else { '/accidents' }; $canonical = "$BaseUrl$basePath/$id/"
   $absImg = if ($img) { "$BaseUrl/$img" } else { "$BaseUrl/assets/img/plane.jpg" }
 
+  $srcItems = @(Get-Prop $acc 'sources') | Where-Object { $_ -and (Get-Prop $_ 'url') } | ForEach-Object {
+    $u = [System.Net.WebUtility]::HtmlEncode([string](Get-Prop $_ 'url'))
+    $t = Get-Prop $_ 'title'; if (-not $t) { $t = Get-Prop $_ 'url' }
+    "<li><a href=`"$u`" target=`"_blank`" rel=`"noopener`">$([System.Net.WebUtility]::HtmlEncode([string]$t))</a></li>"
+  }
+  $sourcesHtml = if ($srcItems) { "<section class=`"sources`"><h2>Sources</h2><ul>$($srcItems -join '')</ul></section>" } else { '' }
+
   $hero = if ($img) { "<img class=`"hero`" src=`"../../$img`" alt=`"$title`" />" } else { '' }
 
   $html = @"
@@ -81,6 +88,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
       <div class="meta">$date — $location — $airline — $aircraft</div>
       $hero
       <article class="story">$descHtml</article>
+      $sourcesHtml
       <p><a class="btn" href="/#/accident/$id">Voir la fiche interactive</a></p>
     </main>
     <footer class="site-footer"><div class="container"><p class="brand-mention">CrashPlaneWebsite — www.crashplanewebsite.com</p></div></footer>
