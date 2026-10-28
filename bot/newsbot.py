@@ -36,6 +36,7 @@ CONFIG_PATH = ROOT / "bot" / "config.json"
 NEWS_DIR = ROOT / "data" / "news"
 STORIES_PATH = NEWS_DIR / "stories.json"
 STATE_PATH = NEWS_DIR / "state.json"
+HEALTH_PATH = NEWS_DIR / "health.json"
 
 USER_AGENT = "CrashPlaneWebsiteBot/1.0 (+https://www.crashplanewebsite.com/actualites/)"
 API_URL = "https://api.anthropic.com/v1/messages"
@@ -206,15 +207,19 @@ def fetch_feed(url: str, timeout: int = 20) -> bytes:
         return resp.read(3_000_000)
 
 
-def collect_items(cfg: dict, fetcher=fetch_feed) -> list[dict]:
+def collect_items(cfg: dict, fetcher=fetch_feed, health: dict | None = None) -> list[dict]:
     out = []
     for feed in cfg["feeds"]:
         try:
             items = parse_feed(fetcher(feed["url"]), feed["name"])
             log(f"flux OK   {feed['name']}: {len(items)} articles")
             out.extend(items)
+            if health is not None:
+                health[feed["name"]] = {"ok": True, "items": len(items)}
         except Exception as exc:  # un flux en panne ne doit pas bloquer les autres
             log(f"flux ÉCHEC {feed['name']}: {type(exc).__name__}: {exc}")
+            if health is not None:
+                health[feed["name"]] = {"ok": False, "error": f"{type(exc).__name__}: {str(exc)[:200]}"}
     return out
 
 
@@ -520,7 +525,8 @@ def run(cfg: dict, api_key: str | None, fetcher=fetch_feed, claude_cls=Claude) -
 
     now = now_utc()
     window = dt.timedelta(hours=cfg["window_hours"])
-    items = collect_items(cfg, fetcher)
+    feed_health: dict = {}
+    items = collect_items(cfg, fetcher, feed_health)
     stats["fetched"] = len(items)
     new_items = []
     for it in items:
@@ -566,6 +572,7 @@ def run(cfg: dict, api_key: str | None, fetcher=fetch_feed, claude_cls=Claude) -
         log(str(exc))
     except Exception as exc:
         stats["errors"] += 1
+        stats["last_error"] = f"{type(exc).__name__}: {str(exc)[:300]}"
         log(f"erreur : {type(exc).__name__}: {exc}")
 
     # nettoyage : dossiers inactifs, articles vus anciens
@@ -582,6 +589,15 @@ def run(cfg: dict, api_key: str | None, fetcher=fetch_feed, claude_cls=Claude) -
     ordered = sorted(by_id.values(), key=lambda s: s["updated"], reverse=True)[: cfg["max_stories_kept"]]
     save_json(STORIES_PATH, ordered)
     save_json(STATE_PATH, state)
+    pending = []
+    for c in clusters.values():
+        v = verification_status(c, cfg)
+        pending.append({"dossier": c["label"], "statut": v["status"], "editeurs": v["independent_sources"],
+                        "breve": c["story_id"]})
+    save_json(HEALTH_PATH, {
+        "run": iso(now), "stats": stats, "spend_month_usd": round(claude.spent(), 4),
+        "feeds": feed_health, "dossiers": sorted(pending, key=lambda x: (x["breve"] is None, -x["editeurs"])),
+    })
     log(f"terminé : {stats} — dépense du mois {claude.spent():.4f} $")
     return stats
 

@@ -74,6 +74,7 @@ BAD = dict(GOOD, chapo="L'appareil transportait 160 passagers.")
 def tmp_news(tmp_path, monkeypatch):
     monkeypatch.setattr(newsbot, "STORIES_PATH", tmp_path / "stories.json")
     monkeypatch.setattr(newsbot, "STATE_PATH", tmp_path / "state.json")
+    monkeypatch.setattr(newsbot, "HEALTH_PATH", tmp_path / "health.json")
     return tmp_path
 
 
@@ -159,3 +160,11 @@ def test_html_entities_in_feed():
     xml = b'<?xml version="1.0" encoding="utf-8"?><rss><channel><item><title>A&nbsp;380 retir\xc3\xa9 &eacute;t&eacute;</title><link>https://x.example/a</link></item></channel></rss>'
     items = newsbot.parse_feed(xml, "X")
     assert items and "380" in items[0]["title"] and "été" in items[0]["title"]
+
+
+def test_health_report(tmp_news):
+    run(cfg(), [GOOD])
+    h = json.loads((tmp_news / "health.json").read_text())
+    assert h["feeds"]["Source A"] == {"ok": True, "items": 2}
+    assert h["feeds"]["Cassé"]["ok"] is False
+    assert h["dossiers"] and h["dossiers"][0]["breve"]
