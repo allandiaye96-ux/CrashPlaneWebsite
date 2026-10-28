@@ -1,388 +1,329 @@
-/* App principal: liste, recherche, tri, filtres, cartes (Leaflet) */
-(function(){
+/* Chroniques des Crashes Aériens — application principale
+   Accueil (enregistreur + actualités + base), fiche accident, à propos.
+   Les données de la base sont rédigées à la main ; les actualités viennent du robot
+   et sont insérées en texte brut uniquement (voir news.js / renderNewsTeaser). */
+(function () {
   'use strict';
 
   const state = {
-    accidents: [],
-    filtered: [],
-    q: '',
-    yearFrom: '',
-    yearTo: '',
-    airline: 'all',
-    country: 'all',
-    manufacturer: 'all',
-    phase: 'all',
-    sortBy: 'date_desc',
-    fallbackUsed: false,
-    listMap: null,
-    detailMap: null,
-    _lastGroupBounds: null,
+    accidents: [], filtered: [], news: [],
+    q: '', decade: 'all', manufacturer: 'all', phase: 'all', sortBy: 'date_desc',
+    view: 'list', listMap: null, detailMap: null, fallbackUsed: false,
   };
 
   const $app = document.getElementById('app');
-  const getLang = () => (localStorage.getItem('lang')||((navigator.language||'').toLowerCase().startsWith('fr')?'fr':'en'));
-  const locale = () => getLang()==='en'?'en-US':'fr-FR';
-  const fmt = n => typeof n === 'number' ? new Intl.NumberFormat(locale()).format(n) : n;
-  const esc = s => String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
-  const firstImage = a => (a.images && a.images.length && a.images[0].url) ? a.images[0].url : 'assets/img/plane.jpg';
+  const nf = new Intl.NumberFormat('fr-FR');
+  const fmt = n => (typeof n === 'number' ? nf.format(n) : '—');
+  const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const fdate = d => { const x = new Date(d); return isNaN(x) ? '—' : x.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }); };
+  const year = a => new Date(a.date).getFullYear();
+  const survivors = a => (typeof a.passengersTotal === 'number' && typeof a.fatalities === 'number') ? a.passengersTotal - a.fatalities : null;
+  const flightCode = a => { const m = /^([a-z]{1,4}\d{1,5})-\d{4}$/i.exec(a.id); return m ? m[1].toUpperCase() : null; };
+  const shortTitle = a => String(a.title || '').split(/\s[–-]\s/)[0];
+  const subTitle = a => { const p = String(a.title || '').split(/\s[–-]\s/); return p.length > 1 ? p.slice(1).join(' – ') : (a.location || ''); };
 
-  const I18N = {
-    fr: {
-      heroTitle: "Accidents et crashes d'avion",
-      heroSubtitle: "Histoires documentées, illustrées, sourcées.",
-      filters: 'Filtres',
-      searchPlaceholder: 'Rechercher (titre, lieu, compagnie, appareil, détails)',
-      allAirlines: 'Toutes compagnies',
-      allCountries: 'Tous pays',
-      allManufacturers: 'Tous constructeurs',
-      allPhases: 'Toutes phases',
-      yearFrom: 'De', yearTo: 'À',
-      sort_date_desc: 'Trier: Date (récent → ancien)',
-      sort_date_asc: 'Trier: Date (ancien → récent)',
-      sort_deaths_desc: 'Trier: Morts (plus → moins)',
-      sort_deaths_asc: 'Trier: Morts (moins → plus)',
-      sort_surv_desc: 'Trier: Survivants (plus → moins)',
-      sort_surv_asc: 'Trier: Survivants (moins → plus)',
-      countSuffix: 'événement(s)',
-      adjustMap: 'Ajuster la carte aux résultats',
-      listLabel: 'Carte des accidents',
-      noResults: 'Aucun résultat. Ajustez votre recherche ou vos filtres.',
-      back: 'Retour',
-      date: 'Date', place: 'Lieu', airline: 'Compagnie', aircraft: 'Appareil',
-      deaths: 'Morts', paxTotal: 'Total passagers', survivors: 'Survivants',
-      sources: 'Sources', noSources: 'Aucune source fournie.',
-      share: 'Partager', copyLink: 'Copier le lien', copied: 'Lien copié ✓',
-      legend_from: 'Départ', legend_to: 'Arrivée prévue', legend_site: "Lieu de l'accident",
-      mapUnavailable: 'Carte indisponible (Leaflet non chargé).'
-    },
-    en: {
-      heroTitle: 'Aircraft accidents and crashes',
-      heroSubtitle: 'Documented stories with maps and sources.',
-      filters: 'Filters',
-      searchPlaceholder: 'Search (title, location, airline, aircraft, details)',
-      allAirlines: 'All airlines',
-      allCountries: 'All countries',
-      allManufacturers: 'All manufacturers',
-      allPhases: 'All phases',
-      yearFrom: 'From', yearTo: 'To',
-      sort_date_desc: 'Sort: Date (new → old)',
-      sort_date_asc: 'Sort: Date (old → new)',
-      sort_deaths_desc: 'Sort: Fatalities (high → low)',
-      sort_deaths_asc: 'Sort: Fatalities (low → high)',
-      sort_surv_desc: 'Sort: Survivors (high → low)',
-      sort_surv_asc: 'Sort: Survivors (low → high)',
-      countSuffix: 'event(s)',
-      adjustMap: 'Fit map to results',
-      listLabel: 'Accidents map',
-      noResults: 'No results. Adjust your query or filters.',
-      back: 'Back',
-      date: 'Date', place: 'Location', airline: 'Airline', aircraft: 'Aircraft',
-      deaths: 'Fatalities', paxTotal: 'Total passengers', survivors: 'Survivors',
-      sources: 'Sources', noSources: 'No sources provided.',
-      share: 'Share', copyLink: 'Copy link', copied: 'Link copied ✓',
-      legend_from: 'Departure', legend_to: 'Planned arrival', legend_site: 'Accident site',
-      mapUnavailable: 'Map unavailable (Leaflet not loaded).'
+  /* ---------------- Recherche et filtres ---------------- */
+  const norm = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  const tokens = q => norm(q).split(/\s+/).filter(t => t.length >= 2);
+  function matches(a, q) {
+    const t = tokens(q); if (!t.length) return true;
+    const h = norm([a.title, a.location, a.airline, a.aircraft, a.id, a.description].join(' '));
+    return t.every(x => h.includes(x));
+  }
+  const uniq = k => Array.from(new Set(state.accidents.map(a => a[k]).filter(Boolean))).sort((x, y) => x.localeCompare(y, 'fr'));
+  const decades = () => Array.from(new Set(state.accidents.map(a => Math.floor(year(a) / 10) * 10))).sort((x, y) => x - y);
+
+  function applyFilters() {
+    const f = state.accidents.filter(a => matches(a, state.q)
+      && (state.decade === 'all' || Math.floor(year(a) / 10) * 10 === Number(state.decade))
+      && (state.manufacturer === 'all' || a.manufacturer === state.manufacturer)
+      && (state.phase === 'all' || a.phaseOfFlight === state.phase));
+    const num = v => (typeof v === 'number' ? v : null);
+    const cmp = (x, y, d) => (x == null && y == null) ? 0 : x == null ? 1 : y == null ? -1 : d * (x - y);
+    const s = state.sortBy;
+    f.sort((a, b) => s === 'date_asc' ? cmp(+new Date(a.date), +new Date(b.date), 1)
+      : s === 'deaths_desc' ? cmp(num(a.fatalities), num(b.fatalities), -1)
+      : s === 'surv_desc' ? cmp(survivors(a), survivors(b), -1)
+      : cmp(+new Date(a.date), +new Date(b.date), -1));
+    state.filtered = f;
+  }
+
+  /* ---------------- Enregistreur (frise 1905 → aujourd'hui) ---------------- */
+  function recorderSvg() {
+    const W = 1000, H = 150, base = 120, top = 14;
+    const y0 = 1905, y1 = Math.max(new Date().getFullYear() + 1, 2026);
+    const x = d => { const t = new Date(d); return ((t.getFullYear() + t.getMonth() / 12 - y0) / (y1 - y0)) * W; };
+    const maxF = Math.max(1, ...state.accidents.map(a => a.fatalities || 0));
+    const h = a => typeof a.fatalities === 'number' ? 6 + (base - top - 6) * Math.sqrt(a.fatalities / maxF) : 6;
+    let grid = '';
+    for (let yr = 1910; yr < y1; yr += 10) {
+      const gx = ((yr - y0) / (y1 - y0)) * W;
+      grid += `<line class="rec-grid" x1="${gx}" x2="${gx}" y1="${top}" y2="${base}"/>`
+        + `<text class="rec-year" x="${gx}" y="${base + 20}" text-anchor="middle">${yr}</text>`;
     }
-  };
-  const t = (k) => (I18N[getLang()]&&I18N[getLang()][k]) || I18N.fr[k] || k;
+    const sorted = state.accidents.slice().sort((a, b) => new Date(a.date) - new Date(b.date));
+    const bars = sorted.map((a, i) => {
+      const bx = x(a.date).toFixed(1), bh = h(a).toFixed(1);
+      const label = `${year(a)}, ${shortTitle(a)} : ${typeof a.fatalities === 'number' ? fmt(a.fatalities) + ' morts' : 'bilan non renseigné'}`;
+      return `<a href="#/accident/${encodeURIComponent(a.id)}" class="rec-bar" data-id="${esc(a.id)}" aria-label="${esc(label)}" style="--i:${i}">`
+        + `<rect x="${bx - 6}" y="${top}" width="12" height="${base - top}" class="rec-hit"/>`
+        + `<line x1="${bx}" x2="${bx}" y1="${base}" y2="${(base - bh).toFixed(1)}" class="rec-line"/></a>`;
+    }).join('');
+    const dated = state.accidents.filter(a => !isNaN(new Date(a.date)));
+    const byDate = dated.slice().sort((a, b) => new Date(a.date) - new Date(b.date));
+    const worst = dated.filter(a => typeof a.fatalities === 'number').sort((a, b) => b.fatalities - a.fatalities)[0];
+    const picks = [];
+    if (byDate[0]) picks.push([byDate[0], 'Le plus ancien']);
+    if (worst && worst !== byDate[0]) picks.push([worst, 'Le plus meurtrier']);
+    const latest = byDate[byDate.length - 1];
+    if (latest && !picks.some(p => p[0] === latest)) picks.push([latest, 'Le plus récent']);
+    const notes = picks.map(([a, k]) => {
+      const pos = x(a.date) / W * 100, right = pos > 75;
+      return `<li class="${right ? 'is-right' : ''}" style="left:${pos.toFixed(2)}%;height:calc(34px + ${((base - h(a)) / H).toFixed(3)} * (100% - 34px))"><a href="#/accident/${encodeURIComponent(a.id)}" tabindex="-1"><span class="rec-note-k">${k}</span>${esc(shortTitle(a))}${shortTitle(a).includes(String(year(a))) ? '' : ', ' + year(a)}</a></li>`;
+    }).join('');
+    return `<div class="recorder-plot"><svg class="recorder-svg" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="group" aria-label="Frise des accidents de la base, de 1908 à aujourd'hui">
+      ${grid}<line class="rec-base" x1="0" x2="${W}" y1="${base}" y2="${base}"/>${bars}</svg><ul class="rec-notes" aria-hidden="true">${notes}</ul></div>`;
+  }
 
-  function applyI18n(){
-    try{ document.documentElement.lang = getLang()==='en'?'en':'fr'; }catch{}
-    const heroH1 = document.querySelector('.hero h1'); if(heroH1) heroH1.textContent = t('heroTitle');
-    const heroP = document.querySelector('.hero p'); if(heroP) heroP.textContent = t('heroSubtitle');
-    const q = document.getElementById('q'); if(q) q.placeholder = t('searchPlaceholder');
-    const airline = document.getElementById('airline'); if(airline){ [...airline.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allAirlines'); }); }
-    const country = document.getElementById('country'); if(country){ [...country.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allCountries'); }); }
-    const manuf = document.getElementById('manufacturer'); if(manuf){ [...manuf.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allManufacturers'); }); }
-    const phase = document.getElementById('phase'); if(phase){ [...phase.options].forEach(o=>{ if(o.value==='all') o.textContent=t('allPhases'); }); }
-    const yf = document.getElementById('yearFrom'); if(yf){ yf.placeholder = `${t('yearFrom')} ${yf.placeholder.replace(/\D+/g,'').trim()}`.trim(); }
-    const yt = document.getElementById('yearTo'); if(yt){ yt.placeholder = `${t('yearTo')} ${yt.placeholder.replace(/\D+/g,'').trim()}`.trim(); }
-    const sort = document.getElementById('sortBy'); if(sort){ [...sort.options].forEach(o=>{ const key = `sort_${o.value}`; if(I18N.fr[key]||I18N.en[key]) o.textContent=t(key); }); }
-    const count = document.querySelector('.count'); if(count){ count.textContent = `${fmt((window.state&&state.filtered&&state.filtered.length)||document.querySelectorAll('.grid .card').length)} ${t('countSuffix')}`; }
-    const fit = document.getElementById('fitMap'); if(fit){ fit.textContent = t('adjustMap'); }
-    document.querySelectorAll('.empty').forEach(el=>{ if(el.textContent.match(/Aucun|No results/)) el.textContent=t('noResults'); });
-    // Detail view tweaks
-    const back = document.querySelector('nav.meta a'); if(back){ back.textContent = t('back'); }
-    document.querySelectorAll('.detail .meta-row span').forEach(sp=>{
-      sp.textContent = sp.textContent.replace(/^\s*Date\s*:/, t('date')+':').replace(/^\s*Lieu\s*:/, t('place')+':').replace(/^\s*Compagnie\s*:/, t('airline')+':').replace(/^\s*Appareil\s*:/, t('aircraft')+':').replace(/^\s*Morts\s*:/, t('deaths')+':').replace(/^\s*Total passagers\s*:/, t('paxTotal')+':').replace(/^\s*Survivants\s*:/, t('survivors')+':');
-    });
-    document.querySelectorAll('h3').forEach(h=>{ if(h.textContent.trim()==='Sources'||h.textContent.trim()==='Sources') h.textContent=t('sources'); if(h.textContent.trim()==='Partager'||h.textContent.trim()==='Share') h.textContent=t('share'); });
-    const copyBtn=document.getElementById('copyLink'); if(copyBtn){ copyBtn.textContent=t('copyLink'); }
-    document.querySelectorAll('#mapList .empty, #mapDetail .empty').forEach(el=>{ if(el.textContent.includes('Carte indisponible')||el.textContent.includes('Map unavailable')) el.textContent=t('mapUnavailable'); });
-    // Legend labels inside detail map legend line
-    document.querySelectorAll('#mapDetail + div .meta, #mapDetail').forEach(()=>{
-      const metaDiv = document.querySelector('#mapDetail') ? document.querySelector('#mapDetail').parentElement.nextElementSibling : null;
-      if(!metaDiv) return;
-      metaDiv.innerHTML = metaDiv.innerHTML.replace(/D[é�]part/g, t('legend_from')).replace(/Arriv[é�]e pr[é�]vue/g, t('legend_to')).replace(/Lieu de l'accident/g, t('legend_site'));
+  function bindRecorder() {
+    const svg = document.querySelector('.recorder-svg'); const out = document.getElementById('recReadout');
+    if (!svg || !out) return;
+    const show = id => {
+      const a = state.accidents.find(z => z.id === id); if (!a) return;
+      svg.querySelectorAll('.rec-bar').forEach(b => b.classList.toggle('is-active', b.dataset.id === id));
+      out.textContent = '';
+      const strong = document.createElement('strong'); strong.textContent = shortTitle(a);
+      out.append(strong, document.createTextNode(` — ${fdate(a.date)}, ${a.location || ''}. `
+        + (typeof a.fatalities === 'number' ? `${fmt(a.fatalities)} morts` : 'Bilan non renseigné')
+        + (survivors(a) > 0 ? `, ${fmt(survivors(a))} survivants.` : '.')));
+    };
+    svg.querySelectorAll('.rec-bar').forEach(b => {
+      b.addEventListener('mouseenter', () => show(b.dataset.id));
+      b.addEventListener('focus', () => show(b.dataset.id));
     });
   }
 
-  // Recherche tolérante aux accents et légère tolérance aux fautes (subsequence)
-  const norm = s => String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  const queryTokens = q => norm(q).split(/\s+/).filter(t => t && t.length >= 2);
-  const fuzzySubseq = (h, n) => { let i=0; for(const c of n){ i=h.indexOf(c,i); if(i===-1) return false; i++; } return true; };
-  function highlightPlain(text, tokens){
-    if(!tokens||tokens.length===0) return esc(text);
-    const re=/[^\s]+/g; let out='', last=0, m; const s=String(text);
-    while((m=re.exec(s))){ const i=m.index; const w=m[0]; out+=esc(s.slice(last,i)); const nw=norm(w);
-      const hit=tokens.some(t=>nw.includes(t)||(t.length>=3&&fuzzySubseq(nw,t)));
-      out+=hit?('<mark>'+esc(w)+'</mark>'):esc(w); last=i+w.length; }
-    out+=esc(s.slice(last)); return out;
+  /* ---------------- Accueil ---------------- */
+  function stripHtml(a) {
+    const code = flightCode(a);
+    const surv = survivors(a);
+    return `<li><a class="strip" href="#/accident/${encodeURIComponent(a.id)}">
+      <span class="strip-code">${code ? esc(code) : '<span class="strip-nocode">—</span>'}<span class="strip-year">${year(a)}</span></span>
+      <span class="strip-main"><span class="strip-title">${esc(shortTitle(a))}</span><span class="strip-sub">${esc(subTitle(a))}</span></span>
+      <span class="strip-ac">${esc(a.aircraft || '')}</span>
+      <span class="strip-toll"><span class="strip-num">${fmt(a.fatalities)}</span><span class="strip-unit">morts</span>${surv > 0 ? `<span class="strip-surv">${fmt(surv)} survivants</span>` : ''}</span>
+    </a></li>`;
   }
 
-  function getYearsRange(){
-    const years = state.accidents.map(a=>{ const d=new Date(a.date); return isNaN(d)?null:d.getFullYear();}).filter(y=>y!==null);
-    if(!years.length) return [null,null];
-    return [Math.min(...years), Math.max(...years)];
-  }
-  const unique = list => ['all', ...Array.from(new Set(list.filter(Boolean))).sort((a,b)=>String(a).localeCompare(String(b)))];
-  const uniqueAirlines = ()=> unique(state.accidents.map(a=>a.airline));
-  const uniqueCountries = ()=> unique(state.accidents.map(a=>a.country));
-  const uniqueManufacturers = ()=> unique(state.accidents.map(a=>a.manufacturer));
-  const uniquePhases = ()=> unique(state.accidents.map(a=>a.phaseOfFlight));
-
-  function matchesQuery(a,q){ const t=queryTokens(q); if(t.length===0) return true; const h=norm([a.title,a.location,a.airline,a.aircraft,a.description||''].join(' ')); return t.every(x=>h.includes(x)||(x.length>=3&&fuzzySubseq(h,x))); }
-  function inYearRange(a,f,t){ if(!f&&!t) return true; const y=new Date(a.date).getFullYear(); if(f&&y<Number(f)) return false; if(t&&y>Number(t)) return false; return true; }
-  const match = (a,k,v) => (v==='all'||a[k]===v);
-
-  function applySort(){
-    const sb=state.sortBy;
-    const val=(a,k)=> (typeof a[k]==='number'?a[k]:(a[k]!=null?Number(a[k]):null));
-    const surv=a=>(typeof a.passengersTotal==='number'&&typeof a.fatalities==='number')?(a.passengersTotal-a.fatalities):null;
-    const date=a=>new Date(a.date).getTime();
-    const cmp=(x,y,d)=>{ if(x==null&&y==null) return 0; if(x==null) return 1; if(y==null) return -1; return d*(x-y);} ;
-    switch(sb){
-      case 'date_asc': state.filtered.sort((a,b)=>cmp(date(a),date(b),+1)); break;
-      case 'date_desc': state.filtered.sort((a,b)=>cmp(date(a),date(b),-1)); break;
-      case 'deaths_asc': state.filtered.sort((a,b)=>cmp(val(a,'fatalities'),val(b,'fatalities'),+1)); break;
-      case 'deaths_desc': state.filtered.sort((a,b)=>cmp(val(a,'fatalities'),val(b,'fatalities'),-1)); break;
-      case 'surv_asc': state.filtered.sort((a,b)=>cmp(surv(a),surv(b),+1)); break;
-      case 'surv_desc': state.filtered.sort((a,b)=>cmp(surv(a),surv(b),-1)); break;
-      default: break;
-    }
-  }
-  function applyFilters(){
-    state.filtered = state.accidents
-      .filter(a=>matchesQuery(a,state.q))
-      .filter(a=>inYearRange(a,state.yearFrom,state.yearTo))
-      .filter(a=>match(a,'airline',state.airline))
-      .filter(a=>match(a,'country',state.country))
-      .filter(a=>match(a,'manufacturer',state.manufacturer))
-      .filter(a=>match(a,'phaseOfFlight',state.phase));
-    applySort();
+  function optionList(values, current, allLabel, labelFn) {
+    return `<option value="all">${esc(allLabel)}</option>` + values.map(v => `<option value="${esc(v)}" ${String(current) === String(v) ? 'selected' : ''}>${esc(labelFn ? labelFn(v) : v)}</option>`).join('');
   }
 
-  function captureFocus(){ const el=document.activeElement; if(!el||!el.id) return null; const tag=el.tagName; if(tag!=='INPUT'&&tag!=='TEXTAREA'&&tag!=='SELECT') return {id:el.id}; return {id:el.id,start:el.selectionStart,end:el.selectionEnd}; }
-  function restoreFocus(fs){ if(!fs) return; const el=document.getElementById(fs.id); if(!el) return; el.focus(); if(typeof fs.start==='number'&&typeof fs.end==='number'&&el.setSelectionRange){ try{ el.setSelectionRange(fs.start,fs.end);}catch{} } }
-
-  function renderHome(){
+  function renderHome() {
     applyFilters();
-    const [minY,maxY]=getYearsRange(); const airlines=uniqueAirlines(); const countries=uniqueCountries(); const mans=uniqueManufacturers(); const phases=uniquePhases(); const tokens=queryTokens(state.q); const fb=captureFocus();
-    const notice = state.fallbackUsed ? '<div class="notice" style="margin:10px 0;">Données chargées en mode local. Pour lire data/accidents.json : lancez <code>py -m http.server 5500</code> puis ouvrez <code>http://localhost:5500</code>.</div>' : '';
-    const filters = `
-      ${notice}
-      <section class="hero"><h1>Accidents et crashes d’avion</h1><p> illustrées, sourcées.</p></section>
-      <div class="panel" role="region" aria-label="Filtres">
-        <div class="filters" style="padding:10px; display:grid; gap:8px; grid-template-columns: 1fr 180px 180px 180px 1fr 1fr 220px; align-items:center;">
-          <label class="sr-only" for="q">Rechercher</label>
-          <input id="q" type="search" placeholder="" value="${esc(state.q)}" />
-          <select id="airline">${airlines.map(a=>`<option value="${esc(a)}" ${state.airline===a?'selected':''}>${a==='all'?'':esc(a)}</option>`).join('')}</select>
-          <select id="country" ${countries.length<=1?'disabled':''}>${countries.map(c=>`<option value="${esc(c)}" ${state.country===c?'selected':''}>${c==='all'?'':esc(c)}</option>`).join('')}</select>
-          <select id="manufacturer" ${mans.length<=1?'disabled':''}>${mans.map(m=>`<option value="${esc(m)}" ${state.manufacturer===m?'selected':''}>${m==='all'?'':esc(m)}</option>`).join('')}</select>
-          <select id="phase" ${phases.length<=1?'disabled':''}>${phases.map(p=>`<option value="${esc(p)}" ${state.phase===p?'selected':''}>${p==='all'?'':esc(p)}</option>`).join('')}</select>
-          <div style="display:flex; gap:8px;">
-            <label class="sr-only" for="yearFrom">De</label>
-            <input id="yearFrom" type="number" placeholder="De ${minY||''}" value="${esc(state.yearFrom)}" />
-            <label class="sr-only" for="yearTo">À</label>
-            <input id="yearTo" type="number" placeholder="À ${maxY||''}" value="${esc(state.yearTo)}" />
-          </div>
-          <select id="sortBy">
-            <option value="date_desc" ${state.sortBy==='date_desc'?'selected':''}></option>
-            <option value="date_asc" ${state.sortBy==='date_asc'?'selected':''}></option>
-            <option value="deaths_desc" ${state.sortBy==='deaths_desc'?'selected':''}></option>
-            <option value="deaths_asc" ${state.sortBy==='deaths_asc'?'selected':''}></option>
-            <option value="surv_desc" ${state.sortBy==='surv_desc'?'selected':''}></option>
-            <option value="surv_asc" ${state.sortBy==='surv_asc'?'selected':''}></option>
-          </select>
-        </div>
-        <div style="padding:0 10px 10px;" class="count">${fmt(state.filtered.length)} évènement(s)</div>
-      </div>
-      <div class="panel" style="padding:10px; margin-top:10px;">
-        <h2 class="sr-only">Carte des accidents</h2>
-        <div style="display:flex; justify-content:flex-end; margin-bottom:6px;"><button id="fitMap" class="btn"></button></div>
-        <div id="mapList" class="map" role="region" aria-label="Carte des accidents"></div>
-      </div>`;
+    const n = state.accidents.length;
+    const first = n ? Math.min(...state.accidents.map(year)) : '', last = n ? Math.max(...state.accidents.map(year)) : '';
+    $app.innerHTML = `
+      ${state.fallbackUsed ? '<p class="notice">Données chargées en mode local (fichier ouvert hors serveur).</p>' : ''}
+      <section class="hero">
+        <div class="hero-top"><h1 class="hero-title">Chaque accident a changé la façon de voler.</h1>
+        <p class="hero-lede">${n} accidents documentés de ${first} à ${last}, racontés à partir des rapports d’enquête, et une veille d’actualité vérifiée par recoupement.</p></div>
+        <figure class="recorder">
+          ${recorderSvg()}
+          <figcaption><p id="recReadout" class="rec-readout" aria-live="polite">Survolez un trait pour lire l’accident. La hauteur suit le nombre de victimes.</p></figcaption>
+        </figure>
+      </section>
 
-    const grid = `
-      <section class="grid" aria-label="Liste des accidents">
-        ${state.filtered.map(a=>`
-          <article class="card panel">
-            <a href="#/accident/${encodeURIComponent(a.id)}"><img class="thumb" src="${esc(firstImage(a))}" alt="Image" loading="lazy" /></a>
-            <div>
-              <h3><a href="#/accident/${encodeURIComponent(a.id)}">${highlightPlain(a.title,tokens)}</a></h3>
-              <div class="meta">${new Date(a.date).toLocaleDateString(locale())} · ${highlightPlain(a.location,tokens)} · ${highlightPlain(a.aircraft||'Appareil',tokens)}</div>
-              <div class="meta">${highlightPlain(a.airline||'Compagnie inconnue',tokens)} · : <span class="badge">${typeof a.fatalities==='number'?fmt(a.fatalities):'N/A'}</span></div>
-              <div class="meta">${typeof a.passengersTotal==='number'?` : ${fmt(a.passengersTotal)} · `:''}${typeof a.fatalities==='number'?`: ${fmt(a.fatalities)} · `:''}${typeof a.passengersTotal==='number'&&typeof a.fatalities==='number'?` : ${fmt(a.passengersTotal-a.fatalities)}`:''}</div>
-            </div>
-          </article>`).join('')}
-        ${state.filtered.length===0?`<div class="empty"></div>`:''}
+      <section class="home-news" aria-labelledby="newsHeading">
+        <div class="section-head"><h2 id="newsHeading">Actualités vérifiées</h2><a class="link" href="/actualites/">Toutes les actualités</a></div>
+        <div id="newsTeaser"><p class="empty">Chargement…</p></div>
+      </section>
+
+      <section class="base" aria-labelledby="baseHeading">
+        <div class="section-head"><h2 id="baseHeading">La base historique</h2>
+          <div class="view-switch" role="group" aria-label="Affichage">
+            <button class="seg ${state.view === 'list' ? 'is-on' : ''}" data-view="list" aria-pressed="${state.view === 'list'}">Liste</button>
+            <button class="seg ${state.view === 'map' ? 'is-on' : ''}" data-view="map" aria-pressed="${state.view === 'map'}">Carte</button>
+          </div>
+        </div>
+        <div class="toolbar">
+          <label class="field field-search"><span class="sr-only">Rechercher</span>
+            <input id="q" type="search" placeholder="Rechercher un vol, une compagnie, un lieu…" value="${esc(state.q)}" autocomplete="off" /></label>
+          <label class="field"><span class="sr-only">Décennie</span><select id="decade">${optionList(decades(), state.decade, 'Toutes les décennies', d => `Années ${d}`)}</select></label>
+          <label class="field"><span class="sr-only">Constructeur</span><select id="manufacturer">${optionList(uniq('manufacturer'), state.manufacturer, 'Tous les constructeurs')}</select></label>
+          <label class="field"><span class="sr-only">Phase de vol</span><select id="phase">${optionList(uniq('phaseOfFlight'), state.phase, 'Toutes les phases')}</select></label>
+          <label class="field"><span class="sr-only">Trier</span><select id="sortBy">
+            <option value="date_desc" ${state.sortBy === 'date_desc' ? 'selected' : ''}>Plus récents d’abord</option>
+            <option value="date_asc" ${state.sortBy === 'date_asc' ? 'selected' : ''}>Plus anciens d’abord</option>
+            <option value="deaths_desc" ${state.sortBy === 'deaths_desc' ? 'selected' : ''}>Bilan le plus lourd</option>
+            <option value="surv_desc" ${state.sortBy === 'surv_desc' ? 'selected' : ''}>Plus de survivants</option>
+          </select></label>
+        </div>
+        <p class="count" aria-live="polite">${state.filtered.length} accident${state.filtered.length > 1 ? 's' : ''}</p>
+        ${state.view === 'map'
+          ? '<div id="mapList" class="map map-large" role="region" aria-label="Carte des accidents"></div>'
+          : (state.filtered.length ? `<ol class="strips">${state.filtered.map(stripHtml).join('')}</ol>` : '<p class="empty">Aucun accident ne correspond. Élargissez la recherche ou retirez un filtre.</p>')}
       </section>`;
 
-    $app.innerHTML = filters + grid;
-    document.getElementById('q').addEventListener('input', e=>{ state.q=e.target.value; renderHome(); });
-    document.getElementById('airline').addEventListener('change', e=>{ state.airline=e.target.value; renderHome(); });
-    const c=document.getElementById('country'); if(c) c.addEventListener('change', e=>{ state.country=e.target.value; renderHome(); });
-    const m=document.getElementById('manufacturer'); if(m) m.addEventListener('change', e=>{ state.manufacturer=e.target.value; renderHome(); });
-    const p=document.getElementById('phase'); if(p) p.addEventListener('change', e=>{ state.phase=e.target.value; renderHome(); });
-    document.getElementById('yearFrom').addEventListener('input', e=>{ state.yearFrom=e.target.value; renderHome(); });
-    document.getElementById('yearTo').addEventListener('input', e=>{ state.yearTo=e.target.value; renderHome(); });
-    const sortEl=document.getElementById('sortBy'); if(sortEl) sortEl.addEventListener('change', e=>{ state.sortBy=e.target.value; applyFilters(); renderHome(); });
-
-    restoreFocus(fb);
-    setupListMap();
-    const fitBtn=document.getElementById('fitMap'); if(fitBtn) fitBtn.addEventListener('click', ()=>{ try{ if(state._lastGroupBounds) state.listMap.fitBounds(state._lastGroupBounds.pad(0.2)); }catch{} });
+    bindRecorder();
+    renderNewsTeaser();
+    const rerender = () => { const pos = document.getElementById('q'); const caret = pos && document.activeElement === pos ? pos.selectionStart : null; renderHome(); if (caret != null) { const q = document.getElementById('q'); q.focus(); q.setSelectionRange(caret, caret); } };
+    document.getElementById('q').addEventListener('input', e => { state.q = e.target.value; rerender(); });
+    ['decade', 'manufacturer', 'phase', 'sortBy'].forEach(id => document.getElementById(id).addEventListener('change', e => { state[id] = e.target.value; renderHome(); document.getElementById(id).focus(); }));
+    document.querySelectorAll('.seg').forEach(b => b.addEventListener('click', () => { state.view = b.dataset.view; renderHome(); }));
+    if (state.view === 'map') setupListMap();
   }
 
-  function renderAbout(){ $app.innerHTML = `
-    <section class="panel" style="padding:14px;">
-      <h1>À propos</h1>
-      <p>Ce site recense des accidents et crashes d’avion et propose un récit documenté, illustré et sourcé pour chaque évènement, à des fins pédagogiques.</p>
-      <p class="notice">Avertissement : ces résumés ne remplacent pas les rapports d’enquête officiels. Pour les informations primaires et complètes, référez‑vous aux organismes compétents : <strong>BEA</strong> (France), <strong>NTSB</strong> (USA), <strong>AAIB</strong> (UK), <strong>TSB</strong> (Canada), <strong>CENIPA</strong> (Brésil), <strong>KNKT</strong> (Indonésie), <strong>AAIC/JTSB</strong> (Japon), etc.</p>
-      <p>Les sources officielles sont citées au bas de chaque fiche lorsque disponibles. Les images doivent être libres de droits ou personnelles ; en cas de doute, utilisez des illustrations génériques.</p>
-      <p>Vous pouvez contribuer en ajoutant des fiches dans <code>data/accidents.json</code> et des images dans <code>assets/img/</code>. Voir le guide dans <a href="README.md" target="_blank" rel="noopener">README</a>.</p>
-      <p><a class="btn" href="#/">Retour à la liste</a></p>
-    </section>`; }
+  function renderNewsTeaser() {
+    const box = document.getElementById('newsTeaser'); if (!box) return;
+    const items = state.news.filter(s => s.published === true && !s.hidden).slice(0, 3);
+    box.textContent = '';
+    if (!items.length) {
+      const p = document.createElement('p'); p.className = 'empty';
+      p.textContent = 'Les premières brèves sont en cours de vérification. Elles apparaîtront ici dès qu’un événement sera confirmé par plusieurs sources.';
+      box.appendChild(p); return;
+    }
+    const ul = document.createElement('ul'); ul.className = 'teasers';
+    items.forEach(s => {
+      const li = document.createElement('li');
+      const a = document.createElement('a'); a.className = 'teaser'; a.href = '/actualites/#' + encodeURIComponent(s.id);
+      const st = document.createElement('span'); const off = s.verification && s.verification.status === 'officiel';
+      st.className = 'status ' + (off ? 'status-official' : 'status-corroborated');
+      st.textContent = off ? 'Source officielle' : `${(s.verification && s.verification.independent_sources) || 2} sources`;
+      const t = document.createElement('span'); t.className = 'teaser-title'; t.textContent = s.titre;
+      const m = document.createElement('span'); m.className = 'teaser-meta'; m.textContent = `${s.categorie}, ${fdate(s.updated)}`;
+      a.append(st, t, m); li.appendChild(a); ul.appendChild(li);
+    });
+    box.appendChild(ul);
+  }
 
-  function renderDetail(id){
-    const acc = state.accidents.find(a=>String(a.id)===String(id)); if(!acc){ $app.innerHTML='<div class="empty">Évènement introuvable. <a href="#/">Retour</a></div>'; return; }
-    const images=(acc.images||[]).map(img=>`<figure><img src="${esc(img.url)}" alt="${esc(img.caption||'Illustration')}" loading="lazy" />${img.caption?`<figcaption class="meta">${esc(img.caption)}</figcaption>`:''}</figure>`).join('');
-    const sources=(acc.sources||[]).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title||s.url)}</a></li>`).join('');
+  /* ---------------- Fiche accident ---------------- */
+  function renderDetail(id) {
+    const a = state.accidents.find(z => String(z.id) === String(id));
+    if (!a) { $app.innerHTML = '<p class="empty">Cet accident n’existe pas dans la base. <a class="link" href="#/">Revenir à l’accueil</a></p>'; return; }
+    const code = flightCode(a), surv = survivors(a);
+    const cell = (k, v) => v == null || v === '' ? '' : `<div class="db-cell"><dt>${k}</dt><dd>${v}</dd></div>`;
+    const sources = (a.sources || []).filter(s => /^https?:\/\//.test(s.url || '')).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a></li>`).join('');
+    const images = (a.images || []).map(img => `<figure class="detail-fig"><img src="${esc(img.url)}" alt="${esc(img.caption || a.title)}" loading="lazy" />${img.caption ? `<figcaption>${esc(img.caption)}</figcaption>` : ''}</figure>`).join('');
     $app.innerHTML = `
-      <nav class="meta" style="margin:10px 0;"><a href="#/">← Retour</a></nav>
-      <article class="detail panel"><section>
-        <h1>${esc(acc.title)}</h1>
-        <div class="meta-row">
-          <span>${t('date')} : ${new Date(acc.date).toLocaleDateString(locale())}</span>
-          <span>${t('place')} : ${esc(acc.location)}</span>
-          ${acc.airline?`<span>${t('airline')} : ${esc(acc.airline)}</span>`:''}
-          ${acc.aircraft?`<span>${t('aircraft')} : ${esc(acc.aircraft)}</span>`:''}
+      <nav class="crumbs" aria-label="Fil d’Ariane"><a class="link" href="#/">Accueil</a><span aria-hidden="true">/</span><span>${esc(shortTitle(a))}</span></nav>
+      <article class="detail">
+        <header class="detail-head">
+          ${code ? `<p class="detail-code">${esc(code)}</p>` : ''}
+          <h1>${esc(a.title)}</h1>
+          <dl class="datablock">
+            ${cell('Date', esc(fdate(a.date)))}
+            ${cell('Lieu', esc(a.location))}
+            ${cell('Exploitant', esc(a.airline))}
+            ${cell('Appareil', esc(a.aircraft))}
+            ${cell('Phase de vol', esc(a.phaseOfFlight))}
+            ${cell('À bord', typeof a.passengersTotal === 'number' ? fmt(a.passengersTotal) : null)}
+            ${cell('Victimes', typeof a.fatalities === 'number' ? fmt(a.fatalities) : 'Non établi')}
+            ${cell('Survivants', surv != null && surv >= 0 ? fmt(surv) : null)}
+          </dl>
+        </header>
+        <div class="detail-body">
+          <div class="story">${a.description || '<p>Aucun récit pour le moment.</p>'}</div>
+          ${(typeof a.lat === 'number' && typeof a.lon === 'number') ? `
+          <figure class="detail-map">
+            <div id="mapDetail" class="map" role="region" aria-label="Carte : route prévue et lieu de l’accident"></div>
+            <figcaption class="legend"><span class="lg lg-route">Route prévue</span><span class="lg lg-site">Lieu de l’accident</span></figcaption>
+          </figure>` : ''}
+          ${images}
         </div>
-        ${(typeof acc.lat==='number'&&typeof acc.lon==='number')?`
-        <div class="block" style="padding:0; margin-top:10px;">
-          <div id="mapDetail" class="map" role="region" aria-label="Localisation"></div>
-          <div class="meta" style="margin:6px 10px;">
-            <span style="display:inline-flex;align-items:center;gap:6px;margin-right:10px;"><span style="width:10px;height:10px;border-radius:50%;background:#2ecc71;display:inline-block;border:1px solid #1b8f55;"></span> Départ</span>
-            <span style="display:inline-flex;align-items:center;gap:6px;margin-right:10px;"><span style="width:10px;height:10px;border-radius:50%;background:#a9b2c3;display:inline-block;border:1px solid #6f7889;"></span> Arrivée prévue</span>
-            <span style="display:inline-flex;align-items:center;gap:6px;"><span style="width:10px;height:10px;border-radius:50%;background:#ff6b6b;display:inline-block;border:1px solid #c24343;"></span> Lieu de l’accident</span>
-          </div>
-        </div>`:''}
-        <div class="meta-row" style="margin-top:6px;">
-          ${typeof acc.passengersTotal==='number'?`<span>${t('paxTotal')} : ${fmt(acc.passengersTotal)}</span>`:''}
-          ${typeof acc.fatalities==='number'?`<span>${t('deaths')} : ${fmt(acc.fatalities)}</span>`:''}
-          ${typeof acc.passengersTotal==='number'&&typeof acc.fatalities==='number'?`<span>${t('survivors')} : ${fmt(acc.passengersTotal-acc.fatalities)}</span>`:''}
-        </div>
-        <div class="block">${acc.description||'<p class="meta">Aucun récit disponible.</p>'}</div>
-        ${images?`<section class="gallery">${images}</section>`:''}
-      </section><aside>
-        <div class="block panel"><h3>${t('sources')}</h3>${sources?`<ul class="sources">${sources}</ul>`:`<p class="meta">${t('noSources')}</p>`}</div>
-        <div class="block panel" style="margin-top:10px;"><h3>${t('share')}</h3><button class="btn" id="copyLink">${t('copyLink')}</button></div>
-      </aside></article>`;
-    const btn=document.getElementById('copyLink'); if(btn) btn.addEventListener('click', async ()=>{ try{ await navigator.clipboard.writeText(location.href); btn.textContent=t('copied'); setTimeout(()=>btn.textContent=t('copyLink'),1200);}catch{} });
-    setupDetailMap();
+        <aside class="detail-side">
+          <section class="side-block"><h2>Sources</h2>${sources ? `<ul class="sources">${sources}</ul>` : '<p class="empty">Aucune source renseignée.</p>'}</section>
+          <section class="side-block"><h2>Partager</h2><button class="btn" id="copyLink" type="button">Copier le lien</button></section>
+        </aside>
+      </article>`;
+    const btn = document.getElementById('copyLink');
+    btn.addEventListener('click', async () => { try { await navigator.clipboard.writeText(location.href); btn.textContent = 'Lien copié'; setTimeout(() => (btn.textContent = 'Copier le lien'), 1500); } catch (e) { btn.textContent = 'Copie impossible'; } });
+    window.scrollTo(0, 0);
+    setupDetailMap(a);
   }
 
-  async function loadData(){
-    try{
-      const res=await fetch('data/accidents.json',{cache:'no-cache'});
-      if(!res.ok) throw new Error('HTTP '+res.status);
-      const json=await res.json();
-      state.accidents=Array.isArray(json)?json:(json.accidents||[]);
-      state.filtered=state.accidents.slice();
-      state.fallbackUsed=false;
-    }catch(e){
-      if(location.protocol==='file:'&&Array.isArray(window.__ACCIDENTS_FALLBACK)){
-        state.accidents=window.__ACCIDENTS_FALLBACK.slice();
-        state.filtered=state.accidents.slice();
-        state.fallbackUsed=true;
-      } else { throw e; }
+  function renderAbout() {
+    $app.innerHTML = `
+      <article class="prose">
+        <h1>À propos</h1>
+        <p>Chroniques des Crashes Aériens est un projet personnel de passionné d’aviation. Chaque fiche raconte un accident à partir des rapports d’enquête officiels, explique ce qui s’est passé et ce qui a changé ensuite.</p>
+        <p>Ces récits sont des synthèses : ils ne remplacent pas les rapports des organismes d’enquête (BEA en France, NTSB aux États-Unis, AAIB au Royaume-Uni, BST au Canada…). Les liens vers ces rapports figurent sur chaque fiche.</p>
+        <p>La rubrique <a class="link" href="/actualites/">Actualités</a> est alimentée automatiquement. Une brève n’est publiée que si l’événement est confirmé par au moins deux médias indépendants ou par une source officielle. Ces contrôles réduisent les erreurs sans les éliminer.</p>
+        <p>Une erreur ou une source à ajouter ? Le projet est ouvert sur GitHub.</p>
+      </article>`;
+  }
+
+  /* ---------------- Cartes ---------------- */
+  const isDark = () => document.documentElement.dataset.theme !== 'light';
+  const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  function tiles(map) {
+    const dark = isDark();
+    L.tileLayer(dark ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png' : 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18, subdomains: dark ? 'abcd' : 'abc',
+      attribution: '&copy; OpenStreetMap' + (dark ? ' &copy; CARTO' : ''),
+    }).addTo(map);
+  }
+  function setupListMap() {
+    const el = document.getElementById('mapList'); if (!el) return;
+    if (typeof L === 'undefined') { el.textContent = 'La carte n’a pas pu être chargée. Vérifiez votre connexion.'; return; }
+    if (state.listMap) { try { state.listMap.remove(); } catch (e) {} }
+    const map = state.listMap = L.map(el, { worldCopyJump: true }); tiles(map);
+    const c = cssVar('--cyan');
+    const pts = state.filtered.filter(a => typeof a.lat === 'number' && typeof a.lon === 'number');
+    const markers = pts.map(a => {
+      const m = L.circleMarker([a.lat, a.lon], { radius: 6, color: c, weight: 2, fillColor: c, fillOpacity: 0.35 });
+      m.bindTooltip(esc(shortTitle(a)) + ', ' + year(a), { direction: 'top', offset: [0, -6] });
+      m.on('click', () => { location.hash = '#/accident/' + encodeURIComponent(a.id); });
+      return m;
+    });
+    const group = (typeof L.markerClusterGroup === 'function') ? L.markerClusterGroup({ showCoverageOnHover: false, disableClusteringAtZoom: 6 }) : L.featureGroup();
+    markers.forEach(m => group.addLayer(m)); map.addLayer(group);
+    try { map.fitBounds(group.getBounds().pad(0.15)); } catch (e) { map.setView([20, 0], 2); }
+  }
+  function setupDetailMap(a) {
+    const el = document.getElementById('mapDetail'); if (!el) return;
+    if (typeof L === 'undefined') { el.textContent = 'La carte n’a pas pu être chargée.'; return; }
+    if (state.detailMap) { try { state.detailMap.remove(); } catch (e) {} }
+    const map = state.detailMap = L.map(el, { scrollWheelZoom: false }); tiles(map);
+    const mag = cssVar('--magenta'), amb = cssVar('--amber');
+    const site = [a.lat, a.lon], pts = [site];
+    const r = a.route;
+    const ok = p => p && typeof p.lat === 'number' && typeof p.lon === 'number';
+    if (r && ok(r.from) && ok(r.to)) {
+      const from = [r.from.lat, r.from.lon], to = [r.to.lat, r.to.lon]; pts.push(from, to);
+      L.polyline([from, to], { color: mag, weight: 2, dashArray: '6 6', opacity: 0.9 }).addTo(map);
+      [[from, r.from, 'Départ'], [to, r.to, 'Destination prévue']].forEach(([ll, p, k]) => L.circleMarker(ll, { radius: 4, color: mag, weight: 2, fillOpacity: 0 }).addTo(map).bindTooltip(`${k} : ${esc(p.iata || '')} ${esc(p.name || '')}`));
     }
+    L.circleMarker(site, { radius: 7, color: amb, weight: 2, fillColor: amb, fillOpacity: 0.6 }).addTo(map).bindTooltip('Lieu de l’accident');
+    if (pts.length > 1) { try { map.fitBounds(L.latLngBounds(pts).pad(0.2)); } catch (e) { map.setView(site, 6); } } else map.setView(site, 7);
   }
 
-  function router(){
-    const hash=location.hash||'#/'
-    if(hash.startsWith('#/accident/')){ const id=decodeURIComponent(hash.split('/')[2]||''); renderDetail(id); return; }
-    if(hash==='#/a-propos'){ renderAbout(); return; }
+  /* ---------------- Données, thème, routage ---------------- */
+  async function loadData() {
+    try {
+      const res = await fetch('data/accidents.json', { cache: 'no-cache' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const json = await res.json(); state.accidents = Array.isArray(json) ? json : (json.accidents || []);
+    } catch (e) {
+      if (Array.isArray(window.__ACCIDENTS_FALLBACK)) { state.accidents = window.__ACCIDENTS_FALLBACK.slice(); state.fallbackUsed = true; }
+      else throw e;
+    }
+    try { const r = await fetch('data/news/stories.json', { cache: 'no-cache' }); if (r.ok) { const n = await r.json(); state.news = Array.isArray(n) ? n : []; } } catch (e) { state.news = []; }
+  }
+
+  function router() {
+    const hash = location.hash || '#/';
+    document.querySelectorAll('.nav a').forEach(l => l.removeAttribute('aria-current'));
+    if (hash.startsWith('#/accident/')) { renderDetail(decodeURIComponent(hash.split('/')[2] || '')); return; }
+    if (hash === '#/a-propos') { renderAbout(); const l = document.querySelector('.nav a[href="#/a-propos"]'); if (l) l.setAttribute('aria-current', 'page'); return; }
     renderHome();
+    if (hash === '#/base') { const b = document.getElementById('baseHeading'); if (b) b.scrollIntoView(); }
   }
 
-  // Thème clair/sombre simple
-  function initTheme(){
-    const btn=document.getElementById('themeToggle');
-    const current=localStorage.getItem('theme')||'light';
-    document.documentElement.dataset.theme=current;
-    if(btn){ btn.setAttribute('aria-pressed', current==='dark'?'true':'false');
-      btn.addEventListener('click',()=>{
-        const next=(document.documentElement.dataset.theme==='dark'?'light':'dark');
-        document.documentElement.dataset.theme=next; localStorage.setItem('theme',next);
-        btn.setAttribute('aria-pressed', next==='dark'?'true':'false');
-      });
-    }
-  }
-
-  function setupLeafletDefaults(){ /* noop for now */ }
-  function setupListMap(){
-    const el=document.getElementById('mapList'); if(!el) return;
-    if(typeof L==='undefined'){ el.innerHTML='<div class="empty">.</div>'; return; }
-    if(state.listMap){ try{ state.listMap.remove(); }catch{} state.listMap=null; }
-    setupLeafletDefaults();
-    const map=L.map('mapList'); state.listMap=map;
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
-    const pts=state.filtered.filter(a=>typeof a.lat==='number'&&typeof a.lon==='number');
-    if(pts.length===0){ map.setView([20,0],2); state._lastGroupBounds=null; return; }
-    const markers=pts.map(a=>{ const m=L.circleMarker([a.lat,a.lon],{radius:6,color:'#4ea1ff',weight:2,fillColor:'#4ea1ff',fillOpacity:0.8}); m.bindTooltip(esc(a.title),{direction:'top',offset:[0,-6],opacity:0.9}); m.bindPopup(`<strong>${esc(a.title)}</strong><br>${new Date(a.date).toLocaleDateString(locale())}<br><a href=\"#/accident/${encodeURIComponent(a.id)}\"></a>`); return m; });
-    let group;
-    if(typeof L.markerClusterGroup==='function'){
-      group=L.markerClusterGroup({showCoverageOnHover:false,spiderfyOnMaxZoom:true,disableClusteringAtZoom:7});
-      markers.forEach(m=>group.addLayer(m)); map.addLayer(group);
-    } else { group=L.featureGroup(markers).addTo(map); }
-    try{ state._lastGroupBounds=group.getBounds(); map.fitBounds(state._lastGroupBounds.pad(0.2)); }catch{ map.setView([20,0],2); }
-  }
-  function setupDetailMap(){
-    const el=document.getElementById('mapDetail'); if(!el) return;
-    if(typeof L==='undefined'){ el.innerHTML='<div class="empty">.</div>'; return; }
-    if(state.detailMap){ try{ state.detailMap.remove(); }catch{} state.detailMap=null; }
-    const id=(location.hash.split('/')[2]||'');
-    const acc=state.accidents.find(a=>String(a.id)===decodeURIComponent(id||''));
-    if(!acc||typeof acc.lat!=='number'||typeof acc.lon!=='number') return;
-    setupLeafletDefaults();
-    const map=L.map('mapDetail'); state.detailMap=map;
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19, attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
-    const crash=L.circleMarker([acc.lat,acc.lon],{radius:7,color:'#ff6b6b',weight:2,fillColor:'#ff6b6b',fillOpacity:0.85}).addTo(map);
-    crash.bindTooltip(esc(acc.title),{direction:'top',offset:[0,-6],opacity:0.9});
-    crash.bindPopup(`<strong>${esc(acc.title)}</strong><br>${new Date(acc.date).toLocaleDateString(locale())}`);
-    const bounds=[[acc.lat,acc.lon]];
-    if(acc.route&&acc.route.from&&acc.route.to&&typeof acc.route.from.lat==='number'&&typeof acc.route.from.lon==='number'&&typeof acc.route.to.lat==='number'&&typeof acc.route.to.lon==='number'){
-      const from=[acc.route.from.lat,acc.route.from.lon]; const to=[acc.route.to.lat,acc.route.to.lon];
-      bounds.push(from,to);
-      const dep=L.circleMarker(from,{radius:5,color:'#2ecc71',weight:2,fillColor:'#2ecc71',fillOpacity:0.9}).addTo(map);
-      dep.bindTooltip('Départ : '+esc((acc.route.from.iata?acc.route.from.iata+' – ':'')+(acc.route.from.name||'')),{direction:'top',offset:[0,-6],opacity:0.9});
-      const arr=L.circleMarker(to,{radius:5,color:'#a9b2c3',weight:2,fillColor:'#a9b2c3',fillOpacity:0.9}).addTo(map);
-      arr.bindTooltip('Arrivée prévue : '+esc((acc.route.to.iata?acc.route.to.iata+' – ':'')+(acc.route.to.name||'')),{direction:'top',offset:[0,-6],opacity:0.9});
-      L.polyline([from,to],{color:'#a9b2c3',weight:2,opacity:0.8,dashArray:'6 6'}).addTo(map);
-      try{ map.fitBounds(L.latLngBounds(bounds).pad(0.2)); }catch{ map.setView([acc.lat,acc.lon],8); }
-    } else { map.setView([acc.lat,acc.lon],8); }
-  }
-
-  window.addEventListener('hashchange',()=>{ router(); setTimeout(()=>{ setupListMap(); setupDetailMap(); applyI18n(); },0); });
-  window.addEventListener('DOMContentLoaded', async ()=>{
-    initTheme();
-    const appDiv=document.getElementById('app'); if(appDiv) appDiv.innerHTML='<div class="empty">Chargement…</div>';
-    try{ await loadData(); }
-    catch(e){ $app.innerHTML='<div class="empty">Erreur de chargement des données. Ouvrez via un serveur local ou utilisez le fallback.</div>'; console.error(e); return; }
-    router(); setupListMap(); setupDetailMap(); applyI18n();
-    try{ window.appReady=true;}catch{}
+  window.addEventListener('hashchange', router);
+  window.addEventListener('DOMContentLoaded', async () => {
+    try { await loadData(); } catch (e) { $app.innerHTML = '<p class="empty">Les données n’ont pas pu être chargées. Rechargez la page.</p>'; return; }
+    router();
   });
-  window.addEventListener('error', ev=>{ try{ const msg=(ev&&ev.message)?ev.message:'Erreur JS'; const where=ev&&ev.filename?(ev.filename+':'+ev.lineno):''; const box=document.createElement('div'); box.className='notice'; box.style.margin='10px 0'; box.textContent='Erreur: '+msg+(where?' ('+where+')':''); const app=document.getElementById('app'); if(app) app.prepend(box);}catch{} });
-  window.addEventListener('unhandledrejection', ev=>{ try{ const msg=(ev&&ev.reason&&(ev.reason.message||ev.reason))||'Erreur promesse non gérée'; const box=document.createElement('div'); box.className='notice'; box.style.margin='10px 0'; box.textContent='Erreur: '+msg; const app=document.getElementById('app'); if(app) app.prepend(box);}catch{} });
+  document.addEventListener('themechange', () => { if (state.view === 'map') setupListMap(); const a = state.accidents.find(z => location.hash === '#/accident/' + encodeURIComponent(z.id)); if (a) setupDetailMap(a); });
 })();
-

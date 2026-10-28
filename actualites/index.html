@@ -11,16 +11,26 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.crashplanewebsite.com/actualites/" />
     <link rel="icon" href="/assets/img/plane.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=B612:wght@400;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" />
+    <script>try{document.documentElement.dataset.theme=localStorage.getItem('theme')||'dark'}catch(e){document.documentElement.dataset.theme='dark'}</script>
     <link rel="stylesheet" href="/assets/css/styles.css" />
   </head>
   <body data-mode="published">
     <header class="site-header">
-      <div class="container header-inner">
-        <a class="brand" href="/">✈ Chroniques des Crashes Aériens</a>
-        <nav class="top-actions"><a class="btn" href="/">Accueil</a><a class="btn" href="/actualites/">Actualités</a></nav>
+      <div class="wrap header-inner">
+        <a class="brand" href="/"><svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><defs><clipPath id="brandClip"><circle cx="16" cy="16" r="13"/></clipPath></defs><g clip-path="url(#brandClip)"><g transform="rotate(-14 16 16)"><rect class="sky" x="-4" y="-4" width="40" height="21"/><rect class="ground" x="-4" y="17" width="40" height="20"/></g></g><circle class="ring" cx="16" cy="16" r="13"/><path class="wings" d="M7 16.5h6l3 3 3-3h6"/></svg><span>Chroniques des Crashes Aériens</span></a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+        <nav id="nav" class="nav" aria-label="Navigation principale">
+          <a href="/actualites/" aria-current="page">Actualités</a>
+          <a href="/#/base">Accidents</a>
+          <a href="/#/a-propos">À propos</a>
+          <button id="themeToggle" class="theme-toggle" type="button">Mode jour</button>
+        </nav>
       </div>
     </header>
-    <main class="container news-page">
+    <main class="wrap news-page">
       <section class="hero">
         <h1>Actualités aéronautiques</h1>
         <p>Brèves automatiques, recoupées et sourcées. Mises à jour au fil de l’eau.</p>
@@ -36,7 +46,13 @@
         <p>Le résumé est rédigé par une intelligence artificielle à partir des seules sources citées, puis contrôlé automatiquement : chaque chiffre doit figurer dans au moins une source. Ces contrôles réduisent les erreurs sans les éliminer : la corroboration ne garantit pas l’exactitude, surtout dans les premières heures d’un événement. Les causes d’un accident ne sont jamais avancées avant les enquêteurs. Référez-vous toujours aux sources.</p>
       </aside>
     </main>
-    <footer class="site-footer"><div class="container"><p class="brand-mention">CrashPlaneWebsite — www.crashplanewebsite.com</p></div></footer>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Projet personnel et pédagogique. Les récits résument des rapports d’enquête officiels ; référez-vous aux sources citées sur chaque fiche.</p>
+        <p>Chroniques des Crashes Aériens — crashplanewebsite.com</p>
+      </div>
+    </footer>
+      <script src="/assets/js/site.js"></script>
     <script src="/assets/js/news.js"></script>
   </body>
 </html>
