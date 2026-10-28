@@ -1,0 +1,40 @@
+{
+  "publish": false,
+  "model_triage": "claude-haiku-5-5",
+  "model_writer": "claude-haiku-5-5",
+  "price_per_mtok": {
+    "claude-haiku-5-5": {"input": 0.10, "output": 0.50},
+    "claude-sonnet-5-5": {"input": 2.00, "output": 10.00}
+  },
+  "monthly_budget_usd": 5.0,
+  "max_writes_per_run": 8,
+  "max_items_per_triage": 60,
+  "window_hours": 48,
+  "hold_unconfirmed_hours": 48,
+  "min_importance": 2,
+  "min_independent_sources": 2,
+  "max_stories_kept": 400,
+  "official_domains": [
+    "ntsb.gov", "faa.gov", "easa.europa.eu", "bea.aero", "dgac.fr",
+    "ecologie.gouv.fr", "icao.int", "tsb.gc.ca", "bst-tsb.gc.ca",
+    "gov.uk", "atsb.gov.au", "taic.org.nz", "bfu-web.de", "ciaiac.es"
+  ],
+  "feeds": [
+    {"name": "NTSB – Communiqués", "url": "https://www.ntsb.gov/_layouts/feed.aspx?xsl=1&web=%2F&page=674e62a9-4f3b-4058-846b-150bc1c21aa0&wp=5c78a16b-edcb-475c-8a9c-93c00783cd61&pageurl=%2FPages%2FRSS-Feed-Page.aspx"},
+    {"name": "NTSB – Enquêtes", "url": "https://www.ntsb.gov/_layouts/feed.aspx?xsl=1&web=%2F&page=674e62a9-4f3b-4058-846b-150bc1c21aa0&wp=a19255e2-c8e3-41fd-8c99-f8bc0453cb58&pageurl=%2FPages%2FRSS-Feed-Page.aspx"},
+    {"name": "EASA – Communiqués", "url": "https://www.easa.europa.eu/newsroom-and-events/press-releases/feed.xml"},
+    {"name": "EASA – Actualités", "url": "https://www.easa.europa.eu/newsroom-and-events/news/feed.xml"},
+    {"name": "Simple Flying", "url": "https://simpleflying.com/feed/"},
+    {"name": "AeroTime", "url": "https://www.aerotime.aero/rss"},
+    {"name": "Leeham News", "url": "https://leehamnews.com/feed/"},
+    {"name": "Aero-News Network", "url": "https://www.aero-news.net/news/rssfeed.xml"},
+    {"name": "Australian Aviation", "url": "https://australianaviation.com.au/feed/"},
+    {"name": "The Aviationist", "url": "https://theaviationist.com/feed/"},
+    {"name": "AviTrader", "url": "https://avitrader.com/feed/"},
+    {"name": "Air Cargo News", "url": "https://www.aircargonews.net/feed/"},
+    {"name": "Aviation Source News", "url": "https://aviationsourcenews.com/feed/"},
+    {"name": "Flightradar24 – Sécurité", "url": "https://www.flightradar24.com/blog/category/aviation-safety/feed/"},
+    {"name": "The Local France – Aviation", "url": "https://feeds.thelocal.com/rss/fr/aviation"},
+    {"name": "The Local France – Accidents", "url": "https://feeds.thelocal.com/rss/fr/air-crash"}
+  ]
+}

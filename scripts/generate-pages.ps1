@@ -79,7 +79,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
     <header class="site-header">
       <div class="container header-inner">
         <a class="brand" href="/">✈ Chroniques des Crashes Aériens</a>
-        <nav class="top-actions"><a class="btn" href="/">Accueil</a></nav>
+        <nav class="top-actions"><a class="btn" href="/">Accueil</a><a class="btn" href="/actualites/">Actualités</a></nav>
       </div>
     </header>
     <main class="article" id="content">
@@ -146,6 +146,7 @@ $sb = New-Object System.Text.StringBuilder
 [void]$sb.AppendLine('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
 [void]$sb.AppendLine("  <url><loc>$BaseUrl/</loc></url>")
 [void]$sb.AppendLine("  <url><loc>$BaseUrl/accidents/</loc></url>")
+[void]$sb.AppendLine("  <url><loc>$BaseUrl/actualites/</loc></url>")
 foreach ($acc in $data) {
   if (-not $acc.id) { continue }
   [void]$sb.AppendLine("  <url><loc>$BaseUrl/accidents/$($acc.id)/</loc></url>")

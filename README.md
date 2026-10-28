@@ -43,6 +43,10 @@ Voir aussi `docs/schema.md` pour les détails et bonnes pratiques.
 - Privilégie un récit pédagogique et factuel; évite le sensationnalisme.
 - Mentionne les améliorations/procédures issues de l'accident lorsqu'elles sont connues.
 
+## Actualités automatiques
+
+La page `/actualites/` est alimentée par un robot (`bot/newsbot.py`) lancé par GitHub Actions toutes les 30 minutes. Fonctionnement, réglages, coûts et limites : voir `docs/newsbot.md`.
+
 ## Personnalisation
 
 - Couleurs/styles: `assets/css/styles.css`.
