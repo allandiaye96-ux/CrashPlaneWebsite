@@ -1,4 +1,4 @@
-﻿/* App principal: liste, recherche, tri, filtres, cartes (Leaflet) */
+/* App principal: liste, recherche, tri, filtres, cartes (Leaflet) */
 (function(){
   'use strict';
 
@@ -262,11 +262,10 @@
       <article class="detail panel"><section>
         <h1>${esc(acc.title)}</h1>
         <div class="meta-row">
-          <span> ${new Date(acc.date).toLocaleDateString(locale())}</span>
-          <span> ${esc(acc.location)}</span>
-          ${acc.airline?`<span> ${esc(acc.airline)}</span>`:''}
-          ${acc.aircraft?`<span> ${esc(acc.aircraft)}</span>`:''}
-          ${typeof acc.fatalities==='number'?`<span>: ${fmt(acc.fatalities)}</span>`:''}
+          <span>${t('date')} : ${new Date(acc.date).toLocaleDateString(locale())}</span>
+          <span>${t('place')} : ${esc(acc.location)}</span>
+          ${acc.airline?`<span>${t('airline')} : ${esc(acc.airline)}</span>`:''}
+          ${acc.aircraft?`<span>${t('aircraft')} : ${esc(acc.aircraft)}</span>`:''}
         </div>
         ${(typeof acc.lat==='number'&&typeof acc.lon==='number')?`
         <div class="block" style="padding:0; margin-top:10px;">
@@ -278,17 +277,17 @@
           </div>
         </div>`:''}
         <div class="meta-row" style="margin-top:6px;">
-          ${typeof acc.passengersTotal==='number'?`<span> : ${fmt(acc.passengersTotal)}</span>`:''}
-          ${typeof acc.fatalities==='number'?`<span>: ${fmt(acc.fatalities)}</span>`:''}
-          ${typeof acc.passengersTotal==='number'&&typeof acc.fatalities==='number'?`<span> : ${fmt(acc.passengersTotal-acc.fatalities)}</span>`:''}
+          ${typeof acc.passengersTotal==='number'?`<span>${t('paxTotal')} : ${fmt(acc.passengersTotal)}</span>`:''}
+          ${typeof acc.fatalities==='number'?`<span>${t('deaths')} : ${fmt(acc.fatalities)}</span>`:''}
+          ${typeof acc.passengersTotal==='number'&&typeof acc.fatalities==='number'?`<span>${t('survivors')} : ${fmt(acc.passengersTotal-acc.fatalities)}</span>`:''}
         </div>
         <div class="block">${acc.description||'<p class="meta">Aucun récit disponible.</p>'}</div>
         ${images?`<section class="gallery">${images}</section>`:''}
       </section><aside>
-        <div class="block panel"><h3></h3>${sources?`<ul class="sources">${sources}</ul>`:'<p class="meta"></p>'}</div>
-        <div class="block panel" style="margin-top:10px;"><h3></h3><button class="btn" id="copyLink"></button></div>
+        <div class="block panel"><h3>${t('sources')}</h3>${sources?`<ul class="sources">${sources}</ul>`:`<p class="meta">${t('noSources')}</p>`}</div>
+        <div class="block panel" style="margin-top:10px;"><h3>${t('share')}</h3><button class="btn" id="copyLink">${t('copyLink')}</button></div>
       </aside></article>`;
-    const btn=document.getElementById('copyLink'); if(btn) btn.addEventListener('click', async ()=>{ try{ await navigator.clipboard.writeText(location.href); btn.textContent='Lien copié ✓'; setTimeout(()=>btn.textContent='',1200);}catch{} });
+    const btn=document.getElementById('copyLink'); if(btn) btn.addEventListener('click', async ()=>{ try{ await navigator.clipboard.writeText(location.href); btn.textContent=t('copied'); setTimeout(()=>btn.textContent=t('copyLink'),1200);}catch{} });
     setupDetailMap();
   }
 
