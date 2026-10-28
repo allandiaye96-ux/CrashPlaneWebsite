@@ -1,0 +1,187 @@
+{
+  "run": "2026-10-28T21:50:13Z",
+  "stats": {
+    "fetched": 294,
+    "new": 24,
+    "written": 0,
+    "held": 0,
+    "errors": 0
+  },
+  "spend_month_usd": 0.0035,
+  "feeds": {
+    "NTSB – Communiqués": {
+      "ok": true,
+      "items": 0
+    },
+    "NTSB – Enquêtes": {
+      "ok": true,
+      "items": 0
+    },
+    "EASA – Communiqués": {
+      "ok": true,
+      "items": 50
+    },
+    "EASA – Actualités": {
+      "ok": true,
+      "items": 50
+    },
+    "Simple Flying": {
+      "ok": true,
+      "items": 10
+    },
+    "AeroTime": {
+      "ok": true,
+      "items": 100
+    },
+    "Leeham News": {
+      "ok": true,
+      "items": 10
+    },
+    "Aero-News Network": {
+      "ok": true,
+      "items": 15
+    },
+    "Australian Aviation": {
+      "ok": true,
+      "items": 10
+    },
+    "The Aviationist": {
+      "ok": true,
+      "items": 15
+    },
+    "AviTrader": {
+      "ok": true,
+      "items": 10
+    },
+    "Air Cargo News": {
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    "Aviation Source News": {
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "Flightradar24 – Sécurité": {
+      "ok": true,
+      "items": 10
+    },
+    "The Local France – Aviation": {
+      "ok": true,
+      "items": 14
+    },
+    "The Local France – Accidents": {
+      "ok": true,
+      "items": 0
+    }
+  },
+  "dossiers": [
+    {
+      "dossier": "Image du spaceplane chinois",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "ARRW production USAF",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Prêt 3,4 milliards Airbus US",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "JetBlue créanciers conseillers restructuration",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Boeing résultats T3 2026",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Canada premiers F-35 reçus",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Certification Boeing 737-10",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Ouverture aéroport Western Sydney",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Accident Cessna 210N VH-RDH Goolwa",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Projet de loi protection bases défense contre drones (Australie)",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Grève TWU personnel au sol Qantas",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Fin des vols A380 Qantas à Melbourne",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Test charge AEW LoyalEye MQ-9B",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Campus F-47 Nellis AFB",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Rapport DIA image spaceplane chinois",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Programme HYDEF intercepteur hypersonique européen",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "ITOCHU participation IAG Engine Tech",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Saab réseau industriel Gripen Canada",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    }
+  ]
+}

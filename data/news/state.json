@@ -261,7 +261,31 @@
     "https://australianaviation.com.au/2026/10/virgin-australia-airport-workers-launch-industrial-action/": "2026-10-28T21:16:22Z",
     "https://australianaviation.com.au/2026/10/video-podcast-western-sydney-airport-finally-takes-flight/": "2026-10-28T21:16:22Z",
     "https://australianaviation.com.au/2026/10/exclusive-finnish-ambassador-hopes-for-more-australia-flights/": "2026-10-28T21:16:22Z",
-    "https://australianaviation.com.au/2026/10/cessna-crash-instructor-had-history-of-unauthorised-spins-atsb/": "2026-10-28T21:16:22Z"
+    "https://australianaviation.com.au/2026/10/cessna-crash-instructor-had-history-of-unauthorised-spins-atsb/": "2026-10-28T21:16:22Z",
+    "https://australianaviation.com.au/2026/10/government-introduces-new-bill-to-protect-defence-assets-from-drones/": "2026-10-28T21:50:13Z",
+    "https://australianaviation.com.au/2026/10/qantas-ground-workers-kick-off-another-24-hour-strike/": "2026-10-28T21:50:13Z",
+    "https://australianaviation.com.au/2026/10/sun-sets-on-qantas-melbourne-a380-operations/": "2026-10-28T21:50:13Z",
+    "https://australianaviation.com.au/2026/10/virgin-australia-cabin-crew-to-vote-on-industrial-action/": "2026-10-28T21:50:13Z",
+    "https://australianaviation.com.au/2026/10/wheels-up-for-jetstars-perth-christchurch-route/": "2026-10-28T21:50:13Z",
+    "https://australianaviation.com.au/2026/10/singapore-kicks-off-expanded-adelaide-flights-as-demand-soars/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/28/ga-asi-and-saab-test-aew-payload-on-mq-9b/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/28/raf-norwegian-f35s-escort-b52/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/28/nellis-afb-f47-campus/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/27/clearest-image-of-chinas-reusable-spaceplane/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/27/hydef-hypersonic-interceptor-completes-first-stage/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/27/mq-8c-fire-scout-second-life-with-u-s-army/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/27/boeing-moves-second-mq-25a-stingray/": "2026-10-28T21:50:13Z",
+    "https://theaviationist.com/2026/10/27/usaf-agm-183a-arrw-production/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/28/itochu-to-take-minority-stake-in-iag-engine-unit/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/28/liebherr-to-supply-phenom-300ev-rudder-actuator/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/28/saab-plans-canadian-gripen-production-network/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/28/atlantic-airways-orders-two-airbus-a320neos/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/28/fl-technics-wins-easa-approval-for-bali-facility/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/28/ifs-revenue-tops-e1-3-billion-up-24/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/27/sita-to-acquire-cae-airline-software-flightscape/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/27/boeing-posts-us24-2-billion-in-third-quarter-revenue/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/27/air-corsica-selects-standardaero-for-leap-1a-support/": "2026-10-28T21:50:13Z",
+    "https://avitrader.com/2026/10/27/as-aerospace-to-implement-tracware-mobile-technology/": "2026-10-28T21:50:13Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -452,9 +476,198 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cc947539f77": {
+      "id": "cc947539f77",
+      "label": "Projet de loi protection bases défense contre drones (Australie)",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "6f7225537ac1891e",
+          "feed": "Australian Aviation",
+          "title": "Government introduces bill to protect Defence assets from drones",
+          "url": "https://australianaviation.com.au/2026/10/government-introduces-new-bill-to-protect-defence-assets-from-drones/",
+          "domain": "australianaviation.com.au",
+          "summary": "The new legislation is designed to protect Defence bases, personnel and critical assets, as well as to accelerate the development of capability Defence needs to keep Australians safe.",
+          "published": "2026-10-28T03:04:37Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "caa74b8eecc": {
+      "id": "caa74b8eecc",
+      "label": "Grève TWU personnel au sol Qantas",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "438a29ea0ac4e783",
+          "feed": "Australian Aviation",
+          "title": "Qantas ground workers kick off another 24-hour strike",
+          "url": "https://australianaviation.com.au/2026/10/qantas-ground-workers-kick-off-another-24-hour-strike/",
+          "domain": "australianaviation.com.au",
+          "summary": "Transport Workers’ Union members working for Qantas Ground Services in Sydney, Melbourne, Adelaide, Brisbane and Perth took a further round of protected industrial action on Wednesday following initial strikes in September, which were backed by 97 per cent of members in an August ballot.",
+          "published": "2026-10-28T00:39:03Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c492db1ec0a": {
+      "id": "c492db1ec0a",
+      "label": "Fin des vols A380 Qantas à Melbourne",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "618d381f00f00475",
+          "feed": "Australian Aviation",
+          "title": "Sun sets on Qantas’ Melbourne A380 operations",
+          "url": "https://australianaviation.com.au/2026/10/sun-sets-on-qantas-melbourne-a380-operations/",
+          "domain": "australianaviation.com.au",
+          "summary": "Qantas has performed its final scheduled passenger service from Melbourne on its Airbus A380 fleet, marking the end of an era – and reduced booking options for premium passengers.",
+          "published": "2026-10-27T06:41:23Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c4baced177f": {
+      "id": "c4baced177f",
+      "label": "Test charge AEW LoyalEye MQ-9B",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "b5c38cf828ea8886",
+          "feed": "The Aviationist",
+          "title": "GA-ASI and Saab Test AEW Payload on MQ-9B",
+          "url": "https://theaviationist.com/2026/10/28/ga-asi-and-saab-test-aew-payload-on-mq-9b/",
+          "domain": "theaviationist.com",
+          "summary": "GA-ASI and Saab are testing the LoyalEye radar installed in the MQ-9B’s new Airborne Early Warning pods, which first flew in May 2026. General Atomics Aeronautical Systems (GA-ASI) and Saab announced that they started the testing of the new Airborne Early Warning (AEW) payload for the MQ-9B Uncrewed Aircraft System (UAS). According to the press […]",
+          "published": "2026-10-28T16:17:37Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c4577f97d0d": {
+      "id": "c4577f97d0d",
+      "label": "Campus F-47 Nellis AFB",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "55e8867b62a52141",
+          "feed": "The Aviationist",
+          "title": "Plans for $1 Billion F-47 Campus at Nellis AFB Move Forward",
+          "url": "https://theaviationist.com/2026/10/28/nellis-afb-f47-campus/",
+          "domain": "theaviationist.com",
+          "summary": "The U.S. Department of Defense has issued further solicitation to industry ahead of bids being tendered for the construction of support facilities for the Boeing F-47 at Nellis Air Force Base, Nevada. The F-47 Future Campus at Nellis is projected to cost $1.057 billion and potentially involve as many as four different contractors. The chosen […]",
+          "published": "2026-10-28T02:52:55Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c51100185ce": {
+      "id": "c51100185ce",
+      "label": "Rapport DIA image spaceplane chinois",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "f276866651c15f44",
+          "feed": "The Aviationist",
+          "title": "DIA Releases Clearest Image of China’s Reusable Spaceplane with Service Module Attached",
+          "url": "https://theaviationist.com/2026/10/27/clearest-image-of-chinas-reusable-spaceplane/",
+          "domain": "theaviationist.com",
+          "summary": "The DIA report reviews the three missions flown between 2020 and 2023, highlighting reported rendezvous and proximity operations during the second and third flights, before China launched the spacecraft again in February 2026. The U.S. Defense Intelligence Agency (DIA) has released a new image of China’s secretive reusable spaceplane, captured by a Maxar Technologies spacecraft […]",
+          "published": "2026-10-27T21:26:23Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c8f87ff92c1": {
+      "id": "c8f87ff92c1",
+      "label": "Programme HYDEF intercepteur hypersonique européen",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "68e8fade67bd4ca1",
+          "feed": "The Aviationist",
+          "title": "Europe’s HYDEF Hypersonic Interceptor Program Completes First Stage",
+          "url": "https://theaviationist.com/2026/10/27/hydef-hypersonic-interceptor-completes-first-stage/",
+          "domain": "theaviationist.com",
+          "summary": "The program’s first stage is complete, with all critical technologies reaching at least TRL 3 and a technology demonstrator targeted for 2030. The European Hypersonic Defence Interceptor (EU HYDEF) took a major step forward with the completion of its first stage, as announced by the Organization for Joint Armament Cooperation (OCCAR) on Oct. 26, 2026. […]",
+          "published": "2026-10-27T15:30:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c870493b2fc": {
+      "id": "c870493b2fc",
+      "label": "ITOCHU participation IAG Engine Tech",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "6ff8571cdd9c4dc4",
+          "feed": "AviTrader",
+          "title": "ITOCHU to take minority stake in IAG engine unit",
+          "url": "https://avitrader.com/2026/10/28/itochu-to-take-minority-stake-in-iag-engine-unit/",
+          "domain": "avitrader.com",
+          "summary": "Iberia has agreed to sell a minority stake in IAG Engine Tech (IET), a company established in 2026 to specialise in aircraft engine maintenance within International Airlines Group (IAG), to Japanese trading and investment group ITOCHU Corporation. IAG will retain a majority stake in IET through Iberia, the companies said. ITOCHU’s investment builds on its […] The post ITOCHU to take minority stake in IAG engine unit appeared first on AviTrader Aviation News .",
+          "published": "2026-10-28T07:15:13Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c74f135369e": {
+      "id": "c74f135369e",
+      "label": "Saab réseau industriel Gripen Canada",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-28T21:50:25Z",
+      "updated": "2026-10-28T21:50:25Z",
+      "items": [
+        {
+          "id": "12d9f86270089c98",
+          "feed": "AviTrader",
+          "title": "Saab plans Canadian Gripen production network",
+          "url": "https://avitrader.com/2026/10/28/saab-plans-canadian-gripen-production-network/",
+          "domain": "avitrader.com",
+          "summary": "Swedish defence group Saab plans to establish a network of Canadian aerospace companies to build, assemble and support its Gripen E fighter jets if Canada selects the aircraft for its air force. The proposed industrial partnership would create domestic capabilities covering production, final assembly, maintenance, training and long-term support, as well as the further development […] The post Saab plans Canadian Gripen production network appeared first on AviTrader Aviation News .",
+          "published": "2026-10-28T06:58:43Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.002327
+    "2026-10": 0.003458
   }
 }
