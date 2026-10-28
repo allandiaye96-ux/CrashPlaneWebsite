@@ -12,7 +12,8 @@
 
   var STATUS = {
     officiel: { label: 'Confirmé par une source officielle', cls: 'st-official' },
-    corrobore: { label: 'Corroboré par plusieurs sources', cls: 'st-corroborated' }
+    corrobore: { label: 'Corroboré par plusieurs sources', cls: 'st-corroborated' },
+    source_unique: { label: 'Source unique', cls: 'st-single' }
   };
 
   function el(tag, cls, text) {

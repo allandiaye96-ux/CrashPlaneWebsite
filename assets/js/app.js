@@ -187,9 +187,9 @@
     items.forEach(s => {
       const li = document.createElement('li');
       const a = document.createElement('a'); a.className = 'teaser'; a.href = '/actualites/#' + encodeURIComponent(s.id);
-      const st = document.createElement('span'); const off = s.verification && s.verification.status === 'officiel';
-      st.className = 'status ' + (off ? 'status-official' : 'status-corroborated');
-      st.textContent = off ? 'Source officielle' : `${(s.verification && s.verification.independent_sources) || 2} sources`;
+      const st = document.createElement('span'); const vs = s.verification && s.verification.status;
+      st.className = 'status ' + (vs === 'officiel' ? 'status-official' : vs === 'source_unique' ? 'status-single' : 'status-corroborated');
+      st.textContent = vs === 'officiel' ? 'Source officielle' : vs === 'source_unique' ? 'Source unique' : `${(s.verification && s.verification.independent_sources) || 2} sources`;
       const t = document.createElement('span'); t.className = 'teaser-title'; t.textContent = s.titre;
       const m = document.createElement('span'); m.className = 'teaser-meta'; m.textContent = `${s.categorie}, ${fdate(s.updated)}`;
       a.append(st, t, m); li.appendChild(a); ul.appendChild(li);
@@ -248,7 +248,7 @@
         <h1>À propos</h1>
         <p>Carnet de Vol est un projet personnel de passionné d’aviation. Il réunit une veille d’actualité aéronautique vérifiée et une base d’accidents racontés à partir des rapports d’enquête officiels : ce qui s’est passé, et ce qui a changé ensuite.</p>
         <p>Ces récits sont des synthèses : ils ne remplacent pas les rapports des organismes d’enquête (BEA en France, NTSB aux États-Unis, AAIB au Royaume-Uni, BST au Canada…). Les liens vers ces rapports figurent sur chaque fiche.</p>
-        <p>La rubrique <a class="link" href="/actualites/">Actualités</a> est alimentée automatiquement. Une brève n’est publiée que si l’événement est confirmé par au moins deux médias indépendants ou par une source officielle. Ces contrôles réduisent les erreurs sans les éliminer.</p>
+        <p>La rubrique <a class="link" href="/actualites/">Actualités</a> est alimentée automatiquement. Un accident ou un incident n’est publié que s’il est confirmé par au moins deux médias indépendants ou par une source officielle ; l’actualité industrielle peut reposer sur une seule source spécialisée, ce qui est alors indiqué. Ces contrôles réduisent les erreurs sans les éliminer.</p>
         <p>Une erreur ou une source à ajouter ? Le projet est ouvert sur GitHub.</p>
       </article>`;
   }
