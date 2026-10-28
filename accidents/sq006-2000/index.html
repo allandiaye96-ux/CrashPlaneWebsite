@@ -13,19 +13,23 @@
     <meta property="og:image" content="https://www.crashplanewebsite.com/assets/img/sq006-2000.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="icon" href="../../assets/img/plane.jpg" />
-    <link rel="stylesheet" href="../../assets/css/styles.css" />
-    <style>
-      .article { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
-      .meta { color: #666; margin: .5rem 0 1rem; }
-      .hero { max-width: 100%; height: auto; border-radius: 6px; margin: .5rem 0 1rem; }
-      .back { margin: 1rem 0; display: inline-block; }
-    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=B612:wght@400;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" />
+    <script>try{document.documentElement.dataset.theme=localStorage.getItem('theme')||'dark'}catch(e){document.documentElement.dataset.theme='dark'}</script>
+    <link rel="stylesheet" href="/assets/css/styles.css" />
   </head>
   <body>
     <header class="site-header">
-      <div class="container header-inner">
-        <a class="brand" href="/">✈ Chroniques des Crashes Aériens</a>
-        <nav class="top-actions"><a class="btn" href="/">Accueil</a><a class="btn" href="/actualites/">Actualités</a></nav>
+      <div class="wrap header-inner">
+        <a class="brand" href="/"><svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><defs><clipPath id="brandClip"><circle cx="16" cy="16" r="13"/></clipPath></defs><g clip-path="url(#brandClip)"><g transform="rotate(-14 16 16)"><rect class="sky" x="-4" y="-4" width="40" height="21"/><rect class="ground" x="-4" y="17" width="40" height="20"/></g></g><circle class="ring" cx="16" cy="16" r="13"/><path class="wings" d="M7 16.5h6l3 3 3-3h6"/></svg><span>Chroniques des Crashes Aériens</span></a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+        <nav id="nav" class="nav" aria-label="Navigation principale">
+          <a href="/actualites/">Actualités</a>
+          <a href="/#/base" aria-current="page">Accidents</a>
+          <a href="/#/a-propos">À propos</a>
+          <button id="themeToggle" class="theme-toggle" type="button">Mode jour</button>
+        </nav>
       </div>
     </header>
     <main class="article" id="content">
@@ -37,6 +41,12 @@
       <section class="sources"><h2>Sources</h2><ul><li><a href="https://aviation-safety.net/wikibase/323401" target="_blank" rel="noopener">Aviation Safety Network – Fiche 9V-SPK</a></li><li><a href="https://en.wikipedia.org/wiki/Singapore_Airlines_Flight_006" target="_blank" rel="noopener">Wikipédia (en) – Singapore Airlines Flight 006</a></li></ul></section>
       <p><a class="btn" href="/#/accident/sq006-2000">Voir la fiche interactive</a></p>
     </main>
-    <footer class="site-footer"><div class="container"><p class="brand-mention">CrashPlaneWebsite — www.crashplanewebsite.com</p></div></footer>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Projet personnel et pédagogique. Les récits résument des rapports d’enquête officiels ; référez-vous aux sources citées sur chaque fiche.</p>
+        <p>Chroniques des Crashes Aériens — crashplanewebsite.com</p>
+      </div>
+    </footer>
+      <script src="/assets/js/site.js"></script>
   </body>
 </html>

@@ -10,11 +10,6 @@
   var summary = document.getElementById('newsSummary');
   var state = { stories: [], cat: 'Toutes' };
 
-  try {
-    var theme = localStorage.getItem('theme') || 'light';
-    document.documentElement.dataset.theme = theme;
-  } catch (e) { document.documentElement.dataset.theme = 'light'; }
-
   var STATUS = {
     officiel: { label: 'Confirmé par une source officielle', cls: 'st-official' },
     corrobore: { label: 'Corroboré par plusieurs sources', cls: 'st-corroborated' }
