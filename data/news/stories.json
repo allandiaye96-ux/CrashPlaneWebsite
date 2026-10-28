@@ -1,1 +1,259 @@
-[]
+[
+  {
+    "id": "2026-10-28-itochu-va-prendre-une-participation-minoritaire-dans-iag-eng-b2fc",
+    "created": "2026-10-28T21:56:28Z",
+    "updated": "2026-10-28T21:56:28Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "ITOCHU va prendre une participation minoritaire dans IAG Engine Tech",
+    "chapo": "D'après AviTrader, Iberia a accepté de céder une part minoritaire d'IAG Engine Tech au groupe japonais ITOCHU. Selon la même source, IAG conservera la majorité de cette filiale spécialisée dans la maintenance moteurs.",
+    "paragraphes": [
+      "Selon AviTrader, IAG Engine Tech (IET) a été créée en 2026 au sein d'International Airlines Group (IAG) pour se consacrer à la maintenance des moteurs d'avion. La société rapporte que la participation vendue à ITOCHU Corporation, groupe japonais de commerce et d'investissement, reste minoritaire.",
+      "D'après le même article, IAG détiendra toujours la majorité d'IET par l'intermédiaire d'Iberia. L'investissement d'ITOCHU s'inscrit dans la continuité de ses engagements antérieurs, selon AviTrader, dont l'extrait disponible ne détaille pas la suite."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "ITOCHU to take minority stake in IAG engine unit",
+        "url": "https://avitrader.com/2026/10/28/itochu-to-take-minority-stake-in-iag-engine-unit/",
+        "date": "2026-10-28T07:15:13Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-28-qantas-assure-son-dernier-vol-commercial-a380-au-depart-de-m-ec0a",
+    "created": "2026-10-28T21:56:26Z",
+    "updated": "2026-10-28T21:56:26Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas assure son dernier vol commercial A380 au départ de Melbourne",
+    "chapo": "D'après Australian Aviation, Qantas a effectué son dernier vol régulier de passagers au départ de Melbourne avec un A380. Le média évoque la fin d'une époque pour la compagnie.",
+    "paragraphes": [
+      "Selon Australian Aviation, il s'agit du dernier service planifié de passagers opéré par Qantas au départ de Melbourne sur sa flotte Airbus A380.",
+      "Toujours d'après ce même média, cette évolution réduit les options de réservation pour les passagers premium."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Sun sets on Qantas’ Melbourne A380 operations",
+        "url": "https://australianaviation.com.au/2026/10/sun-sets-on-qantas-melbourne-a380-operations/",
+        "date": "2026-10-27T06:41:23Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-28-qantas-les-personnels-au-sol-relancent-une-greve-de-24-heure-eecc",
+    "created": "2026-10-28T21:56:24Z",
+    "updated": "2026-10-28T21:56:24Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas : les personnels au sol relancent une grève de 24 heures en Australie",
+    "chapo": "D'après Australian Aviation, les membres du Transport Workers' Union employés par Qantas Ground Services ont engagé une nouvelle action industrielle protégée de 24 heures.",
+    "paragraphes": [
+      "Selon Australian Aviation, ce mouvement concerne des salariés de Qantas Ground Services travaillant à Sydney, Melbourne, Adelaide, Brisbane et Perth. L'action a eu lieu un mercredi.",
+      "Toujours selon le même média, cette nouvelle grève fait suite à des arrêts de travail initiaux menés en septembre. Ceux-ci avaient été soutenus par 97 % des membres lors d'un vote organisé en août."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas ground workers kick off another 24-hour strike",
+        "url": "https://australianaviation.com.au/2026/10/qantas-ground-workers-kick-off-another-24-hour-strike/",
+        "date": "2026-10-28T00:39:03Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-28-la-dia-publie-une-image-rare-de-l-avion-spatial-reutilisable-d790",
+    "created": "2026-10-28T21:56:22Z",
+    "updated": "2026-10-28T21:56:22Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "La DIA publie une image rare de l'avion spatial réutilisable chinois",
+    "chapo": "Les services de renseignement américains ont diffusé une nouvelle image de l'engin spatial réutilisable chinois, photographié en orbite. Le cliché montre l'appareil avec son module de service attaché.",
+    "paragraphes": [
+      "Selon The Aviationist, la Defense Intelligence Agency (DIA) américaine a publié une image de cet avion spatial chinois, décrit comme secret. La photo a été capturée par un satellite de Maxar Technologies.",
+      "D'après le même média, le rapport de la DIA revient sur trois missions menées entre 2020 et 2023, avec des opérations de rendez-vous et de proximité signalées lors des deuxième et troisième vols. La Chine a relancé l'appareil en février 2026.",
+      "AeroTime rapporte de son côté que la DIA a publié une photographie rare de l'engin en orbite. Les extraits disponibles ne permettent pas de détailler davantage le contenu du cliché."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "DIA Releases Clearest Image of China’s Reusable Spaceplane with Service Module Attached",
+        "url": "https://theaviationist.com/2026/10/27/clearest-image-of-chinas-reusable-spaceplane/",
+        "date": "2026-10-27T21:26:23Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "US intelligence releases rare image of China’s secretive spaceplane",
+        "url": "https://www.aerotime.aero/articles/china-spaceplane-orbit-photo-us-intelligence",
+        "date": "2026-10-28T19:08:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-28-western-sydney-airport-l-ouverture-evoquee-dans-un-podcast-d-df03",
+    "created": "2026-10-28T21:56:18Z",
+    "updated": "2026-10-28T21:56:18Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Western Sydney Airport : l'ouverture évoquée dans un podcast d'Australian Aviation",
+    "chapo": "D'après Australian Aviation, son podcast hebdomadaire revient sur l'ouverture du nouvel aéroport de Western Sydney, présentée comme marquée par des épreuves et des réussites.",
+    "paragraphes": [
+      "Selon le site Australian Aviation, l'épisode vidéo de cette semaine fait le bilan de l'ouverture du Western Sydney Airport, dont les animateurs évoquent à la fois les difficultés et les succès.",
+      "Toujours d'après cette source, les animateurs s'interrogent sur les perspectives de cette nouvelle porte d'entrée internationale pour l'Australie. Le podcast évoque également un différend, sur le ton de la plaisanterie, avec un appareil A320 de Jetstar.",
+      "Cette information repose sur la seule présentation d'un épisode de podcast ; elle ne détaille ni chiffres ni éléments techniques sur l'aéroport."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Video Podcast: Western Sydney Airport finally takes flight",
+        "url": "https://australianaviation.com.au/2026/10/video-podcast-western-sydney-airport-finally-takes-flight/",
+        "date": "2026-10-28T05:34:23Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-28-boeing-clot-le-troisieme-trimestre-2026-avec-un-carnet-recor-b9fd",
+    "created": "2026-10-28T21:56:16Z",
+    "updated": "2026-10-28T21:56:16Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing clôt le troisième trimestre 2026 avec un carnet record et deux variantes du 737 MAX certifiées",
+    "chapo": "D'après AeroTime, Boeing a terminé le troisième trimestre 2026 avec un carnet de commandes record, tout en voyant sa perte se réduire. Le média indique également que deux variantes du 737 MAX ont été certifiées.",
+    "paragraphes": [
+      "Selon AeroTime, qui s'appuie sur les résultats publiés par le constructeur, Boeing a clôturé le troisième trimestre 2026 avec un carnet de commandes à un niveau record. L'article mentionne aussi la certification de deux nouvelles variantes de la famille 737 MAX, le 737-7 et le 737-10.",
+      "L'extrait disponible ne détaille pas davantage les chiffres financiers ni le calendrier de mise en service de ces variantes. Les informations ci-dessus reposent uniquement sur le titre et le court extrait de l'article d'AeroTime."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Boeing Q3 2026 results: record backlog, 737-7 and 737-10 certified, loss narrows",
+        "url": "https://www.aerotime.aero/articles/boeing-q3-2026-results-record-backlog-737-7-and-737-10-certified-loss-narrows",
+        "date": "2026-10-27T14:26:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
+    "created": "2026-10-28T21:56:14Z",
+    "updated": "2026-10-28T21:56:14Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "JetBlue défend sa situation financière alors que des créanciers engagent des conseillers en restructuration",
+    "chapo": "D'après AeroTime, JetBlue cherche à rassurer les investisseurs sur sa capacité à redresser son activité. Cette position intervient après qu'un groupe de créanciers a engagé des conseillers en restructuration.",
+    "paragraphes": [
+      "Selon AeroTime, la compagnie aérienne affirme pouvoir transformer son activité, alors que ses créanciers ont fait appel à des conseillers spécialisés dans les restructurations. L'extrait disponible ne détaille pas la nature exacte de ces démarches ni les montants concernés.",
+      "La source ne fournit pas d'autres éléments sur la situation financière de JetBlue ni sur les intentions des créanciers. Il s'agit d'un article unique, dont l'extrait est tronqué."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "JetBlue defends its finances as creditors hire restructuring advisers",
+        "url": "https://www.aerotime.aero/articles/jetblue-finances-creditors-restructuring-advisers",
+        "date": "2026-10-28T02:52:58Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-28-les-etats-unis-jugent-un-pret-europeen-de-3-4-milliards-de-d-e078",
+    "created": "2026-10-28T21:56:12Z",
+    "updated": "2026-10-28T21:56:12Z",
+    "version": 1,
+    "published": false,
+    "hidden": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Les États-Unis jugent un prêt européen de 3,4 milliards de dollars à Airbus menaçant pour la trêve commerciale",
+    "chapo": "D'après AeroTime, Washington a averti qu'un financement européen en faveur d'Airbus pourrait menacer la trêve commerciale sur les avions conclue avec l'Europe. Cette information repose sur le seul extrait disponible de cet éditeur.",
+    "paragraphes": [
+      "Selon AeroTime, les États-Unis ont mis en garde contre un prêt européen de 3,4 milliards de dollars destiné à Airbus, qu'ils estiment susceptible de remettre en cause leur trêve commerciale avec l'Europe dans le secteur aéronautique.",
+      "L'extrait consulté ne donne pas davantage de détails sur les modalités du financement ni sur la réaction des autorités européennes. Les informations ci-dessus ne sont pas recoupées par une autre source."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "US warns $3.4 billion Airbus loan threatens aircraft trade truce",
+        "url": "https://www.aerotime.aero/articles/us-warns-3-4-billion-airbus-loan-threatens-aircraft-trade-truce",
+        "date": "2026-10-28T03:22:25Z",
+        "official": false
+      }
+    ]
+  }
+]
