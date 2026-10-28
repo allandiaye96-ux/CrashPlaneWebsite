@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": "af447-2009",
     "title": "Air France 447 – Disparition au‑dessus de l’Atlantique",
@@ -518,7 +518,7 @@
     "manufacturer": "McDonnell Douglas",
     "phaseOfFlight": "Décollage",
     "passengersTotal": 3,
-    "fatalities": null,
+    "fatalities": 14,
     "lat": 38.1744,
     "lon": -85.7360,
     "images": [{"url": "assets/img/ups2976-2025.jpg", "caption": "Zone aéroportuaire de Louisville – illustration."}],
@@ -527,9 +527,9 @@
       "to": {"name": "Honolulu – HNL (prévu)", "iata": "HNL"}
     },
     "sources": [
-      {"title": "FAA – Note d’information (4 nov.)", "url": "https://www.faa.gov/"},
-      {"title": "UPS – Communiqué", "url": "https://www.ups.com/"}
+      {"title": "AVweb – Synthèse du rapport préliminaire NTSB (20 nov. 2025)", "url": "https://avweb.com/flight-safety/accidents-ntsb/ntsb-releases-ups-md-11-preliminary-report/"},
+      {"title": "Spectrum News – Rapport préliminaire NTSB", "url": "https://spectrumnews1.com/ky/louisville/news/2025/11/20/ntsb-preliminary-report-ups-crash"}
     ],
-    "description": "<h3>Contexte</h3><p>Un avion‑cargo UPS opérant le vol 2976 décolle de Louisville (SDF) à destination d’Hawaï. L’appareil est un MD‑11 cargo avec trois membres d’équipage à bord.</p><h3>Déroulement</h3><p>Peu après le décollage, l’avion s’écrase au sein de l’emprise aéroportuaire dans une boule de feu. Les autorités locales rapportent au moins sept décès au total et redoutent un bilan plus lourd, les victimes comprenant des personnes au sol.</p><h3>Réponse d’urgence</h3><p>Les services de secours interviennent massivement; des capteurs de qualité de l’air sont déployés par les autorités de l’État du Kentucky. La FAA confirme l’horaire approximatif de l’accident (~17h15 locales) et l’identification du type d’appareil.</p><h3>Statut de l’enquête</h3><p>Une enquête fédérale est attendue (FAA/NTSB). Le transporteur indique collaborer pleinement et publie un communiqué. Les chiffres resteront provisoires jusqu’aux confirmations officielles.</p>"
+    "description": "<h3>Contexte</h3><p>Le 4 novembre 2025, le vol cargo UPS 2976, un McDonnell Douglas MD‑11F avec trois membres d’équipage, décolle de Louisville (SDF) à destination d’Honolulu.</p><h3>Déroulement</h3><p>Juste après la rotation, le moteur gauche (n° 1) et son mât se séparent de l’aile ; un incendie se déclare au point d’attache. L’avion ne dépasse pas une trentaine de pieds de hauteur avant de percuter des bâtiments d’une zone industrielle voisine de l’aéroport.</p><h3>Bilan</h3><p>14 morts : les 3 membres d’équipage et 11 personnes au sol.</p><h3>Enquête (rapport préliminaire NTSB, 20 novembre 2025)</h3><p>Les examens ont relevé des criques de fatigue sur plusieurs surfaces de rupture de la fixation arrière du mât gauche. L’origine et l’étendue de cette fatigue restent à établir ; ces constats sont provisoires.</p><h3>Conséquences</h3><p>UPS a immobilisé sa flotte de MD‑11 et la FAA a émis deux consignes de navigabilité d’urgence restreignant l’exploitation des MD‑11 et DC‑10 dans l’attente d’inspections.</p>"
   }
 ]
