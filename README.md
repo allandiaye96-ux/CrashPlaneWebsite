@@ -1,6 +1,6 @@
-# Chroniques des Crashes Aériens
+# Carnet de Vol
 
-Site statique pour recenser les accidents et crashes d'avion. Chaque fiche contient un récit, des images et des sources.
+Site d'actualité aéronautique vérifiée et base historique des accidents d'avion. Chaque fiche contient un récit, des images et des sources ; les brèves d'actualité sont produites automatiquement (voir `docs/newsbot.md`).
 
 ## Utilisation
 

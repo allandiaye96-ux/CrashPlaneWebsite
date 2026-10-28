@@ -40,7 +40,7 @@
           var payload = {
             email: (email.value || '').trim(),
             message: (msg.value || '').trim(),
-            _subject: 'Contact CrashPlaneWebsite'
+            _subject: 'Contact Carnet de Vol'
           };
           fetch(endpoint, {
             method: 'POST',

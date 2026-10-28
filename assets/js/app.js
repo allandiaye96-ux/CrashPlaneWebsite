@@ -1,4 +1,4 @@
-/* Chroniques des Crashes Aériens — application principale
+/* Carnet de Vol — application principale
    Accueil (enregistreur + actualités + base), fiche accident, à propos.
    Les données de la base sont rédigées à la main ; les actualités viennent du robot
    et sont insérées en texte brut uniquement (voir news.js / renderNewsTeaser). */
@@ -127,7 +127,7 @@
       ${state.fallbackUsed ? '<p class="notice">Données chargées en mode local (fichier ouvert hors serveur).</p>' : ''}
       <section class="hero">
         <div class="hero-top"><h1 class="hero-title">Chaque accident a changé la façon de voler.</h1>
-        <p class="hero-lede">${n} accidents documentés de ${first} à ${last}, racontés à partir des rapports d’enquête, et une veille d’actualité vérifiée par recoupement.</p></div>
+        <p class="hero-lede">L’actualité aéronautique vérifiée par recoupement de sources, et ${n} accidents documentés de ${first} à ${last} à partir des rapports d’enquête.</p></div>
         <figure class="recorder">
           ${recorderSvg()}
           <figcaption><p id="recReadout" class="rec-readout" aria-live="polite">Survolez un trait pour lire l’accident. La hauteur suit le nombre de victimes.</p></figcaption>
@@ -246,7 +246,7 @@
     $app.innerHTML = `
       <article class="prose">
         <h1>À propos</h1>
-        <p>Chroniques des Crashes Aériens est un projet personnel de passionné d’aviation. Chaque fiche raconte un accident à partir des rapports d’enquête officiels, explique ce qui s’est passé et ce qui a changé ensuite.</p>
+        <p>Carnet de Vol est un projet personnel de passionné d’aviation. Il réunit une veille d’actualité aéronautique vérifiée et une base d’accidents racontés à partir des rapports d’enquête officiels : ce qui s’est passé, et ce qui a changé ensuite.</p>
         <p>Ces récits sont des synthèses : ils ne remplacent pas les rapports des organismes d’enquête (BEA en France, NTSB aux États-Unis, AAIB au Royaume-Uni, BST au Canada…). Les liens vers ces rapports figurent sur chaque fiche.</p>
         <p>La rubrique <a class="link" href="/actualites/">Actualités</a> est alimentée automatiquement. Une brève n’est publiée que si l’événement est confirmé par au moins deux médias indépendants ou par une source officielle. Ces contrôles réduisent les erreurs sans les éliminer.</p>
         <p>Une erreur ou une source à ajouter ? Le projet est ouvert sur GitHub.</p>

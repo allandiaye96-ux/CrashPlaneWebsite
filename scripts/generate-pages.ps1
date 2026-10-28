@@ -76,7 +76,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
   <body>
     <header class="site-header">
       <div class="wrap header-inner">
-        <a class="brand" href="/"><svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><defs><clipPath id="brandClip"><circle cx="16" cy="16" r="13"/></clipPath></defs><g clip-path="url(#brandClip)"><g transform="rotate(-14 16 16)"><rect class="sky" x="-4" y="-4" width="40" height="21"/><rect class="ground" x="-4" y="17" width="40" height="20"/></g></g><circle class="ring" cx="16" cy="16" r="13"/><path class="wings" d="M7 16.5h6l3 3 3-3h6"/></svg><span>Chroniques des Crashes Aériens</span></a>
+        <a class="brand" href="/"><svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><defs><clipPath id="brandClip"><circle cx="16" cy="16" r="13"/></clipPath></defs><g clip-path="url(#brandClip)"><g transform="rotate(-14 16 16)"><rect class="sky" x="-4" y="-4" width="40" height="21"/><rect class="ground" x="-4" y="17" width="40" height="20"/></g></g><circle class="ring" cx="16" cy="16" r="13"/><path class="wings" d="M7 16.5h6l3 3 3-3h6"/></svg><span>Carnet de Vol</span></a>
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
         <nav id="nav" class="nav" aria-label="Navigation principale">
           <a href="/actualites/">Actualités</a>
@@ -98,7 +98,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
     <footer class="site-footer">
       <div class="wrap">
         <p>Projet personnel et pédagogique. Les récits résument des rapports d’enquête officiels ; référez-vous aux sources citées sur chaque fiche.</p>
-        <p>Chroniques des Crashes Aériens — crashplanewebsite.com</p>
+        <p>Carnet de Vol — crashplanewebsite.com</p>
       </div>
     </footer>
     <script src="/assets/js/site.js"></script>
@@ -131,9 +131,9 @@ $listHtml = @"
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Accidents — Chroniques des Crashes Aériens</title>
+  <title>Accidents — Carnet de Vol</title>
   <link rel="canonical" href="$BaseUrl/accidents/" />
-  <meta property="og:title" content="Accidents — Chroniques des Crashes Aériens" />
+  <meta property="og:title" content="Accidents — Carnet de Vol" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="$BaseUrl/accidents/" />
   <link rel="icon" href="../assets/img/plane.jpg" />
@@ -141,9 +141,9 @@ $listHtml = @"
   <style>.list{max-width:900px;margin:2rem auto;padding:0 1rem}</style>
 </head>
 <body>
-  <header class="site-header"><div class="container header-inner"><a class="brand" href="/">✈ Chroniques des Crashes Aériens</a></div></header>
+  <header class="site-header"><div class="container header-inner"><a class="brand" href="/">✈ Carnet de Vol</a></div></header>
   <main class="list"><h1>Accidents</h1><ul>$links</ul></main>
-  <footer class="site-footer"><div class="container"><p class="brand-mention">CrashPlaneWebsite — www.crashplanewebsite.com</p></div></footer>
+  <footer class="site-footer"><div class="container"><p>Carnet de Vol — crashplanewebsite.com</p></div></footer>
 </body>
 </html>
 "@

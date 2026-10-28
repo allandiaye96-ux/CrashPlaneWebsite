@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Robot d'actualités aéronautiques de CrashPlaneWebsite.
+"""Robot d'actualités aéronautiques de Carnet de Vol.
 
 Cycle (lancé toutes les 30 min par GitHub Actions) :
   1. lit les flux RSS/Atom listés dans bot/config.json ;
@@ -38,7 +38,7 @@ STORIES_PATH = NEWS_DIR / "stories.json"
 STATE_PATH = NEWS_DIR / "state.json"
 HEALTH_PATH = NEWS_DIR / "health.json"
 
-USER_AGENT = "CrashPlaneWebsiteBot/1.0 (+https://www.crashplanewebsite.com/actualites/)"
+USER_AGENT = "CarnetDeVolBot/1.0 (+https://www.crashplanewebsite.com/actualites/)"
 API_URL = "https://api.anthropic.com/v1/messages"
 API_VERSION = "2023-06-01"
 
