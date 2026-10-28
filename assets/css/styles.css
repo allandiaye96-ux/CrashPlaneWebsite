@@ -139,6 +139,7 @@ main { display: block; }
 .status { align-self: flex-start; font-size: 12px; padding: 2px 8px; border: 1px solid currentColor; border-radius: 2px; }
 .status-official { color: var(--green); }
 .status-corroborated { color: var(--cyan); }
+.status-single { color: var(--amber); }
 @media (max-width: 860px) { .teasers { grid-template-columns: 1fr; border-left: 0; } .teaser { border-right: 0; border-bottom: 1px solid var(--line); padding: 14px 0; } }
 
 /* ---------- Accueil : base historique ---------- */
@@ -254,6 +255,7 @@ main { display: block; }
 .news-status.st-official { color: var(--green); }
 .news-status.st-corroborated { color: var(--cyan); }
 .news-status.st-draft { color: var(--amber); }
+.news-status.st-single { color: var(--amber); }
 .news-title { font-size: 24px; line-height: 1.25; margin: 10px 0 6px; }
 .news-card p.meta { font-family: var(--ui); color: var(--dim); font-size: 13px; line-height: 1.4; margin: 0 0 12px; }
 .news-card p { font-family: var(--text); font-size: 18px; line-height: 1.6; margin: 0 0 12px; max-width: 68ch; }

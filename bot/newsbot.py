@@ -307,7 +307,10 @@ Pour chaque article :
   événement doivent recevoir exactement le même libellé.
 Importance : 0 = sans intérêt, 1 = anecdotique, 2 = intéressant pour un passionné, 3 = majeur
 (accident avec victimes, décision réglementaire importante, commande ou programme majeur).
-Ne regroupe jamais deux événements différents, même similaires."""
+Un nouvel article sur un sujet déjà présent dans un dossier (nouvel angle, réaction, suite, rapport sur la
+même chose) doit être rattaché à ce dossier, pas créer un nouveau dossier.
+Ne regroupe jamais deux événements différents, même similaires (deux accidents distincts, les résultats
+de deux constructeurs différents…)."""
 
 TRIAGE_TOOL = {
     "name": "classer_articles",
@@ -339,7 +342,8 @@ def triage(claude: Claude, cfg: dict, new_items: list[dict], clusters: dict) -> 
     """Rattache les nouveaux articles à des dossiers (clusters) existants ou nouveaux."""
     open_clusters = sorted(clusters.values(), key=lambda c: c["updated"], reverse=True)[:80]
     dossiers = "\n".join(
-        f"- {c['id']} : {c['label']} ({c['categorie']})" for c in open_clusters
+        f"- {c['id']} : {c['label']} ({c['categorie']}) — ex. « {c['items'][-1]['title'][:120]} »"
+        for c in open_clusters if c["items"]
     ) or "(aucun)"
     batch = new_items[: cfg["max_items_per_triage"]]
     articles = "\n".join(
@@ -391,9 +395,52 @@ def verification_status(cluster: dict, cfg: dict) -> dict:
         status = "officiel"
     elif len(publishers) >= cfg["min_independent_sources"]:
         status = "corrobore"
+    elif len(publishers) == 1 and cluster.get("categorie") in cfg.get("single_source_categories", []):
+        # Actualité industrielle (commandes, livraisons, résultats…) : risque faible,
+        # une source spécialisée suffit, avec la mention « Source unique ».
+        status = "source_unique"
     else:
         status = "signale"
     return {"status": status, "independent_sources": len(publishers), "official_source": official}
+
+
+_STOP = {"avec", "dans", "pour", "sans", "sous", "vers", "plus", "apres", "avant", "entre", "selon", "from",
+         "with", "after", "over", "into", "that", "this", "their", "will", "says", "said", "amid", "first", "news"}
+
+
+def _sig_tokens(text: str) -> set[str]:
+    t = unicodedata.normalize("NFKD", text.lower()).encode("ascii", "ignore").decode()
+    return {w for w in re.findall(r"[a-z0-9-]{4,}", t) if w not in _STOP}
+
+
+def merge_similar(clusters: dict) -> int:
+    """Fusionne les dossiers manifestement identiques que le tri a séparés
+    (même catégorie, au moins 4 mots significatifs communs, couvrant 60 % du plus court)."""
+    merged = 0
+    ids = sorted(clusters, key=lambda k: clusters[k]["created"])
+    tok = {k: _sig_tokens(clusters[k]["label"] + " " + clusters[k]["items"][0]["title"]) for k in ids if clusters[k]["items"]}
+    for i, a in enumerate(ids):
+        if a not in clusters or a not in tok:
+            continue
+        for b in ids[i + 1:]:
+            if b not in clusters or b not in tok:
+                continue
+            ca, cb = clusters[a], clusters[b]
+            if ca["categorie"] != cb["categorie"] or (ca["story_id"] and cb["story_id"]):
+                continue
+            inter = tok[a] & tok[b]
+            if len(inter) >= 4 and len(inter) / min(len(tok[a]), len(tok[b])) >= 0.6:
+                keep, drop = (a, b) if ca["story_id"] or not cb["story_id"] else (b, a)
+                for it in clusters[drop]["items"]:
+                    if all(x["url"] != it["url"] for x in clusters[keep]["items"]):
+                        clusters[keep]["items"].append(it)
+                clusters[keep]["importance"] = max(clusters[keep]["importance"], clusters[drop]["importance"])
+                clusters[keep]["updated"] = max(clusters[keep]["updated"], clusters[drop]["updated"])
+                del clusters[drop]
+                merged += 1
+                if drop == a:
+                    break
+    return merged
 
 
 # ---------------------------------------------------------------------------
@@ -465,6 +512,9 @@ def write_story(claude: Claude, cfg: dict, cluster: dict) -> dict | None:
         for i, s in enumerate(sources)
     )
     user = f"Rédige une brève sur cet événement à partir de ces sources :\n\n{block}"
+    if len({publisher_key(s["url"]) for s in sources}) == 1:
+        user += ("\n\nIl n'y a qu'une seule source : attribue explicitement chaque information à cet éditeur "
+                 "(« selon … », « d'après … ») et ne présente rien comme un fait établi par ailleurs.")
     for attempt in range(2):
         out = claude.call_tool(cfg["model_writer"], WRITER_SYSTEM, user, WRITER_TOOL, max_tokens=1500)
         text = " ".join([out.get("titre", ""), out.get("chapo", "")] + list(out.get("paragraphes", [])))
@@ -545,6 +595,9 @@ def run(cfg: dict, api_key: str | None, fetcher=fetch_feed, claude_cls=Claude) -
     try:
         if new_items:
             triage(claude, cfg, new_items, clusters)
+            n = merge_similar(clusters)
+            if n:
+                log(f"{n} dossier(s) en double fusionné(s)")
             for it in new_items[: cfg["max_items_per_triage"]]:
                 seen[it["url"]] = iso(now)
 

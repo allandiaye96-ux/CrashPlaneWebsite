@@ -82,24 +82,57 @@
       "url": "https://avitrader.com/feed/"
     },
     {
-      "name": "Air Cargo News",
-      "url": "https://www.aircargonews.net/feed/"
-    },
-    {
-      "name": "Aviation Source News",
-      "url": "https://aviationsourcenews.com/feed/"
-    },
-    {
-      "name": "Flightradar24 – Sécurité",
-      "url": "https://www.flightradar24.com/blog/category/aviation-safety/feed/"
-    },
-    {
       "name": "The Local France – Aviation",
       "url": "https://feeds.thelocal.com/rss/fr/aviation"
     },
     {
       "name": "The Local France – Accidents",
       "url": "https://feeds.thelocal.com/rss/fr/air-crash"
+    },
+    {
+      "name": "The Air Current",
+      "url": "https://theaircurrent.com/feed/"
+    },
+    {
+      "name": "AirlineGeeks",
+      "url": "https://airlinegeeks.com/feed/"
+    },
+    {
+      "name": "Flightradar24 – Blog",
+      "url": "https://www.flightradar24.com/blog/feed/"
+    },
+    {
+      "name": "The War Zone",
+      "url": "https://www.thedrive.com/the-war-zone/feed"
+    },
+    {
+      "name": "Airbus – Communiqués",
+      "url": "https://www.airbus.com/newsevents/rss/all_news.xml"
+    },
+    {
+      "name": "Boeing – Communiqués",
+      "url": "https://boeing.mediaroom.com/news-releases-statements?pagetemplate=rss"
+    },
+    {
+      "name": "aero.de",
+      "url": "https://www.aero.de/feed/"
+    },
+    {
+      "name": "airliners.de",
+      "url": "https://www.airliners.de/rss/nachrichten.xml"
+    },
+    {
+      "name": "Air Journal",
+      "url": "https://www.air-journal.fr/feed"
+    },
+    {
+      "name": "Le Journal de l'Aviation",
+      "url": "https://www.journal-aviation.com/feed"
     }
+  ],
+  "single_source_categories": [
+    "Compagnies",
+    "Constructeurs et industrie",
+    "Aéroports"
   ]
 }

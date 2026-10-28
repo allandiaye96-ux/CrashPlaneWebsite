@@ -168,3 +168,28 @@ def test_health_report(tmp_news):
     assert h["feeds"]["Source A"] == {"ok": True, "items": 2}
     assert h["feeds"]["Cassé"]["ok"] is False
     assert h["dossiers"] and h["dossiers"][0]["breve"]
+
+
+def test_single_source_allowed_for_industry_only():
+    c = cfg()
+    one = [{"url": "https://www.aerotime.aero/x"}]
+    assert newsbot.verification_status({"items": one, "categorie": "Constructeurs et industrie"}, c)["status"] == "source_unique"
+    assert newsbot.verification_status({"items": one, "categorie": "Compagnies"}, c)["status"] == "source_unique"
+    assert newsbot.verification_status({"items": one, "categorie": "Accident"}, c)["status"] == "signale"
+    assert newsbot.verification_status({"items": one, "categorie": "Défense"}, c)["status"] == "signale"
+
+
+def _cl(cid, label, title, cat="Défense", created="2026-10-28T20:00:00Z"):
+    return {"id": cid, "label": label, "categorie": cat, "importance": 2, "created": created, "updated": created,
+            "items": [{"url": f"https://x.example/{cid}", "title": title}], "story_id": None, "written_count": 0}
+
+
+def test_merge_duplicates_but_not_different_events():
+    cl = {
+        "a": _cl("a", "Image du spaceplane chinois", "US intelligence releases rare image of China's secretive spaceplane"),
+        "b": _cl("b", "Rapport DIA image spaceplane chinois", "DIA report shows image of China's secretive spaceplane", created="2026-10-28T21:00:00Z"),
+        "c": _cl("c", "Boeing résultats T3 2026", "Boeing Q3 2026 results: record backlog", cat="Constructeurs et industrie"),
+        "d": _cl("d", "Airbus résultats T3 2026", "Airbus Q3 2026 results: deliveries up", cat="Constructeurs et industrie"),
+    }
+    assert newsbot.merge_similar(cl) == 1
+    assert set(cl) == {"a", "c", "d"} and len(cl["a"]["items"]) == 2
