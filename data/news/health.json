@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-28T21:55:30Z",
+  "run": "2026-10-29T01:44:15Z",
   "stats": {
     "fetched": 646,
-    "new": 226,
-    "written": 8,
+    "new": 109,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0098,
+  "spend_month_usd": 0.0138,
   "feeds": {
     "NTSB – Communiqués": {
       "ok": true,
