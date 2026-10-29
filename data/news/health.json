@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-29T12:22:52Z",
+  "run": "2026-10-29T15:39:24Z",
   "stats": {
     "fetched": 696,
-    "new": 47,
+    "new": 30,
     "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0193,
+  "spend_month_usd": 0.0224,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -112,10 +112,22 @@
       "breve": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f"
     },
     {
+      "dossier": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17"
+    },
+    {
+      "dossier": "Condor accord pilotes 2029",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -172,6 +184,12 @@
       "breve": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771"
     },
     {
+      "dossier": "Honeywell usine Arizona 500 M$",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-29-honeywell-aerospace-prevoit-une-usine-de-500-millions-de-dol-31ca"
+    },
+    {
       "dossier": "ARRW production USAF",
       "statut": "signale",
       "editeurs": 1,
@@ -226,12 +244,6 @@
       "breve": null
     },
     {
-      "dossier": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Tirs de missiles nord-coréens mer du Japon",
       "statut": "signale",
       "editeurs": 1,
@@ -239,6 +251,24 @@
     },
     {
       "dossier": "NASA X-59 vers Kennedy",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Collision Delta A350 / Air Canada 777 LAX",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Éthiopie Su-35 et S-400",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Ebola règles CDC déclaration US",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

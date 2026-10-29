@@ -1,5 +1,112 @@
 [
   {
+    "id": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097",
+    "created": "2026-10-29T15:39:55Z",
+    "updated": "2026-10-29T15:39:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Condor : accord avec les pilotes jusqu'en septembre 2029",
+    "chapo": "Selon aero.de, la compagnie allemande Condor a conclu avec ses pilotes un accord collectif qui court jusqu'à fin septembre 2029. Selon airliners.de, ce dispositif prévoit des gels de salaires temporaires en échange d'une protection contre les licenciements économiques.",
+    "paragraphes": [
+      "D'après le syndicat Vereinigung Cockpit (VC), cité par aero.de, les parties se sont entendues sur une convention collective valable jusqu'à fin septembre 2029. Pendant cette période, une protection contre le licenciement s'applique aux quelque 1.000 salariés concernés.",
+      "Selon airliners.de, les pilotes de Condor ont accepté un « Zukunftspaket » (plan d'avenir). Il prévoit des gels de salaires, mais exclut les licenciements pour motifs économiques liés à l'exploitation. Contrairement à sa grande concurrente Lufthansa, Condor a ainsi obtenu une paix sociale à long terme avec ses pilotes."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Condor einigt sich bis 2029 mit Piloten",
+        "url": "https://www.aero.de/news-54046/Condor-einigt-sich-bis-2029-mit-Piloten.html",
+        "date": "2026-10-29T13:40:20Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Condor-Piloten akzeptieren befristete Nullrunden gegen Schutz vor betriebsbedingten Kündigungen",
+        "url": "https://www.airliners.de/condor-piloten-akzeptieren-nullrunden-schutz-betriebsbedingte-kuendigungen/91182",
+        "date": "2026-10-29T13:53:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-honeywell-aerospace-prevoit-une-usine-de-500-millions-de-dol-31ca",
+    "created": "2026-10-29T15:39:51Z",
+    "updated": "2026-10-29T15:39:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Honeywell Aerospace prévoit une usine de 500 millions de dollars à Tempe, en Arizona",
+    "chapo": "Selon AviTrader, Honeywell Aerospace investira 500 millions de dollars dans une nouvelle unité de fabrication à Tempe, dans l'Arizona, pour répondre à la demande croissante de l'aviation commerciale et des programmes de défense.",
+    "paragraphes": [
+      "D'après le même média, le site de 300 000 pieds carrés sera implanté à proximité du siège mondial de l'entreprise. Il doit intégrer des systèmes de production numériques, de la robotique modulaire, des contrôles automatisés et des jumeaux numériques, le tout relié à un réseau de production numérique de bout en bout.",
+      "Le texte source s'interrompt avant de préciser le calendrier de réalisation et les effectifs envisagés."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Honeywell Aerospace plans US$500 million Arizona factory",
+        "url": "https://avitrader.com/2026/10/29/honeywell-aerospace-plans-us500-million-arizona-factory/",
+        "date": "2026-10-29T12:35:56Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df",
+    "created": "2026-10-29T15:39:47Z",
+    "updated": "2026-10-29T15:39:47Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Flydubai : le commandant de bord blessé lors d'une attaque dans le cockpit honoré aux Émirats",
+    "chapo": "D'après aero.de, le commandant de bord d'un vol Flydubai attaqué dans le cockpit va mieux. Selon airliners.de, il a été décoré aux Émirats arabes unis pour son action.",
+    "paragraphes": [
+      "Les deux sources indiquent que le vol, à destination de Tel Aviv, a été attaqué fin septembre. Selon airliners.de, un copilote a agressé le commandant avec une hache. Le pilote, grièvement blessé, a été distingué aux Émirats arabes unis pour son intervention.",
+      "Les sources ne donnent pas d'éléments sur les motifs de l'agression ni sur les suites judiciaires."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Verletzter Flydubai-Pilot für Rettung von Passagieren geehrt",
+        "url": "https://www.aero.de/news-54039/Verletzter-Flydubai-Pilot-fuer-Rettung-von-Passagieren-geehrt.html",
+        "date": "2026-10-29T05:27:40Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Nach Axtangriff im Cockpit: VAE ehren verletzten Flydubai-Kapitän",
+        "url": "https://www.airliners.de/axtangriff-cockpit-vae-ehren-verletzten-flydubai-kapitaen/91180",
+        "date": "2026-10-29T13:49:50Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771",
     "created": "2026-10-29T12:23:22Z",
     "updated": "2026-10-29T12:23:22Z",
