@@ -40,7 +40,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
   }
   $metaDesc = Truncate-Text $descHtml 200
   $basePath = if($lang -eq 'en'){ '/en/accidents' } else { '/accidents' }; $canonical = "$BaseUrl$basePath/$id/"
-  $absImg = if ($img) { "$BaseUrl/$img" } else { "$BaseUrl/assets/img/plane.jpg" }
+  $absImg = if ($img) { "$BaseUrl/$img" } else { "$BaseUrl/assets/img/og-image.png" }
 
   $srcItems = @(Get-Prop $acc 'sources') | Where-Object { $_ -and (Get-Prop $_ 'url') } | ForEach-Object {
     $u = [System.Net.WebUtility]::HtmlEncode([string](Get-Prop $_ 'url'))
@@ -66,7 +66,9 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
     <meta property="og:url" content="$canonical" />
     <meta property="og:image" content="$absImg" />
     <meta name="twitter:card" content="summary_large_image" />
-    <link rel="icon" href="/assets/img/plane.jpg" />
+    <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=B612:wght@400;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" />
@@ -136,7 +138,9 @@ $listHtml = @"
   <meta property="og:title" content="Accidents — Carnet de Vol" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="$BaseUrl/accidents/" />
-  <link rel="icon" href="../assets/img/plane.jpg" />
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png" />
   <link rel="stylesheet" href="../assets/css/styles.css" />
   <style>.list{max-width:900px;margin:2rem auto;padding:0 1rem}</style>
 </head>
