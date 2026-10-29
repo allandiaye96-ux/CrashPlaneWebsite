@@ -827,7 +827,8 @@
     "https://www.aero.de/news-54049/CH-47-Chinook-in-Bosnien-Herzegowina-abgestuerzt.html": "2026-10-29T19:20:33Z",
     "https://simpleflying.com/aging-narrowbody-us-airlines-dont-want-direct-replacement-for-2026/": "2026-10-29T20:01:01Z",
     "https://simpleflying.com/avelo-cancels-9-routes-from-this-city/": "2026-10-29T20:01:01Z",
-    "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/": "2026-10-29T20:01:01Z"
+    "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/": "2026-10-29T20:01:01Z",
+    "https://simpleflying.com/alaska-airlines-delivery-6th-boeing-787-9-dreamliner/": "2026-10-29T20:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1756,6 +1757,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.033684
+    "2026-10": 0.034174
   }
 }
