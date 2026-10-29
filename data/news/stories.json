@@ -1,5 +1,112 @@
 [
   {
+    "id": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771",
+    "created": "2026-10-29T12:23:22Z",
+    "updated": "2026-10-29T12:23:22Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Wizz Air propose des départs volontaires à ses copilotes de Londres-Luton",
+    "chapo": "Selon Air Journal, la compagnie low cost hongroise Wizz Air offre des départs volontaires à ses copilotes basés à Londres-Luton, dans un contexte de hausse du prix du kérosène qui la pousse à revoir son programme hivernal.",
+    "paragraphes": [
+      "D'après le même article, d'autres bases de la compagnie afficheraient des pertes, sans qu'un plan comparable ait été annoncé pour elles à ce stade.",
+      "Le média indique par ailleurs que Wizz Air conserve une importante réserve de liquidités ainsi qu'une couverture financière."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Kérosène hors de prix : Wizz Air propose à ses copilotes de Luton de partir",
+        "url": "https://www.air-journal.fr/2026-10-29-kerosene-hors-de-prix-wizz-air-propose-a-ses-copilotes-de-luton-de-partir-5278560.html",
+        "date": "2026-10-29T11:00:04Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
+    "created": "2026-10-29T12:23:20Z",
+    "updated": "2026-10-29T12:23:20Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus : bénéfices en baisse au troisième trimestre, objectif de livraisons 2026 maintenu",
+    "chapo": "Selon AeroTime, Airbus a enregistré une baisse de ses bénéfices au troisième trimestre, en partie liée à un ralentissement des livraisons d'avions commerciaux. Le constructeur maintient néanmoins son objectif annuel.",
+    "paragraphes": [
+      "Airbus a confirmé, le 28 octobre, son objectif d'environ 870 livraisons d'avions commerciaux pour 2026, d'après Air Journal. Le constructeur avait remis 547 appareils à ses clients à fin septembre, ce qui laisse 323 livraisons à réaliser sur les trois derniers mois de l'année.",
+      "Selon Air Journal, les résultats progressent sur neuf mois, mais le troisième trimestre marque un ralentissement. Les difficultés évoquées concernent l'approvisionnement en moteurs, l'intégration des activités reprises à Spirit AeroSystems et des problèmes ponctuels de qualité."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Airbus delivery slowdown squeezes profits, full-year target unchanged",
+        "url": "https://www.aerotime.aero/articles/airbus-nine-month-results-deliveries-proffits",
+        "date": "2026-10-29T11:07:17Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Airbus : 323 avions à livrer en trois mois pour tenir son pari de 2026",
+        "url": "https://www.air-journal.fr/2026-10-29-airbus-323-avions-a-livrer-en-trois-mois-pour-tenir-son-pari-de-2026-5278561.html",
+        "date": "2026-10-29T12:00:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f",
+    "created": "2026-10-29T12:23:18Z",
+    "updated": "2026-10-29T12:23:18Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Le Canada reçoit ses deux premiers F-35, l'achat complet toujours à l'étude",
+    "chapo": "Selon AeroTime, la Royal Canadian Air Force a reçu ses deux premiers chasseurs Lockheed Martin F-35A. Le projet d'acquisition complet de 88 appareils reste en cours d'examen par le gouvernement.",
+    "paragraphes": [
+      "D'après Aero-News Network, les deux appareils ont été acceptés le 22 octobre sur la base aérienne de Luke, en Arizona, selon la RCAF. Ils resteront aux États-Unis pour soutenir la formation initiale des pilotes et des mécaniciens canadiens, avant leur arrivée au Canada.",
+      "Le Canada prévoit de baser ses huit premiers CF-35A à Luke pendant cette phase initiale. Ces livraisons marquent le début du remplacement de la flotte de CF-18 vieillissante."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Canada Receives First F-35 Fighters",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=2D5B4318-955E-4E85-B5DA-C56B6661A9E5",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Canada receives first two F-35s as full purchase remains under review",
+        "url": "https://www.aerotime.aero/articles/canada-first-two-f35-fighters-delivery",
+        "date": "2026-10-26T23:44:19Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-29-alaska-airlines-prevoit-une-liaison-anchoragetokyo-narita-en-4392",
     "created": "2026-10-29T08:28:57Z",
     "updated": "2026-10-29T08:28:57Z",

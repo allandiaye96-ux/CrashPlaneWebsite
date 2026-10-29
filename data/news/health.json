@@ -1,21 +1,17 @@
 {
-  "run": "2026-10-29T08:28:28Z",
+  "run": "2026-10-29T12:22:52Z",
   "stats": {
-    "fetched": 646,
-    "new": 5,
-    "written": 1,
+    "fetched": 696,
+    "new": 47,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0159,
+  "spend_month_usd": 0.0193,
   "feeds": {
-    "NTSB – Communiqués": {
+    "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
-      "items": 0
-    },
-    "NTSB – Enquêtes": {
-      "ok": true,
-      "items": 0
+      "items": 50
     },
     "EASA – Communiqués": {
       "ok": true,
@@ -110,6 +106,18 @@
       "breve": "2026-10-28-la-dia-publie-une-image-rare-de-l-avion-spatial-reutilisable-d790"
     },
     {
+      "dossier": "Canada premiers F-35 reçus",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f"
+    },
+    {
+      "dossier": "Airbus résultats T3 2026 livraisons",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17"
+    },
+    {
       "dossier": "Prêt 3,4 milliards Airbus US",
       "statut": "source_unique",
       "editeurs": 1,
@@ -158,13 +166,13 @@
       "breve": "2026-10-29-alaska-airlines-prevoit-une-liaison-anchoragetokyo-narita-en-4392"
     },
     {
-      "dossier": "ARRW production USAF",
-      "statut": "signale",
+      "dossier": "Wizz Air Luton départs volontaires pilotes",
+      "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771"
     },
     {
-      "dossier": "Canada premiers F-35 reçus",
+      "dossier": "ARRW production USAF",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
@@ -219,6 +227,18 @@
     },
     {
       "dossier": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Tirs de missiles nord-coréens mer du Japon",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "NASA X-59 vers Kennedy",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
