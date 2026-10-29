@@ -280,3 +280,5 @@ main { display: block; }
 }
 .contact-form .btn { justify-self: start; margin-top: 8px; }
 .contact-form .hint { font-size: 13px; margin: 6px 0 0; }
+.news-note { margin: 40px 0 0; padding-top: 14px; border-top: 1px solid var(--line); color: var(--dim); font-size: 14px; }
+.prose h2 { font-family: var(--ui); font-size: 20px; margin: 36px 0 8px; }
