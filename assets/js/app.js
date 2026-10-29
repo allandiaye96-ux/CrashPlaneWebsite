@@ -17,7 +17,8 @@
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fdate = d => { const x = new Date(d); return isNaN(x) ? '—' : x.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }); };
   const year = a => new Date(a.date).getFullYear();
-  const survivors = a => (typeof a.passengersTotal === 'number' && typeof a.fatalities === 'number') ? a.passengersTotal - a.fatalities : null;
+  const onBoardDeaths = a => (typeof a.fatalitiesOnBoard === 'number' ? a.fatalitiesOnBoard : a.fatalities);
+  const survivors = a => (typeof a.passengersTotal === 'number' && typeof onBoardDeaths(a) === 'number') ? a.passengersTotal - onBoardDeaths(a) : null;
   const flightCode = a => { const m = /^([a-z]{1,4}\d{1,5})-\d{4}$/i.exec(a.id); return m ? m[1].toUpperCase() : null; };
   const shortTitle = a => String(a.title || '').split(/\s[–-]\s/)[0];
   const subTitle = a => { const p = String(a.title || '').split(/\s[–-]\s/); return p.length > 1 ? p.slice(1).join(' – ') : (a.location || ''); };
@@ -234,7 +235,7 @@
             ${cell('Appareil', esc(a.aircraft))}
             ${cell('Phase de vol', esc(a.phaseOfFlight))}
             ${cell('À bord', typeof a.passengersTotal === 'number' ? fmt(a.passengersTotal) : null)}
-            ${cell('Victimes', typeof a.fatalities === 'number' ? fmt(a.fatalities) : 'Non établi')}
+            ${cell('Victimes', typeof a.fatalities === 'number' ? fmt(a.fatalities) + (typeof a.fatalitiesOnBoard === 'number' && a.fatalitiesOnBoard !== a.fatalities ? ` <span class="db-note">dont ${fmt(a.fatalities - a.fatalitiesOnBoard)} au sol</span>` : '') : 'Non établi')}
             ${cell('Survivants', surv != null && surv >= 0 ? fmt(surv) : null)}
           </dl>
         </header>
