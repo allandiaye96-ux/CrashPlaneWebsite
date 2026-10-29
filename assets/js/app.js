@@ -214,7 +214,13 @@
     const code = flightCode(a), surv = survivors(a);
     const cell = (k, v) => v == null || v === '' ? '' : `<div class="db-cell"><dt>${k}</dt><dd>${v}</dd></div>`;
     const sources = (a.sources || []).filter(s => /^https?:\/\//.test(s.url || '')).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a></li>`).join('');
-    const images = (a.images || []).map(img => `<figure class="detail-fig"><img src="${esc(img.url)}" alt="${esc(img.caption || a.title)}" loading="lazy" />${img.caption ? `<figcaption>${esc(img.caption)}</figcaption>` : ''}</figure>`).join('');
+    const credit = c => {
+      if (!c) return '';
+      const lic = /^https?:\/\//.test(c.license_url || '') ? `<a href="${esc(c.license_url)}" target="_blank" rel="noopener license">${esc(c.license)}</a>` : esc(c.license || '');
+      const src = /^https?:\/\//.test(c.source || '') ? ` · <a href="${esc(c.source)}" target="_blank" rel="noopener">Wikimedia Commons</a>` : '';
+      return `<span class="credit">Photo : ${esc(c.author || 'auteur inconnu')}, ${lic}${src}</span>`;
+    };
+    const images = (a.images || []).map(img => `<figure class="detail-fig"><img src="${esc(img.url)}" alt="${esc(img.caption || a.title)}" loading="lazy" /><figcaption>${img.caption ? esc(img.caption) : ''}${credit(img.credit)}</figcaption></figure>`).join('');
     $app.innerHTML = `
       <nav class="crumbs" aria-label="Fil d’Ariane"><a class="link" href="#/">Accueil</a><span aria-hidden="true">/</span><span>${esc(shortTitle(a))}</span></nav>
       <article class="detail">
