@@ -217,3 +217,14 @@ def test_copied_passage_detected():
 def test_copy_triggers_rewrite(tmp_news):
     copy = dict(GOOD, chapo="A Boeing 737 with 154 passengers left the runway and people were injured.")
     assert run(cfg(), [copy, GOOD])["written"] == 1
+
+
+def test_failed_rewrite_withdraws_old_version(tmp_news):
+    run(cfg(publish=True), [GOOD])
+    st = json.loads((tmp_news / "state.json").read_text())
+    for c in st["clusters"].values():
+        c["written_count"] = 0
+    (tmp_news / "state.json").write_text(json.dumps(st))
+    run(cfg(publish=True), [BAD, BAD])
+    s = json.loads((tmp_news / "stories.json").read_text())[0]
+    assert s["withdrawn"] is True

@@ -597,6 +597,7 @@ def build_story(cluster: dict, draft: dict, verif: dict, cfg: dict, existing: di
         "version": (existing.get("version", 1) + 1) if existing else 1,
         "published": bool(cfg["publish"]) or bool(existing and existing.get("published")),
         "hidden": bool(existing and existing.get("hidden")),
+        "withdrawn": False,
         "categorie": draft.get("categorie") if draft.get("categorie") in CATEGORIES else cluster["categorie"],
         "importance": cluster["importance"],
         "titre": draft["titre"].strip()[:140],
@@ -662,6 +663,9 @@ def run(cfg: dict, api_key: str | None, fetcher=fetch_feed, claude_cls=Claude) -
             writes += 1
             if draft is None:
                 stats["held"] += 1
+                old = by_id.get(c.get("story_id"))
+                if old is not None:
+                    old["withdrawn"] = True  # version précédente non conforme : retirée jusqu'à une réécriture réussie
                 c["written_count"] = len(c["items"])  # on attend une nouvelle source avant de réessayer
                 continue
             story = build_story(c, draft, verif, cfg, by_id.get(c.get("story_id")))

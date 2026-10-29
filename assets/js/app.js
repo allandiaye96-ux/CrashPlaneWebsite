@@ -176,7 +176,7 @@
 
   function renderNewsTeaser() {
     const box = document.getElementById('newsTeaser'); if (!box) return;
-    const items = state.news.filter(s => s.published === true && !s.hidden).slice(0, 3);
+    const items = state.news.filter(s => s.published === true && !s.hidden && !s.withdrawn).slice(0, 3);
     box.textContent = '';
     if (!items.length) {
       const p = document.createElement('p'); p.className = 'empty';
