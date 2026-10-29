@@ -830,7 +830,8 @@
     "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/": "2026-10-29T20:01:01Z",
     "https://simpleflying.com/alaska-airlines-delivery-6th-boeing-787-9-dreamliner/": "2026-10-29T20:40:33Z",
     "https://simpleflying.com/united-airlines-cancels-5-routes-to-canada/": "2026-10-29T20:50:32Z",
-    "https://simpleflying.com/why-boeing-757-remain-narrowbody-icon-retired/": "2026-10-29T21:10:34Z"
+    "https://simpleflying.com/why-boeing-757-remain-narrowbody-icon-retired/": "2026-10-29T21:10:34Z",
+    "https://simpleflying.com/westjet-cancels-all-flights-to-2-us-destinations/": "2026-10-29T21:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1759,6 +1760,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.035132
+    "2026-10": 0.035617
   }
 }
