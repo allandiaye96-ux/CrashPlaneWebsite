@@ -517,6 +517,26 @@ META_RE = re.compile(r"(l['’]extrait|extraits? disponibles?|ne (?:précise|dé
                      r"(?:seule|unique) source|pas recoupée|non recoupée)", re.I)
 
 
+def _words(text: str) -> list[str]:
+    t = re.sub(r"[’'‘`´\u00a0\u202f-]", " ", (text or "").lower())
+    t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode()
+    return re.findall(r"[a-z0-9]+", t)
+
+
+def copied_passage(story_text: str, sources: list[dict], n: int = 9) -> str | None:
+    """Renvoie un passage de n mots consécutifs repris tel quel d'une source (droit d'auteur), sinon None."""
+    grams = set()
+    for src in sources:
+        w = _words(src["title"] + " " + src["summary"])
+        grams |= {" ".join(w[i:i + n]) for i in range(len(w) - n + 1)}
+    w = _words(story_text)
+    for i in range(len(w) - n + 1):
+        g = " ".join(w[i:i + n])
+        if g in grams:
+            return g
+    return None
+
+
 def write_story(claude: Claude, cfg: dict, cluster: dict) -> dict | None:
     sources = sorted(cluster["items"], key=lambda x: x.get("published") or "")[-8:]
     block = "\n\n".join(
@@ -532,6 +552,15 @@ def write_story(claude: Claude, cfg: dict, cluster: dict) -> dict | None:
         out = claude.call_tool(cfg["model_writer"], WRITER_SYSTEM, user, WRITER_TOOL, max_tokens=1500)
         text = " ".join([out.get("titre", ""), out.get("chapo", "")] + list(out.get("paragraphes", [])))
         bad = unsupported_numbers(text, sources)
+        copied = copied_passage(text, sources)
+        if copied and attempt == 0:
+            log(f"  passage recopié d'une source (« {copied} »), réécriture")
+            user += ("\n\nATTENTION : ta version précédente reprenait mot pour mot un passage d'une source "
+                     f"(« {copied} »). Reformule entièrement avec tes propres mots et une autre construction de phrase.")
+            continue
+        if copied:
+            log("  passage toujours recopié, brève mise de côté")
+            return None
         meta = META_RE.search(text)
         if meta and attempt == 0:
             log(f"  méta-commentaire détecté (« {meta.group(0)} »), réécriture")

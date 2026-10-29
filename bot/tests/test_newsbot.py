@@ -206,3 +206,14 @@ def test_meta_commentary_triggers_rewrite(tmp_news):
 def test_meta_regex():
     assert newsbot.META_RE.search("Les informations ci-dessus ne sont pas recoupées")
     assert not newsbot.META_RE.search("Selon AeroTime, Boeing a livré 50 avions.")
+
+
+def test_copied_passage_detected():
+    src = [{"title": "x", "summary": "Airbus a confirmé, le 28 octobre, son objectif d’environ 870 livraisons d’avions commerciaux en 2026"}]
+    assert newsbot.copied_passage("Airbus a confirmé, le 28 octobre, son objectif d'environ 870 livraisons cette année.", src)
+    assert newsbot.copied_passage("Le constructeur maintient sa cible d'environ 870 appareils livrés en 2026.", src) is None
+
+
+def test_copy_triggers_rewrite(tmp_news):
+    copy = dict(GOOD, chapo="A Boeing 737 with 154 passengers left the runway and people were injured.")
+    assert run(cfg(), [copy, GOOD])["written"] == 1
