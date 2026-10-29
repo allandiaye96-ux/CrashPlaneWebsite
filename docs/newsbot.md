@@ -1,7 +1,7 @@
 # Robot d'actualités
 
 Le robot publie des brèves d'actualité aéronautique sur la page `/actualites/`.
-Il tourne tout seul sur GitHub (GitHub Actions), toutes les 10 minutes environ, sans serveur.
+Il tourne tout seul sur GitHub (GitHub Actions), sans serveur. Un service gratuit externe (cron-job.org) le déclenche toutes les 10 minutes ; une exécution planifiée par GitHub toutes les 30 minutes sert de filet de sécurité, car GitHub retarde ou saute souvent les tâches planifiées fréquentes.
 
 ## Fonctionnement
 
@@ -22,6 +22,13 @@ Il tourne tout seul sur GitHub (GitHub Actions), toutes les 10 minutes environ, 
 
 - `"publish": false` dans `bot/config.json` (réglage par défaut) : les brèves sont rédigées mais **pas affichées** sur `/actualites/`. Elles sont visibles sur `/actualites/brouillons/`, une page non référencée par les moteurs de recherche.
 - `"publish": true` : les **nouvelles** brèves s'affichent directement sur `/actualites/`. Un ancien brouillon n'est publié que s'il reçoit une mise à jour (nouvelle source).
+
+## Déclencheur externe (cron-job.org)
+
+- Requête : `POST https://api.github.com/repos/allandiaye96-ux/CrashPlaneWebsite/actions/workflows/newsbot.yml/dispatches`
+- En-têtes : `Authorization: Bearer <jeton>`, `Accept: application/vnd.github+json`, `Content-Type: application/json`
+- Corps : `{"ref":"main"}`
+- Jeton : jeton GitHub « fine-grained » limité à ce dépôt, permission **Actions : Read and write** uniquement, avec une date d'expiration. À renouveler à l'expiration (cron-job.org signalera alors des erreurs 401).
 
 ## Retirer une brève
 

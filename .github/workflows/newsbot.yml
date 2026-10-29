@@ -2,12 +2,11 @@ name: Robot d'actualités
 
 on:
   schedule:
-    - cron: "3-59/10 * * * *"   # toutes les 10 min (GitHub peut retarder ; Pages limite à ~10 reconstructions/heure)
-  workflow_dispatch: {}      # bouton « Run workflow » pour un lancement manuel
+    - cron: "23,53 * * * *"   # filet de sécurité toutes les 30 min ; le rythme de 10 min vient d'un déclencheur externe (cron-job.org)
+  workflow_dispatch: {}      # lancement manuel ou par le déclencheur externe
 
 permissions:
   contents: write
-  pages: write
 
 concurrency:
   group: newsbot
@@ -52,10 +51,5 @@ jobs:
             sleep 5
           done
           echo "changed=true" >> "$GITHUB_OUTPUT"
+          # Le push déclenche automatiquement la mise en ligne GitHub Pages.
 
-      - name: Demander la mise en ligne (GitHub Pages)
-        if: steps.commit.outputs.changed == 'true'
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" >/dev/null && echo "Reconstruction de Pages demandée."
