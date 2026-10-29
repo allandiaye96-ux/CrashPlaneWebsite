@@ -717,7 +717,7 @@
     "lon": 141.5,
     "images": [
       {
-        "url": "assets/img/libres/kal007-1983.png",
+        "url": "assets/img/libres/kal007-1983.jpg",
         "caption": "Image de synthèse du Boeing 747 de Korean Air Lines impliqué.",
         "credit": {
           "author": "Anynobody",
@@ -3101,7 +3101,7 @@
     "lon": -80.6,
     "images": [
       {
-        "url": "assets/img/libres/ea401-1972.png",
+        "url": "assets/img/libres/ea401-1972.jpg",
         "caption": "Trajectoire du vol 401 au-dessus des Everglades (schéma du NTSB).",
         "credit": {
           "author": "National Transportation Safety Board",
@@ -3209,7 +3209,7 @@
         "url": "assets/img/libres/ba781-1954.jpg",
         "caption": "Le G-ALYP, le Comet impliqué, photographié avant l’accident.",
         "credit": {
-          "author": "Originally Photographer Unknown",
+          "author": "Photographe inconnu",
           "license": "Public domain",
           "license_url": "",
           "source": "https://commons.wikimedia.org/wiki/File:British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYP.jpg"
