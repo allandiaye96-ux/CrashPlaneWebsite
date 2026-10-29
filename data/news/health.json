@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-29T19:50:32Z",
+  "run": "2026-10-29T20:01:01Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX7LKAqRDzPFnoPMiRGP\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX88ngaYp7T9Xa3bxvbJ\"}'"
   },
-  "spend_month_usd": 0.0331,
+  "spend_month_usd": 0.0337,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -336,6 +336,12 @@
     },
     {
       "dossier": "FAA règles sécurité système décollage automatique Embraer",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Premier vol M-346 Frecce Tricolori",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

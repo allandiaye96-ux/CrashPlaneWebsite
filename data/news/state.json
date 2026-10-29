@@ -824,7 +824,10 @@
     "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/": "2026-10-29T19:10:32Z",
     "https://simpleflying.com/alaska-airlines-4-new-8-hour-737-max-routes/": "2026-10-29T19:20:33Z",
     "https://www.aerotime.aero/articles/faa-embraer-e195-e2-automatic-takeoff-system": "2026-10-29T19:20:33Z",
-    "https://www.aero.de/news-54049/CH-47-Chinook-in-Bosnien-Herzegowina-abgestuerzt.html": "2026-10-29T19:20:33Z"
+    "https://www.aero.de/news-54049/CH-47-Chinook-in-Bosnien-Herzegowina-abgestuerzt.html": "2026-10-29T19:20:33Z",
+    "https://simpleflying.com/aging-narrowbody-us-airlines-dont-want-direct-replacement-for-2026/": "2026-10-29T20:01:01Z",
+    "https://simpleflying.com/avelo-cancels-9-routes-from-this-city/": "2026-10-29T20:01:01Z",
+    "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/": "2026-10-29T20:01:01Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1729,9 +1732,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c2768b76e7d": {
+      "id": "c2768b76e7d",
+      "label": "Premier vol M-346 Frecce Tricolori",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-29T20:01:15Z",
+      "updated": "2026-10-29T20:01:15Z",
+      "items": [
+        {
+          "id": "be510560a4cf8388",
+          "feed": "The Aviationist",
+          "title": "First M-346 For Frecce Tricolori Takes Flight",
+          "url": "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/",
+          "domain": "theaviationist.com",
+          "summary": "Days after its rollout, the first M-346 trainer jet destined to the Frecce Tricolori aerobatic team took off for its maiden flight. The first M-346 trainer jet destined to the Italian Air Force’s Frecce Tricolori aerobatic team has now conducted its maiden flight, days after being rolled out of factory at Leonardo’s facilities in Venegono. […]",
+          "published": "2026-10-29T19:59:45Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.033136
+    "2026-10": 0.033684
   }
 }
