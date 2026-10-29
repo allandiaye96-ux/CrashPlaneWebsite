@@ -96,7 +96,7 @@
     renderFilters(all);
     var shown = all.filter(function (s) { return state.cat === 'Toutes' || s.categorie === state.cat; });
     list.textContent = '';
-    summary.textContent = shown.length + ' article(s)';
+    summary.textContent = shown.length + (shown.length > 1 ? ' articles' : ' article');
     if (!shown.length) {
       list.appendChild(el('div', 'empty', mode === 'drafts'
         ? 'Aucun brouillon pour le moment. Le robot n’a encore rien rédigé.'

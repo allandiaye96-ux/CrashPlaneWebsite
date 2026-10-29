@@ -248,7 +248,10 @@
         <h1>À propos</h1>
         <p>Carnet de Vol est un projet personnel de passionné d’aviation. Il réunit une veille d’actualité aéronautique vérifiée et une base d’accidents racontés à partir des rapports d’enquête officiels : ce qui s’est passé, et ce qui a changé ensuite.</p>
         <p>Ces récits sont des synthèses : ils ne remplacent pas les rapports des organismes d’enquête (BEA en France, NTSB aux États-Unis, AAIB au Royaume-Uni, BST au Canada…). Les liens vers ces rapports figurent sur chaque fiche.</p>
-        <p>La rubrique <a class="link" href="/actualites/">Actualités</a> est alimentée automatiquement. Un accident ou un incident n’est publié que s’il est confirmé par au moins deux médias indépendants ou par une source officielle ; l’actualité industrielle peut reposer sur une seule source spécialisée, ce qui est alors indiqué. Ces contrôles réduisent les erreurs sans les éliminer.</p>
+        <h2 id="methode">Comment les actualités sont produites</h2>
+        <p>Un programme consulte régulièrement des flux d’actualité aéronautique : presse spécialisée et autorités (NTSB, EASA…). Une intelligence artificielle regroupe les articles qui parlent du même événement, puis rédige une brève à partir des seules sources citées.</p>
+        <p>Pour un accident, un incident ou une enquête, une brève n’est publiée que si l’événement est rapporté par au moins deux médias indépendants ou par une source officielle. Pour l’actualité des compagnies, des constructeurs et des aéroports, une seule source spécialisée peut suffire : la brève porte alors la mention « Source unique ».</p>
+        <p>Chaque chiffre d’une brève doit figurer dans au moins une source, et les causes d’un accident ne sont jamais avancées avant les enquêteurs. Ces contrôles réduisent les erreurs sans les éliminer, surtout dans les premières heures d’un événement : référez-vous toujours aux sources.</p>
         <p>Une erreur ou une source à ajouter ? Le projet est ouvert sur GitHub.</p>
       </article>`;
   }
