@@ -38,12 +38,8 @@
   ],
   "feeds": [
     {
-      "name": "NTSB – Communiqués",
-      "url": "https://www.ntsb.gov/_layouts/feed.aspx?xsl=1&web=%2F&page=674e62a9-4f3b-4058-846b-150bc1c21aa0&wp=5c78a16b-edcb-475c-8a9c-93c00783cd61&pageurl=%2FPages%2FRSS-Feed-Page.aspx"
-    },
-    {
-      "name": "NTSB – Enquêtes",
-      "url": "https://www.ntsb.gov/_layouts/feed.aspx?xsl=1&web=%2F&page=674e62a9-4f3b-4058-846b-150bc1c21aa0&wp=a19255e2-c8e3-41fd-8c99-f8bc0453cb58&pageurl=%2FPages%2FRSS-Feed-Page.aspx"
+      "name": "AAIB (Royaume-Uni) – Rapports",
+      "url": "https://www.gov.uk/aaib-reports.atom"
     },
     {
       "name": "EASA – Communiqués",

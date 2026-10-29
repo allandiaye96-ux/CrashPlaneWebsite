@@ -5,7 +5,7 @@ Il tourne tout seul sur GitHub (GitHub Actions), sans serveur. Un service gratui
 
 ## Fonctionnement
 
-1. **Lecture des flux.** La liste des flux RSS se trouve dans `bot/config.json` (presse spécialisée, NTSB, EASA…). Un flux en panne est ignoré sans bloquer les autres.
+1. **Lecture des flux.** La liste des flux RSS se trouve dans `bot/config.json` (presse spécialisée, EASA, AAIB britannique…). Un flux en panne est ignoré sans bloquer les autres.
 2. **Tri et regroupement.** Un modèle d'IA léger (Claude Haiku) écarte les articles hors sujet ou promotionnels. Il regroupe ensuite les articles qui parlent du même événement en « dossiers ».
 3. **Corroboration.** Un dossier n'est rédigé que s'il remplit l'une de ces conditions :
    - il est rapporté par au moins **2 éditeurs indépendants** (deux domaines différents), statut affiché « Corroboré par plusieurs sources » ;
