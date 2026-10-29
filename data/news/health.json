@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-29T01:44:15Z",
+  "run": "2026-10-29T07:42:36Z",
   "stats": {
-    "fetched": 646,
-    "new": 109,
+    "fetched": 546,
+    "new": 14,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0138,
+  "spend_month_usd": 0.0146,
   "feeds": {
     "NTSB – Communiqués": {
       "ok": true,
@@ -30,8 +30,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Leeham News": {
       "ok": true,
@@ -201,6 +201,18 @@
     },
     {
       "dossier": "Saab réseau industriel Gripen Canada",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Airbus et GCAP après FCAS",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
