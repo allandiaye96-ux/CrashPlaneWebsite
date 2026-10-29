@@ -126,17 +126,22 @@
     $app.innerHTML = `
       ${state.fallbackUsed ? '<p class="notice">Données chargées en mode local (fichier ouvert hors serveur).</p>' : ''}
       <section class="hero">
-        <div class="hero-top"><h1 class="hero-title">Chaque accident a changé la façon de voler.</h1>
-        <p class="hero-lede">L’actualité aéronautique vérifiée par recoupement de sources, et ${n} accidents documentés de ${first} à ${last} à partir des rapports d’enquête.</p></div>
-        <figure class="recorder">
-          ${recorderSvg()}
-          <figcaption><p id="recReadout" class="rec-readout" aria-live="polite">Survolez un trait pour lire l’accident. La hauteur suit le nombre de victimes.</p></figcaption>
-        </figure>
+        <div class="hero-top"><h1 class="hero-title">L’aviation, au jour le jour.</h1>
+        <p class="hero-lede">Compagnies, constructeurs, aéroports, sécurité : l’actualité aéronautique recoupée entre plusieurs sources, et l’histoire des accidents racontée à partir des rapports d’enquête.</p></div>
       </section>
 
       <section class="home-news" aria-labelledby="newsHeading">
-        <div class="section-head"><h2 id="newsHeading">Actualités vérifiées</h2><a class="link" href="/actualites/">Toutes les actualités</a></div>
+        <div class="section-head"><h2 id="newsHeading">Dernières actualités</h2><a class="link" href="/actualites/">Toutes les actualités</a></div>
         <div id="newsTeaser"><p class="empty">Chargement…</p></div>
+      </section>
+
+      <section class="history" aria-labelledby="historyHeading">
+        <div class="section-head"><h2 id="historyHeading">Les accidents qui ont changé l’aviation</h2></div>
+        <p class="history-lede">${n} accidents documentés de ${first} à ${last}. Chaque trait est un accident ; sa hauteur suit le nombre de victimes.</p>
+        <figure class="recorder">
+          ${recorderSvg()}
+          <figcaption><p id="recReadout" class="rec-readout" aria-live="polite">Survolez ou touchez un trait pour lire l’accident.</p></figcaption>
+        </figure>
       </section>
 
       <section class="base" aria-labelledby="baseHeading">
@@ -176,7 +181,7 @@
 
   function renderNewsTeaser() {
     const box = document.getElementById('newsTeaser'); if (!box) return;
-    const items = state.news.filter(s => s.published === true && !s.hidden && !s.withdrawn).slice(0, 3);
+    const items = state.news.filter(s => s.published === true && !s.hidden && !s.withdrawn).slice(0, 6);
     box.textContent = '';
     if (!items.length) {
       const p = document.createElement('p'); p.className = 'empty';
