@@ -1,12 +1,12 @@
 {
-  "run": "2026-10-29T21:40:34Z",
+  "run": "2026-10-29T21:50:34Z",
   "stats": {
-    "fetched": 696,
+    "fetched": 693,
     "new": 0,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXFjAWG5N7aP55P1VfMH\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXGVJEaB9iYUUSUpfZ4E\"}'"
   },
   "spend_month_usd": 0.0356,
   "feeds": {
@@ -72,7 +72,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 37
+      "items": 34
     },
     "Airbus – Communiqués": {
       "ok": true,
