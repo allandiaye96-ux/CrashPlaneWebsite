@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-29T18:10:37Z",
+  "run": "2026-10-29T18:20:35Z",
   "stats": {
     "fetched": 695,
-    "new": 2,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgWyj6QbDvv5MiqcBWmwc\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgWzUacS24Uu97Qbcefvh\"}'"
   },
-  "spend_month_usd": 0.0307,
+  "spend_month_usd": 0.0312,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -313,6 +313,12 @@
     {
       "dossier": "Turkish Airlines 777-300ERSF via AerCap",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }

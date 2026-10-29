@@ -816,7 +816,8 @@
     "https://www.journal-aviation.com/leasing-et-financement/turkish-airlines-opte-aussi-pour-le-boeing-777-300ersf-20261029.html": "2026-10-29T17:20:34Z",
     "https://simpleflying.com/5-reasons-alaska-airlines-first-class-irresistible/": "2026-10-29T18:01:01Z",
     "https://airlinegeeks.com/2026/10/29/united-ceo-hints-at-potential-destinations/": "2026-10-29T18:10:37Z",
-    "https://www.twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact": "2026-10-29T18:10:37Z"
+    "https://www.twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact": "2026-10-29T18:10:37Z",
+    "https://theaviationist.com/2026/10/29/developing-italian-ch-47f-chinook-crashes-in-bosnia/": "2026-10-29T18:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1619,9 +1620,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c165f256c0e": {
+      "id": "c165f256c0e",
+      "label": "Accident CH-47F Chinook armée italienne Bosnie",
+      "categorie": "Accident",
+      "importance": 3,
+      "created": "2026-10-29T18:20:49Z",
+      "updated": "2026-10-29T18:20:49Z",
+      "items": [
+        {
+          "id": "cd69a9277b1f439a",
+          "feed": "The Aviationist",
+          "title": "Developing: Italian CH-47F Chinook Crashes in Bosnia",
+          "url": "https://theaviationist.com/2026/10/29/developing-italian-ch-47f-chinook-crashes-in-bosnia/",
+          "domain": "theaviationist.com",
+          "summary": "A CH-47F Chinook of the Italian Army, attached to the EUFOR Althea mission, crashed near Brčko in Bosnia. Emergency services are currently on scene. A CH-47F Chinook helicopter of the Italian Army has crashed in Bosnia in the afternoon of Oct. 29, 2026. The helicopter, assigned to the EUFOR Althea mission, came down near Gorice, in the […]",
+          "published": "2026-10-29T18:18:36Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.030719
+    "2026-10": 0.031174
   }
 }
