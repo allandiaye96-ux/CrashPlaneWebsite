@@ -187,12 +187,17 @@
     items.forEach(s => {
       const li = document.createElement('li');
       const a = document.createElement('a'); a.className = 'teaser'; a.href = '/actualites/#' + encodeURIComponent(s.id);
-      const st = document.createElement('span'); const vs = s.verification && s.verification.status;
-      st.className = 'status ' + (vs === 'officiel' ? 'status-official' : vs === 'source_unique' ? 'status-single' : 'status-corroborated');
-      st.textContent = vs === 'officiel' ? 'Source officielle' : vs === 'source_unique' ? 'Source unique' : `${(s.verification && s.verification.independent_sources) || 2} sources`;
+      const vs = s.verification && s.verification.status;
+      const parts = [];
+      if (vs === 'officiel' || vs === 'corrobore') {
+        const st = document.createElement('span');
+        st.className = 'status ' + (vs === 'officiel' ? 'status-official' : 'status-corroborated');
+        st.textContent = vs === 'officiel' ? 'Source officielle' : `${(s.verification && s.verification.independent_sources) || 2} sources`;
+        parts.push(st);
+      }
       const t = document.createElement('span'); t.className = 'teaser-title'; t.textContent = s.titre;
       const m = document.createElement('span'); m.className = 'teaser-meta'; m.textContent = `${s.categorie}, ${fdate(s.updated)}`;
-      a.append(st, t, m); li.appendChild(a); ul.appendChild(li);
+      a.append(...parts, t, m); li.appendChild(a); ul.appendChild(li);
     });
     box.appendChild(ul);
   }
@@ -250,7 +255,7 @@
         <p>Ces récits sont des synthèses : ils ne remplacent pas les rapports des organismes d’enquête (BEA en France, NTSB aux États-Unis, AAIB au Royaume-Uni, BST au Canada…). Les liens vers ces rapports figurent sur chaque fiche.</p>
         <h2 id="methode">Comment les actualités sont produites</h2>
         <p>Un programme consulte régulièrement des flux d’actualité aéronautique : presse spécialisée et autorités (EASA, AAIB…). Une intelligence artificielle regroupe les articles qui parlent du même événement, puis rédige une brève à partir des seules sources citées.</p>
-        <p>Pour un accident, un incident ou une enquête, une brève n’est publiée que si l’événement est rapporté par au moins deux médias indépendants ou par une source officielle. Pour l’actualité des compagnies, des constructeurs et des aéroports, une seule source spécialisée peut suffire : la brève porte alors la mention « Source unique ».</p>
+        <p>Pour un accident, un incident ou une enquête, une brève n’est publiée que si l’événement est rapporté par au moins deux médias indépendants ou par une source officielle. Pour l’actualité des compagnies, des constructeurs et des aéroports, une seule source spécialisée peut suffire ; le nombre de sources est indiqué en bas de chaque brève.</p>
         <p>Chaque chiffre d’une brève doit figurer dans au moins une source, et les causes d’un accident ne sont jamais avancées avant les enquêteurs. Ces contrôles réduisent les erreurs sans les éliminer, surtout dans les premières heures d’un événement : référez-vous toujours aux sources.</p>
         <p>Une erreur ou une source à ajouter ? Le projet est ouvert sur GitHub.</p>
       </article>`;
