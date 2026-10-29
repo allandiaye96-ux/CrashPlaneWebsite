@@ -40,10 +40,9 @@ La brève disparaît du site en une à deux minutes, et le robot ne la réaffich
 
 ## Coûts et garde-fous
 
-- Le modèle par défaut est `claude-haiku-5-5` (0,10 $ par million de jetons en entrée et 0,50 $ en sortie, tarif d'octobre 2026).
-- Le plafond est fixé par `monthly_budget_usd` (5 $ par défaut). Une fois ce plafond atteint, le robot ne fait plus aucun appel jusqu'au mois suivant.
+- Tri : `claude-haiku-5-5` (0,10 $ / 0,50 $ par million de jetons). Rédaction : `claude-sonnet-5-5` (2 $ / 10 $), avec repli automatique sur Haiku dès que 70 % du budget mensuel est consommé (`writer_fallback_ratio`).
+- Le plafond est fixé par `monthly_budget_usd` (10 $). Une fois ce plafond atteint, le robot ne fait plus aucun appel jusqu'au mois suivant.
 - La dépense estimée est suivie dans `data/news/state.json`, rubrique `spend`. Fixe aussi une limite de dépense dans la console Anthropic : c'est le garde-fou réel.
-- Pour une meilleure qualité de rédaction, remplace `model_writer` par `claude-sonnet-5-5`. Ce modèle coûte environ 20 fois plus cher.
 
 ## Limites connues
 

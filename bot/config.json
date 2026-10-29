@@ -1,7 +1,7 @@
 {
   "publish": true,
   "model_triage": "claude-haiku-5-5",
-  "model_writer": "claude-haiku-5-5",
+  "model_writer": "claude-sonnet-5-5",
   "price_per_mtok": {
     "claude-haiku-5-5": {
       "input": 0.1,
@@ -12,7 +12,7 @@
       "output": 10.0
     }
   },
-  "monthly_budget_usd": 5.0,
+  "monthly_budget_usd": 10.0,
   "max_writes_per_run": 8,
   "max_items_per_triage": 120,
   "window_hours": 48,
@@ -130,5 +130,7 @@
     "Compagnies",
     "Constructeurs et industrie",
     "Aéroports"
-  ]
+  ],
+  "model_writer_fallback": "claude-haiku-5-5",
+  "writer_fallback_ratio": 0.7
 }

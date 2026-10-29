@@ -537,6 +537,14 @@ def copied_passage(story_text: str, sources: list[dict], n: int = 9) -> str | No
     return None
 
 
+def writer_model(claude: Claude, cfg: dict) -> str:
+    """Modèle de rédaction ; repli sur le modèle économique au-delà d'une part du budget mensuel."""
+    limit = cfg["monthly_budget_usd"] * cfg.get("writer_fallback_ratio", 0.7)
+    if claude.spent() >= limit:
+        return cfg.get("model_writer_fallback", cfg["model_triage"])
+    return cfg["model_writer"]
+
+
 def write_story(claude: Claude, cfg: dict, cluster: dict) -> dict | None:
     sources = sorted(cluster["items"], key=lambda x: x.get("published") or "")[-8:]
     block = "\n\n".join(
@@ -549,7 +557,7 @@ def write_story(claude: Claude, cfg: dict, cluster: dict) -> dict | None:
         user += ("\n\nIl n'y a qu'une seule source : attribue clairement l'information à cet éditeur dans le chapô "
                  "et ne présente rien comme un fait établi par ailleurs.")
     for attempt in range(2):
-        out = claude.call_tool(cfg["model_writer"], WRITER_SYSTEM, user, WRITER_TOOL, max_tokens=1500)
+        out = claude.call_tool(writer_model(claude, cfg), WRITER_SYSTEM, user, WRITER_TOOL, max_tokens=1500)
         text = " ".join([out.get("titre", ""), out.get("chapo", "")] + list(out.get("paragraphes", [])))
         bad = unsupported_numbers(text, sources)
         copied = copied_passage(text, sources)
