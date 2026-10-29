@@ -11,7 +11,7 @@ Il tourne tout seul sur GitHub (GitHub Actions), sans serveur. Un service gratui
    - il est rapporté par au moins **2 éditeurs indépendants** (deux domaines différents), statut affiché « Corroboré par plusieurs sources » ;
    - il provient d'**une source officielle** (NTSB, FAA, EASA, BEA…), statut affiché « Confirmé par une source officielle ».
 
-   - **exception pour l'actualité industrielle** (catégories « Compagnies », « Constructeurs et industrie », « Aéroports », réglables via `single_source_categories`) : une seule source spécialisée suffit, statut affiché « Source unique ». La brève attribue alors chaque information à cet éditeur. Les accidents, incidents, enquêtes, sujets de sécurité et de défense restent soumis à la règle des 2 sources.
+   - **exception pour l'actualité industrielle** (catégories « Compagnies », « Constructeurs et industrie », « Aéroports », réglables via `single_source_categories`) : une seule source spécialisée suffit (aucun badge n'est affiché ; le nombre de sources apparaît en bas de la brève). La brève attribue alors chaque information à cet éditeur. Les accidents, incidents, enquêtes, sujets de sécurité et de défense restent soumis à la règle des 2 sources.
 
    Un dossier qui reste à une seule source pendant 48 h (hors exception) est abandonné. Des dossiers manifestement identiques, que le tri aurait séparés, sont fusionnés automatiquement.
 4. **Rédaction.** L'IA rédige une brève en français, en s'appuyant uniquement sur les titres et extraits des sources. Elle signale les contradictions entre sources et n'avance aucune cause d'accident.

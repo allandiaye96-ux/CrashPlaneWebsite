@@ -12,8 +12,7 @@
 
   var STATUS = {
     officiel: { label: 'Confirmé par une source officielle', cls: 'st-official' },
-    corrobore: { label: 'Corroboré par plusieurs sources', cls: 'st-corroborated' },
-    source_unique: { label: 'Source unique', cls: 'st-single' }
+    corrobore: { label: 'Corroboré par plusieurs sources', cls: 'st-corroborated' }
   };
 
   function el(tag, cls, text) {
@@ -57,8 +56,11 @@
 
     var head = el('div', 'news-head');
     head.appendChild(el('span', 'news-cat', s.categorie));
-    var st = STATUS[s.verification && s.verification.status] || { label: 'Non vérifié', cls: 'st-unverified' };
-    head.appendChild(el('span', 'news-status ' + st.cls, st.label));
+    var vs = s.verification && s.verification.status;
+    if (vs !== 'source_unique') {  // une source unique se lit dans « Sources (1) » en bas de l'article
+      var st = STATUS[vs] || { label: 'Non vérifié', cls: 'st-unverified' };
+      head.appendChild(el('span', 'news-status ' + st.cls, st.label));
+    }
     if (mode === 'drafts') head.appendChild(el('span', 'news-status st-draft', s.published ? 'Publié' : 'Brouillon'));
     card.appendChild(head);
 
