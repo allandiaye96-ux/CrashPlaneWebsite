@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-29T19:10:32Z",
+  "run": "2026-10-29T19:20:33Z",
   "stats": {
     "fetched": 696,
-    "new": 2,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX4HiMuhAsrZh8qg3bVK\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX53u6oEbGEp3ZZncMPL\"}'"
   },
-  "spend_month_usd": 0.0326,
+  "spend_month_usd": 0.0331,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -221,6 +221,12 @@
       "breve": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665"
     },
     {
+      "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "ARRW production USAF",
       "statut": "signale",
       "editeurs": 1,
@@ -317,12 +323,6 @@
       "breve": null
     },
     {
-      "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Pologne MiG-29 et munitions F-16 vers Ukraine",
       "statut": "signale",
       "editeurs": 1,
@@ -330,6 +330,12 @@
     },
     {
       "dossier": "US Navy drone Boeing MQ-25 contrat jusqu'à 80 M$",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "FAA règles sécurité système décollage automatique Embraer",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

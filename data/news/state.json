@@ -821,7 +821,10 @@
     "https://simpleflying.com/american-airlines-cancels-8-long-haul-nonstop-boeing-787-routes/": "2026-10-29T18:30:52Z",
     "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals": "2026-10-29T19:01:04Z",
     "https://simpleflying.com/why-us-navy-awarding-boeing-80-million-improve-drone-isnt-operational-yet/": "2026-10-29T19:10:32Z",
-    "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/": "2026-10-29T19:10:32Z"
+    "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/": "2026-10-29T19:10:32Z",
+    "https://simpleflying.com/alaska-airlines-4-new-8-hour-737-max-routes/": "2026-10-29T19:20:33Z",
+    "https://www.aerotime.aero/articles/faa-embraer-e195-e2-automatic-takeoff-system": "2026-10-29T19:20:33Z",
+    "https://www.aero.de/news-54049/CH-47-Chinook-in-Bosnien-Herzegowina-abgestuerzt.html": "2026-10-29T19:20:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1640,7 +1643,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-10-29T18:20:49Z",
-      "updated": "2026-10-29T18:20:49Z",
+      "updated": "2026-10-29T19:20:49Z",
       "items": [
         {
           "id": "cd69a9277b1f439a",
@@ -1650,6 +1653,15 @@
           "domain": "theaviationist.com",
           "summary": "A CH-47F Chinook of the Italian Army, attached to the EUFOR Althea mission, crashed near Brčko in Bosnia. Emergency services are currently on scene. A CH-47F Chinook helicopter of the Italian Army has crashed in Bosnia in the afternoon of Oct. 29, 2026. The helicopter, assigned to the EUFOR Althea mission, came down near Gorice, in the […]",
           "published": "2026-10-29T18:18:36Z"
+        },
+        {
+          "id": "f405bae4fddd106b",
+          "feed": "aero.de",
+          "title": "CH-47 Chinook in Bosnien-Herzegowina abgestürzt",
+          "url": "https://www.aero.de/news-54049/CH-47-Chinook-in-Bosnien-Herzegowina-abgestuerzt.html",
+          "domain": "aero.de",
+          "summary": "SARAJEVO - In dem einstigen Bürgerkriegsland verunglückt ein Helikopter der EU-Friedensmission. Nach bosnischen Angaben kamen mehrere Menschen ums Leben. Bei der Maschine soll es sich um eine CH-47 \"Chinook\" handeln.",
+          "published": "2026-10-29T19:13:29Z"
         }
       ],
       "story_id": null,
@@ -1696,9 +1708,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c26a53d13ba": {
+      "id": "c26a53d13ba",
+      "label": "FAA règles sécurité système décollage automatique Embraer",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-10-29T19:20:49Z",
+      "updated": "2026-10-29T19:20:49Z",
+      "items": [
+        {
+          "id": "daa7e4e6ee98cea8",
+          "feed": "AeroTime",
+          "title": "FAA proposes safety rules for Embraer’s automatic takeoff system",
+          "url": "https://www.aerotime.aero/articles/faa-embraer-e195-e2-automatic-takeoff-system",
+          "domain": "aerotime.aero",
+          "summary": "The FAA has proposed new safety requirements for an Embraer system that would automatically raise a jet’s nose… The post FAA proposes safety rules for Embraer’s automatic takeoff system appeared first on AeroTime .",
+          "published": "2026-10-29T18:36:51Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.032596
+    "2026-10": 0.033136
   }
 }
