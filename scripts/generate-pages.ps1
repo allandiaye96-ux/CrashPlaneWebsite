@@ -97,7 +97,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
     </main>
     <footer class="site-footer">
       <div class="wrap">
-        <p>Projet personnel de passionné d’aviation. Chaque article cite ses sources : référez-vous-y.</p>
+        <p>L’actualité aéronautique vérifiée, et l’histoire des accidents qui ont rendu l’aviation plus sûre.</p>
         <p>Carnet de Vol — crashplanewebsite.com</p>
       </div>
     </footer>
