@@ -819,7 +819,9 @@
     "https://www.twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact": "2026-10-29T18:10:37Z",
     "https://theaviationist.com/2026/10/29/developing-italian-ch-47f-chinook-crashes-in-bosnia/": "2026-10-29T18:20:35Z",
     "https://simpleflying.com/american-airlines-cancels-8-long-haul-nonstop-boeing-787-routes/": "2026-10-29T18:30:52Z",
-    "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals": "2026-10-29T19:01:04Z"
+    "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals": "2026-10-29T19:01:04Z",
+    "https://simpleflying.com/why-us-navy-awarding-boeing-80-million-improve-drone-isnt-operational-yet/": "2026-10-29T19:10:32Z",
+    "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/": "2026-10-29T19:10:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1566,7 +1568,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-10-29T16:47:37Z",
+      "updated": "2026-10-29T19:10:49Z",
       "items": [
         {
           "id": "0626ad9999ec947a",
@@ -1576,6 +1578,15 @@
           "domain": "airliners.de",
           "summary": "Um die Wirtschaft zu stärken und mehr Touristen anzuziehen, hat Grönland am Donnerstag einen dritten Zivilflughafen eröffnet. Der Airport in der drittgrößten Stadt der Insel, Ilulissat, habe eine 2200 Meter lange Start- und Landebahn, teilte der Betreiber mit. Damit könnten auch größere Flugzeuge dort landen.",
           "published": "2026-10-29T15:42:08Z"
+        },
+        {
+          "id": "d589ec62f9fa9e4e",
+          "feed": "Flightradar24 – Blog",
+          "title": "Ilulissat inaugurates new, longer runway opening the gateway to North Greenland",
+          "url": "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/",
+          "domain": "flightradar24.com",
+          "summary": "Air Greenland’s Airbus A330-800 Tuukkaq arrived in Ilulissat on 29 October, bringing widebody service to a Greenlandic airport whose previous runway measured just 845 meters. The arrival marked the opening of a new 2,200-meter runway and airport facilities, broadening the reach of Greenland’s third-largest city and completing the recent round of Greenlandic airport expansion. The […] The post Ilulissat inaugurates new, longer runway opening the gateway to North Greenland appeared first on Flightradar24 Blog .",
+          "published": "2026-10-29T19:04:03Z"
         }
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
@@ -1664,9 +1675,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c53f1c83475": {
+      "id": "c53f1c83475",
+      "label": "US Navy drone Boeing MQ-25 contrat jusqu'à 80 M$",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-29T19:10:49Z",
+      "updated": "2026-10-29T19:10:49Z",
+      "items": [
+        {
+          "id": "273355076eec4e60",
+          "feed": "Simple Flying",
+          "title": "Why The US Navy Is Awarding Boeing Up To $80 Million To Improve A Drone That Isn't Even Operational Yet",
+          "url": "https://simpleflying.com/why-us-navy-awarding-boeing-80-million-improve-drone-isnt-operational-yet/",
+          "domain": "simpleflying.com",
+          "summary": "America's Navy goes all-in on uncrewed aircraft for the future carrier air wing.",
+          "published": "2026-10-29T19:01:18Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.032091
+    "2026-10": 0.032596
   }
 }

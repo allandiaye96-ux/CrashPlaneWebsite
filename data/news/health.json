@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-29T19:01:04Z",
+  "run": "2026-10-29T19:10:32Z",
   "stats": {
     "fetched": 696,
-    "new": 1,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX3ZuN2VBprjVmSpxtL4\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX4HiMuhAsrZh8qg3bVK\"}'"
   },
-  "spend_month_usd": 0.0321,
+  "spend_month_usd": 0.0326,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -131,6 +131,12 @@
       "breve": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097"
     },
     {
+      "dossier": "Ilulissat nouvel aéroport Groenland",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
+    },
+    {
       "dossier": "Prêt 3,4 milliards Airbus US",
       "statut": "source_unique",
       "editeurs": 1,
@@ -207,12 +213,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
-    },
-    {
-      "dossier": "Ilulissat nouvel aéroport Groenland",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
     },
     {
       "dossier": "Air Transat nouvelle ligne Montréal-Istanbul",
@@ -324,6 +324,12 @@
     },
     {
       "dossier": "Pologne MiG-29 et munitions F-16 vers Ukraine",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "US Navy drone Boeing MQ-25 contrat jusqu'à 80 M$",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
