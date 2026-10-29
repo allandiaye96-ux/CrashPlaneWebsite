@@ -833,7 +833,8 @@
     "https://simpleflying.com/why-boeing-757-remain-narrowbody-icon-retired/": "2026-10-29T21:10:34Z",
     "https://simpleflying.com/westjet-cancels-all-flights-to-2-us-destinations/": "2026-10-29T21:20:35Z",
     "https://simpleflying.com/delta-air-lines-airbus-a220-sits-50-seats-below-boeing-737-800-30-above-regional-jet/": "2026-10-29T22:01:00Z",
-    "https://www.twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production": "2026-10-29T22:01:00Z"
+    "https://www.twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production": "2026-10-29T22:01:00Z",
+    "https://theaircurrent.com/defense/anduril-and-general-atomics-face-boom-or-bust-with-u-s-air-forces-uncrewed-fighters/": "2026-10-29T22:50:30Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1780,9 +1781,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cd9e26db7d9": {
+      "id": "cd9e26db7d9",
+      "label": "USAF drones de combat Anduril General Atomics",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-29T22:50:47Z",
+      "updated": "2026-10-29T22:50:47Z",
+      "items": [
+        {
+          "id": "7b39ab98f8564053",
+          "feed": "The Air Current",
+          "title": "Anduril and General Atomics face boom or bust with U.S. Air Force’s uncrewed fighters",
+          "url": "https://theaircurrent.com/defense/anduril-and-general-atomics-face-boom-or-bust-with-u-s-air-forces-uncrewed-fighters/",
+          "domain": "theaircurrent.com",
+          "summary": "As the U.S. Air Force processes the lessons and losses from its engagement in Iran, the service’s initial vision to procure inexpensive, uncrewed fighter jets is evolving into an ask for higher-end, multi-role aircraft — leading defense contractors to make high-stakes development bets as companies attempt to demonstrate what they think the Pentagon wants to buy. In June, the Air Force selected General Atomics’ FQ-42 Vengeance and Anduril’s FQ-44 Fury for its first effort to procure Collaborative Combat Aircraft (CCAs). […] The post Anduril and General Atomics face boom or bust with U.S. Air Force’s uncrewed fighters appeared first on The Air Current .",
+          "published": "2026-10-29T22:48:08Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.036134
+    "2026-10": 0.036634
   }
 }
