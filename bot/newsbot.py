@@ -720,6 +720,11 @@ def main() -> int:
     if os.environ.get("NEWSBOT_PUBLISH") in ("true", "false"):
         cfg["publish"] = os.environ["NEWSBOT_PUBLISH"] == "true"
     run(cfg, os.environ.get("ANTHROPIC_API_KEY"))
+    try:
+        import static_news  # pages par brève, flux RSS, plan du site
+        log(f"pages statiques : {static_news.generate(load_json(STORIES_PATH, []))} brève(s)")
+    except Exception as exc:  # ne doit jamais bloquer le robot
+        log(f"pages statiques non générées : {type(exc).__name__}: {exc}")
     return 0
 
 

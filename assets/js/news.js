@@ -64,7 +64,11 @@
     if (mode === 'drafts') head.appendChild(el('span', 'news-status st-draft', s.published ? 'Publié' : 'Brouillon'));
     card.appendChild(head);
 
-    card.appendChild(el('h2', 'news-title', s.titre));
+    var h = el('h2', 'news-title');
+    if (mode !== 'drafts' && /^[a-z0-9-]+$/.test(s.id)) {
+      var link = el('a', null, s.titre); link.href = '/actualites/' + s.id + '/'; h.appendChild(link);
+    } else { h.textContent = s.titre; }
+    card.appendChild(h);
     var meta = 'Publié le ' + fmtDate(s.created);
     if (s.version > 1) meta += ' · mis à jour le ' + fmtDate(s.updated);
     card.appendChild(el('p', 'meta', meta));

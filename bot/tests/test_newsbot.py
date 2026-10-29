@@ -234,3 +234,28 @@ def test_existing_copied_story_is_rewritten(tmp_news):
     copy = dict(GOOD, chapo="A Boeing 737 with 154 passengers left the runway and people were injured.")
     run(cfg(publish=True), [copy, copy])  # deux essais recopiés : mise de côté, rien publié
     assert json.loads((tmp_news / "stories.json").read_text()) == []
+
+
+def test_static_news_pages(tmp_path, monkeypatch):
+    import shutil
+    import xml.etree.ElementTree as ET
+    import static_news
+    root = tmp_path
+    (root / "actualites" / "brouillons").mkdir(parents=True)
+    shutil.copy(static_news.NEWS_DIR / "index.html", root / "actualites" / "index.html")
+    monkeypatch.setattr(static_news, "ROOT", root)
+    monkeypatch.setattr(static_news, "NEWS_DIR", root / "actualites")
+    base = {"created": "2026-10-29T10:00:00Z", "updated": "2026-10-29T10:00:00Z", "version": 1, "hidden": False,
+            "categorie": "Incident", "chapo": "Chapô <b>gras</b>", "paragraphes": ["Texte"], "contradictions": "",
+            "verification": {"status": "corrobore"}, "sources": [{"name": "A", "title": "T", "url": "https://a.example/x"},
+                                                                   {"name": "B", "title": "piège", "url": "javascript:alert(1)"}]}
+    stories = [dict(base, id="2026-10-29-publiee-abcd", titre="Publiée", published=True),
+               dict(base, id="2026-10-29-brouillon-abcd", titre="Brouillon", published=False)]
+    assert static_news.generate(stories) == 1
+    page = (root / "actualites" / "2026-10-29-publiee-abcd" / "index.html").read_text()
+    assert "Chapô &lt;b&gt;gras&lt;/b&gt;" in page and "javascript:" not in page and "news.js" not in page
+    assert not (root / "actualites" / "2026-10-29-brouillon-abcd").exists()
+    ET.fromstring((root / "actualites" / "feed.xml").read_bytes())
+    stories[0]["hidden"] = True
+    static_news.generate(stories)
+    assert not (root / "actualites" / "2026-10-29-publiee-abcd").exists() and (root / "actualites" / "brouillons").exists()
