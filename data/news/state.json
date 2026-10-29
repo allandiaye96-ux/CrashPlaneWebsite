@@ -664,7 +664,12 @@
     "https://www.airliners.de/flugdisponenten-american-airlines-billigen-tarifvertrag/91155": "2026-10-29T07:42:36Z",
     "https://www.air-journal.fr/2026-10-29-swiss-met-le-cap-sur-bengaluru-troisieme-pilier-de-son-reseau-indien-5278550.html": "2026-10-29T07:42:36Z",
     "https://www.air-journal.fr/2026-10-29-fret-aerien-boeing-voit-un-marche-de-pres-de-3-000-avions-cargos-dici-a-2045-5278548.html": "2026-10-29T07:42:36Z",
-    "https://www.journal-aviation.com/actualites-defense-espace/bombardier-et-bae-systems-pourraient-collaborer-sur-de-futurs-programmes-daviation-de-combat-20261029.html": "2026-10-29T07:42:36Z"
+    "https://www.journal-aviation.com/actualites-defense-espace/bombardier-et-bae-systems-pourraient-collaborer-sur-de-futurs-programmes-daviation-de-combat-20261029.html": "2026-10-29T07:42:36Z",
+    "https://simpleflying.com/united-airlines-eyes-flights-uzbekistan-kazakhstan/": "2026-10-29T08:28:28Z",
+    "https://simpleflying.com/airline-worlds-largest-boeing-777-operation-2026/": "2026-10-29T08:28:28Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-granted-design-organisation-approval-by-jcab": "2026-10-29T08:28:28Z",
+    "https://www.aero.de/news-54042/MTU-baut-Umsatz-aus.html": "2026-10-29T08:28:28Z",
+    "https://www.air-journal.fr/2026-10-29-alaska-airlines-ose-le-boeing-737-max-entre-anchorage-et-tokyo-5278551.html": "2026-10-29T08:28:28Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1074,9 +1079,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6b65ae4392": {
+      "id": "c6b65ae4392",
+      "label": "Alaska Airlines Anchorage Tokyo 737 MAX",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-29T08:28:52Z",
+      "updated": "2026-10-29T08:28:52Z",
+      "items": [
+        {
+          "id": "30ea7fe3a71a8cb2",
+          "feed": "Air Journal",
+          "title": "Alaska Airlines ose le Boeing 737 MAX entre Anchorage et Tokyo",
+          "url": "https://www.air-journal.fr/2026-10-29-alaska-airlines-ose-le-boeing-737-max-entre-anchorage-et-tokyo-5278551.html",
+          "domain": "air-journal.fr",
+          "summary": "Alaska Airlines prévoit d’ouvrir le 13 mai 2027 une liaison sans escale entre Anchorage et Tokyo-Narita, sous réserve des autorisations gouvernementales. Particularité de cette traversée d’environ huit heures : elle sera assurée en Boeing 737 MAX 8. Quotidienne pendant l’été, la desserte doit reprendre à raison de trois vols hebdomadaires en janvier 2028, après une […]",
+          "published": "2026-10-29T08:00:16Z"
+        }
+      ],
+      "story_id": "2026-10-29-alaska-airlines-prevoit-une-liaison-anchoragetokyo-narita-en-4392",
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.014606
+    "2026-10": 0.015871
   }
 }

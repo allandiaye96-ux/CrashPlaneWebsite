@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-29T07:42:36Z",
+  "run": "2026-10-29T08:28:28Z",
   "stats": {
-    "fetched": 546,
-    "new": 14,
-    "written": 0,
+    "fetched": 646,
+    "new": 5,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0146,
+  "spend_month_usd": 0.0159,
   "feeds": {
     "NTSB – Communiqués": {
       "ok": true,
@@ -30,8 +30,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -150,6 +150,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-28-itochu-va-prendre-une-participation-minoritaire-dans-iag-eng-b2fc"
+    },
+    {
+      "dossier": "Alaska Airlines Anchorage Tokyo 737 MAX",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-29-alaska-airlines-prevoit-une-liaison-anchoragetokyo-narita-en-4392"
     },
     {
       "dossier": "ARRW production USAF",

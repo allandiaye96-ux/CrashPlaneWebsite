@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-10-29-alaska-airlines-prevoit-une-liaison-anchoragetokyo-narita-en-4392",
+    "created": "2026-10-29T08:28:57Z",
+    "updated": "2026-10-29T08:28:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Alaska Airlines prévoit une liaison Anchorage–Tokyo-Narita en Boeing 737 MAX 8 dès mai 2027",
+    "chapo": "Selon Air Journal, Alaska Airlines envisage d'ouvrir le 13 mai 2027 une liaison sans escale entre Anchorage et Tokyo-Narita, assurée par un Boeing 737 MAX 8. Le projet reste soumis à des autorisations gouvernementales.",
+    "paragraphes": [
+      "La traversée, d'une durée d'environ huit heures, serait desservie quotidiennement pendant l'été. D'après le même média, la fréquence doit ensuite passer à trois vols par semaine en janvier 2028.",
+      "Le calendrier annoncé dépend donc de l'obtention des autorisations nécessaires. Les détails de l'exploitation hors saison estivale ne sont pas connus à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Alaska Airlines ose le Boeing 737 MAX entre Anchorage et Tokyo",
+        "url": "https://www.air-journal.fr/2026-10-29-alaska-airlines-ose-le-boeing-737-max-entre-anchorage-et-tokyo-5278551.html",
+        "date": "2026-10-29T08:00:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-28-itochu-va-prendre-une-participation-minoritaire-dans-iag-eng-b2fc",
     "created": "2026-10-28T21:56:28Z",
     "updated": "2026-10-28T21:56:28Z",
