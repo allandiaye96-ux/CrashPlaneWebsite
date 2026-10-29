@@ -1,0 +1,35 @@
+name: Images libres
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "search (chercher des candidats) ou apply (poser les images choisies)"
+        required: true
+        default: search
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lancer
+        run: python scripts/images_libres.py "${{ inputs.mode }}"
+
+      - name: Enregistrer
+        run: |
+          git config user.name "carnet-images"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A review assets/img/libres data/accidents.json
+          if git diff --cached --quiet; then echo "Aucun changement."; exit 0; fi
+          git commit -m "Images libres : ${{ inputs.mode }}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
