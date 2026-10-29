@@ -15,8 +15,14 @@
     "lon": -30.516,
     "images": [
       {
-        "url": "assets/img/af447-2009.jpg",
-        "caption": "Zone de recherche (illustration)."
+        "url": "assets/img/libres/af447-2009.jpg",
+        "caption": "Le F-GZCP, l’Airbus A330 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Pawel Kierzkowski",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:PKIERZKOWSKI_070328_FGZCP_CDG.jpg"
+        }
       }
     ],
     "route": {
@@ -61,8 +67,14 @@
     "lon": -16.3415,
     "images": [
       {
-        "url": "assets/img/tenerife-1977.jpg",
-        "caption": "Piste de Los Rodeos (illustration)."
+        "url": "assets/img/libres/tenerife-1977.jpg",
+        "caption": "Le PH-BUF, le Boeing 747 de KLM impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "clipperarctic",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:KLM_Boeing_747-200_PH-BUF_(7491686916).jpg"
+        }
       }
     ],
     "route": {
@@ -107,8 +119,14 @@
     "lon": 138.62,
     "images": [
       {
-        "url": "assets/img/jal123.jpg",
-        "caption": "Mémorial près du site (illustration)."
+        "url": "assets/img/libres/jal123-1985.jpg",
+        "caption": "Le JA8119, le Boeing 747SR impliqué, à Osaka-Itami en 1984.",
+        "credit": {
+          "author": "Harcmac60",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Japan_Airlines_B747SR-46_(JA8119)_at_Itami_Airport_in_1984.jpg"
+        }
       }
     ],
     "route": {
@@ -151,8 +169,14 @@
     "fatalities": 239,
     "images": [
       {
-        "url": "assets/img/mh370.jpg",
-        "caption": "Zones de recherche (illustration)."
+        "url": "assets/img/libres/mh370-2014.jpg",
+        "caption": "Le 9M-MRO, le Boeing 777 disparu, photographié avant l’accident.",
+        "credit": {
+          "author": "Kentaro Iemoto from Tokyo, Japan",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Malaysia_Airlines_B777-200ER(9M-MRO)_(3780278171).jpg"
+        }
       }
     ],
     "route": {
@@ -195,12 +219,7 @@
     "fatalities": 0,
     "lat": 40.769,
     "lon": -74.005,
-    "images": [
-      {
-        "url": "assets/img/us1549-2009.jpg",
-        "caption": "Amerrissage contrôlé (illustration)."
-      }
-    ],
+    "images": [],
     "route": {
       "from": {
         "name": "New York – LaGuardia",
@@ -243,8 +262,14 @@
     "lon": 6.438,
     "images": [
       {
-        "url": "assets/img/gwi9525-2015.jpg",
-        "caption": "Zone de l’accident (illustration)."
+        "url": "assets/img/libres/gwi9525-2015.jpg",
+        "caption": "Le D-AIPX, l’Airbus A320 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "SEBASTIEN MORTIER",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:320_GERMANWINGS_D-AIPX_147_10_05_14_BCN_RIP_(16730197959).jpg"
+        }
       }
     ],
     "route": {
@@ -289,8 +314,14 @@
     "lon": 2.46,
     "images": [
       {
-        "url": "assets/img/af4590-2000.jpg",
-        "caption": "Site de l’accident (illustration)."
+        "url": "assets/img/libres/af4590-2000.jpg",
+        "caption": "Le F-BTSC, le Concorde impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Frank Jäger",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Air_France_Concorde_101_F-BTSC.jpg"
+        }
       }
     ],
     "route": {
@@ -330,12 +361,7 @@
     "fatalities": 259,
     "lat": 55.124,
     "lon": -3.355,
-    "images": [
-      {
-        "url": "assets/img/pa103-1988.jpg",
-        "caption": "Zone de débris (illustration)."
-      }
-    ],
+    "images": [],
     "route": {
       "from": {
         "name": "Londres – Heathrow",
@@ -373,8 +399,14 @@
     "lon": -96.384,
     "images": [
       {
-        "url": "assets/img/ua232-1989.jpg",
-        "caption": "Piste à Sioux City (illustration)."
+        "url": "assets/img/libres/ua232-1989.jpg",
+        "caption": "Le N1819U, le DC-10 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Paul Seymour",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:N1819U_McDonnell_Douglas_DC-10-10_United_Airlines,_Newark_International_Airport_1980.jpg"
+        }
       }
     ],
     "route": {
@@ -414,8 +446,14 @@
     "lon": -63.78,
     "images": [
       {
-        "url": "assets/img/sr111-1998.jpg",
-        "caption": "Zone de recherche (illustration)."
+        "url": "assets/img/libres/sr111-1998.jpg",
+        "caption": "Le HB-IWF, le MD-11 impliqué, à Zurich en juillet 1998.",
+        "credit": {
+          "author": "Aero Icarus from Zürich, Switzerland",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:28as_-_Swissair_MD-11;_HB-IWF@ZRH;14.07.1998_(4713082874).jpg"
+        }
       }
     ],
     "route": {
@@ -456,8 +494,14 @@
     "lon": 106.6,
     "images": [
       {
-        "url": "assets/img/jt610-2018.jpg",
-        "caption": "Zone de recherche (illustration)."
+        "url": "assets/img/libres/jt610-2018.jpg",
+        "caption": "Le PK-LQP, le Boeing 737 MAX 8 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "PK-REN",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Lion_Air_Boeing_737-MAX8_PK-LQP.jpg"
+        }
       }
     ],
     "route": {
@@ -502,8 +546,14 @@
     "lon": 39.251,
     "images": [
       {
-        "url": "assets/img/et302-2019.jpg",
-        "caption": "Site de l’accident (illustration)."
+        "url": "assets/img/libres/et302-2019.jpg",
+        "caption": "L’ET-AVJ, le Boeing 737 MAX 8 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "LLBG Spotter",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Ethiopian_Airlines_ET-AVJ_takeoff_from_TLV_(46461974574).jpg"
+        }
       }
     ],
     "route": {
@@ -552,8 +602,14 @@
     "lon": 2.6,
     "images": [
       {
-        "url": "assets/img/tk981-1974.jpg",
-        "caption": "Zone d’Ermenonville (illustration)."
+        "url": "assets/img/libres/tk981-1974.jpg",
+        "caption": "Le TC-JAV, le DC-10 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "clipperarctic",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:TC-JAV_(6004629408).jpg"
+        }
       }
     ],
     "route": {
@@ -598,8 +654,14 @@
     "lon": -87.935,
     "images": [
       {
-        "url": "assets/img/aa191-1979.jpg",
-        "caption": "Proximité d’O’Hare (illustration)."
+        "url": "assets/img/libres/aa191-1979.jpg",
+        "caption": "La piste d’O’Hare après l’accident, avec les débris du moteur (photo NTSB).",
+        "credit": {
+          "author": "NTSB",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:American_Airlines_Flight_191%EF%BC%88N110AA%EF%BC%89wreckage_on_runway.jpg"
+        }
       }
     ],
     "route": {
@@ -642,12 +704,7 @@
     "fatalities": 269,
     "lat": 46.5,
     "lon": 141.5,
-    "images": [
-      {
-        "url": "assets/img/kal007-1983.jpg",
-        "caption": "Mer du Japon (illustration)."
-      }
-    ],
+    "images": [],
     "route": {
       "from": {
         "name": "Anchorage – ANC",
@@ -690,8 +747,14 @@
     "lon": -11.5,
     "images": [
       {
-        "url": "assets/img/ai182-1985.jpg",
-        "caption": "Zone de recherche (illustration)."
+        "url": "assets/img/libres/ai182-1985.jpg",
+        "caption": "Le VT-EFO, le Boeing 747 impliqué, à Londres-Heathrow le 10 juin 1985.",
+        "credit": {
+          "author": "Ian Kirby",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:1985-06-10_VT-EFO_Air_India_EGLL.jpg"
+        }
       }
     ],
     "route": {
@@ -736,8 +799,14 @@
     "lon": -72.64,
     "images": [
       {
-        "url": "assets/img/twa800-1996.jpg",
-        "caption": "Côte de Long Island (illustration)."
+        "url": "assets/img/libres/twa800-1996.jpg",
+        "caption": "La reconstitution de l’épave réalisée par le NTSB.",
+        "credit": {
+          "author": "NTSBgov",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:TWA_flight_800_reconstruction_by_the_National_Transportation_Safety_Board_was_used_as_a_training_aid_for_about_20_years_until_2021_at_the_NTSB%E2%80%99s_Training_Center_in_Ashburn,_Virginia_01.jpg"
+        }
       }
     ],
     "route": {
@@ -782,8 +851,14 @@
     "lon": -80.57,
     "images": [
       {
-        "url": "assets/img/valu592-1996.jpg",
-        "caption": "Everglades (illustration)."
+        "url": "assets/img/libres/valu592-1996.jpg",
+        "caption": "La stèle du mémorial du vol 592.",
+        "credit": {
+          "author": "B137",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Flight_592_memorial_stone.jpg"
+        }
       }
     ],
     "route": {
@@ -828,8 +903,14 @@
     "lon": 99.45,
     "images": [
       {
-        "url": "assets/img/la004-1991.jpg",
-        "caption": "Région de Suphanburi (illustration)."
+        "url": "assets/img/libres/la004-1991.jpg",
+        "caption": "L’OE-LAV, le Boeing 767 impliqué, à Vienne en 1989.",
+        "credit": {
+          "author": "Simon Kindall",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Lauda_Air_Boeing_767-3Z9ER_OE-LAV_at_Vienna_International_Airport,_1989.jpg"
+        }
       }
     ],
     "route": {
@@ -874,8 +955,14 @@
     "lon": -119.5,
     "images": [
       {
-        "url": "assets/img/as261-2000.jpg",
-        "caption": "Au large d’Anacapa (illustration)."
+        "url": "assets/img/libres/as261-2000.jpg",
+        "caption": "Le mémorial du vol 261, en février 2020.",
+        "credit": {
+          "author": "Julia Brownley",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:Alaska_Airlines_Flight_261_memorial_-_Feb_2020.jpg"
+        }
       }
     ],
     "route": {
@@ -920,8 +1007,14 @@
     "lon": 119.7,
     "images": [
       {
-        "url": "assets/img/ci611-2002.jpg",
-        "caption": "Détroit de Taïwan (illustration)."
+        "url": "assets/img/libres/ci611-2002.jpg",
+        "caption": "Le B-18255, le Boeing 747 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Tom Lo",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Boeing_747-209B_-_China_Airlines_B-18255_0239713.jpg"
+        }
       }
     ],
     "route": {
@@ -966,8 +1059,14 @@
     "lon": 9.25,
     "images": [
       {
-        "url": "assets/img/btk2937-2002.jpg",
-        "caption": "Région du lac de Constance (illustration)."
+        "url": "assets/img/libres/btk2937-2002.jpg",
+        "caption": "Le mémorial des victimes de la collision, à Überlingen.",
+        "credit": {
+          "author": "Thomas Berendes at German Wikipedia",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:Gedenkstatte_Flugzeugabsturz_Uberlingen_Opfer.jpg"
+        }
       }
     ],
     "route": {
@@ -1008,8 +1107,14 @@
     "lon": -3.57,
     "images": [
       {
-        "url": "assets/img/sp5022-2008.jpg",
-        "caption": "Barajas – zone de l’accident (illustration)."
+        "url": "assets/img/libres/sp5022-2008.jpg",
+        "caption": "L’EC-HFP, le MD-82 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Javier Pedreira",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5",
+          "source": "https://commons.wikimedia.org/wiki/File:EC-HFP.jpg"
+        }
       }
     ],
     "route": {
@@ -1050,8 +1155,14 @@
     "lon": -77.05,
     "images": [
       {
-        "url": "assets/img/af90-1982.jpg",
-        "caption": "Pont 14th Street – zone (illustration)."
+        "url": "assets/img/libres/af90-1982.jpg",
+        "caption": "La dérive de l’appareil émergeant du Potomac après l’accident.",
+        "credit": {
+          "author": "FAA",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:Tail_of_the_Air_Florida_Flight_90_in_the_Potomac_River.jpg"
+        }
       }
     ],
     "route": {
@@ -1096,8 +1207,14 @@
     "lon": -73.83,
     "images": [
       {
-        "url": "assets/img/aa587-2001.jpg",
-        "caption": "Quartier de Belle Harbor (illustration)."
+        "url": "assets/img/libres/aa587-2001.jpg",
+        "caption": "Un Airbus A300-600 d’American Airlines, du même type que l’appareil accidenté.",
+        "credit": {
+          "author": "Eheik",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:American_Airlines_Airbus_A300-600_inbound_to_John_F._Kennedy_International_Airport.jpg"
+        }
       }
     ],
     "route": {
@@ -1142,8 +1259,14 @@
     "lon": 87.9,
     "images": [
       {
-        "url": "assets/img/su593-1994.jpg",
-        "caption": "Massif montagneux – Sibérie (illustration)."
+        "url": "assets/img/libres/su593-1994.png",
+        "caption": "Image de synthèse de l’Airbus A310 d’Aeroflot impliqué.",
+        "credit": {
+          "author": "Anynobody",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Aeroflotflt593.png"
+        }
       }
     ],
     "route": {
@@ -1188,8 +1311,14 @@
     "lon": 23.97,
     "images": [
       {
-        "url": "assets/img/hel522-2005.jpg",
-        "caption": "Zone de Grammatiko (illustration)."
+        "url": "assets/img/libres/hel522-2005.jpg",
+        "caption": "Le 5B-DBY, le Boeing 737 impliqué, à Paris-CDG en mai 2005.",
+        "credit": {
+          "author": "simon butler",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:PARIS_CHARLES_DE_GAULLE_MAY_2005_HELIOS_BOEING_737-300_5B-DBY_(9427138837).jpg"
+        }
       }
     ],
     "route": {
@@ -1234,8 +1363,14 @@
     "lon": -27.09,
     "images": [
       {
-        "url": "assets/img/ts236-2001.jpg",
-        "caption": "Atterrissage à Lajes (illustration)."
+        "url": "assets/img/libres/ts236-2001.jpg",
+        "caption": "Le C-GITS, l’Airbus A330 impliqué, resté en service après l’incident.",
+        "credit": {
+          "author": "Lord of the Wings© from Toronto, Canada",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Air_Transat_Airbus_A330-243_C-GITS_102_(7730998582).jpg"
+        }
       }
     ],
     "route": {
@@ -1280,8 +1415,14 @@
     "lon": -77.071,
     "images": [
       {
-        "url": "assets/img/selfridge-1908.jpg",
-        "caption": "Wright Model A à Fort Myer (illustration)."
+        "url": "assets/img/libres/selfridge-1908.jpg",
+        "caption": "Essais du Wright Flyer devant l’armée américaine à Fort Myer, en 1908.",
+        "credit": {
+          "author": "Auteur inconnu",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:Wright_Flyer_Test_Flights_at_Fort_Myer,_VA_-_GPN-2002-000124.jpg"
+        }
       }
     ],
     "sources": [
@@ -1312,8 +1453,14 @@
     "lon": -76.491,
     "images": [
       {
-        "url": "assets/img/aa965-1995.jpg",
-        "caption": "Vallée de Cali (illustration)."
+        "url": "assets/img/libres/aa965-1995.jpg",
+        "caption": "Un Boeing 757-223 d’American Airlines, du même type que l’appareil accidenté.",
+        "credit": {
+          "author": "Aero Icarus from Zürich, Switzerland",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:12bn_-_American_Airlines_Boeing_757-223;_N697AN@MIA;31.01.1998_(5619066584).jpg"
+        }
       }
     ],
     "route": {
@@ -1358,8 +1505,14 @@
     "lon": 144.789,
     "images": [
       {
-        "url": "assets/img/ke801-1997.jpg",
-        "caption": "Nimitz Hill (illustration)."
+        "url": "assets/img/libres/ke801-1997.png",
+        "caption": "Image de synthèse du Boeing 747-300 de Korean Air impliqué.",
+        "credit": {
+          "author": "Anynobody",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Flight_801747-3.png"
+        }
       }
     ],
     "route": {
@@ -1404,8 +1557,14 @@
     "lon": 167.17,
     "images": [
       {
-        "url": "assets/img/anz901-1979.jpg",
-        "caption": "Région du Mont Erebus (illustration)."
+        "url": "assets/img/libres/anz901-1979.png",
+        "caption": "Le ZK-NZP, le DC-10 impliqué, à Londres-Heathrow en juillet 1977.",
+        "credit": {
+          "author": "Eduard Marmet",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Air_New_Zealand_DC-10-30_ZK-NZP_LHR_Jul_1977.png"
+        }
       }
     ],
     "route": {
@@ -1446,8 +1605,14 @@
     "lon": 121.234,
     "images": [
       {
-        "url": "assets/img/sq006-2000.jpg",
-        "caption": "CKS/Taoyuan – axes de pistes (illustration)."
+        "url": "assets/img/libres/sq006-2000.jpg",
+        "caption": "Le 9V-SPK, le Boeing 747-400 impliqué, à Francfort en juin 2000.",
+        "credit": {
+          "author": "simon butler",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:FRANKFURT_JUNE_2000_SINGAPORE_AIRLINES_BOEING_747-400_9V-SPK.jpg"
+        }
       }
     ],
     "route": {
@@ -1490,12 +1655,7 @@
     "fatalities": 187,
     "lat": -23.626,
     "lon": -46.656,
-    "images": [
-      {
-        "url": "assets/img/jj3054-2007.jpg",
-        "caption": "Piste courte et environnement urbain (illustration)."
-      }
-    ],
+    "images": [],
     "route": {
       "from": {
         "name": "Porto Alegre – POA",
@@ -1538,8 +1698,14 @@
     "lon": 74.889,
     "images": [
       {
-        "url": "assets/img/aix812-2010.jpg",
-        "caption": "Table‑top runway de Mangalore (illustration)."
+        "url": "assets/img/libres/aix812-2010.jpg",
+        "caption": "Un Boeing 737 d’Air India Express, du même type que l’appareil accidenté.",
+        "credit": {
+          "author": "Franz",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:AIR_INDIA_EXPRESS_BOEING_737.jpg"
+        }
       }
     ],
     "route": {
@@ -1584,8 +1750,14 @@
     "lon": 67.161,
     "images": [
       {
-        "url": "assets/img/pia8303-2020.jpg",
-        "caption": "Zone urbaine près de KHI (illustration)."
+        "url": "assets/img/libres/pia8303-2020.jpg",
+        "caption": "L’AP-BLD, l’Airbus A320 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Shadman Samee from Dhaka, Bangladesh",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:AP-BLD_PIA_A320_at_DAC_(20-02-16).jpg"
+        }
       }
     ],
     "route": {
@@ -1630,8 +1802,14 @@
     "lon": -78.702,
     "images": [
       {
-        "url": "assets/img/co3407-2009.jpg",
-        "caption": "Zone résidentielle – Clarence Center (illustration)."
+        "url": "assets/img/libres/co3407-2009.jpg",
+        "caption": "Le mémorial du vol 3407.",
+        "credit": {
+          "author": "Jfvoll",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Colgan_Air_Flight_3407_Memorial.jpg"
+        }
       }
     ],
     "route": {
@@ -1676,8 +1854,14 @@
     "lon": -70.55,
     "images": [
       {
-        "url": "assets/img/bi301-1996.jpg",
-        "caption": "Côte nord – Puerto Plata (illustration)."
+        "url": "assets/img/libres/bi301-1996.jpg",
+        "caption": "Le TC-GEN, le Boeing 757 impliqué, à Francfort en octobre 1994.",
+        "credit": {
+          "author": "Aero Icarus from Zürich, Switzerland",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Birgenair_Boeing_757;_TC-GEN@FRA;19.10.1994_(4704769908).jpg"
+        }
       }
     ],
     "route": {
@@ -1722,8 +1906,14 @@
     "lon": -77.5,
     "images": [
       {
-        "url": "assets/img/pl603-1996.jpg",
-        "caption": "Large de Lima (illustration)."
+        "url": "assets/img/libres/pl603-1996.jpg",
+        "caption": "Le N52AW, le Boeing 757 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "airlineROVer",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Aero_Peru_757-200_N52AW_@_MIA.jpg"
+        }
       }
     ],
     "route": {
@@ -1768,8 +1958,14 @@
     "lon": 7.409,
     "images": [
       {
-        "url": "assets/img/af296-1988.jpg",
-        "caption": "Meeting aérien d'Habsheim (illustration)."
+        "url": "assets/img/libres/af296-1988.jpg",
+        "caption": "Le F-GFKC, l’Airbus A320 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Original Photographer Unknown",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:F-GFKC_Air_France_Airbus_A320_-_3.jpg"
+        }
       }
     ],
     "sources": [
@@ -1800,8 +1996,14 @@
     "lon": -122.6,
     "images": [
       {
-        "url": "assets/img/ua173-1978.jpg",
-        "caption": "Secteur de Portland (illustration)."
+        "url": "assets/img/libres/ua173-1978.jpg",
+        "caption": "Le N8082U, le DC-8 impliqué, à Los Angeles en juillet 1978.",
+        "credit": {
+          "author": "Leslie Snelleman",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:N8082U_United_Airlines_McDonnell_Douglas_DC-8-61,_@LAX_10_July_1978.jpg"
+        }
       }
     ],
     "route": {
@@ -1842,8 +2044,14 @@
     "lon": -73.5,
     "images": [
       {
-        "url": "assets/img/av52-1990.jpg",
-        "caption": "North Shore de Long Island (illustration)."
+        "url": "assets/img/libres/av52-1990.jpg",
+        "caption": "Le HK-2016, le Boeing 707 impliqué, à Francfort en octobre 1989.",
+        "credit": {
+          "author": "simon butler",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:FRANKFURT_OCT_1989_AVIANCA_COLOMBIA_BOEING_707_HK-2016.jpg"
+        }
       }
     ],
     "route": {
@@ -1884,8 +2092,14 @@
     "lon": -1.29,
     "images": [
       {
-        "url": "assets/img/bm92-1989.jpg",
-        "caption": "Proximité de la M1 (illustration)."
+        "url": "assets/img/libres/bm92-1989.jpg",
+        "caption": "Le G-OBME, le Boeing 737 impliqué, à Londres-Heathrow en novembre 1988.",
+        "credit": {
+          "author": "Leslie Snelleman",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:British_Midland_Boeing_737-4Y0;_G-OBME,_@LHR,_November_1988.jpg"
+        }
       }
     ],
     "route": {
@@ -1926,8 +2140,14 @@
     "lon": 46.7,
     "images": [
       {
-        "url": "assets/img/sv163-1980.jpg",
-        "caption": "Aéroport de Riyad (illustration)."
+        "url": "assets/img/libres/sv163-1980.jpg",
+        "caption": "Le HZ-AHK, le L-1011 TriStar impliqué, à Londres-Heathrow en 1979.",
+        "credit": {
+          "author": "Paul Seymour",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:HZ-AHK_L-1011_Tristar,_Heathrow_1979.jpg"
+        }
       }
     ],
     "route": {
@@ -1968,8 +2188,14 @@
     "lon": 43.3,
     "images": [
       {
-        "url": "assets/img/et961-1996.jpg",
-        "caption": "Côtes de Moroni (illustration)."
+        "url": "assets/img/libres/et961-1996.jpg",
+        "caption": "L’ET-AIZ, le Boeing 767 impliqué, à Londres-Heathrow en juillet 1996.",
+        "credit": {
+          "author": "Hugh McMillan",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:ET-AIZ,_at_London_Heathrow,_England_July_1996.jpg"
+        }
       }
     ],
     "route": {
@@ -2010,8 +2236,14 @@
     "lon": -84.66,
     "images": [
       {
-        "url": "assets/img/ac797-1983.jpg",
-        "caption": "Aérogare de CVG (illustration)."
+        "url": "assets/img/libres/ac797-1983.jpg",
+        "caption": "Le DC-9 impliqué, alors immatriculé CF-TLU, à New York en 1968.",
+        "credit": {
+          "author": "Aero Icarus",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Air_Canada_DC-9-32;_CF-TLU@JFK,_August_1968.jpg"
+        }
       }
     ],
     "route": {
@@ -2052,8 +2284,14 @@
     "lon": 136.93,
     "images": [
       {
-        "url": "assets/img/ci140-1994.jpg",
-        "caption": "Région de Chūbu (illustration)."
+        "url": "assets/img/libres/ci140-1994.png",
+        "caption": "Le site de l’accident à Nagoya (photo de la commission d’enquête japonaise).",
+        "credit": {
+          "author": "航空事故調査委員会",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:China_Airlines_Flight_140_Site_Where_the_Accident_Occurred_and_Its_Vicinity.png"
+        }
       }
     ],
     "route": {
@@ -2094,8 +2332,14 @@
     "lon": -92.75,
     "images": [
       {
-        "url": "assets/img/on1363-1989.jpg",
-        "caption": "Aérodrome de Dryden (illustration)."
+        "url": "assets/img/libres/on1363-1989.jpg",
+        "caption": "Le C-FONF, le Fokker F28 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Steelhead 2010",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:C-FONF_(Air_Ontario)_C-FONF_-_Fokker_F-28-1000_-_Air_Ontario_at_Toronto_Lester_B._Pearson_Airport_(YYZ).jpg"
+        }
       }
     ],
     "route": {
@@ -2136,8 +2380,14 @@
     "lon": -122.375,
     "images": [
       {
-        "url": "assets/img/oz214-2013.jpg",
-        "caption": "Seuil 28L/28R (illustration)."
+        "url": "assets/img/libres/oz214-2013.jpg",
+        "caption": "Le fuselage du Boeing 777 après l’accident (photo NTSB).",
+        "credit": {
+          "author": "NTSB",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:NTSBAsiana214Fuselage2.jpg"
+        }
       }
     ],
     "route": {
@@ -2178,8 +2428,14 @@
     "lon": -75.43,
     "images": [
       {
-        "url": "assets/img/lamia2933-2016.jpg",
-        "caption": "Relief près de Rionegro (illustration)."
+        "url": "assets/img/libres/lamia2933-2016.jpg",
+        "caption": "Un Avro RJ85 de LaMia, en 2013.",
+        "credit": {
+          "author": "Graham from Scotland",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:LaMia_P4-LOR_at_EGPF,_Oct_2013.jpg"
+        }
       }
     ],
     "route": {
@@ -2220,8 +2476,14 @@
     "lon": -85.736,
     "images": [
       {
-        "url": "assets/img/ups2976-2025.jpg",
-        "caption": "Zone aéroportuaire de Louisville – illustration."
+        "url": "assets/img/libres/ups2976-2025.png",
+        "caption": "Vue aérienne du site de l’accident à Louisville (photo NTSB).",
+        "credit": {
+          "author": "NTSB",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:UPS_Airlines_Flight_2976_crash_site.png"
+        }
       }
     ],
     "route": {
