@@ -219,7 +219,18 @@
     "fatalities": 0,
     "lat": 40.769,
     "lon": -74.005,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/us1549-2009.jpg",
+        "caption": "Le N106US posé sur l’Hudson, passagers évacués sur les ailes.",
+        "credit": {
+          "author": "Greg L",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_(N106US)_after_crashing_into_the_Hudson_River_(crop_1).jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "New York – LaGuardia",
@@ -704,7 +715,18 @@
     "fatalities": 269,
     "lat": 46.5,
     "lon": 141.5,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/kal007-1983.png",
+        "caption": "Image de synthèse du Boeing 747 de Korean Air Lines impliqué.",
+        "credit": {
+          "author": "Anynobody",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:KAL007747-2.png"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Anchorage – ANC",
@@ -2564,7 +2586,18 @@
     "fatalities": 179,
     "lat": 34.985,
     "lon": 126.381,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/jeju2216-2024.jpg",
+        "caption": "Le HL8088, le Boeing 737 impliqué, à Jeju le 25 décembre 2024.",
+        "credit": {
+          "author": "정찬송",
+          "license": "CC BY 2.0 kr",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/kr/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Boeing_737-8AS_Jeju_Air_HL8088,_Jeju_Int%27l_Airport,_25_December_2024_01.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Bangkok – Suvarnabhumi",
@@ -2652,7 +2685,18 @@
     "fatalitiesOnBoard": 0,
     "lat": 35.549,
     "lon": 139.786,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/jl516-2024.jpg",
+        "caption": "Le JA13XJ, l’Airbus A350 impliqué, à Haneda en avril 2022.",
+        "credit": {
+          "author": "Steven Byles",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:JAPAN_AIRLINES_A350-941_JA13XJ_HND_30-APR-2022.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Sapporo – New Chitose",
@@ -2697,7 +2741,18 @@
     "fatalities": 132,
     "lat": 23.33,
     "lon": 111.1,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/mu5735-2022.jpg",
+        "caption": "Le B-1791, le Boeing 737 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Dennis HKG",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:China_Eastern_Airlines_-_Boeing_737-800_-_B-1791_-_Yunnan_peacock_livery_-_Shanghai_Hongqiao.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Kunming – Changshui",
@@ -2743,7 +2798,18 @@
     "fatalitiesOnBoard": 64,
     "lat": 38.847,
     "lon": -77.032,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/psa5342-2025.jpg",
+        "caption": "Le N709PS, le CRJ700 impliqué, à Charlotte en 2022.",
+        "credit": {
+          "author": "Colin Brown",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:American_Eagle_CRJ-700_N709PS_at_Charlotte,_2022.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Wichita – Eisenhower",
@@ -2784,7 +2850,18 @@
     "fatalities": 38,
     "lat": 43.88,
     "lon": 51.04,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/j28243-2024.jpg",
+        "caption": "Le 4K-AZ65, l’Embraer 190 impliqué, en 2015.",
+        "credit": {
+          "author": "Treflyn",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Azerbaijan_Airlines_4K-AZ65_2015-09-11.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Bakou – Heydar Aliyev",
@@ -2866,7 +2943,18 @@
     "fatalities": 176,
     "lat": 35.56,
     "lon": 51.1,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/ps752-2020.jpg",
+        "caption": "L’UR-PSR, le Boeing 737 impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Anna Zvereva from Tallinn, Estonia",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Ukraine_International_Airlines,_UR-PSR,_Boeing_737-8KV_(47585391922).jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Téhéran – Imam Khomeini",
@@ -2907,7 +2995,18 @@
     "fatalities": 87,
     "lat": 48.43,
     "lon": 7.4,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/it148-1992.jpg",
+        "caption": "La stèle du mémorial sur le site de l’accident, au mont Sainte-Odile.",
+        "credit": {
+          "author": "Oblomov2",
+          "license": "CC0",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Site_crash_Mont_Sainte-Odile_1992.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Lyon – Satolas",
@@ -2948,7 +3047,18 @@
     "fatalities": 1,
     "lat": 20.898,
     "lon": -156.43,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/aq243-1988.jpg",
+        "caption": "Le N73711, le Boeing 737 impliqué, à Kahului en février 1988.",
+        "credit": {
+          "author": "Juerg Schmid",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:N73711_Aloha_Airlines_Boeing_737-297,_Kahului_Airport_February_1988.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Hilo",
@@ -2989,7 +3099,18 @@
     "fatalities": 101,
     "lat": 25.86,
     "lon": -80.6,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/ea401-1972.png",
+        "caption": "Trajectoire du vol 401 au-dessus des Everglades (schéma du NTSB).",
+        "credit": {
+          "author": "National Transportation Safety Board",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:N310EA.png"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "New York – JFK",
@@ -3031,7 +3152,18 @@
     "fatalitiesOnBoard": 134,
     "lat": 32.9,
     "lon": -97.04,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/dl191-1985.jpg",
+        "caption": "Le N726DA, le TriStar impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Mike Sparkman",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:N726DA_Delta_Air_Lines.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Fort Lauderdale",
@@ -3072,7 +3204,18 @@
     "fatalities": 35,
     "lat": 42.62,
     "lon": 10.4,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/ba781-1954.jpg",
+        "caption": "Le G-ALYP, le Comet impliqué, photographié avant l’accident.",
+        "credit": {
+          "author": "Originally Photographer Unknown",
+          "license": "Public domain",
+          "license_url": "",
+          "source": "https://commons.wikimedia.org/wiki/File:British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYP.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Rome – Ciampino",
@@ -3113,7 +3256,18 @@
     "fatalities": 349,
     "lat": 28.59,
     "lon": 76.27,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/charkhidadri-1996.jpg",
+        "caption": "Le HZ-AIH, le Boeing 747 de Saudia impliqué, à Londres-Heathrow en mars 1986.",
+        "credit": {
+          "author": "simon butler",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:LONDON_HEATHROW_MARCH_1986_SAUDIA_BOEING_747_HZ-AIH.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Delhi – Indira Gandhi",
@@ -3154,7 +3308,18 @@
     "fatalities": 152,
     "lat": -11.36,
     "lon": 43.27,
-    "images": [],
+    "images": [
+      {
+        "url": "assets/img/libres/iy626-2009.jpg",
+        "caption": "Le 7O-ADJ, l’Airbus A310 impliqué, à Paris-CDG en septembre 2004.",
+        "credit": {
+          "author": "Aero Icarus from Zürich, Switzerland",
+          "license": "CC BY-SA 2.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:316cv_-_Yemenia_Airbus_A310,_7O-ADJ@CDG,6.9.2004_-_Flickr_-_Aero_Icarus.jpg"
+        }
+      }
+    ],
     "route": {
       "from": {
         "name": "Sanaa",
