@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "search (chercher des candidats) ou apply (poser les images choisies)"
+        description: "search, search-missing (fiches sans image) ou apply"
         required: true
         default: search
 

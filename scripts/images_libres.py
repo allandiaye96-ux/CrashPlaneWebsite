@@ -48,6 +48,11 @@ EXTRA = {
     "lamia2933-2016": (["CP-2933"], "LaMia Flight 2933"),
     "ups2976-2025": ([], "UPS Airlines Flight 2976"),
     "selfridge-1908": ([], "Thomas Selfridge Wright Military Flyer Fort Myer 1908"),
+    "charkhidadri-1996": (["HZ-AIH"], "Charkhi Dadri mid-air collision"),
+    "psa5342-2025": (["N709PS"], "2025 Potomac River mid-air collision"),
+    "us1549-2009": (["N106US"], "US Airways Flight 1549"),
+    "pa103-1988": (["N739PA"], "Lockerbie memorial"),
+    "kal007-1983": (["HL7442"], "Korean Air Lines Flight 007 memorial"),
 }
 
 OK_LICENSE = re.compile(r"^(cc[ -]?by(-sa)?[ -]?[0-9.]*|cc0|public domain|pd\b|pd-)", re.I)
@@ -127,8 +132,10 @@ def candidates(acc: dict) -> list[dict]:
     return out[:5]
 
 
-def cmd_search() -> None:
+def cmd_search(only_missing: bool = False) -> None:
     data = json.loads(DATA.read_text(encoding="utf-8"))
+    if only_missing:
+        data = [a for a in data if not a.get("images")]
     img_dir = REVIEW / "images"
     img_dir.mkdir(parents=True, exist_ok=True)
     report = {}
@@ -149,6 +156,7 @@ def cmd_search() -> None:
 
 def cmd_apply() -> None:
     choices = json.loads((REVIEW / "choix.json").read_text(encoding="utf-8"))
+    # les fiches non traitées dans ce lot gardent leur image actuelle
     report = json.loads((REVIEW / "candidats.json").read_text(encoding="utf-8"))
     data = json.loads(DATA.read_text(encoding="utf-8"))
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -176,4 +184,4 @@ def cmd_apply() -> None:
 
 
 if __name__ == "__main__":
-    {"search": cmd_search, "apply": cmd_apply}[sys.argv[1]]()
+    {"search": cmd_search, "search-missing": lambda: cmd_search(True), "apply": cmd_apply}[sys.argv[1]]()
