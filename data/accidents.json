@@ -1259,7 +1259,7 @@
     "lon": 87.9,
     "images": [
       {
-        "url": "assets/img/libres/su593-1994.png",
+        "url": "assets/img/libres/su593-1994.jpg",
         "caption": "Image de synthèse de l’Airbus A310 d’Aeroflot impliqué.",
         "credit": {
           "author": "Anynobody",
@@ -1418,7 +1418,7 @@
         "url": "assets/img/libres/selfridge-1908.jpg",
         "caption": "Essais du Wright Flyer devant l’armée américaine à Fort Myer, en 1908.",
         "credit": {
-          "author": "Auteur inconnu",
+          "author": "NASA",
           "license": "Public domain",
           "license_url": "",
           "source": "https://commons.wikimedia.org/wiki/File:Wright_Flyer_Test_Flights_at_Fort_Myer,_VA_-_GPN-2002-000124.jpg"
@@ -1505,7 +1505,7 @@
     "lon": 144.789,
     "images": [
       {
-        "url": "assets/img/libres/ke801-1997.png",
+        "url": "assets/img/libres/ke801-1997.jpg",
         "caption": "Image de synthèse du Boeing 747-300 de Korean Air impliqué.",
         "credit": {
           "author": "Anynobody",
@@ -1557,7 +1557,7 @@
     "lon": 167.17,
     "images": [
       {
-        "url": "assets/img/libres/anz901-1979.png",
+        "url": "assets/img/libres/anz901-1979.jpg",
         "caption": "Le ZK-NZP, le DC-10 impliqué, à Londres-Heathrow en juillet 1977.",
         "credit": {
           "author": "Eduard Marmet",
@@ -1961,7 +1961,7 @@
         "url": "assets/img/libres/af296-1988.jpg",
         "caption": "Le F-GFKC, l’Airbus A320 impliqué, photographié avant l’accident.",
         "credit": {
-          "author": "Original Photographer Unknown",
+          "author": "Photographe inconnu",
           "license": "Public domain",
           "license_url": "",
           "source": "https://commons.wikimedia.org/wiki/File:F-GFKC_Air_France_Airbus_A320_-_3.jpg"
@@ -2284,10 +2284,10 @@
     "lon": 136.93,
     "images": [
       {
-        "url": "assets/img/libres/ci140-1994.png",
+        "url": "assets/img/libres/ci140-1994.jpg",
         "caption": "Le site de l’accident à Nagoya (photo de la commission d’enquête japonaise).",
         "credit": {
-          "author": "航空事故調査委員会",
+          "author": "Commission d’enquête sur les accidents aériens (Japon)",
           "license": "CC BY 4.0",
           "license_url": "https://creativecommons.org/licenses/by/4.0",
           "source": "https://commons.wikimedia.org/wiki/File:China_Airlines_Flight_140_Site_Where_the_Accident_Occurred_and_Its_Vicinity.png"
@@ -2476,7 +2476,7 @@
     "lon": -85.736,
     "images": [
       {
-        "url": "assets/img/libres/ups2976-2025.png",
+        "url": "assets/img/libres/ups2976-2025.jpg",
         "caption": "Vue aérienne du site de l’accident à Louisville (photo NTSB).",
         "credit": {
           "author": "NTSB",

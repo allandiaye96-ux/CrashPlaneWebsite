@@ -47,6 +47,10 @@ Voir aussi `docs/schema.md` pour les détails et bonnes pratiques.
 
 La page `/actualites/` est alimentée par un robot (`bot/newsbot.py`) lancé par GitHub Actions toutes les 10 minutes. Fonctionnement, réglages, coûts et limites : voir `docs/newsbot.md`.
 
+## Images
+
+Les photos proviennent de Wikimedia Commons, sous licence libre ; l'auteur et la licence sont enregistrés dans `data/accidents.json` (champ `credit`) et affichés sous chaque image. Pour en ajouter : workflow « Images libres » (`scripts/images_libres.py`), puis `python3 scripts/sync_static_images.py` pour mettre à jour les pages statiques.
+
 ## Personnalisation
 
 - Couleurs/styles: `assets/css/styles.css`.
