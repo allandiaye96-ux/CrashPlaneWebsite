@@ -811,7 +811,8 @@
     "https://www.airliners.de/indigo-verringert-quartalsverlust-trotz-hoeherer-treibstoffkosten/91186": "2026-10-29T16:47:16Z",
     "https://www.airliners.de/flughafen-neapel-schliesst-november-bahnsanierung/91187": "2026-10-29T16:47:16Z",
     "https://www.airliners.de/gewinn-air-china-bricht-dritten-quartal-90-prozent/91189": "2026-10-29T16:47:16Z",
-    "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/": "2026-10-29T16:50:33Z"
+    "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/": "2026-10-29T16:50:33Z",
+    "https://simpleflying.com/american-airlines-new-flagship-suite-stacks-up-delta-one-2026/": "2026-10-29T17:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1596,6 +1597,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.026483
+    "2026-10": 0.029351
   }
 }

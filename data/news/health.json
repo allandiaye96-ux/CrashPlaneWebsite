@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-29T16:50:33Z",
+  "run": "2026-10-29T17:01:04Z",
   "stats": {
-    "fetched": 696,
+    "fetched": 596,
     "new": 1,
-    "written": 1,
-    "held": 0,
+    "written": 2,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 0.0265,
+  "spend_month_usd": 0.0294,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 37
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "Boeing – Communiqués": {
       "ok": true,
