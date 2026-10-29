@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
+    "created": "2026-10-29T16:47:50Z",
+    "updated": "2026-10-29T16:47:50Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Groenland : un troisième aéroport civil ouvre à Ilulissat avec une piste de 2 200 mètres",
+    "chapo": "Selon airliners.de, le Groenland a ouvert un troisième aéroport civil, à Ilulissat, troisième ville de l'île. Le site indique que la piste permettra aussi l'accueil de plus gros avions.",
+    "paragraphes": [
+      "D'après le média allemand, l'ouverture vise à renforcer l'économie locale et à attirer davantage de touristes. L'exploitant de l'aéroport a annoncé que la piste mesure 2 200 mètres de long.",
+      "Cette nouvelle infrastructure porte à trois le nombre d'aéroports civils du territoire, selon la même source."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
+        "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
+        "date": "2026-10-29T15:42:08Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
+    "created": "2026-10-29T16:47:47Z",
+    "updated": "2026-10-29T16:47:47Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Comac prépare un démonstrateur de avion régional électrique en vue de vols d'essai",
+    "chapo": "Selon le site airliners.de, le constructeur chinois Comac se prépare à faire voler un démonstrateur de avion régional à propulsion électrique. Ces informations proviennent d'un blogueur automobile chinois, Han Lu, qui les a publiées sur son site.",
+    "paragraphes": [
+      "D'après la même publication, l'appareil d'essai est désigné CE-25A. Des photos de cet avion circulent actuellement dans des réseaux sociaux chinois.",
+      "Les informations disponibles à ce stade concernent uniquement la préparation de ce démonstrateur en vue de premiers vols d'essai."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Comac bereitet Elektro-Regionalflugzeug auf Testflüge vor",
+        "url": "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201",
+        "date": "2026-10-29T16:26:26Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1",
+    "created": "2026-10-29T16:47:45Z",
+    "updated": "2026-10-29T16:47:45Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Le gouvernement britannique soutient l'ambition de Rolls-Royce de concevoir un moteur pour les futurs monocouloirs",
+    "chapo": "Selon AeroTime, le gouvernement britannique apporte son soutien à l'ambition de Rolls-Royce de développer et de produire un nouveau moteur destiné à la prochaine génération d'avions monocouloirs.",
+    "paragraphes": [
+      "D'après AeroTime, l'annonce porte sur un projet de moteur pour la génération suivante d'appareils monocouloirs, sans que l'article ne précise à ce stade de calendrier ni de montant d'investissement.",
+      "Le média rapporte que Rolls-Royce souhaite à la fois concevoir et fabriquer ce moteur, un projet que l'exécutif britannique soutient publiquement."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "UK backs Rolls-Royce ambition to build engine for future narrowbody aircraft",
+        "url": "https://www.aerotime.aero/articles/uk-rolls-royce-engine-future-narrowbody-fleet",
+        "date": "2026-10-29T15:22:50Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-honeywell-aerospace-des-penuries-de-pieces-limitent-sa-crois-2ca3",
+    "created": "2026-10-29T16:47:42Z",
+    "updated": "2026-10-29T16:47:42Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Honeywell Aerospace : des pénuries de pièces limitent sa croissance au premier trimestre après la scission",
+    "chapo": "Selon AeroTime, Honeywell Aerospace a enregistré une hausse de son chiffre d'affaires et de son bénéfice lors de son premier trimestre complet en tant qu'entreprise indépendante. Le média indique que des pénuries de pièces ont freiné cette progression.",
+    "paragraphes": [
+      "Le groupe a publié des résultats en hausse pour sa première période trimestrielle complète depuis sa séparation. Le média souligne toutefois que le manque de composants a pesé sur l'ampleur de cette croissance.",
+      "Les éléments disponibles ne permettent pas de détailler davantage les montants ou les causes précises de ces tensions d'approvisionnement."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Parts shortages limit Honeywell Aerospace growth in first quarter after split",
+        "url": "https://www.aerotime.aero/articles/honeywell-aerospace-q3-2026-results-parts-shortages",
+        "date": "2026-10-29T15:30:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097",
     "created": "2026-10-29T15:39:55Z",
     "updated": "2026-10-29T15:39:55Z",

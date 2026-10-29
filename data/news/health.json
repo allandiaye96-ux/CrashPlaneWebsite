@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-29T15:39:24Z",
+  "run": "2026-10-29T16:47:16Z",
   "stats": {
     "fetched": 696,
-    "new": 30,
-    "written": 3,
+    "new": 14,
+    "written": 4,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0224,
+  "spend_month_usd": 0.0253,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -190,6 +190,30 @@
       "breve": "2026-10-29-honeywell-aerospace-prevoit-une-usine-de-500-millions-de-dol-31ca"
     },
     {
+      "dossier": "Honeywell Aerospace premier trimestre après scission",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-29-honeywell-aerospace-des-penuries-de-pieces-limitent-sa-crois-2ca3"
+    },
+    {
+      "dossier": "Rolls-Royce moteur futur monocouloir soutien UK",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
+    },
+    {
+      "dossier": "Comac CE-25A avion électrique essais",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
+    },
+    {
+      "dossier": "Ilulissat nouvel aéroport Groenland",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
+    },
+    {
       "dossier": "ARRW production USAF",
       "statut": "signale",
       "editeurs": 1,
@@ -269,6 +293,12 @@
     },
     {
       "dossier": "Ebola règles CDC déclaration US",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Superjet 100 Azimuth retour Erevan squawk 7700",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

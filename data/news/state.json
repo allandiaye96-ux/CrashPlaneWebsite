@@ -796,7 +796,21 @@
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/jetblue-loptimisme-faute-de-taille-critique-20261029.html": "2026-10-29T15:39:24Z",
     "https://www.journal-aviation.com/actualite-en-bref/turkish-airlines-opte-aussi-pour-le-boeing-777-300ersf-20261029.html": "2026-10-29T15:39:24Z",
     "https://www.journal-aviation.com/actualites-mro-support/maintenance-equipements/mro-air-europa-prolonge-avec-collins-aerospace-la-maintenance-des-nacelles-de-ses-boeing-787-20261029.html": "2026-10-29T15:39:24Z",
-    "https://www.journal-aviation.com/actualites-mro-support/maintenance-equipements/safran-landing-systems-investit-136-millions-deuros-dans-les-freins-carbone-et-leur-maintenance-en-malaisie-20261029.html": "2026-10-29T15:39:24Z"
+    "https://www.journal-aviation.com/actualites-mro-support/maintenance-equipements/safran-landing-systems-investit-136-millions-deuros-dans-les-freins-carbone-et-leur-maintenance-en-malaisie-20261029.html": "2026-10-29T15:39:24Z",
+    "https://simpleflying.com/azimuth-sukhoi-superjet-100-emergency-return-yerevan/": "2026-10-29T16:47:16Z",
+    "https://www.aerotime.aero/articles/honeywell-aerospace-q3-2026-results-parts-shortages": "2026-10-29T16:47:16Z",
+    "https://www.aerotime.aero/articles/uk-rolls-royce-engine-future-narrowbody-fleet": "2026-10-29T16:47:16Z",
+    "https://www.aero.de/news-54048/Discover-Airlines-steckt-erste-A350-Ziele-ab.html": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/lufthansa-technik-boeing-verlaengern-ersatzteilabkommen-jahre/91199": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/ana-steigert-umsatz-rekordwert-hebt-prognose/91191": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/sun-express-kuendigt-kasachstan-strecken-sommer-2027/91193": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/ryanair-kuendigt-sommerstrecke-friedrichshafen/91195": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/flughafen-bremen-praesentiert-winterflugplan-ziel/91198": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/indigo-verringert-quartalsverlust-trotz-hoeherer-treibstoffkosten/91186": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/flughafen-neapel-schliesst-november-bahnsanierung/91187": "2026-10-29T16:47:16Z",
+    "https://www.airliners.de/gewinn-air-china-bricht-dritten-quartal-90-prozent/91189": "2026-10-29T16:47:16Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1452,9 +1466,114 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c4a3dc20b11": {
+      "id": "c4a3dc20b11",
+      "label": "Superjet 100 Azimuth retour Erevan squawk 7700",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-10-29T16:47:37Z",
+      "updated": "2026-10-29T16:47:37Z",
+      "items": [
+        {
+          "id": "fb7334161b96e801",
+          "feed": "Simple Flying",
+          "title": "Azimuth Sukhoi Superjet 100 Squawks 7700, Returns To Yerevan After Technical Malfunction",
+          "url": "https://simpleflying.com/azimuth-sukhoi-superjet-100-emergency-return-yerevan/",
+          "domain": "simpleflying.com",
+          "summary": "The Russian jet was flying over Armenia for just 20 minutes before it returned to Yerevan.",
+          "published": "2026-10-29T16:32:18Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c9b5bbb2ca3": {
+      "id": "c9b5bbb2ca3",
+      "label": "Honeywell Aerospace premier trimestre après scission",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-29T16:47:37Z",
+      "updated": "2026-10-29T16:47:37Z",
+      "items": [
+        {
+          "id": "4d6fa19f4d12f739",
+          "feed": "AeroTime",
+          "title": "Parts shortages limit Honeywell Aerospace growth in first quarter after split",
+          "url": "https://www.aerotime.aero/articles/honeywell-aerospace-q3-2026-results-parts-shortages",
+          "domain": "aerotime.aero",
+          "summary": "Honeywell Aerospace reported higher sales and profit in its first full quarter as an independent company, but shortages… The post Parts shortages limit Honeywell Aerospace growth in first quarter after split appeared first on AeroTime .",
+          "published": "2026-10-29T15:30:02Z"
+        }
+      ],
+      "story_id": "2026-10-29-honeywell-aerospace-des-penuries-de-pieces-limitent-sa-crois-2ca3",
+      "written_count": 1
+    },
+    "c9cc2d782b1": {
+      "id": "c9cc2d782b1",
+      "label": "Rolls-Royce moteur futur monocouloir soutien UK",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-10-29T16:47:37Z",
+      "updated": "2026-10-29T16:47:37Z",
+      "items": [
+        {
+          "id": "42bc17afa362418f",
+          "feed": "AeroTime",
+          "title": "UK backs Rolls-Royce ambition to build engine for future narrowbody aircraft",
+          "url": "https://www.aerotime.aero/articles/uk-rolls-royce-engine-future-narrowbody-fleet",
+          "domain": "aerotime.aero",
+          "summary": "The UK government is backing Rolls-Royce’s ambition to develop and build a new engine for the next generation… The post UK backs Rolls-Royce ambition to build engine for future narrowbody aircraft appeared first on AeroTime .",
+          "published": "2026-10-29T15:22:50Z"
+        }
+      ],
+      "story_id": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1",
+      "written_count": 1
+    },
+    "c41dd1f94f5": {
+      "id": "c41dd1f94f5",
+      "label": "Comac CE-25A avion électrique essais",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-10-29T16:47:37Z",
+      "updated": "2026-10-29T16:47:37Z",
+      "items": [
+        {
+          "id": "fba8048c09b0dd9d",
+          "feed": "airliners.de",
+          "title": "Comac bereitet Elektro-Regionalflugzeug auf Testflüge vor",
+          "url": "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201",
+          "domain": "airliners.de",
+          "summary": "Der chinesische Flugzeughersteller Comac arbeitet daran, einen Demonstrator für ein elektrisch angetriebenes Regionalflugzeug für erste Testflüge startklar zu machen. Das berichtete der chinesische Autoblogger Han Lu auf seiner Webseite und veröffentlichte dazu Bilder des CE-25A genannten Versuchsträgers, die derzeit in chinesischen Onlinenetzwerken kursieren.",
+          "published": "2026-10-29T16:26:26Z"
+        }
+      ],
+      "story_id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
+      "written_count": 1
+    },
+    "c61532f62a2": {
+      "id": "c61532f62a2",
+      "label": "Ilulissat nouvel aéroport Groenland",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-10-29T16:47:37Z",
+      "updated": "2026-10-29T16:47:37Z",
+      "items": [
+        {
+          "id": "0626ad9999ec947a",
+          "feed": "airliners.de",
+          "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
+          "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
+          "domain": "airliners.de",
+          "summary": "Um die Wirtschaft zu stärken und mehr Touristen anzuziehen, hat Grönland am Donnerstag einen dritten Zivilflughafen eröffnet. Der Airport in der drittgrößten Stadt der Insel, Ilulissat, habe eine 2200 Meter lange Start- und Landebahn, teilte der Betreiber mit. Damit könnten auch größere Flugzeuge dort landen.",
+          "published": "2026-10-29T15:42:08Z"
+        }
+      ],
+      "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.022387
+    "2026-10": 0.025287
   }
 }
