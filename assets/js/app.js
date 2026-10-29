@@ -191,7 +191,7 @@
     const ul = document.createElement('ul'); ul.className = 'teasers';
     items.forEach(s => {
       const li = document.createElement('li');
-      const a = document.createElement('a'); a.className = 'teaser'; a.href = '/actualites/#' + encodeURIComponent(s.id);
+      const a = document.createElement('a'); a.className = 'teaser'; a.href = /^[a-z0-9-]+$/.test(s.id) ? '/actualites/' + s.id + '/' : '/actualites/';
       const vs = s.verification && s.verification.status;
       const parts = [];
       if (vs === 'officiel' || vs === 'corrobore') {
@@ -262,13 +262,15 @@
     $app.innerHTML = `
       <article class="prose">
         <h1>À propos</h1>
-        <p>Carnet de Vol est un projet personnel de passionné d’aviation. Il réunit une veille d’actualité aéronautique vérifiée et une base d’accidents racontés à partir des rapports d’enquête officiels : ce qui s’est passé, et ce qui a changé ensuite.</p>
-        <p>Ces récits sont des synthèses : ils ne remplacent pas les rapports des organismes d’enquête (BEA en France, NTSB aux États-Unis, AAIB au Royaume-Uni, BST au Canada…). Les liens vers ces rapports figurent sur chaque fiche.</p>
+        <p>Carnet de Vol suit l’actualité de l’aviation (compagnies, constructeurs, aéroports, sécurité) et raconte les accidents qui ont fait évoluer le transport aérien.</p>
+        <p>Deux rubriques le composent. Les <a class="link" href="/actualites/">actualités</a> sont des brèves recoupées entre plusieurs sources et mises à jour en continu. La <a class="link" href="/#/base">base historique</a> réunit des accidents racontés à partir des rapports d’enquête officiels : ce qui s’est passé, et ce qui a changé ensuite.</p>
+        <p>Les récits de la base sont des synthèses. Ils ne remplacent pas les rapports des organismes d’enquête (BEA en France, NTSB aux États-Unis, AAIB au Royaume-Uni, BST au Canada…), dont les liens figurent sur chaque fiche. Les photos proviennent de Wikimedia Commons, sous licence libre ; leur auteur est cité sous chaque image.</p>
         <h2 id="methode">Comment les actualités sont produites</h2>
         <p>Un programme consulte régulièrement des flux d’actualité aéronautique : presse spécialisée et autorités (EASA, AAIB…). Une intelligence artificielle regroupe les articles qui parlent du même événement, puis rédige une brève à partir des seules sources citées.</p>
         <p>Pour un accident, un incident ou une enquête, une brève n’est publiée que si l’événement est rapporté par au moins deux médias indépendants ou par une source officielle. Pour l’actualité des compagnies, des constructeurs et des aéroports, une seule source spécialisée peut suffire ; le nombre de sources est indiqué en bas de chaque brève.</p>
         <p>Chaque chiffre d’une brève doit figurer dans au moins une source, et les causes d’un accident ne sont jamais avancées avant les enquêteurs. Ces contrôles réduisent les erreurs sans les éliminer, surtout dans les premières heures d’un événement : référez-vous toujours aux sources.</p>
-        <p>Une erreur ou une source à ajouter ? Le projet est ouvert sur GitHub.</p>
+        <h2>Contact</h2>
+        <p>Une erreur, une source à ajouter ou un accident à documenter ? Écrivez via le formulaire en bas de page.</p>
       </article>`;
   }
 

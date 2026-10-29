@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://www.crashplanewebsite.com/sitemap.xml
+Sitemap: https://www.crashplanewebsite.com/sitemap-actualites.xml
