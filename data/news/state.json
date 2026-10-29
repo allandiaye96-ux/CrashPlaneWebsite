@@ -818,7 +818,8 @@
     "https://airlinegeeks.com/2026/10/29/united-ceo-hints-at-potential-destinations/": "2026-10-29T18:10:37Z",
     "https://www.twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact": "2026-10-29T18:10:37Z",
     "https://theaviationist.com/2026/10/29/developing-italian-ch-47f-chinook-crashes-in-bosnia/": "2026-10-29T18:20:35Z",
-    "https://simpleflying.com/american-airlines-cancels-8-long-haul-nonstop-boeing-787-routes/": "2026-10-29T18:30:52Z"
+    "https://simpleflying.com/american-airlines-cancels-8-long-haul-nonstop-boeing-787-routes/": "2026-10-29T18:30:52Z",
+    "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals": "2026-10-29T19:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1642,9 +1643,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c34d10e3b21": {
+      "id": "c34d10e3b21",
+      "label": "Pologne MiG-29 et munitions F-16 vers Ukraine",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-29T19:01:22Z",
+      "updated": "2026-10-29T19:01:22Z",
+      "items": [
+        {
+          "id": "fc03fe510ba4feea",
+          "feed": "The War Zone",
+          "title": "Polish MiG-29s, F-16 Cannon Ammo Reportedly Headed To Ukraine As Bitter Warsaw-Kyiv Rift Heals",
+          "url": "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals",
+          "domain": "twz.com",
+          "summary": "Relations between Ukraine and Poland soured in the Spring, leading to Warsaw calling off the MiG-29 deal in June. The post Polish MiG-29s, F-16 Cannon Ammo Reportedly Headed To Ukraine As Bitter Warsaw-Kyiv Rift Heals appeared first on TWZ .",
+          "published": "2026-10-29T18:58:29Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.031625
+    "2026-10": 0.032091
   }
 }

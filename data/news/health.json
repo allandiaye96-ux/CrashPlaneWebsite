@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-29T18:50:34Z",
+  "run": "2026-10-29T19:01:04Z",
   "stats": {
-    "fetched": 695,
-    "new": 0,
+    "fetched": 696,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX2m78tmqxayzbVVHj5p\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgX3ZuN2VBprjVmSpxtL4\"}'"
   },
-  "spend_month_usd": 0.0316,
+  "spend_month_usd": 0.0321,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -72,7 +72,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 36
+      "items": 37
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -318,6 +318,12 @@
     },
     {
       "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Pologne MiG-29 et munitions F-16 vers Ukraine",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
