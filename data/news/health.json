@@ -1,13 +1,14 @@
 {
-  "run": "2026-10-29T17:14:25Z",
+  "run": "2026-10-29T17:20:34Z",
   "stats": {
-    "fetched": 696,
-    "new": 0,
+    "fetched": 695,
+    "new": 1,
     "written": 0,
     "held": 0,
-    "errors": 0
+    "errors": 1,
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgWuu8JkZDKqiNB3Ry5Kq\"}'"
   },
-  "spend_month_usd": 0.0294,
+  "spend_month_usd": 0.0298,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +72,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 37
+      "items": 36
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -306,6 +307,12 @@
     {
       "dossier": "Superjet 100 Azimuth retour Erevan squawk 7700",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Turkish Airlines 777-300ERSF via AerCap",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }

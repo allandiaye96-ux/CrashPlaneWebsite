@@ -812,7 +812,8 @@
     "https://www.airliners.de/flughafen-neapel-schliesst-november-bahnsanierung/91187": "2026-10-29T16:47:16Z",
     "https://www.airliners.de/gewinn-air-china-bricht-dritten-quartal-90-prozent/91189": "2026-10-29T16:47:16Z",
     "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/": "2026-10-29T16:50:33Z",
-    "https://simpleflying.com/american-airlines-new-flagship-suite-stacks-up-delta-one-2026/": "2026-10-29T17:01:04Z"
+    "https://simpleflying.com/american-airlines-new-flagship-suite-stacks-up-delta-one-2026/": "2026-10-29T17:01:04Z",
+    "https://www.journal-aviation.com/leasing-et-financement/turkish-airlines-opte-aussi-pour-le-boeing-777-300ersf-20261029.html": "2026-10-29T17:20:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1594,9 +1595,30 @@
       ],
       "story_id": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665",
       "written_count": 1
+    },
+    "c4df59d0616": {
+      "id": "c4df59d0616",
+      "label": "Turkish Airlines 777-300ERSF via AerCap",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-29T17:20:48Z",
+      "updated": "2026-10-29T17:20:48Z",
+      "items": [
+        {
+          "id": "c868f3f340358b30",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Turkish Airlines opte aussi pour le Boeing 777-300ERSF",
+          "url": "https://www.journal-aviation.com/leasing-et-financement/turkish-airlines-opte-aussi-pour-le-boeing-777-300ersf-20261029.html",
+          "domain": "journal-aviation.com",
+          "summary": "AerCap a annoncé la signature de contrats de location avec Turkish Airlines portant sur deux Boeing 777-300ERSF (Special Freighter) le 29 octobre. Les livraisons à la compagnie porte-drapeau turque sont prévues […] L’article Turkish Airlines opte aussi pour le Boeing 777-300ERSF a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-10-29T14:57:17Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.029351
+    "2026-10": 0.0298
   }
 }
