@@ -31,7 +31,7 @@ for acc in data:
         s = re.sub(r'(<div class="meta">.*?</div>)', lambda m: m.group(1) + fig, s, count=1, flags=re.S)
         og = f'{BASE}/{img["url"]}'
     else:
-        og = f"{BASE}/assets/img/plane.jpg"
+        og = f"{BASE}/assets/img/og-image.png"
     s = re.sub(r'<meta property="og:image" content="[^"]*" />', f'<meta property="og:image" content="{og}" />', s)
     page.write_text(s, encoding="utf-8")
 print("pages statiques à jour")
