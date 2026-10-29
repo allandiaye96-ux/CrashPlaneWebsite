@@ -228,3 +228,9 @@ def test_failed_rewrite_withdraws_old_version(tmp_news):
     run(cfg(publish=True), [BAD, BAD])
     s = json.loads((tmp_news / "stories.json").read_text())[0]
     assert s["withdrawn"] is True
+
+
+def test_existing_copied_story_is_rewritten(tmp_news):
+    copy = dict(GOOD, chapo="A Boeing 737 with 154 passengers left the runway and people were injured.")
+    run(cfg(publish=True), [copy, copy])  # deux essais recopiés : mise de côté, rien publié
+    assert json.loads((tmp_news / "stories.json").read_text()) == []

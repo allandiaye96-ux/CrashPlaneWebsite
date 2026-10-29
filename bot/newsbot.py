@@ -654,6 +654,11 @@ def run(cfg: dict, api_key: str | None, fetcher=fetch_feed, claude_cls=Claude) -
         for c in sorted(clusters.values(), key=lambda c: (-c["importance"], c["updated"])):
             verif = verification_status(c, cfg)
             needs_write = len(c["items"]) > c.get("written_count", 0)
+            old = by_id.get(c.get("story_id"))
+            if old is not None and not needs_write and not old.get("withdrawn"):
+                # Brève déjà publiée mais non conforme (passage recopié) : on la réécrit une fois.
+                old_text = " ".join([old["titre"], old["chapo"]] + old["paragraphes"])
+                needs_write = copied_passage(old_text, c["items"]) is not None
             if verif["status"] == "signale" or not needs_write:
                 continue
             if writes >= cfg["max_writes_per_run"]:
