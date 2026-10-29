@@ -259,3 +259,12 @@ def test_static_news_pages(tmp_path, monkeypatch):
     stories[0]["hidden"] = True
     static_news.generate(stories)
     assert not (root / "actualites" / "2026-10-29-publiee-abcd").exists() and (root / "actualites" / "brouillons").exists()
+
+
+def test_writer_falls_back_to_cheap_model():
+    c = cfg()
+    c["model_writer"], c["model_triage"], c["monthly_budget_usd"] = "claude-sonnet-5-5", "claude-haiku-5-5", 10.0
+    cl = newsbot.Claude("k", c, {"spend": {}})
+    assert newsbot.writer_model(cl, c) == "claude-sonnet-5-5"
+    cl.state["spend"][cl.month_key()] = 7.5
+    assert newsbot.writer_model(cl, c) == "claude-haiku-5-5"
