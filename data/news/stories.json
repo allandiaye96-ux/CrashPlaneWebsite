@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665",
+    "created": "2026-10-29T16:50:49Z",
+    "updated": "2026-10-29T16:50:49Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Transat lance une liaison directe Montréal–Istanbul et annonce cinq nouvelles routes européennes pour 2027",
+    "chapo": "Selon Simple Flying, Air Transat inaugure des vols entre Montréal et Istanbul, renforce son partenariat avec Turkish Airlines et annonce cinq nouvelles routes européennes pour 2027.",
+    "paragraphes": [
+      "La compagnie canadienne mettrait ainsi en service une liaison sans escale présentée comme dépassant les onze heures de vol. Le média met en avant le lancement de cette desserte à la date de publication de son article.",
+      "Le partenariat avec Turkish Airlines est également renforcé, et cinq nouvelles destinations européennes doivent être exploitées à partir de 2027."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Air Transat Launches New 11-Hour Nonstop Route Today: See Map Now",
+        "url": "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/",
+        "date": "2026-10-29T16:48:13Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
     "created": "2026-10-29T16:47:50Z",
     "updated": "2026-10-29T16:47:50Z",

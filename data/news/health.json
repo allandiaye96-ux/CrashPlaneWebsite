@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-29T16:47:16Z",
+  "run": "2026-10-29T16:50:33Z",
   "stats": {
     "fetched": 696,
-    "new": 14,
-    "written": 4,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0253,
+  "spend_month_usd": 0.0265,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -212,6 +212,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
+    },
+    {
+      "dossier": "Air Transat nouvelle ligne Montréal-Istanbul",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665"
     },
     {
       "dossier": "ARRW production USAF",

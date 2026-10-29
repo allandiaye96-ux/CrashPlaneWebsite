@@ -810,7 +810,8 @@
     "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185": "2026-10-29T16:47:16Z",
     "https://www.airliners.de/indigo-verringert-quartalsverlust-trotz-hoeherer-treibstoffkosten/91186": "2026-10-29T16:47:16Z",
     "https://www.airliners.de/flughafen-neapel-schliesst-november-bahnsanierung/91187": "2026-10-29T16:47:16Z",
-    "https://www.airliners.de/gewinn-air-china-bricht-dritten-quartal-90-prozent/91189": "2026-10-29T16:47:16Z"
+    "https://www.airliners.de/gewinn-air-china-bricht-dritten-quartal-90-prozent/91189": "2026-10-29T16:47:16Z",
+    "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/": "2026-10-29T16:50:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1571,9 +1572,30 @@
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
       "written_count": 1
+    },
+    "cf5670ae665": {
+      "id": "cf5670ae665",
+      "label": "Air Transat nouvelle ligne Montréal-Istanbul",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-29T16:50:45Z",
+      "updated": "2026-10-29T16:50:45Z",
+      "items": [
+        {
+          "id": "1f9c8cec413c5c7e",
+          "feed": "Simple Flying",
+          "title": "Air Transat Launches New 11-Hour Nonstop Route Today: See Map Now",
+          "url": "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/",
+          "domain": "simpleflying.com",
+          "summary": "Air Transat launches Montreal–Istanbul flights, strengthens its Turkish Airlines partnership, and announces five new European routes for 2027.",
+          "published": "2026-10-29T16:48:13Z"
+        }
+      ],
+      "story_id": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665",
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.025287
+    "2026-10": 0.026483
   }
 }
