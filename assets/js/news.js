@@ -34,7 +34,7 @@
   }
 
   function visible(s) {
-    if (s.hidden) return false;
+    if (s.hidden || s.withdrawn) return false;
     return mode === 'drafts' ? true : s.published === true;
   }
 

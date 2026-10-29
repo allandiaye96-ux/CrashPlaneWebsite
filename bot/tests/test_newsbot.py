@@ -206,3 +206,31 @@ def test_meta_commentary_triggers_rewrite(tmp_news):
 def test_meta_regex():
     assert newsbot.META_RE.search("Les informations ci-dessus ne sont pas recoupées")
     assert not newsbot.META_RE.search("Selon AeroTime, Boeing a livré 50 avions.")
+
+
+def test_copied_passage_detected():
+    src = [{"title": "x", "summary": "Airbus a confirmé, le 28 octobre, son objectif d’environ 870 livraisons d’avions commerciaux en 2026"}]
+    assert newsbot.copied_passage("Airbus a confirmé, le 28 octobre, son objectif d'environ 870 livraisons cette année.", src)
+    assert newsbot.copied_passage("Le constructeur maintient sa cible d'environ 870 appareils livrés en 2026.", src) is None
+
+
+def test_copy_triggers_rewrite(tmp_news):
+    copy = dict(GOOD, chapo="A Boeing 737 with 154 passengers left the runway and people were injured.")
+    assert run(cfg(), [copy, GOOD])["written"] == 1
+
+
+def test_failed_rewrite_withdraws_old_version(tmp_news):
+    run(cfg(publish=True), [GOOD])
+    st = json.loads((tmp_news / "state.json").read_text())
+    for c in st["clusters"].values():
+        c["written_count"] = 0
+    (tmp_news / "state.json").write_text(json.dumps(st))
+    run(cfg(publish=True), [BAD, BAD])
+    s = json.loads((tmp_news / "stories.json").read_text())[0]
+    assert s["withdrawn"] is True
+
+
+def test_existing_copied_story_is_rewritten(tmp_news):
+    copy = dict(GOOD, chapo="A Boeing 737 with 154 passengers left the runway and people were injured.")
+    run(cfg(publish=True), [copy, copy])  # deux essais recopiés : mise de côté, rien publié
+    assert json.loads((tmp_news / "stories.json").read_text()) == []
