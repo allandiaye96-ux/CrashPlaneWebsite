@@ -193,3 +193,16 @@ def test_merge_duplicates_but_not_different_events():
     }
     assert newsbot.merge_similar(cl) == 1
     assert set(cl) == {"a", "c", "d"} and len(cl["a"]["items"]) == 2
+
+
+def test_meta_commentary_triggers_rewrite(tmp_news):
+    meta = dict(GOOD, paragraphes=["L'extrait disponible ne précise pas la cause."])
+    stats = run(cfg(), [meta, GOOD])
+    assert stats["written"] == 1
+    s = json.loads((tmp_news / "stories.json").read_text())[0]
+    assert "extrait" not in " ".join(s["paragraphes"])
+
+
+def test_meta_regex():
+    assert newsbot.META_RE.search("Les informations ci-dessus ne sont pas recoupées")
+    assert not newsbot.META_RE.search("Selon AeroTime, Boeing a livré 50 avions.")
