@@ -1,5 +1,5 @@
 {
-  "publish": false,
+  "publish": true,
   "model_triage": "claude-haiku-5-5",
   "model_writer": "claude-haiku-5-5",
   "price_per_mtok": {
