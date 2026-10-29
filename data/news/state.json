@@ -831,7 +831,9 @@
     "https://simpleflying.com/alaska-airlines-delivery-6th-boeing-787-9-dreamliner/": "2026-10-29T20:40:33Z",
     "https://simpleflying.com/united-airlines-cancels-5-routes-to-canada/": "2026-10-29T20:50:32Z",
     "https://simpleflying.com/why-boeing-757-remain-narrowbody-icon-retired/": "2026-10-29T21:10:34Z",
-    "https://simpleflying.com/westjet-cancels-all-flights-to-2-us-destinations/": "2026-10-29T21:20:35Z"
+    "https://simpleflying.com/westjet-cancels-all-flights-to-2-us-destinations/": "2026-10-29T21:20:35Z",
+    "https://simpleflying.com/delta-air-lines-airbus-a220-sits-50-seats-below-boeing-737-800-30-above-regional-jet/": "2026-10-29T22:01:00Z",
+    "https://www.twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production": "2026-10-29T22:01:00Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1757,9 +1759,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c30d53c00b6": {
+      "id": "c30d53c00b6",
+      "label": "Japon assemblage AMRAAM production AIM-120",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-29T22:01:15Z",
+      "updated": "2026-10-29T22:01:15Z",
+      "items": [
+        {
+          "id": "51fc91169d815985",
+          "feed": "The War Zone",
+          "title": "Japan To Assemble AMRAAM Missiles As U.S. Moves To Dramatically Boost AIM-120 Production",
+          "url": "https://www.twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production",
+          "domain": "twz.com",
+          "summary": "As part of a multibillion-dollar missile-production expansion, Washington and Tokyo also seek to accelerate production of the SM-3 Block IIA interceptor. The post Japan To Assemble AMRAAM Missiles As U.S. Moves To Dramatically Boost AIM-120 Production appeared first on TWZ .",
+          "published": "2026-10-29T21:59:58Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.035617
+    "2026-10": 0.036134
   }
 }

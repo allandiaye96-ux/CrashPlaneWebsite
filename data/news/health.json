@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-29T21:50:34Z",
+  "run": "2026-10-29T22:01:00Z",
   "stats": {
-    "fetched": 693,
-    "new": 0,
+    "fetched": 694,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXGVJEaB9iYUUSUpfZ4E\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXHHVuaECdwFH5KNhHev\"}'"
   },
-  "spend_month_usd": 0.0356,
+  "spend_month_usd": 0.0361,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -72,7 +72,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 34
+      "items": 35
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -342,6 +342,12 @@
     },
     {
       "dossier": "Premier vol M-346 Frecce Tricolori",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Japon assemblage AMRAAM production AIM-120",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
