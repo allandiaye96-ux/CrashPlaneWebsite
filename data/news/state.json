@@ -877,7 +877,9 @@
     "https://avitrader.com/2026/10/30/satair-takes-over-parts-management-for-sabena-technics/": "2026-10-30T09:50:35Z",
     "https://avitrader.com/2026/10/30/boeing-and-lufthansa-technik-extend-tailored-parts-deal/": "2026-10-30T10:01:03Z",
     "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html": "2026-10-30T10:01:03Z",
-    "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/": "2026-10-30T10:10:33Z"
+    "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/": "2026-10-30T10:10:33Z",
+    "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-10-30T10:20:33Z",
+    "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-10-30T10:20:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1723,7 +1725,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-10-29T18:20:49Z",
-      "updated": "2026-10-29T19:20:49Z",
+      "updated": "2026-10-30T10:20:47Z",
       "items": [
         {
           "id": "cd69a9277b1f439a",
@@ -1742,6 +1744,15 @@
           "domain": "aero.de",
           "summary": "SARAJEVO - In dem einstigen Bürgerkriegsland verunglückt ein Helikopter der EU-Friedensmission. Nach bosnischen Angaben kamen mehrere Menschen ums Leben. Bei der Maschine soll es sich um eine CH-47 \"Chinook\" handeln.",
           "published": "2026-10-29T19:13:29Z"
+        },
+        {
+          "id": "ce9f44dd80c78bab",
+          "feed": "AeroTime",
+          "title": "Four killed in Italian Army Chinook crash on EUFOR mission in Bosnia",
+          "url": "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor",
+          "domain": "aerotime.aero",
+          "summary": "Four Italian military personnel were killed, and a further 11 injured, when an Italian Army CH-47 Chinook crashed… The post Four killed in Italian Army Chinook crash on EUFOR mission in Bosnia appeared first on AeroTime .",
+          "published": "2026-10-30T09:47:10Z"
         }
       ],
       "story_id": null,
@@ -2001,6 +2012,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.049658
+    "2026-10": 0.050222
   }
 }
