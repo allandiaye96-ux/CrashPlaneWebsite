@@ -879,7 +879,13 @@
     "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html": "2026-10-30T10:01:03Z",
     "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/": "2026-10-30T10:10:33Z",
     "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-10-30T10:20:33Z",
-    "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-10-30T10:20:33Z"
+    "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-10-30T10:20:33Z",
+    "https://avitrader.com/2026/10/30/turkish-airlines-will-add-two-b777-300ersfs-to-its-fleet/": "2026-10-30T10:40:35Z",
+    "https://www.airliners.de/tap-air-portugal-kuendigt-sommer-2027-island-verbindung/91190": "2026-10-30T10:40:35Z",
+    "https://www.airliners.de/konzertarena-400-millionen-euro-investition-entsteht-flughafen-muenchen/91211": "2026-10-30T10:40:35Z",
+    "https://www.airliners.de/leav-aviation-erweitert-flotte-airbus-a321-dat-lithuania/91212": "2026-10-30T10:40:35Z",
+    "https://www.airliners.de/emirates-nutzt-im-winter-klm-slots-in-dubai-fuer-fluege-nach-helsinki/91214": "2026-10-30T10:40:35Z",
+    "https://www.airliners.de/luxair-q400-anfang-2029-abschaffen-jets-fliegen/91213": "2026-10-30T10:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2012,6 +2018,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.050222
+    "2026-10": 0.050973
   }
 }
