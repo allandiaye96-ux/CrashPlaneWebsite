@@ -874,7 +874,9 @@
     "https://www.airliners.de/zweite-bauetappe-skymetro-zuerich-beginnt-3-november/91208": "2026-10-30T09:40:35Z",
     "https://www.airliners.de/hamburg-airport-schreibt-einzelhandels-gastroflaechen-eu-weit/91209": "2026-10-30T09:40:35Z",
     "https://simpleflying.com/american-united-airlines-continue-price-hikes-solo-travelers-report/": "2026-10-30T09:50:35Z",
-    "https://avitrader.com/2026/10/30/satair-takes-over-parts-management-for-sabena-technics/": "2026-10-30T09:50:35Z"
+    "https://avitrader.com/2026/10/30/satair-takes-over-parts-management-for-sabena-technics/": "2026-10-30T09:50:35Z",
+    "https://avitrader.com/2026/10/30/boeing-and-lufthansa-technik-extend-tailored-parts-deal/": "2026-10-30T10:01:03Z",
+    "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html": "2026-10-30T10:01:03Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1953,9 +1955,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cabd09cbe09": {
+      "id": "cabd09cbe09",
+      "label": "TAP reprise Lisbonne-Caracas",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T10:01:18Z",
+      "updated": "2026-10-30T10:01:18Z",
+      "items": [
+        {
+          "id": "27685bebbe6eaa9e",
+          "feed": "Air Journal",
+          "title": "TAP renoue le lien entre Lisbonne et Caracas",
+          "url": "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html",
+          "domain": "air-journal.fr",
+          "summary": "Après plusieurs mois d’interruption consécutifs aux séismes qui ont endommagé l’aéroport de Caracas, TAP Air Portugal a rétabli, le 27 octobre 2026, sa liaison directe depuis Lisbonne. Deux rotations hebdomadaires desservent désormais la capitale vénézuélienne, un marché étroitement lié à la communauté portugaise du pays. Ce retour s’inscrit dans une reprise progressive des dessertes internationales […]",
+          "published": "2026-10-30T10:00:00Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.048519
+    "2026-10": 0.049108
   }
 }

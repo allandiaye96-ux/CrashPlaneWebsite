@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T09:50:35Z",
+  "run": "2026-10-30T10:01:03Z",
   "stats": {
     "fetched": 694,
     "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYDPuKhEUfcMAas9DWKm\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYECCoSm2VpxKfQUcLHR\"}'"
   },
-  "spend_month_usd": 0.0485,
+  "spend_month_usd": 0.0491,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -378,6 +378,12 @@
     },
     {
       "dossier": "Bremen Terminal 2 après départ Ryanair",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "TAP reprise Lisbonne-Caracas",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null
