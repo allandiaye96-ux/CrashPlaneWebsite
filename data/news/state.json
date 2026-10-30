@@ -858,7 +858,9 @@
     "https://www.airliners.de/embraer-autorisiert-fl-technics-servicebetrieb-e-jets-litauen/91202": "2026-10-30T08:40:34Z",
     "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196": "2026-10-30T08:40:34Z",
     "https://avitrader.com/2026/10/30/austrian-airlines-and-embraer-sign-component-support-deal/": "2026-10-30T08:50:32Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/rolls-royce-aura-le-soutien-du-gouvernement-britannique-pour-son-moteur-ultrafan-30-20261030.html": "2026-10-30T08:50:32Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/rolls-royce-aura-le-soutien-du-gouvernement-britannique-pour-son-moteur-ultrafan-30-20261030.html": "2026-10-30T08:50:32Z",
+    "https://avitrader.com/2026/10/30/boston-medflight-orders-three-airbus-h145-helicopters/": "2026-10-30T09:01:03Z",
+    "https://www.air-journal.fr/2026-10-30-airbaltic-taille-dans-ses-equipages-100-pilotes-et-200-personnels-de-cabine-menaces-5278574.html": "2026-10-30T09:01:03Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1874,9 +1876,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c232e406d25": {
+      "id": "c232e406d25",
+      "label": "airBaltic suppression postes pilotes et cabine",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T09:01:18Z",
+      "updated": "2026-10-30T09:01:18Z",
+      "items": [
+        {
+          "id": "6c6796c79fca9017",
+          "feed": "Air Journal",
+          "title": "AirBaltic taille dans ses équipages : 100 pilotes et 200 personnels de cabine menacés",
+          "url": "https://www.air-journal.fr/2026-10-30-airbaltic-taille-dans-ses-equipages-100-pilotes-et-200-personnels-de-cabine-menaces-5278574.html",
+          "domain": "air-journal.fr",
+          "summary": "La compagnie lettone prévoit de supprimer environ 100 postes de pilotes et 200 postes de personnels de cabine, dans le cadre d’une restructuration accompagnant la réduction de sa flotte d’Airbus A220-300. Les premières notifications individuelles sont attendues à partir du 31 octobre. Alors qu’airBaltic invoque l’adaptation de ses effectifs au programme de vols de 2027, […]",
+          "published": "2026-10-30T09:00:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.045448
+    "2026-10": 0.046011
   }
 }

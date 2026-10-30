@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T08:50:32Z",
+  "run": "2026-10-30T09:01:03Z",
   "stats": {
     "fetched": 694,
     "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY8pETxjMyxRgznegV8f\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY9cqQwKrMVuBCqQUL64\"}'"
   },
-  "spend_month_usd": 0.0454,
+  "spend_month_usd": 0.046,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -360,6 +360,12 @@
     },
     {
       "dossier": "ANA reprise Airdo et Solaseed Air",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "airBaltic suppression postes pilotes et cabine",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null
