@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T22:30:49Z",
+  "run": "2026-10-30T22:40:32Z",
   "stats": {
-    "fetched": 695,
-    "new": 0,
+    "fetched": 696,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZDMunBAE8kT47hJX3pF\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZE77ESP9KvL8BtosmHj\"}'"
   },
-  "spend_month_usd": 0.0769,
+  "spend_month_usd": 0.0775,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -72,7 +72,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 36
+      "items": 37
     },
     "Airbus – Communiqués": {
       "ok": true,
