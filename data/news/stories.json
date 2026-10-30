@@ -1,5 +1,303 @@
 [
   {
+    "id": "2026-10-30-breme-apres-le-depart-de-ryanair-l-aeroport-envisage-de-ferm-6826",
+    "created": "2026-10-30T23:07:37Z",
+    "updated": "2026-10-30T23:07:37Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Brême : après le départ de Ryanair, l'aéroport envisage de fermer son terminal 2",
+    "chapo": "Selon airliners.de, l'aéroport de Brême perdrait un tiers de ses passagers avec le retrait de Ryanair l'an prochain. Son directeur chargé de l'assainissement, Rainer Schwarz, envisage de mettre hors service une partie des installations de traitement des passagers.",
+    "paragraphes": [
+      "D'après airliners.de, le départ de Ryanair, prévu l'année prochaine, priverait la plateforme allemande d'un tiers de sa clientèle. Le média rapporte que la fermeture du terminal 2 est à l'étude.",
+      "Toujours d'après ce média, Rainer Schwarz, directeur général chargé de l'assainissement de l'aéroport, table désormais sur un déficit de 17 millions d'euros. Il souhaite par conséquent désaffecter certaines installations d'enregistrement et d'embarquement."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Nach Ryanair-Abzug: Flughafen Bremen erwägt Schließung von Terminal 2",
+        "url": "https://www.airliners.de/ryanair-abzug-flughafen-bremen-schliessung-terminal-2/91184",
+        "date": "2026-10-30T08:53:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-air-canada-abaisse-sa-prevision-de-resultats-a-cause-du-cout-11b1",
+    "created": "2026-10-30T23:07:33Z",
+    "updated": "2026-10-30T23:07:33Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Canada abaisse sa prévision de résultats à cause du coût du kérosène",
+    "chapo": "Selon airliners.de, Air Canada révise à la baisse sa prévision de résultats, le prix du kérosène augmentant plus vite que celui des billets.",
+    "paragraphes": [
+      "D'après airliners.de, la compagnie canadienne anticipe pour le quatrième trimestre un coût du carburant de 1,72 dollar canadien par litre. Elle tablait jusqu'ici sur 1,29 dollar canadien par litre."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Air Canada senkt Ergebnisprognose wegen teurem Kerosin",
+        "url": "https://www.airliners.de/air-canada-senkt-ergebnisprognose-teurem-kerosin/91204",
+        "date": "2026-10-30T09:08:11Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-ana-holdings-veut-prendre-le-controle-total-des-compagnies-r-85e0",
+    "created": "2026-10-30T23:07:30Z",
+    "updated": "2026-10-30T23:07:30Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "ANA Holdings veut prendre le contrôle total des compagnies régionales Airdo et Solaseed Air",
+    "chapo": "Selon airliners.de, ANA Holdings, maison mère d'ANA All Nippon Airways, souhaite acquérir l'intégralité des compagnies régionales Airdo et Solaseed Air. Un échange d'actions est prévu le 1er avril 2027.",
+    "paragraphes": [
+      "D'après le groupe, cité par le média allemand, ANA Holdings a signé une lettre d'intention, en grande partie non contraignante, avec Regional Plus Wings. Cette holding commune détient les deux transporteurs régionaux.",
+      "L'opération prendrait la forme d'un échange d'actions, dont la date est fixée au 1er avril 2027."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "ANA will Regionalairlines Airdo und Solaseed Air komplett übernehmen",
+        "url": "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196",
+        "date": "2026-10-30T07:47:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
+    "created": "2026-10-29T12:23:20Z",
+    "updated": "2026-10-30T23:07:27Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus confirme son objectif d'environ 870 livraisons en 2026 malgré un troisième trimestre en retrait",
+    "chapo": "Airbus a maintenu son objectif annuel de livraisons d'avions commerciaux, alors que le troisième trimestre a été marqué par un ralentissement, selon AeroTime, Air Journal et Le Journal de l'Aviation.",
+    "paragraphes": [
+      "D'après Air Journal, l'avionneur a confirmé le 28 octobre viser environ 870 livraisons d'avions commerciaux en 2026. À fin septembre, 547 appareils avaient été remis aux clients. AeroTime rapporte que les bénéfices du troisième trimestre ont reculé, en partie à cause de livraisons d'avions commerciaux plus lentes.",
+      "Air Journal indique que les résultats progressent sur neuf mois, mais que le troisième trimestre marque un ralentissement. Le média cite parmi les difficultés l'approvisionnement en moteurs, l'intégration des activités reprises à Spirit AeroSystems et des problèmes ponctuels de qualité.",
+      "Selon Le Journal de l'Aviation, Airbus se dit confiant dans sa capacité à atteindre ses objectifs de l'année, le trimestre ayant été légèrement moins porteur que prévu."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Airbus delivery slowdown squeezes profits, full-year target unchanged",
+        "url": "https://www.aerotime.aero/articles/airbus-nine-month-results-deliveries-proffits",
+        "date": "2026-10-29T11:07:17Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Airbus : 323 avions à livrer en trois mois pour tenir son pari de 2026",
+        "url": "https://www.air-journal.fr/2026-10-29-airbus-323-avions-a-livrer-en-trois-mois-pour-tenir-son-pari-de-2026-5278561.html",
+        "date": "2026-10-29T12:00:00Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Airbus maintient ses objectifs malgré un ralentissement au troisième trimestre",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html",
+        "date": "2026-10-30T08:01:40Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
+    "created": "2026-10-29T16:47:47Z",
+    "updated": "2026-10-30T23:07:23Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Comac prépare les premiers vols d'essai du CE-25A, son démonstrateur d'avion régional électrique",
+    "chapo": "Le constructeur chinois Comac s'apprête à faire voler le CE-25A, un démonstrateur électrique, selon airliners.de. Des images de l'appareil circulent sur les réseaux chinois.",
+    "paragraphes": [
+      "D'après airliners.de, Comac travaille à rendre prêt pour ses premiers vols d'essai un démonstrateur d'avion régional à propulsion électrique, désigné CE-25A. L'information provient du blogueur automobile chinois Han Lu, qui a publié sur son site des photos de l'appareil, depuis largement relayées sur les réseaux en ligne chinois.",
+      "Selon aero.de, l'approche retenue par Comac rappelle le principe de propulsion de l'avion Lilium Jet, qui avait suscité des débats à l'époque. Les premières images du CE-25A circulent sur internet depuis la fin octobre."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Comac bereitet Elektro-Regionalflugzeug auf Testflüge vor",
+        "url": "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201",
+        "date": "2026-10-29T16:26:26Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Comac greift mit der CE-25A den Lilium-Antrieb auf",
+        "url": "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html",
+        "date": "2026-10-30T07:57:41Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
+    "created": "2026-10-29T16:47:50Z",
+    "updated": "2026-10-30T23:07:20Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Groenland : l'aéroport d'Ilulissat inaugure une piste de 2200 mètres accessible aux gros-porteurs",
+    "chapo": "Le Groenland a ouvert le 29 octobre un nouvel aéroport à Ilulissat, doté d'une piste de 2200 mètres, selon airliners.de et le blog de Flightradar24. L'objectif affiché est de soutenir l'économie et d'attirer davantage de touristes.",
+    "paragraphes": [
+      "D'après airliners.de, qui cite l'exploitant, il s'agit du troisième aéroport civil du territoire. Situé dans la troisième ville de l'île, il peut désormais accueillir des avions plus grands grâce à sa nouvelle piste.",
+      "Flightradar24 indique que l'Airbus A330-800 d'Air Greenland baptisé Tuukkaq est arrivé à Ilulissat le jour de l'ouverture, ce qui marque l'arrivée du service gros-porteur sur cette plateforme. L'ancienne piste ne mesurait que 845 mètres. Le média présente cette ouverture comme l'aboutissement de la récente série d'agrandissements des aéroports groenlandais."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
+        "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
+        "date": "2026-10-29T15:42:08Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Ilulissat inaugurates new, longer runway opening the gateway to North Greenland",
+        "url": "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/",
+        "date": "2026-10-29T19:04:03Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-turkish-airlines-va-louer-deux-boeing-777-300ersf-aupres-du-0616",
+    "created": "2026-10-30T23:07:13Z",
+    "updated": "2026-10-30T23:07:13Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Turkish Airlines va louer deux Boeing 777-300ERSF auprès du loueur AerCap",
+    "chapo": "Selon Le Journal de l'Aviation, AerCap a annoncé le 29 octobre un accord avec Turkish Airlines pour la location de deux Boeing 777-300ERSF, des appareils convertis en cargo.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, les deux appareils sont des 777-300ERSF, désignation de la version « Special Freighter » du long-courrier de Boeing. Ils doivent rejoindre la compagnie porte-drapeau turque dans le cadre de ces contrats conclus avec le loueur.",
+      "Le média titre que Turkish Airlines opte « aussi » pour ce modèle de cargo. Le calendrier précis des livraisons n'est pas détaillé ici."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Turkish Airlines opte aussi pour le Boeing 777-300ERSF",
+        "url": "https://www.journal-aviation.com/leasing-et-financement/turkish-airlines-opte-aussi-pour-le-boeing-777-300ersf-20261029.html",
+        "date": "2026-10-29T14:57:17Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e",
+    "created": "2026-10-30T23:07:06Z",
+    "updated": "2026-10-30T23:07:06Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Bosnie : un CH-47F Chinook de l'armée italienne s'écrase près de Brčko, quatre militaires tués selon AeroTime",
+    "chapo": "Un hélicoptère CH-47F Chinook de l'armée italienne, affecté à la mission EUFOR Althea, s'est écrasé le 29 octobre 2026 en Bosnie, près de Brčko. Selon AeroTime, quatre militaires italiens ont été tués et onze autres blessés.",
+    "paragraphes": [
+      "D'après The Aviationist, l'appareil est tombé dans l'après-midi du 29 octobre 2026 près de Gorice, dans la zone de Brčko. Les secours étaient alors sur place. Aero.de rapporte que, selon des indications des autorités bosniaques, plusieurs personnes ont perdu la vie.",
+      "Le bilan précis est donné par AeroTime : quatre morts et onze blessés parmi le personnel militaire italien. Les causes de l'accident ne sont pas établies."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "Developing: Italian CH-47F Chinook Crashes in Bosnia",
+        "url": "https://theaviationist.com/2026/10/29/developing-italian-ch-47f-chinook-crashes-in-bosnia/",
+        "date": "2026-10-29T18:18:36Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "CH-47 Chinook in Bosnien-Herzegowina abgestürzt",
+        "url": "https://www.aero.de/news-54049/CH-47-Chinook-in-Bosnien-Herzegowina-abgestuerzt.html",
+        "date": "2026-10-29T19:13:29Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Four killed in Italian Army Chinook crash on EUFOR mission in Bosnia",
+        "url": "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor",
+        "date": "2026-10-30T09:47:10Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771",
     "created": "2026-10-29T12:23:22Z",
     "updated": "2026-10-29T17:01:33Z",
@@ -90,68 +388,6 @@
         "title": "Air Transat Launches New 11-Hour Nonstop Route Today: See Map Now",
         "url": "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/",
         "date": "2026-10-29T16:48:13Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
-    "created": "2026-10-29T16:47:50Z",
-    "updated": "2026-10-29T16:47:50Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Groenland : un troisième aéroport civil ouvre à Ilulissat avec une piste de 2 200 mètres",
-    "chapo": "Selon airliners.de, le Groenland a ouvert un troisième aéroport civil, à Ilulissat, troisième ville de l'île. Le site indique que la piste permettra aussi l'accueil de plus gros avions.",
-    "paragraphes": [
-      "D'après le média allemand, l'ouverture vise à renforcer l'économie locale et à attirer davantage de touristes. L'exploitant de l'aéroport a annoncé que la piste mesure 2 200 mètres de long.",
-      "Cette nouvelle infrastructure porte à trois le nombre d'aéroports civils du territoire, selon la même source."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
-        "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
-        "date": "2026-10-29T15:42:08Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
-    "created": "2026-10-29T16:47:47Z",
-    "updated": "2026-10-29T16:47:47Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Comac prépare un démonstrateur de avion régional électrique en vue de vols d'essai",
-    "chapo": "Selon le site airliners.de, le constructeur chinois Comac se prépare à faire voler un démonstrateur de avion régional à propulsion électrique. Ces informations proviennent d'un blogueur automobile chinois, Han Lu, qui les a publiées sur son site.",
-    "paragraphes": [
-      "D'après la même publication, l'appareil d'essai est désigné CE-25A. Des photos de cet avion circulent actuellement dans des réseaux sociaux chinois.",
-      "Les informations disponibles à ce stade concernent uniquement la préparation de ce démonstrateur en vue de premiers vols d'essai."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Comac bereitet Elektro-Regionalflugzeug auf Testflüge vor",
-        "url": "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201",
-        "date": "2026-10-29T16:26:26Z",
         "official": false
       }
     ]
@@ -324,45 +560,6 @@
         "official": false
       }
     ]
-  },
-  {
-    "id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
-    "created": "2026-10-29T12:23:20Z",
-    "updated": "2026-10-29T12:23:20Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Airbus : bénéfices en baisse au troisième trimestre, objectif de livraisons 2026 maintenu",
-    "chapo": "Selon AeroTime, Airbus a enregistré une baisse de ses bénéfices au troisième trimestre, en partie liée à un ralentissement des livraisons d'avions commerciaux. Le constructeur maintient néanmoins son objectif annuel.",
-    "paragraphes": [
-      "Airbus a confirmé, le 28 octobre, son objectif d'environ 870 livraisons d'avions commerciaux pour 2026, d'après Air Journal. Le constructeur avait remis 547 appareils à ses clients à fin septembre, ce qui laisse 323 livraisons à réaliser sur les trois derniers mois de l'année.",
-      "Selon Air Journal, les résultats progressent sur neuf mois, mais le troisième trimestre marque un ralentissement. Les difficultés évoquées concernent l'approvisionnement en moteurs, l'intégration des activités reprises à Spirit AeroSystems et des problèmes ponctuels de qualité."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "Airbus delivery slowdown squeezes profits, full-year target unchanged",
-        "url": "https://www.aerotime.aero/articles/airbus-nine-month-results-deliveries-proffits",
-        "date": "2026-10-29T11:07:17Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Airbus : 323 avions à livrer en trois mois pour tenir son pari de 2026",
-        "url": "https://www.air-journal.fr/2026-10-29-airbus-323-avions-a-livrer-en-trois-mois-pour-tenir-son-pari-de-2026-5278561.html",
-        "date": "2026-10-29T12:00:00Z",
-        "official": false
-      }
-    ],
-    "withdrawn": true
   },
   {
     "id": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f",
