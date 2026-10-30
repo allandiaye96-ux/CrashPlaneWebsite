@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T11:30:52Z",
+  "run": "2026-10-30T11:40:33Z",
   "stats": {
     "fetched": 694,
-    "new": 0,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYM3Gtp3AZnkpjn3oyWM\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYMnL13u7A9ATRuBRz7c\"}'"
   },
-  "spend_month_usd": 0.0528,
+  "spend_month_usd": 0.0534,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -396,6 +396,12 @@
     },
     {
       "dossier": "Boeing 777-9 livraisons 2027 retard Lufthansa",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "China Southern résultats T3 perte nette",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null

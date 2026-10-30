@@ -894,7 +894,10 @@
     "https://simpleflying.com/us-airlines-not-happy-cdc-ebola-rules-passengers/": "2026-10-30T11:01:01Z",
     "https://www.air-journal.fr/2026-10-30-orlemur-une-pochette-qui-devient-coussin-de-voyage-a-remplir-avec-ses-propres-vetements-5278420.html": "2026-10-30T11:01:01Z",
     "https://www.air-journal.fr/2026-10-30-avis-google-seuls-deux-aeroports-francais-dans-le-top-100-europeen-dairhelp-5278581.html": "2026-10-30T11:01:01Z",
-    "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-episode-393-the-pieces-are-worth-more-than-the-whole/": "2026-10-30T11:20:34Z"
+    "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-episode-393-the-pieces-are-worth-more-than-the-whole/": "2026-10-30T11:20:34Z",
+    "https://www.airliners.de/china-southern-airlines-rutscht-dritten-quartal-verlustzone/91222": "2026-10-30T11:40:33Z",
+    "https://www.airliners.de/qatar-airways-berlin-doha-dreimal-taeglich-wieder/91221": "2026-10-30T11:40:33Z",
+    "https://www.airliners.de/jobs-der-woche-2026-kw-44/91210": "2026-10-30T11:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2045,9 +2048,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cf02bb34d4a": {
+      "id": "cf02bb34d4a",
+      "label": "China Southern résultats T3 perte nette",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T11:40:49Z",
+      "updated": "2026-10-30T11:40:49Z",
+      "items": [
+        {
+          "id": "e548862241610a26",
+          "feed": "airliners.de",
+          "title": "China Southern Airlines rutscht im dritten Quartal in die Verlustzone",
+          "url": "https://www.airliners.de/china-southern-airlines-rutscht-dritten-quartal-verlustzone/91222",
+          "domain": "airliners.de",
+          "summary": "China Southern Airlines hat im dritten Quartal einen Nettoverlust von 609 Millionen Yuan (rund 82 Millionen Euro). Das teilte die Fluggesellschaft in einer Pflichtmitteilung an die Börse Shanghai mit.",
+          "published": "2026-10-30T11:39:07Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.052802
+    "2026-10": 0.05344
   }
 }
