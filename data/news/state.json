@@ -907,7 +907,10 @@
     "https://www.airliners.de/logg-verbindet-emden-aenischen-esbjerg/91220": "2026-10-30T12:40:33Z",
     "https://www.aerotime.aero/articles/global-oversight-local-action-value-groups-disruption-care-at-scale-video": "2026-10-30T13:30:53Z",
     "https://airlinegeeks.com/2026/10/30/tap-air-portugal-launches-new-u-s-route/": "2026-10-30T13:30:53Z",
-    "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/": "2026-10-30T13:30:53Z"
+    "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/": "2026-10-30T13:30:53Z",
+    "https://www.airliners.de/lufthansa-schliesst-jubilaeumsdesign-a321-neo-hamm/91227": "2026-10-30T13:40:20Z",
+    "https://www.airliners.de/latam-verbindet-genf-april-2027-sao-paulo/91229": "2026-10-30T13:40:20Z",
+    "https://www.airliners.de/air-transat-streicht-toronto-berlin-verbindung-programm/91218": "2026-10-30T13:40:20Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2163,6 +2166,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.057022
+    "2026-10": 0.057696
   }
 }
