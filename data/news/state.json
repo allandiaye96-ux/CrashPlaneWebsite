@@ -899,7 +899,9 @@
     "https://www.airliners.de/qatar-airways-berlin-doha-dreimal-taeglich-wieder/91221": "2026-10-30T11:40:33Z",
     "https://www.airliners.de/jobs-der-woche-2026-kw-44/91210": "2026-10-30T11:40:33Z",
     "https://avitrader.com/2026/10/30/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-10-30T11:50:33Z",
-    "https://www.air-journal.fr/2026-10-30-moteurs-davions-rolls-royce-prepare-son-retour-dans-la-bataille-des-monocouloirs-5278583.html": "2026-10-30T12:01:04Z"
+    "https://www.air-journal.fr/2026-10-30-moteurs-davions-rolls-royce-prepare-son-retour-dans-la-bataille-des-monocouloirs-5278583.html": "2026-10-30T12:01:04Z",
+    "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives": "2026-10-30T12:20:37Z",
+    "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol": "2026-10-30T12:20:37Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2024,7 +2026,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-10-30T10:10:48Z",
-      "updated": "2026-10-30T10:10:48Z",
+      "updated": "2026-10-30T12:20:55Z",
       "items": [
         {
           "id": "9c6142962cdf501b",
@@ -2034,6 +2036,15 @@
           "domain": "avitrader.com",
           "summary": "Archer Aviation and ITA Airways have signed an agreement to develop an all-electric air taxi network in Italy, targeting major cities across the country. The partnership will use Archer’s Midnight electric vertical take-off and landing (eVTOL) aircraft. ITA Airways, Italy’s flag carrier and a member of the Lufthansa Group, serves more than 70 destinations worldwide […] The post Archer and ITA Airways plan Italian air taxi network appeared first on AviTrader Aviation News .",
           "published": "2026-10-30T10:06:10Z"
+        },
+        {
+          "id": "19ed0efe488bdf69",
+          "feed": "AeroTime",
+          "title": "Archer Aviation and ITA Airways unveil plan to bring air taxi network to Italy",
+          "url": "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol",
+          "domain": "aerotime.aero",
+          "summary": "Archer Aviation and ITA Airways are teaming up to develop an electric vehicle takeoff and landing (eVTOL) network,… The post Archer Aviation and ITA Airways unveil plan to bring air taxi network to Italy appeared first on AeroTime .",
+          "published": "2026-10-30T11:41:54Z"
         }
       ],
       "story_id": null,
@@ -2080,9 +2091,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c7cedaf97d9": {
+      "id": "c7cedaf97d9",
+      "label": "Premier FA-50M de la RMAF arrive en Malaisie",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-30T12:20:55Z",
+      "updated": "2026-10-30T12:20:55Z",
+      "items": [
+        {
+          "id": "3a678d5171cf25d8",
+          "feed": "AeroTime",
+          "title": "Malaysia’s first FA-50M fighter arrives ahead of Hawk retirement",
+          "url": "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives",
+          "domain": "aerotime.aero",
+          "summary": "The first FA-50M light combat aircraft for the Royal Malaysian Air Force (RMAF) touched down at Labuan Air… The post Malaysia’s first FA-50M fighter arrives ahead of Hawk retirement appeared first on AeroTime .",
+          "published": "2026-10-30T11:49:44Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.05457
+    "2026-10": 0.055176
   }
 }

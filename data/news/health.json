@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T12:10:33Z",
+  "run": "2026-10-30T12:20:37Z",
   "stats": {
     "fetched": 694,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYQ4ugGRZvuWBY4WAEeF\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYQqizqpjBf16t4CtsUS\"}'"
   },
-  "spend_month_usd": 0.0546,
+  "spend_month_usd": 0.0552,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -227,6 +227,12 @@
       "breve": null
     },
     {
+      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "ARRW production USAF",
       "statut": "signale",
       "editeurs": 1,
@@ -389,12 +395,6 @@
       "breve": null
     },
     {
-      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Boeing 777-9 livraisons 2027 retard Lufthansa",
       "statut": "source_unique",
       "editeurs": 1,
@@ -403,6 +403,12 @@
     {
       "dossier": "China Southern résultats T3 perte nette",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Premier FA-50M de la RMAF arrive en Malaisie",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }
