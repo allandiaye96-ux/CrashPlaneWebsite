@@ -232,6 +232,8 @@ class BudgetExceeded(Exception):
 
 
 class Claude:
+    no_forced_tool: set = set()
+
     def __init__(self, api_key: str, cfg: dict, state: dict):
         self.api_key = api_key
         self.cfg = cfg
@@ -252,20 +254,30 @@ class Claude:
     def call_tool(self, model: str, system: str, user: str, tool: dict, max_tokens: int = 2000) -> dict:
         if self.spent() >= self.cfg["monthly_budget_usd"]:
             raise BudgetExceeded(f"budget mensuel atteint ({self.spent():.2f} $)")
-        out = self._request(model, system, user, tool, max_tokens)
+        forced = model not in self.no_forced_tool
+        try:
+            out = self._request(model, system, user, tool, max_tokens, forced)
+        except RuntimeError as exc:
+            # Certains modèles refusent tool_choice forcé : on retente en mode « auto ».
+            if forced and "tool_choice" in str(exc):
+                self.no_forced_tool.add(model)
+                log(f"  {model} refuse l'outil forcé, passage en mode auto")
+                out = self._request(model, system, user, tool, max_tokens, False)
+            else:
+                raise
         self._record(model, out.get("usage", {}))
         for block in out.get("content", []):
             if block.get("type") == "tool_use" and block.get("name") == tool["name"]:
                 return block["input"]
         raise ValueError("réponse sans appel d'outil")
 
-    def _request(self, model: str, system: str, user: str, tool: dict, max_tokens: int) -> dict:
+    def _request(self, model: str, system: str, user: str, tool: dict, max_tokens: int, forced: bool = True) -> dict:
         body = {
             "model": model,
             "max_tokens": max_tokens,
-            "system": system,
+            "system": system if forced else system + f"\n\nRéponds UNIQUEMENT en appelant l'outil « {tool['name']} »." ,
             "tools": [tool],
-            "tool_choice": {"type": "tool", "name": tool["name"]},
+            "tool_choice": {"type": "tool", "name": tool["name"]} if forced else {"type": "auto"},
             "messages": [{"role": "user", "content": user}],
         }
         data = json.dumps(body).encode()
@@ -557,7 +569,17 @@ def write_story(claude: Claude, cfg: dict, cluster: dict) -> dict | None:
         user += ("\n\nIl n'y a qu'une seule source : attribue clairement l'information à cet éditeur dans le chapô "
                  "et ne présente rien comme un fait établi par ailleurs.")
     for attempt in range(2):
-        out = claude.call_tool(writer_model(claude, cfg), WRITER_SYSTEM, user, WRITER_TOOL, max_tokens=1500)
+        model = writer_model(claude, cfg)
+        try:
+            out = claude.call_tool(model, WRITER_SYSTEM, user, WRITER_TOOL, max_tokens=1500)
+        except BudgetExceeded:
+            raise
+        except Exception as exc:
+            fb = cfg.get("model_writer_fallback", cfg["model_triage"])
+            if model == fb:
+                raise
+            log(f"  rédaction avec {model} impossible ({type(exc).__name__}), repli sur {fb}")
+            out = claude.call_tool(fb, WRITER_SYSTEM, user, WRITER_TOOL, max_tokens=1500)
         text = " ".join([out.get("titre", ""), out.get("chapo", "")] + list(out.get("paragraphes", [])))
         bad = unsupported_numbers(text, sources)
         copied = copied_passage(text, sources)
@@ -672,7 +694,16 @@ def run(cfg: dict, api_key: str | None, fetcher=fetch_feed, claude_cls=Claude) -
             if writes >= cfg["max_writes_per_run"]:
                 break
             log(f"rédaction : {c['label']} ({verif['status']}, {verif['independent_sources']} sources)")
-            draft = write_story(claude, cfg, c)
+            try:
+                draft = write_story(claude, cfg, c)
+            except BudgetExceeded:
+                raise
+            except Exception as exc:  # une brève en échec ne doit pas bloquer les autres
+                stats["errors"] += 1
+                stats["last_error"] = f"{type(exc).__name__}: {str(exc)[:300]}"
+                log(f"  échec de rédaction : {exc}")
+                writes += 1
+                continue
             writes += 1
             if draft is None:
                 stats["held"] += 1
