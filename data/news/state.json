@@ -956,7 +956,9 @@
     "https://www.twz.com/air/highlights-from-north-koreas-drone-a-palooza": "2026-10-30T20:40:32Z",
     "https://simpleflying.com/qantas-airbus-a380-12-crew-bunks-under-economy-seat-70d-2nd-way-out/": "2026-10-30T21:10:38Z",
     "https://theaviationist.com/2026/10/30/ethiopia-receives-first-su-35-fighters/": "2026-10-30T21:20:33Z",
-    "https://airlinegeeks.com/2026/10/30/livery-of-the-week-aer-lingus/": "2026-10-30T21:20:33Z"
+    "https://airlinegeeks.com/2026/10/30/livery-of-the-week-aer-lingus/": "2026-10-30T21:20:33Z",
+    "https://simpleflying.com/american-airlines-delivery-4-new-airbus-a321neo-family-one-week/": "2026-10-30T21:40:33Z",
+    "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims": "2026-10-30T21:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2399,7 +2401,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-10-30T20:40:48Z",
-      "updated": "2026-10-30T20:40:48Z",
+      "updated": "2026-10-30T21:40:50Z",
       "items": [
         {
           "id": "0ebf3b1075f5531b",
@@ -2409,6 +2411,15 @@
           "domain": "theaviationist.com",
           "summary": "The PLA Navy says the GJ-21 has completed its first takeoff and landing aboard the Type 076 amphibious assault ship, which is fitted with an electromagnetic catapult and arresting system. China’s GJ-21 naval Unmanned Combat Aerial Vehicle (UCAV) has reportedly conducted its first takeoff and landing aboard the Type 076 Sichuan amphibious assault ship, the […]",
           "published": "2026-10-30T20:33:14Z"
+        },
+        {
+          "id": "b0920e84647d5e60",
+          "feed": "The War Zone",
+          "title": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims",
+          "url": "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims",
+          "domain": "twz.com",
+          "summary": "Signs that the PLAN has been building up to this significant milestone in naval airpower have been growing for more than a year. The post Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims appeared first on TWZ .",
+          "published": "2026-10-30T21:32:50Z"
         }
       ],
       "story_id": null,
@@ -2416,6 +2427,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.074996
+    "2026-10": 0.075656
   }
 }

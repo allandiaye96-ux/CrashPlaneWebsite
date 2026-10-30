@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T21:30:48Z",
+  "run": "2026-10-30T21:40:33Z",
   "stats": {
     "fetched": 695,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZ8ncFb7bMrwAaFUuqYr\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZ9Y81h6kYSuQ7THvDW7\"}'"
   },
-  "spend_month_usd": 0.075,
+  "spend_month_usd": 0.0757,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -257,6 +257,12 @@
       "breve": null
     },
     {
+      "dossier": "GJ-21 décollage/appontage Type 076",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "Projet de loi protection bases défense contre drones (Australie)",
       "statut": "signale",
       "editeurs": 1,
@@ -462,12 +468,6 @@
     },
     {
       "dossier": "Lufthansa membre d'équipage tué en Inde",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "GJ-21 décollage/appontage Type 076",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
