@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T10:01:03Z",
+  "run": "2026-10-30T10:10:33Z",
   "stats": {
     "fetched": 694,
-    "new": 2,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYECCoSm2VpxKfQUcLHR\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYEvByFY38TdibtNwPSm\"}'"
   },
-  "spend_month_usd": 0.0491,
+  "spend_month_usd": 0.0497,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -384,6 +384,12 @@
     },
     {
       "dossier": "TAP reprise Lisbonne-Caracas",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null

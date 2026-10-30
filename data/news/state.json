@@ -876,7 +876,8 @@
     "https://simpleflying.com/american-united-airlines-continue-price-hikes-solo-travelers-report/": "2026-10-30T09:50:35Z",
     "https://avitrader.com/2026/10/30/satair-takes-over-parts-management-for-sabena-technics/": "2026-10-30T09:50:35Z",
     "https://avitrader.com/2026/10/30/boeing-and-lufthansa-technik-extend-tailored-parts-deal/": "2026-10-30T10:01:03Z",
-    "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html": "2026-10-30T10:01:03Z"
+    "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html": "2026-10-30T10:01:03Z",
+    "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/": "2026-10-30T10:10:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1976,9 +1977,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c28fdb8ecca": {
+      "id": "c28fdb8ecca",
+      "label": "Archer et ITA Airways réseau taxi aérien Italie",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-10-30T10:10:48Z",
+      "updated": "2026-10-30T10:10:48Z",
+      "items": [
+        {
+          "id": "9c6142962cdf501b",
+          "feed": "AviTrader",
+          "title": "Archer and ITA Airways plan Italian air taxi network",
+          "url": "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/",
+          "domain": "avitrader.com",
+          "summary": "Archer Aviation and ITA Airways have signed an agreement to develop an all-electric air taxi network in Italy, targeting major cities across the country. The partnership will use Archer’s Midnight electric vertical take-off and landing (eVTOL) aircraft. ITA Airways, Italy’s flag carrier and a member of the Lufthansa Group, serves more than 70 destinations worldwide […] The post Archer and ITA Airways plan Italian air taxi network appeared first on AviTrader Aviation News .",
+          "published": "2026-10-30T10:06:10Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.049108
+    "2026-10": 0.049658
   }
 }
