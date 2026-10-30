@@ -916,7 +916,9 @@
     "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux": "2026-10-30T14:10:36Z",
     "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue": "2026-10-30T14:10:36Z",
     "https://www.aero.de/news-54054/Lufthansa-D-AIEM-A321neo.html": "2026-10-30T14:20:35Z",
-    "https://simpleflying.com/pilots-plan-for-every-emergency-except-life-after-flying/": "2026-10-30T14:40:33Z"
+    "https://simpleflying.com/pilots-plan-for-every-emergency-except-life-after-flying/": "2026-10-30T14:40:33Z",
+    "https://simpleflying.com/airbus-confirms-first-a380-not-retiring/": "2026-10-30T15:01:04Z",
+    "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2214,6 +2216,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.060114
+    "2026-10": 0.060763
   }
 }
