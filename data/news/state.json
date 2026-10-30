@@ -860,7 +860,9 @@
     "https://avitrader.com/2026/10/30/austrian-airlines-and-embraer-sign-component-support-deal/": "2026-10-30T08:50:32Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/rolls-royce-aura-le-soutien-du-gouvernement-britannique-pour-son-moteur-ultrafan-30-20261030.html": "2026-10-30T08:50:32Z",
     "https://avitrader.com/2026/10/30/boston-medflight-orders-three-airbus-h145-helicopters/": "2026-10-30T09:01:03Z",
-    "https://www.air-journal.fr/2026-10-30-airbaltic-taille-dans-ses-equipages-100-pilotes-et-200-personnels-de-cabine-menaces-5278574.html": "2026-10-30T09:01:03Z"
+    "https://www.air-journal.fr/2026-10-30-airbaltic-taille-dans-ses-equipages-100-pilotes-et-200-personnels-de-cabine-menaces-5278574.html": "2026-10-30T09:01:03Z",
+    "https://simpleflying.com/aircraft-replacing-airbus-a380-in-2026/": "2026-10-30T09:20:32Z",
+    "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak": "2026-10-30T09:20:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1900,6 +1902,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.046011
+    "2026-10": 0.046563
   }
 }
