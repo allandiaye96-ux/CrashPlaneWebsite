@@ -928,7 +928,10 @@
     "https://www.aero.de/news-54057/Neue-Flugverbindung-von-Emden-nach-Daenemark.html": "2026-10-30T16:01:10Z",
     "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings": "2026-10-30T16:10:41Z",
     "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion": "2026-10-30T16:20:34Z",
-    "https://simpleflying.com/scott-kirby-united-americas-emirates-singapore-airlines/": "2026-10-30T16:40:31Z"
+    "https://simpleflying.com/scott-kirby-united-americas-emirates-singapore-airlines/": "2026-10-30T16:40:31Z",
+    "https://simpleflying.com/breeze-airways-launches-8-new-international-routes/": "2026-10-30T17:10:33Z",
+    "https://simpleflying.com/united-airlines-wrote-off-airbus-a320-after-refreshing-next-mod/": "2026-10-30T17:10:33Z",
+    "https://airlinegeeks.com/2026/10/30/air-fares-still-quite-low-a4a-ceo-says/": "2026-10-30T17:10:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2286,6 +2289,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.065679
+    "2026-10": 0.066334
   }
 }
