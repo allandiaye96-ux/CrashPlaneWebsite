@@ -898,7 +898,8 @@
     "https://www.airliners.de/china-southern-airlines-rutscht-dritten-quartal-verlustzone/91222": "2026-10-30T11:40:33Z",
     "https://www.airliners.de/qatar-airways-berlin-doha-dreimal-taeglich-wieder/91221": "2026-10-30T11:40:33Z",
     "https://www.airliners.de/jobs-der-woche-2026-kw-44/91210": "2026-10-30T11:40:33Z",
-    "https://avitrader.com/2026/10/30/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-10-30T11:50:33Z"
+    "https://avitrader.com/2026/10/30/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-10-30T11:50:33Z",
+    "https://www.air-journal.fr/2026-10-30-moteurs-davions-rolls-royce-prepare-son-retour-dans-la-bataille-des-monocouloirs-5278583.html": "2026-10-30T12:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1612,7 +1613,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-10-30T08:50:46Z",
+      "updated": "2026-10-30T12:01:17Z",
       "items": [
         {
           "id": "42bc17afa362418f",
@@ -1631,6 +1632,15 @@
           "domain": "journal-aviation.com",
           "summary": "Rolls-Royce et le gouvernement britannique ont annoncé le 28 octobre un projet de programme conjoint de recherche et de technologie de 2,5 milliards de livres sur dix ans, consacré aux […] L’article Rolls-Royce aura le soutien du gouvernement britannique pour son moteur UltraFan 30 a été publié sur Le Journal de l'Aviation .",
           "published": "2026-10-30T08:45:55Z"
+        },
+        {
+          "id": "32e5e96c4df3d417",
+          "feed": "Air Journal",
+          "title": "Moteurs d’avions : Rolls-Royce prépare son retour dans la bataille des monocouloirs",
+          "url": "https://www.air-journal.fr/2026-10-30-moteurs-davions-rolls-royce-prepare-son-retour-dans-la-bataille-des-monocouloirs-5278583.html",
+          "domain": "air-journal.fr",
+          "summary": "Le gouvernement britannique et Rolls-Royce ont annoncé un programme commun de recherche de 2,5 milliards de livres sur dix ans pour préparer une nouvelle génération de moteurs aéronautiques. En ligne de mire : un retour du motoriste sur le marché des monocouloirs, à l’occasion des futurs programmes d’avions attendus vers le milieu ou la fin […]",
+          "published": "2026-10-30T12:00:02Z"
         }
       ],
       "story_id": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1",
@@ -2073,6 +2083,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.054007
+    "2026-10": 0.05457
   }
 }

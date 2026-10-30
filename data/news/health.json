@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T11:50:33Z",
+  "run": "2026-10-30T12:01:04Z",
   "stats": {
     "fetched": 694,
     "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYNYQxBZR4a1pp75UvGg\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYPLrX6Pc5VzDN81ELZJ\"}'"
   },
-  "spend_month_usd": 0.054,
+  "spend_month_usd": 0.0546,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -107,6 +107,12 @@
       "breve": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17"
     },
     {
+      "dossier": "Rolls-Royce moteur futur monocouloir soutien UK",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -129,12 +135,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097"
-    },
-    {
-      "dossier": "Rolls-Royce moteur futur monocouloir soutien UK",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
     },
     {
       "dossier": "Comac CE-25A avion électrique essais",
