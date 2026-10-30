@@ -1549,7 +1549,7 @@
         }
       ],
       "story_id": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1",
-      "written_count": 1
+      "written_count": 3
     },
     "c41dd1f94f5": {
       "id": "c41dd1f94f5",
@@ -1866,8 +1866,8 @@
           "published": "2026-10-30T15:31:30Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25",
+      "written_count": 2
     },
     "ca32ac611b1": {
       "id": "ca32ac611b1",
@@ -1929,8 +1929,8 @@
           "published": "2026-10-30T10:00:00Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-tap-air-portugal-reprend-ses-vols-directs-vers-caracas-avec-be09",
+      "written_count": 1
     },
     "c28fdb8ecca": {
       "id": "c28fdb8ecca",
@@ -1959,8 +1959,8 @@
           "published": "2026-10-30T11:41:54Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca",
+      "written_count": 2
     },
     "c08aac252b7": {
       "id": "c08aac252b7",
@@ -1980,8 +1980,8 @@
           "published": "2026-10-30T10:47:19Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-lufthansa-prevoit-l-ete-2027-sans-boeing-777-9-et-prolonge-s-52b7",
+      "written_count": 1
     },
     "cf02bb34d4a": {
       "id": "cf02bb34d4a",
@@ -2001,8 +2001,8 @@
           "published": "2026-10-30T11:39:07Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a",
+      "written_count": 1
     },
     "c7cedaf97d9": {
       "id": "c7cedaf97d9",
@@ -2043,8 +2043,8 @@
           "published": "2026-10-30T11:49:56Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-cathay-pacific-53-000-reservations-touchees-par-un-incident-4626",
+      "written_count": 1
     },
     "ca4d5c1ab5a": {
       "id": "ca4d5c1ab5a",
@@ -2094,8 +2094,8 @@
           "published": "2026-10-30T14:00:46Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f",
+      "written_count": 1
     },
     "cb5a4ceec02": {
       "id": "cb5a4ceec02",
@@ -2348,6 +2348,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.157283
+    "2026-10": 0.275903
   }
 }

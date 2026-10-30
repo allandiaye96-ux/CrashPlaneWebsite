@@ -1,5 +1,243 @@
 [
   {
+    "id": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25",
+    "created": "2026-10-30T23:11:39Z",
+    "updated": "2026-10-30T23:11:39Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "airBaltic envisage de se séparer d'une centaine de pilotes et de 200 personnels de cabine",
+    "chapo": "La compagnie lettone airBaltic prépare une réduction de ses effectifs navigants, avec une centaine de pilotes et 200 membres de cabine concernés, selon Air Journal.",
+    "paragraphes": [
+      "Ces suppressions s'inscrivent dans une restructuration liée à la diminution de la flotte d'Airbus A220-300 de la compagnie, d'après Air Journal. Les premières notifications individuelles aux salariés doivent commencer à partir du 31 octobre.",
+      "AirBaltic justifie la démarche par la nécessité d'ajuster ses équipes au programme de vols de 2027. AirlineGeeks évoque pour sa part environ 300 employés potentiellement licenciés et décrit la compagnie comme étant en faillite."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "AirBaltic taille dans ses équipages : 100 pilotes et 200 personnels de cabine menacés",
+        "url": "https://www.air-journal.fr/2026-10-30-airbaltic-taille-dans-ses-equipages-100-pilotes-et-200-personnels-de-cabine-menaces-5278574.html",
+        "date": "2026-10-30T09:00:19Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "AirBaltic Moves to Cut Around 300 Employees",
+        "url": "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/",
+        "date": "2026-10-30T15:31:30Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f",
+    "created": "2026-10-30T23:11:27Z",
+    "updated": "2026-10-30T23:11:27Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "SWISS met fin à sa coopération avec airBaltic et réduit sa flotte affrétée avec équipage",
+    "chapo": "Selon Air Journal, la compagnie du groupe Lufthansa va arrêter son partenariat avec airBaltic à l'issue du programme d'hiver 2026-2027. Elle veut opérer une plus grande part de ses vols avec ses propres moyens dès l'été 2027.",
+    "paragraphes": [
+      "D'après Air Journal, SWISS ramènera sa flotte affrétée avec équipage à environ 18 appareils l'été 2027, contre 26 à l'été 2026. La compagnie souhaite ainsi internaliser une partie des vols aujourd'hui confiés à des partenaires.",
+      "Le média indique que la coopération avec airBaltic prendra fin au terme du programme d'hiver 2026-2027. SWISS prévoirait par ailleurs de renforcer d'autres aspects de son dispositif, sans que le détail soit précisé."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "SWISS tourne la page airBaltic et reprend la main sur ses vols",
+        "url": "https://www.air-journal.fr/2026-10-30-swiss-tourne-la-page-airbaltic-et-reprend-la-main-sur-ses-vols-5278589.html",
+        "date": "2026-10-30T14:00:46Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-cathay-pacific-53-000-reservations-touchees-par-un-incident-4626",
+    "created": "2026-10-30T23:11:20Z",
+    "updated": "2026-10-30T23:11:20Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Cathay Pacific : 53 000 réservations touchées par un incident de sécurité des données chez Amadeus",
+    "chapo": "Selon airliners.de, Cathay Pacific figure parmi les compagnies concernées par l'incident de sécurité des données survenu chez l'éditeur de logiciels Amadeus. Environ 53 000 réservations seraient touchées.",
+    "paragraphes": [
+      "D'après les indications de Cathay Pacific rapportées par le média allemand, les systèmes propres à la compagnie fonctionnent sans perturbation malgré cet incident survenu chez son prestataire.",
+      "Japan Airlines et Asiana Airlines ont elles aussi signalé que des données de clients avaient été compromises, précise airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Cathay Pacific meldet 53.000 betroffene Buchungen nach Datenvorfall bei Amadeus",
+        "url": "https://www.airliners.de/cathay-pacific-53000-buchungen-datenvorfall-amadeus/91225",
+        "date": "2026-10-30T11:49:56Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca",
+    "created": "2026-10-30T23:11:17Z",
+    "updated": "2026-10-30T23:11:17Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Archer Aviation et ITA Airways s'associent pour un réseau de taxis aériens électriques en Italie",
+    "chapo": "Selon AviTrader, Archer Aviation et ITA Airways ont signé un accord pour développer en Italie un réseau de taxis aériens entièrement électriques, visant les grandes villes du pays.",
+    "paragraphes": [
+      "Le projet s'appuiera sur le Midnight, l'appareil électrique à décollage et atterrissage verticaux (eVTOL) d'Archer. AeroTime confirme que les deux entreprises s'associent pour mettre en place ce réseau eVTOL.",
+      "ITA Airways est la compagnie nationale italienne et appartient au groupe Lufthansa. D'après AviTrader, elle dessert plus de 70 destinations dans le monde."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Archer and ITA Airways plan Italian air taxi network",
+        "url": "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/",
+        "date": "2026-10-30T10:06:10Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Archer Aviation and ITA Airways unveil plan to bring air taxi network to Italy",
+        "url": "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol",
+        "date": "2026-10-30T11:41:54Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a",
+    "created": "2026-10-30T23:11:06Z",
+    "updated": "2026-10-30T23:11:06Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "China Southern Airlines passe dans le rouge au troisième trimestre, avec une perte nette de 609 millions de yuans",
+    "chapo": "Selon airliners.de, China Southern Airlines a enregistré une perte nette de 609 millions de yuans au troisième trimestre. La compagnie chinoise l'a annoncé dans une communication obligatoire adressée à la Bourse de Shanghai.",
+    "paragraphes": [
+      "Le média allemand évoque un montant correspondant à environ 82 millions d'euros. La compagnie bascule ainsi en territoire négatif sur la période, d'après le titre de l'article.",
+      "L'information a été transmise par la compagnie à la Bourse de Shanghai dans le cadre de ses obligations de publication."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "China Southern Airlines rutscht im dritten Quartal in die Verlustzone",
+        "url": "https://www.airliners.de/china-southern-airlines-rutscht-dritten-quartal-verlustzone/91222",
+        "date": "2026-10-30T11:39:07Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-lufthansa-prevoit-l-ete-2027-sans-boeing-777-9-et-prolonge-s-52b7",
+    "created": "2026-10-30T23:11:03Z",
+    "updated": "2026-10-30T23:11:03Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa prévoit l'été 2027 sans Boeing 777-9 et prolonge ses Airbus A340-300 à Francfort",
+    "chapo": "Selon aero.de, Lufthansa organise sa saison estivale 2027 sans le Boeing 777-9. Le constructeur vise malgré tout des livraisons à de premiers clients en 2027.",
+    "paragraphes": [
+      "Sur son hub de Francfort, la compagnie allemande compte à nouveau sur des Airbus A340-300, qui bénéficient ainsi d'un nouveau sursis, d'après le média spécialisé.",
+      "Boeing, malgré de nouveaux retards, entend livrer jusqu'à 15 777-9 en 2027 à des exploitants de lancement, dont Lufthansa, indique aero.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Boeing stellt Airlines 2027 bis zu 15 777-9 in Aussicht",
+        "url": "https://www.aero.de/news-54052/Boeing-stellt-Airlines-2027-bis-zu-15-777-9-in-Aussicht.html",
+        "date": "2026-10-30T10:47:19Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-tap-air-portugal-reprend-ses-vols-directs-vers-caracas-avec-be09",
+    "created": "2026-10-30T23:10:52Z",
+    "updated": "2026-10-30T23:10:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "TAP Air Portugal reprend ses vols directs vers Caracas, avec deux fréquences par semaine",
+    "chapo": "Selon Air Journal, la compagnie portugaise a relancé le 27 octobre 2026 sa desserte directe du Venezuela au départ de Lisbonne, suspendue pendant plusieurs mois à la suite de séismes.",
+    "paragraphes": [
+      "D'après Air Journal, l'arrêt de cette ligne faisait suite à des tremblements de terre qui avaient endommagé l'aéroport de la capitale vénézuélienne. Le service est désormais assuré par deux rotations chaque semaine.",
+      "Le média souligne que ce marché est étroitement lié à la communauté portugaise installée dans le pays. Il présente ce retour comme une étape de la reprise progressive des liaisons internationales."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "TAP renoue le lien entre Lisbonne et Caracas",
+        "url": "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html",
+        "date": "2026-10-30T10:00:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-30-breme-apres-le-depart-de-ryanair-l-aeroport-envisage-de-ferm-6826",
     "created": "2026-10-30T23:07:37Z",
     "updated": "2026-10-30T23:07:37Z",
@@ -421,7 +659,8 @@
         "date": "2026-10-29T15:22:50Z",
         "official": false
       }
-    ]
+    ],
+    "withdrawn": true
   },
   {
     "id": "2026-10-29-honeywell-aerospace-des-penuries-de-pieces-limitent-sa-crois-2ca3",

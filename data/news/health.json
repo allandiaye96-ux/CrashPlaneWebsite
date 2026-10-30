@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-30T23:06:48Z",
+  "run": "2026-10-30T23:10:34Z",
   "stats": {
     "fetched": 696,
-    "new": 1,
-    "written": 8,
-    "held": 0,
+    "new": 0,
+    "written": 7,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 0.1573,
+  "spend_month_usd": 0.2759,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -154,6 +154,18 @@
       "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
     },
     {
+      "dossier": "airBaltic suppression postes pilotes et cabine",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25"
+    },
+    {
+      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
+    },
+    {
       "dossier": "Prêt 3,4 milliards Airbus US",
       "statut": "source_unique",
       "editeurs": 1,
@@ -250,19 +262,37 @@
       "breve": "2026-10-30-breme-apres-le-depart-de-ryanair-l-aeroport-envisage-de-ferm-6826"
     },
     {
+      "dossier": "TAP reprise Lisbonne-Caracas",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-tap-air-portugal-reprend-ses-vols-directs-vers-caracas-avec-be09"
+    },
+    {
+      "dossier": "Boeing 777-9 livraisons 2027 retard Lufthansa",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-lufthansa-prevoit-l-ete-2027-sans-boeing-777-9-et-prolonge-s-52b7"
+    },
+    {
+      "dossier": "China Southern résultats T3 perte nette",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a"
+    },
+    {
+      "dossier": "Cathay Pacific incident données Amadeus",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-cathay-pacific-53-000-reservations-touchees-par-un-incident-4626"
+    },
+    {
+      "dossier": "SWISS fin de coopération airBaltic 2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f"
+    },
+    {
       "dossier": "Éthiopie Su-35 et S-400",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "airBaltic suppression postes pilotes et cabine",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
       "statut": "corrobore",
       "editeurs": 2,
       "breve": null
@@ -358,38 +388,8 @@
       "breve": null
     },
     {
-      "dossier": "TAP reprise Lisbonne-Caracas",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Boeing 777-9 livraisons 2027 retard Lufthansa",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "China Southern résultats T3 perte nette",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Premier FA-50M de la RMAF arrive en Malaisie",
       "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Cathay Pacific incident données Amadeus",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "SWISS fin de coopération airBaltic 2027",
-      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     },
