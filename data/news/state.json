@@ -926,7 +926,8 @@
     "https://www.airliners.de/lot-22-jahren-abschied-embraer-170/91231": "2026-10-30T15:40:39Z",
     "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/": "2026-10-30T15:50:34Z",
     "https://www.aero.de/news-54057/Neue-Flugverbindung-von-Emden-nach-Daenemark.html": "2026-10-30T16:01:10Z",
-    "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings": "2026-10-30T16:10:41Z"
+    "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings": "2026-10-30T16:10:41Z",
+    "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion": "2026-10-30T16:20:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2260,9 +2261,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cdf9656b780": {
+      "id": "cdf9656b780",
+      "label": "General Atomics aile volante NextGen hybride-électrique",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-30T16:20:51Z",
+      "updated": "2026-10-30T16:20:51Z",
+      "items": [
+        {
+          "id": "d72e778a44f79c61",
+          "feed": "The War Zone",
+          "title": "General Atomics Developing Strike-Recon Flying Wing Called NextGen That Uses Hybrid-Electric Propulsion",
+          "url": "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion",
+          "domain": "twz.com",
+          "summary": "The company is also aiming to trial an air-to-ground derivative of their FQ-42 Vengeance CCA in live-fire tests next year. The post General Atomics Developing Strike-Recon Flying Wing Called NextGen That Uses Hybrid-Electric Propulsion appeared first on TWZ .",
+          "published": "2026-10-30T16:14:23Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.064467
+    "2026-10": 0.06508
   }
 }
