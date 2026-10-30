@@ -863,7 +863,16 @@
     "https://www.air-journal.fr/2026-10-30-airbaltic-taille-dans-ses-equipages-100-pilotes-et-200-personnels-de-cabine-menaces-5278574.html": "2026-10-30T09:01:03Z",
     "https://simpleflying.com/aircraft-replacing-airbus-a380-in-2026/": "2026-10-30T09:20:32Z",
     "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak": "2026-10-30T09:20:32Z",
-    "https://avitrader.com/2026/10/30/akzonobel-launches-digital-colour-system-mixit/": "2026-10-30T09:30:52Z"
+    "https://avitrader.com/2026/10/30/akzonobel-launches-digital-colour-system-mixit/": "2026-10-30T09:30:52Z",
+    "https://www.airliners.de/china-eastern-airlines-verdient-dritten-quartal-982-prozent/91215": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/airx-ruestet-a340-schnellem-wlan-plant-liegesitze/91197": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/air-canada-senkt-ergebnisprognose-teurem-kerosin/91204": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/bahn-weniger-zuege-puenktlicher-robuster-fahrplan/91205": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/gic-international-catering-oeffnet-november-standort-muenchen/91206": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/indigo-aktie-trotz-quartalsverlust-25-prozent/91207": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/ryanair-abzug-flughafen-bremen-schliessung-terminal-2/91184": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/zweite-bauetappe-skymetro-zuerich-beginnt-3-november/91208": "2026-10-30T09:40:35Z",
+    "https://www.airliners.de/hamburg-airport-schreibt-einzelhandels-gastroflaechen-eu-weit/91209": "2026-10-30T09:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1900,9 +1909,51 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ca32ac611b1": {
+      "id": "ca32ac611b1",
+      "label": "Air Canada baisse prévision résultats kérosène",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T09:40:55Z",
+      "updated": "2026-10-30T09:40:55Z",
+      "items": [
+        {
+          "id": "0f7572555e846056",
+          "feed": "airliners.de",
+          "title": "Air Canada senkt Ergebnisprognose wegen teurem Kerosin",
+          "url": "https://www.airliners.de/air-canada-senkt-ergebnisprognose-teurem-kerosin/91204",
+          "domain": "airliners.de",
+          "summary": "Air Canada senkt ihre Ergebnisprognose, weil die Kerosinkosten schneller steigen als die Ticketpreise. Für das vierte Quartal rechnet die Airline mit 1,72 kanadischen Dollar je Liter statt der bisher erwarteten 1,29.",
+          "published": "2026-10-30T09:08:11Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c47a3226826": {
+      "id": "c47a3226826",
+      "label": "Bremen Terminal 2 après départ Ryanair",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-10-30T09:40:55Z",
+      "updated": "2026-10-30T09:40:55Z",
+      "items": [
+        {
+          "id": "504d47e7b79d77cf",
+          "feed": "airliners.de",
+          "title": "Nach Ryanair-Abzug: Flughafen Bremen erwägt Schließung von Terminal 2",
+          "url": "https://www.airliners.de/ryanair-abzug-flughafen-bremen-schliessung-terminal-2/91184",
+          "domain": "airliners.de",
+          "summary": "Der Bremer Flughafen verliert mit dem Abzug der Ryanair im kommenden Jahr ein Drittel seiner Passagiere. Sanierungsgeschäftsführer Rainer Schwarz kalkuliert nun mit einem Minus von 17 Millionen Euro und will Teile der Abfertigungsanlagen stilllegen.",
+          "published": "2026-10-30T08:53:00Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.047092
+    "2026-10": 0.04794
   }
 }
