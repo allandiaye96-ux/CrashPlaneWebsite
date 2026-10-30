@@ -852,7 +852,8 @@
     "https://www.air-journal.fr/2026-10-30-lille-prague-en-1-h-35-easyjet-ouvre-une-nouvelle-porte-sur-leurope-centrale-5278571.html": "2026-10-30T07:00:59Z",
     "https://simpleflying.com/airbus-a320neo-boeing-737-max-backlogged-embraer-e2-13-15-months-build/": "2026-10-30T08:00:59Z",
     "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html": "2026-10-30T08:00:59Z",
-    "https://www.air-journal.fr/2026-10-30-dix-heures-en-monocouloir-a321xlr-le-pari-long-courrier-dindigo-entre-mumbai-et-amsterdam-5278570.html": "2026-10-30T08:00:59Z"
+    "https://www.air-journal.fr/2026-10-30-dix-heures-en-monocouloir-a321xlr-le-pari-long-courrier-dindigo-entre-mumbai-et-amsterdam-5278570.html": "2026-10-30T08:00:59Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html": "2026-10-30T08:10:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1308,7 +1309,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-10-29T12:23:16Z",
-      "updated": "2026-10-29T12:23:16Z",
+      "updated": "2026-10-30T08:10:44Z",
       "items": [
         {
           "id": "a1cbf2fedbc58725",
@@ -1327,6 +1328,15 @@
           "domain": "air-journal.fr",
           "summary": "Airbus a confirmé, le 28 octobre, son objectif d’environ 870 livraisons d’avions commerciaux en 2026, après en avoir remis 547 à ses clients à fin septembre. Si ses résultats progressent sur neuf mois, le troisième trimestre marque un ralentissement. Approvisionnement en moteurs, intégration des activités reprises à Spirit AeroSystems et difficultés ponctuelles de qualité mettent […]",
           "published": "2026-10-29T12:00:00Z"
+        },
+        {
+          "id": "654c82700ca12e53",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Airbus maintient ses objectifs malgré un ralentissement au troisième trimestre",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html",
+          "domain": "journal-aviation.com",
+          "summary": "Airbus reste confiant en sa capacité à atteindre les objectifs qu’il s’est fixés sur l’année. Si le troisième trimestre a été légèrement moins porteur que prévu en raison des difficultés […] L’article Airbus maintient ses objectifs malgré un ralentissement au troisième trimestre a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-10-30T08:01:40Z"
         }
       ],
       "story_id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
@@ -1832,6 +1842,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.043789
+    "2026-10": 0.04429
   }
 }

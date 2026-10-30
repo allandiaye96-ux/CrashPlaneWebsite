@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T08:00:59Z",
+  "run": "2026-10-30T08:10:32Z",
   "stats": {
     "fetched": 694,
-    "new": 3,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY53D5GQuEdL7FsoepPa\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY5mBd8WJm8k6ULy8yFS\"}'"
   },
-  "spend_month_usd": 0.0438,
+  "spend_month_usd": 0.0443,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -101,6 +101,12 @@
   },
   "dossiers": [
     {
+      "dossier": "Airbus résultats T3 2026 livraisons",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -117,12 +123,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df"
-    },
-    {
-      "dossier": "Airbus résultats T3 2026 livraisons",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17"
     },
     {
       "dossier": "Condor accord pilotes 2029",
