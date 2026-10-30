@@ -45,7 +45,7 @@ def cfg(publish=False):
 class FakeClaude(newsbot.Claude):
     writer_outputs = []
 
-    def _request(self, model, system, user, tool, max_tokens):
+    def _request(self, model, system, user, tool, max_tokens, forced=True):
         usage = {"input_tokens": 1000, "output_tokens": 200}
         return {"usage": usage, "content": [{"type": "tool_use", "name": tool["name"], "input": self._answer(user, tool)}]}
 
@@ -268,3 +268,39 @@ def test_writer_falls_back_to_cheap_model():
     assert newsbot.writer_model(cl, c) == "claude-sonnet-5-5"
     cl.state["spend"][cl.month_key()] = 7.5
     assert newsbot.writer_model(cl, c) == "claude-haiku-5-5"
+
+
+class RejectsForcedTool(FakeClaude):
+    calls = []
+
+    def _request(self, model, system, user, tool, max_tokens, forced=True):
+        RejectsForcedTool.calls.append((model, forced))
+        if forced and model == "claude-sonnet-5-5":
+            raise RuntimeError("API 400: tool_choice: type \"tool\" and \"any\" are not supported for this model.")
+        return super()._request(model, system, user, tool, max_tokens)
+
+
+def test_model_rejecting_forced_tool_still_writes(tmp_news):
+    c = cfg(publish=True)
+    c["model_writer"] = "claude-sonnet-5-5"
+    RejectsForcedTool.writer_outputs = [GOOD]
+    RejectsForcedTool.calls = []
+    newsbot.Claude.no_forced_tool = set()
+    stats = newsbot.run(c, "k", fetcher=lambda u: FEEDS[u], claude_cls=RejectsForcedTool)
+    assert stats["written"] == 1 and stats["errors"] == 0
+    assert ("claude-sonnet-5-5", False) in RejectsForcedTool.calls
+
+
+class AlwaysFailsWriter(FakeClaude):
+    def _request(self, model, system, user, tool, max_tokens, forced=True):
+        if tool["name"] == "publier_breve" and model == "claude-sonnet-5-5":
+            raise RuntimeError("API 500: boom")
+        return super()._request(model, system, user, tool, max_tokens)
+
+
+def test_writer_error_falls_back_to_haiku(tmp_news):
+    c = cfg(publish=True)
+    c["model_writer"] = "claude-sonnet-5-5"
+    AlwaysFailsWriter.writer_outputs = [GOOD]
+    stats = newsbot.run(c, "k", fetcher=lambda u: FEEDS[u], claude_cls=AlwaysFailsWriter)
+    assert stats["written"] == 1
