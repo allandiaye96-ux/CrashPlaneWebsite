@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T15:40:39Z",
+  "run": "2026-10-30T15:50:34Z",
   "stats": {
     "fetched": 694,
-    "new": 2,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYg6MPyzJCAS8s8fQD6R\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYgrJ72CaSxiRqygxTt5\"}'"
   },
-  "spend_month_usd": 0.0627,
+  "spend_month_usd": 0.0633,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -239,6 +239,12 @@
       "breve": null
     },
     {
+      "dossier": "LOT dernier vol Embraer E170",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "ARRW production USAF",
       "statut": "signale",
       "editeurs": 1,
@@ -414,12 +420,6 @@
     },
     {
       "dossier": "Cathay Pacific incident données Amadeus",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "LOT dernier vol Embraer E170",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null

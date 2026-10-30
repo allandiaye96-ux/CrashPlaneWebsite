@@ -923,7 +923,8 @@
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-10-30T15:20:34Z",
     "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z",
     "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/": "2026-10-30T15:40:39Z",
-    "https://www.airliners.de/lot-22-jahren-abschied-embraer-170/91231": "2026-10-30T15:40:39Z"
+    "https://www.airliners.de/lot-22-jahren-abschied-embraer-170/91231": "2026-10-30T15:40:39Z",
+    "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/": "2026-10-30T15:50:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2171,7 +2172,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-30T13:31:09Z",
-      "updated": "2026-10-30T13:31:09Z",
+      "updated": "2026-10-30T15:50:52Z",
       "items": [
         {
           "id": "e910b072126c9a44",
@@ -2181,6 +2182,15 @@
           "domain": "flightradar24.com",
           "summary": "When LOT Polish Airlines flight LO222 touches down in Warsaw from Vienna on the evening of 30 October, it will close a chapter in the airline’s story that began 22 years ago on the very same route. On 17 March 2004, LOT became the first airline in the world to operate an Embraer E170 revenue […] The post Launch customer LOT operates final Embraer E170 flight appeared first on Flightradar24 Blog .",
           "published": "2026-10-30T13:19:38Z"
+        },
+        {
+          "id": "616ee0d00086c7f9",
+          "feed": "Simple Flying",
+          "title": "The E170's First Customer Is Retiring The Type Today",
+          "url": "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/",
+          "domain": "simpleflying.com",
+          "summary": "LOT Polish will fly its last E170 service between Vienna and Warsaw.",
+          "published": "2026-10-30T15:43:16Z"
         }
       ],
       "story_id": null,
@@ -2251,6 +2261,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.062656
+    "2026-10": 0.06325
   }
 }
