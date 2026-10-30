@@ -1,12 +1,12 @@
 {
-  "run": "2026-10-30T21:40:33Z",
+  "run": "2026-10-30T21:50:34Z",
   "stats": {
     "fetched": 695,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZ9Y81h6kYSuQ7THvDW7\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZAJHRCqa2WrgfeKnkFC\"}'"
   },
   "spend_month_usd": 0.0757,
   "feeds": {
@@ -260,36 +260,6 @@
       "dossier": "GJ-21 décollage/appontage Type 076",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Projet de loi protection bases défense contre drones (Australie)",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Test charge AEW LoyalEye MQ-9B",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Campus F-47 Nellis AFB",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Programme HYDEF intercepteur hypersonique européen",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Saab réseau industriel Gripen Canada",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

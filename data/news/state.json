@@ -1105,27 +1105,6 @@
       "story_id": "2026-10-28-western-sydney-airport-l-ouverture-evoquee-dans-un-podcast-d-df03",
       "written_count": 1
     },
-    "cc947539f77": {
-      "id": "cc947539f77",
-      "label": "Projet de loi protection bases défense contre drones (Australie)",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "6f7225537ac1891e",
-          "feed": "Australian Aviation",
-          "title": "Government introduces bill to protect Defence assets from drones",
-          "url": "https://australianaviation.com.au/2026/10/government-introduces-new-bill-to-protect-defence-assets-from-drones/",
-          "domain": "australianaviation.com.au",
-          "summary": "The new legislation is designed to protect Defence bases, personnel and critical assets, as well as to accelerate the development of capability Defence needs to keep Australians safe.",
-          "published": "2026-10-28T03:04:37Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "caa74b8eecc": {
       "id": "caa74b8eecc",
       "label": "Grève TWU personnel au sol Qantas",
@@ -1168,69 +1147,6 @@
       "story_id": "2026-10-28-qantas-assure-son-dernier-vol-commercial-a380-au-depart-de-m-ec0a",
       "written_count": 1
     },
-    "c4baced177f": {
-      "id": "c4baced177f",
-      "label": "Test charge AEW LoyalEye MQ-9B",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "b5c38cf828ea8886",
-          "feed": "The Aviationist",
-          "title": "GA-ASI and Saab Test AEW Payload on MQ-9B",
-          "url": "https://theaviationist.com/2026/10/28/ga-asi-and-saab-test-aew-payload-on-mq-9b/",
-          "domain": "theaviationist.com",
-          "summary": "GA-ASI and Saab are testing the LoyalEye radar installed in the MQ-9B’s new Airborne Early Warning pods, which first flew in May 2026. General Atomics Aeronautical Systems (GA-ASI) and Saab announced that they started the testing of the new Airborne Early Warning (AEW) payload for the MQ-9B Uncrewed Aircraft System (UAS). According to the press […]",
-          "published": "2026-10-28T16:17:37Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
-    "c4577f97d0d": {
-      "id": "c4577f97d0d",
-      "label": "Campus F-47 Nellis AFB",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "55e8867b62a52141",
-          "feed": "The Aviationist",
-          "title": "Plans for $1 Billion F-47 Campus at Nellis AFB Move Forward",
-          "url": "https://theaviationist.com/2026/10/28/nellis-afb-f47-campus/",
-          "domain": "theaviationist.com",
-          "summary": "The U.S. Department of Defense has issued further solicitation to industry ahead of bids being tendered for the construction of support facilities for the Boeing F-47 at Nellis Air Force Base, Nevada. The F-47 Future Campus at Nellis is projected to cost $1.057 billion and potentially involve as many as four different contractors. The chosen […]",
-          "published": "2026-10-28T02:52:55Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
-    "c8f87ff92c1": {
-      "id": "c8f87ff92c1",
-      "label": "Programme HYDEF intercepteur hypersonique européen",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "68e8fade67bd4ca1",
-          "feed": "The Aviationist",
-          "title": "Europe’s HYDEF Hypersonic Interceptor Program Completes First Stage",
-          "url": "https://theaviationist.com/2026/10/27/hydef-hypersonic-interceptor-completes-first-stage/",
-          "domain": "theaviationist.com",
-          "summary": "The program’s first stage is complete, with all critical technologies reaching at least TRL 3 and a technology demonstrator targeted for 2030. The European Hypersonic Defence Interceptor (EU HYDEF) took a major step forward with the completion of its first stage, as announced by the Organization for Joint Armament Cooperation (OCCAR) on Oct. 26, 2026. […]",
-          "published": "2026-10-27T15:30:19Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c870493b2fc": {
       "id": "c870493b2fc",
       "label": "ITOCHU participation IAG Engine Tech",
@@ -1251,27 +1167,6 @@
       ],
       "story_id": "2026-10-28-itochu-va-prendre-une-participation-minoritaire-dans-iag-eng-b2fc",
       "written_count": 1
-    },
-    "c74f135369e": {
-      "id": "c74f135369e",
-      "label": "Saab réseau industriel Gripen Canada",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "12d9f86270089c98",
-          "feed": "AviTrader",
-          "title": "Saab plans Canadian Gripen production network",
-          "url": "https://avitrader.com/2026/10/28/saab-plans-canadian-gripen-production-network/",
-          "domain": "avitrader.com",
-          "summary": "Swedish defence group Saab plans to establish a network of Canadian aerospace companies to build, assemble and support its Gripen E fighter jets if Canada selects the aircraft for its air force. The proposed industrial partnership would create domestic capabilities covering production, final assembly, maintenance, training and long-term support, as well as the further development […] The post Saab plans Canadian Gripen production network appeared first on AviTrader Aviation News .",
-          "published": "2026-10-28T06:58:43Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "cc9869149bf": {
       "id": "cc9869149bf",
