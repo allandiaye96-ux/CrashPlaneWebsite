@@ -931,7 +931,9 @@
     "https://simpleflying.com/scott-kirby-united-americas-emirates-singapore-airlines/": "2026-10-30T16:40:31Z",
     "https://simpleflying.com/breeze-airways-launches-8-new-international-routes/": "2026-10-30T17:10:33Z",
     "https://simpleflying.com/united-airlines-wrote-off-airbus-a320-after-refreshing-next-mod/": "2026-10-30T17:10:33Z",
-    "https://airlinegeeks.com/2026/10/30/air-fares-still-quite-low-a4a-ceo-says/": "2026-10-30T17:10:33Z"
+    "https://airlinegeeks.com/2026/10/30/air-fares-still-quite-low-a4a-ceo-says/": "2026-10-30T17:10:33Z",
+    "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/": "2026-10-30T17:50:35Z",
+    "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades": "2026-10-30T17:50:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2286,9 +2288,51 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cce4de9bb6b": {
+      "id": "cce4de9bb6b",
+      "label": "United Airlines sortie de Tulum",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T17:50:52Z",
+      "updated": "2026-10-30T17:50:52Z",
+      "items": [
+        {
+          "id": "f80bcb3646c47241",
+          "feed": "Simple Flying",
+          "title": "Lights Out: United Airlines To Exit Tulum After Less Than 2 Years Of Service",
+          "url": "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/",
+          "domain": "simpleflying.com",
+          "summary": "Military-run facilities, pricey ground transfers and thin routes highlight challenges facing the new Tulum gateway.",
+          "published": "2026-10-30T17:44:48Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c70b2ba74af": {
+      "id": "c70b2ba74af",
+      "label": "F-16 USAF alerte Shemya Aléoutiennes",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-30T17:50:52Z",
+      "updated": "2026-10-30T17:50:52Z",
+      "items": [
+        {
+          "id": "e32721d9dc323e65",
+          "feed": "The War Zone",
+          "title": "USAF F-16s Back On Alert Duty In Aleutian Islands For First Time In Decades",
+          "url": "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades",
+          "domain": "twz.com",
+          "summary": "NORAD’s return to fighter alert ops on remote Shemya Island is yet another reminder of the eroding security environment in the Pacific and the Arctic. The post USAF F-16s Back On Alert Duty In Aleutian Islands For First Time In Decades appeared first on TWZ .",
+          "published": "2026-10-30T17:50:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.066334
+    "2026-10": 0.066992
   }
 }
