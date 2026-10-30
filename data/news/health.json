@@ -1,18 +1,18 @@
 {
-  "run": "2026-10-30T03:01:06Z",
+  "run": "2026-10-30T03:10:31Z",
   "stats": {
-    "fetched": 694,
+    "fetched": 645,
     "new": 0,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXgAeWj1F3w4eM5ZL5in\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXguSQQqA1ZUJRv8Z26J\"}'"
   },
   "spend_month_usd": 0.0386,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
-      "items": 50
+      "items": 1
     },
     "EASA – Communiqués": {
       "ok": true,
