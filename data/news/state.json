@@ -942,7 +942,14 @@
     "https://simpleflying.com/tsa-precheck-clear-global-entry-program-saves-most-time/": "2026-10-30T19:10:34Z",
     "https://simpleflying.com/southwest-cancels-3-international-routes/": "2026-10-30T19:40:35Z",
     "https://simpleflying.com/frontier-airlines-cancels-all-flights-to-21-destinations/": "2026-10-30T19:40:35Z",
-    "https://simpleflying.com/southwest-airlines-flight-attendant-hired-arrest-warrant-fraud-turns-himself-in/": "2026-10-30T19:50:32Z"
+    "https://simpleflying.com/southwest-airlines-flight-attendant-hired-arrest-warrant-fraud-turns-himself-in/": "2026-10-30T19:50:32Z",
+    "https://simpleflying.com/how-usaf-sustains-222-c-17-globemasters-no-new-builds-2026/": "2026-10-30T20:00:59Z",
+    "https://australianaviation.com.au/2026/10/australian-ai-awards-2026-winners-unveiled/": "2026-10-30T20:00:59Z",
+    "https://australianaviation.com.au/2026/10/exclusive-sydney-curfew-could-leave-business-jets-out-in-the-cold/": "2026-10-30T20:00:59Z",
+    "https://australianaviation.com.au/2026/10/qantas-long-haul-pilots-win-25-pay-bump/": "2026-10-30T20:00:59Z",
+    "https://australianaviation.com.au/2026/10/new-independent-domestic-airport-lounges-to-open-in-sydney-cairns/": "2026-10-30T20:00:59Z",
+    "https://australianaviation.com.au/2026/10/no-price-war-vows-boss-of-vietjets-australian-arm/": "2026-10-30T20:00:59Z",
+    "https://www.aero.de/news-54059/Lufthansa-Crewmitglied-in-Indien-toedlich-verletzt.html": "2026-10-30T20:00:59Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2369,9 +2376,72 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c7379597198": {
+      "id": "c7379597198",
+      "label": "Couvre-feu Sydney business jets",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-10-30T20:01:18Z",
+      "updated": "2026-10-30T20:01:18Z",
+      "items": [
+        {
+          "id": "0184aaf0a86b9fab",
+          "feed": "Australian Aviation",
+          "title": "Exclusive: Sydney curfew could leave business jets out in the cold",
+          "url": "https://australianaviation.com.au/2026/10/exclusive-sydney-curfew-could-leave-business-jets-out-in-the-cold/",
+          "domain": "australianaviation.com.au",
+          "summary": "Speaking exclusively to Australian Aviation, Felix Lester, head of charter operations at Global Jet International, said business jets will have no viable alternative for landing in Sydney between 11pm and 6am when curfew changes come into effect on 1 November.",
+          "published": "2026-10-30T05:51:22Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "cf2b99d3192": {
+      "id": "cf2b99d3192",
+      "label": "Accord pilotes long-courriers Qantas 25%",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T20:01:18Z",
+      "updated": "2026-10-30T20:01:18Z",
+      "items": [
+        {
+          "id": "3f697155c223a250",
+          "feed": "Australian Aviation",
+          "title": "Qantas long-haul pilots win 25% pay bump",
+          "url": "https://australianaviation.com.au/2026/10/qantas-long-haul-pilots-win-25-pay-bump/",
+          "domain": "australianaviation.com.au",
+          "summary": "The new enterprise agreement was supported by 61 per cent of pilots across the Australian and International Pilots Association and the Australian Federation of Airline Pilots and follows the rejection of a previous AIPA-backed offer in April.",
+          "published": "2026-10-30T04:23:01Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c53d882c710": {
+      "id": "c53d882c710",
+      "label": "Lufthansa membre d'équipage tué en Inde",
+      "categorie": "Accident",
+      "importance": 3,
+      "created": "2026-10-30T20:01:18Z",
+      "updated": "2026-10-30T20:01:18Z",
+      "items": [
+        {
+          "id": "6828101d1ba34ecf",
+          "feed": "aero.de",
+          "title": "Lufthansa-Crewmitglied in Indien tödlich verletzt",
+          "url": "https://www.aero.de/news-54059/Lufthansa-Crewmitglied-in-Indien-toedlich-verletzt.html",
+          "domain": "aero.de",
+          "summary": "BENGALURU - Ein schwerer Unfall erschüttert Lufthansa. Ein Mitglied einer Lufthansa-Crew wird bei einem Layover in Indien tödlich verletzt.",
+          "published": "2026-10-30T19:58:55Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.071456
+    "2026-10": 0.072298
   }
 }
