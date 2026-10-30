@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T12:30:52Z",
+  "run": "2026-10-30T12:40:33Z",
   "stats": {
     "fetched": 694,
-    "new": 1,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYRdBNrBrJUB7TAkCyBP\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYSMTa688mggFT7K1JgJ\"}'"
   },
-  "spend_month_usd": 0.0558,
+  "spend_month_usd": 0.0564,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -409,6 +409,12 @@
     {
       "dossier": "Premier FA-50M de la RMAF arrive en Malaisie",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Cathay Pacific incident données Amadeus",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }

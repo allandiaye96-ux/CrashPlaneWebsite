@@ -902,7 +902,9 @@
     "https://www.air-journal.fr/2026-10-30-moteurs-davions-rolls-royce-prepare-son-retour-dans-la-bataille-des-monocouloirs-5278583.html": "2026-10-30T12:01:04Z",
     "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives": "2026-10-30T12:20:37Z",
     "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol": "2026-10-30T12:20:37Z",
-    "https://simpleflying.com/video/westjet-captain-calls-out-seattle-airport-after-737-burns-800-lbs-of-fuel-just-to-reach-the-runway/": "2026-10-30T12:30:52Z"
+    "https://simpleflying.com/video/westjet-captain-calls-out-seattle-airport-after-737-burns-800-lbs-of-fuel-just-to-reach-the-runway/": "2026-10-30T12:30:52Z",
+    "https://www.airliners.de/cathay-pacific-53000-buchungen-datenvorfall-amadeus/91225": "2026-10-30T12:40:33Z",
+    "https://www.airliners.de/logg-verbindet-emden-aenischen-esbjerg/91220": "2026-10-30T12:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2113,9 +2115,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c77cd6f4626": {
+      "id": "c77cd6f4626",
+      "label": "Cathay Pacific incident données Amadeus",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T12:40:46Z",
+      "updated": "2026-10-30T12:40:46Z",
+      "items": [
+        {
+          "id": "ac042734323a48c4",
+          "feed": "airliners.de",
+          "title": "Cathay Pacific meldet 53.000 betroffene Buchungen nach Datenvorfall bei Amadeus",
+          "url": "https://www.airliners.de/cathay-pacific-53000-buchungen-datenvorfall-amadeus/91225",
+          "domain": "airliners.de",
+          "summary": "Cathay Pacific ist vom Datensicherheitsvorfall beim Softwareanbieter Amadeus betroffen. Rund 53.000 Buchungen sind berührt, die eigenen Systeme laufen nach Unternehmensangaben unbeeinträchtigt. Auch Japan Airlines und Asiana Airlines meldeten kompromittierte Kundendaten.",
+          "published": "2026-10-30T11:49:56Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.055753
+    "2026-10": 0.056378
   }
 }
