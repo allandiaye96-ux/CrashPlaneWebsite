@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-30T23:10:34Z",
+  "run": "2026-10-30T23:20:34Z",
   "stats": {
     "fetched": 696,
     "new": 0,
-    "written": 7,
-    "held": 1,
+    "written": 8,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.2759,
+  "spend_month_usd": 0.3579,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -136,6 +136,12 @@
       "breve": "2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df"
     },
     {
+      "dossier": "Éthiopie Su-35 et S-400",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2"
+    },
+    {
       "dossier": "Condor accord pilotes 2029",
       "statut": "corrobore",
       "editeurs": 2,
@@ -164,6 +170,24 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
+    },
+    {
+      "dossier": "LOT dernier vol Embraer E170",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
+    },
+    {
+      "dossier": "FAA fin des exemptions monopilote CE-500",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-30-la-faa-met-fin-aux-derogations-monopilote-des-cessna-citatio-2658"
+    },
+    {
+      "dossier": "GJ-21 décollage/appontage Type 076",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -292,28 +316,28 @@
       "breve": "2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f"
     },
     {
-      "dossier": "Éthiopie Su-35 et S-400",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
+      "dossier": "United Airlines sortie de Tulum",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b"
     },
     {
-      "dossier": "LOT dernier vol Embraer E170",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
+      "dossier": "Couvre-feu Sydney business jets",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-sydney-les-jets-d-affaires-sans-solution-de-repli-avec-le-no-7198"
     },
     {
-      "dossier": "FAA fin des exemptions monopilote CE-500",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
+      "dossier": "Accord pilotes long-courriers Qantas 25%",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192"
     },
     {
-      "dossier": "GJ-21 décollage/appontage Type 076",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
+      "dossier": "Alaska Airlines licenciements 200 employés",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
     },
     {
       "dossier": "Airbus et GCAP après FCAS",
@@ -406,12 +430,6 @@
       "breve": null
     },
     {
-      "dossier": "United Airlines sortie de Tulum",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "F-16 USAF alerte Shemya Aléoutiennes",
       "statut": "signale",
       "editeurs": 1,
@@ -424,26 +442,8 @@
       "breve": null
     },
     {
-      "dossier": "Couvre-feu Sydney business jets",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Accord pilotes long-courriers Qantas 25%",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Lufthansa membre d'équipage tué en Inde",
       "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Alaska Airlines licenciements 200 employés",
-      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }

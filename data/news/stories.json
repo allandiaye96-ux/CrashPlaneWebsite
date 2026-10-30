@@ -1,5 +1,289 @@
 [
   {
+    "id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
+    "created": "2026-10-30T23:21:27Z",
+    "updated": "2026-10-30T23:21:27Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Alaska Airlines supprimerait 200 postes, en raison du coût du carburant et du contexte géopolitique",
+    "chapo": "Selon AirlineGeeks, Alaska s'apprêterait à licencier 200 employés. La compagnie invoquerait la hausse des coûts du carburant et des « défis géopolitiques ».",
+    "paragraphes": [
+      "D'après AirlineGeeks, qui évoque une information rapportée dans la presse, la compagnie Alaska prévoit de se séparer de 200 salariés.",
+      "Toujours d'après ce média, l'entreprise met en avant le renchérissement du carburant ainsi que des difficultés d'ordre géopolitique pour justifier cette décision."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AirlineGeeks",
+        "title": "Report: Alaska to Lay Off 200 Employees",
+        "url": "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/",
+        "date": "2026-10-30T22:02:36Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212",
+    "created": "2026-10-30T23:21:24Z",
+    "updated": "2026-10-30T23:21:24Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Chine : le drone de combat GJ-21 aurait décollé et appontu sur l'assaut amphibie Type 076 Sichuan",
+    "chapo": "La marine chinoise affirme que son drone de combat naval GJ-21 a réalisé un premier décollage et un premier appontage à bord du Type 076 Sichuan, selon The Aviationist et The War Zone.",
+    "paragraphes": [
+      "D'après The Aviationist, la PLA Navy indique que le GJ-21 a effectué son premier décollage et son premier appontage à bord du Type 076 Sichuan. Ce bâtiment d'assaut amphibie est équipé d'une catapulte électromagnétique et d'un système d'arrêt.",
+      "The War Zone présente cette annonce comme une étape importante pour l'aviation navale chinoise. Le média relève que des signes d'une montée en puissance vers ce jalon s'accumulent depuis plus d'un an. Il souligne par ailleurs que l'événement reste, à ce stade, une déclaration de la partie chinoise."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "China Claims GJ-21 Naval UCAV has Flown from Type 076 Sichuan LHD",
+        "url": "https://theaviationist.com/2026/10/30/china-claims-gj-21-ucav-has-flown-from-sichuan/",
+        "date": "2026-10-30T20:33:14Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims",
+        "url": "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims",
+        "date": "2026-10-30T21:32:50Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2",
+    "created": "2026-10-30T23:21:20Z",
+    "updated": "2026-10-30T23:21:20Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "L'Éthiopie reçoit ses premiers Su-35 russes et envisage l'achat de systèmes S-400",
+    "chapo": "Selon AeroTime, l'Éthiopie a reçu ses premiers chasseurs russes Sukhoi Su-35 et prévoit d'acquérir le système de défense aérienne S-400. The Aviationist précise que la remise a eu lieu le 28 octobre 2026.",
+    "paragraphes": [
+      "D'après The Aviationist, le Premier ministre Abiy Ahmed Ali a annoncé par surprise la livraison des premiers Su-35 éthiopiens. Il a diffusé des images de deux des 12 appareils destinés à l'Éthiopie, photographiés à l'aéroport de Joukovski, près de Moscou.",
+      "La remise a eu lieu en marge du troisième sommet Russie-Afrique, toujours selon The Aviationist. AeroTime indique par ailleurs qu'Addis-Abeba envisage d'acquérir le système russe de défense aérienne S-400."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Ethiopia receives first Russian Su-35 fighters, plans S-400 air defense purchase",
+        "url": "https://www.aerotime.aero/articles/ethiopia-receives-first-russian-su-35-fighters-plans-s-400-air-defense-purchase",
+        "date": "2026-10-29T13:05:29Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "Ethiopia Receives First Russian Su-35 Fighters in Moscow",
+        "url": "https://theaviationist.com/2026/10/30/ethiopia-receives-first-su-35-fighters/",
+        "date": "2026-10-30T21:13:29Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192",
+    "created": "2026-10-30T23:21:17Z",
+    "updated": "2026-10-30T23:21:17Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas : les pilotes long-courriers approuvent un nouvel accord d'entreprise assorti d'une hausse de 25 %",
+    "chapo": "Selon Australian Aviation, les pilotes long-courriers de Qantas obtiennent une hausse de salaire de 25 % dans le cadre d'un nouvel accord d'entreprise, approuvé par 61 % des pilotes.",
+    "paragraphes": [
+      "D'après Australian Aviation, le nouvel accord d'entreprise a recueilli le soutien de 61 % des pilotes représentés par l'Australian and International Pilots Association (AIPA) et l'Australian Federation of Airline Pilots (AFAP).",
+      "Ce vote fait suite au rejet, en avril, d'une précédente offre qui avait été soutenue par l'AIPA, précise le média."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas long-haul pilots win 25% pay bump",
+        "url": "https://australianaviation.com.au/2026/10/qantas-long-haul-pilots-win-25-pay-bump/",
+        "date": "2026-10-30T04:23:01Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-sydney-les-jets-d-affaires-sans-solution-de-repli-avec-le-no-7198",
+    "created": "2026-10-30T23:21:14Z",
+    "updated": "2026-10-30T23:21:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Sydney : les jets d'affaires sans solution de repli avec le nouveau couvre-feu, selon un responsable de Global Jet International",
+    "chapo": "Selon Australian Aviation, qui cite en exclusivité Felix Lester, de Global Jet International, les avions d'affaires n'auront aucune alternative viable pour se poser à Sydney la nuit après les changements du couvre-feu.",
+    "paragraphes": [
+      "Felix Lester, responsable des opérations charter chez Global Jet International, affirme que les jets d'affaires ne disposeront d'aucune option réaliste pour atterrir à Sydney entre 11pm et 6am. Cette situation découlerait des modifications du couvre-feu, qui doivent entrer en vigueur le 1er novembre.",
+      "Le média australien présente ces propos comme une déclaration exclusive de ce professionnel du transport aérien à la demande."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Exclusive: Sydney curfew could leave business jets out in the cold",
+        "url": "https://australianaviation.com.au/2026/10/exclusive-sydney-curfew-could-leave-business-jets-out-in-the-cold/",
+        "date": "2026-10-30T05:51:22Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-la-faa-met-fin-aux-derogations-monopilote-des-cessna-citatio-2658",
+    "created": "2026-10-30T23:21:03Z",
+    "updated": "2026-10-30T23:21:03Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "La FAA met fin aux dérogations monopilote des Cessna Citation CE-500, environ 1 250 appareils concernés",
+    "chapo": "La FAA a mis fin aux dérogations qui autorisaient le vol à un seul pilote sur les CE-500, selon AeroTime. D'après Simple Flying, la mesure touche environ 1 250 Cessna Citation.",
+    "paragraphes": [
+      "Simple Flying indique que, dans les faits, les pilotes ne détenaient pas ces dérogations. Le média évoque des défaillances systémiques de formation et de certification mises au jour après des accidents mortels.",
+      "AeroTime consacre à cette décision une analyse de son chroniqueur Ori Gross, pilote de ligne, instructeur de vol et ingénieur. Elle s'interroge sur les changements à prévoir dans le cockpit."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "FAA ends CE-500 single-pilot exemptions. What will change in the cockpit?",
+        "url": "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors",
+        "date": "2026-10-30T15:02:27Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Why The FAA Ended Single-Pilot Exemptions On Roughly 1,250 Cessna Citations: The Pilots Never Held Them",
+        "url": "https://simpleflying.com/why-faa-ended-single-pilot-exemptions-cessna-citations-pilots/",
+        "date": "2026-10-30T18:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b",
+    "created": "2026-10-30T23:20:56Z",
+    "updated": "2026-10-30T23:20:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "United Airlines va quitter Tulum après moins de deux ans de desserte, selon Simple Flying",
+    "chapo": "United Airlines s'apprête à cesser de desservir Tulum, moins de deux ans après le début de son service, rapporte Simple Flying.",
+    "paragraphes": [
+      "D'après Simple Flying, ce retrait met en lumière les difficultés rencontrées par cette nouvelle porte d'entrée aérienne.",
+      "Le média cite notamment des installations gérées par les militaires, des transferts terrestres coûteux et des lignes peu étoffées."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Lights Out: United Airlines To Exit Tulum After Less Than 2 Years Of Service",
+        "url": "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/",
+        "date": "2026-10-30T17:44:48Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
+    "created": "2026-10-30T23:20:52Z",
+    "updated": "2026-10-30T23:20:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "LOT Polish Airlines retire l'Embraer E170, dont elle fut la première cliente, avec un dernier vol Vienne–Varsovie",
+    "chapo": "Selon Flightradar24, le vol LO222 de LOT Polish Airlines entre Vienne et Varsovie, le 30 octobre, marque la fin de l'exploitation de l'Embraer E170 par la compagnie. Simple Flying confirme que ce service est le dernier assuré avec ce type d'appareil.",
+    "paragraphes": [
+      "D'après Flightradar24, le LO222 doit se poser à Varsovie en soirée, en provenance de Vienne. Ce vol referme un chapitre ouvert 22 ans plus tôt, sur cette même liaison.",
+      "Le 17 mars 2004, LOT était devenue la première compagnie au monde à exploiter l'Embraer E170 en service commercial, rappelle le blog. La compagnie polonaise était ainsi cliente de lancement de l'appareil."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Launch customer LOT operates final Embraer E170 flight",
+        "url": "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/",
+        "date": "2026-10-30T13:19:38Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "The E170's First Customer Is Retiring The Type Today",
+        "url": "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/",
+        "date": "2026-10-30T15:43:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25",
     "created": "2026-10-30T23:11:39Z",
     "updated": "2026-10-30T23:11:39Z",

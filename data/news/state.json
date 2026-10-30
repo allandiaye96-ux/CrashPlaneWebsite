@@ -1395,8 +1395,8 @@
           "published": "2026-10-30T21:13:29Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2",
+      "written_count": 2
     },
     "c2e8c9d31ca": {
       "id": "c2e8c9d31ca",
@@ -2073,8 +2073,8 @@
           "published": "2026-10-30T15:43:16Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
+      "written_count": 2
     },
     "cfbec5ee62f": {
       "id": "cfbec5ee62f",
@@ -2145,8 +2145,8 @@
           "published": "2026-10-30T18:00:18Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-la-faa-met-fin-aux-derogations-monopilote-des-cessna-citatio-2658",
+      "written_count": 2
     },
     "cdf9656b780": {
       "id": "cdf9656b780",
@@ -2187,8 +2187,8 @@
           "published": "2026-10-30T17:44:48Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b",
+      "written_count": 1
     },
     "c70b2ba74af": {
       "id": "c70b2ba74af",
@@ -2250,8 +2250,8 @@
           "published": "2026-10-30T05:51:22Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-sydney-les-jets-d-affaires-sans-solution-de-repli-avec-le-no-7198",
+      "written_count": 1
     },
     "cf2b99d3192": {
       "id": "cf2b99d3192",
@@ -2271,8 +2271,8 @@
           "published": "2026-10-30T04:23:01Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192",
+      "written_count": 1
     },
     "c53d882c710": {
       "id": "c53d882c710",
@@ -2322,8 +2322,8 @@
           "published": "2026-10-30T21:32:50Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212",
+      "written_count": 2
     },
     "cb9a6bb95c6": {
       "id": "cb9a6bb95c6",
@@ -2343,11 +2343,11 @@
           "published": "2026-10-30T22:02:36Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.275903
+    "2026-10": 0.357933
   }
 }
