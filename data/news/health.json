@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T14:01:03Z",
+  "run": "2026-10-30T14:10:36Z",
   "stats": {
-    "fetched": 679,
+    "fetched": 694,
     "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYYVYLkq6Kmu2G518f1f\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYZDoevxX8DVeg1ci1FU\"}'"
   },
-  "spend_month_usd": 0.0583,
+  "spend_month_usd": 0.0589,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -43,8 +43,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
@@ -427,6 +427,12 @@
     {
       "dossier": "SWISS fin de coopération airBaltic 2027",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Premier Falcon 8X Archange à Évreux",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }
