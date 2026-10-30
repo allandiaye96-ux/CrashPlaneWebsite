@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T20:30:52Z",
+  "run": "2026-10-30T20:40:32Z",
   "stats": {
     "fetched": 696,
-    "new": 1,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZ4DYZD89oPB2WREUcNS\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZ4xageYfPDPJW7U1PyM\"}'"
   },
-  "spend_month_usd": 0.0729,
+  "spend_month_usd": 0.0737,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -480,6 +480,12 @@
     },
     {
       "dossier": "Lufthansa membre d'équipage tué en Inde",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "GJ-21 décollage/appontage Type 076",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

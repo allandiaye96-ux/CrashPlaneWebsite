@@ -950,7 +950,10 @@
     "https://australianaviation.com.au/2026/10/new-independent-domestic-airport-lounges-to-open-in-sydney-cairns/": "2026-10-30T20:00:59Z",
     "https://australianaviation.com.au/2026/10/no-price-war-vows-boss-of-vietjets-australian-arm/": "2026-10-30T20:00:59Z",
     "https://www.aero.de/news-54059/Lufthansa-Crewmitglied-in-Indien-toedlich-verletzt.html": "2026-10-30T20:00:59Z",
-    "https://simpleflying.com/airline-with-worlds-most-comfortable-premium-economy-seat/": "2026-10-30T20:30:52Z"
+    "https://simpleflying.com/airline-with-worlds-most-comfortable-premium-economy-seat/": "2026-10-30T20:30:52Z",
+    "https://leehamnews.com/2026/10/30/boeings-rough-week-maybe-management-deserves-some-credit/": "2026-10-30T20:40:32Z",
+    "https://theaviationist.com/2026/10/30/china-claims-gj-21-ucav-has-flown-from-sichuan/": "2026-10-30T20:40:32Z",
+    "https://www.twz.com/air/highlights-from-north-koreas-drone-a-palooza": "2026-10-30T20:40:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2440,9 +2443,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "caae4876212": {
+      "id": "caae4876212",
+      "label": "GJ-21 décollage/appontage Type 076",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-30T20:40:48Z",
+      "updated": "2026-10-30T20:40:48Z",
+      "items": [
+        {
+          "id": "0ebf3b1075f5531b",
+          "feed": "The Aviationist",
+          "title": "China Claims GJ-21 Naval UCAV has Flown from Type 076 Sichuan LHD",
+          "url": "https://theaviationist.com/2026/10/30/china-claims-gj-21-ucav-has-flown-from-sichuan/",
+          "domain": "theaviationist.com",
+          "summary": "The PLA Navy says the GJ-21 has completed its first takeoff and landing aboard the Type 076 amphibious assault ship, which is fitted with an electromagnetic catapult and arresting system. China’s GJ-21 naval Unmanned Combat Aerial Vehicle (UCAV) has reportedly conducted its first takeoff and landing aboard the Type 076 Sichuan amphibious assault ship, the […]",
+          "published": "2026-10-30T20:33:14Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.072937
+    "2026-10": 0.073663
   }
 }
