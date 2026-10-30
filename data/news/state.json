@@ -924,7 +924,8 @@
     "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z",
     "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/": "2026-10-30T15:40:39Z",
     "https://www.airliners.de/lot-22-jahren-abschied-embraer-170/91231": "2026-10-30T15:40:39Z",
-    "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/": "2026-10-30T15:50:34Z"
+    "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/": "2026-10-30T15:50:34Z",
+    "https://www.aero.de/news-54057/Neue-Flugverbindung-von-Emden-nach-Daenemark.html": "2026-10-30T16:01:10Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2261,6 +2262,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.06325
+    "2026-10": 0.063859
   }
 }
