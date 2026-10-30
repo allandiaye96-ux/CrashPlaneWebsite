@@ -910,7 +910,9 @@
     "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/": "2026-10-30T13:30:53Z",
     "https://www.airliners.de/lufthansa-schliesst-jubilaeumsdesign-a321-neo-hamm/91227": "2026-10-30T13:40:20Z",
     "https://www.airliners.de/latam-verbindet-genf-april-2027-sao-paulo/91229": "2026-10-30T13:40:20Z",
-    "https://www.airliners.de/air-transat-streicht-toronto-berlin-verbindung-programm/91218": "2026-10-30T13:40:20Z"
+    "https://www.airliners.de/air-transat-streicht-toronto-berlin-verbindung-programm/91218": "2026-10-30T13:40:20Z",
+    "https://simpleflying.com/usaf-paying-more-b-21-production-capacity-before-anyone-approved-145-bombers/": "2026-10-30T14:01:03Z",
+    "https://www.air-journal.fr/2026-10-30-swiss-tourne-la-page-airbaltic-et-reprend-la-main-sur-ses-vols-5278589.html": "2026-10-30T14:01:03Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2163,9 +2165,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cfbec5ee62f": {
+      "id": "cfbec5ee62f",
+      "label": "SWISS fin de coopération airBaltic 2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T14:01:16Z",
+      "updated": "2026-10-30T14:01:16Z",
+      "items": [
+        {
+          "id": "941d344a6e962173",
+          "feed": "Air Journal",
+          "title": "SWISS tourne la page airBaltic et reprend la main sur ses vols",
+          "url": "https://www.air-journal.fr/2026-10-30-swiss-tourne-la-page-airbaltic-et-reprend-la-main-sur-ses-vols-5278589.html",
+          "domain": "air-journal.fr",
+          "summary": "SWISS entend assurer davantage de vols avec ses propres avions et équipages à partir de l’été 2027. La compagnie du groupe Lufthansa ramènera à environ 18 appareils sa flotte affrétée avec équipage, contre 26 à l’été 2026, et mettra fin à sa coopération avec airBaltic au terme du programme d’hiver 2026-2027. Elle renforcera parallèlement son […]",
+          "published": "2026-10-30T14:00:46Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.057696
+    "2026-10": 0.058316
   }
 }

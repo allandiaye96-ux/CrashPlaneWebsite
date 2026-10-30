@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T13:50:34Z",
+  "run": "2026-10-30T14:01:03Z",
   "stats": {
-    "fetched": 694,
-    "new": 0,
+    "fetched": 679,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYXhKADHPFj2rrvVMYUx\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYYVYLkq6Kmu2G518f1f\"}'"
   },
-  "spend_month_usd": 0.0577,
+  "spend_month_usd": 0.0583,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -43,8 +43,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": true,
-      "items": 15
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "AviTrader": {
       "ok": true,
@@ -420,6 +420,12 @@
     },
     {
       "dossier": "LOT dernier vol Embraer E170",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "SWISS fin de coopération airBaltic 2027",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null
