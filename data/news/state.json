@@ -918,7 +918,8 @@
     "https://www.aero.de/news-54054/Lufthansa-D-AIEM-A321neo.html": "2026-10-30T14:20:35Z",
     "https://simpleflying.com/pilots-plan-for-every-emergency-except-life-after-flying/": "2026-10-30T14:40:33Z",
     "https://simpleflying.com/airbus-confirms-first-a380-not-retiring/": "2026-10-30T15:01:04Z",
-    "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z"
+    "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z",
+    "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-10-30T15:10:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2213,9 +2214,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ca590272658": {
+      "id": "ca590272658",
+      "label": "FAA fin des exemptions monopilote CE-500",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-10-30T15:10:48Z",
+      "updated": "2026-10-30T15:10:48Z",
+      "items": [
+        {
+          "id": "d79794af41497ade",
+          "feed": "AeroTime",
+          "title": "FAA ends CE-500 single-pilot exemptions. What will change in the cockpit?",
+          "url": "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors",
+          "domain": "aerotime.aero",
+          "summary": "AeroTime columnist Ori Gross is an airline pilot, flight instructor, and engineer/developer with a background in airline management.… The post FAA ends CE-500 single-pilot exemptions. What will change in the cockpit? appeared first on AeroTime .",
+          "published": "2026-10-30T15:02:27Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.060763
+    "2026-10": 0.06137
   }
 }
