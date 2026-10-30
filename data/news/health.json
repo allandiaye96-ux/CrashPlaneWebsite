@@ -1,12 +1,12 @@
 {
-  "run": "2026-10-30T02:30:50Z",
+  "run": "2026-10-30T02:40:33Z",
   "stats": {
     "fetched": 694,
     "new": 0,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXdsDVP2x5JbnosBsi5M\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgXebtjCxu9hWEFn9pgEz\"}'"
   },
   "spend_month_usd": 0.0386,
   "feeds": {
