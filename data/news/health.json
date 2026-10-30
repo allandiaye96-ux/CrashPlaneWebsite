@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T15:30:51Z",
+  "run": "2026-10-30T15:40:39Z",
   "stats": {
     "fetched": 694,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYfLgxjn1pocM397GjKR\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYg6MPyzJCAS8s8fQD6R\"}'"
   },
-  "spend_month_usd": 0.062,
+  "spend_month_usd": 0.0627,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -227,6 +227,12 @@
       "breve": null
     },
     {
+      "dossier": "airBaltic suppression postes pilotes et cabine",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
       "statut": "corrobore",
       "editeurs": 2,
@@ -366,12 +372,6 @@
     },
     {
       "dossier": "ANA reprise Airdo et Solaseed Air",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "airBaltic suppression postes pilotes et cabine",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null

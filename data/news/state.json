@@ -921,7 +921,9 @@
     "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z",
     "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-10-30T15:10:36Z",
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-10-30T15:20:34Z",
-    "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z"
+    "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z",
+    "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/": "2026-10-30T15:40:39Z",
+    "https://www.airliners.de/lot-22-jahren-abschied-embraer-170/91231": "2026-10-30T15:40:39Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1962,7 +1964,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-30T09:01:18Z",
-      "updated": "2026-10-30T09:01:18Z",
+      "updated": "2026-10-30T15:40:56Z",
       "items": [
         {
           "id": "6c6796c79fca9017",
@@ -1972,6 +1974,15 @@
           "domain": "air-journal.fr",
           "summary": "La compagnie lettone prévoit de supprimer environ 100 postes de pilotes et 200 postes de personnels de cabine, dans le cadre d’une restructuration accompagnant la réduction de sa flotte d’Airbus A220-300. Les premières notifications individuelles sont attendues à partir du 31 octobre. Alors qu’airBaltic invoque l’adaptation de ses effectifs au programme de vols de 2027, […]",
           "published": "2026-10-30T09:00:19Z"
+        },
+        {
+          "id": "26279f2302ebd055",
+          "feed": "AirlineGeeks",
+          "title": "AirBaltic Moves to Cut Around 300 Employees",
+          "url": "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/",
+          "domain": "airlinegeeks.com",
+          "summary": "About 100 pilots and 200 cabin staff could be dismissed as the bankrupt carrier restructures.",
+          "published": "2026-10-30T15:31:30Z"
         }
       ],
       "story_id": null,
@@ -2240,6 +2251,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.062022
+    "2026-10": 0.062656
   }
 }
