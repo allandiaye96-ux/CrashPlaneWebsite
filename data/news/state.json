@@ -919,7 +919,9 @@
     "https://simpleflying.com/pilots-plan-for-every-emergency-except-life-after-flying/": "2026-10-30T14:40:33Z",
     "https://simpleflying.com/airbus-confirms-first-a380-not-retiring/": "2026-10-30T15:01:04Z",
     "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z",
-    "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-10-30T15:10:36Z"
+    "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-10-30T15:10:36Z",
+    "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-10-30T15:20:34Z",
+    "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2238,6 +2240,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.06137
+    "2026-10": 0.062022
   }
 }
