@@ -838,7 +838,8 @@
     "https://simpleflying.com/how-flying-clubs-partnerships-making-aircraft-ownership-affordable/": "2026-10-29T23:01:03Z",
     "https://www.air-journal.fr/2026-10-30-le-30-octobre-1908-dans-le-ciel-une-panne-perturbe-le-vol-du-lebaudy-n-2-5278577.html": "2026-10-29T23:10:32Z",
     "https://simpleflying.com/why-airline-pilots-least-3-horizontal-hours-sleep-longest-flights/": "2026-10-30T00:01:01Z",
-    "https://www.gov.uk/aaib-reports/aaib-statement-on-launcherone-launch-failure": "2026-10-30T00:50:33Z"
+    "https://www.gov.uk/aaib-reports/aaib-statement-on-launcherone-launch-failure": "2026-10-30T00:50:33Z",
+    "https://simpleflying.com/why-airbus-a350-is-no-longer-the-worlds-widest-widebody-twinjet-anymore/": "2026-10-30T01:50:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1809,6 +1810,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.038112
+    "2026-10": 0.038602
   }
 }
