@@ -954,7 +954,9 @@
     "https://leehamnews.com/2026/10/30/boeings-rough-week-maybe-management-deserves-some-credit/": "2026-10-30T20:40:32Z",
     "https://theaviationist.com/2026/10/30/china-claims-gj-21-ucav-has-flown-from-sichuan/": "2026-10-30T20:40:32Z",
     "https://www.twz.com/air/highlights-from-north-koreas-drone-a-palooza": "2026-10-30T20:40:32Z",
-    "https://simpleflying.com/qantas-airbus-a380-12-crew-bunks-under-economy-seat-70d-2nd-way-out/": "2026-10-30T21:10:38Z"
+    "https://simpleflying.com/qantas-airbus-a380-12-crew-bunks-under-economy-seat-70d-2nd-way-out/": "2026-10-30T21:10:38Z",
+    "https://theaviationist.com/2026/10/30/ethiopia-receives-first-su-35-fighters/": "2026-10-30T21:20:33Z",
+    "https://airlinegeeks.com/2026/10/30/livery-of-the-week-aer-lingus/": "2026-10-30T21:20:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -986,27 +988,6 @@
       ],
       "story_id": "2026-10-28-la-dia-publie-une-image-rare-de-l-avion-spatial-reutilisable-d790",
       "written_count": 2
-    },
-    "c8a0003f2aa": {
-      "id": "c8a0003f2aa",
-      "label": "ARRW production USAF",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:16:42Z",
-      "items": [
-        {
-          "id": "fece141ad82473e9",
-          "feed": "AeroTime",
-          "title": "US Air Force puts Lockheed Martin’s troubled hypersonic ARRW into production",
-          "url": "https://www.aerotime.aero/articles/us-air-force-arrw-hypersonic-missile-production-contract",
-          "domain": "aerotime.aero",
-          "summary": "The US Air Force has awarded Lockheed Martin a $694 million contract to produce and field the AGM-183A… The post US Air Force puts Lockheed Martin’s troubled hypersonic ARRW into production appeared first on AeroTime .",
-          "published": "2026-10-28T07:37:17Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "cc2d808e078": {
       "id": "cc2d808e078",
@@ -1101,27 +1082,6 @@
       "story_id": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f",
       "written_count": 2
     },
-    "cdd474e437b": {
-      "id": "cdd474e437b",
-      "label": "Certification Boeing 737-10",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:16:42Z",
-      "items": [
-        {
-          "id": "226ef960e3593d76",
-          "feed": "Aero-News Network",
-          "title": "Airborne 10.22.26: Boeing MAX 737-10 Cert, Perseverance Record, ONEflight Suits",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=75E46634-D497-4D51-B5B8-8A172E9C2EF2",
-          "domain": "aero-news.net",
-          "summary": "Also: Drone Airlift Of Wounded Soldier, 10,000 New Business Jets By 2035?, Red Arrows Leader, Cincinnati TFR Issues FAA officials have signed the official certification documents for the 737-10, marking the final regulatory hurdle in bringing the largest member of the 737 MAX family to operators. The 737-10 offers the best cost per seat of any single-aisle airplane in the market today. It is designed to give operators more capacity while keeping fleet maintenance costs low through shared MAX parts and operational flexibility. The 737 MAX is the first airplane to be certified with full compliance to the 2020 Aircraft Certification, Safety, and Accountability Act (ACSAA). NASA’s Perseverance M",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c2d8fe6df03": {
       "id": "c2d8fe6df03",
       "label": "Ouverture aéroport Western Sydney",
@@ -1142,27 +1102,6 @@
       ],
       "story_id": "2026-10-28-western-sydney-airport-l-ouverture-evoquee-dans-un-podcast-d-df03",
       "written_count": 1
-    },
-    "c0c77c03089": {
-      "id": "c0c77c03089",
-      "label": "Accident Cessna 210N VH-RDH Goolwa",
-      "categorie": "Accident",
-      "importance": 3,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:16:42Z",
-      "items": [
-        {
-          "id": "45a5aa33f1f83aa5",
-          "feed": "Australian Aviation",
-          "title": "Cessna crash instructor had history of unauthorised spins: ATSB",
-          "url": "https://australianaviation.com.au/2026/10/cessna-crash-instructor-had-history-of-unauthorised-spins-atsb/",
-          "domain": "australianaviation.com.au",
-          "summary": "The crash of Cessna 210N VH-RDH near Goolwa, South Australia, on 6 February, which killed all three people on board, was under the supervision of an instructor who had repeatedly conducted spin activity in an aircraft not certified for it, according to investigators.",
-          "published": "2026-10-28T03:51:02Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "cc947539f77": {
       "id": "cc947539f77",
@@ -1533,7 +1472,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-10-29T15:39:45Z",
-      "updated": "2026-10-29T15:39:45Z",
+      "updated": "2026-10-30T21:20:48Z",
       "items": [
         {
           "id": "3d8b7ded81d56ba1",
@@ -1543,6 +1482,15 @@
           "domain": "aerotime.aero",
           "summary": "Ethiopia has received its first Russian Sukhoi Su-35 fighter jets and plans to acquire Russia’s S-400 air defense… The post Ethiopia receives first Russian Su-35 fighters, plans S-400 air defense purchase appeared first on AeroTime .",
           "published": "2026-10-29T13:05:29Z"
+        },
+        {
+          "id": "fd30b1dc2a1bde39",
+          "feed": "The Aviationist",
+          "title": "Ethiopia Receives First Russian Su-35 Fighters in Moscow",
+          "url": "https://theaviationist.com/2026/10/30/ethiopia-receives-first-su-35-fighters/",
+          "domain": "theaviationist.com",
+          "summary": "Prime Minister Abiy Ahmed Ali shared images of two of the 12 Ethiopian Su-35s at Zhukovsky airport near Moscow, delivered on the sidelines of the third Russia-Africa summit. Ethiopia received on Oct. 28, 2026, its first Russian-made Su-35 fighters, according to a surprise announcement made by Prime Minister Abiy Ahmed Ali. The handover ceremony took […]",
+          "published": "2026-10-30T21:13:29Z"
         }
       ],
       "story_id": null,
@@ -2468,6 +2416,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.074314
+    "2026-10": 0.074996
   }
 }

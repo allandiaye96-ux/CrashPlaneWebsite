@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T21:10:38Z",
+  "run": "2026-10-30T21:20:33Z",
   "stats": {
     "fetched": 696,
-    "new": 1,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZ7FcB9Er8cN8ZccEGWt\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZ81YDVTnYbHvrfhnMQE\"}'"
   },
-  "spend_month_usd": 0.0743,
+  "spend_month_usd": 0.075,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -227,6 +227,12 @@
       "breve": null
     },
     {
+      "dossier": "Éthiopie Su-35 et S-400",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "airBaltic suppression postes pilotes et cabine",
       "statut": "corrobore",
       "editeurs": 2,
@@ -248,24 +254,6 @@
       "dossier": "FAA fin des exemptions monopilote CE-500",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "ARRW production USAF",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Certification Boeing 737-10",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Accident Cessna 210N VH-RDH Goolwa",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {
@@ -318,12 +306,6 @@
     },
     {
       "dossier": "Collision Delta A350 / Air Canada 777 LAX",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Éthiopie Su-35 et S-400",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
