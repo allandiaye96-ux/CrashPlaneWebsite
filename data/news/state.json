@@ -959,7 +959,8 @@
     "https://airlinegeeks.com/2026/10/30/livery-of-the-week-aer-lingus/": "2026-10-30T21:20:33Z",
     "https://simpleflying.com/american-airlines-delivery-4-new-airbus-a321neo-family-one-week/": "2026-10-30T21:40:33Z",
     "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims": "2026-10-30T21:40:33Z",
-    "https://simpleflying.com/alaska-airlines-betting-seatback-screen-fraction-seats-transcon-boeing-737-max-10s/": "2026-10-30T22:01:00Z"
+    "https://simpleflying.com/alaska-airlines-betting-seatback-screen-fraction-seats-transcon-boeing-737-max-10s/": "2026-10-30T22:01:00Z",
+    "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/": "2026-10-30T22:10:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2320,9 +2321,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cb9a6bb95c6": {
+      "id": "cb9a6bb95c6",
+      "label": "Alaska Airlines licenciements 200 employés",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T22:10:47Z",
+      "updated": "2026-10-30T22:10:47Z",
+      "items": [
+        {
+          "id": "d4f4072e2e7956d9",
+          "feed": "AirlineGeeks",
+          "title": "Report: Alaska to Lay Off 200 Employees",
+          "url": "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/",
+          "domain": "airlinegeeks.com",
+          "summary": "The company cited higher fuel costs and \"geopolitical challenges.\"",
+          "published": "2026-10-30T22:02:36Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.076256
+    "2026-10": 0.076863
   }
 }

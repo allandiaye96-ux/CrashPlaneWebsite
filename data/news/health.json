@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T22:01:00Z",
+  "run": "2026-10-30T22:10:33Z",
   "stats": {
     "fetched": 695,
     "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZB6EeoAog1kVBRrANGG\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZBpcsTKrtG5DM9gVya9\"}'"
   },
-  "spend_month_usd": 0.0763,
+  "spend_month_usd": 0.0769,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -439,6 +439,12 @@
     {
       "dossier": "Lufthansa membre d'équipage tué en Inde",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Alaska Airlines licenciements 200 employés",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }
