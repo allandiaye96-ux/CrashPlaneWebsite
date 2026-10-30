@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T16:30:49Z",
+  "run": "2026-10-30T16:40:31Z",
   "stats": {
     "fetched": 695,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYjusNhLaauwhe4PF5nJ\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYkezXW5wSHw79evdZTR\"}'"
   },
-  "spend_month_usd": 0.0651,
+  "spend_month_usd": 0.0657,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
