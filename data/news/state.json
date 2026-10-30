@@ -914,7 +914,8 @@
     "https://simpleflying.com/usaf-paying-more-b-21-production-capacity-before-anyone-approved-145-bombers/": "2026-10-30T14:01:03Z",
     "https://www.air-journal.fr/2026-10-30-swiss-tourne-la-page-airbaltic-et-reprend-la-main-sur-ses-vols-5278589.html": "2026-10-30T14:01:03Z",
     "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux": "2026-10-30T14:10:36Z",
-    "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue": "2026-10-30T14:10:36Z"
+    "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue": "2026-10-30T14:10:36Z",
+    "https://www.aero.de/news-54054/Lufthansa-D-AIEM-A321neo.html": "2026-10-30T14:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2212,6 +2213,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.058936
+    "2026-10": 0.05953
   }
 }
