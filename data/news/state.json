@@ -936,7 +936,8 @@
     "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades": "2026-10-30T17:50:35Z",
     "https://simpleflying.com/why-faa-ended-single-pilot-exemptions-cessna-citations-pilots/": "2026-10-30T18:01:03Z",
     "https://simpleflying.com/air-transat-launches-5-new-long-haul-routes/": "2026-10-30T18:20:33Z",
-    "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report": "2026-10-30T18:40:33Z"
+    "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report": "2026-10-30T18:40:33Z",
+    "https://theaviationist.com/2026/10/30/is-italy-about-to-join-the-a400m-club/": "2026-10-30T18:50:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2342,9 +2343,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c746ff8e570": {
+      "id": "c746ff8e570",
+      "label": "Italie envisage l'A400M",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-30T18:50:49Z",
+      "updated": "2026-10-30T18:50:49Z",
+      "items": [
+        {
+          "id": "b2b210c76b7707f3",
+          "feed": "The Aviationist",
+          "title": "Is Italy About to Join the A400M Club?",
+          "url": "https://theaviationist.com/2026/10/30/is-italy-about-to-join-the-a400m-club/",
+          "domain": "theaviationist.com",
+          "summary": "A document titled “Airbus A400M for Italy” was spotted during recent UK-Italy talks about RAF-ItAF cooperation, adding substance to reports that Rome is considering the European cargo aircraft. Years after withdrawing from the program that resulted in the A400M, Italy might be looking again at procuring the European military cargo aircraft. A document appeared in […]",
+          "published": "2026-10-30T18:43:58Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.068853
+    "2026-10": 0.069484
   }
 }
