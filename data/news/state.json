@@ -856,7 +856,9 @@
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html": "2026-10-30T08:10:32Z",
     "https://www.airliners.de/embraer-embraer-195-flotte-austrian-airlines-ersatzteilen/91203": "2026-10-30T08:40:34Z",
     "https://www.airliners.de/embraer-autorisiert-fl-technics-servicebetrieb-e-jets-litauen/91202": "2026-10-30T08:40:34Z",
-    "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196": "2026-10-30T08:40:34Z"
+    "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196": "2026-10-30T08:40:34Z",
+    "https://avitrader.com/2026/10/30/austrian-airlines-and-embraer-sign-component-support-deal/": "2026-10-30T08:50:32Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/rolls-royce-aura-le-soutien-du-gouvernement-britannique-pour-son-moteur-ultrafan-30-20261030.html": "2026-10-30T08:50:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1570,7 +1572,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-10-29T16:47:37Z",
+      "updated": "2026-10-30T08:50:46Z",
       "items": [
         {
           "id": "42bc17afa362418f",
@@ -1580,6 +1582,15 @@
           "domain": "aerotime.aero",
           "summary": "The UK government is backing Rolls-Royce’s ambition to develop and build a new engine for the next generation… The post UK backs Rolls-Royce ambition to build engine for future narrowbody aircraft appeared first on AeroTime .",
           "published": "2026-10-29T15:22:50Z"
+        },
+        {
+          "id": "e97f630dacc3d7bb",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Rolls-Royce aura le soutien du gouvernement britannique pour son moteur UltraFan 30",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/rolls-royce-aura-le-soutien-du-gouvernement-britannique-pour-son-moteur-ultrafan-30-20261030.html",
+          "domain": "journal-aviation.com",
+          "summary": "Rolls-Royce et le gouvernement britannique ont annoncé le 28 octobre un projet de programme conjoint de recherche et de technologie de 2,5 milliards de livres sur dix ans, consacré aux […] L’article Rolls-Royce aura le soutien du gouvernement britannique pour son moteur UltraFan 30 a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-10-30T08:45:55Z"
         }
       ],
       "story_id": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1",
@@ -1866,6 +1877,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.044894
+    "2026-10": 0.045448
   }
 }

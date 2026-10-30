@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T08:40:34Z",
+  "run": "2026-10-30T08:50:32Z",
   "stats": {
     "fetched": 694,
-    "new": 3,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY84PJ3tNao471rHWBbt\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY8pETxjMyxRgznegV8f\"}'"
   },
-  "spend_month_usd": 0.0449,
+  "spend_month_usd": 0.0454,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -131,6 +131,12 @@
       "breve": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097"
     },
     {
+      "dossier": "Rolls-Royce moteur futur monocouloir soutien UK",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
+    },
+    {
       "dossier": "Comac CE-25A avion électrique essais",
       "statut": "corrobore",
       "editeurs": 2,
@@ -207,12 +213,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-29-honeywell-aerospace-des-penuries-de-pieces-limitent-sa-crois-2ca3"
-    },
-    {
-      "dossier": "Rolls-Royce moteur futur monocouloir soutien UK",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
     },
     {
       "dossier": "Air Transat nouvelle ligne Montréal-Istanbul",
