@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T08:30:54Z",
+  "run": "2026-10-30T08:40:34Z",
   "stats": {
     "fetched": 694,
-    "new": 0,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY7LWTVH3xFy8KPQnLbC\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgY84PJ3tNao471rHWBbt\"}'"
   },
-  "spend_month_usd": 0.0443,
+  "spend_month_usd": 0.0449,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -355,6 +355,12 @@
     {
       "dossier": "USAF drones de combat Anduril General Atomics",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "ANA reprise Airdo et Solaseed Air",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }

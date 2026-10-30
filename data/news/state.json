@@ -853,7 +853,10 @@
     "https://simpleflying.com/airbus-a320neo-boeing-737-max-backlogged-embraer-e2-13-15-months-build/": "2026-10-30T08:00:59Z",
     "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html": "2026-10-30T08:00:59Z",
     "https://www.air-journal.fr/2026-10-30-dix-heures-en-monocouloir-a321xlr-le-pari-long-courrier-dindigo-entre-mumbai-et-amsterdam-5278570.html": "2026-10-30T08:00:59Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html": "2026-10-30T08:10:32Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html": "2026-10-30T08:10:32Z",
+    "https://www.airliners.de/embraer-embraer-195-flotte-austrian-airlines-ersatzteilen/91203": "2026-10-30T08:40:34Z",
+    "https://www.airliners.de/embraer-autorisiert-fl-technics-servicebetrieb-e-jets-litauen/91202": "2026-10-30T08:40:34Z",
+    "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196": "2026-10-30T08:40:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1839,9 +1842,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cb9acec85e0": {
+      "id": "cb9acec85e0",
+      "label": "ANA reprise Airdo et Solaseed Air",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-30T08:40:51Z",
+      "updated": "2026-10-30T08:40:51Z",
+      "items": [
+        {
+          "id": "7de9b481953d67be",
+          "feed": "airliners.de",
+          "title": "ANA will Regionalairlines Airdo und Solaseed Air komplett übernehmen",
+          "url": "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196",
+          "domain": "airliners.de",
+          "summary": "Die ANA Holdings, Muttergesellschaft von ANA All Nippon Airways, will die Regionalairlines Airdo und Solaseed Air komplett übernehmen. Wie der Konzern mitteilte, hat er dazu eine weitgehend unverbindliche Absichtserklärung mit deren gemeinsamer Holding Regional Plus Wings unterzeichnet. Der Aktientausch ist für den 1. April 2027 geplant.",
+          "published": "2026-10-30T07:47:00Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.04429
+    "2026-10": 0.044894
   }
 }
