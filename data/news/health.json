@@ -1,14 +1,13 @@
 {
-  "run": "2026-10-30T23:03:19Z",
+  "run": "2026-10-30T23:04:58Z",
   "stats": {
     "fetched": 696,
     "new": 1,
-    "written": 0,
+    "written": 8,
     "held": 0,
-    "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgZFqzirHdVxi4TQwGmSe\"}'"
+    "errors": 0
   },
-  "spend_month_usd": 0.0781,
+  "spend_month_usd": 0.1575,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -111,6 +110,12 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
+    },
+    {
+      "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e"
     },
     {
       "dossier": "Image du spaceplane chinois",
@@ -221,10 +226,28 @@
       "breve": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665"
     },
     {
-      "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": null
+      "dossier": "Turkish Airlines 777-300ERSF via AerCap",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-turkish-airlines-va-louer-deux-boeing-777-300ersf-aupres-du-0616"
+    },
+    {
+      "dossier": "ANA reprise Airdo et Solaseed Air",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-ana-holdings-veut-absorber-completement-les-compagnies-regio-85e0"
+    },
+    {
+      "dossier": "Air Canada baisse prévision résultats kérosène",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-air-canada-abaisse-sa-prevision-de-resultats-a-cause-de-la-h-11b1"
+    },
+    {
+      "dossier": "Bremen Terminal 2 après départ Ryanair",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-30-breme-apres-le-depart-de-ryanair-l-aeroport-envisage-de-ferm-6826"
     },
     {
       "dossier": "Éthiopie Su-35 et S-400",
@@ -299,12 +322,6 @@
       "breve": null
     },
     {
-      "dossier": "Turkish Airlines 777-300ERSF via AerCap",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Pologne MiG-29 et munitions F-16 vers Ukraine",
       "statut": "signale",
       "editeurs": 1,
@@ -337,24 +354,6 @@
     {
       "dossier": "USAF drones de combat Anduril General Atomics",
       "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "ANA reprise Airdo et Solaseed Air",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Air Canada baisse prévision résultats kérosène",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Bremen Terminal 2 après départ Ryanair",
-      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     },

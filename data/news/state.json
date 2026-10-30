@@ -962,7 +962,8 @@
     "https://simpleflying.com/alaska-airlines-betting-seatback-screen-fraction-seats-transcon-boeing-737-max-10s/": "2026-10-30T22:01:00Z",
     "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/": "2026-10-30T22:10:33Z",
     "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213": "2026-10-30T22:40:32Z",
-    "https://simpleflying.com/premium-economy-yesterday-standard-economy-pitch-shrank/": "2026-10-30T23:03:19Z"
+    "https://simpleflying.com/premium-economy-yesterday-standard-economy-pitch-shrank/": "2026-10-30T23:03:19Z",
+    "https://www.air-journal.fr/2026-10-31-le-31-octobre-1909-dans-le-ciel-meeting-de-saint-etienne-le-public-en-colere-face-au-fiasco-5278595.html": "2026-10-30T23:04:58Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1281,7 +1282,7 @@
         }
       ],
       "story_id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
-      "written_count": 2
+      "written_count": 3
     },
     "c84b2cf80c4": {
       "id": "c84b2cf80c4",
@@ -1578,7 +1579,7 @@
         }
       ],
       "story_id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
-      "written_count": 1
+      "written_count": 2
     },
     "c61532f62a2": {
       "id": "c61532f62a2",
@@ -1608,7 +1609,7 @@
         }
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
-      "written_count": 1
+      "written_count": 2
     },
     "cf5670ae665": {
       "id": "cf5670ae665",
@@ -1649,8 +1650,8 @@
           "published": "2026-10-29T14:57:17Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-turkish-airlines-va-louer-deux-boeing-777-300ersf-aupres-du-0616",
+      "written_count": 1
     },
     "c165f256c0e": {
       "id": "c165f256c0e",
@@ -1688,8 +1689,8 @@
           "published": "2026-10-30T09:47:10Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e",
+      "written_count": 3
     },
     "c34d10e3b21": {
       "id": "c34d10e3b21",
@@ -1835,8 +1836,8 @@
           "published": "2026-10-30T07:47:00Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-ana-holdings-veut-absorber-completement-les-compagnies-regio-85e0",
+      "written_count": 1
     },
     "c232e406d25": {
       "id": "c232e406d25",
@@ -1886,8 +1887,8 @@
           "published": "2026-10-30T09:08:11Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-air-canada-abaisse-sa-prevision-de-resultats-a-cause-de-la-h-11b1",
+      "written_count": 1
     },
     "c47a3226826": {
       "id": "c47a3226826",
@@ -1907,8 +1908,8 @@
           "published": "2026-10-30T08:53:00Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-30-breme-apres-le-depart-de-ryanair-l-aeroport-envisage-de-ferm-6826",
+      "written_count": 1
     },
     "cabd09cbe09": {
       "id": "cabd09cbe09",
@@ -2347,6 +2348,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.078068
+    "2026-10": 0.157543
   }
 }
