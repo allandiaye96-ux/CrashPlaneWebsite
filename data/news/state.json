@@ -925,7 +925,8 @@
     "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/": "2026-10-30T15:40:39Z",
     "https://www.airliners.de/lot-22-jahren-abschied-embraer-170/91231": "2026-10-30T15:40:39Z",
     "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/": "2026-10-30T15:50:34Z",
-    "https://www.aero.de/news-54057/Neue-Flugverbindung-von-Emden-nach-Daenemark.html": "2026-10-30T16:01:10Z"
+    "https://www.aero.de/news-54057/Neue-Flugverbindung-von-Emden-nach-Daenemark.html": "2026-10-30T16:01:10Z",
+    "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings": "2026-10-30T16:10:41Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2262,6 +2263,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.063859
+    "2026-10": 0.064467
   }
 }
