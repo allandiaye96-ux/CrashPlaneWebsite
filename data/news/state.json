@@ -933,7 +933,8 @@
     "https://simpleflying.com/united-airlines-wrote-off-airbus-a320-after-refreshing-next-mod/": "2026-10-30T17:10:33Z",
     "https://airlinegeeks.com/2026/10/30/air-fares-still-quite-low-a4a-ceo-says/": "2026-10-30T17:10:33Z",
     "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/": "2026-10-30T17:50:35Z",
-    "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades": "2026-10-30T17:50:35Z"
+    "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades": "2026-10-30T17:50:35Z",
+    "https://simpleflying.com/why-faa-ended-single-pilot-exemptions-cessna-citations-pilots/": "2026-10-30T18:01:03Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2253,7 +2254,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-10-30T15:10:48Z",
-      "updated": "2026-10-30T15:10:48Z",
+      "updated": "2026-10-30T18:01:18Z",
       "items": [
         {
           "id": "d79794af41497ade",
@@ -2263,6 +2264,15 @@
           "domain": "aerotime.aero",
           "summary": "AeroTime columnist Ori Gross is an airline pilot, flight instructor, and engineer/developer with a background in airline management.… The post FAA ends CE-500 single-pilot exemptions. What will change in the cockpit? appeared first on AeroTime .",
           "published": "2026-10-30T15:02:27Z"
+        },
+        {
+          "id": "cc09bdb19c3d44f9",
+          "feed": "Simple Flying",
+          "title": "Why The FAA Ended Single-Pilot Exemptions On Roughly 1,250 Cessna Citations: The Pilots Never Held Them",
+          "url": "https://simpleflying.com/why-faa-ended-single-pilot-exemptions-cessna-citations-pilots/",
+          "domain": "simpleflying.com",
+          "summary": "Systemic training and certification failures are found in the wake of fatal crashes.",
+          "published": "2026-10-30T18:00:18Z"
         }
       ],
       "story_id": null,
@@ -2333,6 +2343,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.066992
+    "2026-10": 0.067611
   }
 }

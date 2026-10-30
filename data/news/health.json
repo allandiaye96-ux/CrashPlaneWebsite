@@ -1,14 +1,14 @@
 {
-  "run": "2026-10-30T17:50:35Z",
+  "run": "2026-10-30T18:01:03Z",
   "stats": {
     "fetched": 695,
-    "new": 2,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 1,
-    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYr11nYjm1Y68wapRPLU\"}'"
+    "last_error": "RuntimeError: API 400: b'{\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tool_choice: type \\\\\"tool\\\\\" and \\\\\"any\\\\\" are not supported for this model.\"},\"request_id\":\"req_011CgYro8TfBQesXt9zoD2LE\"}'"
   },
-  "spend_month_usd": 0.067,
+  "spend_month_usd": 0.0676,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -245,6 +245,12 @@
       "breve": null
     },
     {
+      "dossier": "FAA fin des exemptions monopilote CE-500",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "ARRW production USAF",
       "statut": "signale",
       "editeurs": 1,
@@ -432,12 +438,6 @@
     },
     {
       "dossier": "Premier Falcon 8X Archange à Évreux",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "FAA fin des exemptions monopilote CE-500",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
