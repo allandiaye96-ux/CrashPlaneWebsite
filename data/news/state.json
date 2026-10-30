@@ -843,7 +843,8 @@
     "https://www.airliners.de/sun-express-schaltet-sommerflugplan-2027-grossbritannien-irland/91194": "2026-10-30T03:40:34Z",
     "https://www.airliners.de/united-airlines-bringt-menues-business-class/91192": "2026-10-30T04:40:34Z",
     "https://simpleflying.com/5-minute-cabin-sweep-flight-attendants-after-landing-never-get-back-on-plane/": "2026-10-30T05:01:01Z",
-    "https://www.aero.de/news-54034/Am-Flughafen-Muenchen-entsteht-eine-Konzerthalle.html": "2026-10-30T05:30:47Z"
+    "https://www.aero.de/news-54034/Am-Flughafen-Muenchen-entsteht-eine-Konzerthalle.html": "2026-10-30T05:30:47Z",
+    "https://www.airliners.de/air-europa-buendelt-wartung-neuer-technik-tochter/91183": "2026-10-30T05:40:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1814,6 +1815,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.040615
+    "2026-10": 0.041124
   }
 }
