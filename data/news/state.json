@@ -1676,27 +1676,6 @@
       "story_id": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e",
       "written_count": 3
     },
-    "c26a53d13ba": {
-      "id": "c26a53d13ba",
-      "label": "FAA règles sécurité système décollage automatique Embraer",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-10-29T19:20:49Z",
-      "updated": "2026-10-29T19:20:49Z",
-      "items": [
-        {
-          "id": "daa7e4e6ee98cea8",
-          "feed": "AeroTime",
-          "title": "FAA proposes safety rules for Embraer’s automatic takeoff system",
-          "url": "https://www.aerotime.aero/articles/faa-embraer-e195-e2-automatic-takeoff-system",
-          "domain": "aerotime.aero",
-          "summary": "The FAA has proposed new safety requirements for an Embraer system that would automatically raise a jet’s nose… The post FAA proposes safety rules for Embraer’s automatic takeoff system appeared first on AeroTime .",
-          "published": "2026-10-29T18:36:51Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c2768b76e7d": {
       "id": "c2768b76e7d",
       "label": "Premier vol M-346 Frecce Tricolori",
