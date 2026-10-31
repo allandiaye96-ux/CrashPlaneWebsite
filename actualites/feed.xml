@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 31 Oct 2026 00:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 00:31:09 +0000</lastBuildDate>
+  <item>
+    <title>Floride : Delta Air Lines signe un bail de 20 ans pour six portes supplémentaires dans un aéroport de taille moyenne</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-floride-delta-air-lines-signe-un-bail-de-20-ans-pour-six-por-50b4/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-floride-delta-air-lines-signe-un-bail-de-20-ans-pour-six-por-50b4/</guid>
+    <pubDate>Sat, 31 Oct 2026 00:31:09 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Delta Air Lines a signé un bail de 20 ans portant sur six portes d&#x27;embarquement supplémentaires dans un aéroport de taille moyenne de Floride. Le site évoque un pari de 1,5 milliard de dollars pour en faire une porte d&#x27;entrée internationale.</description>
+  </item>
   <item>
     <title>Alaska Airlines supprimerait 200 postes, en raison du coût du carburant et du contexte géopolitique</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 29 Oct 2026 12:23:20 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Airbus a maintenu son objectif annuel de livraisons d&#x27;avions commerciaux, alors que le troisième trimestre a été marqué par un ralentissement, selon AeroTime, Air Journal et Le Journal de l&#x27;Aviation.</description>
-  </item>
-  <item>
-    <title>Le Canada reçoit ses deux premiers F-35, l&#x27;achat complet toujours à l&#x27;étude</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f/</guid>
-    <pubDate>Thu, 29 Oct 2026 12:23:18 +0000</pubDate>
-    <category>Défense</category>
-    <description>Selon AeroTime, la Royal Canadian Air Force a reçu ses deux premiers chasseurs Lockheed Martin F-35A. Le projet d&#x27;acquisition complet de 88 appareils reste en cours d&#x27;examen par le gouvernement.</description>
   </item>
 </channel>
 </rss>
