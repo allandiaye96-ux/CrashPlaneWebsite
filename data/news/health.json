@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T19:30:47Z",
+  "run": "2026-10-31T19:35:52Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.5192,
+  "spend_month_usd": 0.5199,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -473,6 +473,12 @@
     },
     {
       "dossier": "Trump International Airport missiles Stinger et brouilleurs",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "HADES Army premier vol prototype",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
