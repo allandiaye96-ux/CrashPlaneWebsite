@@ -757,7 +757,7 @@
     "version": 2,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Constructeurs et industrie",
     "importance": 2,
     "titre": "Airbus confirme son objectif d'environ 870 livraisons en 2026 malgré un troisième trimestre en retrait",

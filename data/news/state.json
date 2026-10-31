@@ -993,7 +993,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=49CD82D4-81FD-431D-A2E1-0706FB244E17": "2026-10-31T09:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=19702E92-EB31-4DF4-8F34-2DC18E3E0C56": "2026-10-31T09:10:34Z",
     "https://www.airliners.de/podcast/luftfahrt-podcast-70-gate-of-the-future-letzte-flughafen-bulette-urlaubsvertretung-david-91226": "2026-10-31T09:10:34Z",
-    "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/": "2026-10-31T09:20:33Z"
+    "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/": "2026-10-31T09:20:33Z",
+    "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html": "2026-10-31T10:01:02Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1260,7 +1261,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-10-29T12:23:16Z",
-      "updated": "2026-10-30T08:10:44Z",
+      "updated": "2026-10-31T10:01:17Z",
       "items": [
         {
           "id": "a1cbf2fedbc58725",
@@ -1288,10 +1289,19 @@
           "domain": "journal-aviation.com",
           "summary": "Airbus reste confiant en sa capacité à atteindre les objectifs qu’il s’est fixés sur l’année. Si le troisième trimestre a été légèrement moins porteur que prévu en raison des difficultés […] L’article Airbus maintient ses objectifs malgré un ralentissement au troisième trimestre a été publié sur Le Journal de l'Aviation .",
           "published": "2026-10-30T08:01:40Z"
+        },
+        {
+          "id": "6c7e781a04f892cd",
+          "feed": "Air Journal",
+          "title": "Airbus : un bénéfice net en hausse sur neuf mois et des objectifs maintenus pour 2026",
+          "url": "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html",
+          "domain": "air-journal.fr",
+          "summary": "Airbus a publié un bénéfice net de 3,59 milliards d’euros pour les neuf premiers mois de 2026, en progression de 36% sur un an. Le chiffre d’affaires augmente de 7%, à 50,6 milliards d’euros, porté notamment par la hausse des livraisons d’avions commerciaux. Malgré un troisième trimestre moins favorable et une consommation de trésorerie persistante, […]",
+          "published": "2026-10-31T10:00:54Z"
         }
       ],
       "story_id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
-      "written_count": 3
+      "written_count": 4
     },
     "c84b2cf80c4": {
       "id": "c84b2cf80c4",
@@ -2471,6 +2481,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.402308
+    "2026-10": 0.425743
   }
 }
