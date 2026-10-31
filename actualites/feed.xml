@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 31 Oct 2026 08:58:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:01:14 +0000</lastBuildDate>
+  <item>
+    <title>Ebola : les États-Unis imposeront dès le 3 novembre 2026 une déclaration sanitaire aux voyageurs aériens</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:01:14 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Selon Air Journal, les passagers de vols internationaux à destination des États-Unis devront attester qu&#x27;ils n&#x27;ont pas séjourné en République démocratique du Congo durant les 21 jours précédents. L&#x27;IATA juge le délai de mise en œuvre trop court, rapporte airliners.de.</description>
+  </item>
   <item>
     <title>Delta, United et JetBlue visées par une enquête fédérale sur l&#x27;usage des données passagers dans leurs tarifs</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 29 Oct 2026 15:39:47 +0000</pubDate>
     <category>Incident</category>
     <description>D&#x27;après aero.de, le commandant de bord d&#x27;un vol Flydubai attaqué dans le cockpit va mieux. Selon airliners.de, il a été décoré aux Émirats arabes unis pour son action.</description>
-  </item>
-  <item>
-    <title>Wizz Air propose des départs volontaires à des copilotes de sa base de Londres-Luton</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771/</guid>
-    <pubDate>Thu, 29 Oct 2026 12:23:22 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, la compagnie low cost hongroise ouvre des départs volontaires à une partie de ses copilotes basés à Londres-Luton, dans un contexte de forte hausse du prix du kérosène.</description>
   </item>
 </channel>
 </rss>

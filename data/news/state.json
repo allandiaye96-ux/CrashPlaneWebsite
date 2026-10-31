@@ -975,7 +975,8 @@
     "https://www.air-journal.fr/2026-10-31-nantes-atlantique-cinq-nouvelles-lignes-prennent-leur-envol-en-six-jours-5278600.html": "2026-10-31T07:00:59Z",
     "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z",
     "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/": "2026-10-31T08:00:56Z",
-    "https://www.air-journal.fr/2026-10-31-air-transat-met-le-cap-sur-geneve-et-birmingham-pour-lete-2027-5278601.html": "2026-10-31T08:00:56Z"
+    "https://www.air-journal.fr/2026-10-31-air-transat-met-le-cap-sur-geneve-et-birmingham-pour-lete-2027-5278601.html": "2026-10-31T08:00:56Z",
+    "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html": "2026-10-31T09:00:58Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1446,7 +1447,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-10-29T15:39:45Z",
-      "updated": "2026-10-29T15:39:45Z",
+      "updated": "2026-10-31T09:01:10Z",
       "items": [
         {
           "id": "fa784bde954e46d6",
@@ -1456,10 +1457,19 @@
           "domain": "airliners.de",
           "summary": "Airlines und ihre Verbände fordern von der US-Gesundheitsbehörde CDC, die neuen Ebola-Einreiseregeln zu überdenken. Die Frist bis zum Inkrafttreten sei zu kurz, heißt es. Wer in die USA fliegt, muss dann eine zusätzliche Erklärung abgeben.",
           "published": "2026-10-29T13:55:55Z"
+        },
+        {
+          "id": "35b273ebd5c92e13",
+          "feed": "Air Journal",
+          "title": "Ebola : États-Unis exigent une déclaration sanitaire obligatoire pour les voyageurs aériens",
+          "url": "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html",
+          "domain": "air-journal.fr",
+          "summary": "Les États-Unis imposent une nouvelle déclaration sanitaire aux voyageurs embarquant sur un vol international à destination du pays. À compter du 3 novembre 2026, chacun devra attester ne pas avoir été présent en République démocratique du Congo au cours des 21 jours précédents. Cette mesure de prévention contre Ebola concerne toutes les nationalités, y compris […]",
+          "published": "2026-10-31T09:00:35Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
+      "written_count": 2
     },
     "c4a3dc20b11": {
       "id": "c4a3dc20b11",
@@ -2402,6 +2412,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.381916
+    "2026-10": 0.391553
   }
 }

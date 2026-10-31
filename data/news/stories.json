@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
+    "created": "2026-10-31T09:01:14Z",
+    "updated": "2026-10-31T09:01:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Ebola : les États-Unis imposeront dès le 3 novembre 2026 une déclaration sanitaire aux voyageurs aériens",
+    "chapo": "Selon Air Journal, les passagers de vols internationaux à destination des États-Unis devront attester qu'ils n'ont pas séjourné en République démocratique du Congo durant les 21 jours précédents. L'IATA juge le délai de mise en œuvre trop court, rapporte airliners.de.",
+    "paragraphes": [
+      "La mesure, présentée comme une prévention contre Ebola, entre en vigueur le 3 novembre 2026. D'après Air Journal, elle s'applique à toutes les nationalités et concerne chaque voyageur embarquant sur un vol international vers le territoire américain.",
+      "Du côté de l'industrie, des compagnies aériennes et leurs associations demandent à l'agence sanitaire américaine CDC de revoir ces règles, selon airliners.de. L'IATA estime que le délai avant l'entrée en vigueur de cette déclaration supplémentaire est inacceptable."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Ebola: IATA hält Frist für neue US-Gesundheitserklärung für unzumutbar",
+        "url": "https://www.airliners.de/ebola-iata-frist-us-gesundheitserklaerung-unzumutbar/91177",
+        "date": "2026-10-29T13:55:55Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Ebola : États-Unis exigent une déclaration sanitaire obligatoire pour les voyageurs aériens",
+        "url": "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html",
+        "date": "2026-10-31T09:00:35Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6",
     "created": "2026-10-31T07:20:47Z",
     "updated": "2026-10-31T07:20:47Z",

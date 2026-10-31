@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T08:58:08Z",
+  "run": "2026-10-31T09:00:58Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.3819,
+  "spend_month_usd": 0.3916,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -146,6 +146,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097"
+    },
+    {
+      "dossier": "Ebola règles CDC déclaration US",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1"
     },
     {
       "dossier": "Comac CE-25A avion électrique essais",
@@ -365,12 +371,6 @@
     },
     {
       "dossier": "Collision Delta A350 / Air Canada 777 LAX",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Ebola règles CDC déclaration US",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
