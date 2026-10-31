@@ -1,9 +1,9 @@
 {
-  "run": "2026-10-31T19:00:59Z",
+  "run": "2026-10-31T19:10:33Z",
   "stats": {
     "fetched": 696,
-    "new": 2,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -386,12 +386,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24"
-    },
-    {
-      "dossier": "Pologne MiG-29 et munitions F-16 vers Ukraine",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "US Navy drone Boeing MQ-25 contrat jusqu'à 80 M$",
