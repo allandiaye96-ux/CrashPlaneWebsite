@@ -966,7 +966,8 @@
     "https://www.air-journal.fr/2026-10-31-le-31-octobre-1909-dans-le-ciel-meeting-de-saint-etienne-le-public-en-colere-face-au-fiasco-5278595.html": "2026-10-30T23:06:48Z",
     "https://simpleflying.com/airbus-a321xlr-parked-jetblue-wizz-air-kept-iberia-qantas/": "2026-10-31T00:01:04Z",
     "https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate": "2026-10-31T00:10:31Z",
-    "https://simpleflying.com/mid-size-florida-hub-betting-delta-air-lines-international-gateway/": "2026-10-31T00:30:49Z"
+    "https://simpleflying.com/mid-size-florida-hub-betting-delta-air-lines-international-gateway/": "2026-10-31T00:30:49Z",
+    "https://simpleflying.com/new-light-sport-rules-opening-up-general-flying/": "2026-10-31T01:00:58Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2369,9 +2370,30 @@
       ],
       "story_id": "2026-10-31-floride-delta-air-lines-signe-un-bail-de-20-ans-pour-six-por-50b4",
       "written_count": 1
+    },
+    "c881a9c3945": {
+      "id": "c881a9c3945",
+      "label": "FAA élargit les avions pour pilotes sport (light-sport)",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-10-31T01:01:10Z",
+      "updated": "2026-10-31T01:01:10Z",
+      "items": [
+        {
+          "id": "1d6d0fbc0bdd0e49",
+          "feed": "Simple Flying",
+          "title": "Fewer Rules, Lower Costs: The New Light-Sport Rules Are Opening Up General Flying",
+          "url": "https://simpleflying.com/new-light-sport-rules-opening-up-general-flying/",
+          "domain": "simpleflying.com",
+          "summary": "The FAA has drastically expanded the types of aircraft sport pilots can fly.",
+          "published": "2026-10-31T01:00:17Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.367393
+    "2026-10": 0.368023
   }
 }
