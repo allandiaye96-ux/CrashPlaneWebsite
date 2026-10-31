@@ -1,8 +1,8 @@
 {
-  "run": "2026-10-31T16:40:33Z",
+  "run": "2026-10-31T16:50:35Z",
   "stats": {
     "fetched": 696,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -386,12 +386,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24"
-    },
-    {
-      "dossier": "Superjet 100 Azimuth retour Erevan squawk 7700",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Pologne MiG-29 et munitions F-16 vers Ukraine",

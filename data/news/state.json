@@ -1455,27 +1455,6 @@
       "story_id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
       "written_count": 2
     },
-    "c4a3dc20b11": {
-      "id": "c4a3dc20b11",
-      "label": "Superjet 100 Azimuth retour Erevan squawk 7700",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-10-29T16:47:37Z",
-      "items": [
-        {
-          "id": "fb7334161b96e801",
-          "feed": "Simple Flying",
-          "title": "Azimuth Sukhoi Superjet 100 Squawks 7700, Returns To Yerevan After Technical Malfunction",
-          "url": "https://simpleflying.com/azimuth-sukhoi-superjet-100-emergency-return-yerevan/",
-          "domain": "simpleflying.com",
-          "summary": "The Russian jet was flying over Armenia for just 20 minutes before it returned to Yerevan.",
-          "published": "2026-10-29T16:32:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c9b5bbb2ca3": {
       "id": "c9b5bbb2ca3",
       "label": "Honeywell Aerospace premier trimestre après scission",
