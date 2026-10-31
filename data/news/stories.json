@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
+    "created": "2026-10-28T21:56:14Z",
+    "updated": "2026-10-31T19:01:20Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "JetBlue cherche à rassurer les investisseurs alors que des créanciers engagent des conseillers en restructuration",
+    "chapo": "JetBlue affirme pouvoir redresser son activité, selon AeroTime, après l'embauche de conseillers en restructuration par un groupe de créanciers de la compagnie.",
+    "paragraphes": [
+      "La compagnie américaine tente de convaincre les investisseurs de la solidité de sa situation financière et de sa capacité à relancer son activité, rapporte AeroTime. Cette démarche fait suite à la décision d'un groupe de créanciers de se faire assister par des conseillers spécialisés en restructuration.",
+      "D'après Simple Flying, ces prêteurs s'inquiètent des perspectives de remboursement de leurs créances. La direction de JetBlue, elle, maintient qu'aucun plan de restructuration n'est envisagé."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "JetBlue defends its finances as creditors hire restructuring advisers",
+        "url": "https://www.aerotime.aero/articles/jetblue-finances-creditors-restructuring-advisers",
+        "date": "2026-10-28T02:52:58Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "JetBlue’s Loan Companies Hire Special Advisors Over Repayment Concerns Of $8.4 Million Debt",
+        "url": "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/",
+        "date": "2026-10-31T18:52:28Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24",
     "created": "2026-10-31T14:01:19Z",
     "updated": "2026-10-31T14:01:19Z",
@@ -1582,37 +1621,6 @@
         "title": "Boeing Q3 2026 results: record backlog, 737-7 and 737-10 certified, loss narrows",
         "url": "https://www.aerotime.aero/articles/boeing-q3-2026-results-record-backlog-737-7-and-737-10-certified-loss-narrows",
         "date": "2026-10-27T14:26:52Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
-    "created": "2026-10-28T21:56:14Z",
-    "updated": "2026-10-28T21:56:14Z",
-    "version": 1,
-    "published": false,
-    "hidden": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "JetBlue défend sa situation financière alors que des créanciers engagent des conseillers en restructuration",
-    "chapo": "D'après AeroTime, JetBlue cherche à rassurer les investisseurs sur sa capacité à redresser son activité. Cette position intervient après qu'un groupe de créanciers a engagé des conseillers en restructuration.",
-    "paragraphes": [
-      "Selon AeroTime, la compagnie aérienne affirme pouvoir transformer son activité, alors que ses créanciers ont fait appel à des conseillers spécialisés dans les restructurations. L'extrait disponible ne détaille pas la nature exacte de ces démarches ni les montants concernés.",
-      "La source ne fournit pas d'autres éléments sur la situation financière de JetBlue ni sur les intentions des créanciers. Il s'agit d'un article unique, dont l'extrait est tronqué."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "JetBlue defends its finances as creditors hire restructuring advisers",
-        "url": "https://www.aerotime.aero/articles/jetblue-finances-creditors-restructuring-advisers",
-        "date": "2026-10-28T02:52:58Z",
         "official": false
       }
     ]

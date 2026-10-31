@@ -1022,7 +1022,9 @@
     "https://www.aerotime.aero/articles/sri-lanka-namal-rajapaksa-airbus-bribery-charges": "2026-10-31T17:40:34Z",
     "https://simpleflying.com/all-3-us-legacy-carriers-fly-boeing-737-max-10-not-airbus-a321xlr/": "2026-10-31T18:00:55Z",
     "https://simpleflying.com/worlds-most-efficient-single-aisle-aircraft-has-airbus-worried-26/": "2026-10-31T18:50:34Z",
-    "https://simpleflying.com/westjet-passenger-bribe-crew-premium-seat-aggressive/": "2026-10-31T18:50:34Z"
+    "https://simpleflying.com/westjet-passenger-bribe-crew-premium-seat-aggressive/": "2026-10-31T18:50:34Z",
+    "https://simpleflying.com/united-airlines-opening-flight-attendant-bases-cities-almost-no-one-expect/": "2026-10-31T19:00:59Z",
+    "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/": "2026-10-31T19:00:59Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1082,7 +1084,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:16:42Z",
+      "updated": "2026-10-31T19:01:13Z",
       "items": [
         {
           "id": "00f128e2750b0a0c",
@@ -1092,10 +1094,19 @@
           "domain": "aerotime.aero",
           "summary": "JetBlue is trying to reassure investors it can turn its business around after a group of creditors hired… The post JetBlue defends its finances as creditors hire restructuring advisers appeared first on AeroTime .",
           "published": "2026-10-28T02:52:58Z"
+        },
+        {
+          "id": "dc86c1fe99fe2372",
+          "feed": "Simple Flying",
+          "title": "JetBlue’s Loan Companies Hire Special Advisors Over Repayment Concerns Of $8.4 Million Debt",
+          "url": "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/",
+          "domain": "simpleflying.com",
+          "summary": "JetBlue leadership remains set on no restructuring plans.",
+          "published": "2026-10-31T18:52:28Z"
         }
       ],
       "story_id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
-      "written_count": 1
+      "written_count": 2
     },
     "c4a20b5b9fd": {
       "id": "c4a20b5b9fd",
@@ -2602,6 +2613,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.505758
+    "2026-10": 0.518573
   }
 }

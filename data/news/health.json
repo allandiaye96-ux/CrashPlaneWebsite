@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T18:50:34Z",
+  "run": "2026-10-31T19:00:59Z",
   "stats": {
     "fetched": 696,
     "new": 2,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.5058,
+  "spend_month_usd": 0.5186,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -124,6 +124,12 @@
       "breve": "2026-10-28-la-dia-publie-une-image-rare-de-l-avion-spatial-reutilisable-d790"
     },
     {
+      "dossier": "JetBlue créanciers conseillers restructuration",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9"
+    },
+    {
       "dossier": "Canada premiers F-35 reçus",
       "statut": "corrobore",
       "editeurs": 2,
@@ -206,12 +212,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-28-les-etats-unis-jugent-un-pret-europeen-de-3-4-milliards-de-d-e078"
-    },
-    {
-      "dossier": "JetBlue créanciers conseillers restructuration",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9"
     },
     {
       "dossier": "Boeing résultats T3 2026",
