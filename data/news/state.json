@@ -1024,7 +1024,8 @@
     "https://simpleflying.com/worlds-most-efficient-single-aisle-aircraft-has-airbus-worried-26/": "2026-10-31T18:50:34Z",
     "https://simpleflying.com/westjet-passenger-bribe-crew-premium-seat-aggressive/": "2026-10-31T18:50:34Z",
     "https://simpleflying.com/united-airlines-opening-flight-attendant-bases-cities-almost-no-one-expect/": "2026-10-31T19:00:59Z",
-    "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/": "2026-10-31T19:00:59Z"
+    "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/": "2026-10-31T19:00:59Z",
+    "https://simpleflying.com/delta-air-lines-grow-austin-footprint-new-flights-bentonville-2027/": "2026-10-31T19:20:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1674,27 +1675,6 @@
       ],
       "story_id": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e",
       "written_count": 3
-    },
-    "c53f1c83475": {
-      "id": "c53f1c83475",
-      "label": "US Navy drone Boeing MQ-25 contrat jusqu'à 80 M$",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-29T19:10:49Z",
-      "updated": "2026-10-29T19:10:49Z",
-      "items": [
-        {
-          "id": "273355076eec4e60",
-          "feed": "Simple Flying",
-          "title": "Why The US Navy Is Awarding Boeing Up To $80 Million To Improve A Drone That Isn't Even Operational Yet",
-          "url": "https://simpleflying.com/why-us-navy-awarding-boeing-80-million-improve-drone-isnt-operational-yet/",
-          "domain": "simpleflying.com",
-          "summary": "America's Navy goes all-in on uncrewed aircraft for the future carrier air wing.",
-          "published": "2026-10-29T19:01:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c26a53d13ba": {
       "id": "c26a53d13ba",
@@ -2592,6 +2572,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.518573
+    "2026-10": 0.519249
   }
 }
