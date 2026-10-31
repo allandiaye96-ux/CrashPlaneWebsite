@@ -1028,7 +1028,8 @@
     "https://simpleflying.com/delta-air-lines-grow-austin-footprint-new-flights-bentonville-2027/": "2026-10-31T19:20:34Z",
     "https://theaviationist.com/2026/10/31/u-s-armys-hades-prototype-completes-first-flight/": "2026-10-31T19:35:52Z",
     "https://simpleflying.com/airbus-hidden-airspace-design-tricks-make-narrowbody-cabins-bigger/": "2026-10-31T20:00:56Z",
-    "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/": "2026-10-31T20:00:56Z"
+    "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/": "2026-10-31T20:00:56Z",
+    "https://simpleflying.com/heres-why-dassault-scrapped-the-falcon-5x-before-it-ever-entered-service/": "2026-10-31T21:01:06Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2554,6 +2555,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.520602
+    "2026-10": 0.521264
   }
 }
