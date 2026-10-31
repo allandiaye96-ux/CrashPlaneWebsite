@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T11:50:33Z",
+  "run": "2026-10-31T12:00:58Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4416,
+  "spend_month_usd": 0.4498,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -362,6 +362,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba"
+    },
+    {
+      "dossier": "Ryanair suppression 19 routes UK",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
     },
     {
       "dossier": "Tirs de missiles nord-coréens mer du Japon",

@@ -996,7 +996,10 @@
     "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/": "2026-10-31T09:20:33Z",
     "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html": "2026-10-31T10:01:02Z",
     "https://simpleflying.com/how-retrofit-avionics-reviving-aging-cessnas-pipers/": "2026-10-31T11:00:59Z",
-    "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html": "2026-10-31T11:00:59Z"
+    "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html": "2026-10-31T11:00:59Z",
+    "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/": "2026-10-31T12:00:58Z",
+    "https://simpleflying.com/how-b-52-lost-tail-guns-6th-crew-member/": "2026-10-31T12:00:58Z",
+    "https://www.air-journal.fr/2026-10-31-fret-aerien-la-demande-bat-des-records-mais-les-couts-senvolent-5278606.html": "2026-10-31T12:00:58Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2501,9 +2504,30 @@
       ],
       "story_id": null,
       "written_count": 1
+    },
+    "cb354155b2d": {
+      "id": "cb354155b2d",
+      "label": "Ryanair suppression 19 routes UK",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-31T12:01:10Z",
+      "updated": "2026-10-31T12:01:10Z",
+      "items": [
+        {
+          "id": "36bab4f129e7eb46",
+          "feed": "Simple Flying",
+          "title": "Ryanair Cancels All Flights On 19 More UK Routes: See Full List Now",
+          "url": "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/",
+          "domain": "simpleflying.com",
+          "summary": "Five of these routes are to the southwestern French town Bergerac.",
+          "published": "2026-10-31T12:00:18Z"
+        }
+      ],
+      "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.441574
+    "2026-10": 0.449797
   }
 }

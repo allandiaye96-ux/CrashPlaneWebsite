@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 31 Oct 2026 11:50:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 12:01:13 +0000</lastBuildDate>
+  <item>
+    <title>Ryanair supprime tous ses vols sur 19 autres liaisons au Royaume-Uni, dont cinq vers Bergerac</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d/</guid>
+    <pubDate>Sat, 31 Oct 2026 12:01:13 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Ryanair annule l&#x27;ensemble de ses vols sur 19 nouvelles liaisons au départ du Royaume-Uni. Cinq d&#x27;entre elles desservent Bergerac, dans le sud-ouest de la France.</description>
+  </item>
   <item>
     <title>COMAC : de nouvelles images montrent un démonstrateur du CE-25A, avion électrique de 19 places</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 29 Oct 2026 15:39:55 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon aero.de, la compagnie allemande Condor a conclu avec ses pilotes un accord collectif qui court jusqu&#x27;à fin septembre 2029. Selon airliners.de, ce dispositif prévoit des gels de salaires temporaires en échange d&#x27;une protection contre les licenciements économiques.</description>
-  </item>
-  <item>
-    <title>Honeywell Aerospace prévoit une usine de 500 millions de dollars à Tempe, en Arizona</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-honeywell-aerospace-prevoit-une-usine-de-500-millions-de-dol-31ca/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-honeywell-aerospace-prevoit-une-usine-de-500-millions-de-dol-31ca/</guid>
-    <pubDate>Thu, 29 Oct 2026 15:39:51 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon AviTrader, Honeywell Aerospace investira 500 millions de dollars dans une nouvelle unité de fabrication à Tempe, dans l&#x27;Arizona, pour répondre à la demande croissante de l&#x27;aviation commerciale et des programmes de défense.</description>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
+    "created": "2026-10-31T12:01:13Z",
+    "updated": "2026-10-31T12:01:13Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair supprime tous ses vols sur 19 autres liaisons au Royaume-Uni, dont cinq vers Bergerac",
+    "chapo": "Selon Simple Flying, Ryanair annule l'ensemble de ses vols sur 19 nouvelles liaisons au départ du Royaume-Uni. Cinq d'entre elles desservent Bergerac, dans le sud-ouest de la France.",
+    "paragraphes": [
+      "D'après Simple Flying, la compagnie low-cost irlandaise a décidé de supprimer la totalité de ses vols sur 19 routes britanniques supplémentaires. Le média publie la liste complète des liaisons concernées.",
+      "Toujours d'après cette publication, cinq de ces routes ont pour destination Bergerac, une ville du sud-ouest de la France."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Ryanair Cancels All Flights On 19 More UK Routes: See Full List Now",
+        "url": "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/",
+        "date": "2026-10-31T12:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba",
     "created": "2026-10-31T09:10:53Z",
     "updated": "2026-10-31T09:10:53Z",
