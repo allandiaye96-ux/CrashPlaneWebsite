@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6",
+    "created": "2026-10-31T07:20:47Z",
+    "updated": "2026-10-31T07:20:47Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Delta, United et JetBlue visées par une enquête fédérale sur l'usage des données passagers dans leurs tarifs",
+    "chapo": "Selon Simple Flying, les compagnies Delta, United et JetBlue font l'objet d'une enquête fédérale portant sur l'utilisation des données de leurs passagers pour personnaliser les tarifs.",
+    "paragraphes": [
+      "D'après le média, les trois transporteurs doivent détailler la manière dont les informations sur leurs clients alimentent des outils de tarification de plus en plus sophistiqués."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Delta, United & JetBlue Face Federal Probe Over Using Passenger Data To Personalize Fares",
+        "url": "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/",
+        "date": "2026-10-31T07:14:47Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-floride-delta-air-lines-signe-un-bail-de-20-ans-pour-six-por-50b4",
     "created": "2026-10-31T00:31:09Z",
     "updated": "2026-10-31T00:31:09Z",

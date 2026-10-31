@@ -972,7 +972,8 @@
     "https://www.aero.de/news-54056/Airbus-will-2027-keine-A320neo-Glider-bauen.html": "2026-10-31T05:30:46Z",
     "https://www.air-journal.fr/2026-10-31-un-airbus-a321neo-de-lufthansa-aux-couleurs-de-douze-recits-de-salaries-5278596.html": "2026-10-31T06:00:58Z",
     "https://www.airliners.de/industrie-technik-zuliefererstreit-legt-777f-lahm-sun-express-hangar-airbus-air-france-klm-planen-a350-support/91216": "2026-10-31T06:10:32Z",
-    "https://www.air-journal.fr/2026-10-31-nantes-atlantique-cinq-nouvelles-lignes-prennent-leur-envol-en-six-jours-5278600.html": "2026-10-31T07:00:59Z"
+    "https://www.air-journal.fr/2026-10-31-nantes-atlantique-cinq-nouvelles-lignes-prennent-leur-envol-en-six-jours-5278600.html": "2026-10-31T07:00:59Z",
+    "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2396,9 +2397,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c8e627098b6": {
+      "id": "c8e627098b6",
+      "label": "Enquête fédérale tarification personnalisée Delta United JetBlue",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-31T07:20:42Z",
+      "updated": "2026-10-31T07:20:42Z",
+      "items": [
+        {
+          "id": "e626778840bbcf6b",
+          "feed": "Simple Flying",
+          "title": "Delta, United & JetBlue Face Federal Probe Over Using Passenger Data To Personalize Fares",
+          "url": "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/",
+          "domain": "simpleflying.com",
+          "summary": "The airlines must reveal how customer information feeds into increasingly sophisticated pricing tools.",
+          "published": "2026-10-31T07:14:47Z"
+        }
+      ],
+      "story_id": "2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6",
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.371202
+    "2026-10": 0.381242
   }
 }
