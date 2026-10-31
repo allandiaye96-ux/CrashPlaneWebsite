@@ -1,8 +1,8 @@
 {
-  "run": "2026-10-31T19:35:52Z",
+  "run": "2026-10-31T19:40:33Z",
   "stats": {
-    "fetched": 696,
-    "new": 1,
+    "fetched": 686,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -22,8 +22,8 @@
       "items": 50
     },
     "Simple Flying": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "RemoteDisconnected: Remote end closed connection without response"
     },
     "AeroTime": {
       "ok": true,
