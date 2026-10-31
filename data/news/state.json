@@ -1013,7 +1013,8 @@
     "https://simpleflying.com/british-airways-launches-4-major-new-long-haul-routes-see-full-list-now/": "2026-10-31T15:10:34Z",
     "https://www.aero.de/news-54060/Wir-sehen-im-Moment-eine-schwierige-Gemengelage.html": "2026-10-31T15:10:34Z",
     "https://simpleflying.com/hidden-math-unleaded-avgas-reshaping-general-aviation/": "2026-10-31T16:01:00Z",
-    "https://simpleflying.com/atlas-air-boeing-747-miami-smoke-american-airlines/": "2026-10-31T16:10:33Z"
+    "https://simpleflying.com/atlas-air-boeing-747-miami-smoke-american-airlines/": "2026-10-31T16:10:33Z",
+    "https://simpleflying.com/trump-international-airport-stinger-missiles-drone-jammers/": "2026-10-31T16:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2590,9 +2591,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c27c9085986": {
+      "id": "c27c9085986",
+      "label": "Trump International Airport missiles Stinger et brouilleurs",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-10-31T16:40:47Z",
+      "updated": "2026-10-31T16:40:47Z",
+      "items": [
+        {
+          "id": "678076aa8d490430",
+          "feed": "Simple Flying",
+          "title": "Trump International Airport Gets Stinger Missiles & Drone Jammers At Secret Service Request",
+          "url": "https://simpleflying.com/trump-international-airport-stinger-missiles-drone-jammers/",
+          "domain": "simpleflying.com",
+          "summary": "No reason for the added defense reinforcements has been given.",
+          "published": "2026-10-31T16:33:54Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.501569
+    "2026-10": 0.502259
   }
 }
