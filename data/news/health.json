@@ -1,5 +1,5 @@
 {
-  "run": "2026-10-31T07:40:33Z",
+  "run": "2026-10-31T07:50:31Z",
   "stats": {
     "fetched": 696,
     "new": 0,
@@ -350,12 +350,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6"
-    },
-    {
-      "dossier": "Airbus et GCAP après FCAS",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Tirs de missiles nord-coréens mer du Japon",

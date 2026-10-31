@@ -1183,27 +1183,6 @@
       "story_id": "2026-10-28-itochu-va-prendre-une-participation-minoritaire-dans-iag-eng-b2fc",
       "written_count": 1
     },
-    "cc9869149bf": {
-      "id": "cc9869149bf",
-      "label": "Airbus et GCAP après FCAS",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-29T07:43:35Z",
-      "updated": "2026-10-29T07:43:35Z",
-      "items": [
-        {
-          "id": "8273988d5b193083",
-          "feed": "aero.de",
-          "title": "Airbus sondiert mögliche Rollen in GCAP-Konsortium",
-          "url": "https://www.aero.de/news-54036/Airbus-sondiert-moegliche-Rollen-in-erweitertem-GCAP-Konsortium.html",
-          "domain": "aero.de",
-          "summary": "LONDON - Nach der FCAS-Implosion sieht das Konkurrenzlager GCAP Raum für eine deutsche Beteiligung. Airbus ist skeptisch - der Konzern will bei einem Kampfjet der sechsten Generation nicht Juniorpartner sein. Nach einem Medienbericht lotet Airbus gleichwohl Beteiligungschancen im Projekt aus.",
-          "published": "2026-10-29T05:40:15Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c22cc8c79df": {
       "id": "c22cc8c79df",
       "label": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
