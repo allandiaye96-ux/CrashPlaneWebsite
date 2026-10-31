@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T12:30:47Z",
+  "run": "2026-10-31T12:40:35Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4498,
+  "spend_month_usd": 0.4505,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -468,6 +468,12 @@
     {
       "dossier": "IATA trafic passagers septembre 2026",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "United 737 MAX 9 urgence double train d'atterrissage Cayman",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }

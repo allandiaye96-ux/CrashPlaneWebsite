@@ -999,7 +999,8 @@
     "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html": "2026-10-31T11:00:59Z",
     "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/": "2026-10-31T12:00:58Z",
     "https://simpleflying.com/how-b-52-lost-tail-guns-6th-crew-member/": "2026-10-31T12:00:58Z",
-    "https://www.air-journal.fr/2026-10-31-fret-aerien-la-demande-bat-des-records-mais-les-couts-senvolent-5278606.html": "2026-10-31T12:00:58Z"
+    "https://www.air-journal.fr/2026-10-31-fret-aerien-la-demande-bat-des-records-mais-les-couts-senvolent-5278606.html": "2026-10-31T12:00:58Z",
+    "https://simpleflying.com/video/just-10-minutes-of-fuel-left-united-737-declares-double-emergency-after-landing-gear-fail/": "2026-10-31T12:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2483,9 +2484,30 @@
       ],
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
       "written_count": 1
+    },
+    "cff39e9d334": {
+      "id": "cff39e9d334",
+      "label": "United 737 MAX 9 urgence double train d'atterrissage Cayman",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-10-31T12:40:48Z",
+      "updated": "2026-10-31T12:40:48Z",
+      "items": [
+        {
+          "id": "53162ef763df0f1f",
+          "feed": "Simple Flying",
+          "title": "Just 10 Minutes Of Fuel Left: United 737 Declares Double Emergency After Landing Gear Fail",
+          "url": "https://simpleflying.com/video/just-10-minutes-of-fuel-left-united-737-declares-double-emergency-after-landing-gear-fail/",
+          "domain": "simpleflying.com",
+          "summary": "A recent United Airlines flight from the Cayman Islands to Texas faced a double emergency onboard when the Boeing 737 MAX 9 had issues with its landing gear deploying. This then led to the burning of excess fuel, and the pilots reported that they had just 10 to 12 minutes of fuel left.",
+          "published": "2026-10-31T12:33:17Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.449797
+    "2026-10": 0.450461
   }
 }
