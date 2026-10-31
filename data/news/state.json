@@ -1308,48 +1308,6 @@
       "story_id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
       "written_count": 4
     },
-    "c84b2cf80c4": {
-      "id": "c84b2cf80c4",
-      "label": "Tirs de missiles nord-coréens mer du Japon",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-29T12:23:16Z",
-      "updated": "2026-10-29T12:23:16Z",
-      "items": [
-        {
-          "id": "74eec43acd7822c9",
-          "feed": "AeroTime",
-          "title": "North Korea fires more than 10 missiles toward Sea of Japan",
-          "url": "https://www.aerotime.aero/articles/north-korea-missile-salvo-wonsan-sea-of-japan",
-          "domain": "aerotime.aero",
-          "summary": "North Korea fired more than 10 short-range ballistic missiles from the Wonsan area toward the Sea of Japan… The post North Korea fires more than 10 missiles toward Sea of Japan appeared first on AeroTime .",
-          "published": "2026-10-29T09:28:28Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
-    "c933a052830": {
-      "id": "c933a052830",
-      "label": "NASA X-59 vers Kennedy",
-      "categorie": "Autre",
-      "importance": 2,
-      "created": "2026-10-29T12:23:16Z",
-      "updated": "2026-10-29T12:23:16Z",
-      "items": [
-        {
-          "id": "2116f7104541f537",
-          "feed": "The Aviationist",
-          "title": "NASA’s X-59 QueSST Heads to Kennedy Space Center",
-          "url": "https://theaviationist.com/2026/10/29/nasas-x-59-quesst-heads-to-kennedy-space-center/",
-          "domain": "theaviationist.com",
-          "summary": "On the anniversary of its first flight, NASA’s X-59 QueSST has started its first journey east from California, headed to the agency’s Kennedy Space Center in Florida. On Oct. 28, 2026, NASA’s experimental X-59 QueSST (Quiet SuperSonic Technology) celebrated a year since its first flight as part of the agency’s program which will pave the way for […]",
-          "published": "2026-10-29T10:41:30Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c28fb2a0771": {
       "id": "c28fb2a0771",
       "label": "Wizz Air Luton départs volontaires pilotes",

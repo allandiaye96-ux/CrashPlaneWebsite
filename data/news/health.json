@@ -1,5 +1,5 @@
 {
-  "run": "2026-10-31T12:20:32Z",
+  "run": "2026-10-31T12:30:47Z",
   "stats": {
     "fetched": 696,
     "new": 0,
@@ -368,18 +368,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Tirs de missiles nord-coréens mer du Japon",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "NASA X-59 vers Kennedy",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Collision Delta A350 / Air Canada 777 LAX",
