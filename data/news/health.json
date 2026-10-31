@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T09:00:58Z",
+  "run": "2026-10-31T09:10:34Z",
   "stats": {
     "fetched": 696,
-    "new": 1,
+    "new": 16,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.3916,
+  "spend_month_usd": 0.4017,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -358,6 +358,12 @@
       "breve": "2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6"
     },
     {
+      "dossier": "COMAC CE-25A démonstrateur",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba"
+    },
+    {
       "dossier": "Tirs de missiles nord-coréens mer du Japon",
       "statut": "signale",
       "editeurs": 1,
@@ -455,6 +461,12 @@
     },
     {
       "dossier": "FAA élargit les avions pour pilotes sport (light-sport)",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Collision hélicoptères Oregon McMinnville",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 31 Oct 2026 09:01:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:10:53 +0000</lastBuildDate>
+  <item>
+    <title>COMAC : de nouvelles images montrent un démonstrateur du CE-25A, avion électrique de 19 places</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:10:53 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon Aero-News Network, de nouvelles photos semblent montrer un démonstrateur à taille réelle du CE-25A, avion tout électrique de 19 places développé par le constructeur chinois COMAC.</description>
+  </item>
   <item>
     <title>Ebola : les États-Unis imposeront dès le 3 novembre 2026 une déclaration sanitaire aux voyageurs aériens</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 29 Oct 2026 15:39:51 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AviTrader, Honeywell Aerospace investira 500 millions de dollars dans une nouvelle unité de fabrication à Tempe, dans l&#x27;Arizona, pour répondre à la demande croissante de l&#x27;aviation commerciale et des programmes de défense.</description>
-  </item>
-  <item>
-    <title>Flydubai : le commandant de bord blessé lors d&#x27;une attaque dans le cockpit honoré aux Émirats</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df/</guid>
-    <pubDate>Thu, 29 Oct 2026 15:39:47 +0000</pubDate>
-    <category>Incident</category>
-    <description>D&#x27;après aero.de, le commandant de bord d&#x27;un vol Flydubai attaqué dans le cockpit va mieux. Selon airliners.de, il a été décoré aux Émirats arabes unis pour son action.</description>
   </item>
 </channel>
 </rss>

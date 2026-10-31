@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba",
+    "created": "2026-10-31T09:10:53Z",
+    "updated": "2026-10-31T09:10:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "COMAC : de nouvelles images montrent un démonstrateur du CE-25A, avion électrique de 19 places",
+    "chapo": "Selon Aero-News Network, de nouvelles photos semblent montrer un démonstrateur à taille réelle du CE-25A, avion tout électrique de 19 places développé par le constructeur chinois COMAC.",
+    "paragraphes": [
+      "D'après Aero-News Network, qui s'appuie sur TWZ, les images auraient d'abord été diffusées le 28 octobre par le blogueur automobile chinois Han Lu. Elles montrent un appareil rouge et noir, orné d'un liseré argenté portant les marques COMAC et CE-25A. Son immatriculation civile chinoise serait B-0EFH.",
+      "Aero-News Network décrit le CE-25A comme un appareil peu conventionnel, destiné au transport de passagers sur des liaisons courtes et moyennes. COMAC, entreprise publique, avait présenté ce programme publiquement en 2023. Le statut actuel des essais de l'appareil reste incertain, d'après le média."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Chinas CE-25A Electric Commuter Airliner Demonstrator Emerges",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=082D7B5B-7F50-459C-9FED-1CFD0D7BB0A6",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
     "created": "2026-10-31T09:01:14Z",
     "updated": "2026-10-31T09:01:14Z",

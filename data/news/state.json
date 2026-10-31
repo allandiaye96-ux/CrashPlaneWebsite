@@ -976,7 +976,23 @@
     "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z",
     "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/": "2026-10-31T08:00:56Z",
     "https://www.air-journal.fr/2026-10-31-air-transat-met-le-cap-sur-geneve-et-birmingham-pour-lete-2027-5278601.html": "2026-10-31T08:00:56Z",
-    "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html": "2026-10-31T09:00:58Z"
+    "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html": "2026-10-31T09:00:58Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=A83E375E-9CAB-46F2-B946-74CF97BB280B": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=B3E9BCAE-1B65-44E2-A88C-E92778369A4C": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=2EA855A1-11FA-44D3-B9BE-156CAA201BB9": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C7D4E898-781C-46F5-A62A-9A68847360B8": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=7583B2A0-01D0-429C-909D-6BBA7B8481D7": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=65664889-D4C1-454B-B973-BD6D4F55EE72": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3DF56D1B-8AD0-4EDC-9123-A8E21737D397": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=585474D1-4472-4D01-99D8-7CE1D83B5E4C": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=082D7B5B-7F50-459C-9FED-1CFD0D7BB0A6": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F496C8BD-B90E-4332-84F2-B900C29CA00B": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=88513640-BF74-4F38-A5CE-6997B511518A": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=1555CC01-A1BF-4064-AD28-CD2DFED9826C": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=24265624-A33B-41FC-ABE2-DBF1983785C0": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=49CD82D4-81FD-431D-A2E1-0706FB244E17": "2026-10-31T09:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=19702E92-EB31-4DF4-8F34-2DC18E3E0C56": "2026-10-31T09:10:34Z",
+    "https://www.airliners.de/podcast/luftfahrt-podcast-70-gate-of-the-future-letzte-flughafen-bulette-urlaubsvertretung-david-91226": "2026-10-31T09:10:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2409,9 +2425,51 @@
       ],
       "story_id": "2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6",
       "written_count": 1
+    },
+    "cee98861eba": {
+      "id": "cee98861eba",
+      "label": "COMAC CE-25A démonstrateur",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-10-31T09:10:49Z",
+      "updated": "2026-10-31T09:10:49Z",
+      "items": [
+        {
+          "id": "050c277d1bf872c2",
+          "feed": "Aero-News Network",
+          "title": "Chinas CE-25A Electric Commuter Airliner Demonstrator Emerges",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=082D7B5B-7F50-459C-9FED-1CFD0D7BB0A6",
+          "domain": "aero-news.net",
+          "summary": "19-Seat Aircraft Intended For Short And Medium Passenger Transportation New images appear to show a full-sized demonstrator of China’s CE-25A, an unorthodox 19-seat all-electric aircraft being developed by the state-owned Commercial Aircraft Corporation of China (COMAC). The photographs offer a fresh look at a program the company publicly outlined in 2023, although the aircraft’s current testing status remains unclear. The images appear to have first been shared by Chinese automotive blogger Han Lu on October 28 and show a red and black colored aircraft with a silver cheatline bearing COMAC and CE-25A markings TWZ reported. Its Chinese civilian registration is B-0EFH. TWZ reported it should ",
+          "published": null
+        }
+      ],
+      "story_id": "2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba",
+      "written_count": 1
+    },
+    "cb76cd0b9ca": {
+      "id": "cb76cd0b9ca",
+      "label": "Collision hélicoptères Oregon McMinnville",
+      "categorie": "Accident",
+      "importance": 3,
+      "created": "2026-10-31T09:10:49Z",
+      "updated": "2026-10-31T09:10:49Z",
+      "items": [
+        {
+          "id": "85ff9376c6a8d63e",
+          "feed": "Aero-News Network",
+          "title": "Three Killed In Helicopter Collision In Oregon",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=1555CC01-A1BF-4064-AD28-CD2DFED9826C",
+          "domain": "aero-news.net",
+          "summary": "Collision Between Robinson R22 And Airbus H125 Two helicopters collided and went down into a farm field Thursday near a small airport I McMinnville, southwest of Portland, Oregon, killing all three people on board, authorities said. The FAA said the collision was between a Robinson R22, a two-seat aircraft, and an Airbus H125, which can carry up to six passengers depending on the configuration. The accident killed 38-year-old Tyler Sturdevant, a pilot from Oregon, 22-year-old Maddie Aasbo, a flight instructor from Texas, and a student pilot from the United Kingdom, whose name has not been released, Yamhill County Sheriff Sam Elliott said during a news conference. Aasbo and the U.K. student p",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.391553
+    "2026-10": 0.401672
   }
 }
