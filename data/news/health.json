@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T12:50:34Z",
+  "run": "2026-10-31T13:00:56Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4505,
+  "spend_month_usd": 0.4669,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -368,6 +368,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
+    },
+    {
+      "dossier": "LATAM São Paulo-Genève 2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-31-latam-prevoit-un-vol-genevesao-paulo-des-avril-2027-une-prem-32c7"
     },
     {
       "dossier": "Collision Delta A350 / Air Canada 777 LAX",

@@ -1000,7 +1000,10 @@
     "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/": "2026-10-31T12:00:58Z",
     "https://simpleflying.com/how-b-52-lost-tail-guns-6th-crew-member/": "2026-10-31T12:00:58Z",
     "https://www.air-journal.fr/2026-10-31-fret-aerien-la-demande-bat-des-records-mais-les-couts-senvolent-5278606.html": "2026-10-31T12:00:58Z",
-    "https://simpleflying.com/video/just-10-minutes-of-fuel-left-united-737-declares-double-emergency-after-landing-gear-fail/": "2026-10-31T12:40:35Z"
+    "https://simpleflying.com/video/just-10-minutes-of-fuel-left-united-737-declares-double-emergency-after-landing-gear-fail/": "2026-10-31T12:40:35Z",
+    "https://simpleflying.com/airlines-selling-main-cabin-beds-fraction-business-class-fares/": "2026-10-31T13:00:56Z",
+    "https://simpleflying.com/8-airlines-drop-17-a380-routes-this-winter/": "2026-10-31T13:00:56Z",
+    "https://www.air-journal.fr/2026-10-31-geneve-reliee-sao-paulo-par-latam-en-2027-une-premiere-liaison-directe-avec-lamerique-du-sud-5278603.html": "2026-10-31T13:00:56Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2505,9 +2508,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c423d4232c7": {
+      "id": "c423d4232c7",
+      "label": "LATAM São Paulo-Genève 2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-31T13:01:13Z",
+      "updated": "2026-10-31T13:01:13Z",
+      "items": [
+        {
+          "id": "be13d03b3a226568",
+          "feed": "Air Journal",
+          "title": "Genève reliée à São Paulo par LATAM en 2027, une première liaison directe avec l’Amérique du Sud",
+          "url": "https://www.air-journal.fr/2026-10-31-geneve-reliee-sao-paulo-par-latam-en-2027-une-premiere-liaison-directe-avec-lamerique-du-sud-5278603.html",
+          "domain": "air-journal.fr",
+          "summary": "LATAM Airlines Brasil ouvrira en avril 2027 une liaison directe entre São Paulo-Guarulhos et Genève Aéroport, à raison de trois vols hebdomadaires en Boeing 787-9 Dreamliner. Pour la première fois, Genève sera reliée sans escale à l’Amérique du Sud. Trois départs par semaine de São Paulo Cette nouvelle ligne sera assurée par LATAM Airlines Brasil. […]",
+          "published": "2026-10-31T13:00:34Z"
+        }
+      ],
+      "story_id": "2026-10-31-latam-prevoit-un-vol-genevesao-paulo-des-avril-2027-une-prem-32c7",
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.450461
+    "2026-10": 0.466897
   }
 }
