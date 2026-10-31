@@ -1679,27 +1679,6 @@
       "story_id": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e",
       "written_count": 3
     },
-    "c2768b76e7d": {
-      "id": "c2768b76e7d",
-      "label": "Premier vol M-346 Frecce Tricolori",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-29T20:01:15Z",
-      "updated": "2026-10-29T20:01:15Z",
-      "items": [
-        {
-          "id": "be510560a4cf8388",
-          "feed": "The Aviationist",
-          "title": "First M-346 For Frecce Tricolori Takes Flight",
-          "url": "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/",
-          "domain": "theaviationist.com",
-          "summary": "Days after its rollout, the first M-346 trainer jet destined to the Frecce Tricolori aerobatic team took off for its maiden flight. The first M-346 trainer jet destined to the Italian Air Force’s Frecce Tricolori aerobatic team has now conducted its maiden flight, days after being rolled out of factory at Leonardo’s facilities in Venegono. […]",
-          "published": "2026-10-29T19:59:45Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c30d53c00b6": {
       "id": "c30d53c00b6",
       "label": "Japon assemblage AMRAAM production AIM-120",
