@@ -1,5 +1,5 @@
 {
-  "run": "2026-10-31T22:20:34Z",
+  "run": "2026-10-31T22:30:44Z",
   "stats": {
     "fetched": 696,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.5226,
+  "spend_month_usd": 0.5232,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -467,6 +467,12 @@
     },
     {
       "dossier": "HADES Army premier vol prototype",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Rafale M essais INS Vikrant",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

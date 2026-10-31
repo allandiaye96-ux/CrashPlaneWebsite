@@ -1031,7 +1031,8 @@
     "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/": "2026-10-31T20:00:56Z",
     "https://simpleflying.com/heres-why-dassault-scrapped-the-falcon-5x-before-it-ever-entered-service/": "2026-10-31T21:01:06Z",
     "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-a-c-5-galaxy/": "2026-10-31T22:00:57Z",
-    "https://www.flightradar24.com/blog/aviation-news/airline-news/airline-routes/october-routes-roundup-air-france-to-launch-two-new-routes-to-the-us/": "2026-10-31T22:20:34Z"
+    "https://www.flightradar24.com/blog/aviation-news/airline-news/airline-routes/october-routes-roundup-air-france-to-launch-two-new-routes-to-the-us/": "2026-10-31T22:20:34Z",
+    "https://theaviationist.com/2026/10/31/rafale-m-conducts-trials-aboard-ins-vikrant/": "2026-10-31T22:30:44Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2533,9 +2534,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cdec4e34b76": {
+      "id": "cdec4e34b76",
+      "label": "Rafale M essais INS Vikrant",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-10-31T22:30:59Z",
+      "updated": "2026-10-31T22:30:59Z",
+      "items": [
+        {
+          "id": "a74c21afa91d9b33",
+          "feed": "The Aviationist",
+          "title": "Rafale M Conducts Trials Aboard Indian Navy’s INS Vikrant Aircraft Carrier",
+          "url": "https://theaviationist.com/2026/10/31/rafale-m-conducts-trials-aboard-ins-vikrant/",
+          "domain": "theaviationist.com",
+          "summary": "India selected in 2023 and ordered in 2025 the Rafale M as an interim carrier-based fighter capability while the indigenous Twin Engine Deck Based Fighter (TEDBF) is developed. A Dassault Rafale M landed aboard the Indian Navy’s domestically built INS Vikrant aircraft carrier for the first time on Oct. 29, 2026, and subsequently took off […]",
+          "published": "2026-10-31T22:25:49Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.522563
+    "2026-10": 0.523219
   }
 }
