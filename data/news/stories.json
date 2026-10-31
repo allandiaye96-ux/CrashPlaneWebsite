@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24",
+    "created": "2026-10-31T14:01:19Z",
+    "updated": "2026-10-31T14:01:19Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Aena : un résultat net en progression de 12,4 % sur neuf mois en 2026, porté par le trafic",
+    "chapo": "Selon Air Journal, le gestionnaire aéroportuaire espagnol Aena affiche pour les trois premiers trimestres de 2026 des résultats en hausse à deux chiffres, avec un trafic supérieur aux prévisions.",
+    "paragraphes": [
+      "Sur la période de janvier à septembre 2026, le profit net du groupe atteint 1,77 milliard d’euros, soit 12,4% de plus qu’un an auparavant, d’après Air Journal.",
+      "Le média explique cette progression par un trafic qui dépasse les anticipations, par les revenus commerciaux et par les redevances payées par les compagnies aériennes. Aena est contrôlé à 51% par l’État espagnol."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Espagne : le trafic d’Aena dépasse les attentes, des résultats en hausse à deux chiffres",
+        "url": "https://www.air-journal.fr/2026-10-31-espagne-le-trafic-daena-depasse-les-attentes-des-resultats-en-hausse-a-deux-chiffres-5278557.html",
+        "date": "2026-10-31T14:00:48Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca",
     "created": "2026-10-31T13:31:08Z",
     "updated": "2026-10-31T13:31:08Z",

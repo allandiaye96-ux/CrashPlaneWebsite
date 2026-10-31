@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T13:50:33Z",
+  "run": "2026-10-31T14:00:56Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.482,
+  "spend_month_usd": 0.4981,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -380,6 +380,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-latam-prevoit-un-vol-genevesao-paulo-des-avril-2027-une-prem-32c7"
+    },
+    {
+      "dossier": "Aena résultats T3 2026 trafic",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24"
     },
     {
       "dossier": "Collision Delta A350 / Air Canada 777 LAX",

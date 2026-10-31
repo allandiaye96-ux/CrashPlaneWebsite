@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 31 Oct 2026 13:50:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 14:01:19 +0000</lastBuildDate>
+  <item>
+    <title>Aena : un résultat net en progression de 12,4 % sur neuf mois en 2026, porté par le trafic</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24/</guid>
+    <pubDate>Sat, 31 Oct 2026 14:01:19 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Air Journal, le gestionnaire aéroportuaire espagnol Aena affiche pour les trois premiers trimestres de 2026 des résultats en hausse à deux chiffres, avec un trafic supérieur aux prévisions.</description>
+  </item>
   <item>
     <title>Oregon : trois morts dans la collision en vol de deux hélicoptères près de McMinnville</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 29 Oct 2026 16:47:50 +0000</pubDate>
     <category>Aéroports</category>
     <description>Le Groenland a ouvert le 29 octobre un nouvel aéroport à Ilulissat, doté d&#x27;une piste de 2200 mètres, selon airliners.de et le blog de Flightradar24. L&#x27;objectif affiché est de soutenir l&#x27;économie et d&#x27;attirer davantage de touristes.</description>
-  </item>
-  <item>
-    <title>Comac prépare les premiers vols d&#x27;essai du CE-25A, son démonstrateur d&#x27;avion régional électrique</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5/</guid>
-    <pubDate>Thu, 29 Oct 2026 16:47:47 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Le constructeur chinois Comac s&#x27;apprête à faire voler le CE-25A, un démonstrateur électrique, selon airliners.de. Des images de l&#x27;appareil circulent sur les réseaux chinois.</description>
   </item>
 </channel>
 </rss>
