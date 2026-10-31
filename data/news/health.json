@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T10:50:31Z",
+  "run": "2026-10-31T11:00:59Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 2,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 0.4257,
+  "spend_month_usd": 0.4416,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -468,6 +468,12 @@
     {
       "dossier": "Collision hélicoptères Oregon McMinnville",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "IATA trafic passagers septembre 2026",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }

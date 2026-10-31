@@ -994,7 +994,9 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=19702E92-EB31-4DF4-8F34-2DC18E3E0C56": "2026-10-31T09:10:34Z",
     "https://www.airliners.de/podcast/luftfahrt-podcast-70-gate-of-the-future-letzte-flughafen-bulette-urlaubsvertretung-david-91226": "2026-10-31T09:10:34Z",
     "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/": "2026-10-31T09:20:33Z",
-    "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html": "2026-10-31T10:01:02Z"
+    "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html": "2026-10-31T10:01:02Z",
+    "https://simpleflying.com/how-retrofit-avionics-reviving-aging-cessnas-pipers/": "2026-10-31T11:00:59Z",
+    "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html": "2026-10-31T11:00:59Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2478,9 +2480,30 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cc055ccf4a3": {
+      "id": "cc055ccf4a3",
+      "label": "IATA trafic passagers septembre 2026",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-10-31T11:01:13Z",
+      "updated": "2026-10-31T11:01:13Z",
+      "items": [
+        {
+          "id": "cb9b86f73644146e",
+          "feed": "Air Journal",
+          "title": "Trafic de passagers : la demande mondiale poursuit son recul, pénalisée par le Moyen-Orient",
+          "url": "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html",
+          "domain": "air-journal.fr",
+          "summary": "La demande mondiale de transport aérien de passagers a diminué de 0,5% en septembre 2026 par rapport au même mois de 2025, selon les données mensuelles de l’Association du transport aérien international (IATA). Le repli est moins marqué qu’en août, mais les difficultés du Moyen-Orient et de l’Amérique du Nord continuent de peser sur l’activité. […]",
+          "published": "2026-10-31T11:00:45Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 1
     }
   },
   "spend": {
-    "2026-10": 0.425743
+    "2026-10": 0.441574
   }
 }
