@@ -1341,27 +1341,6 @@
       "story_id": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771",
       "written_count": 1
     },
-    "c88f843d99d": {
-      "id": "c88f843d99d",
-      "label": "Collision Delta A350 / Air Canada 777 LAX",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-10-29T15:39:45Z",
-      "updated": "2026-10-29T15:39:45Z",
-      "items": [
-        {
-          "id": "3625539fab5d3023",
-          "feed": "Simple Flying",
-          "title": "Delta Airbus A350 Winglet Wedged In Air Canada Boeing 777's Tail After LAX Collision",
-          "url": "https://simpleflying.com/video/delta-airbus-a350-winglet-wedged-in-air-canada-boeing-777-s-tail-after-lax-collision/",
-          "domain": "simpleflying.com",
-          "summary": "A Delta Air Lines Airbus A350-900 struck the tail of an Air Canada Boeing 777 while taxiing for departure at Los Angeles International Airport (LAX) in early October, leaving its wingtip lodged in the 777's horizontal stabiliser..",
-          "published": "2026-10-29T12:31:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c7c871ef4f2": {
       "id": "c7c871ef4f2",
       "label": "Éthiopie Su-35 et S-400",

@@ -1,5 +1,5 @@
 {
-  "run": "2026-10-31T15:30:48Z",
+  "run": "2026-10-31T15:40:32Z",
   "stats": {
     "fetched": 696,
     "new": 0,
@@ -386,12 +386,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24"
-    },
-    {
-      "dossier": "Collision Delta A350 / Air Canada 777 LAX",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Superjet 100 Azimuth retour Erevan squawk 7700",
