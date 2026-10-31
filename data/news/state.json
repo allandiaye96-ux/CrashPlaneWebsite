@@ -1003,7 +1003,9 @@
     "https://simpleflying.com/video/just-10-minutes-of-fuel-left-united-737-declares-double-emergency-after-landing-gear-fail/": "2026-10-31T12:40:35Z",
     "https://simpleflying.com/airlines-selling-main-cabin-beds-fraction-business-class-fares/": "2026-10-31T13:00:56Z",
     "https://simpleflying.com/8-airlines-drop-17-a380-routes-this-winter/": "2026-10-31T13:00:56Z",
-    "https://www.air-journal.fr/2026-10-31-geneve-reliee-sao-paulo-par-latam-en-2027-une-premiere-liaison-directe-avec-lamerique-du-sud-5278603.html": "2026-10-31T13:00:56Z"
+    "https://www.air-journal.fr/2026-10-31-geneve-reliee-sao-paulo-par-latam-en-2027-une-premiere-liaison-directe-avec-lamerique-du-sud-5278603.html": "2026-10-31T13:00:56Z",
+    "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs": "2026-10-31T13:30:47Z",
+    "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville": "2026-10-31T13:30:47Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2431,7 +2433,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-10-31T09:10:49Z",
-      "updated": "2026-10-31T09:10:49Z",
+      "updated": "2026-10-31T13:31:01Z",
       "items": [
         {
           "id": "85ff9376c6a8d63e",
@@ -2441,10 +2443,19 @@
           "domain": "aero-news.net",
           "summary": "Collision Between Robinson R22 And Airbus H125 Two helicopters collided and went down into a farm field Thursday near a small airport I McMinnville, southwest of Portland, Oregon, killing all three people on board, authorities said. The FAA said the collision was between a Robinson R22, a two-seat aircraft, and an Airbus H125, which can carry up to six passengers depending on the configuration. The accident killed 38-year-old Tyler Sturdevant, a pilot from Oregon, 22-year-old Maddie Aasbo, a flight instructor from Texas, and a student pilot from the United Kingdom, whose name has not been released, Yamhill County Sheriff Sam Elliott said during a news conference. Aasbo and the U.K. student p",
           "published": null
+        },
+        {
+          "id": "5950040afa9a578f",
+          "feed": "AeroTime",
+          "title": "Three killed in midair helicopter collision at Oregon airport",
+          "url": "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville",
+          "domain": "aerotime.aero",
+          "summary": "Three people were killed when a Robinson R22 and an Airbus AS350B3 collided in flight near McMinnville Municipal… The post Three killed in midair helicopter collision at Oregon airport appeared first on AeroTime .",
+          "published": "2026-10-31T12:27:25Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca",
+      "written_count": 2
     },
     "cc055ccf4a3": {
       "id": "cc055ccf4a3",
@@ -2529,9 +2540,30 @@
       ],
       "story_id": "2026-10-31-latam-prevoit-un-vol-genevesao-paulo-des-avril-2027-une-prem-32c7",
       "written_count": 1
+    },
+    "cfe1cbbc055": {
+      "id": "cfe1cbbc055",
+      "label": "FlyersRights poursuit le DOT sur règle des retards",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-10-31T13:31:01Z",
+      "updated": "2026-10-31T13:31:01Z",
+      "items": [
+        {
+          "id": "40e71f42c088e9b1",
+          "feed": "AeroTime",
+          "title": "Passenger rights group sues DOT over rule shifting flight delay costs to travelers",
+          "url": "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs",
+          "domain": "aerotime.aero",
+          "summary": "Airline passenger group FlyersRights is suing the US Department of Transportation (DOT) over a rule it says shifts… The post Passenger rights group sues DOT over rule shifting flight delay costs to travelers appeared first on AeroTime .",
+          "published": "2026-10-31T12:29:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
-    "2026-10": 0.466897
+    "2026-10": 0.481953
   }
 }

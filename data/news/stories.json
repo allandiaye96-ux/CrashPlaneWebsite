@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca",
+    "created": "2026-10-31T13:31:08Z",
+    "updated": "2026-10-31T13:31:08Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Oregon : trois morts dans la collision en vol de deux hélicoptères près de McMinnville",
+    "chapo": "Un Robinson R22 et un hélicoptère Airbus sont entrés en collision près de l'aéroport municipal de McMinnville, dans l'Oregon, selon Aero-News Network. Les trois personnes à bord des deux appareils ont perdu la vie.",
+    "paragraphes": [
+      "Les deux hélicoptères se sont abîmés dans un champ agricole, au sud-ouest de Portland, à proximité d'un petit aéroport. La FAA indique que la collision impliquait un Robinson R22, appareil à deux places, et un Airbus H125. AeroTime évoque pour sa part un Airbus AS350B3.",
+      "Le shérif du comté de Yamhill, Sam Elliott, a identifié lors d'une conférence de presse deux des victimes : Tyler Sturdevant, 38 ans, pilote originaire de l'Oregon, et Maddie Aasbo, 22 ans, instructrice de vol venue du Texas. La troisième personne, un élève pilote du Royaume-Uni, n'a pas été nommée. Les causes de l'accident ne sont pas établies."
+    ],
+    "contradictions": "Aero-News Network (citant la FAA) désigne le second appareil comme un Airbus H125, tandis qu'AeroTime parle d'un Airbus AS350B3.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Three Killed In Helicopter Collision In Oregon",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=1555CC01-A1BF-4064-AD28-CD2DFED9826C",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Three killed in midair helicopter collision at Oregon airport",
+        "url": "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville",
+        "date": "2026-10-31T12:27:25Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-latam-prevoit-un-vol-genevesao-paulo-des-avril-2027-une-prem-32c7",
     "created": "2026-10-31T13:01:21Z",
     "updated": "2026-10-31T13:01:21Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-10-31T13:20:33Z",
+  "run": "2026-10-31T13:30:47Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4669,
+  "spend_month_usd": 0.482,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -194,6 +194,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212"
+    },
+    {
+      "dossier": "Collision hélicoptères Oregon McMinnville",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -466,12 +472,6 @@
       "breve": null
     },
     {
-      "dossier": "Collision hélicoptères Oregon McMinnville",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "IATA trafic passagers septembre 2026",
       "statut": "source_unique",
       "editeurs": 1,
@@ -479,6 +479,12 @@
     },
     {
       "dossier": "United 737 MAX 9 urgence double train d'atterrissage Cayman",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "FlyersRights poursuit le DOT sur règle des retards",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
