@@ -973,7 +973,9 @@
     "https://www.air-journal.fr/2026-10-31-un-airbus-a321neo-de-lufthansa-aux-couleurs-de-douze-recits-de-salaries-5278596.html": "2026-10-31T06:00:58Z",
     "https://www.airliners.de/industrie-technik-zuliefererstreit-legt-777f-lahm-sun-express-hangar-airbus-air-france-klm-planen-a350-support/91216": "2026-10-31T06:10:32Z",
     "https://www.air-journal.fr/2026-10-31-nantes-atlantique-cinq-nouvelles-lignes-prennent-leur-envol-en-six-jours-5278600.html": "2026-10-31T07:00:59Z",
-    "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z"
+    "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z",
+    "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/": "2026-10-31T08:00:56Z",
+    "https://www.air-journal.fr/2026-10-31-air-transat-met-le-cap-sur-geneve-et-birmingham-pour-lete-2027-5278601.html": "2026-10-31T08:00:56Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2400,6 +2402,6 @@
     }
   },
   "spend": {
-    "2026-10": 0.381242
+    "2026-10": 0.381916
   }
 }
