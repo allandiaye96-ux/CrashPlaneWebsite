@@ -1049,7 +1049,8 @@
     "https://www.aero.de/news-54061/Bekennerschreiben-zu-Brand-auf-Rheinmetall-Baustelle.html": "2026-11-01T07:30:53Z",
     "https://www.aero.de/news-54062/Eurofighter-trainieren-am-Flughafen-Weeze.html": "2026-11-01T07:40:33Z",
     "https://simpleflying.com/how-much-do-helicopter-pilots-earn-compared-to-airline-pilots-in-2026/": "2026-11-01T08:00:55Z",
-    "https://www.air-journal.fr/2026-11-01-catastrophe-ferroviaire-en-espagne-un-pont-aerien-entre-madrid-et-landalousie-mais-des-tarifs-eleves-5278619.html": "2026-11-01T08:00:55Z"
+    "https://www.air-journal.fr/2026-11-01-catastrophe-ferroviaire-en-espagne-un-pont-aerien-entre-madrid-et-landalousie-mais-des-tarifs-eleves-5278619.html": "2026-11-01T08:00:55Z",
+    "https://simpleflying.com/united-airlines-boeing-757-mayday-low-fuel-san-francisco/": "2026-11-01T08:10:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2602,10 +2603,31 @@
       ],
       "story_id": null,
       "written_count": 1
+    },
+    "cd3c28b689a": {
+      "id": "cd3c28b689a",
+      "label": "United 757 mayday carburant San Francisco",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-01T08:10:49Z",
+      "updated": "2026-11-01T08:10:49Z",
+      "items": [
+        {
+          "id": "ed3cfadf7767c7de",
+          "feed": "Simple Flying",
+          "title": "United Boeing 757 Declares Mayday As Fuel Runs Low After Aborted Landing At San Francisco",
+          "url": "https://simpleflying.com/united-airlines-boeing-757-mayday-low-fuel-san-francisco/",
+          "domain": "simpleflying.com",
+          "summary": "An unstable approach forced the 757 into a go-around with low fuel remaining.",
+          "published": "2026-11-01T08:06:16Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.048512
+    "2026-11": 0.049181
   }
 }
