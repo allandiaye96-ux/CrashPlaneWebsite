@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-01T16:20:34Z",
+  "run": "2026-11-01T16:30:45Z",
   "stats": {
     "fetched": 696,
     "new": 0,
@@ -398,12 +398,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488"
-    },
-    {
-      "dossier": "General Atomics aile volante NextGen hybride-électrique",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "F-16 USAF alerte Shemya Aléoutiennes",
