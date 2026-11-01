@@ -1993,27 +1993,6 @@
       "story_id": "2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f",
       "written_count": 1
     },
-    "cb5a4ceec02": {
-      "id": "cb5a4ceec02",
-      "label": "Premier Falcon 8X Archange à Évreux",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-30T14:10:50Z",
-      "updated": "2026-10-30T14:10:50Z",
-      "items": [
-        {
-          "id": "978651b449e86fef",
-          "feed": "AeroTime",
-          "title": "France’s first Falcon 8X Archange spy jet enters military testing",
-          "url": "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux",
-          "domain": "aerotime.aero",
-          "summary": "The first Dassault Falcon 8X Archange signals intelligence aircraft has landed at Évreux-Fauville Air Base 105, the Normandy… The post France’s first Falcon 8X Archange spy jet enters military testing appeared first on AeroTime .",
-          "published": "2026-10-30T13:52:12Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ca590272658": {
       "id": "ca590272658",
       "label": "FAA fin des exemptions monopilote CE-500",
