@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
+    "created": "2026-10-29T16:47:50Z",
+    "updated": "2026-11-01T14:01:26Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Groenland : Ilulissat inaugure une piste de 2 200 mètres accessible aux gros-porteurs",
+    "chapo": "Le Groenland a ouvert un nouvel aéroport à Ilulissat, troisième ville de l'île, doté d'une piste de 2 200 mètres, selon airliners.de. Flightradar24 indique qu'un Airbus A330-800 d'Air Greenland, baptisé Tuukkaq, y est arrivé le 29 octobre.",
+    "paragraphes": [
+      "D'après le gestionnaire cité par airliners.de, il s'agit du troisième aéroport civil du territoire. L'objectif est de soutenir l'économie locale et d'attirer davantage de visiteurs. La nouvelle piste permet l'atterrissage d'avions plus grands.",
+      "Selon Flightradar24, l'ancienne piste mesurait seulement 845 mètres. L'arrivée de l'A330-800 d'Air Greenland a marqué l'entrée en service de la nouvelle piste et des installations aéroportuaires, apportant les vols gros-porteurs dans cette ville. Le blog présente ce chantier comme l'aboutissement de la récente série d'agrandissements des aéroports groenlandais.",
+      "Air Journal rapporte que la compagnie envisage jusqu'à six allers-retours par semaine vers Ilulissat au plus fort de l'été 2027. Cette desserte doit faciliter l'accès à la baie de Disko."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
+        "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
+        "date": "2026-10-29T15:42:08Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Ilulissat inaugurates new, longer runway opening the gateway to North Greenland",
+        "url": "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/",
+        "date": "2026-10-29T19:04:03Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Le Groenland inaugure l’aéroport international d’Ilulissat, aux portes du fjord et des icebergs",
+        "url": "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html",
+        "date": "2026-11-01T14:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
     "created": "2026-10-30T23:21:27Z",
     "updated": "2026-11-01T01:31:01Z",
@@ -1013,45 +1060,6 @@
         "title": "Comac greift mit der CE-25A den Lilium-Antrieb auf",
         "url": "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html",
         "date": "2026-10-30T07:57:41Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
-    "created": "2026-10-29T16:47:50Z",
-    "updated": "2026-10-30T23:07:20Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Groenland : l'aéroport d'Ilulissat inaugure une piste de 2200 mètres accessible aux gros-porteurs",
-    "chapo": "Le Groenland a ouvert le 29 octobre un nouvel aéroport à Ilulissat, doté d'une piste de 2200 mètres, selon airliners.de et le blog de Flightradar24. L'objectif affiché est de soutenir l'économie et d'attirer davantage de touristes.",
-    "paragraphes": [
-      "D'après airliners.de, qui cite l'exploitant, il s'agit du troisième aéroport civil du territoire. Situé dans la troisième ville de l'île, il peut désormais accueillir des avions plus grands grâce à sa nouvelle piste.",
-      "Flightradar24 indique que l'Airbus A330-800 d'Air Greenland baptisé Tuukkaq est arrivé à Ilulissat le jour de l'ouverture, ce qui marque l'arrivée du service gros-porteur sur cette plateforme. L'ancienne piste ne mesurait que 845 mètres. Le média présente cette ouverture comme l'aboutissement de la récente série d'agrandissements des aéroports groenlandais."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
-        "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
-        "date": "2026-10-29T15:42:08Z",
-        "official": false
-      },
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "Ilulissat inaugurates new, longer runway opening the gateway to North Greenland",
-        "url": "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/",
-        "date": "2026-10-29T19:04:03Z",
         "official": false
       }
     ]

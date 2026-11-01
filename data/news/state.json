@@ -1064,7 +1064,9 @@
     "https://www.airliners.de/air-transat-bestaetigt-aus-toronto-berlin-sommer-2027/91232": "2026-11-01T13:20:34Z",
     "https://simpleflying.com/video/united-airlines-ceo-defends-charging-non-frequent-flyers-70-to-avoid-the-middle-seat/": "2026-11-01T13:40:32Z",
     "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata": "2026-11-01T13:40:32Z",
-    "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-01T13:40:32Z"
+    "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-01T13:40:32Z",
+    "https://simpleflying.com/why-singapore-airlines-returned-ultra-long-haul-nonstop/": "2026-11-01T14:00:56Z",
+    "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html": "2026-11-01T14:00:56Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1610,7 +1612,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-10-29T19:10:49Z",
+      "updated": "2026-11-01T14:01:09Z",
       "items": [
         {
           "id": "0626ad9999ec947a",
@@ -1629,10 +1631,19 @@
           "domain": "flightradar24.com",
           "summary": "Air Greenland’s Airbus A330-800 Tuukkaq arrived in Ilulissat on 29 October, bringing widebody service to a Greenlandic airport whose previous runway measured just 845 meters. The arrival marked the opening of a new 2,200-meter runway and airport facilities, broadening the reach of Greenland’s third-largest city and completing the recent round of Greenlandic airport expansion. The […] The post Ilulissat inaugurates new, longer runway opening the gateway to North Greenland appeared first on Flightradar24 Blog .",
           "published": "2026-10-29T19:04:03Z"
+        },
+        {
+          "id": "9be4edbaa2062cba",
+          "feed": "Air Journal",
+          "title": "Le Groenland inaugure l’aéroport international d’Ilulissat, aux portes du fjord et des icebergs",
+          "url": "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html",
+          "domain": "air-journal.fr",
+          "summary": "Le Groenland a inauguré jeudi le nouvel aéroport international d’Ilulissat, sur sa côte occidentale. Dotée d’une piste de 2 200 mètres, la plateforme peut désormais accueillir des gros-porteurs. Air Greenland prévoit jusqu’à six rotations hebdomadaires sur cette liaison au cœur de l’été 2027, ouvrant un accès plus simple à la baie de Disko et au […]",
+          "published": "2026-11-01T14:00:18Z"
         }
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
-      "written_count": 2
+      "written_count": 3
     },
     "cf5670ae665": {
       "id": "cf5670ae665",
@@ -2672,6 +2683,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.07335
+    "2026-11": 0.09542
   }
 }

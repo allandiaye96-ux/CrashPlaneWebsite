@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T13:50:34Z",
+  "run": "2026-11-01T14:00:56Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0733,
+  "spend_month_usd": 0.0954,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -112,6 +112,12 @@
       "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
     },
     {
+      "dossier": "Ilulissat nouvel aéroport Groenland",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
+    },
+    {
       "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
       "statut": "corrobore",
       "editeurs": 3,
@@ -170,12 +176,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
-    },
-    {
-      "dossier": "Ilulissat nouvel aéroport Groenland",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
     },
     {
       "dossier": "airBaltic suppression postes pilotes et cabine",
