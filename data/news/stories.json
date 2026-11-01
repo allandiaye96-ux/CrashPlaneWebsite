@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24",
+    "created": "2026-11-01T19:31:26Z",
+    "updated": "2026-11-01T19:31:26Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Southwest : le Boeing 737 MAX 7 attendu en mars 2027 avec 150 sièges et le Wi-Fi Starlink",
+    "chapo": "Selon Simple Flying, Southwest Airlines doit mettre en service son Boeing 737 MAX 7 en mars 2027. L'appareil proposerait 150 sièges, soit 13 de plus que les 737-700 de la compagnie.",
+    "paragraphes": [
+      "D'après Simple Flying, les 737 MAX 7 de Southwest Airlines débuteront en mars 2027 avec une configuration de 150 sièges. Ce total dépasserait de 13 sièges celui des 737-700 actuellement exploités par la compagnie.",
+      "Le média précise que les appareils seront équipés du Wi-Fi Starlink."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Southwest Airlines’ Boeing 737 MAX 7s To Debut In March 2027 With 13 More Seats Than Its -700s",
+        "url": "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/",
+        "date": "2026-11-01T19:25:03Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
     "created": "2026-10-31T12:01:13Z",
     "updated": "2026-11-01T17:01:19Z",

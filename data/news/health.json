@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T19:20:32Z",
+  "run": "2026-11-01T19:30:49Z",
   "stats": {
-    "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "fetched": 682,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.1354,
+  "spend_month_usd": 0.1437,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 14
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "The Local France – Accidents": {
       "ok": true,
@@ -398,6 +398,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488"
+    },
+    {
+      "dossier": "Southwest 737 MAX 7 début mars 2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24"
     },
     {
       "dossier": "Lufthansa membre d'équipage tué en Inde",

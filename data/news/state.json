@@ -1075,7 +1075,8 @@
     "https://simpleflying.com/boeing-737-max-10-land-some-airports-cant-leave-fully-loaded/": "2026-11-01T17:00:58Z",
     "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/": "2026-11-01T17:00:58Z",
     "https://simpleflying.com/why-jetblue-airbus-a321lr-24-mint-suites-only-sells-23/": "2026-11-01T18:00:58Z",
-    "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z"
+    "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z",
+    "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2655,10 +2656,31 @@
       ],
       "story_id": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488",
       "written_count": 1
+    },
+    "ce1b8b99d24": {
+      "id": "ce1b8b99d24",
+      "label": "Southwest 737 MAX 7 début mars 2027",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-01T19:31:23Z",
+      "updated": "2026-11-01T19:31:23Z",
+      "items": [
+        {
+          "id": "5e74badcf70c45bb",
+          "feed": "Simple Flying",
+          "title": "Southwest Airlines’ Boeing 737 MAX 7s To Debut In March 2027 With 13 More Seats Than Its -700s",
+          "url": "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/",
+          "domain": "simpleflying.com",
+          "summary": "Southwest's Boeing 737 MAX 7 will debut in March 2027 with 150 seats, Starlink Wi-Fi and 13 more seats than the airline's 737-700s.",
+          "published": "2026-11-01T19:25:03Z"
+        }
+      ],
+      "story_id": "2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.135402
+    "2026-11": 0.143652
   }
 }

@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 01 Nov 2026 19:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 19:31:27 +0000</lastBuildDate>
+  <item>
+    <title>Southwest : le Boeing 737 MAX 7 attendu en mars 2027 avec 150 sièges et le Wi-Fi Starlink</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24/</guid>
+    <pubDate>Sun, 01 Nov 2026 19:31:26 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Southwest Airlines doit mettre en service son Boeing 737 MAX 7 en mars 2027. L&#x27;appareil proposerait 150 sièges, soit 13 de plus que les 737-700 de la compagnie.</description>
+  </item>
   <item>
     <title>Ryanair annonce un programme d&#x27;hiver 2026-2027 record au Maroc, avec 156 lignes et 17 nouveautés</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:07:06 +0000</pubDate>
     <category>Accident</category>
     <description>Un hélicoptère CH-47F Chinook de l&#x27;armée italienne, affecté à la mission EUFOR Althea, s&#x27;est écrasé le 29 octobre 2026 en Bosnie, près de Brčko. Selon AeroTime, quatre militaires italiens ont été tués et onze autres blessés.</description>
-  </item>
-  <item>
-    <title>Air Transat lance une liaison directe Montréal–Istanbul et annonce cinq nouvelles routes européennes pour 2027</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665/</guid>
-    <pubDate>Thu, 29 Oct 2026 16:50:49 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, Air Transat inaugure des vols entre Montréal et Istanbul, renforce son partenariat avec Turkish Airlines et annonce cinq nouvelles routes européennes pour 2027.</description>
   </item>
 </channel>
 </rss>
