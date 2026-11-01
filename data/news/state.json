@@ -1067,7 +1067,8 @@
     "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-01T13:40:32Z",
     "https://simpleflying.com/why-singapore-airlines-returned-ultra-long-haul-nonstop/": "2026-11-01T14:00:56Z",
     "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html": "2026-11-01T14:00:56Z",
-    "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night": "2026-11-01T14:40:35Z"
+    "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night": "2026-11-01T14:40:35Z",
+    "https://simpleflying.com/6-longest-nonstop-flights-north-america/": "2026-11-01T15:00:57Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2684,6 +2685,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.103638
+    "2026-11": 0.104311
   }
 }
