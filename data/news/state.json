@@ -1050,7 +1050,8 @@
     "https://www.aero.de/news-54062/Eurofighter-trainieren-am-Flughafen-Weeze.html": "2026-11-01T07:40:33Z",
     "https://simpleflying.com/how-much-do-helicopter-pilots-earn-compared-to-airline-pilots-in-2026/": "2026-11-01T08:00:55Z",
     "https://www.air-journal.fr/2026-11-01-catastrophe-ferroviaire-en-espagne-un-pont-aerien-entre-madrid-et-landalousie-mais-des-tarifs-eleves-5278619.html": "2026-11-01T08:00:55Z",
-    "https://simpleflying.com/united-airlines-boeing-757-mayday-low-fuel-san-francisco/": "2026-11-01T08:10:35Z"
+    "https://simpleflying.com/united-airlines-boeing-757-mayday-low-fuel-san-francisco/": "2026-11-01T08:10:35Z",
+    "https://www.air-journal.fr/2026-11-01-passagers-refoules-facture-salee-liata-reclame-un-partage-plus-equitable-des-couts-5278612.html": "2026-11-01T09:00:57Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2628,6 +2629,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.049181
+    "2026-11": 0.049866
   }
 }
