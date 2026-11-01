@@ -1047,7 +1047,9 @@
     "https://www.airliners.de/personal-karriere-fortschritt-ermuedungsmanagement-befristete-nullrunden-condor-piloten-tarifvertrag-flugdisponenten/91217": "2026-11-01T06:20:33Z",
     "https://www.air-journal.fr/2026-11-01-air-france-renforce-son-offre-vers-les-ameriques-lasie-et-la-peninsule-iberique-pour-lhiver-2026-2027-5278613.html": "2026-11-01T07:00:59Z",
     "https://www.aero.de/news-54061/Bekennerschreiben-zu-Brand-auf-Rheinmetall-Baustelle.html": "2026-11-01T07:30:53Z",
-    "https://www.aero.de/news-54062/Eurofighter-trainieren-am-Flughafen-Weeze.html": "2026-11-01T07:40:33Z"
+    "https://www.aero.de/news-54062/Eurofighter-trainieren-am-Flughafen-Weeze.html": "2026-11-01T07:40:33Z",
+    "https://simpleflying.com/how-much-do-helicopter-pilots-earn-compared-to-airline-pilots-in-2026/": "2026-11-01T08:00:55Z",
+    "https://www.air-journal.fr/2026-11-01-catastrophe-ferroviaire-en-espagne-un-pont-aerien-entre-madrid-et-landalousie-mais-des-tarifs-eleves-5278619.html": "2026-11-01T08:00:55Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2579,10 +2581,31 @@
       ],
       "story_id": null,
       "written_count": 1
+    },
+    "c432cac0ca1": {
+      "id": "c432cac0ca1",
+      "label": "Pont aérien Madrid-Andalousie après catastrophe ferroviaire",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-01T08:01:08Z",
+      "updated": "2026-11-01T08:01:08Z",
+      "items": [
+        {
+          "id": "e73e50a38cc18407",
+          "feed": "Air Journal",
+          "title": "Catastrophe ferroviaire en Espagne : un pont aérien entre Madrid et l’Andalousie, mais des tarifs élevés",
+          "url": "https://www.air-journal.fr/2026-11-01-catastrophe-ferroviaire-en-espagne-un-pont-aerien-entre-madrid-et-landalousie-mais-des-tarifs-eleves-5278619.html",
+          "domain": "air-journal.fr",
+          "summary": "Les compagnies aériennes renforcent leurs vols après la catastrophe ferroviaire du 28 octobre 2026, qui a interrompu le train à grande vitesse entre Madrid et l’Andalousie. Iberia et Iberia Express annoncent plus de 20 000 sièges supplémentaires jusqu’au 8 novembre. Mais les places restent rares et certains tarifs atteignent 400 euros entre Málaga et Madrid, […]",
+          "published": "2026-11-01T08:00:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.031654
+    "2026-11": 0.048512
   }
 }

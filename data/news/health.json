@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T07:50:34Z",
+  "run": "2026-11-01T08:00:55Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 2,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 0.0317,
+  "spend_month_usd": 0.0485,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -473,6 +473,12 @@
     },
     {
       "dossier": "Air France programme hiver 2026-2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Pont aérien Madrid-Andalousie après catastrophe ferroviaire",
       "statut": "source_unique",
       "editeurs": 1,
       "breve": null
