@@ -1071,7 +1071,9 @@
     "https://simpleflying.com/6-longest-nonstop-flights-north-america/": "2026-11-01T15:00:57Z",
     "https://www.air-journal.fr/2026-11-01-maroc-ryanair-lance-un-programme-hivernal-record-avec-53-millions-de-sieges-et-17-nouvelles-lignes-5278627.html": "2026-11-01T15:10:35Z",
     "https://simpleflying.com/impressive-weight-cargo-maxed-out-boeing-747-8f-carry/": "2026-11-01T16:00:58Z",
-    "https://theaviationist.com/2026/11/01/radomes-why-their-colors-often-didnt-match-the-aircraft/": "2026-11-01T16:00:58Z"
+    "https://theaviationist.com/2026/11/01/radomes-why-their-colors-often-didnt-match-the-aircraft/": "2026-11-01T16:00:58Z",
+    "https://simpleflying.com/boeing-737-max-10-land-some-airports-cant-leave-fully-loaded/": "2026-11-01T17:00:58Z",
+    "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/": "2026-11-01T17:00:58Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2355,7 +2357,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-31T12:01:10Z",
-      "updated": "2026-10-31T12:01:10Z",
+      "updated": "2026-11-01T17:01:12Z",
       "items": [
         {
           "id": "36bab4f129e7eb46",
@@ -2365,10 +2367,19 @@
           "domain": "simpleflying.com",
           "summary": "Five of these routes are to the southwestern French town Bergerac.",
           "published": "2026-10-31T12:00:18Z"
+        },
+        {
+          "id": "86478b87285c66e7",
+          "feed": "Simple Flying",
+          "title": "Air Transat Cancels All Flights To 7 International Destinations: See Full List Now",
+          "url": "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/",
+          "domain": "simpleflying.com",
+          "summary": "Some of the routes only operated for a single season.",
+          "published": "2026-11-01T17:00:20Z"
         }
       ],
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
-      "written_count": 1
+      "written_count": 2
     },
     "cff39e9d334": {
       "id": "cff39e9d334",
@@ -2688,6 +2699,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.121242
+    "2026-11": 0.134045
   }
 }

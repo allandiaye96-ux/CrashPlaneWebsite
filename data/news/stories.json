@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
+    "created": "2026-10-31T12:01:13Z",
+    "updated": "2026-11-01T17:01:19Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair supprime 19 liaisons britanniques de plus, Air Transat retire 7 destinations internationales",
+    "chapo": "Selon Simple Flying, Ryanair annule tous ses vols sur 19 liaisons supplémentaires au départ ou à destination du Royaume-Uni, tandis qu'Air Transat met fin à sa desserte de 7 destinations internationales.",
+    "paragraphes": [
+      "Côté Ryanair, le média indique que la compagnie irlandaise supprime l'ensemble de ses vols sur 19 routes britanniques de plus. Cinq de ces liaisons concernent Bergerac, ville du sud-ouest de la France.",
+      "Simple Flying rapporte par ailleurs qu'Air Transat annule tous ses vols vers 7 destinations internationales. Certaines de ces routes n'étaient exploitées que pendant une seule saison."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Ryanair Cancels All Flights On 19 More UK Routes: See Full List Now",
+        "url": "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/",
+        "date": "2026-10-31T12:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Air Transat Cancels All Flights To 7 International Destinations: See Full List Now",
+        "url": "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/",
+        "date": "2026-11-01T17:00:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488",
     "created": "2026-11-01T15:10:56Z",
     "updated": "2026-11-01T15:10:56Z",
@@ -287,38 +326,6 @@
         "title": "Genève reliée à São Paulo par LATAM en 2027, une première liaison directe avec l’Amérique du Sud",
         "url": "https://www.air-journal.fr/2026-10-31-geneve-reliee-sao-paulo-par-latam-en-2027-une-premiere-liaison-directe-avec-lamerique-du-sud-5278603.html",
         "date": "2026-10-31T13:00:34Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
-    "created": "2026-10-31T12:01:13Z",
-    "updated": "2026-10-31T12:01:13Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Ryanair supprime tous ses vols sur 19 autres liaisons au Royaume-Uni, dont cinq vers Bergerac",
-    "chapo": "Selon Simple Flying, Ryanair annule l'ensemble de ses vols sur 19 nouvelles liaisons au départ du Royaume-Uni. Cinq d'entre elles desservent Bergerac, dans le sud-ouest de la France.",
-    "paragraphes": [
-      "D'après Simple Flying, la compagnie low-cost irlandaise a décidé de supprimer la totalité de ses vols sur 19 routes britanniques supplémentaires. Le média publie la liste complète des liaisons concernées.",
-      "Toujours d'après cette publication, cinq de ces routes ont pour destination Bergerac, une ville du sud-ouest de la France."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "Ryanair Cancels All Flights On 19 More UK Routes: See Full List Now",
-        "url": "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/",
-        "date": "2026-10-31T12:00:18Z",
         "official": false
       }
     ]
