@@ -1044,7 +1044,8 @@
     "https://simpleflying.com/delta-air-lines-only-us-carrier-operating-airbus-newest-widebodies/": "2026-11-01T04:00:53Z",
     "https://www.aero.de/news-54050/Fraport-baut-Bodenstromnetz-am-Drehkreuz-Frankfurt-aus.html": "2026-11-01T05:30:44Z",
     "https://www.air-journal.fr/2026-11-01-air-transat-lyon-reliee-a-quebec-sans-escale-en-airbus-a321lr-des-lete-2027-5278611.html": "2026-11-01T06:00:59Z",
-    "https://www.airliners.de/personal-karriere-fortschritt-ermuedungsmanagement-befristete-nullrunden-condor-piloten-tarifvertrag-flugdisponenten/91217": "2026-11-01T06:20:33Z"
+    "https://www.airliners.de/personal-karriere-fortschritt-ermuedungsmanagement-befristete-nullrunden-condor-piloten-tarifvertrag-flugdisponenten/91217": "2026-11-01T06:20:33Z",
+    "https://www.air-journal.fr/2026-11-01-air-france-renforce-son-offre-vers-les-ameriques-lasie-et-la-peninsule-iberique-pour-lhiver-2026-2027-5278613.html": "2026-11-01T07:00:59Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2555,10 +2556,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c0b4c63588e": {
+      "id": "c0b4c63588e",
+      "label": "Air France programme hiver 2026-2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-01T07:01:20Z",
+      "updated": "2026-11-01T07:01:20Z",
+      "items": [
+        {
+          "id": "76d6ed5eb69be729",
+          "feed": "Air Journal",
+          "title": "Air France renforce son offre vers les Amériques, l’Asie et la péninsule ibérique pour l’hiver 2026-2027",
+          "url": "https://www.air-journal.fr/2026-11-01-air-france-renforce-son-offre-vers-les-ameriques-lasie-et-la-peninsule-iberique-pour-lhiver-2026-2027-5278613.html",
+          "domain": "air-journal.fr",
+          "summary": "Air France prévoit jusqu’à 725 vols par jour vers près de 170 destinations dans 78 pays au cours de la saison hivernale 2026-2027. Entre novembre et avril, la compagnie tricolore augmentera notamment ses capacités vers l’Amérique du Nord, l’Amérique du Sud, l’Asie et la péninsule ibérique. Ce programme s’accompagne de la poursuite du déploiement de […]",
+          "published": "2026-11-01T07:00:24Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.013813
+    "2026-11": 0.03032
   }
 }
