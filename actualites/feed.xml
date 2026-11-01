@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 01 Nov 2026 14:30:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 14:40:53 +0000</lastBuildDate>
+  <item>
+    <title>Aéroport de Jersey : nouvelle soirée perturbée par des drones, la deuxième d&#x27;affilée</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005/</guid>
+    <pubDate>Sun, 01 Nov 2026 14:40:53 +0000</pubDate>
+    <category>Incident</category>
+    <description>Selon AeroTime, l&#x27;aéroport de Jersey a connu une deuxième soirée consécutive de perturbations, le samedi 31 octobre, après de nouveaux signalements d&#x27;activité de drones.</description>
+  </item>
   <item>
     <title>Aena : un résultat net en progression de 12,4 % sur neuf mois en 2026, porté par le trafic</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 29 Oct 2026 16:47:50 +0000</pubDate>
     <category>Aéroports</category>
     <description>Le Groenland a ouvert un nouvel aéroport à Ilulissat, troisième ville de l&#x27;île, doté d&#x27;une piste de 2 200 mètres, selon airliners.de. Flightradar24 indique qu&#x27;un Airbus A330-800 d&#x27;Air Greenland, baptisé Tuukkaq, y est arrivé le 29 octobre.</description>
-  </item>
-  <item>
-    <title>Comac prépare les premiers vols d&#x27;essai du CE-25A, son démonstrateur d&#x27;avion régional électrique</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5/</guid>
-    <pubDate>Thu, 29 Oct 2026 16:47:47 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Le constructeur chinois Comac s&#x27;apprête à faire voler le CE-25A, un démonstrateur électrique, selon airliners.de. Des images de l&#x27;appareil circulent sur les réseaux chinois.</description>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005",
+    "created": "2026-11-01T14:40:53Z",
+    "updated": "2026-11-01T14:40:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Aéroport de Jersey : nouvelle soirée perturbée par des drones, la deuxième d'affilée",
+    "chapo": "Selon AeroTime, l'aéroport de Jersey a connu une deuxième soirée consécutive de perturbations, le samedi 31 octobre, après de nouveaux signalements d'activité de drones.",
+    "paragraphes": [
+      "D'après AeroTime, des drones ont de nouveau été signalés aux abords de la plateforme le 31 octobre au soir, ce qui a entraîné des perturbations pour l'aéroport. Il s'agit de la deuxième soirée de suite concernée par ce type de situation.",
+      "Les circonstances précises de ces signalements et leurs conséquences détaillées sur le trafic ne figurent pas dans les éléments publiés par le média."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Jersey Airport hit by drone disruption for second consecutive night",
+        "url": "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night",
+        "date": "2026-11-01T13:44:57Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
     "created": "2026-10-29T16:47:50Z",
     "updated": "2026-11-01T14:01:26Z",

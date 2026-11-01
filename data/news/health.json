@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T14:30:45Z",
+  "run": "2026-11-01T14:40:35Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0954,
+  "spend_month_usd": 0.1036,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -386,6 +386,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24"
+    },
+    {
+      "dossier": "Jersey aéroport perturbations drones",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005"
     },
     {
       "dossier": "General Atomics aile volante NextGen hybride-électrique",

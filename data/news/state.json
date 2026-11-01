@@ -1066,7 +1066,8 @@
     "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata": "2026-11-01T13:40:32Z",
     "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-01T13:40:32Z",
     "https://simpleflying.com/why-singapore-airlines-returned-ultra-long-haul-nonstop/": "2026-11-01T14:00:56Z",
-    "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html": "2026-11-01T14:00:56Z"
+    "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html": "2026-11-01T14:00:56Z",
+    "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night": "2026-11-01T14:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2658,10 +2659,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ce6679d6005": {
+      "id": "ce6679d6005",
+      "label": "Jersey aéroport perturbations drones",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-01T14:40:49Z",
+      "updated": "2026-11-01T14:40:49Z",
+      "items": [
+        {
+          "id": "59c1895c97c29236",
+          "feed": "AeroTime",
+          "title": "Jersey Airport hit by drone disruption for second consecutive night",
+          "url": "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night",
+          "domain": "aerotime.aero",
+          "summary": "Jersey Airport experienced a second evening of disruption on Saturday, 31 October, after further drone activity was reported… The post Jersey Airport hit by drone disruption for second consecutive night appeared first on AeroTime .",
+          "published": "2026-11-01T13:44:57Z"
+        }
+      ],
+      "story_id": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.09542
+    "2026-11": 0.103638
   }
 }
