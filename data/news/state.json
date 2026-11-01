@@ -1079,7 +1079,8 @@
     "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z",
     "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-v-22-osprey/": "2026-11-01T20:00:58Z",
     "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html": "2026-11-01T20:40:35Z",
-    "https://simpleflying.com/untold-truth-airlines-use-basic-economy-upsell-passengers/": "2026-11-01T21:01:00Z"
+    "https://simpleflying.com/untold-truth-airlines-use-basic-economy-upsell-passengers/": "2026-11-01T21:01:00Z",
+    "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/": "2026-11-01T22:01:00Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2666,7 +2667,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-01T20:40:47Z",
-      "updated": "2026-11-01T20:40:47Z",
+      "updated": "2026-11-01T22:01:20Z",
       "items": [
         {
           "id": "f4d9d74a3fa0d7f5",
@@ -2676,14 +2677,23 @@
           "domain": "aero.de",
           "summary": "PALM BEACH - Ein Learjet 60 stürzt in Florida neben einer Straße ab. Niemand an Bord überlebt.",
           "published": "2026-11-01T20:40:28Z"
+        },
+        {
+          "id": "4d7093736f5ff09d",
+          "feed": "Simple Flying",
+          "title": "Breaking: Learjet 60 With 9 People Onboard Fatally Nose Dives In Missile-Like Crash Near Mar-A-Lago",
+          "url": "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/",
+          "domain": "simpleflying.com",
+          "summary": "A Learjet 60 carrying nine people crashed in Greenacres, Florida, near Mar-a-Lago, after a dramatic nose-down descent and fiery impact",
+          "published": "2026-11-01T21:59:52Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.14567
+    "2026-11": 0.157484
   }
 }

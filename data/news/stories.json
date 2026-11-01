@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
+    "created": "2026-11-01T22:01:32Z",
+    "updated": "2026-11-01T22:01:32Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Floride : un Learjet 60 s'écrase près d'une route à Greenacres, aucun survivant selon aero.de",
+    "chapo": "Un Learjet 60 s'est écrasé en Floride, à côté d'une route, et personne n'a survécu à bord, selon aero.de. D'après Simple Flying, l'appareil transportait neuf personnes.",
+    "paragraphes": [
+      "Simple Flying situe l'accident à Greenacres, en Floride, à proximité de Mar-a-Lago. Le média décrit une descente en piqué suivie d'un impact accompagné d'un incendie.",
+      "Les causes de l'accident ne sont pas établies et aucune autorité d'enquête ne s'est exprimée à ce stade dans les sources disponibles."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Tote bei Learjet-Absturz in Florida",
+        "url": "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html",
+        "date": "2026-11-01T20:40:28Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Breaking: Learjet 60 With 9 People Onboard Fatally Nose Dives In Missile-Like Crash Near Mar-A-Lago",
+        "url": "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/",
+        "date": "2026-11-01T21:59:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24",
     "created": "2026-11-01T19:31:26Z",
     "updated": "2026-11-01T19:31:26Z",
