@@ -6,7 +6,7 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 01 Nov 2026 12:50:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:01:21 +0000</lastBuildDate>
   <item>
     <title>Aena : un résultat net en progression de 12,4 % sur neuf mois en 2026, porté par le trafic</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24/</link>
@@ -160,14 +160,6 @@
     <description>Selon airliners.de, Cathay Pacific figure parmi les compagnies concernées par l&#x27;incident de sécurité des données survenu chez l&#x27;éditeur de logiciels Amadeus. Environ 53 000 réservations seraient touchées.</description>
   </item>
   <item>
-    <title>Archer Aviation et ITA Airways s&#x27;associent pour un réseau de taxis aériens électriques en Italie</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:11:17 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AviTrader, Archer Aviation et ITA Airways ont signé un accord pour développer en Italie un réseau de taxis aériens entièrement électriques, visant les grandes villes du pays.</description>
-  </item>
-  <item>
     <title>China Southern Airlines passe dans le rouge au troisième trimestre, avec une perte nette de 609 millions de yuans</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a/</link>
     <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a/</guid>
@@ -246,6 +238,14 @@
     <pubDate>Thu, 29 Oct 2026 16:47:50 +0000</pubDate>
     <category>Aéroports</category>
     <description>Le Groenland a ouvert le 29 octobre un nouvel aéroport à Ilulissat, doté d&#x27;une piste de 2200 mètres, selon airliners.de et le blog de Flightradar24. L&#x27;objectif affiché est de soutenir l&#x27;économie et d&#x27;attirer davantage de touristes.</description>
+  </item>
+  <item>
+    <title>Comac prépare les premiers vols d&#x27;essai du CE-25A, son démonstrateur d&#x27;avion régional électrique</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5/</guid>
+    <pubDate>Thu, 29 Oct 2026 16:47:47 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Le constructeur chinois Comac s&#x27;apprête à faire voler le CE-25A, un démonstrateur électrique, selon airliners.de. Des images de l&#x27;appareil circulent sur les réseaux chinois.</description>
   </item>
 </channel>
 </rss>

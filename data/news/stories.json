@@ -708,7 +708,7 @@
     "version": 1,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Compagnies",
     "importance": 2,
     "titre": "Archer Aviation et ITA Airways s'associent pour un réseau de taxis aériens électriques en Italie",

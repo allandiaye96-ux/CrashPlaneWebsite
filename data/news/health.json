@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T12:50:35Z",
+  "run": "2026-11-01T13:00:56Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 2,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 0.0533,
+  "spend_month_usd": 0.0719,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -118,6 +118,12 @@
       "breve": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e"
     },
     {
+      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -176,12 +182,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25"
-    },
-    {
-      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
     },
     {
       "dossier": "LOT dernier vol Embraer E170",
