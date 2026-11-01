@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T23:30:49Z",
+  "run": "2026-11-01T23:40:33Z",
   "stats": {
     "fetched": 687,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.1595,
+  "spend_month_usd": 0.1692,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -130,6 +130,12 @@
       "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
     },
     {
+      "dossier": "Learjet 60 accident Palm Beach Floride",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -212,12 +218,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca"
-    },
-    {
-      "dossier": "Learjet 60 accident Palm Beach Floride",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",

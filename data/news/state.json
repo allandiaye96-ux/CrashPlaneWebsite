@@ -1083,7 +1083,8 @@
     "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/": "2026-11-01T22:01:00Z",
     "https://simpleflying.com/flagship-of-worlds-elite-airlines-is-no-longer-in-production-why/": "2026-11-01T22:30:46Z",
     "https://simpleflying.com/cirrus-built-the-sr22-with-airplane-parachute/": "2026-11-01T23:01:03Z",
-    "https://www.air-journal.fr/2026-11-02-le-2-novembre-1909-dans-le-ciel-le-zodiac-iii-realise-une-ascension-en-belgique-5278628.html": "2026-11-01T23:09:01Z"
+    "https://www.air-journal.fr/2026-11-02-le-2-novembre-1909-dans-le-ciel-le-zodiac-iii-realise-une-ascension-en-belgique-5278628.html": "2026-11-01T23:09:01Z",
+    "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/": "2026-11-01T23:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2670,7 +2671,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-01T20:40:47Z",
-      "updated": "2026-11-01T22:01:20Z",
+      "updated": "2026-11-01T23:40:46Z",
       "items": [
         {
           "id": "f4d9d74a3fa0d7f5",
@@ -2689,14 +2690,23 @@
           "domain": "simpleflying.com",
           "summary": "A Learjet 60 carrying nine people crashed in Greenacres, Florida, near Mar-a-Lago, after a dramatic nose-down descent and fiery impact",
           "published": "2026-11-01T21:59:52Z"
+        },
+        {
+          "id": "7ca811874a9dcaaa",
+          "feed": "Flightradar24 – Blog",
+          "title": "Learjet 60 crashes near West Palm Beach, Florida",
+          "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/",
+          "domain": "flightradar24.com",
+          "summary": "A Learjet 60 crashed 1 November near West Palm Beach, Florida at approximately 17:49 UTC (12:49 local time). According to the Federal Aviation Administration, 9 people were on board the aircraft at the time of the crash. The flight was en route from Austin-Bergstrom International Airport to North Eleuthera Airport in the Bahamas. The National […] The post Learjet 60 crashes near West Palm Beach, Florida appeared first on Flightradar24 Blog .",
+          "published": "2026-11-01T23:25:42Z"
         }
       ],
       "story_id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
-      "written_count": 2
+      "written_count": 3
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.15951
+    "2026-11": 0.169249
   }
 }
