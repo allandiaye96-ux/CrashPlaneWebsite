@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-01T12:20:38Z",
+  "run": "2026-11-01T12:30:46Z",
   "stats": {
     "fetched": 696,
     "new": 0,
@@ -386,12 +386,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24"
-    },
-    {
-      "dossier": "Premier FA-50M de la RMAF arrive en Malaisie",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Premier Falcon 8X Archange à Évreux",
