@@ -1068,7 +1068,8 @@
     "https://simpleflying.com/why-singapore-airlines-returned-ultra-long-haul-nonstop/": "2026-11-01T14:00:56Z",
     "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html": "2026-11-01T14:00:56Z",
     "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night": "2026-11-01T14:40:35Z",
-    "https://simpleflying.com/6-longest-nonstop-flights-north-america/": "2026-11-01T15:00:57Z"
+    "https://simpleflying.com/6-longest-nonstop-flights-north-america/": "2026-11-01T15:00:57Z",
+    "https://www.air-journal.fr/2026-11-01-maroc-ryanair-lance-un-programme-hivernal-record-avec-53-millions-de-sieges-et-17-nouvelles-lignes-5278627.html": "2026-11-01T15:10:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2681,10 +2682,31 @@
       ],
       "story_id": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005",
       "written_count": 1
+    },
+    "ce3ed664488": {
+      "id": "ce3ed664488",
+      "label": "Ryanair programme hivernal Maroc 2026-2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-01T15:10:50Z",
+      "updated": "2026-11-01T15:10:50Z",
+      "items": [
+        {
+          "id": "408448ad183f61a7",
+          "feed": "Air Journal",
+          "title": "Maroc : Ryanair lance un programme hivernal record, avec 5,3 millions de sièges et 17 nouvelles lignes",
+          "url": "https://www.air-journal.fr/2026-11-01-maroc-ryanair-lance-un-programme-hivernal-record-avec-53-millions-de-sieges-et-17-nouvelles-lignes-5278627.html",
+          "domain": "air-journal.fr",
+          "summary": "Ryanair déploie son plus important programme hivernal au Maroc pour la saison 2026-2027. Elle annonce 5,3 millions de sièges sur 156 lignes, dont 17 nouvelles liaisons, soit une hausse de capacité de 12% sur un an. Elle prépare également l’été 2027 avec quatre nouvelles dessertes européennes au départ de Tanger et de Marrakech. Le Maroc […]",
+          "published": "2026-11-01T15:00:38Z"
+        }
+      ],
+      "story_id": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.104311
+    "2026-11": 0.12053
   }
 }

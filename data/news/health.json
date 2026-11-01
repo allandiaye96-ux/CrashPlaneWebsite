@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T15:00:57Z",
+  "run": "2026-11-01T15:10:35Z",
   "stats": {
     "fetched": 696,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.1043,
+  "spend_month_usd": 0.1205,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -392,6 +392,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005"
+    },
+    {
+      "dossier": "Ryanair programme hivernal Maroc 2026-2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488"
     },
     {
       "dossier": "General Atomics aile volante NextGen hybride-électrique",

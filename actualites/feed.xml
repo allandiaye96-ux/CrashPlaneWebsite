@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 01 Nov 2026 15:01:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 15:10:56 +0000</lastBuildDate>
+  <item>
+    <title>Ryanair annonce un programme d&#x27;hiver 2026-2027 record au Maroc, avec 156 lignes et 17 nouveautés</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488/</guid>
+    <pubDate>Sun, 01 Nov 2026 15:10:56 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Air Journal, Ryanair met en place au Maroc son plus gros programme hivernal pour la saison 2026-2027. La compagnie irlandaise y proposera 5,3 millions de sièges répartis sur 156 lignes.</description>
+  </item>
   <item>
     <title>Aéroport de Jersey : nouvelle soirée perturbée par des drones, la deuxième d&#x27;affilée</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 29 Oct 2026 16:50:49 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Air Transat inaugure des vols entre Montréal et Istanbul, renforce son partenariat avec Turkish Airlines et annonce cinq nouvelles routes européennes pour 2027.</description>
-  </item>
-  <item>
-    <title>Groenland : Ilulissat inaugure une piste de 2 200 mètres accessible aux gros-porteurs</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2/</guid>
-    <pubDate>Thu, 29 Oct 2026 16:47:50 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Le Groenland a ouvert un nouvel aéroport à Ilulissat, troisième ville de l&#x27;île, doté d&#x27;une piste de 2 200 mètres, selon airliners.de. Flightradar24 indique qu&#x27;un Airbus A330-800 d&#x27;Air Greenland, baptisé Tuukkaq, y est arrivé le 29 octobre.</description>
   </item>
 </channel>
 </rss>

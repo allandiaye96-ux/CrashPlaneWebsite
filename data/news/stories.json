@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488",
+    "created": "2026-11-01T15:10:56Z",
+    "updated": "2026-11-01T15:10:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair annonce un programme d'hiver 2026-2027 record au Maroc, avec 156 lignes et 17 nouveautés",
+    "chapo": "Selon Air Journal, Ryanair met en place au Maroc son plus gros programme hivernal pour la saison 2026-2027. La compagnie irlandaise y proposera 5,3 millions de sièges répartis sur 156 lignes.",
+    "paragraphes": [
+      "D'après Air Journal, l'offre comprend 17 liaisons inédites. Ryanair évoque une capacité en progression de 12% par rapport à l'année précédente.",
+      "Le transporteur prépare aussi l'été 2027 : quatre nouvelles dessertes européennes sont prévues, au départ de Tanger et de Marrakech."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Maroc : Ryanair lance un programme hivernal record, avec 5,3 millions de sièges et 17 nouvelles lignes",
+        "url": "https://www.air-journal.fr/2026-11-01-maroc-ryanair-lance-un-programme-hivernal-record-avec-53-millions-de-sieges-et-17-nouvelles-lignes-5278627.html",
+        "date": "2026-11-01T15:00:38Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005",
     "created": "2026-11-01T14:40:53Z",
     "updated": "2026-11-01T14:40:53Z",
