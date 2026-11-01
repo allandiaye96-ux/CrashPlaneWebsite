@@ -1057,7 +1057,8 @@
     "https://simpleflying.com/how-many-miles-business-class-with-united-mileageplus-2026/": "2026-11-01T11:00:57Z",
     "https://www.air-journal.fr/2026-11-01-italie-un-ete-record-pour-les-aeroports-avec-988-millions-de-passagers-5278614.html": "2026-11-01T11:00:57Z",
     "https://simpleflying.com/how-1970s-aircraft-still-power-america-private-fleet/": "2026-11-01T12:00:59Z",
-    "https://www.air-journal.fr/2026-11-01-air-france-le-chef-martiniquais-louis-philippe-vigilant-signe-les-menus-business-au-depart-des-antilles-guyane-5278623.html": "2026-11-01T12:00:59Z"
+    "https://www.air-journal.fr/2026-11-01-air-france-le-chef-martiniquais-louis-philippe-vigilant-signe-les-menus-business-au-depart-des-antilles-guyane-5278623.html": "2026-11-01T12:00:59Z",
+    "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine": "2026-11-01T12:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2610,10 +2611,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c5ed4f7454d": {
+      "id": "c5ed4f7454d",
+      "label": "Vente de missiles Patriot à l'Ukraine",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-01T12:40:49Z",
+      "updated": "2026-11-01T12:40:49Z",
+      "items": [
+        {
+          "id": "b733a7565e2aa3ce",
+          "feed": "AeroTime",
+          "title": "US approves potential $2.1 billion sale of 500 Patriot missiles to Ukraine",
+          "url": "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine",
+          "domain": "aerotime.aero",
+          "summary": "The US State Department has approved a potential sale of 500 Patriot PAC-3 MSE interceptors to Ukraine, with… The post US approves potential $2.1 billion sale of 500 Patriot missiles to Ukraine appeared first on AeroTime .",
+          "published": "2026-11-01T12:24:46Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.052643
+    "2026-11": 0.05332
   }
 }

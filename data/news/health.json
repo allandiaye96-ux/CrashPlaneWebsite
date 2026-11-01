@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T12:30:46Z",
+  "run": "2026-11-01T12:40:35Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0526,
+  "spend_month_usd": 0.0533,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -479,6 +479,12 @@
     },
     {
       "dossier": "United 757 mayday carburant San Francisco",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Vente de missiles Patriot à l'Ukraine",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
