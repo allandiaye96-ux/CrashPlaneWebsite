@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T01:20:31Z",
+  "run": "2026-11-01T01:30:44Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0013,
+  "spend_month_usd": 0.0099,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -202,6 +202,12 @@
       "breve": "2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212"
     },
     {
+      "dossier": "Alaska Airlines licenciements 200 employés",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
+    },
+    {
       "dossier": "Collision hélicoptères Oregon McMinnville",
       "statut": "corrobore",
       "editeurs": 2,
@@ -344,12 +350,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192"
-    },
-    {
-      "dossier": "Alaska Airlines licenciements 200 employés",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
     },
     {
       "dossier": "Delta hub Floride 1,5 Md$ porte internationale",

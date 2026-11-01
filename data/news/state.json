@@ -1037,7 +1037,8 @@
     "https://simpleflying.com/lufthansa-crew-member-dies-electrocution-hotel-swimming-pool-layover/": "2026-10-31T23:10:38Z",
     "https://www.air-journal.fr/2026-11-01-le-1er-novembre-1908-dans-le-ciel-3e-vol-pour-le-clement-bayard-5278609.html": "2026-10-31T23:10:38Z",
     "https://simpleflying.com/cargolux-first-boeing-747-8f-tracked-one-week/": "2026-11-01T00:01:04Z",
-    "https://simpleflying.com/5-airports-longest-security-lines-2026/": "2026-11-01T01:00:56Z"
+    "https://simpleflying.com/5-airports-longest-security-lines-2026/": "2026-11-01T01:00:56Z",
+    "https://simpleflying.com/alaska-air-group-lay-off-200-roles-fuel-prices/": "2026-11-01T01:30:44Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2201,7 +2202,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-30T22:10:47Z",
-      "updated": "2026-10-30T22:10:47Z",
+      "updated": "2026-11-01T01:30:57Z",
       "items": [
         {
           "id": "d4f4072e2e7956d9",
@@ -2211,10 +2212,19 @@
           "domain": "airlinegeeks.com",
           "summary": "The company cited higher fuel costs and \"geopolitical challenges.\"",
           "published": "2026-10-30T22:02:36Z"
+        },
+        {
+          "id": "a32f5c06ac679ca1",
+          "feed": "Simple Flying",
+          "title": "Alaska Air Group To Lay Off 200 Roles By Year’s End, Cites Soaring Fuel Prices",
+          "url": "https://simpleflying.com/alaska-air-group-lay-off-200-roles-fuel-prices/",
+          "domain": "simpleflying.com",
+          "summary": "Executives cite disproportionate overhead and geopolitical fuel shocks as they realign post merger operations and roles.",
+          "published": "2026-11-01T01:29:53Z"
         }
       ],
       "story_id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
-      "written_count": 1
+      "written_count": 2
     },
     "c3e5cde50b4": {
       "id": "c3e5cde50b4",
@@ -2543,6 +2553,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.00127
+    "2026-11": 0.009917
   }
 }
