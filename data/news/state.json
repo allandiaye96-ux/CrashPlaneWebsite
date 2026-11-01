@@ -2097,27 +2097,6 @@
       "story_id": "2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192",
       "written_count": 1
     },
-    "c53d882c710": {
-      "id": "c53d882c710",
-      "label": "Lufthansa membre d'équipage tué en Inde",
-      "categorie": "Accident",
-      "importance": 3,
-      "created": "2026-10-30T20:01:18Z",
-      "updated": "2026-10-30T20:01:18Z",
-      "items": [
-        {
-          "id": "6828101d1ba34ecf",
-          "feed": "aero.de",
-          "title": "Lufthansa-Crewmitglied in Indien tödlich verletzt",
-          "url": "https://www.aero.de/news-54059/Lufthansa-Crewmitglied-in-Indien-toedlich-verletzt.html",
-          "domain": "aero.de",
-          "summary": "BENGALURU - Ein schwerer Unfall erschüttert Lufthansa. Ein Mitglied einer Lufthansa-Crew wird bei einem Layover in Indien tödlich verletzt.",
-          "published": "2026-10-30T19:58:55Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "caae4876212": {
       "id": "caae4876212",
       "label": "GJ-21 décollage/appontage Type 076",
