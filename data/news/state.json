@@ -1077,7 +1077,8 @@
     "https://simpleflying.com/why-jetblue-airbus-a321lr-24-mint-suites-only-sells-23/": "2026-11-01T18:00:58Z",
     "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z",
     "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z",
-    "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-v-22-osprey/": "2026-11-01T20:00:58Z"
+    "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-v-22-osprey/": "2026-11-01T20:00:58Z",
+    "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html": "2026-11-01T20:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2657,10 +2658,31 @@
       ],
       "story_id": "2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24",
       "written_count": 1
+    },
+    "c55fdd453fb": {
+      "id": "c55fdd453fb",
+      "label": "Learjet 60 accident Palm Beach Floride",
+      "categorie": "Accident",
+      "importance": 3,
+      "created": "2026-11-01T20:40:47Z",
+      "updated": "2026-11-01T20:40:47Z",
+      "items": [
+        {
+          "id": "f4d9d74a3fa0d7f5",
+          "feed": "aero.de",
+          "title": "Tote bei Learjet-Absturz in Florida",
+          "url": "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html",
+          "domain": "aero.de",
+          "summary": "PALM BEACH - Ein Learjet 60 stürzt in Florida neben einer Straße ab. Niemand an Bord überlebt.",
+          "published": "2026-11-01T20:40:28Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.144322
+    "2026-11": 0.144999
   }
 }
