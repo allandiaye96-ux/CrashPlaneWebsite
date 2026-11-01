@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T13:30:48Z",
+  "run": "2026-11-01T13:40:32Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.0726,
+  "spend_month_usd": 0.0733,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -485,6 +485,12 @@
     },
     {
       "dossier": "Vente de missiles Patriot à l'Ukraine",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Akasa Air 737 MAX talonnage Kolkata",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

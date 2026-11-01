@@ -1061,7 +1061,10 @@
     "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine": "2026-11-01T12:40:35Z",
     "https://simpleflying.com/f-22-what-takes-fly-americas-top-stealth-fighter/": "2026-11-01T13:00:56Z",
     "https://www.air-journal.fr/2026-11-01-archer-et-ita-airways-sallient-pour-developper-les-taxis-volants-electriques-en-italie-5278615.html": "2026-11-01T13:00:56Z",
-    "https://www.airliners.de/air-transat-bestaetigt-aus-toronto-berlin-sommer-2027/91232": "2026-11-01T13:20:34Z"
+    "https://www.airliners.de/air-transat-bestaetigt-aus-toronto-berlin-sommer-2027/91232": "2026-11-01T13:20:34Z",
+    "https://simpleflying.com/video/united-airlines-ceo-defends-charging-non-frequent-flyers-70-to-avoid-the-middle-seat/": "2026-11-01T13:40:32Z",
+    "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata": "2026-11-01T13:40:32Z",
+    "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-01T13:40:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2644,10 +2647,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c00cffabc16": {
+      "id": "c00cffabc16",
+      "label": "Akasa Air 737 MAX talonnage Kolkata",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-01T13:40:46Z",
+      "updated": "2026-11-01T13:40:46Z",
+      "items": [
+        {
+          "id": "46f321870e47da72",
+          "feed": "AeroTime",
+          "title": "Akasa Air B737 MAX strikes runway during go-around in Kolkata",
+          "url": "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata",
+          "domain": "aerotime.aero",
+          "summary": "An Akasa Air Boeing 737 MAX 8 struck its tail on the runway during a go-around at Kolkata… The post Akasa Air B737 MAX strikes runway during go-around in Kolkata appeared first on AeroTime .",
+          "published": "2026-11-01T13:16:20Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.072599
+    "2026-11": 0.07335
   }
 }
