@@ -1035,7 +1035,8 @@
     "https://theaviationist.com/2026/10/31/rafale-m-conducts-trials-aboard-ins-vikrant/": "2026-10-31T22:30:44Z",
     "https://simpleflying.com/airlines-offering-stopover-packages-for-a-fraction-of-the-cost-of-a-separate-trip/": "2026-10-31T23:00:59Z",
     "https://simpleflying.com/lufthansa-crew-member-dies-electrocution-hotel-swimming-pool-layover/": "2026-10-31T23:10:38Z",
-    "https://www.air-journal.fr/2026-11-01-le-1er-novembre-1908-dans-le-ciel-3e-vol-pour-le-clement-bayard-5278609.html": "2026-10-31T23:10:38Z"
+    "https://www.air-journal.fr/2026-11-01-le-1er-novembre-1908-dans-le-ciel-3e-vol-pour-le-clement-bayard-5278609.html": "2026-10-31T23:10:38Z",
+    "https://simpleflying.com/cargolux-first-boeing-747-8f-tracked-one-week/": "2026-11-01T00:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2540,6 +2541,7 @@
     }
   },
   "spend": {
-    "2026-10": 0.524533
+    "2026-10": 0.524533,
+    "2026-11": 0.000635
   }
 }
