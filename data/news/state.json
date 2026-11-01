@@ -1076,7 +1076,8 @@
     "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/": "2026-11-01T17:00:58Z",
     "https://simpleflying.com/why-jetblue-airbus-a321lr-24-mint-suites-only-sells-23/": "2026-11-01T18:00:58Z",
     "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z",
-    "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z"
+    "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z",
+    "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-v-22-osprey/": "2026-11-01T20:00:58Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2681,6 +2682,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.143652
+    "2026-11": 0.144322
   }
 }
