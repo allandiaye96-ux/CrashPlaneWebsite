@@ -1074,7 +1074,8 @@
     "https://theaviationist.com/2026/11/01/radomes-why-their-colors-often-didnt-match-the-aircraft/": "2026-11-01T16:00:58Z",
     "https://simpleflying.com/boeing-737-max-10-land-some-airports-cant-leave-fully-loaded/": "2026-11-01T17:00:58Z",
     "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/": "2026-11-01T17:00:58Z",
-    "https://simpleflying.com/why-jetblue-airbus-a321lr-24-mint-suites-only-sells-23/": "2026-11-01T18:00:58Z"
+    "https://simpleflying.com/why-jetblue-airbus-a321lr-24-mint-suites-only-sells-23/": "2026-11-01T18:00:58Z",
+    "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2052,27 +2053,6 @@
       "story_id": "2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b",
       "written_count": 1
     },
-    "c746ff8e570": {
-      "id": "c746ff8e570",
-      "label": "Italie envisage l'A400M",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-30T18:50:49Z",
-      "updated": "2026-10-30T18:50:49Z",
-      "items": [
-        {
-          "id": "b2b210c76b7707f3",
-          "feed": "The Aviationist",
-          "title": "Is Italy About to Join the A400M Club?",
-          "url": "https://theaviationist.com/2026/10/30/is-italy-about-to-join-the-a400m-club/",
-          "domain": "theaviationist.com",
-          "summary": "A document titled “Airbus A400M for Italy” was spotted during recent UK-Italy talks about RAF-ItAF cooperation, adding substance to reports that Rome is considering the European cargo aircraft. Years after withdrawing from the program that resulted in the A400M, Italy might be looking again at procuring the European military cargo aircraft. A document appeared in […]",
-          "published": "2026-10-30T18:43:58Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c7379597198": {
       "id": "c7379597198",
       "label": "Couvre-feu Sydney business jets",
@@ -2679,6 +2659,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.134718
+    "2026-11": 0.135402
   }
 }

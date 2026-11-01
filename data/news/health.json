@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-01T18:50:34Z",
+  "run": "2026-11-01T19:00:58Z",
   "stats": {
-    "fetched": 686,
-    "new": 0,
+    "fetched": 696,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.1347,
+  "spend_month_usd": 0.1354,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -22,8 +22,8 @@
       "items": 50
     },
     "Simple Flying": {
-      "ok": false,
-      "error": "RemoteDisconnected: Remote end closed connection without response"
+      "ok": true,
+      "items": 10
     },
     "AeroTime": {
       "ok": true,
@@ -398,12 +398,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488"
-    },
-    {
-      "dossier": "Italie envisage l'A400M",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Lufthansa membre d'équipage tué en Inde",
