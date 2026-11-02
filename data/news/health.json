@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-02T16:40:36Z",
+  "run": "2026-11-02T16:50:36Z",
   "stats": {
-    "fetched": 638,
-    "new": 1,
+    "fetched": 688,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -18,8 +18,8 @@
       "items": 50
     },
     "EASA – Actualités": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 50
     },
     "Simple Flying": {
       "ok": true,
@@ -512,12 +512,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7"
-    },
-    {
-      "dossier": "Trump International Airport missiles Stinger et brouilleurs",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "HADES Army premier vol prototype",
