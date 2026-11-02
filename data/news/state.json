@@ -1198,7 +1198,10 @@
     "https://simpleflying.com/southwest-airlines-drops-suspends-10-nonstop-routes/": "2026-11-02T18:01:08Z",
     "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman": "2026-11-02T18:20:36Z",
     "https://simpleflying.com/southwest-launches-5-new-nonstop-routes/": "2026-11-02T18:30:54Z",
-    "https://www.aero.de/news-54071/Pistorius-fordert-schnelle-Entscheidung-ueber-neuen-Kampfjet.html": "2026-11-02T18:30:54Z"
+    "https://www.aero.de/news-54071/Pistorius-fordert-schnelle-Entscheidung-ueber-neuen-Kampfjet.html": "2026-11-02T18:30:54Z",
+    "https://simpleflying.com/air-canada-launches-11-long-haul-787-routes/": "2026-11-02T19:01:04Z",
+    "https://simpleflying.com/seaplane-destinations-cessna-caravan-amphibians-fly-passengers/": "2026-11-02T19:01:04Z",
+    "https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat": "2026-11-02T19:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3361,6 +3364,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.62985
+    "2026-11": 0.630711
   }
 }
