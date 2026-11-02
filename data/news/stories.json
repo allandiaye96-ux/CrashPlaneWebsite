@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc",
+    "created": "2026-11-02T14:21:08Z",
+    "updated": "2026-11-02T14:21:08Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Indigo pourrait ajuster le calendrier de son expansion internationale face aux fermetures d'espace aérien",
+    "chapo": "Selon airliners.de, la fermeture de l'espace aérien pakistanais et la situation au Moyen-Orient pèsent sur les liaisons d'Indigo vers l'ouest. Le directeur général Willie Walsh laisse entendre que la compagnie pourrait revoir le rythme de son développement à l'international.",
+    "paragraphes": [
+      "D'après airliners.de, ces contraintes touchent la plus grande compagnie aérienne d'Inde sur ses routes en direction de l'ouest. Le média indique que Willie Walsh évoque la possibilité d'un autre séquencement de l'expansion internationale du transporteur.",
+      "Le titre de l'article mentionne un déploiement de capacités à l'étranger plus tôt que prévu."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Wegen Luftraumsperrungen: Indigo verlagert Auslands-Kapazitäten früher als geplant",
+        "url": "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242",
+        "date": "2026-11-02T13:46:25Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02-kerosene-cher-air-china-china-eastern-et-china-southern-en-r-0c77",
+    "created": "2026-11-02T14:21:01Z",
+    "updated": "2026-11-02T14:21:01Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Kérosène cher : Air China, China Eastern et China Southern en recul sur leur trimestre le plus fort",
+    "chapo": "Selon airliners.de, les trois principales compagnies chinoises ont nettement moins bien performé que l'an dernier lors du trimestre traditionnellement le plus fort de l'année, pénalisées par le prix élevé du kérosène.",
+    "paragraphes": [
+      "D'après le média allemand, Air China, China Eastern et China Southern, les trois plus grandes compagnies aériennes de Chine, affichent des résultats nettement inférieurs à ceux de l'année précédente sur cette période habituellement favorable.",
+      "Toujours d'après airliners.de, les analystes anticipent des pertes pour chacune des trois compagnies sur l'ensemble de l'année."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Hohe Kerosinpreise drücken Air China, China Eastern und China Southern ins Minus",
+        "url": "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244",
+        "date": "2026-11-02T13:46:39Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
+    "created": "2026-11-01T22:01:32Z",
+    "updated": "2026-11-02T14:20:57Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Floride : un Learjet 60 s'écrase près de West Palm Beach, les neuf personnes à bord sont mortes",
+    "chapo": "Un Learjet 60 s'est écrasé le 1er novembre en Floride, dans le comté de Palm Beach, selon AeroTime. Les neuf occupants ont perdu la vie.",
+    "paragraphes": [
+      "D'après Flightradar24, l'accident s'est produit vers 17:49 UTC (12:49 heure locale) près de West Palm Beach. La FAA indique que neuf personnes se trouvaient à bord de l'appareil, qui effectuait la liaison entre l'aéroport international Austin-Bergstrom et l'aéroport de North Eleuthera, aux Bahamas. Simple Flying situe le point d'impact à Greenacres, près de Mar-a-Lago, et évoque une descente le nez vers le bas suivie d'un impact avec incendie. Selon aero.de, l'avion est tombé à côté d'une route et personne n'a survécu.",
+      "AeroTime rapporte que les pilotes avaient signalé des conditions de givrage et de turbulences. Pour airliners.de, les échanges radio avec le cockpit documentent les dernières secondes du vol. Les causes de l'accident ne sont pas établies à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 5,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Tote bei Learjet-Absturz in Florida",
+        "url": "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html",
+        "date": "2026-11-01T20:40:28Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Breaking: Learjet 60 With 9 People Onboard Fatally Nose Dives In Missile-Like Crash Near Mar-A-Lago",
+        "url": "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/",
+        "date": "2026-11-01T21:59:52Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Learjet 60 crashes near West Palm Beach, Florida",
+        "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/",
+        "date": "2026-11-01T23:25:42Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
+        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence",
+        "date": "2026-11-02T01:25:36Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Neun Tote bei Absturz eines Learjet 60 in Florida",
+        "url": "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243",
+        "date": "2026-11-02T13:46:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1",
     "created": "2026-11-02T14:10:50Z",
     "updated": "2026-11-02T14:10:50Z",
@@ -563,60 +687,6 @@
         "title": "Pakistan International Airlines receives first Boeing 787-9 Dreamliner",
         "url": "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner",
         "date": "2026-11-02T04:00:00Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
-    "created": "2026-11-01T22:01:32Z",
-    "updated": "2026-11-02T02:20:58Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Accident",
-    "importance": 3,
-    "titre": "Learjet 60 : neuf morts dans un accident près de West Palm Beach, en Floride",
-    "chapo": "Un Learjet 60 s'est écrasé le 1er novembre 2026 en Floride, dans le comté de Palm Beach. Selon AeroTime, les neuf personnes à bord ont perdu la vie.",
-    "paragraphes": [
-      "D'après Flightradar24, l'appareil s'est écrasé vers 17h49 UTC (12h49 en heure locale) près de West Palm Beach. La Federal Aviation Administration indique que neuf personnes se trouvaient à bord. Le vol reliait l'aéroport international d'Austin-Bergstrom à celui de North Eleuthera, aux Bahamas.",
-      "Simple Flying situe l'impact à Greenacres, près de Mar-a-Lago, et évoque une descente avec le nez vers le bas, suivie d'un impact accompagné d'un incendie. Selon aero.de, l'avion est tombé à côté d'une route et personne n'a survécu.",
-      "AeroTime rapporte que les pilotes avaient signalé du givrage et des turbulences. Les causes de l'accident ne sont pas établies."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 4,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Tote bei Learjet-Absturz in Florida",
-        "url": "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html",
-        "date": "2026-11-01T20:40:28Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Breaking: Learjet 60 With 9 People Onboard Fatally Nose Dives In Missile-Like Crash Near Mar-A-Lago",
-        "url": "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/",
-        "date": "2026-11-01T21:59:52Z",
-        "official": false
-      },
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "Learjet 60 crashes near West Palm Beach, Florida",
-        "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/",
-        "date": "2026-11-01T23:25:42Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
-        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence",
-        "date": "2026-11-02T01:25:36Z",
         "official": false
       }
     ]

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T14:10:33Z",
+  "run": "2026-11-02T14:20:34Z",
   "stats": {
     "fetched": 687,
-    "new": 1,
-    "written": 1,
+    "new": 3,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4919,
+  "spend_month_usd": 0.5253,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -100,16 +100,16 @@
   },
   "dossiers": [
     {
+      "dossier": "Learjet 60 accident Palm Beach Floride",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
-    },
-    {
-      "dossier": "Learjet 60 accident Palm Beach Floride",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
     },
     {
       "dossier": "Ryanair plan d'économies kérosène T2",
@@ -488,6 +488,18 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1"
+    },
+    {
+      "dossier": "Chinese Big Three résultats T3 kérosène pertes",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-kerosene-cher-air-china-china-eastern-et-china-southern-en-r-0c77"
+    },
+    {
+      "dossier": "IndiGo capacités internationales espace aérien pakistanais",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc"
     },
     {
       "dossier": "Atlas Air 747 abandon de décollage Miami",

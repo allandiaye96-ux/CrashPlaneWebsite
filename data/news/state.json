@@ -1160,7 +1160,10 @@
     "https://simpleflying.com/boeing-747-400-vs-747-8-last-2-jumbo-generations-compare/": "2026-11-02T14:01:21Z",
     "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters": "2026-11-02T14:01:21Z",
     "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html": "2026-11-02T14:01:21Z",
-    "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/": "2026-11-02T14:10:33Z"
+    "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/": "2026-11-02T14:10:33Z",
+    "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244": "2026-11-02T14:20:34Z",
+    "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242": "2026-11-02T14:20:34Z",
+    "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243": "2026-11-02T14:20:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2690,7 +2693,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-01T20:40:47Z",
-      "updated": "2026-11-02T02:20:51Z",
+      "updated": "2026-11-02T14:20:49Z",
       "items": [
         {
           "id": "f4d9d74a3fa0d7f5",
@@ -2727,10 +2730,19 @@
           "domain": "aerotime.aero",
           "summary": "Nine people were killed when a Learjet 60 crashed in Florida’s Palm Beach County on November 1, 2026,… The post Nine killed in Florida Learjet crash after pilots report icing and turbulence appeared first on AeroTime .",
           "published": "2026-11-02T01:25:36Z"
+        },
+        {
+          "id": "052daebdf332f478",
+          "feed": "airliners.de",
+          "title": "Neun Tote bei Absturz eines Learjet 60 in Florida",
+          "url": "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243",
+          "domain": "airliners.de",
+          "summary": "Ein Learjet 60 ist auf dem Weg von Texas auf die Bahamas in Florida abgestürzt. Alle neun Menschen an Bord kamen ums Leben. Die Funksprüche aus dem Cockpit dokumentieren die letzten Sekunden des Flugs.",
+          "published": "2026-11-02T13:46:16Z"
         }
       ],
       "story_id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
-      "written_count": 4
+      "written_count": 5
     },
     "c04977d8e92": {
       "id": "c04977d8e92",
@@ -3181,10 +3193,52 @@
       ],
       "story_id": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1",
       "written_count": 1
+    },
+    "cb10cda0c77": {
+      "id": "cb10cda0c77",
+      "label": "Chinese Big Three résultats T3 kérosène pertes",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T14:20:49Z",
+      "updated": "2026-11-02T14:20:49Z",
+      "items": [
+        {
+          "id": "d8819f34e6eb48fd",
+          "feed": "airliners.de",
+          "title": "Hohe Kerosinpreise drücken Air China, China Eastern und China Southern ins Minus",
+          "url": "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244",
+          "domain": "airliners.de",
+          "summary": "Die drei größten Fluggesellschaften Chinas haben im traditionell stärksten Quartal des Jahres deutlich schlechter abgeschnitten als im Vorjahr. Analysten erwarten für alle drei Verluste im Gesamtjahr.",
+          "published": "2026-11-02T13:46:39Z"
+        }
+      ],
+      "story_id": "2026-11-02-kerosene-cher-air-china-china-eastern-et-china-southern-en-r-0c77",
+      "written_count": 1
+    },
+    "cfe7437fcbc": {
+      "id": "cfe7437fcbc",
+      "label": "IndiGo capacités internationales espace aérien pakistanais",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T14:20:49Z",
+      "updated": "2026-11-02T14:20:49Z",
+      "items": [
+        {
+          "id": "211cab66f1ebeb92",
+          "feed": "airliners.de",
+          "title": "Wegen Luftraumsperrungen: Indigo verlagert Auslands-Kapazitäten früher als geplant",
+          "url": "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242",
+          "domain": "airliners.de",
+          "summary": "Die Sperrung des pakistanischen Luftraums und die Lage im Nahen Osten behindern die Verbindungen Richtung Westen der größten Fluggesellschaft Indiens. Vorstandschef Willie Walsh deutet an, dass Indigo seine internationale Expansion deshalb anders takten könnte.",
+          "published": "2026-11-02T13:46:25Z"
+        }
+      ],
+      "story_id": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.49187
+    "2026-11": 0.525317
   }
 }
