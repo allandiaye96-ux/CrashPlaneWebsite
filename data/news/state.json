@@ -1125,7 +1125,8 @@
     "https://www.airliners.de/luftwaffe-verlegt-eurofighter-uebung-flughafen-weeze/91238": "2026-11-02T10:20:33Z",
     "https://www.airliners.de/lufthansa-flugbegleiter-stirbt-hotelunfall-indien/91237": "2026-11-02T10:20:33Z",
     "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236": "2026-11-02T10:20:33Z",
-    "https://www.airliners.de/lufthansa-verlaesst-e-fuel-alliance-beklagt-fehlenden-e-kerosin-markt/91234": "2026-11-02T10:20:33Z"
+    "https://www.airliners.de/lufthansa-verlaesst-e-fuel-alliance-beklagt-fehlenden-e-kerosin-markt/91234": "2026-11-02T10:20:33Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lot-a-retire-son-dernier-embraer-e170-apres-22-ans-de-service-20261102.html": "2026-11-02T10:30:48Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2985,6 +2986,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.278977
+    "2026-11": 0.279734
   }
 }
