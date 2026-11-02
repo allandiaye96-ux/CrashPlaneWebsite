@@ -1105,7 +1105,22 @@
     "https://simpleflying.com/boeing-cleared-sell-parts-jets-belarus-belavia-despite-russia/": "2026-11-02T09:20:32Z",
     "https://www.airliners.de/gate-future-aryve-kamerasystem-samt-lidar-scan-flughaefen-barrierefreier/91090": "2026-11-02T09:20:32Z",
     "https://www.airliners.de/ryanair-verlaengert-partnerschaft-erasmus-student-network/91230": "2026-11-02T09:20:32Z",
-    "https://www.air-journal.fr/2026-11-02-srilankan-airlines-laffaire-airbus-rattrape-le-fils-de-lancien-president-5278638.html": "2026-11-02T10:01:00Z"
+    "https://www.air-journal.fr/2026-11-02-srilankan-airlines-laffaire-airbus-rattrape-le-fils-de-lancien-president-5278638.html": "2026-11-02T10:01:00Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F6C14F06-105C-4791-9D1B-772ED9B186F7": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=84B682F4-7958-4A02-B10C-7A1C9A37BC3C": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC84FC3A-10A4-468D-96FE-5D860A0DD9DB": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3F0D1F02-7DF5-4A22-8A07-481369F64E4C": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=B94E7495-56A6-4330-AAD1-FA9481231A83": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C097A2C3-A477-423E-A95A-D85729049215": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F1039486-C190-4910-A9D0-D09AAF7426C6": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=792A8D7C-A22D-441D-BE5F-C5ECBCBB77EF": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F7E198C9-5800-4305-910A-298F303EF729": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=106FD1F3-E433-4B06-BF12-A5DA4381E62A": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=D487C233-D6B0-4146-8F89-0CE01FD349DB": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F5E79FAF-D6D0-4DB6-84B5-E2CA52B1475D": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=890DB021-35DA-4929-90D3-D375B3263170": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=D438A3BB-7D72-48B7-9E85-F88C8C37A5F7": "2026-11-02T10:06:15Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C99AA51A-6A0F-442B-8CCA-5A3F646F9406": "2026-11-02T10:06:15Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2826,10 +2841,115 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cfaffcd0fc3": {
+      "id": "cfaffcd0fc3",
+      "label": "NASA X-59 premier vol pilote Lippert",
+      "categorie": "Enquête",
+      "importance": 2,
+      "created": "2026-11-02T10:06:33Z",
+      "updated": "2026-11-02T10:06:33Z",
+      "items": [
+        {
+          "id": "51aa16f328aff980",
+          "feed": "Aero-News Network",
+          "title": "NASAs X-59 Aircraft And Test Pilot",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=84B682F4-7958-4A02-B10C-7A1C9A37BC3C",
+          "domain": "aero-news.net",
+          "summary": "Mike Lippert Took Controls Of The X-59 For The First Time NASA test pilot Mike Lippert put months of simulator training and ground preparation into practice, before completing his first flight in the agency’s X-59 quiet supersonic research aircraft. Lippert took off Oct. 21 from NASA’s Armstrong Flight Research Center in Edwards, California, and landed one hour later. During the flight, he reached a maximum speed of Mach 1.4 and an altitude of 55,000 feet. Although the X-59 has flown numerous times, the flight marked Lippert’s first opportunity to fly an X-plane during his more than 21 years of flying high-performance aircraft, including 11 years as a test pilot.",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c298364e94b": {
+      "id": "c298364e94b",
+      "label": "Electra usine Springfield EL9",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-02T10:06:33Z",
+      "updated": "2026-11-02T10:06:33Z",
+      "items": [
+        {
+          "id": "d0e3ffa2cfb4fef1",
+          "feed": "Aero-News Network",
+          "title": "Electra Picks Springfield Ohio For Aircraft Production",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC84FC3A-10A4-468D-96FE-5D860A0DD9DB",
+          "domain": "aero-news.net",
+          "summary": "Manufacturing Plant For The EL9 Ultra Short 9-Passenger Aircraft Government officials and business leaders gathered Wednesday afternoon to celebrate Electra’s first EL9 Ultra Short Aircraft production facility being placed in Springfield, Ohio. The aircraft is a 9-passenger aircraft that can take off and land in as little as 150 feet, meeting a demand for “direct aviation” allowing accessible point-to-point air mobility. “To make a plane that will land on 150 feet is revolutionary, and there's obviously some great poetic justice here that this is coming from the place in the area where the Wright brothers really learned to fly,\" said Ohio Governor Mike DeWine. Electra selected Springfield ou",
+          "published": null
+        }
+      ],
+      "story_id": "2026-11-02-electra-choisit-springfield-dans-l-ohio-pour-produire-son-av-e94b",
+      "written_count": 1
+    },
+    "cb7893071cb": {
+      "id": "cb7893071cb",
+      "label": "Navy bilan accidents aviation FY2026",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-02T10:06:33Z",
+      "updated": "2026-11-02T10:06:33Z",
+      "items": [
+        {
+          "id": "0da7d73d556e1cb2",
+          "feed": "Aero-News Network",
+          "title": "Navy Sees 10-year High For Class A Aviation, Afloat Mishaps",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=B94E7495-56A6-4330-AAD1-FA9481231A83",
+          "domain": "aero-news.net",
+          "summary": "Class A Defined By $2.5 Million In Damage And/Or Aircraft To Be Destroyed The Navy saw the most Class A aviation and afloat mishaps in at least in a decade, according to Fiscal Year 2026 data recently released by the Navy Safety Command. The Navy had 16 aviation Class A mishaps, which include manned and unmanned flights, as well as ground aviation, between Oct. 1, 2025 and Sept. 30, 2026. A Class A mishap is defined by the Naval Safety Command as one that causes at least $2.5 million in damage and/or aircraft to be destroyed. A permanent disability or fatality would also put a mishap in the Class A category. Sixteen aviation mishaps are the most the Navy has had since Fiscal Year 2014, when ",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "cc7685d462d": {
+      "id": "cc7685d462d",
+      "label": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-02T10:06:33Z",
+      "updated": "2026-11-02T10:06:33Z",
+      "items": [
+        {
+          "id": "8ff36b039a60c60a",
+          "feed": "Aero-News Network",
+          "title": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=C097A2C3-A477-423E-A95A-D85729049215",
+          "domain": "aero-news.net",
+          "summary": "Third-Quarter Adjusted Earnings Declined 9% From A Year Earlier While Revenue Slipped 2% Airbus logged lower earnings in the third quarter as it works to significantly boost plane deliveries to customers in the last few months of the year. The European plane maker said adjusted earnings before interest and taxes–its most closely watched measure of profitability–declined 9% from a year earlier to 1.77 billion euros, equivalent to $1.97 billion. Statutory net profit increased 20% to 1.34 billion euros. Meanwhile, revenue slipped 2% to 17.47 billion euros. Analysts had forecast adjusted EBIT of 1.78 billion euros, a net profit of 1.30 billion euros and revenue of 17.91 billion euros, according ",
+          "published": null
+        }
+      ],
+      "story_id": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d",
+      "written_count": 1
+    },
+    "cfd771d100e": {
+      "id": "cfd771d100e",
+      "label": "BAE Bombardier combat aérien Canada",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-02T10:06:33Z",
+      "updated": "2026-11-02T10:06:33Z",
+      "items": [
+        {
+          "id": "746a257e12fe03f7",
+          "feed": "Aero-News Network",
+          "title": "BAE And Bombardier To Explore Next-Generation Combat Air Development",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=D487C233-D6B0-4146-8F89-0CE01FD349DB",
+          "domain": "aero-news.net",
+          "summary": "The Proposed Agreement In Canada Would Span Aircraft Design, Mission Systems And Manufacturing BAE Systems and Bombardier have signed an agreement to explore developing next-generation combat air capabilities in Canada. The proposed cooperation would span aircraft design, mission systems, manufacturing and long-term support, with ambitions to serve Canadian and international markets. The cooperation would draw on BAE Systems’ combat air experience and Bombardier’s aircraft design, manufacturing and support expertise. The memorandum of understanding identifies potential areas of work without committing the companies to a specific aircraft program. These include systems integration, digital en",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.23443
+    "2026-11": 0.253218
   }
 }

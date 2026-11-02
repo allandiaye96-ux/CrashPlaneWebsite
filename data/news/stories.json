@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d",
+    "created": "2026-11-02T10:06:42Z",
+    "updated": "2026-11-02T10:06:42Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus : résultat ajusté en baisse de 9 % au troisième trimestre, à 1,77 milliard d'euros",
+    "chapo": "Selon Aero-News Network, Airbus a publié un résultat d'exploitation ajusté en recul au troisième trimestre, alors que le constructeur cherche à accélérer nettement ses livraisons d'avions d'ici la fin de l'année.",
+    "paragraphes": [
+      "D'après Aero-News Network, l'EBIT ajusté, indicateur de rentabilité le plus suivi, a reculé de 9 % sur un an pour atteindre 1,77 milliard d'euros, soit 1,97 milliard de dollars. Le chiffre d'affaires a pour sa part baissé de 2 %, à 17,47 milliards d'euros.",
+      "Le bénéfice net comptable progresse de 20 %, à 1,34 milliard d'euros. Les analystes anticipaient un EBIT ajusté de 1,78 milliard d'euros, un bénéfice net de 1,30 milliard d'euros et un chiffre d'affaires de 17,91 milliards d'euros."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=C097A2C3-A477-423E-A95A-D85729049215",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02-electra-choisit-springfield-dans-l-ohio-pour-produire-son-av-e94b",
+    "created": "2026-11-02T10:06:38Z",
+    "updated": "2026-11-02T10:06:38Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Electra choisit Springfield, dans l'Ohio, pour produire son avion EL9 à décollage ultra-court",
+    "chapo": "Selon Aero-News Network, Electra a retenu Springfield, dans l'Ohio, pour implanter sa première usine de production de l'EL9 Ultra Short, un appareil de 9 passagers. L'annonce a donné lieu à une cérémonie réunissant responsables publics et acteurs économiques.",
+    "paragraphes": [
+      "D'après Aero-News Network, l'EL9 est un avion de 9 passagers capable de décoller et d'atterrir sur une distance pouvant descendre jusqu'à 150 feet. Il vise une demande d'aviation « directe », c'est-à-dire des liaisons accessibles de point à point.",
+      "Le gouverneur de l'Ohio, Mike DeWine, a salué un appareil « révolutionnaire » et souligné la portée symbolique du lieu, puisque la région est celle où les frères Wright ont appris à voler, rapporte le média."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Electra Picks Springfield Ohio For Aircraft Production",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC84FC3A-10A4-468D-96FE-5D860A0DD9DB",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
     "created": "2026-10-30T23:20:52Z",
     "updated": "2026-11-02T09:01:19Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T10:01:00Z",
+  "run": "2026-11-02T10:06:15Z",
   "stats": {
-    "fetched": 667,
-    "new": 1,
-    "written": 0,
+    "fetched": 687,
+    "new": 15,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.2344,
+  "spend_month_usd": 0.2532,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": false,
-      "error": "ParseError: no element found: line 13, column 46"
+      "ok": true,
+      "items": 20
     },
     "airliners.de": {
       "ok": true,
@@ -430,6 +430,18 @@
       "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
     },
     {
+      "dossier": "Electra usine Springfield EL9",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-electra-choisit-springfield-dans-l-ohio-pour-produire-son-av-e94b"
+    },
+    {
+      "dossier": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d"
+    },
+    {
       "dossier": "IATA trafic passagers septembre 2026",
       "statut": "source_unique",
       "editeurs": 1,
@@ -509,6 +521,24 @@
     },
     {
       "dossier": "Boeing autorisée vente Belarus Belavia",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "NASA X-59 premier vol pilote Lippert",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Navy bilan accidents aviation FY2026",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "BAE Bombardier combat aérien Canada",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
