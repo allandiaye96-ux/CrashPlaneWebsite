@@ -1120,7 +1120,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=F5E79FAF-D6D0-4DB6-84B5-E2CA52B1475D": "2026-11-02T10:06:15Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=890DB021-35DA-4929-90D3-D375B3263170": "2026-11-02T10:06:15Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=D438A3BB-7D72-48B7-9E85-F88C8C37A5F7": "2026-11-02T10:06:15Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C99AA51A-6A0F-442B-8CCA-5A3F646F9406": "2026-11-02T10:06:15Z"
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C99AA51A-6A0F-442B-8CCA-5A3F646F9406": "2026-11-02T10:06:15Z",
+    "https://www.aero.de/news-54065/Indigo-Airbus-A350-900-kommt-mit-Business-Class.html": "2026-11-02T10:10:38Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2950,6 +2951,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.253218
+    "2026-11": 0.253967
   }
 }
