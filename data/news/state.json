@@ -1190,7 +1190,10 @@
     "https://simpleflying.com/wizz-air-bomb-threat-diversion/": "2026-11-02T17:01:05Z",
     "https://www.aerotime.aero/articles/boeing-icelease-order-767-300bcfs-conversion-singapore": "2026-11-02T17:01:05Z",
     "https://airlinegeeks.com/2026/11/02/denver-air-connection-plans-first-florida-service/": "2026-11-02T17:01:05Z",
-    "https://simpleflying.com/worlds-oldest-boeing-737-800-final-week-tracked/": "2026-11-02T17:10:35Z"
+    "https://simpleflying.com/worlds-oldest-boeing-737-800-final-week-tracked/": "2026-11-02T17:10:35Z",
+    "https://www.airliners.de/eurowings-praesentiert-berliner-winterflugplan-zielen/91264": "2026-11-02T17:20:35Z",
+    "https://www.airliners.de/condor-winterziele-muensterosnabrueck/91265": "2026-11-02T17:20:35Z",
+    "https://www.airliners.de/easyjet-fluege-grossbritannien-nuernberg/91263": "2026-11-02T17:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3323,6 +3326,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.617643
+    "2026-11": 0.618536
   }
 }
