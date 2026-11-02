@@ -1174,7 +1174,9 @@
     "https://www.airliners.de/flughafen-stuttgart-uebernimmt-steuerung-luftsicherheitskontrollen/91245": "2026-11-02T15:20:37Z",
     "https://www.aero.de/news-54068/Mehr-los-am-Hamburger-Flughafen.html": "2026-11-02T15:30:53Z",
     "https://airlinegeeks.com/2026/11/02/bermudair-completes-move-to-new-florida-airport/": "2026-11-02T15:50:32Z",
-    "https://www.aero.de/news-54070/Easyjet-nimmt-Fluege-nach-Nuernberg-auf.html": "2026-11-02T15:50:32Z"
+    "https://www.aero.de/news-54070/Easyjet-nimmt-Fluege-nach-Nuernberg-auf.html": "2026-11-02T15:50:32Z",
+    "https://simpleflying.com/frontier-airlines-phishing-scam/": "2026-11-02T16:01:04Z",
+    "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result": "2026-11-02T16:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3315,10 +3317,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ca25aca21a7": {
+      "id": "ca25aca21a7",
+      "label": "Ryanair gel des salaires options kérosène",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T16:01:20Z",
+      "updated": "2026-11-02T16:01:20Z",
+      "items": [
+        {
+          "id": "fa5d999b13de850f",
+          "feed": "AeroTime",
+          "title": "Ryanair pay freezes among option mix to stem fuel cost bleed",
+          "url": "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result",
+          "domain": "aerotime.aero",
+          "summary": "Ryanair has laid out several options that it could deploy to help address the elevated jet fuel prices… The post Ryanair pay freezes among option mix to stem fuel cost bleed appeared first on AeroTime .",
+          "published": "2026-11-02T15:16:49Z"
+        }
+      ],
+      "story_id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.596106
+    "2026-11": 0.604342
   }
 }

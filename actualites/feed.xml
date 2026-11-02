@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 15:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 16:01:28 +0000</lastBuildDate>
+  <item>
+    <title>Ryanair envisage notamment des gels de salaires face à la hausse du coût du kérosène</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7/</guid>
+    <pubDate>Mon, 02 Nov 2026 16:01:28 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, Ryanair a présenté plusieurs pistes qu&#x27;elle pourrait activer pour faire face au niveau élevé des prix du carburant d&#x27;avion. Parmi elles figurent des gels de salaires.</description>
+  </item>
   <item>
     <title>Discover Airlines prépare l&#x27;arrivée de ses premiers Airbus A350-900 long-courriers</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:21:24 +0000</pubDate>
     <category>Défense</category>
     <description>La marine chinoise affirme que son drone de combat naval GJ-21 a réalisé un premier décollage et un premier appontage à bord du Type 076 Sichuan, selon The Aviationist et The War Zone.</description>
-  </item>
-  <item>
-    <title>L&#x27;Éthiopie reçoit ses premiers Su-35 russes et envisage l&#x27;achat de systèmes S-400</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:21:20 +0000</pubDate>
-    <category>Défense</category>
-    <description>Selon AeroTime, l&#x27;Éthiopie a reçu ses premiers chasseurs russes Sukhoi Su-35 et prévoit d&#x27;acquérir le système de défense aérienne S-400. The Aviationist précise que la remise a eu lieu le 28 octobre 2026.</description>
   </item>
 </channel>
 </rss>

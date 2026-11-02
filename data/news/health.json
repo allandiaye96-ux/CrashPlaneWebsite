@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T15:50:32Z",
+  "run": "2026-11-02T16:01:04Z",
   "stats": {
     "fetched": 687,
     "new": 2,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.5961,
+  "spend_month_usd": 0.6043,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -506,6 +506,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0"
+    },
+    {
+      "dossier": "Ryanair gel des salaires options kérosène",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7"
     },
     {
       "dossier": "Atlas Air 747 abandon de décollage Miami",

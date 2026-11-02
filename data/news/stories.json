@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
+    "created": "2026-11-02T16:01:28Z",
+    "updated": "2026-11-02T16:01:28Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair envisage notamment des gels de salaires face à la hausse du coût du kérosène",
+    "chapo": "Selon AeroTime, Ryanair a présenté plusieurs pistes qu'elle pourrait activer pour faire face au niveau élevé des prix du carburant d'avion. Parmi elles figurent des gels de salaires.",
+    "paragraphes": [
+      "D'après AeroTime, la compagnie à bas coûts irlandaise a détaillé un éventail de mesures possibles pour limiter l'impact financier de la hausse du kérosène. Les gels de salaires font partie de cet ensemble d'options.",
+      "Il s'agit d'options que Ryanair pourrait déployer, et non de décisions présentées comme déjà mises en œuvre."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Ryanair pay freezes among option mix to stem fuel cost bleed",
+        "url": "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result",
+        "date": "2026-11-02T15:16:49Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
     "created": "2026-11-02T13:01:51Z",
     "updated": "2026-11-02T15:10:59Z",
