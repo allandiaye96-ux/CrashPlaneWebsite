@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T12:30:53Z",
+  "run": "2026-11-02T12:40:33Z",
   "stats": {
     "fetched": 687,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.3267,
+  "spend_month_usd": 0.3449,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -224,6 +224,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca"
+    },
+    {
+      "dossier": "Rafale M essais INS Vikrant",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76"
     },
     {
       "dossier": "Ryanair plan d'économies kérosène T2",
@@ -479,12 +485,6 @@
     },
     {
       "dossier": "HADES Army premier vol prototype",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Rafale M essais INS Vikrant",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

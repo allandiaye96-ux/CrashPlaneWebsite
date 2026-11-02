@@ -1143,7 +1143,8 @@
     "https://avitrader.com/2026/11/02/air-congo-leases-boeing-787-9-for-expansion/": "2026-11-02T12:10:42Z",
     "https://www.airliners.de/tui-chef-ebel-erwartet-konsolidierung-airlines-hotels/91239": "2026-11-02T12:20:32Z",
     "https://www.journal-aviation.com/actualites-mro-support/maintenance-equipements/airbus-defence-and-space-signe-avec-epcor-pour-le-soutien-des-apu-de-la-flotte-mondiale-da330-mrtt-20261102.html": "2026-11-02T12:20:32Z",
-    "https://avitrader.com/2026/11/02/boeing-etihad-engineering-renew-parts-deal/": "2026-11-02T12:30:53Z"
+    "https://avitrader.com/2026/11/02/boeing-etihad-engineering-renew-parts-deal/": "2026-11-02T12:30:53Z",
+    "https://www.journal-aviation.com/actualites-defense-espace/aeronavale/un-rafale-marine-realise-un-premier-appontage-sur-le-porte-avions-indien-ins-vikrant-20261102.html": "2026-11-02T12:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2517,7 +2518,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-10-31T22:30:59Z",
-      "updated": "2026-10-31T22:30:59Z",
+      "updated": "2026-11-02T12:40:45Z",
       "items": [
         {
           "id": "a74c21afa91d9b33",
@@ -2527,10 +2528,19 @@
           "domain": "theaviationist.com",
           "summary": "India selected in 2023 and ordered in 2025 the Rafale M as an interim carrier-based fighter capability while the indigenous Twin Engine Deck Based Fighter (TEDBF) is developed. A Dassault Rafale M landed aboard the Indian Navy’s domestically built INS Vikrant aircraft carrier for the first time on Oct. 29, 2026, and subsequently took off […]",
           "published": "2026-10-31T22:25:49Z"
+        },
+        {
+          "id": "58f7924bd2b6c124",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Un Rafale Marine réalise un premier appontage sur le porte-avions indien INS Vikrant",
+          "url": "https://www.journal-aviation.com/actualites-defense-espace/aeronavale/un-rafale-marine-realise-un-premier-appontage-sur-le-porte-avions-indien-ins-vikrant-20261102.html",
+          "domain": "journal-aviation.com",
+          "summary": "Un Rafale Marine de Dassault Aviation a réalisé un premier appontage sur le porte-avions indien INS Vikrant le 29 octobre. Réussie dès la première tentative, cette opération s’inscrit dans le […] L’article Un Rafale Marine réalise un premier appontage sur le porte-avions indien INS Vikrant a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-02T12:40:27Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
+      "written_count": 2
     },
     "c0b4c63588e": {
       "id": "c0b4c63588e",
@@ -3009,6 +3019,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.326734
+    "2026-11": 0.3449
   }
 }

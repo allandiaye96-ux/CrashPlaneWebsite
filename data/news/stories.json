@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
+    "created": "2026-11-02T12:40:53Z",
+    "updated": "2026-11-02T12:40:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Un Rafale M de Dassault se pose pour la première fois sur le porte-avions indien Vikrant",
+    "chapo": "Selon The Aviationist, un Rafale M a effectué le 29 octobre 2026 son premier appontage à bord de l'INS Vikrant, bâtiment de la marine indienne construit dans le pays. Le Journal de l'Aviation indique que l'opération a réussi dès le premier essai.",
+    "paragraphes": [
+      "L'appareil de Dassault Aviation a ensuite décollé du pont du navire, d'après The Aviationist. Le Journal de l'Aviation précise que la manœuvre a été menée avec succès dès la première tentative.",
+      "L'Inde a choisi le Rafale M en 2023, puis l'a commandé en 2025. Il doit assurer une capacité intérimaire de chasseur embarqué, en attendant la mise au point du chasseur bimoteur indigène TEDBF, rappelle The Aviationist."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "Rafale M Conducts Trials Aboard Indian Navy’s INS Vikrant Aircraft Carrier",
+        "url": "https://theaviationist.com/2026/10/31/rafale-m-conducts-trials-aboard-ins-vikrant/",
+        "date": "2026-10-31T22:25:49Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Un Rafale Marine réalise un premier appontage sur le porte-avions indien INS Vikrant",
+        "url": "https://www.journal-aviation.com/actualites-defense-espace/aeronavale/un-rafale-marine-realise-un-premier-appontage-sur-le-porte-avions-indien-ins-vikrant-20261102.html",
+        "date": "2026-11-02T12:40:27Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
     "created": "2026-11-02T11:01:33Z",
     "updated": "2026-11-02T11:21:12Z",

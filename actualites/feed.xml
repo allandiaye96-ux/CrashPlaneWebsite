@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 12:31:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 12:40:53 +0000</lastBuildDate>
+  <item>
+    <title>Un Rafale M de Dassault se pose pour la première fois sur le porte-avions indien Vikrant</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76/</guid>
+    <pubDate>Mon, 02 Nov 2026 12:40:53 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon The Aviationist, un Rafale M a effectué le 29 octobre 2026 son premier appontage à bord de l&#x27;INS Vikrant, bâtiment de la marine indienne construit dans le pays. Le Journal de l&#x27;Aviation indique que l&#x27;opération a réussi dès le premier essai.</description>
+  </item>
   <item>
     <title>Belavia : Washington autoriserait Boeing à reprendre sa coopération avec la compagnie biélorusse</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:11:27 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Air Journal, la compagnie du groupe Lufthansa va arrêter son partenariat avec airBaltic à l&#x27;issue du programme d&#x27;hiver 2026-2027. Elle veut opérer une plus grande part de ses vols avec ses propres moyens dès l&#x27;été 2027.</description>
-  </item>
-  <item>
-    <title>Cathay Pacific : 53 000 réservations touchées par un incident de sécurité des données chez Amadeus</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-cathay-pacific-53-000-reservations-touchees-par-un-incident-4626/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-cathay-pacific-53-000-reservations-touchees-par-un-incident-4626/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:11:20 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Cathay Pacific figure parmi les compagnies concernées par l&#x27;incident de sécurité des données survenu chez l&#x27;éditeur de logiciels Amadeus. Environ 53 000 réservations seraient touchées.</description>
   </item>
 </channel>
 </rss>
