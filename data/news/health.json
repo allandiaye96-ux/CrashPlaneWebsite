@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T14:01:21Z",
+  "run": "2026-11-02T14:10:33Z",
   "stats": {
     "fetched": 687,
-    "new": 3,
+    "new": 1,
     "written": 1,
-    "held": 1,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4831,
+  "spend_month_usd": 0.4919,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -482,6 +482,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
+    },
+    {
+      "dossier": "FAA finance étude JetZero moteurs top-mounted",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1"
     },
     {
       "dossier": "Atlas Air 747 abandon de décollage Miami",

@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 14:01:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 14:10:50 +0000</lastBuildDate>
+  <item>
+    <title>La FAA attribue 5,3 millions de dollars à JetZero pour étudier l&#x27;écoulement d&#x27;air de ses moteurs en position haute</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1/</guid>
+    <pubDate>Mon, 02 Nov 2026 14:10:50 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon Leeham News, qui reprend un article d&#x27;AIN, la FAA a accordé 5,3 millions de dollars à JetZero pour étudier en vol l&#x27;écoulement de l&#x27;air à travers ses moteurs montés sur le dessus de l&#x27;appareil.</description>
+  </item>
   <item>
     <title>Boeing et Icelease signent un accord pour jusqu&#x27;à trois 767-300 Boeing Converted Freighters</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:21:03 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>La FAA a mis fin aux dérogations qui autorisaient le vol à un seul pilote sur les CE-500, selon AeroTime. D&#x27;après Simple Flying, la mesure touche environ 1 250 Cessna Citation.</description>
-  </item>
-  <item>
-    <title>United Airlines va quitter Tulum après moins de deux ans de desserte, selon Simple Flying</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:20:56 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>United Airlines s&#x27;apprête à cesser de desservir Tulum, moins de deux ans après le début de son service, rapporte Simple Flying.</description>
   </item>
 </channel>
 </rss>

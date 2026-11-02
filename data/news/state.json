@@ -1159,7 +1159,8 @@
     "https://www.aero.de/news-54067/Airbus-H145M-kann-fliegen-aber-noch-nicht-kaempfen.html": "2026-11-02T13:50:33Z",
     "https://simpleflying.com/boeing-747-400-vs-747-8-last-2-jumbo-generations-compare/": "2026-11-02T14:01:21Z",
     "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters": "2026-11-02T14:01:21Z",
-    "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html": "2026-11-02T14:01:21Z"
+    "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html": "2026-11-02T14:01:21Z",
+    "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/": "2026-11-02T14:10:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3159,10 +3160,31 @@
       ],
       "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
       "written_count": 1
+    },
+    "c1e4142b0c1": {
+      "id": "c1e4142b0c1",
+      "label": "FAA finance étude JetZero moteurs top-mounted",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-02T14:10:46Z",
+      "updated": "2026-11-02T14:10:46Z",
+      "items": [
+        {
+          "id": "e499b8b335181ad4",
+          "feed": "Leeham News",
+          "title": "FAA Funds JetZero Study of Top-Mounted Engine Airflow",
+          "url": "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/",
+          "domain": "leehamnews.com",
+          "summary": "By Hanneke Weitering • AIN Science & Technology Editor November 2, 2026 The FAA has awarded JetZero $5.3 million to study airflow through its top-mounted engines in flight, the company announced last week. Long Beach, California-based JetZero will... Read More The post FAA Funds JetZero Study of Top-Mounted Engine Airflow appeared first on Leeham News .",
+          "published": "2026-11-02T14:00:44Z"
+        }
+      ],
+      "story_id": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.483141
+    "2026-11": 0.49187
   }
 }

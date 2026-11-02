@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1",
+    "created": "2026-11-02T14:10:50Z",
+    "updated": "2026-11-02T14:10:50Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "La FAA attribue 5,3 millions de dollars à JetZero pour étudier l'écoulement d'air de ses moteurs en position haute",
+    "chapo": "Selon Leeham News, qui reprend un article d'AIN, la FAA a accordé 5,3 millions de dollars à JetZero pour étudier en vol l'écoulement de l'air à travers ses moteurs montés sur le dessus de l'appareil.",
+    "paragraphes": [
+      "D'après Leeham News, l'attribution de ce financement a été annoncée par JetZero. L'étude portera sur le comportement de l'air traversant des moteurs placés en partie supérieure, un point qui sera examiné en conditions de vol.",
+      "La société est basée à Long Beach, en Californie, précise la même publication, dont l'article est signé par Hanneke Weitering, rédactrice science et technologie d'AIN."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Leeham News",
+        "title": "FAA Funds JetZero Study of Top-Mounted Engine Airflow",
+        "url": "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/",
+        "date": "2026-11-02T14:00:44Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
     "created": "2026-11-02T14:01:54Z",
     "updated": "2026-11-02T14:01:54Z",
