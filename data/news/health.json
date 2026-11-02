@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T13:20:56Z",
+  "run": "2026-11-02T13:30:51Z",
   "stats": {
-    "fetched": 677,
-    "new": 2,
-    "written": 1,
+    "fetched": 687,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4294,
+  "spend_month_usd": 0.4302,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -22,8 +22,8 @@
       "items": 50
     },
     "Simple Flying": {
-      "ok": false,
-      "error": "RemoteDisconnected: Remote end closed connection without response"
+      "ok": true,
+      "items": 10
     },
     "AeroTime": {
       "ok": true,
@@ -551,6 +551,12 @@
     },
     {
       "dossier": "BAE Bombardier combat aérien Canada",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "FAA inspection queue 737NG (tail, AD)",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
