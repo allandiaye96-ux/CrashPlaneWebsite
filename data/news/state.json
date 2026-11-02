@@ -1146,7 +1146,10 @@
     "https://avitrader.com/2026/11/02/boeing-etihad-engineering-renew-parts-deal/": "2026-11-02T12:30:53Z",
     "https://www.journal-aviation.com/actualites-defense-espace/aeronavale/un-rafale-marine-realise-un-premier-appontage-sur-le-porte-avions-indien-ins-vikrant-20261102.html": "2026-11-02T12:40:33Z",
     "https://simpleflying.com/air-india-cancels-all-flights-to-8-destinations-see-full-list-now/": "2026-11-02T12:50:35Z",
-    "https://simpleflying.com/ryanair-pay-freeze/": "2026-11-02T12:50:35Z"
+    "https://simpleflying.com/ryanair-pay-freeze/": "2026-11-02T12:50:35Z",
+    "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft": "2026-11-02T13:01:05Z",
+    "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/": "2026-11-02T13:01:05Z",
+    "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html": "2026-11-02T13:01:05Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2808,7 +2811,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-02T08:01:12Z",
-      "updated": "2026-11-02T12:50:47Z",
+      "updated": "2026-11-02T13:01:18Z",
       "items": [
         {
           "id": "aa1577e3bdc85711",
@@ -2836,10 +2839,19 @@
           "domain": "simpleflying.com",
           "summary": "This course of action remains under review, with Ryanair considering several other money-saving strategies.",
           "published": "2026-11-02T12:40:52Z"
+        },
+        {
+          "id": "65838e552c089021",
+          "feed": "Air Journal",
+          "title": "Ryanair : le kérosène plombe les bénéfices, les salaires dans le viseur",
+          "url": "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html",
+          "domain": "air-journal.fr",
+          "summary": "Ryanair transporte davantage de voyageurs, mais gagne moins. Le groupe irlandais a annoncé, lundi 2 novembre, un bénéfice net semestriel de 2,15 milliards d’euros, en recul de 15%, pénalisé par la baisse des tarifs et l’envolée du carburant non couvert. Face à une facture de kérosène qui pourrait encore s’alourdir de 2 milliards d’euros l’an […]",
+          "published": "2026-11-02T13:00:56Z"
         }
       ],
       "story_id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
-      "written_count": 3
+      "written_count": 4
     },
     "c4f7de42402": {
       "id": "c4f7de42402",
@@ -3026,10 +3038,40 @@
       ],
       "story_id": "2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d",
       "written_count": 1
+    },
+    "cf8e9359405": {
+      "id": "cf8e9359405",
+      "label": "Grèce KC-390 Embraer",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-02T13:01:18Z",
+      "updated": "2026-11-02T13:01:18Z",
+      "items": [
+        {
+          "id": "974f4f1c6d9601bd",
+          "feed": "AeroTime",
+          "title": "Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums",
+          "url": "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft",
+          "domain": "aerotime.aero",
+          "summary": "Embraer has confirmed that an aircraft acquisition from the Hellenic Ministry of National Defense includes three KC-390 Millenniums,… The post Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums appeared first on AeroTime .",
+          "published": "2026-11-02T12:58:55Z"
+        },
+        {
+          "id": "a66ba7acb279652b",
+          "feed": "AviTrader",
+          "title": "The Hellenic Ministry of National Defense signs KC-390 order",
+          "url": "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/",
+          "domain": "avitrader.com",
+          "summary": "The Hellenic Ministry of National Defense has signed a contract to acquire three KC-390 Millennium military transport aircraft from Embraer, with options for a further three. The agreement was concluded through a government-to-government arrangement between Greece and Portugal. The Hellenic Ministry of National Defence said the Hellenic Air Force is expected to receive its first […] The post The Hellenic Ministry of National Defense signs KC-390 order appeared first on AviTrader Aviation News .",
+          "published": "2026-11-02T12:55:58Z"
+        }
+      ],
+      "story_id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.369648
+    "2026-11": 0.420111
   }
 }

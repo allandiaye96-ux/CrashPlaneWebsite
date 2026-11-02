@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
+    "created": "2026-11-02T13:01:51Z",
+    "updated": "2026-11-02T13:01:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "La Grèce signe pour trois KC-390 Millennium d'Embraer, avec options pour trois appareils de plus",
+    "chapo": "Selon AviTrader, le ministère grec de la Défense nationale a signé un contrat portant sur trois avions de transport militaire KC-390 Millennium d'Embraer, assorti d'options pour trois exemplaires supplémentaires. Embraer a confirmé que l'acquisition pouvait aller jusqu'à six appareils, d'après AeroTime.",
+    "paragraphes": [
+      "L'accord a été conclu dans le cadre d'un arrangement de gouvernement à gouvernement entre la Grèce et le Portugal, indique AviTrader. Le ministère grec de la Défense nationale précise que l'armée de l'air hellénique doit recevoir son premier appareil à une échéance non détaillée dans l'extrait de l'article.",
+      "De son côté, le constructeur brésilien a confirmé que cette acquisition comprend trois KC-390 Millennium, avec une possibilité d'extension jusqu'à six appareils, rapporte AeroTime."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "The Hellenic Ministry of National Defense signs KC-390 order",
+        "url": "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/",
+        "date": "2026-11-02T12:55:58Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums",
+        "url": "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft",
+        "date": "2026-11-02T12:58:55Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
+    "created": "2026-11-02T08:01:17Z",
+    "updated": "2026-11-02T13:01:42Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair : le carburant pèse sur les résultats, un gel des salaires envisagé",
+    "chapo": "Ryanair a publié ses résultats le 2 novembre : selon aero.de, le bénéfice après impôts du deuxième trimestre a reculé de six pour cent, à 1,6 milliard d'euros. La compagnie irlandaise étudie des économies, dont un possible gel des rémunérations.",
+    "paragraphes": [
+      "Le renchérissement du kérosène, lié au conflit au Moyen-Orient, grève les comptes de la compagnie, indique aero.de. Sur l'ensemble du premier semestre de l'exercice 2026/27, le résultat est en baisse de 15 pour cent. Air Journal chiffre le bénéfice net semestriel à 2,15 milliards d'euros et ajoute que la baisse des tarifs et la part de carburant non couverte ont aussi joué, alors que le transporteur accueille davantage de passagers.",
+      "Pour l'exercice suivant, Ryanair table sur une facture de carburant alourdie de deux milliards d'euros, rapporte airliners.de. La compagnie prévoit de réduire ses dépenses sur tous les postes, y compris le personnel, et n'exclut pas de geler les salaires. Selon Simple Flying, cette piste reste à l'étude, au même titre que d'autres mesures d'économie."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Ryanair legt umfassendes Sparprogramm auf",
+        "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
+        "date": "2026-11-02T07:56:25Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Hohe Kerosinkosten: Ryanair schließt Nullrunden für Beschäftigte nicht aus",
+        "url": "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236",
+        "date": "2026-11-02T09:54:59Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Ryanair Considers Pay Freeze Amid Projected €2B Annual Fuel Bill Increase",
+        "url": "https://simpleflying.com/ryanair-pay-freeze/",
+        "date": "2026-11-02T12:40:52Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Ryanair : le kérosène plombe les bénéfices, les salaires dans le viseur",
+        "url": "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html",
+        "date": "2026-11-02T13:00:56Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d",
     "created": "2026-11-02T12:51:00Z",
     "updated": "2026-11-02T12:51:00Z",
@@ -26,53 +118,6 @@
         "title": "Air India Cancels All Flights To 8 Destinations: See Full List Now",
         "url": "https://simpleflying.com/air-india-cancels-all-flights-to-8-destinations-see-full-list-now/",
         "date": "2026-11-02T12:49:38Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
-    "created": "2026-11-02T08:01:17Z",
-    "updated": "2026-11-02T12:50:55Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Ryanair : bénéfice en baisse de six % au deuxième trimestre, un gel des salaires envisagé",
-    "chapo": "Pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient, Ryanair voit son bénéfice net reculer au deuxième trimestre, selon aero.de. La compagnie irlandaise n'exclut pas de geler les salaires de ses employés.",
-    "paragraphes": [
-      "Le bénéfice après impôts de Ryanair a diminué de six % pour s'établir à 1,6 milliard d'euros sur le deuxième trimestre de son exercice, d'après aero.de. Sur le premier semestre de l'exercice 2026/27, le recul atteint 15 %. Le média relie cette pression au prix élevé du kérosène dans le contexte du conflit au Proche-Orient.",
-      "Pour l'exercice suivant, la compagnie anticipe une facture de carburant supérieure de deux milliards d'euros, rapporte airliners.de. Des économies sont prévues sur tous les fronts, y compris sur la masse salariale, et des années sans augmentation pour le personnel ne sont pas écartées.",
-      "Selon Simple Flying, cette piste d'un gel des salaires reste à l'étude, aux côtés de plusieurs autres mesures d'économie envisagées par Ryanair."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Ryanair legt umfassendes Sparprogramm auf",
-        "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
-        "date": "2026-11-02T07:56:25Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Hohe Kerosinkosten: Ryanair schließt Nullrunden für Beschäftigte nicht aus",
-        "url": "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236",
-        "date": "2026-11-02T09:54:59Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Ryanair Considers Pay Freeze Amid Projected €2B Annual Fuel Bill Increase",
-        "url": "https://simpleflying.com/ryanair-pay-freeze/",
-        "date": "2026-11-02T12:40:52Z",
         "official": false
       }
     ]

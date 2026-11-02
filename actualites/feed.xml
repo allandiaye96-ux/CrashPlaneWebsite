@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 12:51:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 13:01:51 +0000</lastBuildDate>
+  <item>
+    <title>La Grèce signe pour trois KC-390 Millennium d&#x27;Embraer, avec options pour trois appareils de plus</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405/</guid>
+    <pubDate>Mon, 02 Nov 2026 13:01:51 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon AviTrader, le ministère grec de la Défense nationale a signé un contrat portant sur trois avions de transport militaire KC-390 Millennium d&#x27;Embraer, assorti d&#x27;options pour trois exemplaires supplémentaires. Embraer a confirmé que l&#x27;acquisition pouvait aller jusqu&#x27;à six appareils, d&#x27;après AeroTime.</description>
+  </item>
   <item>
     <title>Air India annulerait tous ses vols vers huit destinations, dont trois liaisons long-courriers</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d/</link>
@@ -56,12 +64,12 @@
     <description>Selon Aero-News Network, Electra a retenu Springfield, dans l&#x27;Ohio, pour implanter sa première usine de production de l&#x27;EL9 Ultra Short, un appareil de 9 passagers. L&#x27;annonce a donné lieu à une cérémonie réunissant responsables publics et acteurs économiques.</description>
   </item>
   <item>
-    <title>Ryanair : bénéfice en baisse de six % au deuxième trimestre, un gel des salaires envisagé</title>
+    <title>Ryanair : le carburant pèse sur les résultats, un gel des salaires envisagé</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</link>
     <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</guid>
     <pubDate>Mon, 02 Nov 2026 08:01:17 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient, Ryanair voit son bénéfice net reculer au deuxième trimestre, selon aero.de. La compagnie irlandaise n&#x27;exclut pas de geler les salaires de ses employés.</description>
+    <description>Ryanair a publié ses résultats le 2 novembre : selon aero.de, le bénéfice après impôts du deuxième trimestre a reculé de six pour cent, à 1,6 milliard d&#x27;euros. La compagnie irlandaise étudie des économies, dont un possible gel des rémunérations.</description>
   </item>
   <item>
     <title>Système EES : un impact limité sur les retards au départ cet été, selon une analyse de données</title>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:20:52 +0000</pubDate>
     <category>Compagnies</category>
     <description>LOT Polish Airlines a mis fin le 30 octobre 2026 à l&#x27;exploitation de l&#x27;Embraer E170, selon Flightradar24 et Air Journal. La compagnie polonaise avait été la première au monde à l&#x27;utiliser en service commercial.</description>
-  </item>
-  <item>
-    <title>airBaltic envisage de se séparer d&#x27;une centaine de pilotes et de 200 personnels de cabine</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:11:39 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>La compagnie lettone airBaltic prépare une réduction de ses effectifs navigants, avec une centaine de pilotes et 200 membres de cabine concernés, selon Air Journal.</description>
   </item>
 </channel>
 </rss>

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T12:50:35Z",
+  "run": "2026-11-02T13:01:05Z",
   "stats": {
     "fetched": 687,
-    "new": 2,
+    "new": 3,
     "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.3696,
+  "spend_month_usd": 0.4201,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -112,6 +112,12 @@
       "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
     },
     {
+      "dossier": "Ryanair plan d'économies kérosène T2",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -140,12 +146,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
-    },
-    {
-      "dossier": "Ryanair plan d'économies kérosène T2",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
     },
     {
       "dossier": "Boeing autorisée vente Belarus Belavia",
@@ -236,6 +236,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76"
+    },
+    {
+      "dossier": "Grèce KC-390 Embraer",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
