@@ -1149,7 +1149,8 @@
     "https://simpleflying.com/ryanair-pay-freeze/": "2026-11-02T12:50:35Z",
     "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft": "2026-11-02T13:01:05Z",
     "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/": "2026-11-02T13:01:05Z",
-    "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html": "2026-11-02T13:01:05Z"
+    "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html": "2026-11-02T13:01:05Z",
+    "https://avitrader.com/2026/11/02/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-11-02T13:10:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3072,6 +3073,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.420111
+    "2026-11": 0.420868
   }
 }
