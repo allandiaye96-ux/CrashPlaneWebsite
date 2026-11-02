@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 10:50:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 11:01:33 +0000</lastBuildDate>
+  <item>
+    <title>Belavia : Washington autoriserait Boeing à travailler avec la compagnie nationale biélorusse</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402/</guid>
+    <pubDate>Mon, 02 Nov 2026 11:01:33 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Le département américain du Commerce a donné à Boeing l&#x27;autorisation de travailler avec Belavia, la compagnie nationale de Biélorussie, selon AeroTime, qui s&#x27;appuie sur des déclarations du dirigeant du transporteur.</description>
+  </item>
   <item>
     <title>Un steward de Lufthansa meurt dans un accident d&#x27;hôtel à Bengaluru, en Inde</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:11:20 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Cathay Pacific figure parmi les compagnies concernées par l&#x27;incident de sécurité des données survenu chez l&#x27;éditeur de logiciels Amadeus. Environ 53 000 réservations seraient touchées.</description>
-  </item>
-  <item>
-    <title>China Southern Airlines passe dans le rouge au troisième trimestre, avec une perte nette de 609 millions de yuans</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:11:06 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, China Southern Airlines a enregistré une perte nette de 609 millions de yuans au troisième trimestre. La compagnie chinoise l&#x27;a annoncé dans une communication obligatoire adressée à la Bourse de Shanghai.</description>
   </item>
 </channel>
 </rss>

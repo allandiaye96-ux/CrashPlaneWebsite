@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
+    "created": "2026-11-02T11:01:33Z",
+    "updated": "2026-11-02T11:01:33Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Belavia : Washington autoriserait Boeing à travailler avec la compagnie nationale biélorusse",
+    "chapo": "Le département américain du Commerce a donné à Boeing l'autorisation de travailler avec Belavia, la compagnie nationale de Biélorussie, selon AeroTime, qui s'appuie sur des déclarations du dirigeant du transporteur.",
+    "paragraphes": [
+      "D'après Simple Flying, les sanctions américaines visant Belavia avaient déjà été assouplies il y a plus d'un an. La dernière autorisation permettrait désormais à la compagnie de collaborer directement avec Boeing.",
+      "Le média évoque des craintes que des pièces ou des appareils vendus à la Biélorussie finissent en Russie."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Boeing Cleared To Sell Parts & Jets To Belarus Despite Fears They’ll End Up In Russia",
+        "url": "https://simpleflying.com/boeing-cleared-sell-parts-jets-belarus-belavia-despite-russia/",
+        "date": "2026-11-02T09:18:59Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "US allows Boeing to work with Belarus’ Belavia, CEO claims",
+        "url": "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo",
+        "date": "2026-11-02T10:20:37Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
+    "created": "2026-10-29T16:47:50Z",
+    "updated": "2026-11-02T11:01:30Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Groenland : l'aéroport d'Ilulissat ouvre avec une piste de 2 200 mètres adaptée aux gros-porteurs",
+    "chapo": "Le Groenland a mis en service le 29 octobre son troisième aéroport civil, à Ilulissat, doté d'une piste de 2 200 mètres, selon airliners.de et Flightradar24. Les gros-porteurs peuvent désormais s'y poser.",
+    "paragraphes": [
+      "Ilulissat, troisième ville de l'île, disposait jusqu'ici d'une piste de 845 mètres, d'après le blog de Flightradar24. L'inauguration s'est faite avec l'arrivée d'un Airbus A330-800 d'Air Greenland, baptisé Tuukkaq, qui a apporté le premier service gros-porteur sur cet aéroport groenlandais. Selon l'exploitant cité par airliners.de, l'objectif est de soutenir l'économie et d'attirer davantage de touristes.",
+      "Le Journal de l'Aviation indique que l'ouverture est intervenue après un feu vert de l'autorité danoise chargée de l'aviation civile et du ferroviaire, et mentionne une liaison directe avec Copenhague. D'après Air Journal, Air Greenland envisage jusqu'à six rotations hebdomadaires au cœur de l'été 2027, afin de faciliter l'accès à la baie de Disko."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
+        "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
+        "date": "2026-10-29T15:42:08Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Ilulissat inaugurates new, longer runway opening the gateway to North Greenland",
+        "url": "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/",
+        "date": "2026-10-29T19:04:03Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Le Groenland inaugure l’aéroport international d’Ilulissat, aux portes du fjord et des icebergs",
+        "url": "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html",
+        "date": "2026-11-01T14:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Le Groenland ouvre son nouvel aéroport international d’Ilulissat avec une liaison directe vers Copenhague",
+        "url": "https://www.journal-aviation.com/actualite-en-bref/le-groenland-ouvre-son-nouvel-aeroport-international-dilulissat-avec-une-liaison-directe-vers-copenhague-20261102.html",
+        "date": "2026-11-02T10:52:19Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2",
     "created": "2026-11-02T10:20:58Z",
     "updated": "2026-11-02T10:20:58Z",
@@ -428,53 +520,6 @@
         "title": "Jersey Airport hit by drone disruption for second consecutive night",
         "url": "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night",
         "date": "2026-11-01T13:44:57Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
-    "created": "2026-10-29T16:47:50Z",
-    "updated": "2026-11-01T14:01:26Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Groenland : Ilulissat inaugure une piste de 2 200 mètres accessible aux gros-porteurs",
-    "chapo": "Le Groenland a ouvert un nouvel aéroport à Ilulissat, troisième ville de l'île, doté d'une piste de 2 200 mètres, selon airliners.de. Flightradar24 indique qu'un Airbus A330-800 d'Air Greenland, baptisé Tuukkaq, y est arrivé le 29 octobre.",
-    "paragraphes": [
-      "D'après le gestionnaire cité par airliners.de, il s'agit du troisième aéroport civil du territoire. L'objectif est de soutenir l'économie locale et d'attirer davantage de visiteurs. La nouvelle piste permet l'atterrissage d'avions plus grands.",
-      "Selon Flightradar24, l'ancienne piste mesurait seulement 845 mètres. L'arrivée de l'A330-800 d'Air Greenland a marqué l'entrée en service de la nouvelle piste et des installations aéroportuaires, apportant les vols gros-porteurs dans cette ville. Le blog présente ce chantier comme l'aboutissement de la récente série d'agrandissements des aéroports groenlandais.",
-      "Air Journal rapporte que la compagnie envisage jusqu'à six allers-retours par semaine vers Ilulissat au plus fort de l'été 2027. Cette desserte doit faciliter l'accès à la baie de Disko."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Grönland eröffnet dritten Zivilflughafen mit Landebahn für größere Flugzeuge",
-        "url": "https://www.airliners.de/groenland-oeffnet-dritten-zivilflughafen-landebahn-groessere-flugzeuge/91185",
-        "date": "2026-10-29T15:42:08Z",
-        "official": false
-      },
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "Ilulissat inaugurates new, longer runway opening the gateway to North Greenland",
-        "url": "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/",
-        "date": "2026-10-29T19:04:03Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Le Groenland inaugure l’aéroport international d’Ilulissat, aux portes du fjord et des icebergs",
-        "url": "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html",
-        "date": "2026-11-01T14:00:18Z",
         "official": false
       }
     ]

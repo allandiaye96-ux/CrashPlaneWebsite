@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T10:50:35Z",
+  "run": "2026-11-02T11:01:01Z",
   "stats": {
     "fetched": 687,
-    "new": 1,
-    "written": 0,
+    "new": 3,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.2805,
+  "spend_month_usd": 0.3129,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -100,6 +100,12 @@
   },
   "dossiers": [
     {
+      "dossier": "Ilulissat nouvel aéroport Groenland",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
+    },
+    {
       "dossier": "Learjet 60 accident Palm Beach Floride",
       "statut": "corrobore",
       "editeurs": 4,
@@ -116,12 +122,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
-    },
-    {
-      "dossier": "Ilulissat nouvel aéroport Groenland",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2"
     },
     {
       "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
@@ -224,6 +224,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
+    },
+    {
+      "dossier": "Boeing autorisée vente Belarus Belavia",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -521,12 +527,6 @@
     },
     {
       "dossier": "Accord CATA UE-Qatar, polémique à Bruxelles",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

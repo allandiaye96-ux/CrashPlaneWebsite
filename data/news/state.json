@@ -1127,7 +1127,10 @@
     "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236": "2026-11-02T10:20:33Z",
     "https://www.airliners.de/lufthansa-verlaesst-e-fuel-alliance-beklagt-fehlenden-e-kerosin-markt/91234": "2026-11-02T10:20:33Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lot-a-retire-son-dernier-embraer-e170-apres-22-ans-de-service-20261102.html": "2026-11-02T10:30:48Z",
-    "https://simpleflying.com/5-things-that-passengers-dont-know-about-premium-economy/": "2026-11-02T10:50:35Z"
+    "https://simpleflying.com/5-things-that-passengers-dont-know-about-premium-economy/": "2026-11-02T10:50:35Z",
+    "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo": "2026-11-02T11:01:01Z",
+    "https://avitrader.com/2026/11/02/bell-textron-secures-further-gmr-helicopter-order/": "2026-11-02T11:01:01Z",
+    "https://www.journal-aviation.com/actualite-en-bref/le-groenland-ouvre-son-nouvel-aeroport-international-dilulissat-avec-une-liaison-directe-vers-copenhague-20261102.html": "2026-11-02T11:01:01Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1673,7 +1676,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-11-01T14:01:09Z",
+      "updated": "2026-11-02T11:01:20Z",
       "items": [
         {
           "id": "0626ad9999ec947a",
@@ -1701,10 +1704,19 @@
           "domain": "air-journal.fr",
           "summary": "Le Groenland a inauguré jeudi le nouvel aéroport international d’Ilulissat, sur sa côte occidentale. Dotée d’une piste de 2 200 mètres, la plateforme peut désormais accueillir des gros-porteurs. Air Greenland prévoit jusqu’à six rotations hebdomadaires sur cette liaison au cœur de l’été 2027, ouvrant un accès plus simple à la baie de Disko et au […]",
           "published": "2026-11-01T14:00:18Z"
+        },
+        {
+          "id": "48fa46b438e363d6",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Le Groenland ouvre son nouvel aéroport international d’Ilulissat avec une liaison directe vers Copenhague",
+          "url": "https://www.journal-aviation.com/actualite-en-bref/le-groenland-ouvre-son-nouvel-aeroport-international-dilulissat-avec-une-liaison-directe-vers-copenhague-20261102.html",
+          "domain": "journal-aviation.com",
+          "summary": "Le nouvel aéroport international d’Ilulissat, dans l’ouest du Groenland, a ouvert ses portes le 29 octobre, après avoir reçu l’approbation de l’Autorité danoise de l’aviation civile et ferroviaire. Ilulissat est […] L’article Le Groenland ouvre son nouvel aéroport international d’Ilulissat avec une liaison directe vers Copenhague a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-02T10:52:19Z"
         }
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
-      "written_count": 3
+      "written_count": 4
     },
     "cf5670ae665": {
       "id": "cf5670ae665",
@@ -2843,7 +2855,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-02T09:20:47Z",
-      "updated": "2026-11-02T09:20:47Z",
+      "updated": "2026-11-02T11:01:20Z",
       "items": [
         {
           "id": "0c77640a093db5ea",
@@ -2853,10 +2865,19 @@
           "domain": "simpleflying.com",
           "summary": "US sanctions on Belavia were initially eased more than a year ago, with the latest approval now allowing the carrier to work directly with Boeing.",
           "published": "2026-11-02T09:18:59Z"
+        },
+        {
+          "id": "74d71f282dc0fe09",
+          "feed": "AeroTime",
+          "title": "US allows Boeing to work with Belarus’ Belavia, CEO claims",
+          "url": "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo",
+          "domain": "aerotime.aero",
+          "summary": "The US Department of Commerce has given Boeing permission to work with Belarus’ national carrier Belavia, according to… The post US allows Boeing to work with Belarus’ Belavia, CEO claims appeared first on AeroTime .",
+          "published": "2026-11-02T10:20:37Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
+      "written_count": 2
     },
     "cfaffcd0fc3": {
       "id": "cfaffcd0fc3",
@@ -2987,6 +3008,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.280476
+    "2026-11": 0.312907
   }
 }
