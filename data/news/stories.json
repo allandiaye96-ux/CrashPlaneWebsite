@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
+    "created": "2026-10-30T23:20:52Z",
+    "updated": "2026-11-02T09:01:19Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "LOT Polish Airlines retire son dernier Embraer E170, 22 ans après avoir lancé le type en service commercial",
+    "chapo": "LOT Polish Airlines a mis fin le 30 octobre 2026 à l'exploitation de l'Embraer E170, selon Flightradar24 et Air Journal. La compagnie polonaise avait été la première au monde à l'utiliser en service commercial.",
+    "paragraphes": [
+      "Le dernier vol, LO222, devait atterrir à Varsovie en soirée en provenance de Vienne, d'après le blog de Flightradar24. C'est sur cette même liaison que LOT avait inauguré l'E170 en exploitation commerciale le 17 mars 2004, devenant alors le premier opérateur mondial du type.",
+      "Air Journal indique que cette dernière rotation entre Varsovie et Vienne clôt un chapitre de l'histoire régionale de la compagnie, alors que l'arrivée des Airbus A220 approche."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Launch customer LOT operates final Embraer E170 flight",
+        "url": "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/",
+        "date": "2026-10-30T13:19:38Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "The E170's First Customer Is Retiring The Type Today",
+        "url": "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/",
+        "date": "2026-10-30T15:43:16Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "LOT tourne la page de l’Embraer E170 après 22 ans de service",
+        "url": "https://www.air-journal.fr/2026-11-02-lot-tourne-la-page-de-lembraer-e170-apres-22-ans-de-service-5278637.html",
+        "date": "2026-11-02T09:00:39Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
     "created": "2026-11-02T08:01:17Z",
     "updated": "2026-11-02T08:01:17Z",
@@ -854,45 +900,6 @@
         "title": "Lights Out: United Airlines To Exit Tulum After Less Than 2 Years Of Service",
         "url": "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/",
         "date": "2026-10-30T17:44:48Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
-    "created": "2026-10-30T23:20:52Z",
-    "updated": "2026-10-30T23:20:52Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "LOT Polish Airlines retire l'Embraer E170, dont elle fut la première cliente, avec un dernier vol Vienne–Varsovie",
-    "chapo": "Selon Flightradar24, le vol LO222 de LOT Polish Airlines entre Vienne et Varsovie, le 30 octobre, marque la fin de l'exploitation de l'Embraer E170 par la compagnie. Simple Flying confirme que ce service est le dernier assuré avec ce type d'appareil.",
-    "paragraphes": [
-      "D'après Flightradar24, le LO222 doit se poser à Varsovie en soirée, en provenance de Vienne. Ce vol referme un chapitre ouvert 22 ans plus tôt, sur cette même liaison.",
-      "Le 17 mars 2004, LOT était devenue la première compagnie au monde à exploiter l'Embraer E170 en service commercial, rappelle le blog. La compagnie polonaise était ainsi cliente de lancement de l'appareil."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "Launch customer LOT operates final Embraer E170 flight",
-        "url": "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/",
-        "date": "2026-10-30T13:19:38Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "The E170's First Customer Is Retiring The Type Today",
-        "url": "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/",
-        "date": "2026-10-30T15:43:16Z",
         "official": false
       }
     ]

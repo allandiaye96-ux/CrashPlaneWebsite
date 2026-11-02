@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T08:50:39Z",
+  "run": "2026-11-02T09:01:00Z",
   "stats": {
     "fetched": 687,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.2142,
+  "spend_month_usd": 0.2329,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -136,6 +136,12 @@
       "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
     },
     {
+      "dossier": "LOT dernier vol Embraer E170",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -188,12 +194,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25"
-    },
-    {
-      "dossier": "LOT dernier vol Embraer E170",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
     },
     {
       "dossier": "FAA fin des exemptions monopilote CE-500",

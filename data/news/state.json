@@ -1099,7 +1099,9 @@
     "https://www.airliners.de/swedavia-stellt-airline-entgelte-gewaehrt-rabatte/91228": "2026-11-02T07:20:34Z",
     "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html": "2026-11-02T08:00:59Z",
     "https://www.air-journal.fr/2026-11-02-lufthansa-un-membre-dequipage-meurt-dans-une-piscine-dhotel-en-inde-5278636.html": "2026-11-02T08:00:59Z",
-    "https://www.airliners.de/fallende-preise-us-start-ups-holen-flugreisenden-ki-geld-ueck/91224": "2026-11-02T08:20:43Z"
+    "https://www.airliners.de/fallende-preise-us-start-ups-holen-flugreisenden-ki-geld-ueck/91224": "2026-11-02T08:20:43Z",
+    "https://simpleflying.com/boeing-747-cockpit-flying-queen-skies-differs-modern-jets/": "2026-11-02T09:01:00Z",
+    "https://www.air-journal.fr/2026-11-02-lot-tourne-la-page-de-lembraer-e170-apres-22-ans-de-service-5278637.html": "2026-11-02T09:01:00Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1981,7 +1983,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-30T13:31:09Z",
-      "updated": "2026-10-30T15:50:52Z",
+      "updated": "2026-11-02T09:01:12Z",
       "items": [
         {
           "id": "e910b072126c9a44",
@@ -2000,10 +2002,19 @@
           "domain": "simpleflying.com",
           "summary": "LOT Polish will fly its last E170 service between Vienna and Warsaw.",
           "published": "2026-10-30T15:43:16Z"
+        },
+        {
+          "id": "e5adc4cb1bf95fca",
+          "feed": "Air Journal",
+          "title": "LOT tourne la page de l’Embraer E170 après 22 ans de service",
+          "url": "https://www.air-journal.fr/2026-11-02-lot-tourne-la-page-de-lembraer-e170-apres-22-ans-de-service-5278637.html",
+          "domain": "air-journal.fr",
+          "summary": "La compagnie polonaise a retiré son dernier Embraer E170 le 30 octobre 2026, au terme d’une ultime rotation entre Varsovie et Vienne. Première au monde à avoir mis ce biréacteur en service commercial en mars 2004, LOT referme un chapitre de son histoire régionale, à l’approche de l’arrivée des Airbus A220. Un dernier Varsovie–Vienne en écho au […]",
+          "published": "2026-11-02T09:00:39Z"
         }
       ],
       "story_id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
-      "written_count": 2
+      "written_count": 3
     },
     "cfbec5ee62f": {
       "id": "cfbec5ee62f",
@@ -2794,6 +2805,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.214161
+    "2026-11": 0.232924
   }
 }
