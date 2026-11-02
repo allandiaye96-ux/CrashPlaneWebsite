@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T15:01:11Z",
+  "run": "2026-11-02T15:10:34Z",
   "stats": {
     "fetched": 687,
-    "new": 3,
+    "new": 2,
     "written": 1,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 0.5519,
+  "spend_month_usd": 0.5937,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -106,6 +106,12 @@
       "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
     },
     {
+      "dossier": "Boeing autorisée vente Belarus Belavia",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
@@ -118,10 +124,10 @@
       "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
     },
     {
-      "dossier": "Boeing autorisée vente Belarus Belavia",
+      "dossier": "Grèce KC-390 Embraer",
       "statut": "corrobore",
       "editeurs": 4,
-      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
+      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
       "dossier": "Airbus résultats T3 2026 livraisons",
@@ -152,12 +158,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
-    },
-    {
-      "dossier": "Grèce KC-390 Embraer",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
       "dossier": "Image du spaceplane chinois",

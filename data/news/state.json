@@ -1168,7 +1168,9 @@
     "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html": "2026-11-02T14:50:33Z",
     "https://simpleflying.com/emirates-airbus-a380s-finally-return-to-17-hour-route/": "2026-11-02T15:01:11Z",
     "https://airlinegeeks.com/2026/11/02/american-resumes-service-to-haiti-after-two-year-pause/": "2026-11-02T15:01:11Z",
-    "https://www.air-journal.fr/2026-11-02-un-premier-boeing-787-9-pour-pakistan-international-airlines-avec-norse-aux-commandes-5278647.html": "2026-11-02T15:01:11Z"
+    "https://www.air-journal.fr/2026-11-02-un-premier-boeing-787-9-pour-pakistan-international-airlines-avec-norse-aux-commandes-5278647.html": "2026-11-02T15:01:11Z",
+    "https://theaviationist.com/2026/11/02/greece-orders-kc390-millennium/": "2026-11-02T15:10:34Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/belavia-washington-autorise-boeing-a-reprendre-sa-cooperation-directe-avec-la-compagnie-bielorusse-20261102.html": "2026-11-02T15:10:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2875,7 +2877,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-02T09:20:47Z",
-      "updated": "2026-11-02T14:01:38Z",
+      "updated": "2026-11-02T15:10:50Z",
       "items": [
         {
           "id": "0c77640a093db5ea",
@@ -2912,10 +2914,19 @@
           "domain": "air-journal.fr",
           "summary": "La compagnie nationale biélorusse Belavia affirme que Washington a autorisé Boeing à reprendre sa coopération directe avec elle. Annoncée le 31 octobre 2026, cette décision doit faciliter l’approvisionnement en pièces détachées et en logiciels pour les avions déjà en service, tout en ouvrant la voie à des discussions sur de futures acquisitions. Une nouvelle étape […]",
           "published": "2026-11-02T14:00:28Z"
+        },
+        {
+          "id": "49df8358a94ec74a",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Belavia : Washington autorise Boeing à reprendre sa coopération directe avec la compagnie biélorusse",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/belavia-washington-autorise-boeing-a-reprendre-sa-cooperation-directe-avec-la-compagnie-bielorusse-20261102.html",
+          "domain": "journal-aviation.com",
+          "summary": "Le département américain du Commerce a autorisé Boeing à reprendre sa coopération avec Belavia, selon un communiqué du transporteur biélorusse publié le 31 octobre. Selon Belavia, cette décision lui permettra de […] L’article Belavia : Washington autorise Boeing à reprendre sa coopération directe avec la compagnie biélorusse a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-02T15:01:33Z"
         }
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
-      "written_count": 4
+      "written_count": 5
     },
     "cfaffcd0fc3": {
       "id": "cfaffcd0fc3",
@@ -3070,7 +3081,7 @@
       "categorie": "Défense",
       "importance": 3,
       "created": "2026-11-02T13:01:18Z",
-      "updated": "2026-11-02T13:40:50Z",
+      "updated": "2026-11-02T15:10:50Z",
       "items": [
         {
           "id": "974f4f1c6d9601bd",
@@ -3098,10 +3109,19 @@
           "domain": "journal-aviation.com",
           "summary": "Le ministère grec de la Défense nationale a signé un contrat pour l’acquisition de trois KC-390 Millennium produits par Embraer, une commande assortie d’une option pour trois exemplaires supplémentaires. Comme […] L’article La Grèce finalise son contrat d’acquisition d’Embraer KC-390 a été publié sur Le Journal de l'Aviation .",
           "published": "2026-11-02T13:32:41Z"
+        },
+        {
+          "id": "0cd8a70a89381fbd",
+          "feed": "The Aviationist",
+          "title": "Greece Signs for up to Six Embraer KC-390 Millennium Multi-Role Transports",
+          "url": "https://theaviationist.com/2026/11/02/greece-orders-kc390-millennium/",
+          "domain": "theaviationist.com",
+          "summary": "The Hellenic Air Force has placed a firm order for three KC-390 Millennium aircraft from Brazilian manufacturer Embraer, to be delivered from 2027, with options for three more also included in the deal. Greece will join the growing list of countries operating Embraer’s jet-powered medium airlifter following a finalized deal signed in Athens on Nov. […]",
+          "published": "2026-11-02T15:06:22Z"
         }
       ],
       "story_id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
-      "written_count": 3
+      "written_count": 4
     },
     "c780fa1dfdd": {
       "id": "c780fa1dfdd",
@@ -3295,6 +3315,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.551861
+    "2026-11": 0.593668
   }
 }
