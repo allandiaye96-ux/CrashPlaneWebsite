@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T07:50:32Z",
+  "run": "2026-11-02T08:00:59Z",
   "stats": {
     "fetched": 687,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.2045,
+  "spend_month_usd": 0.2134,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -422,6 +422,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356"
+    },
+    {
+      "dossier": "Ryanair plan d'économies kérosène T2",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
     },
     {
       "dossier": "IATA trafic passagers septembre 2026",

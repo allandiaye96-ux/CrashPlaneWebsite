@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
+    "created": "2026-11-02T08:01:17Z",
+    "updated": "2026-11-02T08:01:17Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, pénalisé par le kérosène",
+    "chapo": "Selon aero.de, Ryanair reste pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient. Son bénéfice après impôts a reculé de six pour cent au deuxième trimestre de son exercice.",
+    "paragraphes": [
+      "D'après aero.de, le bénéfice après impôts de la compagnie irlandaise s'établit à 1,6 milliard d'euros, en baisse de six pour cent, comme l'a annoncé l'entreprise depuis Dublin lors de la publication de ses résultats.",
+      "Sur l'ensemble du premier semestre de l'exercice 2026/27, le recul atteint quinze pour cent, toujours d'après le média allemand, qui évoque par ailleurs un vaste programme d'économies mis en place par Ryanair."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Ryanair legt umfassendes Sparprogramm auf",
+        "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
+        "date": "2026-11-02T07:56:25Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356",
     "created": "2026-11-02T06:20:53Z",
     "updated": "2026-11-02T06:20:53Z",

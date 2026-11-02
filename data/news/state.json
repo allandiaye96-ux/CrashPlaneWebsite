@@ -1096,7 +1096,9 @@
     "https://www.airliners.de/vertrieb-marketing-discover-a350-ziele-air-uniqon-erweitert-netz-flughafenchef-saniert-airport-computerspiel/91219": "2026-11-02T06:20:36Z",
     "https://www.airliners.de/ees-wirkt-sich-sommer-begrenzt-abflugverspaetungen-aus/91223": "2026-11-02T06:20:36Z",
     "https://www.air-journal.fr/2026-11-02-a-hong-kong-delta-defie-cathay-pacific-sur-le-terrain-du-haut-de-gamme-5278635.html": "2026-11-02T07:01:02Z",
-    "https://www.airliners.de/swedavia-stellt-airline-entgelte-gewaehrt-rabatte/91228": "2026-11-02T07:20:34Z"
+    "https://www.airliners.de/swedavia-stellt-airline-entgelte-gewaehrt-rabatte/91228": "2026-11-02T07:20:34Z",
+    "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html": "2026-11-02T08:00:59Z",
+    "https://www.air-journal.fr/2026-11-02-lufthansa-un-membre-dequipage-meurt-dans-une-piscine-dhotel-en-inde-5278636.html": "2026-11-02T08:00:59Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2766,10 +2768,31 @@
       ],
       "story_id": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356",
       "written_count": 1
+    },
+    "c5022e916ae": {
+      "id": "c5022e916ae",
+      "label": "Ryanair plan d'économies kérosène T2",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T08:01:12Z",
+      "updated": "2026-11-02T08:01:12Z",
+      "items": [
+        {
+          "id": "aa1577e3bdc85711",
+          "feed": "aero.de",
+          "title": "Ryanair legt umfassendes Sparprogramm auf",
+          "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
+          "domain": "aero.de",
+          "summary": "DUBLIN - Die hohen Kerosinkosten im Zusammenhang mit dem Nahost-Konflikt belasten Ryanair auch im zweiten Geschäftsquartal. Der Gewinn nach Steuern sank um sechs Prozent auf 1,6 Milliarden Euro, wie das Unternehmen am Montag in Dublin mitteilte. Im ersten Halbjahr des Geschäftsjahres 2026/27 summierte sich das Minus auf 15 Prozent.",
+          "published": "2026-11-02T07:56:25Z"
+        }
+      ],
+      "story_id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.204475
+    "2026-11": 0.213449
   }
 }

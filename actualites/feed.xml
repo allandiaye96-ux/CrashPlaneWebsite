@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 07:50:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 08:01:17 +0000</lastBuildDate>
+  <item>
+    <title>Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, pénalisé par le kérosène</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</guid>
+    <pubDate>Mon, 02 Nov 2026 08:01:17 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, Ryanair reste pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient. Son bénéfice après impôts a reculé de six pour cent au deuxième trimestre de son exercice.</description>
+  </item>
   <item>
     <title>Système EES : un impact limité sur les retards au départ cet été, selon une analyse de données</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:07:37 +0000</pubDate>
     <category>Aéroports</category>
     <description>Selon airliners.de, l&#x27;aéroport de Brême perdrait un tiers de ses passagers avec le retrait de Ryanair l&#x27;an prochain. Son directeur chargé de l&#x27;assainissement, Rainer Schwarz, envisage de mettre hors service une partie des installations de traitement des passagers.</description>
-  </item>
-  <item>
-    <title>Air Canada abaisse sa prévision de résultats à cause du coût du kérosène</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-air-canada-abaisse-sa-prevision-de-resultats-a-cause-du-cout-11b1/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-air-canada-abaisse-sa-prevision-de-resultats-a-cause-du-cout-11b1/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:07:33 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Air Canada révise à la baisse sa prévision de résultats, le prix du kérosène augmentant plus vite que celui des billets.</description>
   </item>
 </channel>
 </rss>
