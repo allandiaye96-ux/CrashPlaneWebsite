@@ -1121,7 +1121,11 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=890DB021-35DA-4929-90D3-D375B3263170": "2026-11-02T10:06:15Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=D438A3BB-7D72-48B7-9E85-F88C8C37A5F7": "2026-11-02T10:06:15Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=C99AA51A-6A0F-442B-8CCA-5A3F646F9406": "2026-11-02T10:06:15Z",
-    "https://www.aero.de/news-54065/Indigo-Airbus-A350-900-kommt-mit-Business-Class.html": "2026-11-02T10:10:38Z"
+    "https://www.aero.de/news-54065/Indigo-Airbus-A350-900-kommt-mit-Business-Class.html": "2026-11-02T10:10:38Z",
+    "https://www.airliners.de/luftwaffe-verlegt-eurofighter-uebung-flughafen-weeze/91238": "2026-11-02T10:20:33Z",
+    "https://www.airliners.de/lufthansa-flugbegleiter-stirbt-hotelunfall-indien/91237": "2026-11-02T10:20:33Z",
+    "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236": "2026-11-02T10:20:33Z",
+    "https://www.airliners.de/lufthansa-verlaesst-e-fuel-alliance-beklagt-fehlenden-e-kerosin-markt/91234": "2026-11-02T10:20:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2807,7 +2811,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-02T08:01:12Z",
-      "updated": "2026-11-02T08:01:12Z",
+      "updated": "2026-11-02T10:20:47Z",
       "items": [
         {
           "id": "aa1577e3bdc85711",
@@ -2817,10 +2821,19 @@
           "domain": "aero.de",
           "summary": "DUBLIN - Die hohen Kerosinkosten im Zusammenhang mit dem Nahost-Konflikt belasten Ryanair auch im zweiten Geschäftsquartal. Der Gewinn nach Steuern sank um sechs Prozent auf 1,6 Milliarden Euro, wie das Unternehmen am Montag in Dublin mitteilte. Im ersten Halbjahr des Geschäftsjahres 2026/27 summierte sich das Minus auf 15 Prozent.",
           "published": "2026-11-02T07:56:25Z"
+        },
+        {
+          "id": "25fdd771c7aa0782",
+          "feed": "airliners.de",
+          "title": "Hohe Kerosinkosten: Ryanair schließt Nullrunden für Beschäftigte nicht aus",
+          "url": "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236",
+          "domain": "airliners.de",
+          "summary": "Steigende Treibstoffkosten belasten Ryanair. Im Sommerquartal sank der Nettogewinn um sechs Prozent. Für das kommende Geschäftsjahr rechnet die Airline mit einer um zwei Milliarden Euro höheren Kerosinrechnung. Gespart werden soll an allen Fronten – auch beim Personal.",
+          "published": "2026-11-02T09:54:59Z"
         }
       ],
       "story_id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
-      "written_count": 1
+      "written_count": 2
     },
     "c4f7de42402": {
       "id": "c4f7de42402",
@@ -2947,10 +2960,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cb944cb3ac2": {
+      "id": "cb944cb3ac2",
+      "label": "Lufthansa flight attendant décès Bengaluru hôtel",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T10:20:47Z",
+      "updated": "2026-11-02T10:20:47Z",
+      "items": [
+        {
+          "id": "daea8bda00327b83",
+          "feed": "airliners.de",
+          "title": "Lufthansa-Flugbegleiter stirbt bei Hotelunfall in Indien",
+          "url": "https://www.airliners.de/lufthansa-flugbegleiter-stirbt-hotelunfall-indien/91237",
+          "domain": "airliners.de",
+          "summary": "Ein Flugbegleiter der Lufthansa ist während eines Zwischenstopps im indischen Bengaluru bei einem Unfall in einem Hotel ums Leben gekommen. Auch ein weiterer ausländischer Gast starb. Die Behörden ermitteln zur genauen Ursache.",
+          "published": "2026-11-02T09:57:07Z"
+        }
+      ],
+      "story_id": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.253967
+    "2026-11": 0.278977
   }
 }

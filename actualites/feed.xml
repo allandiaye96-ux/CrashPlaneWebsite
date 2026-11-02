@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 10:10:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 10:20:58 +0000</lastBuildDate>
+  <item>
+    <title>Un steward de Lufthansa meurt dans un accident d&#x27;hôtel à Bengaluru, en Inde</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2/</guid>
+    <pubDate>Mon, 02 Nov 2026 10:20:58 +0000</pubDate>
+    <category>Accident</category>
+    <description>Selon airliners.de, un membre du personnel de cabine de Lufthansa est mort lors d&#x27;un accident survenu dans un hôtel de Bengaluru, où il effectuait une escale. Un autre client étranger a également perdu la vie.</description>
+  </item>
   <item>
     <title>Airbus : résultat ajusté en baisse de 9 % au troisième trimestre, à 1,77 milliard d&#x27;euros</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d/</link>
@@ -24,12 +32,12 @@
     <description>Selon Aero-News Network, Electra a retenu Springfield, dans l&#x27;Ohio, pour implanter sa première usine de production de l&#x27;EL9 Ultra Short, un appareil de 9 passagers. L&#x27;annonce a donné lieu à une cérémonie réunissant responsables publics et acteurs économiques.</description>
   </item>
   <item>
-    <title>Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, pénalisé par le kérosène</title>
+    <title>Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, sur fond de kérosène cher</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</link>
     <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</guid>
     <pubDate>Mon, 02 Nov 2026 08:01:17 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon aero.de, Ryanair reste pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient. Son bénéfice après impôts a reculé de six pour cent au deuxième trimestre de son exercice.</description>
+    <description>Selon aero.de, la compagnie irlandaise voit son bénéfice après impôts reculer de six pour cent à 1,6 milliard d&#x27;euros au deuxième trimestre, pénalisé par le coût du kérosène lié au conflit au Proche-Orient. Elle met en place un programme d&#x27;économies étendu.</description>
   </item>
   <item>
     <title>Système EES : un impact limité sur les retards au départ cet été, selon une analyse de données</title>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:11:06 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, China Southern Airlines a enregistré une perte nette de 609 millions de yuans au troisième trimestre. La compagnie chinoise l&#x27;a annoncé dans une communication obligatoire adressée à la Bourse de Shanghai.</description>
-  </item>
-  <item>
-    <title>Lufthansa prévoit l&#x27;été 2027 sans Boeing 777-9 et prolonge ses Airbus A340-300 à Francfort</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-lufthansa-prevoit-l-ete-2027-sans-boeing-777-9-et-prolonge-s-52b7/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-lufthansa-prevoit-l-ete-2027-sans-boeing-777-9-et-prolonge-s-52b7/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:11:03 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon aero.de, Lufthansa organise sa saison estivale 2027 sans le Boeing 777-9. Le constructeur vise malgré tout des livraisons à de premiers clients en 2027.</description>
   </item>
 </channel>
 </rss>

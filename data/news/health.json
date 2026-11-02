@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T10:10:38Z",
+  "run": "2026-11-02T10:20:33Z",
   "stats": {
     "fetched": 687,
-    "new": 1,
-    "written": 0,
+    "new": 4,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.254,
+  "spend_month_usd": 0.279,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -220,6 +220,12 @@
       "breve": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca"
     },
     {
+      "dossier": "Ryanair plan d'économies kérosène T2",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
+    },
+    {
       "dossier": "Prêt 3,4 milliards Airbus US",
       "statut": "source_unique",
       "editeurs": 1,
@@ -424,12 +430,6 @@
       "breve": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356"
     },
     {
-      "dossier": "Ryanair plan d'économies kérosène T2",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
-    },
-    {
       "dossier": "Electra usine Springfield EL9",
       "statut": "source_unique",
       "editeurs": 1,
@@ -440,6 +440,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d"
+    },
+    {
+      "dossier": "Lufthansa flight attendant décès Bengaluru hôtel",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2"
     },
     {
       "dossier": "IATA trafic passagers septembre 2026",

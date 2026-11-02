@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2",
+    "created": "2026-11-02T10:20:58Z",
+    "updated": "2026-11-02T10:20:58Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 2,
+    "titre": "Un steward de Lufthansa meurt dans un accident d'hôtel à Bengaluru, en Inde",
+    "chapo": "Selon airliners.de, un membre du personnel de cabine de Lufthansa est mort lors d'un accident survenu dans un hôtel de Bengaluru, où il effectuait une escale. Un autre client étranger a également perdu la vie.",
+    "paragraphes": [
+      "D'après le média allemand, le navigant se trouvait en Inde dans le cadre d'une escale lorsque l'accident s'est produit dans l'établissement hôtelier. Un second client étranger est lui aussi décédé.",
+      "Les autorités enquêtent afin de déterminer les circonstances et la cause exacte de l'accident, qui ne sont pas établies à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa-Flugbegleiter stirbt bei Hotelunfall in Indien",
+        "url": "https://www.airliners.de/lufthansa-flugbegleiter-stirbt-hotelunfall-indien/91237",
+        "date": "2026-11-02T09:57:07Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
+    "created": "2026-11-02T08:01:17Z",
+    "updated": "2026-11-02T10:20:51Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, sur fond de kérosène cher",
+    "chapo": "Selon aero.de, la compagnie irlandaise voit son bénéfice après impôts reculer de six pour cent à 1,6 milliard d'euros au deuxième trimestre, pénalisé par le coût du kérosène lié au conflit au Proche-Orient. Elle met en place un programme d'économies étendu.",
+    "paragraphes": [
+      "Ryanair a publié ses résultats à Dublin : d'après aero.de, le bénéfice après impôts du deuxième trimestre de son exercice a baissé de six pour cent, à 1,6 milliard d'euros. Sur le premier semestre de l'exercice 2026/27, le recul atteint 15 pour cent.",
+      "D'après airliners.de, la compagnie anticipe pour l'exercice suivant une facture de kérosène supérieure de deux milliards d'euros. Des économies doivent être recherchées sur tous les fronts, y compris sur le personnel, et la compagnie n'exclut pas des années sans hausse de salaire pour ses employés."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Ryanair legt umfassendes Sparprogramm auf",
+        "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
+        "date": "2026-11-02T07:56:25Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Hohe Kerosinkosten: Ryanair schließt Nullrunden für Beschäftigte nicht aus",
+        "url": "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236",
+        "date": "2026-11-02T09:54:59Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d",
     "created": "2026-11-02T10:06:42Z",
     "updated": "2026-11-02T10:06:42Z",
@@ -105,38 +176,6 @@
         "title": "LOT tourne la page de l’Embraer E170 après 22 ans de service",
         "url": "https://www.air-journal.fr/2026-11-02-lot-tourne-la-page-de-lembraer-e170-apres-22-ans-de-service-5278637.html",
         "date": "2026-11-02T09:00:39Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
-    "created": "2026-11-02T08:01:17Z",
-    "updated": "2026-11-02T08:01:17Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, pénalisé par le kérosène",
-    "chapo": "Selon aero.de, Ryanair reste pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient. Son bénéfice après impôts a reculé de six pour cent au deuxième trimestre de son exercice.",
-    "paragraphes": [
-      "D'après aero.de, le bénéfice après impôts de la compagnie irlandaise s'établit à 1,6 milliard d'euros, en baisse de six pour cent, comme l'a annoncé l'entreprise depuis Dublin lors de la publication de ses résultats.",
-      "Sur l'ensemble du premier semestre de l'exercice 2026/27, le recul atteint quinze pour cent, toujours d'après le média allemand, qui évoque par ailleurs un vaste programme d'économies mis en place par Ryanair."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Ryanair legt umfassendes Sparprogramm auf",
-        "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
-        "date": "2026-11-02T07:56:25Z",
         "official": false
       }
     ]
