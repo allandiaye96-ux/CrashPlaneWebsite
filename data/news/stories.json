@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810",
+    "created": "2026-11-02T21:01:31Z",
+    "updated": "2026-11-02T21:01:31Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "United : son directeur général juge que l'Overture de Boom manquera l'objectif d'entrée en service de 2029",
+    "chapo": "Selon AeroTime, Scott Kirby, directeur général d'United Airlines, estime que Boom Supersonic ne tiendra pas son objectif d'entrée en service de 2029 pour l'Overture.",
+    "paragraphes": [
+      "D'après AeroTime, le dirigeant d'United Airlines a déclaré que l'avion de ligne supersonique Overture, développé par Boom Supersonic, n'entrerait pas en service à la date de 2029 visée jusqu'ici par le constructeur."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "United CEO says Boom’s Overture supersonic jet will miss service-entry target",
+        "url": "https://www.aerotime.aero/articles/united-ceo-boom-overture-supersonic-jet-delay",
+        "date": "2026-11-02T20:45:28Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714",
     "created": "2026-11-02T20:01:26Z",
     "updated": "2026-11-02T20:01:26Z",
