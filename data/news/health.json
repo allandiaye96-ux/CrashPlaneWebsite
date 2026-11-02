@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-02T06:20:36Z",
+  "run": "2026-11-02T06:30:49Z",
   "stats": {
-    "fetched": 667,
-    "new": 2,
-    "written": 1,
+    "fetched": 687,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": false,
-      "error": "ParseError: no element found: line 13, column 46"
+      "ok": true,
+      "items": 20
     },
     "airliners.de": {
       "ok": true,
