@@ -1165,7 +1165,10 @@
     "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242": "2026-11-02T14:20:34Z",
     "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243": "2026-11-02T14:20:34Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html": "2026-11-02T14:30:54Z",
-    "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html": "2026-11-02T14:50:33Z"
+    "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html": "2026-11-02T14:50:33Z",
+    "https://simpleflying.com/emirates-airbus-a380s-finally-return-to-17-hour-route/": "2026-11-02T15:01:11Z",
+    "https://airlinegeeks.com/2026/11/02/american-resumes-service-to-haiti-after-two-year-pause/": "2026-11-02T15:01:11Z",
+    "https://www.air-journal.fr/2026-11-02-un-premier-boeing-787-9-pour-pakistan-international-airlines-avec-norse-aux-commandes-5278647.html": "2026-11-02T15:01:11Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2752,7 +2755,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-02T05:01:17Z",
-      "updated": "2026-11-02T05:01:17Z",
+      "updated": "2026-11-02T15:01:34Z",
       "items": [
         {
           "id": "ed755a8be73c1160",
@@ -2762,10 +2765,19 @@
           "domain": "aerotime.aero",
           "summary": "Pakistan International Airlines (PIA) has received its first Boeing 787-9 Dreamliner, with the aircraft arriving at Islamabad International… The post Pakistan International Airlines receives first Boeing 787-9 Dreamliner appeared first on AeroTime .",
           "published": "2026-11-02T04:00:00Z"
+        },
+        {
+          "id": "5aabdca795e857e7",
+          "feed": "Air Journal",
+          "title": "Un premier Boeing 787-9 pour Pakistan International Airlines, avec Norse aux commandes",
+          "url": "https://www.air-journal.fr/2026-11-02-un-premier-boeing-787-9-pour-pakistan-international-airlines-avec-norse-aux-commandes-5278647.html",
+          "domain": "air-journal.fr",
+          "summary": "Pakistan International Airlines (PIA) a accueilli à Islamabad, le 1er novembre 2026, un premier Boeing 787-9 exploité pour son compte par Norse Atlantic Airways. L’appareil, arrivé de Londres-Heathrow, inaugure un accord de location avec équipage portant sur deux Dreamliner. Pour la compagnie pakistanaise, l’enjeu est de renforcer ses capacités vers le Royaume-Uni tout en poursuivant […]",
+          "published": "2026-11-02T15:00:43Z"
         }
       ],
       "story_id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
-      "written_count": 1
+      "written_count": 2
     },
     "cd404f8ca18": {
       "id": "cd404f8ca18",
@@ -3283,6 +3295,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.542607
+    "2026-11": 0.551861
   }
 }
