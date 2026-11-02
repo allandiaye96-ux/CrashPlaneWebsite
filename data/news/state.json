@@ -1215,7 +1215,8 @@
     "https://www.aerotime.aero/articles/united-ceo-boom-overture-supersonic-jet-delay": "2026-11-02T21:01:05Z",
     "https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate": "2026-11-02T21:40:33Z",
     "https://simpleflying.com/wideroe-dash-8-tracked-24-hours/": "2026-11-02T22:01:04Z",
-    "https://simpleflying.com/jetblue-3-destinations-1-city-launches-today/": "2026-11-02T22:30:49Z"
+    "https://simpleflying.com/jetblue-3-destinations-1-city-launches-today/": "2026-11-02T22:30:49Z",
+    "https://simpleflying.com/boeing-admits-future-freighters-twin-engine-jets/": "2026-11-02T23:01:01Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3441,6 +3442,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.664233
+    "2026-11": 0.665018
   }
 }
