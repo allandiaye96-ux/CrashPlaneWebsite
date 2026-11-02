@@ -1194,7 +1194,8 @@
     "https://www.airliners.de/eurowings-praesentiert-berliner-winterflugplan-zielen/91264": "2026-11-02T17:20:35Z",
     "https://www.airliners.de/condor-winterziele-muensterosnabrueck/91265": "2026-11-02T17:20:35Z",
     "https://www.airliners.de/easyjet-fluege-grossbritannien-nuernberg/91263": "2026-11-02T17:20:35Z",
-    "https://airlinegeeks.com/2026/11/02/ryanair-weighs-fare-hikes-pay-freeze-as-fuel-prices-soar/": "2026-11-02T17:40:34Z"
+    "https://airlinegeeks.com/2026/11/02/ryanair-weighs-fare-hikes-pay-freeze-as-fuel-prices-soar/": "2026-11-02T17:40:34Z",
+    "https://simpleflying.com/southwest-airlines-drops-suspends-10-nonstop-routes/": "2026-11-02T18:01:08Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3336,6 +3337,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.627439
+    "2026-11": 0.628232
   }
 }
