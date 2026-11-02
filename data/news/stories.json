@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
+    "created": "2026-11-02T13:01:51Z",
+    "updated": "2026-11-02T13:40:57Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 3,
+    "titre": "Grèce : commande de trois KC-390 Millennium d'Embraer, avec option pour trois appareils de plus",
+    "chapo": "Athènes a conclu l'achat de trois avions de transport militaire KC-390 Millennium auprès d'Embraer, selon AviTrader. Le contrat prévoit aussi la possibilité d'en acquérir trois autres.",
+    "paragraphes": [
+      "L'accord a été passé dans le cadre d'un arrangement de gouvernement à gouvernement entre la Grèce et le Portugal, d'après AviTrader. Le ministère grec de la Défense nationale a indiqué que l'armée de l'Air hellénique doit recevoir son premier appareil à une date que l'extrait disponible ne détaille pas.",
+      "Embraer a confirmé que l'acquisition réalisée par le ministère grec porte sur trois KC-390 Millennium, avec une extension possible jusqu'à six exemplaires, rapporte AeroTime."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "The Hellenic Ministry of National Defense signs KC-390 order",
+        "url": "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/",
+        "date": "2026-11-02T12:55:58Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums",
+        "url": "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft",
+        "date": "2026-11-02T12:58:55Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "La Grèce finalise son contrat d’acquisition d’Embraer KC-390",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html",
+        "date": "2026-11-02T13:32:41Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd",
     "created": "2026-11-02T13:21:14Z",
     "updated": "2026-11-02T13:21:14Z",
@@ -27,45 +73,6 @@
         "title": "Zehn Kläger wollen Ausbau am Flughafen Leipzig/Halle stoppen",
         "url": "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241",
         "date": "2026-11-02T12:50:08Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
-    "created": "2026-11-02T13:01:51Z",
-    "updated": "2026-11-02T13:01:51Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Défense",
-    "importance": 2,
-    "titre": "La Grèce signe pour trois KC-390 Millennium d'Embraer, avec options pour trois appareils de plus",
-    "chapo": "Selon AviTrader, le ministère grec de la Défense nationale a signé un contrat portant sur trois avions de transport militaire KC-390 Millennium d'Embraer, assorti d'options pour trois exemplaires supplémentaires. Embraer a confirmé que l'acquisition pouvait aller jusqu'à six appareils, d'après AeroTime.",
-    "paragraphes": [
-      "L'accord a été conclu dans le cadre d'un arrangement de gouvernement à gouvernement entre la Grèce et le Portugal, indique AviTrader. Le ministère grec de la Défense nationale précise que l'armée de l'air hellénique doit recevoir son premier appareil à une échéance non détaillée dans l'extrait de l'article.",
-      "De son côté, le constructeur brésilien a confirmé que cette acquisition comprend trois KC-390 Millennium, avec une possibilité d'extension jusqu'à six appareils, rapporte AeroTime."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "The Hellenic Ministry of National Defense signs KC-390 order",
-        "url": "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/",
-        "date": "2026-11-02T12:55:58Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums",
-        "url": "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft",
-        "date": "2026-11-02T12:58:55Z",
         "official": false
       }
     ]

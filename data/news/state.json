@@ -1153,7 +1153,8 @@
     "https://avitrader.com/2026/11/02/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-11-02T13:10:33Z",
     "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241": "2026-11-02T13:20:56Z",
     "https://www.airliners.de/flughafen-stuttgart-erwartet-rote-zahlen/91240": "2026-11-02T13:20:56Z",
-    "https://simpleflying.com/video/nearly-2-000-boeing-737s-must-get-tail-inspections-after-jets-pitched-up-and-down-mid-flight/": "2026-11-02T13:30:51Z"
+    "https://simpleflying.com/video/nearly-2-000-boeing-737s-must-get-tail-inspections-after-jets-pitched-up-and-down-mid-flight/": "2026-11-02T13:30:51Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html": "2026-11-02T13:40:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2395,27 +2396,6 @@
       "story_id": "2026-10-31-latam-prevoit-un-vol-genevesao-paulo-des-avril-2027-une-prem-32c7",
       "written_count": 1
     },
-    "cfe1cbbc055": {
-      "id": "cfe1cbbc055",
-      "label": "FlyersRights poursuit le DOT sur règle des retards",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-10-31T13:31:01Z",
-      "updated": "2026-10-31T13:31:01Z",
-      "items": [
-        {
-          "id": "40e71f42c088e9b1",
-          "feed": "AeroTime",
-          "title": "Passenger rights group sues DOT over rule shifting flight delay costs to travelers",
-          "url": "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs",
-          "domain": "aerotime.aero",
-          "summary": "Airline passenger group FlyersRights is suing the US Department of Transportation (DOT) over a rule it says shifts… The post Passenger rights group sues DOT over rule shifting flight delay costs to travelers appeared first on AeroTime .",
-          "published": "2026-10-31T12:29:19Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c617df79c24": {
       "id": "c617df79c24",
       "label": "Aena résultats T3 2026 trafic",
@@ -3047,9 +3027,9 @@
       "id": "cf8e9359405",
       "label": "Grèce KC-390 Embraer",
       "categorie": "Défense",
-      "importance": 2,
+      "importance": 3,
       "created": "2026-11-02T13:01:18Z",
-      "updated": "2026-11-02T13:01:18Z",
+      "updated": "2026-11-02T13:40:50Z",
       "items": [
         {
           "id": "974f4f1c6d9601bd",
@@ -3068,10 +3048,19 @@
           "domain": "avitrader.com",
           "summary": "The Hellenic Ministry of National Defense has signed a contract to acquire three KC-390 Millennium military transport aircraft from Embraer, with options for a further three. The agreement was concluded through a government-to-government arrangement between Greece and Portugal. The Hellenic Ministry of National Defence said the Hellenic Air Force is expected to receive its first […] The post The Hellenic Ministry of National Defense signs KC-390 order appeared first on AviTrader Aviation News .",
           "published": "2026-11-02T12:55:58Z"
+        },
+        {
+          "id": "0091ac42dfc22e34",
+          "feed": "Le Journal de l'Aviation",
+          "title": "La Grèce finalise son contrat d’acquisition d’Embraer KC-390",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html",
+          "domain": "journal-aviation.com",
+          "summary": "Le ministère grec de la Défense nationale a signé un contrat pour l’acquisition de trois KC-390 Millennium produits par Embraer, une commande assortie d’une option pour trois exemplaires supplémentaires. Comme […] L’article La Grèce finalise son contrat d’acquisition d’Embraer KC-390 a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-02T13:32:41Z"
         }
       ],
       "story_id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
-      "written_count": 2
+      "written_count": 3
     },
     "c780fa1dfdd": {
       "id": "c780fa1dfdd",
@@ -3118,6 +3107,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.430186
+    "2026-11": 0.449072
   }
 }

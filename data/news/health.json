@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T13:30:51Z",
+  "run": "2026-11-02T13:40:34Z",
   "stats": {
     "fetched": 687,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4302,
+  "spend_month_usd": 0.4491,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -154,6 +154,12 @@
       "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
     },
     {
+      "dossier": "Grèce KC-390 Embraer",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -236,12 +242,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76"
-    },
-    {
-      "dossier": "Grèce KC-390 Embraer",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -476,12 +476,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd"
-    },
-    {
-      "dossier": "FlyersRights poursuit le DOT sur règle des retards",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Atlas Air 747 abandon de décollage Miami",
