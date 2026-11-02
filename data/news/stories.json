@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d",
+    "created": "2026-11-02T12:51:00Z",
+    "updated": "2026-11-02T12:51:00Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air India annulerait tous ses vols vers huit destinations, dont trois liaisons long-courriers",
+    "chapo": "Selon Simple Flying, Air India supprime l'ensemble de ses vols vers huit destinations. Le média, qui a publié l'information le 2 novembre 2026, indique que trois d'entre elles sont des routes internationales long-courriers.",
+    "paragraphes": [
+      "Le site spécialisé évoque l'annulation de tous les vols de la compagnie indienne vers ces huit destinations. Parmi elles figurent trois liaisons internationales long-courriers, précise-t-il."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Air India Cancels All Flights To 8 Destinations: See Full List Now",
+        "url": "https://simpleflying.com/air-india-cancels-all-flights-to-8-destinations-see-full-list-now/",
+        "date": "2026-11-02T12:49:38Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
+    "created": "2026-11-02T08:01:17Z",
+    "updated": "2026-11-02T12:50:55Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair : bénéfice en baisse de six % au deuxième trimestre, un gel des salaires envisagé",
+    "chapo": "Pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient, Ryanair voit son bénéfice net reculer au deuxième trimestre, selon aero.de. La compagnie irlandaise n'exclut pas de geler les salaires de ses employés.",
+    "paragraphes": [
+      "Le bénéfice après impôts de Ryanair a diminué de six % pour s'établir à 1,6 milliard d'euros sur le deuxième trimestre de son exercice, d'après aero.de. Sur le premier semestre de l'exercice 2026/27, le recul atteint 15 %. Le média relie cette pression au prix élevé du kérosène dans le contexte du conflit au Proche-Orient.",
+      "Pour l'exercice suivant, la compagnie anticipe une facture de carburant supérieure de deux milliards d'euros, rapporte airliners.de. Des économies sont prévues sur tous les fronts, y compris sur la masse salariale, et des années sans augmentation pour le personnel ne sont pas écartées.",
+      "Selon Simple Flying, cette piste d'un gel des salaires reste à l'étude, aux côtés de plusieurs autres mesures d'économie envisagées par Ryanair."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Ryanair legt umfassendes Sparprogramm auf",
+        "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
+        "date": "2026-11-02T07:56:25Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Hohe Kerosinkosten: Ryanair schließt Nullrunden für Beschäftigte nicht aus",
+        "url": "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236",
+        "date": "2026-11-02T09:54:59Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Ryanair Considers Pay Freeze Amid Projected €2B Annual Fuel Bill Increase",
+        "url": "https://simpleflying.com/ryanair-pay-freeze/",
+        "date": "2026-11-02T12:40:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
     "created": "2026-11-02T12:40:53Z",
     "updated": "2026-11-02T12:40:53Z",
@@ -165,45 +243,6 @@
         "title": "Lufthansa-Flugbegleiter stirbt bei Hotelunfall in Indien",
         "url": "https://www.airliners.de/lufthansa-flugbegleiter-stirbt-hotelunfall-indien/91237",
         "date": "2026-11-02T09:57:07Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
-    "created": "2026-11-02T08:01:17Z",
-    "updated": "2026-11-02T10:20:51Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, sur fond de kérosène cher",
-    "chapo": "Selon aero.de, la compagnie irlandaise voit son bénéfice après impôts reculer de six pour cent à 1,6 milliard d'euros au deuxième trimestre, pénalisé par le coût du kérosène lié au conflit au Proche-Orient. Elle met en place un programme d'économies étendu.",
-    "paragraphes": [
-      "Ryanair a publié ses résultats à Dublin : d'après aero.de, le bénéfice après impôts du deuxième trimestre de son exercice a baissé de six pour cent, à 1,6 milliard d'euros. Sur le premier semestre de l'exercice 2026/27, le recul atteint 15 pour cent.",
-      "D'après airliners.de, la compagnie anticipe pour l'exercice suivant une facture de kérosène supérieure de deux milliards d'euros. Des économies doivent être recherchées sur tous les fronts, y compris sur le personnel, et la compagnie n'exclut pas des années sans hausse de salaire pour ses employés."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Ryanair legt umfassendes Sparprogramm auf",
-        "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
-        "date": "2026-11-02T07:56:25Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Hohe Kerosinkosten: Ryanair schließt Nullrunden für Beschäftigte nicht aus",
-        "url": "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236",
-        "date": "2026-11-02T09:54:59Z",
         "official": false
       }
     ]

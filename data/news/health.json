@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T12:40:33Z",
+  "run": "2026-11-02T12:50:35Z",
   "stats": {
     "fetched": 687,
-    "new": 1,
-    "written": 1,
+    "new": 2,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.3449,
+  "spend_month_usd": 0.3696,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -142,6 +142,12 @@
       "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
     },
     {
+      "dossier": "Ryanair plan d'économies kérosène T2",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 3,
@@ -230,12 +236,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76"
-    },
-    {
-      "dossier": "Ryanair plan d'économies kérosène T2",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -460,10 +460,10 @@
       "breve": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2"
     },
     {
-      "dossier": "United 737 MAX 9 urgence double train d'atterrissage Cayman",
-      "statut": "signale",
+      "dossier": "Air India annulations 8 destinations",
+      "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d"
     },
     {
       "dossier": "FlyersRights poursuit le DOT sur règle des retards",

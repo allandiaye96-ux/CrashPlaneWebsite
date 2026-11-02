@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 12:40:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 12:51:00 +0000</lastBuildDate>
+  <item>
+    <title>Air India annulerait tous ses vols vers huit destinations, dont trois liaisons long-courriers</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d/</guid>
+    <pubDate>Mon, 02 Nov 2026 12:51:00 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Air India supprime l&#x27;ensemble de ses vols vers huit destinations. Le média, qui a publié l&#x27;information le 2 novembre 2026, indique que trois d&#x27;entre elles sont des routes internationales long-courriers.</description>
+  </item>
   <item>
     <title>Un Rafale M de Dassault se pose pour la première fois sur le porte-avions indien Vikrant</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76/</link>
@@ -48,12 +56,12 @@
     <description>Selon Aero-News Network, Electra a retenu Springfield, dans l&#x27;Ohio, pour implanter sa première usine de production de l&#x27;EL9 Ultra Short, un appareil de 9 passagers. L&#x27;annonce a donné lieu à une cérémonie réunissant responsables publics et acteurs économiques.</description>
   </item>
   <item>
-    <title>Ryanair : bénéfice net en baisse de six pour cent au deuxième trimestre, sur fond de kérosène cher</title>
+    <title>Ryanair : bénéfice en baisse de six % au deuxième trimestre, un gel des salaires envisagé</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</link>
     <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae/</guid>
     <pubDate>Mon, 02 Nov 2026 08:01:17 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon aero.de, la compagnie irlandaise voit son bénéfice après impôts reculer de six pour cent à 1,6 milliard d&#x27;euros au deuxième trimestre, pénalisé par le coût du kérosène lié au conflit au Proche-Orient. Elle met en place un programme d&#x27;économies étendu.</description>
+    <description>Pénalisée par le coût élevé du kérosène lié au conflit au Proche-Orient, Ryanair voit son bénéfice net reculer au deuxième trimestre, selon aero.de. La compagnie irlandaise n&#x27;exclut pas de geler les salaires de ses employés.</description>
   </item>
   <item>
     <title>Système EES : un impact limité sur les retards au départ cet été, selon une analyse de données</title>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:11:39 +0000</pubDate>
     <category>Compagnies</category>
     <description>La compagnie lettone airBaltic prépare une réduction de ses effectifs navigants, avec une centaine de pilotes et 200 membres de cabine concernés, selon Air Journal.</description>
-  </item>
-  <item>
-    <title>SWISS met fin à sa coopération avec airBaltic et réduit sa flotte affrétée avec équipage</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:11:27 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, la compagnie du groupe Lufthansa va arrêter son partenariat avec airBaltic à l&#x27;issue du programme d&#x27;hiver 2026-2027. Elle veut opérer une plus grande part de ses vols avec ses propres moyens dès l&#x27;été 2027.</description>
   </item>
 </channel>
 </rss>
