@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
+    "created": "2026-11-02T16:01:28Z",
+    "updated": "2026-11-02T17:40:55Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair envisage gel des salaires et hausse des tarifs face à la flambée du prix du kérosène",
+    "chapo": "Selon AeroTime, Ryanair a exposé plusieurs leviers possibles pour faire face au niveau élevé du prix du carburant d'aviation, dont des gels de salaires. AirlineGeeks rapporte que son PDG anticipe une hausse des billets en Europe.",
+    "paragraphes": [
+      "D'après AeroTime, la compagnie low-cost irlandaise a présenté un éventail de mesures qu'elle pourrait mettre en œuvre pour limiter l'impact de la hausse du prix du kérosène sur ses coûts. Le gel des rémunérations figure parmi les options évoquées.",
+      "Selon AirlineGeeks, le directeur général Michael O'Leary a estimé que les prix des billets pourraient augmenter de 10 % à 20 % en Europe."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Ryanair pay freezes among option mix to stem fuel cost bleed",
+        "url": "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result",
+        "date": "2026-11-02T15:16:49Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "Ryanair Weighs Fare Hikes, Pay Freeze As Fuel Prices Soar",
+        "url": "https://airlinegeeks.com/2026/11/02/ryanair-weighs-fare-hikes-pay-freeze-as-fuel-prices-soar/",
+        "date": "2026-11-02T17:35:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
     "created": "2026-10-30T23:21:27Z",
     "updated": "2026-11-02T16:20:55Z",
@@ -41,38 +80,6 @@
         "title": "Alaska Airlines streicht wegen hoher Kerosinkosten rund 200 Stellen",
         "url": "https://www.airliners.de/alaska-airlines-streicht-hoher-kerosinkosten-200-stellen/91246",
         "date": "2026-11-02T15:12:41Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
-    "created": "2026-11-02T16:01:28Z",
-    "updated": "2026-11-02T16:01:28Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Ryanair envisage notamment des gels de salaires face à la hausse du coût du kérosène",
-    "chapo": "Selon AeroTime, Ryanair a présenté plusieurs pistes qu'elle pourrait activer pour faire face au niveau élevé des prix du carburant d'avion. Parmi elles figurent des gels de salaires.",
-    "paragraphes": [
-      "D'après AeroTime, la compagnie à bas coûts irlandaise a détaillé un éventail de mesures possibles pour limiter l'impact financier de la hausse du kérosène. Les gels de salaires font partie de cet ensemble d'options.",
-      "Il s'agit d'options que Ryanair pourrait déployer, et non de décisions présentées comme déjà mises en œuvre."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "Ryanair pay freezes among option mix to stem fuel cost bleed",
-        "url": "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result",
-        "date": "2026-11-02T15:16:49Z",
         "official": false
       }
     ]

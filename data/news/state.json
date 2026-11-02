@@ -1193,7 +1193,8 @@
     "https://simpleflying.com/worlds-oldest-boeing-737-800-final-week-tracked/": "2026-11-02T17:10:35Z",
     "https://www.airliners.de/eurowings-praesentiert-berliner-winterflugplan-zielen/91264": "2026-11-02T17:20:35Z",
     "https://www.airliners.de/condor-winterziele-muensterosnabrueck/91265": "2026-11-02T17:20:35Z",
-    "https://www.airliners.de/easyjet-fluege-grossbritannien-nuernberg/91263": "2026-11-02T17:20:35Z"
+    "https://www.airliners.de/easyjet-fluege-grossbritannien-nuernberg/91263": "2026-11-02T17:20:35Z",
+    "https://airlinegeeks.com/2026/11/02/ryanair-weighs-fare-hikes-pay-freeze-as-fuel-prices-soar/": "2026-11-02T17:40:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3308,7 +3309,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-02T16:01:20Z",
-      "updated": "2026-11-02T16:01:20Z",
+      "updated": "2026-11-02T17:40:51Z",
       "items": [
         {
           "id": "fa5d999b13de850f",
@@ -3318,14 +3319,23 @@
           "domain": "aerotime.aero",
           "summary": "Ryanair has laid out several options that it could deploy to help address the elevated jet fuel prices… The post Ryanair pay freezes among option mix to stem fuel cost bleed appeared first on AeroTime .",
           "published": "2026-11-02T15:16:49Z"
+        },
+        {
+          "id": "7f318c8d7617a8d0",
+          "feed": "AirlineGeeks",
+          "title": "Ryanair Weighs Fare Hikes, Pay Freeze As Fuel Prices Soar",
+          "url": "https://airlinegeeks.com/2026/11/02/ryanair-weighs-fare-hikes-pay-freeze-as-fuel-prices-soar/",
+          "domain": "airlinegeeks.com",
+          "summary": "CEO Michael O’Leary predicted ticket prices could rise 10% to 20% across Europe.",
+          "published": "2026-11-02T17:35:20Z"
         }
       ],
       "story_id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
-      "written_count": 1
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.618536
+    "2026-11": 0.627439
   }
 }
