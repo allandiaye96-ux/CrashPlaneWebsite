@@ -1196,7 +1196,9 @@
     "https://www.airliners.de/easyjet-fluege-grossbritannien-nuernberg/91263": "2026-11-02T17:20:35Z",
     "https://airlinegeeks.com/2026/11/02/ryanair-weighs-fare-hikes-pay-freeze-as-fuel-prices-soar/": "2026-11-02T17:40:34Z",
     "https://simpleflying.com/southwest-airlines-drops-suspends-10-nonstop-routes/": "2026-11-02T18:01:08Z",
-    "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman": "2026-11-02T18:20:36Z"
+    "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman": "2026-11-02T18:20:36Z",
+    "https://simpleflying.com/southwest-launches-5-new-nonstop-routes/": "2026-11-02T18:30:54Z",
+    "https://www.aero.de/news-54071/Pistorius-fordert-schnelle-Entscheidung-ueber-neuen-Kampfjet.html": "2026-11-02T18:30:54Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3334,10 +3336,31 @@
       ],
       "story_id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
       "written_count": 2
+    },
+    "c2613c3f873": {
+      "id": "c2613c3f873",
+      "label": "Allemagne GCAP FCAS Pistorius",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-02T18:31:27Z",
+      "updated": "2026-11-02T18:31:27Z",
+      "items": [
+        {
+          "id": "0fadef04eeb5430a",
+          "feed": "aero.de",
+          "title": "Pistorius fordert schnelle Entscheidung über Kampfjet-Kooperation",
+          "url": "https://www.aero.de/news-54071/Pistorius-fordert-schnelle-Entscheidung-ueber-neuen-Kampfjet.html",
+          "domain": "aero.de",
+          "summary": "BERLIN - Nach dem Scheitern des deutsch-französischen FCAS-Projekts prüft Deutschland einen Einstieg in das britisch geführte GCAP. Welche Bedingungen dafür gelten könnten, soll sich bald klären.",
+          "published": "2026-11-02T18:31:11Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.629031
+    "2026-11": 0.62985
   }
 }

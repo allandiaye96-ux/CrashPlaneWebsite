@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T18:20:36Z",
+  "run": "2026-11-02T18:30:54Z",
   "stats": {
-    "fetched": 688,
-    "new": 1,
+    "fetched": 683,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.629,
+  "spend_month_usd": 0.6299,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -78,8 +78,8 @@
       "items": 100
     },
     "Boeing – Communiqués": {
-      "ok": true,
-      "items": 5
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "aero.de": {
       "ok": true,
@@ -587,6 +587,12 @@
     },
     {
       "dossier": "Menace à la bombe Wizz Air Londres-Sofia Budapest",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Allemagne GCAP FCAS Pistorius",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
