@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 14:21:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 14:31:14 +0000</lastBuildDate>
+  <item>
+    <title>Discover Airlines prépare l&#x27;arrivée de ses premiers Airbus A350-900 long-courriers</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0/</guid>
+    <pubDate>Mon, 02 Nov 2026 14:31:14 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Le Journal de l&#x27;Aviation, Discover Airlines, la filiale loisirs du groupe Lufthansa, voit plus grand pour sa future flotte long-courrier de nouvelle génération. La compagnie doit accueillir quatre Airbus A350-900.</description>
+  </item>
   <item>
     <title>Indigo pourrait ajuster le calendrier de son expansion internationale face aux fermetures d&#x27;espace aérien</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:21:20 +0000</pubDate>
     <category>Défense</category>
     <description>Selon AeroTime, l&#x27;Éthiopie a reçu ses premiers chasseurs russes Sukhoi Su-35 et prévoit d&#x27;acquérir le système de défense aérienne S-400. The Aviationist précise que la remise a eu lieu le 28 octobre 2026.</description>
-  </item>
-  <item>
-    <title>Qantas : les pilotes long-courriers approuvent un nouvel accord d&#x27;entreprise assorti d&#x27;une hausse de 25 %</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:21:17 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Australian Aviation, les pilotes long-courriers de Qantas obtiennent une hausse de salaire de 25 % dans le cadre d&#x27;un nouvel accord d&#x27;entreprise, approuvé par 61 % des pilotes.</description>
   </item>
 </channel>
 </rss>

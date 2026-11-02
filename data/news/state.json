@@ -1163,7 +1163,8 @@
     "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/": "2026-11-02T14:10:33Z",
     "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244": "2026-11-02T14:20:34Z",
     "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242": "2026-11-02T14:20:34Z",
-    "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243": "2026-11-02T14:20:34Z"
+    "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243": "2026-11-02T14:20:34Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html": "2026-11-02T14:30:54Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3235,10 +3236,31 @@
       ],
       "story_id": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc",
       "written_count": 1
+    },
+    "c6f313cf0b0": {
+      "id": "c6f313cf0b0",
+      "label": "Discover Airlines flotte A350-900",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T14:31:07Z",
+      "updated": "2026-11-02T14:31:07Z",
+      "items": [
+        {
+          "id": "dae25318e85338e5",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Airbus A350 : Discover Airlines voit plus grand pour sa future flotte d’avions longs-courriers de nouvelle génération",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html",
+          "domain": "journal-aviation.com",
+          "summary": "Comme annoncé il y a un an, Discover Airlines, la compagnie aérienne loisirs du groupe Lufthansa, doit ajouter 4 premiers Airbus A350-900 à sa flotte de gros-porteurs long-courriers à partir de […] L’article Airbus A350 : Discover Airlines voit plus grand pour sa future flotte d’avions longs-courriers de nouvelle génération a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-02T14:29:14Z"
+        }
+      ],
+      "story_id": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.525317
+    "2026-11": 0.541803
   }
 }

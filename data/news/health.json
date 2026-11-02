@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T14:20:34Z",
+  "run": "2026-11-02T14:30:54Z",
   "stats": {
     "fetched": 687,
-    "new": 3,
-    "written": 3,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.5253,
+  "spend_month_usd": 0.5418,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -500,6 +500,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc"
+    },
+    {
+      "dossier": "Discover Airlines flotte A350-900",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0"
     },
     {
       "dossier": "Atlas Air 747 abandon de décollage Miami",

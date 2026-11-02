@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0",
+    "created": "2026-11-02T14:31:14Z",
+    "updated": "2026-11-02T14:31:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Discover Airlines prépare l'arrivée de ses premiers Airbus A350-900 long-courriers",
+    "chapo": "Selon Le Journal de l'Aviation, Discover Airlines, la filiale loisirs du groupe Lufthansa, voit plus grand pour sa future flotte long-courrier de nouvelle génération. La compagnie doit accueillir quatre Airbus A350-900.",
+    "paragraphes": [
+      "D'après le média, ce programme avait déjà été annoncé il y a un an. Il prévoit l'intégration de quatre A350-900 dans la catégorie des gros-porteurs long-courriers exploités par la compagnie.",
+      "Le titre de l'article évoque un projet d'envergure accrue pour cette flotte de nouvelle génération."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Airbus A350 : Discover Airlines voit plus grand pour sa future flotte d’avions longs-courriers de nouvelle génération",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html",
+        "date": "2026-11-02T14:29:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc",
     "created": "2026-11-02T14:21:08Z",
     "updated": "2026-11-02T14:21:08Z",
