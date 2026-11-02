@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T02:10:33Z",
+  "run": "2026-11-02T02:20:35Z",
   "stats": {
     "fetched": 687,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.1706,
+  "spend_month_usd": 0.1857,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -100,6 +100,12 @@
   },
   "dossiers": [
     {
+      "dossier": "Learjet 60 accident Palm Beach Floride",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -128,12 +134,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
-    },
-    {
-      "dossier": "Learjet 60 accident Palm Beach Floride",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
     },
     {
       "dossier": "Image du spaceplane chinois",

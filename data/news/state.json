@@ -1086,7 +1086,8 @@
     "https://www.air-journal.fr/2026-11-02-le-2-novembre-1909-dans-le-ciel-le-zodiac-iii-realise-une-ascension-en-belgique-5278628.html": "2026-11-01T23:09:01Z",
     "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/": "2026-11-01T23:40:33Z",
     "https://simpleflying.com/engineering-cown-jewel-easily-become-prized-possession-maker/": "2026-11-02T01:00:56Z",
-    "https://simpleflying.com/items-cabin-crew-ask-passengers-to-stow-away/": "2026-11-02T02:01:01Z"
+    "https://simpleflying.com/items-cabin-crew-ask-passengers-to-stow-away/": "2026-11-02T02:01:01Z",
+    "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence": "2026-11-02T02:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2652,7 +2653,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-01T20:40:47Z",
-      "updated": "2026-11-01T23:40:46Z",
+      "updated": "2026-11-02T02:20:51Z",
       "items": [
         {
           "id": "f4d9d74a3fa0d7f5",
@@ -2680,14 +2681,23 @@
           "domain": "flightradar24.com",
           "summary": "A Learjet 60 crashed 1 November near West Palm Beach, Florida at approximately 17:49 UTC (12:49 local time). According to the Federal Aviation Administration, 9 people were on board the aircraft at the time of the crash. The flight was en route from Austin-Bergstrom International Airport to North Eleuthera Airport in the Bahamas. The National […] The post Learjet 60 crashes near West Palm Beach, Florida appeared first on Flightradar24 Blog .",
           "published": "2026-11-01T23:25:42Z"
+        },
+        {
+          "id": "1806e0d49716a4b7",
+          "feed": "AeroTime",
+          "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
+          "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence",
+          "domain": "aerotime.aero",
+          "summary": "Nine people were killed when a Learjet 60 crashed in Florida’s Palm Beach County on November 1, 2026,… The post Nine killed in Florida Learjet crash after pilots report icing and turbulence appeared first on AeroTime .",
+          "published": "2026-11-02T01:25:36Z"
         }
       ],
       "story_id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
-      "written_count": 3
+      "written_count": 4
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.17058
+    "2026-11": 0.185687
   }
 }

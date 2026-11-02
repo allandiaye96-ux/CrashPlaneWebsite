@@ -2,23 +2,24 @@
   {
     "id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
     "created": "2026-11-01T22:01:32Z",
-    "updated": "2026-11-01T23:40:50Z",
-    "version": 2,
+    "updated": "2026-11-02T02:20:58Z",
+    "version": 3,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Accident",
     "importance": 3,
-    "titre": "Learjet 60 accidenté près de West Palm Beach, en Floride : neuf personnes à bord",
-    "chapo": "Un Learjet 60 s'est écrasé le 1er novembre près de West Palm Beach, en Floride, selon Flightradar24. D'après aero.de, personne n'a survécu parmi les occupants.",
+    "titre": "Learjet 60 : neuf morts dans un accident près de West Palm Beach, en Floride",
+    "chapo": "Un Learjet 60 s'est écrasé le 1er novembre 2026 en Floride, dans le comté de Palm Beach. Selon AeroTime, les neuf personnes à bord ont perdu la vie.",
     "paragraphes": [
-      "Selon la Federal Aviation Administration, citée par Flightradar24, neuf personnes se trouvaient à bord. L'accident s'est produit vers 17h49 UTC (12h49 heure locale). L'appareil assurait une liaison entre l'aéroport international d'Austin-Bergstrom et l'aéroport de North Eleuthera, aux Bahamas.",
-      "Simple Flying situe le lieu de l'impact à Greenacres, en Floride, près de Mar-a-Lago, et évoque une descente le nez en bas suivie d'un impact avec incendie. Aero.de indique que l'avion est tombé à côté d'une route. Les causes de l'accident ne sont pas établies."
+      "D'après Flightradar24, l'appareil s'est écrasé vers 17h49 UTC (12h49 en heure locale) près de West Palm Beach. La Federal Aviation Administration indique que neuf personnes se trouvaient à bord. Le vol reliait l'aéroport international d'Austin-Bergstrom à celui de North Eleuthera, aux Bahamas.",
+      "Simple Flying situe l'impact à Greenacres, près de Mar-a-Lago, et évoque une descente avec le nez vers le bas, suivie d'un impact accompagné d'un incendie. Selon aero.de, l'avion est tombé à côté d'une route et personne n'a survécu.",
+      "AeroTime rapporte que les pilotes avaient signalé du givrage et des turbulences. Les causes de l'accident ne sont pas établies."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 3,
+      "independent_sources": 4,
       "official_source": false
     },
     "sources": [
@@ -41,6 +42,13 @@
         "title": "Learjet 60 crashes near West Palm Beach, Florida",
         "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/",
         "date": "2026-11-01T23:25:42Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
+        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence",
+        "date": "2026-11-02T01:25:36Z",
         "official": false
       }
     ]
