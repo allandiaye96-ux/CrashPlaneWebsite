@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 13:10:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 13:21:14 +0000</lastBuildDate>
+  <item>
+    <title>Leipzig/Halle : dix plaignants contestent l&#x27;extension de l&#x27;aéroport devant la justice administrative de Bautzen</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd/</guid>
+    <pubDate>Mon, 02 Nov 2026 13:21:14 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon airliners.de, le tribunal administratif supérieur de Bautzen examine à partir de mardi les recours visant l&#x27;extension de l&#x27;aéroport de fret de Leipzig/Halle. Dix plaignants, dont une commune, cherchent à l&#x27;arrêter.</description>
+  </item>
   <item>
     <title>La Grèce signe pour trois KC-390 Millennium d&#x27;Embraer, avec options pour trois appareils de plus</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:20:56 +0000</pubDate>
     <category>Compagnies</category>
     <description>United Airlines s&#x27;apprête à cesser de desservir Tulum, moins de deux ans après le début de son service, rapporte Simple Flying.</description>
-  </item>
-  <item>
-    <title>LOT Polish Airlines retire son dernier Embraer E170, 22 ans après avoir lancé le type en service commercial</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:20:52 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>LOT Polish Airlines a mis fin le 30 octobre 2026 à l&#x27;exploitation de l&#x27;Embraer E170, selon Flightradar24 et Air Journal. La compagnie polonaise avait été la première au monde à l&#x27;utiliser en service commercial.</description>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd",
+    "created": "2026-11-02T13:21:14Z",
+    "updated": "2026-11-02T13:21:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Leipzig/Halle : dix plaignants contestent l'extension de l'aéroport devant la justice administrative de Bautzen",
+    "chapo": "Selon airliners.de, le tribunal administratif supérieur de Bautzen examine à partir de mardi les recours visant l'extension de l'aéroport de fret de Leipzig/Halle. Dix plaignants, dont une commune, cherchent à l'arrêter.",
+    "paragraphes": [
+      "La juridiction saisie est l'Oberverwaltungsgericht de Bautzen. Les recours portent sur le projet d'agrandissement de la plateforme, consacrée au fret. Parmi les dix requérants figure une collectivité locale.",
+      "D'après airliners.de, aucun chantier n'a encore été lancé, alors que cela aurait été possible depuis longtemps."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Zehn Kläger wollen Ausbau am Flughafen Leipzig/Halle stoppen",
+        "url": "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241",
+        "date": "2026-11-02T12:50:08Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
     "created": "2026-11-02T13:01:51Z",
     "updated": "2026-11-02T13:01:51Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T13:10:33Z",
+  "run": "2026-11-02T13:20:56Z",
   "stats": {
-    "fetched": 687,
-    "new": 1,
-    "written": 0,
+    "fetched": 677,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4209,
+  "spend_month_usd": 0.4294,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -22,8 +22,8 @@
       "items": 50
     },
     "Simple Flying": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "RemoteDisconnected: Remote end closed connection without response"
     },
     "AeroTime": {
       "ok": true,
@@ -470,6 +470,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d"
+    },
+    {
+      "dossier": "Leipzig/Halle recours extension cargo Bautzen",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd"
     },
     {
       "dossier": "FlyersRights poursuit le DOT sur règle des retards",

@@ -1150,7 +1150,9 @@
     "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft": "2026-11-02T13:01:05Z",
     "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/": "2026-11-02T13:01:05Z",
     "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html": "2026-11-02T13:01:05Z",
-    "https://avitrader.com/2026/11/02/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-11-02T13:10:33Z"
+    "https://avitrader.com/2026/11/02/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-11-02T13:10:33Z",
+    "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241": "2026-11-02T13:20:56Z",
+    "https://www.airliners.de/flughafen-stuttgart-erwartet-rote-zahlen/91240": "2026-11-02T13:20:56Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3069,10 +3071,31 @@
       ],
       "story_id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
       "written_count": 2
+    },
+    "c780fa1dfdd": {
+      "id": "c780fa1dfdd",
+      "label": "Leipzig/Halle recours extension cargo Bautzen",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-02T13:21:11Z",
+      "updated": "2026-11-02T13:21:11Z",
+      "items": [
+        {
+          "id": "4ef5967fd573e96c",
+          "feed": "airliners.de",
+          "title": "Zehn Kläger wollen Ausbau am Flughafen Leipzig/Halle stoppen",
+          "url": "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241",
+          "domain": "airliners.de",
+          "summary": "Das Oberverwaltungsgericht Bautzen verhandelt ab Dienstag über die Klagen gegen den Ausbau des Frachtflughafens Leipzig/Halle. Unter den zehn Klägern ist auch eine Kommune. Gebaut wurde bislang nicht, obwohl das längst möglich gewesen wäre.",
+          "published": "2026-11-02T12:50:08Z"
+        }
+      ],
+      "story_id": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.420868
+    "2026-11": 0.429416
   }
 }
