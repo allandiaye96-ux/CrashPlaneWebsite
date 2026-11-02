@@ -1130,7 +1130,8 @@
     "https://simpleflying.com/5-things-that-passengers-dont-know-about-premium-economy/": "2026-11-02T10:50:35Z",
     "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo": "2026-11-02T11:01:01Z",
     "https://avitrader.com/2026/11/02/bell-textron-secures-further-gmr-helicopter-order/": "2026-11-02T11:01:01Z",
-    "https://www.journal-aviation.com/actualite-en-bref/le-groenland-ouvre-son-nouvel-aeroport-international-dilulissat-avec-une-liaison-directe-vers-copenhague-20261102.html": "2026-11-02T11:01:01Z"
+    "https://www.journal-aviation.com/actualite-en-bref/le-groenland-ouvre-son-nouvel-aeroport-international-dilulissat-avec-une-liaison-directe-vers-copenhague-20261102.html": "2026-11-02T11:01:01Z",
+    "https://www.air-journal.fr/2026-11-02-voyage-aux-baleares-une-destination-mediterraneenne-qui-seduit-bien-au-dela-de-lete-5278399.html": "2026-11-02T11:10:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2321,27 +2322,6 @@
       "story_id": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca",
       "written_count": 2
     },
-    "cc055ccf4a3": {
-      "id": "cc055ccf4a3",
-      "label": "IATA trafic passagers septembre 2026",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-31T11:01:13Z",
-      "updated": "2026-10-31T11:01:13Z",
-      "items": [
-        {
-          "id": "cb9b86f73644146e",
-          "feed": "Air Journal",
-          "title": "Trafic de passagers : la demande mondiale poursuit son recul, pénalisée par le Moyen-Orient",
-          "url": "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html",
-          "domain": "air-journal.fr",
-          "summary": "La demande mondiale de transport aérien de passagers a diminué de 0,5% en septembre 2026 par rapport au même mois de 2025, selon les données mensuelles de l’Association du transport aérien international (IATA). Le repli est moins marqué qu’en août, mais les difficultés du Moyen-Orient et de l’Amérique du Nord continuent de peser sur l’activité. […]",
-          "published": "2026-10-31T11:00:45Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 1
-    },
     "cb354155b2d": {
       "id": "cb354155b2d",
       "label": "Ryanair suppression 19 routes UK",
@@ -3008,6 +2988,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.312907
+    "2026-11": 0.313658
   }
 }

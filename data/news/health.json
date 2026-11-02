@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T11:01:01Z",
+  "run": "2026-11-02T11:10:36Z",
   "stats": {
     "fetched": 687,
-    "new": 3,
-    "written": 2,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.3129,
+  "spend_month_usd": 0.3137,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -452,12 +452,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2"
-    },
-    {
-      "dossier": "IATA trafic passagers septembre 2026",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "United 737 MAX 9 urgence double train d'atterrissage Cayman",
