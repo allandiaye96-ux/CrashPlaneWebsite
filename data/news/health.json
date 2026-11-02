@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T16:10:35Z",
+  "run": "2026-11-02T16:20:38Z",
   "stats": {
-    "fetched": 687,
-    "new": 1,
-    "written": 0,
+    "fetched": 587,
+    "new": 8,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.6051,
+  "spend_month_usd": 0.6152,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 28
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -160,6 +160,12 @@
       "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
     },
     {
+      "dossier": "Alaska Airlines licenciements 200 employés",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -224,12 +230,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212"
-    },
-    {
-      "dossier": "Alaska Airlines licenciements 200 employés",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
     },
     {
       "dossier": "Collision hélicoptères Oregon McMinnville",
@@ -512,12 +512,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7"
-    },
-    {
-      "dossier": "Atlas Air 747 abandon de décollage Miami",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Trump International Airport missiles Stinger et brouilleurs",

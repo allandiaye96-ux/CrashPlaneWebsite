@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
+    "created": "2026-10-30T23:21:27Z",
+    "updated": "2026-11-02T16:20:55Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Alaska Air Group supprime environ 200 postes, en pointant la hausse du prix du carburant",
+    "chapo": "Selon AirlineGeeks, Alaska Air Group va supprimer 200 postes et invoque des coûts de carburant plus élevés ainsi que des « défis géopolitiques ». Les suppressions interviendraient d'ici la fin de l'année, d'après Simple Flying.",
+    "paragraphes": [
+      "D'après airliners.de, les quelque 200 postes concernés ne relèvent pas de conventions collectives. Le média attribue ces suppressions à la forte hausse des prix du kérosène. Simple Flying évoque de son côté des coûts de structure jugés disproportionnés et des chocs géopolitiques sur le carburant, dans un contexte de réorganisation des activités et des fonctions après la fusion.",
+      "Toujours selon airliners.de, le directeur général Ben Minicucci envisage, dans le pire scénario, une perte d'une ampleur que le groupe n'a pas connue hors période de pandémie depuis plus de 20 ans."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AirlineGeeks",
+        "title": "Report: Alaska to Lay Off 200 Employees",
+        "url": "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/",
+        "date": "2026-10-30T22:02:36Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Alaska Air Group To Lay Off 200 Roles By Year’s End, Cites Soaring Fuel Prices",
+        "url": "https://simpleflying.com/alaska-air-group-lay-off-200-roles-fuel-prices/",
+        "date": "2026-11-01T01:29:53Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Alaska Airlines streicht wegen hoher Kerosinkosten rund 200 Stellen",
+        "url": "https://www.airliners.de/alaska-airlines-streicht-hoher-kerosinkosten-200-stellen/91246",
+        "date": "2026-11-02T15:12:41Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
     "created": "2026-11-02T16:01:28Z",
     "updated": "2026-11-02T16:01:28Z",
@@ -901,45 +947,6 @@
         "title": "Jersey Airport hit by drone disruption for second consecutive night",
         "url": "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night",
         "date": "2026-11-01T13:44:57Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
-    "created": "2026-10-30T23:21:27Z",
-    "updated": "2026-11-01T01:31:01Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Alaska Air Group supprimerait 200 postes d'ici la fin de l'année, en citant le coût du carburant",
-    "chapo": "Selon AirlineGeeks, Alaska Air Group prévoit de licencier 200 employés, en invoquant la hausse des coûts du carburant et des « défis géopolitiques ». Simple Flying évoque 200 postes supprimés d'ici la fin de l'année.",
-    "paragraphes": [
-      "D'après AirlineGeeks, la compagnie met en avant l'augmentation de ses dépenses de carburant ainsi que le contexte géopolitique pour justifier cette décision.",
-      "Simple Flying indique que les dirigeants parlent de frais généraux disproportionnés et de chocs géopolitiques sur le prix du carburant. Ces suppressions de postes s'inscrivent, selon le média, dans le réalignement des opérations et des fonctions après la fusion."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AirlineGeeks",
-        "title": "Report: Alaska to Lay Off 200 Employees",
-        "url": "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/",
-        "date": "2026-10-30T22:02:36Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Alaska Air Group To Lay Off 200 Roles By Year’s End, Cites Soaring Fuel Prices",
-        "url": "https://simpleflying.com/alaska-air-group-lay-off-200-roles-fuel-prices/",
-        "date": "2026-11-01T01:29:53Z",
         "official": false
       }
     ]

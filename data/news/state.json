@@ -1177,7 +1177,15 @@
     "https://www.aero.de/news-54070/Easyjet-nimmt-Fluege-nach-Nuernberg-auf.html": "2026-11-02T15:50:32Z",
     "https://simpleflying.com/frontier-airlines-phishing-scam/": "2026-11-02T16:01:04Z",
     "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result": "2026-11-02T16:01:04Z",
-    "https://www.journal-aviation.com/actualites-defense-espace/industrie-de-defense/la-dga-livre-un-rafale-destine-aux-essais-du-futur-standard-f5-20261102.html": "2026-11-02T16:10:35Z"
+    "https://www.journal-aviation.com/actualites-defense-espace/industrie-de-defense/la-dga-livre-un-rafale-destine-aux-essais-du-futur-standard-f5-20261102.html": "2026-11-02T16:10:35Z",
+    "https://www.airliners.de/swiss-fliegt-bangalore-ganzjaehrig-schickt-a340-usa/91257": "2026-11-02T16:20:38Z",
+    "https://www.airliners.de/lufthansa-aviation-training-ernennt-geschaeftsfuehrer/91256": "2026-11-02T16:20:38Z",
+    "https://www.airliners.de/wizz-air-flug-landet-bombendrohung-ausserplanmaessig-budapest/91253": "2026-11-02T16:20:38Z",
+    "https://www.airliners.de/flughafen-hamburg-betankt-kleinflugzeuge-erneuerbarem-dieselkraftstoff/91251": "2026-11-02T16:20:38Z",
+    "https://www.airliners.de/lufthansa-cargo-schliesst-uebernahme-lug-ab/91247": "2026-11-02T16:20:38Z",
+    "https://www.airliners.de/alaska-airlines-streicht-hoher-kerosinkosten-200-stellen/91246": "2026-11-02T16:20:38Z",
+    "https://www.airliners.de/datenleck-amadeus-trifft-malaysia-airlines/91248": "2026-11-02T16:20:38Z",
+    "https://www.airliners.de/ryanair-baut-sommer-2027-angebot-saarbruecken/91249": "2026-11-02T16:20:38Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2251,7 +2259,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-30T22:10:47Z",
-      "updated": "2026-11-01T01:30:57Z",
+      "updated": "2026-11-02T16:20:50Z",
       "items": [
         {
           "id": "d4f4072e2e7956d9",
@@ -2270,10 +2278,19 @@
           "domain": "simpleflying.com",
           "summary": "Executives cite disproportionate overhead and geopolitical fuel shocks as they realign post merger operations and roles.",
           "published": "2026-11-01T01:29:53Z"
+        },
+        {
+          "id": "8972cd84faf2550b",
+          "feed": "airliners.de",
+          "title": "Alaska Airlines streicht wegen hoher Kerosinkosten rund 200 Stellen",
+          "url": "https://www.airliners.de/alaska-airlines-streicht-hoher-kerosinkosten-200-stellen/91246",
+          "domain": "airliners.de",
+          "summary": "Die Alaska Air Group baut rund 200 nicht tarifgebundene Stellen ab. Grund sind die stark gestiegenen Kerosinpreise. Vorstandsvorsitzender Ben Minicucci rechnet im ungünstigsten Fall mit einem Verlust, wie ihn der Konzern außerhalb der Pandemie seit mehr als 20 Jahren nicht verbucht hat.",
+          "published": "2026-11-02T15:12:41Z"
         }
       ],
       "story_id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
-      "written_count": 2
+      "written_count": 3
     },
     "c3e5cde50b4": {
       "id": "c3e5cde50b4",
@@ -2439,27 +2456,6 @@
       ],
       "story_id": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24",
       "written_count": 1
-    },
-    "c00dae21ae0": {
-      "id": "c00dae21ae0",
-      "label": "Atlas Air 747 abandon de décollage Miami",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-10-31T16:10:45Z",
-      "updated": "2026-10-31T16:10:45Z",
-      "items": [
-        {
-          "id": "efcc65fb2dd7df1a",
-          "feed": "Simple Flying",
-          "title": "Atlas Air Boeing 747 Aborts Miami Takeoff Over Nose Gear Smoke, Forcing American Jet To Go Around",
-          "url": "https://simpleflying.com/atlas-air-boeing-747-miami-smoke-american-airlines/",
-          "domain": "simpleflying.com",
-          "summary": "One aborted takeoff left controllers juggling multiple aircraft and a blocked runway.",
-          "published": "2026-10-31T16:00:28Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c27c9085986": {
       "id": "c27c9085986",
@@ -3343,6 +3339,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.605146
+    "2026-11": 0.615235
   }
 }
