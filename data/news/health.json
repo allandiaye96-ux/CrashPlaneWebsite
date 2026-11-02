@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T06:10:33Z",
+  "run": "2026-11-02T06:20:36Z",
   "stats": {
-    "fetched": 687,
-    "new": 0,
-    "written": 0,
+    "fetched": 667,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.1952,
+  "spend_month_usd": 0.2031,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "ParseError: no element found: line 13, column 46"
     },
     "airliners.de": {
       "ok": true,
@@ -416,6 +416,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92"
+    },
+    {
+      "dossier": "EES impact retards vols été",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356"
     },
     {
       "dossier": "IATA trafic passagers septembre 2026",

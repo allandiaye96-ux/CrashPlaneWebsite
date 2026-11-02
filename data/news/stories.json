@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356",
+    "created": "2026-11-02T06:20:53Z",
+    "updated": "2026-11-02T06:20:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Système EES : un impact limité sur les retards au départ cet été, selon une analyse de données",
+    "chapo": "Selon airliners.de, qui s'appuie sur une analyse de données, le système d'entrée/sortie (EES) n'a eu que des effets limités sur les retards au départ durant l'été.",
+    "paragraphes": [
+      "D'après cette analyse relayée par airliners.de, les vols à destination de pays hors espace Schengen ont été davantage touchés que les autres. Les départs en matinée ont également été plus affectés.",
+      "Le média relève par ailleurs des écarts nets entre l'Allemagne, la France et le Portugal."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "EES wirkt sich im Sommer nur begrenzt auf Abflugverspätungen aus",
+        "url": "https://www.airliners.de/ees-wirkt-sich-sommer-begrenzt-abflugverspaetungen-aus/91223",
+        "date": "2026-11-02T05:25:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
     "created": "2026-11-02T05:01:20Z",
     "updated": "2026-11-02T05:01:20Z",

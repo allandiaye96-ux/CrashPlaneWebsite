@@ -1092,7 +1092,9 @@
     "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner": "2026-11-02T05:01:00Z",
     "https://www.aero.de/news-54053/Wie-die-EU-Kommission-den-CATA-Skandal-aussitzen-will.html": "2026-11-02T05:20:36Z",
     "https://simpleflying.com/airlines-offering-lifetime-elite-status-without-flying-million-miles/": "2026-11-02T06:01:00Z",
-    "https://www.air-journal.fr/2026-11-02-vol-annule-ou-retarde-quelles-compagnies-indemnisent-le-plus-facilement-leurs-passagers-5278634.html": "2026-11-02T06:01:00Z"
+    "https://www.air-journal.fr/2026-11-02-vol-annule-ou-retarde-quelles-compagnies-indemnisent-le-plus-facilement-leurs-passagers-5278634.html": "2026-11-02T06:01:00Z",
+    "https://www.airliners.de/vertrieb-marketing-discover-a350-ziele-air-uniqon-erweitert-netz-flughafenchef-saniert-airport-computerspiel/91219": "2026-11-02T06:20:36Z",
+    "https://www.airliners.de/ees-wirkt-sich-sommer-begrenzt-abflugverspaetungen-aus/91223": "2026-11-02T06:20:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2741,10 +2743,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cc2f8482356": {
+      "id": "cc2f8482356",
+      "label": "EES impact retards vols été",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-02T06:20:50Z",
+      "updated": "2026-11-02T06:20:50Z",
+      "items": [
+        {
+          "id": "1b49243819917f93",
+          "feed": "airliners.de",
+          "title": "EES wirkt sich im Sommer nur begrenzt auf Abflugverspätungen aus",
+          "url": "https://www.airliners.de/ees-wirkt-sich-sommer-begrenzt-abflugverspaetungen-aus/91223",
+          "domain": "airliners.de",
+          "summary": "Das Entry-Exit-System (EES) hat im Sommer laut einer Datenanalyse nur begrenzte Auswirkungen auf Abflugverspätungen gehabt. Stärker betroffen waren Flüge in Nicht-Schengen-Staaten und der Vormittag. Zwischen Deutschland, Frankreich und Portugal zeigen sich zudem deutliche Unterschiede.",
+          "published": "2026-11-02T05:25:00Z"
+        }
+      ],
+      "story_id": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.195153
+    "2026-11": 0.203064
   }
 }

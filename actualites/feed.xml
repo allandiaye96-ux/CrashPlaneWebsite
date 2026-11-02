@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 06:10:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 06:20:53 +0000</lastBuildDate>
+  <item>
+    <title>Système EES : un impact limité sur les retards au départ cet été, selon une analyse de données</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356/</guid>
+    <pubDate>Mon, 02 Nov 2026 06:20:53 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Selon airliners.de, qui s&#x27;appuie sur une analyse de données, le système d&#x27;entrée/sortie (EES) n&#x27;a eu que des effets limités sur les retards au départ durant l&#x27;été.</description>
+  </item>
   <item>
     <title>Pakistan International Airlines reçoit son premier Boeing 787-9 Dreamliner</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:07:33 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Air Canada révise à la baisse sa prévision de résultats, le prix du kérosène augmentant plus vite que celui des billets.</description>
-  </item>
-  <item>
-    <title>ANA Holdings veut prendre le contrôle total des compagnies régionales Airdo et Solaseed Air</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-ana-holdings-veut-prendre-le-controle-total-des-compagnies-r-85e0/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-ana-holdings-veut-prendre-le-controle-total-des-compagnies-r-85e0/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:07:30 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, ANA Holdings, maison mère d&#x27;ANA All Nippon Airways, souhaite acquérir l&#x27;intégralité des compagnies régionales Airdo et Solaseed Air. Un échange d&#x27;actions est prévu le 1er avril 2027.</description>
   </item>
 </channel>
 </rss>
