@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
+    "created": "2026-11-02T05:01:20Z",
+    "updated": "2026-11-02T05:01:20Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Pakistan International Airlines reçoit son premier Boeing 787-9 Dreamliner",
+    "chapo": "Selon AeroTime, Pakistan International Airlines (PIA) a reçu son premier Boeing 787-9 Dreamliner. L'appareil est arrivé à l'aéroport international d'Islamabad.",
+    "paragraphes": [
+      "D'après AeroTime, il s'agit du premier exemplaire de ce modèle livré à la compagnie pakistanaise, dont l'arrivée a eu lieu à Islamabad."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Pakistan International Airlines receives first Boeing 787-9 Dreamliner",
+        "url": "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner",
+        "date": "2026-11-02T04:00:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
     "created": "2026-11-01T22:01:32Z",
     "updated": "2026-11-02T02:20:58Z",

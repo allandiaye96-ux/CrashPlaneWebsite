@@ -1088,7 +1088,8 @@
     "https://simpleflying.com/engineering-cown-jewel-easily-become-prized-possession-maker/": "2026-11-02T01:00:56Z",
     "https://simpleflying.com/items-cabin-crew-ask-passengers-to-stow-away/": "2026-11-02T02:01:01Z",
     "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence": "2026-11-02T02:20:35Z",
-    "https://simpleflying.com/why-v22-osprey-conversion-speed-is-limited/": "2026-11-02T02:50:32Z"
+    "https://simpleflying.com/why-v22-osprey-conversion-speed-is-limited/": "2026-11-02T02:50:32Z",
+    "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner": "2026-11-02T05:01:00Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2695,10 +2696,31 @@
       ],
       "story_id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
       "written_count": 4
+    },
+    "c04977d8e92": {
+      "id": "c04977d8e92",
+      "label": "PIA réception premier Boeing 787-9",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T05:01:17Z",
+      "updated": "2026-11-02T05:01:17Z",
+      "items": [
+        {
+          "id": "ed755a8be73c1160",
+          "feed": "AeroTime",
+          "title": "Pakistan International Airlines receives first Boeing 787-9 Dreamliner",
+          "url": "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner",
+          "domain": "aerotime.aero",
+          "summary": "Pakistan International Airlines (PIA) has received its first Boeing 787-9 Dreamliner, with the aircraft arriving at Islamabad International… The post Pakistan International Airlines receives first Boeing 787-9 Dreamliner appeared first on AeroTime .",
+          "published": "2026-11-02T04:00:00Z"
+        }
+      ],
+      "story_id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.18635
+    "2026-11": 0.193746
   }
 }

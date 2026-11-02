@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 04:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 05:01:20 +0000</lastBuildDate>
+  <item>
+    <title>Pakistan International Airlines reçoit son premier Boeing 787-9 Dreamliner</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92/</guid>
+    <pubDate>Mon, 02 Nov 2026 05:01:20 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, Pakistan International Airlines (PIA) a reçu son premier Boeing 787-9 Dreamliner. L&#x27;appareil est arrivé à l&#x27;aéroport international d&#x27;Islamabad.</description>
+  </item>
   <item>
     <title>Learjet 60 : neuf morts dans un accident près de West Palm Beach, en Floride</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 30 Oct 2026 23:07:30 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, ANA Holdings, maison mère d&#x27;ANA All Nippon Airways, souhaite acquérir l&#x27;intégralité des compagnies régionales Airdo et Solaseed Air. Un échange d&#x27;actions est prévu le 1er avril 2027.</description>
-  </item>
-  <item>
-    <title>Turkish Airlines va louer deux Boeing 777-300ERSF auprès du loueur AerCap</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-turkish-airlines-va-louer-deux-boeing-777-300ersf-aupres-du-0616/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-turkish-airlines-va-louer-deux-boeing-777-300ersf-aupres-du-0616/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:07:13 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Le Journal de l&#x27;Aviation, AerCap a annoncé le 29 octobre un accord avec Turkish Airlines pour la location de deux Boeing 777-300ERSF, des appareils convertis en cargo.</description>
   </item>
 </channel>
 </rss>
