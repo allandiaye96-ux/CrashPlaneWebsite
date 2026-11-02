@@ -1,25 +1,25 @@
 {
-  "run": "2026-11-02T13:40:34Z",
+  "run": "2026-11-02T13:50:33Z",
   "stats": {
-    "fetched": 687,
-    "new": 1,
-    "written": 1,
+    "fetched": 587,
+    "new": 2,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.4491,
+  "spend_month_usd": 0.4499,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
       "items": 50
     },
     "EASA – Communiqués": {
-      "ok": true,
-      "items": 50
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "EASA – Actualités": {
-      "ok": true,
-      "items": 50
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Simple Flying": {
       "ok": true,
@@ -551,6 +551,12 @@
     },
     {
       "dossier": "FAA inspection queue 737NG (tail, AD)",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Airbus H145M retard munition Bundeswehr",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

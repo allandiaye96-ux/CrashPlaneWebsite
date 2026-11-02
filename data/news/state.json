@@ -1154,7 +1154,9 @@
     "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241": "2026-11-02T13:20:56Z",
     "https://www.airliners.de/flughafen-stuttgart-erwartet-rote-zahlen/91240": "2026-11-02T13:20:56Z",
     "https://simpleflying.com/video/nearly-2-000-boeing-737s-must-get-tail-inspections-after-jets-pitched-up-and-down-mid-flight/": "2026-11-02T13:30:51Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html": "2026-11-02T13:40:34Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html": "2026-11-02T13:40:34Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-skywise-expands-its-portfolio-with-the-launch-of-enhanced-digital-flight-training-solutions": "2026-11-02T13:50:33Z",
+    "https://www.aero.de/news-54067/Airbus-H145M-kann-fliegen-aber-noch-nicht-kaempfen.html": "2026-11-02T13:50:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3103,10 +3105,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ccaf9e363a2": {
+      "id": "ccaf9e363a2",
+      "label": "Airbus H145M retard munition Bundeswehr",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-02T13:51:26Z",
+      "updated": "2026-11-02T13:51:26Z",
+      "items": [
+        {
+          "id": "b180e149d74a0394",
+          "feed": "aero.de",
+          "title": "Airbus H145M kann fliegen, \"aber noch nicht kämpfen\"",
+          "url": "https://www.aero.de/news-54067/Airbus-H145M-kann-fliegen-aber-noch-nicht-kaempfen.html",
+          "domain": "aero.de",
+          "summary": "BERLIN - Das Verteidigungsministerium bestätigt Verzögerungen bei der Einsatzbereitschaft neuer Kampfhubschrauber vom Typ Airbus H145M. Grund dafür seien Probleme mit der für den Hubschrauber vorgesehenen Munition der Bordkanone, hatte der \"Spiegel\" zuvor berichtet.",
+          "published": "2026-11-02T13:45:24Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.449072
+    "2026-11": 0.449867
   }
 }
