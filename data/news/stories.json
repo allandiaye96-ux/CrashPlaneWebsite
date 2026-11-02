@@ -2,23 +2,23 @@
   {
     "id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
     "created": "2026-11-02T11:01:33Z",
-    "updated": "2026-11-02T11:01:33Z",
-    "version": 1,
+    "updated": "2026-11-02T11:21:12Z",
+    "version": 2,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Belavia : Washington autoriserait Boeing à travailler avec la compagnie nationale biélorusse",
-    "chapo": "Le département américain du Commerce a donné à Boeing l'autorisation de travailler avec Belavia, la compagnie nationale de Biélorussie, selon AeroTime, qui s'appuie sur des déclarations du dirigeant du transporteur.",
+    "titre": "Belavia : Washington autoriserait Boeing à reprendre sa coopération avec la compagnie biélorusse",
+    "chapo": "Le département américain du Commerce a donné son feu vert à Boeing pour travailler avec Belavia, selon des déclarations du dirigeant de la compagnie biélorusse relayées par AeroTime. Cette version est celle de Minsk, d'après aero.de.",
     "paragraphes": [
-      "D'après Simple Flying, les sanctions américaines visant Belavia avaient déjà été assouplies il y a plus d'un an. La dernière autorisation permettrait désormais à la compagnie de collaborer directement avec Boeing.",
-      "Le média évoque des craintes que des pièces ou des appareils vendus à la Biélorussie finissent en Russie."
+      "Selon aero.de, cette autorisation permettrait à Belavia de se procurer de nouveau des pièces détachées par des canaux officiels pour ses dix Boeing 737. La compagnie nationale est sous sanctions depuis 2022, et l'accord est présenté d'après la version de la Biélorussie.",
+      "Simple Flying indique que les sanctions américaines visant Belavia avaient déjà été assouplies il y a plus d'un an. La dernière approbation permettrait au transporteur de travailler directement avec Boeing. Le média évoque aussi des craintes que des pièces ou des appareils finissent en Russie."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 2,
+      "independent_sources": 3,
       "official_source": false
     },
     "sources": [
@@ -34,6 +34,13 @@
         "title": "US allows Boeing to work with Belarus’ Belavia, CEO claims",
         "url": "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo",
         "date": "2026-11-02T10:20:37Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Bericht: US-Regierung hebt Sanktionen gegen Belavia auf",
+        "url": "https://www.aero.de/news-54066/Bericht-US-Regierung-hebt-Sanktionen-gegen-Belavia-auf.html",
+        "date": "2026-11-02T11:13:16Z",
         "official": false
       }
     ]

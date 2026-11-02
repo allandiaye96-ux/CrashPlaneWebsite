@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T11:10:36Z",
+  "run": "2026-11-02T11:20:53Z",
   "stats": {
     "fetched": 687,
-    "new": 1,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.3137,
+  "spend_month_usd": 0.3235,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -142,6 +142,12 @@
       "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
     },
     {
+      "dossier": "Boeing autorisée vente Belarus Belavia",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -224,12 +230,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
-    },
-    {
-      "dossier": "Boeing autorisée vente Belarus Belavia",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",

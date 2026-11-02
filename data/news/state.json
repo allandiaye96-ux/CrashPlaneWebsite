@@ -1131,7 +1131,10 @@
     "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo": "2026-11-02T11:01:01Z",
     "https://avitrader.com/2026/11/02/bell-textron-secures-further-gmr-helicopter-order/": "2026-11-02T11:01:01Z",
     "https://www.journal-aviation.com/actualite-en-bref/le-groenland-ouvre-son-nouvel-aeroport-international-dilulissat-avec-une-liaison-directe-vers-copenhague-20261102.html": "2026-11-02T11:01:01Z",
-    "https://www.air-journal.fr/2026-11-02-voyage-aux-baleares-une-destination-mediterraneenne-qui-seduit-bien-au-dela-de-lete-5278399.html": "2026-11-02T11:10:36Z"
+    "https://www.air-journal.fr/2026-11-02-voyage-aux-baleares-une-destination-mediterraneenne-qui-seduit-bien-au-dela-de-lete-5278399.html": "2026-11-02T11:10:36Z",
+    "https://avitrader.com/2026/11/02/eirtech-wins-easa-approval-for-a320-data-link-upgrade/": "2026-11-02T11:20:53Z",
+    "https://www.aero.de/news-54066/Bericht-US-Regierung-hebt-Sanktionen-gegen-Belavia-auf.html": "2026-11-02T11:20:53Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/saft-equipera-toute-la-flotte-de-boeing-737-de-westjet-avec-ses-batteries-ulm-20261102.html": "2026-11-02T11:20:53Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2835,7 +2838,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-02T09:20:47Z",
-      "updated": "2026-11-02T11:01:20Z",
+      "updated": "2026-11-02T11:21:08Z",
       "items": [
         {
           "id": "0c77640a093db5ea",
@@ -2854,10 +2857,19 @@
           "domain": "aerotime.aero",
           "summary": "The US Department of Commerce has given Boeing permission to work with Belarus’ national carrier Belavia, according to… The post US allows Boeing to work with Belarus’ Belavia, CEO claims appeared first on AeroTime .",
           "published": "2026-11-02T10:20:37Z"
+        },
+        {
+          "id": "15a6017744b498f0",
+          "feed": "aero.de",
+          "title": "Bericht: US-Regierung hebt Sanktionen gegen Belavia auf",
+          "url": "https://www.aero.de/news-54066/Bericht-US-Regierung-hebt-Sanktionen-gegen-Belavia-auf.html",
+          "domain": "aero.de",
+          "summary": "MINSK - Belavia kommt wieder über offizielle Bezugsquellen an Ersatzteile für ihre zehn Boeing 737. Das US-Handelsministerium hat Boeing nach Darstellung Weißrusslands die Wiederaufnahme einer Zusammenarbeit mit der seit 2022 sanktionierten staatlichen Fluggesellschaft genehmigt.",
+          "published": "2026-11-02T11:13:16Z"
         }
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
-      "written_count": 2
+      "written_count": 3
     },
     "cfaffcd0fc3": {
       "id": "cfaffcd0fc3",
@@ -2988,6 +3000,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.313658
+    "2026-11": 0.323526
   }
 }
