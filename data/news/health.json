@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-02T01:00:56Z",
+  "run": "2026-11-02T01:12:39Z",
   "stats": {
     "fetched": 687,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-01-southwest-le-boeing-737-max-7-attendu-en-mars-2027-avec-150-9d24"
-    },
-    {
-      "dossier": "FAA élargit les avions pour pilotes sport (light-sport)",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "IATA trafic passagers septembre 2026",
