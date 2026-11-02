@@ -1,25 +1,25 @@
 {
-  "run": "2026-11-02T13:50:33Z",
+  "run": "2026-11-02T14:01:21Z",
   "stats": {
-    "fetched": 587,
-    "new": 2,
-    "written": 0,
-    "held": 0,
+    "fetched": 687,
+    "new": 3,
+    "written": 1,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 0.4499,
+  "spend_month_usd": 0.4831,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
       "items": 50
     },
     "EASA – Communiqués": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 50
     },
     "EASA – Actualités": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 50
     },
     "Simple Flying": {
       "ok": true,
@@ -118,6 +118,12 @@
       "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
     },
     {
+      "dossier": "Boeing autorisée vente Belarus Belavia",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -146,12 +152,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
-    },
-    {
-      "dossier": "Boeing autorisée vente Belarus Belavia",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
     },
     {
       "dossier": "Grèce KC-390 Embraer",
@@ -476,6 +476,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd"
+    },
+    {
+      "dossier": "Boeing Icelease 767-300 convertis cargo",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
     },
     {
       "dossier": "Atlas Air 747 abandon de décollage Miami",

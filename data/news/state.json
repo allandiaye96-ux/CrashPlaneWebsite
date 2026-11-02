@@ -1156,7 +1156,10 @@
     "https://simpleflying.com/video/nearly-2-000-boeing-737s-must-get-tail-inspections-after-jets-pitched-up-and-down-mid-flight/": "2026-11-02T13:30:51Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html": "2026-11-02T13:40:34Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-skywise-expands-its-portfolio-with-the-launch-of-enhanced-digital-flight-training-solutions": "2026-11-02T13:50:33Z",
-    "https://www.aero.de/news-54067/Airbus-H145M-kann-fliegen-aber-noch-nicht-kaempfen.html": "2026-11-02T13:50:33Z"
+    "https://www.aero.de/news-54067/Airbus-H145M-kann-fliegen-aber-noch-nicht-kaempfen.html": "2026-11-02T13:50:33Z",
+    "https://simpleflying.com/boeing-747-400-vs-747-8-last-2-jumbo-generations-compare/": "2026-11-02T14:01:21Z",
+    "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters": "2026-11-02T14:01:21Z",
+    "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html": "2026-11-02T14:01:21Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2845,7 +2848,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-02T09:20:47Z",
-      "updated": "2026-11-02T11:21:08Z",
+      "updated": "2026-11-02T14:01:38Z",
       "items": [
         {
           "id": "0c77640a093db5ea",
@@ -2873,10 +2876,19 @@
           "domain": "aero.de",
           "summary": "MINSK - Belavia kommt wieder über offizielle Bezugsquellen an Ersatzteile für ihre zehn Boeing 737. Das US-Handelsministerium hat Boeing nach Darstellung Weißrusslands die Wiederaufnahme einer Zusammenarbeit mit der seit 2022 sanktionierten staatlichen Fluggesellschaft genehmigt.",
           "published": "2026-11-02T11:13:16Z"
+        },
+        {
+          "id": "0d4f4b584df8612f",
+          "feed": "Air Journal",
+          "title": "La biélorusse Belavia affirme être autorisée à reprendre ses relations directes avec Boeing",
+          "url": "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html",
+          "domain": "air-journal.fr",
+          "summary": "La compagnie nationale biélorusse Belavia affirme que Washington a autorisé Boeing à reprendre sa coopération directe avec elle. Annoncée le 31 octobre 2026, cette décision doit faciliter l’approvisionnement en pièces détachées et en logiciels pour les avions déjà en service, tout en ouvrant la voie à des discussions sur de futures acquisitions. Une nouvelle étape […]",
+          "published": "2026-11-02T14:00:28Z"
         }
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
-      "written_count": 3
+      "written_count": 4
     },
     "cfaffcd0fc3": {
       "id": "cfaffcd0fc3",
@@ -3126,10 +3138,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c45fa568860": {
+      "id": "c45fa568860",
+      "label": "Boeing Icelease 767-300 convertis cargo",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-02T14:01:38Z",
+      "updated": "2026-11-02T14:01:38Z",
+      "items": [
+        {
+          "id": "ff471e76bfc48c67",
+          "feed": "Boeing – Communiqués",
+          "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
+          "url": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
+          "domain": "boeing.mediaroom.com",
+          "summary": "",
+          "published": "2026-11-02T14:00:00Z"
+        }
+      ],
+      "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.449867
+    "2026-11": 0.483141
   }
 }

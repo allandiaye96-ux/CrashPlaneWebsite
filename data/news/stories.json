@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
+    "created": "2026-11-02T14:01:54Z",
+    "updated": "2026-11-02T14:01:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing et Icelease signent un accord pour jusqu'à trois 767-300 Boeing Converted Freighters",
+    "chapo": "Selon un communiqué publié par Boeing, le constructeur et Icelease ont signé un accord portant sur un maximum de trois 767-300 Boeing Converted Freighters.",
+    "paragraphes": [
+      "Le communiqué, daté du 2 novembre 2026, annonce un accord entre Boeing et Icelease couvrant jusqu'à trois appareils de la gamme 767-300 Boeing Converted Freighters, la désignation que Boeing donne à ses 767-300 convertis en cargo."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Boeing – Communiqués",
+        "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
+        "url": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
+        "date": "2026-11-02T14:00:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
     "created": "2026-11-02T13:01:51Z",
     "updated": "2026-11-02T13:40:57Z",
@@ -207,7 +238,7 @@
     "version": 2,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Compagnies",
     "importance": 2,
     "titre": "Belavia : Washington autoriserait Boeing à reprendre sa coopération avec la compagnie biélorusse",
