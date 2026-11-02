@@ -6,7 +6,23 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 02 Nov 2026 19:50:47 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 20:01:26 +0000</lastBuildDate>
+  <item>
+    <title>Piratage chez Amadeus : des données clients de Qantas possiblement exposées</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714/</guid>
+    <pubDate>Mon, 02 Nov 2026 20:01:26 +0000</pubDate>
+    <category>Incident</category>
+    <description>Selon Australian Aviation, des données de clients de Qantas pourraient avoir été exposées à la suite d&#x27;un piratage visant Amadeus, prestataire de nombreuses compagnies aériennes.</description>
+  </item>
+  <item>
+    <title>NetJets prévoit d&#x27;agrandir son siège mondial de Columbus, avec 800 emplois supplémentaires</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a/</guid>
+    <pubDate>Mon, 02 Nov 2026 20:01:23 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, NetJets envisage d&#x27;étendre son siège mondial de Columbus, dans l&#x27;Ohio, de plus de 365 000 square feet. Le projet s&#x27;accompagnerait de la création de 800 emplois supplémentaires.</description>
+  </item>
   <item>
     <title>Ryanair envisage gel des salaires et hausse des tarifs face à la flambée du prix du kérosène</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7/</link>
@@ -230,22 +246,6 @@
     <pubDate>Sat, 31 Oct 2026 00:31:09 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Delta Air Lines a signé un bail de 20 ans portant sur six portes d&#x27;embarquement supplémentaires dans un aéroport de taille moyenne de Floride. Le site évoque un pari de 1,5 milliard de dollars pour en faire une porte d&#x27;entrée internationale.</description>
-  </item>
-  <item>
-    <title>Alaska Air Group supprime environ 200 postes, en pointant la hausse du prix du carburant</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:21:27 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AirlineGeeks, Alaska Air Group va supprimer 200 postes et invoque des coûts de carburant plus élevés ainsi que des « défis géopolitiques ». Les suppressions interviendraient d&#x27;ici la fin de l&#x27;année, d&#x27;après Simple Flying.</description>
-  </item>
-  <item>
-    <title>Chine : le drone de combat GJ-21 aurait décollé et appontu sur l&#x27;assaut amphibie Type 076 Sichuan</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-30-chine-le-drone-de-combat-gj-21-aurait-decolle-et-appontu-sur-6212/</guid>
-    <pubDate>Fri, 30 Oct 2026 23:21:24 +0000</pubDate>
-    <category>Défense</category>
-    <description>La marine chinoise affirme que son drone de combat naval GJ-21 a réalisé un premier décollage et un premier appontage à bord du Type 076 Sichuan, selon The Aviationist et The War Zone.</description>
   </item>
 </channel>
 </rss>

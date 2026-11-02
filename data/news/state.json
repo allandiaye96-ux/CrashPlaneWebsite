@@ -1201,7 +1201,17 @@
     "https://www.aero.de/news-54071/Pistorius-fordert-schnelle-Entscheidung-ueber-neuen-Kampfjet.html": "2026-11-02T18:30:54Z",
     "https://simpleflying.com/air-canada-launches-11-long-haul-787-routes/": "2026-11-02T19:01:04Z",
     "https://simpleflying.com/seaplane-destinations-cessna-caravan-amphibians-fly-passengers/": "2026-11-02T19:01:04Z",
-    "https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat": "2026-11-02T19:01:04Z"
+    "https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat": "2026-11-02T19:01:04Z",
+    "https://simpleflying.com/united-airlines-launches-2-new-6-hour-boeing-737-max-nonstop-routes/": "2026-11-02T20:01:02Z",
+    "https://simpleflying.com/why-boeing-made-747-400-compatible-3-distinct-powerplants/": "2026-11-02T20:01:02Z",
+    "https://simpleflying.com/alaska-airlines-unveils-surprising-new-6-hour-route/": "2026-11-02T20:01:02Z",
+    "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs": "2026-11-02T20:01:02Z",
+    "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup": "2026-11-02T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/qantas-customer-data-possibly-exposed-in-amadeus-hack/": "2026-11-02T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/nasa-high-altitude-research-aircraft-makes-rare-visit-to-australia/": "2026-11-02T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/exclusive-alliance-could-look-at-737s-and-a320s-new-ceo-says/": "2026-11-02T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/nsw-government-reveals-new-ambulance-helicopter-bases/": "2026-11-02T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/avalon-airshow-locked-in-until-2031/": "2026-11-02T20:01:02Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3339,10 +3349,73 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cf74166462a": {
+      "id": "cf74166462a",
+      "label": "NetJets extension siège Columbus",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T20:01:19Z",
+      "updated": "2026-11-02T20:01:19Z",
+      "items": [
+        {
+          "id": "f678616e185999ff",
+          "feed": "AeroTime",
+          "title": "NetJets plans major headquarters expansion, 800 additional jobs",
+          "url": "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs",
+          "domain": "aerotime.aero",
+          "summary": "NetJets plans to expand its global headquarters in Columbus, Ohio, by more than 365,000 square feet and grow… The post NetJets plans major headquarters expansion, 800 additional jobs appeared first on AeroTime .",
+          "published": "2026-11-02T19:40:18Z"
+        }
+      ],
+      "story_id": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a",
+      "written_count": 1
+    },
+    "cf8aca91140": {
+      "id": "cf8aca91140",
+      "label": "Learjet 60 Palm Beach NTSB rupture en vol",
+      "categorie": "Accident",
+      "importance": 3,
+      "created": "2026-11-02T20:01:19Z",
+      "updated": "2026-11-02T20:01:19Z",
+      "items": [
+        {
+          "id": "08944c7cc476d795",
+          "feed": "AeroTime",
+          "title": "NTSB finds evidence of in-flight breakup before Florida Learjet crash",
+          "url": "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup",
+          "domain": "aerotime.aero",
+          "summary": "National Transportation Safety Board (NTSB) investigators said they have found evidence that a Learjet 60 shed some components… The post NTSB finds evidence of in-flight breakup before Florida Learjet crash appeared first on AeroTime .",
+          "published": "2026-11-02T19:18:12Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "cedf40f0714": {
+      "id": "cedf40f0714",
+      "label": "Amadeus fuite données Qantas",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-02T20:01:19Z",
+      "updated": "2026-11-02T20:01:19Z",
+      "items": [
+        {
+          "id": "a4cddac534d8b249",
+          "feed": "Australian Aviation",
+          "title": "Qantas customer data possibly exposed in Amadeus hack",
+          "url": "https://australianaviation.com.au/2026/11/qantas-customer-data-possibly-exposed-in-amadeus-hack/",
+          "domain": "australianaviation.com.au",
+          "summary": "Amadeus, which services around 141 global airlines, including Korean Air, Asiana, Japan Airlines, ANA and Cathay Pacific, has reportedly advised its clients that no payment or financial data was accessed, though other personal details may have been exposed.",
+          "published": "2026-11-02T05:16:08Z"
+        }
+      ],
+      "story_id": "2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.630711
+    "2026-11": 0.646767
   }
 }

@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714",
+    "created": "2026-11-02T20:01:26Z",
+    "updated": "2026-11-02T20:01:26Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Piratage chez Amadeus : des données clients de Qantas possiblement exposées",
+    "chapo": "Selon Australian Aviation, des données de clients de Qantas pourraient avoir été exposées à la suite d'un piratage visant Amadeus, prestataire de nombreuses compagnies aériennes.",
+    "paragraphes": [
+      "Amadeus fournit des services à environ 141 compagnies aériennes dans le monde, dont Korean Air, Asiana, Japan Airlines, ANA et Cathay Pacific, d'après le média australien.",
+      "Toujours d'après ces informations, Amadeus aurait indiqué à ses clients qu'aucune donnée de paiement ou financière n'a été consultée. D'autres données personnelles pourraient en revanche avoir été exposées."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas customer data possibly exposed in Amadeus hack",
+        "url": "https://australianaviation.com.au/2026/11/qantas-customer-data-possibly-exposed-in-amadeus-hack/",
+        "date": "2026-11-02T05:16:08Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a",
+    "created": "2026-11-02T20:01:23Z",
+    "updated": "2026-11-02T20:01:23Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "NetJets prévoit d'agrandir son siège mondial de Columbus, avec 800 emplois supplémentaires",
+    "chapo": "Selon AeroTime, NetJets envisage d'étendre son siège mondial de Columbus, dans l'Ohio, de plus de 365 000 square feet. Le projet s'accompagnerait de la création de 800 emplois supplémentaires.",
+    "paragraphes": [
+      "D'après AeroTime, la compagnie d'aviation d'affaires prévoit un agrandissement de plus de 365 000 square feet de son siège mondial, situé à Columbus, dans l'Ohio.",
+      "Cette extension irait de pair avec une hausse des effectifs : 800 emplois supplémentaires sont annoncés dans le titre de l'article."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "NetJets plans major headquarters expansion, 800 additional jobs",
+        "url": "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs",
+        "date": "2026-11-02T19:40:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
     "created": "2026-11-02T16:01:28Z",
     "updated": "2026-11-02T17:40:55Z",

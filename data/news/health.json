@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T19:50:33Z",
+  "run": "2026-11-02T20:01:02Z",
   "stats": {
     "fetched": 689,
-    "new": 0,
-    "written": 0,
+    "new": 10,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.6307,
+  "spend_month_usd": 0.6468,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -514,6 +514,18 @@
       "breve": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0"
     },
     {
+      "dossier": "NetJets extension siège Columbus",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a"
+    },
+    {
+      "dossier": "Amadeus fuite données Qantas",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714"
+    },
+    {
       "dossier": "Air France programme hiver 2026-2027",
       "statut": "source_unique",
       "editeurs": 1,
@@ -587,6 +599,12 @@
     },
     {
       "dossier": "Allemagne GCAP FCAS Pistorius",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
