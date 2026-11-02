@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T09:10:41Z",
+  "run": "2026-11-02T09:20:32Z",
   "stats": {
     "fetched": 687,
-    "new": 0,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.2329,
+  "spend_month_usd": 0.2337,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -503,6 +503,12 @@
     },
     {
       "dossier": "Accord CATA UE-Qatar, polémique à Bruxelles",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
