@@ -1164,7 +1164,8 @@
     "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244": "2026-11-02T14:20:34Z",
     "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242": "2026-11-02T14:20:34Z",
     "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243": "2026-11-02T14:20:34Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html": "2026-11-02T14:30:54Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html": "2026-11-02T14:30:54Z",
+    "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html": "2026-11-02T14:50:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3257,10 +3258,31 @@
       ],
       "story_id": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0",
       "written_count": 1
+    },
+    "cebc38051d8": {
+      "id": "cebc38051d8",
+      "label": "Menace à la bombe Wizz Air Londres-Sofia Budapest",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-02T14:50:49Z",
+      "updated": "2026-11-02T14:50:49Z",
+      "items": [
+        {
+          "id": "c5803e460aee3b90",
+          "feed": "aero.de",
+          "title": "Bombendrohnung gegen Wizz-Air-Flug",
+          "url": "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html",
+          "domain": "aero.de",
+          "summary": "BUDAPEST - Ein Wizz Air-Flieger ist von London nach Sofia über Bosnien unterwegs. Dann erreicht eine Bombendrohung das Cockpit. Zwei Kampfjets eskortieren die Maschine daraufhin nach Budapest.",
+          "published": "2026-11-02T14:46:02Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.541803
+    "2026-11": 0.542607
   }
 }

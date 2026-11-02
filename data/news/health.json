@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-02T14:40:36Z",
+  "run": "2026-11-02T14:50:33Z",
   "stats": {
     "fetched": 687,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.5418,
+  "spend_month_usd": 0.5426,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -587,6 +587,12 @@
     },
     {
       "dossier": "Airbus H145M retard munition Bundeswehr",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Menace à la bombe Wizz Air Londres-Sofia Budapest",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
