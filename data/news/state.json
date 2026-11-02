@@ -2473,27 +2473,6 @@
       "story_id": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24",
       "written_count": 1
     },
-    "c0897634731": {
-      "id": "c0897634731",
-      "label": "HADES Army premier vol prototype",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-31T19:36:04Z",
-      "updated": "2026-10-31T19:36:04Z",
-      "items": [
-        {
-          "id": "c1664ebf9927e049",
-          "feed": "The Aviationist",
-          "title": "U.S. Army’s HADES Prototype Completes First Flight",
-          "url": "https://theaviationist.com/2026/10/31/u-s-armys-hades-prototype-completes-first-flight/",
-          "domain": "theaviationist.com",
-          "summary": "The U.S. Army announced that the HADES Prototype 1 made its first flight on Sept. 11, marking a major milestone in the transition from the turboprop ISR fleet to the new high-altitude business jet-based aircraft. The U.S. Army’s High Accuracy Detection and Exploitation System (HADES) Prototype 1 aircraft, part of the service’s Multi-Domain Sensing System […]",
-          "published": "2026-10-31T19:34:57Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cdec4e34b76": {
       "id": "cdec4e34b76",
       "label": "Rafale M essais INS Vikrant",
