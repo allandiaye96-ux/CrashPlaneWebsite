@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T15:50:45Z",
+  "run": "2026-11-03T16:01:07Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.051,
+  "spend_month_usd": 1.06,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -278,6 +278,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a"
+    },
+    {
+      "dossier": "Delta vs Heathrow séparation Virgin Atlantic terminaux",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b"
     },
     {
       "dossier": "Lufthansa résultats T3 kérosène",
@@ -572,12 +578,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae"
-    },
-    {
-      "dossier": "Delta vs Heathrow séparation Virgin Atlantic terminaux",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b"
     },
     {
       "dossier": "Bangkok Suvarnabhumi extension capacité",

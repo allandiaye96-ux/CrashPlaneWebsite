@@ -1316,7 +1316,8 @@
     "https://www.airliners.de/lufthansa-erwaegt-premium-economy-groessere-business-class/91285": "2026-11-03T15:20:40Z",
     "https://www.airliners.de/ryanair-passagierzahlen-oktober-steigern/91278": "2026-11-03T15:20:40Z",
     "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282": "2026-11-03T15:20:40Z",
-    "https://www.air-journal.fr/2026-11-03-le-caire-easyjet-holidays-ajoute-les-pyramides-et-le-grand-musee-egyptien-a-ses-sejours-5278663.html": "2026-11-03T15:30:59Z"
+    "https://www.air-journal.fr/2026-11-03-le-caire-easyjet-holidays-ajoute-les-pyramides-et-le-grand-musee-egyptien-a-ses-sejours-5278663.html": "2026-11-03T15:30:59Z",
+    "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/": "2026-11-03T16:01:07Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3569,7 +3570,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-11-03T04:10:47Z",
-      "updated": "2026-11-03T04:10:47Z",
+      "updated": "2026-11-03T16:01:24Z",
       "items": [
         {
           "id": "ce8796a1afb2ff12",
@@ -3579,10 +3580,19 @@
           "domain": "simpleflying.com",
           "summary": "Heathrow reshuffle unsettles partners as airlines face terminal moves that could fragment long standing joint operations.",
           "published": "2026-11-03T04:02:40Z"
+        },
+        {
+          "id": "6b98f548a292bedf",
+          "feed": "AirlineGeeks",
+          "title": "Delta CEO Calls Heathrow Move ‘Short-Sighted’",
+          "url": "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/",
+          "domain": "airlinegeeks.com",
+          "summary": "Bastian says Delta will challenge a decision that would separate the carrier from partner Virgin Atlantic.",
+          "published": "2026-11-03T15:51:21Z"
         }
       ],
       "story_id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
-      "written_count": 1
+      "written_count": 2
     },
     "c60a1ad6fc9": {
       "id": "c60a1ad6fc9",
@@ -3998,6 +4008,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.051034
+    "2026-11": 1.06002
   }
 }

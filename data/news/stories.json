@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
+    "created": "2026-11-03T04:10:53Z",
+    "updated": "2026-11-03T16:01:29Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Heathrow : le patron de Delta juge « à courte vue » une séparation d'avec Virgin Atlantic",
+    "chapo": "Selon Simple Flying et AirlineGeeks, le directeur général de Delta, Ed Bastian, annonce vouloir contester une décision de Heathrow qui séparerait sa compagnie de son partenaire Virgin Atlantic.",
+    "paragraphes": [
+      "D'après AirlineGeeks, Ed Bastian affirme que Delta entend s'opposer à une décision de l'aéroport londonien qui éloignerait la compagnie américaine de Virgin Atlantic. Il qualifie cette mesure de « short-sighted », c'est-à-dire de décision à courte vue.",
+      "Simple Flying évoque un remaniement à Heathrow qui inquiète les partenaires : des compagnies seraient amenées à changer de terminal, ce qui pourrait fragmenter des opérations conjointes de longue date."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "\"Short-Sighted\": Delta CEO Vows To Fight Heathrow’s Move To Split It From Virgin Atlantic",
+        "url": "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/",
+        "date": "2026-11-03T04:02:40Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "Delta CEO Calls Heathrow Move ‘Short-Sighted’",
+        "url": "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/",
+        "date": "2026-11-03T15:51:21Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
     "created": "2026-11-03T05:40:58Z",
     "updated": "2026-11-03T15:21:06Z",
@@ -793,37 +832,6 @@
         "title": "Bangkok plant Mega-Ausbau seines Flughafens",
         "url": "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html",
         "date": "2026-11-03T05:26:27Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
-    "created": "2026-11-03T04:10:53Z",
-    "updated": "2026-11-03T04:10:53Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Heathrow : le patron de Delta veut combattre la séparation d'avec Virgin Atlantic",
-    "chapo": "Selon Simple Flying, le directeur général de Delta Air Lines affirme qu'il s'opposera à la décision de Heathrow de séparer sa compagnie de Virgin Atlantic. Il qualifie ce choix de « short-sighted », c'est-à-dire à courte vue.",
-    "paragraphes": [
-      "D'après le média spécialisé, la réorganisation prévue à Heathrow suscite l'inquiétude de compagnies partenaires. Plusieurs transporteurs doivent en effet changer de terminal, ce qui pourrait fragmenter des opérations conjointes établies de longue date."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "\"Short-Sighted\": Delta CEO Vows To Fight Heathrow’s Move To Split It From Virgin Atlantic",
-        "url": "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/",
-        "date": "2026-11-03T04:02:40Z",
         "official": false
       }
     ]
