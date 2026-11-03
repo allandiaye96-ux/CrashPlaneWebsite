@@ -1275,7 +1275,10 @@
     "https://avitrader.com/2026/11/03/orix-aviation-completes-aerfin-acquisition/": "2026-11-03T10:40:36Z",
     "https://www.aero.de/news-54080/Lufthansa-Chef-sieht-wenig-Chancen-fuer-Flottenwachstum.html": "2026-11-03T10:50:34Z",
     "https://www.aero.de/news-54081/Warschau-Modlin-nach-Drohung-gegen-LOT-Flug-gesperrt.html": "2026-11-03T11:01:06Z",
-    "https://www.air-journal.fr/2026-11-03-identification-biometrique-liata-mise-sur-one-id-pour-rendre-les-systemes-interoperables-5278579.html": "2026-11-03T11:01:06Z"
+    "https://www.air-journal.fr/2026-11-03-identification-biometrique-liata-mise-sur-one-id-pour-rendre-les-systemes-interoperables-5278579.html": "2026-11-03T11:01:06Z",
+    "https://www.aerotime.aero/articles/saab-in-house-ai-gripen-e-flight-tests": "2026-11-03T11:10:34Z",
+    "https://www.aerotime.aero/articles/lufthansa-groups-third-quarter-profits-2026": "2026-11-03T11:10:34Z",
+    "https://www.aero.de/news-54082/Merz-Berliner-Flughafenpolitik-miserabel-schlecht.html": "2026-11-03T11:10:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3737,10 +3740,52 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cf68eafa3aa": {
+      "id": "cf68eafa3aa",
+      "label": "Saab IA agents Gripen E essais en vol",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-03T11:10:51Z",
+      "updated": "2026-11-03T11:10:51Z",
+      "items": [
+        {
+          "id": "10e24c4d89383188",
+          "feed": "AeroTime",
+          "title": "Saab AI agent controls Gripen E autonomously in BVR combat scenarios",
+          "url": "https://www.aerotime.aero/articles/saab-in-house-ai-gripen-e-flight-tests",
+          "domain": "aerotime.aero",
+          "summary": "Saab has flight-tested artificial intelligence (AI) agents developed entirely in-house on a Gripen E fighter, with one agent… The post Saab AI agent controls Gripen E autonomously in BVR combat scenarios appeared first on AeroTime .",
+          "published": "2026-11-03T10:48:25Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c0438db2c86": {
+      "id": "c0438db2c86",
+      "label": "Lufthansa Group résultats T3 bénéfices efficacité",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T11:10:51Z",
+      "updated": "2026-11-03T11:10:51Z",
+      "items": [
+        {
+          "id": "ccef4788178d5f0e",
+          "feed": "AeroTime",
+          "title": "Lufthansa Group’s efficiency measures help boost third-quarter profits",
+          "url": "https://www.aerotime.aero/articles/lufthansa-groups-third-quarter-profits-2026",
+          "domain": "aerotime.aero",
+          "summary": "Lufthansa Group has posted third-quarter profits thanks in part to efficiency measures the company took earlier in the… The post Lufthansa Group’s efficiency measures help boost third-quarter profits appeared first on AeroTime .",
+          "published": "2026-11-03T10:48:25Z"
+        }
+      ],
+      "story_id": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.853749
+    "2026-11": 0.865063
   }
 }

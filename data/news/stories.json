@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86",
+    "created": "2026-11-03T11:10:57Z",
+    "updated": "2026-11-03T11:10:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa Group affiche des bénéfices au troisième trimestre, aidé par ses mesures d'efficacité",
+    "chapo": "Lufthansa Group a enregistré des bénéfices au troisième trimestre, selon AeroTime, qui met en avant le rôle de mesures d'efficacité engagées par la compagnie.",
+    "paragraphes": [
+      "D'après le média spécialisé, ces résultats s'expliquent en partie par des mesures d'efficacité que le groupe avait mises en place précédemment."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Lufthansa Group’s efficiency measures help boost third-quarter profits",
+        "url": "https://www.aerotime.aero/articles/lufthansa-groups-third-quarter-profits-2026",
+        "date": "2026-11-03T10:48:25Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
     "created": "2026-11-03T06:10:56Z",
     "updated": "2026-11-03T10:50:56Z",

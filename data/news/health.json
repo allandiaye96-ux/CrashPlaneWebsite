@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T11:01:06Z",
+  "run": "2026-11-03T11:10:34Z",
   "stats": {
     "fetched": 688,
-    "new": 2,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.8537,
+  "spend_month_usd": 0.8651,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -586,6 +586,12 @@
       "breve": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d"
     },
     {
+      "dossier": "Lufthansa Group résultats T3 bénéfices efficacité",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86"
+    },
+    {
       "dossier": "Vente de missiles Patriot à l'Ukraine",
       "statut": "signale",
       "editeurs": 1,
@@ -659,6 +665,12 @@
     },
     {
       "dossier": "Lockheed contrat missile hypersonique AGM-183A 694 M$",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Saab IA agents Gripen E essais en vol",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
