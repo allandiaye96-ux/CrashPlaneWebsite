@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 17:31:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 17:41:08 +0000</lastBuildDate>
+  <item>
+    <title>Lufthansa et le Portugal signent le contrat d&#x27;entrée du groupe allemand au capital de TAP</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0/</guid>
+    <pubDate>Tue, 03 Nov 2026 17:41:08 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, Lufthansa et le gouvernement portugais ont formalisé par contrat l&#x27;entrée du groupe allemand dans le capital de la compagnie publique TAP.</description>
+  </item>
   <item>
     <title>Air India envisage d&#x27;augmenter sa commande d&#x27;avions gros-porteurs pour croître à l&#x27;international</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 10:20:58 +0000</pubDate>
     <category>Accident</category>
     <description>Selon airliners.de, un membre du personnel de cabine de Lufthansa est mort lors d&#x27;un accident survenu dans un hôtel de Bengaluru, où il effectuait une escale. Un autre client étranger a également perdu la vie.</description>
-  </item>
-  <item>
-    <title>Airbus : résultat ajusté en baisse de 9 % au troisième trimestre, à 1,77 milliard d&#x27;euros</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d/</guid>
-    <pubDate>Mon, 02 Nov 2026 10:06:42 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon Aero-News Network, Airbus a publié un résultat d&#x27;exploitation ajusté en recul au troisième trimestre, alors que le constructeur cherche à accélérer nettement ses livraisons d&#x27;avions d&#x27;ici la fin de l&#x27;année.</description>
   </item>
 </channel>
 </rss>

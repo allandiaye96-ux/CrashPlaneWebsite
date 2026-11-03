@@ -1330,7 +1330,9 @@
     "https://airlinegeeks.com/2026/11/03/delta-adds-new-austin-route-2/": "2026-11-03T16:40:43Z",
     "https://simpleflying.com/hidden-math-airlines-last-minute-bump-business-class/": "2026-11-03T16:50:44Z",
     "https://airlinegeeks.com/2026/11/03/delta-another-austin-route/": "2026-11-03T16:50:44Z",
-    "https://simpleflying.com/how-american-united-airlines-turning-19-year-olds-zero-flight-hours-into-branded-pilots/": "2026-11-03T17:01:17Z"
+    "https://simpleflying.com/how-american-united-airlines-turning-19-year-olds-zero-flight-hours-into-branded-pilots/": "2026-11-03T17:01:17Z",
+    "https://simpleflying.com/cdc-ebola-declaration-us-bound-flights-crew-21-days/": "2026-11-03T17:40:43Z",
+    "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html": "2026-11-03T17:40:43Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1765,7 +1767,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-10-29T15:39:45Z",
-      "updated": "2026-10-31T09:01:10Z",
+      "updated": "2026-11-03T17:41:01Z",
       "items": [
         {
           "id": "fa784bde954e46d6",
@@ -1784,10 +1786,19 @@
           "domain": "air-journal.fr",
           "summary": "Les États-Unis imposent une nouvelle déclaration sanitaire aux voyageurs embarquant sur un vol international à destination du pays. À compter du 3 novembre 2026, chacun devra attester ne pas avoir été présent en République démocratique du Congo au cours des 21 jours précédents. Cette mesure de prévention contre Ebola concerne toutes les nationalités, y compris […]",
           "published": "2026-10-31T09:00:35Z"
+        },
+        {
+          "id": "805a77e7a824e06e",
+          "feed": "Simple Flying",
+          "title": "Everyone On US-Bound Flights, Including Crew, Must Now Declare They Haven’t Been In Congo In The Last 21 Days",
+          "url": "https://simpleflying.com/cdc-ebola-declaration-us-bound-flights-crew-21-days/",
+          "domain": "simpleflying.com",
+          "summary": "An Ebola outbreak in rural Congo has led to measures against travellers who've been to the country recently.",
+          "published": "2026-11-03T17:35:20Z"
         }
       ],
       "story_id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
-      "written_count": 2
+      "written_count": 3
     },
     "c9b5bbb2ca3": {
       "id": "c9b5bbb2ca3",
@@ -4059,10 +4070,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ce9f17c97e0": {
+      "id": "ce9f17c97e0",
+      "label": "Lufthansa TAP participation contrat",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T17:41:01Z",
+      "updated": "2026-11-03T17:41:01Z",
+      "items": [
+        {
+          "id": "8366b0f13e50f104",
+          "feed": "aero.de",
+          "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
+          "url": "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Die Lufthansa und die Regierung Portugals haben den Einstieg des deutschen Luftverkehrskonzerns bei der portugiesischen Staatsfluglinie TAP vertraglich unter Dach und Fach gebracht. \"Damit ist ein entscheidender Meilenstein im Privatisierungsverfahren von TAP erreicht\", heißt es in einer Lufthansa-Mitteilung.",
+          "published": "2026-11-03T17:36:05Z"
+        }
+      ],
+      "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.064336
+    "2026-11": 1.081501
   }
 }

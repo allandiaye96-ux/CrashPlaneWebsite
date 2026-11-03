@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
+    "created": "2026-11-03T17:41:08Z",
+    "updated": "2026-11-03T17:41:08Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa et le Portugal signent le contrat d'entrée du groupe allemand au capital de TAP",
+    "chapo": "Selon aero.de, Lufthansa et le gouvernement portugais ont formalisé par contrat l'entrée du groupe allemand dans le capital de la compagnie publique TAP.",
+    "paragraphes": [
+      "D'après aero.de, l'accord conclut juridiquement la participation du groupe de transport aérien allemand dans la compagnie nationale portugaise.",
+      "Lufthansa y voit, dans un communiqué cité par le média, une étape décisive dans le processus de privatisation de TAP."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
+        "url": "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html",
+        "date": "2026-11-03T17:36:05Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
+    "created": "2026-10-31T09:01:14Z",
+    "updated": "2026-11-03T17:41:05Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Ebola : les États-Unis imposent une déclaration sanitaire aux voyageurs aériens depuis le 3 novembre 2026",
+    "chapo": "Selon Air Journal, les passagers de vols internationaux vers les États-Unis doivent attester, à partir du 3 novembre 2026, ne pas avoir séjourné en République démocratique du Congo durant les 21 jours précédents. L'IATA juge le délai de mise en œuvre trop court, d'après airliners.de.",
+    "paragraphes": [
+      "Cette mesure de prévention face à Ebola concerne toutes les nationalités, d'après Air Journal. Simple Flying précise qu'elle s'applique aussi aux équipages et la relie à une épidémie d'Ebola dans une zone rurale du Congo.",
+      "Du côté des compagnies, airliners.de indique que celles-ci et leurs associations demandent à l'agence sanitaire américaine CDC de revoir ces nouvelles règles d'entrée. Elles estiment que le délai avant l'entrée en vigueur est trop court, et l'IATA qualifie cette échéance d'inacceptable."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Ebola: IATA hält Frist für neue US-Gesundheitserklärung für unzumutbar",
+        "url": "https://www.airliners.de/ebola-iata-frist-us-gesundheitserklaerung-unzumutbar/91177",
+        "date": "2026-10-29T13:55:55Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Ebola : États-Unis exigent une déclaration sanitaire obligatoire pour les voyageurs aériens",
+        "url": "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html",
+        "date": "2026-10-31T09:00:35Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Everyone On US-Bound Flights, Including Crew, Must Now Declare They Haven’t Been In Congo In The Last 21 Days",
+        "url": "https://simpleflying.com/cdc-ebola-declaration-us-bound-flights-crew-21-days/",
+        "date": "2026-11-03T17:35:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
     "created": "2026-11-03T04:10:53Z",
     "updated": "2026-11-03T16:01:29Z",
@@ -1876,45 +1954,6 @@
         "title": "Chinas CE-25A Electric Commuter Airliner Demonstrator Emerges",
         "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=082D7B5B-7F50-459C-9FED-1CFD0D7BB0A6",
         "date": null,
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
-    "created": "2026-10-31T09:01:14Z",
-    "updated": "2026-10-31T09:01:14Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Sécurité et réglementation",
-    "importance": 2,
-    "titre": "Ebola : les États-Unis imposeront dès le 3 novembre 2026 une déclaration sanitaire aux voyageurs aériens",
-    "chapo": "Selon Air Journal, les passagers de vols internationaux à destination des États-Unis devront attester qu'ils n'ont pas séjourné en République démocratique du Congo durant les 21 jours précédents. L'IATA juge le délai de mise en œuvre trop court, rapporte airliners.de.",
-    "paragraphes": [
-      "La mesure, présentée comme une prévention contre Ebola, entre en vigueur le 3 novembre 2026. D'après Air Journal, elle s'applique à toutes les nationalités et concerne chaque voyageur embarquant sur un vol international vers le territoire américain.",
-      "Du côté de l'industrie, des compagnies aériennes et leurs associations demandent à l'agence sanitaire américaine CDC de revoir ces règles, selon airliners.de. L'IATA estime que le délai avant l'entrée en vigueur de cette déclaration supplémentaire est inacceptable."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Ebola: IATA hält Frist für neue US-Gesundheitserklärung für unzumutbar",
-        "url": "https://www.airliners.de/ebola-iata-frist-us-gesundheitserklaerung-unzumutbar/91177",
-        "date": "2026-10-29T13:55:55Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Ebola : États-Unis exigent une déclaration sanitaire obligatoire pour les voyageurs aériens",
-        "url": "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html",
-        "date": "2026-10-31T09:00:35Z",
         "official": false
       }
     ]
