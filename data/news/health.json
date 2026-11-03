@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-03T11:10:34Z",
+  "run": "2026-11-03T11:20:33Z",
   "stats": {
     "fetched": 688,
-    "new": 3,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
