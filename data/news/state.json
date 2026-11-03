@@ -1273,7 +1273,9 @@
     "https://www.airliners.de/orix-aviation-schliesst-uebernahme-aerfin/91260": "2026-11-03T10:20:46Z",
     "https://avitrader.com/2026/11/03/honeywell-tests-thermal-response-module-at-equinix-data-centre/": "2026-11-03T10:40:36Z",
     "https://avitrader.com/2026/11/03/orix-aviation-completes-aerfin-acquisition/": "2026-11-03T10:40:36Z",
-    "https://www.aero.de/news-54080/Lufthansa-Chef-sieht-wenig-Chancen-fuer-Flottenwachstum.html": "2026-11-03T10:50:34Z"
+    "https://www.aero.de/news-54080/Lufthansa-Chef-sieht-wenig-Chancen-fuer-Flottenwachstum.html": "2026-11-03T10:50:34Z",
+    "https://www.aero.de/news-54081/Warschau-Modlin-nach-Drohung-gegen-LOT-Flug-gesperrt.html": "2026-11-03T11:01:06Z",
+    "https://www.air-journal.fr/2026-11-03-identification-biometrique-liata-mise-sur-one-id-pour-rendre-les-systemes-interoperables-5278579.html": "2026-11-03T11:01:06Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3310,7 +3312,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-02T14:50:49Z",
-      "updated": "2026-11-02T14:50:49Z",
+      "updated": "2026-11-03T11:01:24Z",
       "items": [
         {
           "id": "c5803e460aee3b90",
@@ -3320,6 +3322,15 @@
           "domain": "aero.de",
           "summary": "BUDAPEST - Ein Wizz Air-Flieger ist von London nach Sofia über Bosnien unterwegs. Dann erreicht eine Bombendrohung das Cockpit. Zwei Kampfjets eskortieren die Maschine daraufhin nach Budapest.",
           "published": "2026-11-02T14:46:02Z"
+        },
+        {
+          "id": "5f3365101141d2c4",
+          "feed": "aero.de",
+          "title": "Warschau-Modlin nach Drohung gegen LOT-Flug gesperrt",
+          "url": "https://www.aero.de/news-54081/Warschau-Modlin-nach-Drohung-gegen-LOT-Flug-gesperrt.html",
+          "domain": "aero.de",
+          "summary": "WARSCHAU - Eine Maschine aus London mit 181 Menschen an Bord muss wegen eines Bombenalarms auf einen kleineren Flughafen ausweichen. Nun rücken Spezialisten an.",
+          "published": "2026-11-03T10:57:10Z"
         }
       ],
       "story_id": null,
@@ -3730,6 +3741,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.852931
+    "2026-11": 0.853749
   }
 }
