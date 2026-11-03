@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T18:40:36Z",
+  "run": "2026-11-03T18:50:46Z",
   "stats": {
     "fetched": 690,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.0999,
+  "spend_month_usd": 1.1116,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -190,6 +190,12 @@
       "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
     },
     {
+      "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -302,12 +308,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491"
-    },
-    {
-      "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
     },
     {
       "dossier": "Lufthansa Group résultats T3 bénéfices efficacité",

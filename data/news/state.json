@@ -1336,7 +1336,8 @@
     "https://leehamnews.com/2026/11/03/open-comments-thread-week-of-november-2-2026/": "2026-11-03T18:10:46Z",
     "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026": "2026-11-03T18:20:38Z",
     "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304": "2026-11-03T18:20:38Z",
-    "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled": "2026-11-03T18:40:36Z"
+    "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled": "2026-11-03T18:40:36Z",
+    "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/": "2026-11-03T18:50:46Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3778,7 +3779,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-03T08:10:44Z",
-      "updated": "2026-11-03T08:40:55Z",
+      "updated": "2026-11-03T18:51:02Z",
       "items": [
         {
           "id": "eadd4313503ad45a",
@@ -3797,10 +3798,19 @@
           "domain": "aero.de",
           "summary": "KATHMANDU - Am Mount Everest kollidieren zwei Hubschrauber an einem Landeplatz und stürzten ab. Ein Mensch stirbt.",
           "published": "2026-11-03T08:39:49Z"
+        },
+        {
+          "id": "8de8bfa0629a8542",
+          "feed": "Simple Flying",
+          "title": "1 Dead, 2 Injured After 2 Helicopters Collide On Mount Everest",
+          "url": "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/",
+          "domain": "simpleflying.com",
+          "summary": "Two helicopters collided near Mount Everest during Nepal's peak trekking season, killing an Indian tourist and injuring passengers and pilots.",
+          "published": "2026-11-03T18:47:29Z"
         }
       ],
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
-      "written_count": 2
+      "written_count": 3
     },
     "c831c351f9c": {
       "id": "c831c351f9c",
@@ -4138,6 +4148,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.099894
+    "2026-11": 1.111604
   }
 }
