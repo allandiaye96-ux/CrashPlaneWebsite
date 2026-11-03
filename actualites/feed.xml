@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 05:20:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 05:31:04 +0000</lastBuildDate>
+  <item>
+    <title>Bangkok : l&#x27;aéroport de Suvarnabhumi vise un doublement de sa capacité passagers d&#x27;ici sept ans</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9/</guid>
+    <pubDate>Tue, 03 Nov 2026 05:31:04 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon aero.de, Suvarnabhumi, le plus grand aéroport de Thaïlande, doit doubler sa capacité annuelle d&#x27;accueil de passagers au cours des sept prochaines années.</description>
+  </item>
   <item>
     <title>Heathrow : le patron de Delta veut combattre la séparation d&#x27;avec Virgin Atlantic</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 31 Oct 2026 12:01:13 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Ryanair annule tous ses vols sur 19 liaisons supplémentaires au départ ou à destination du Royaume-Uni, tandis qu&#x27;Air Transat met fin à sa desserte de 7 destinations internationales.</description>
-  </item>
-  <item>
-    <title>COMAC : de nouvelles images montrent un démonstrateur du CE-25A, avion électrique de 19 places</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:10:53 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon Aero-News Network, de nouvelles photos semblent montrer un démonstrateur à taille réelle du CE-25A, avion tout électrique de 19 places développé par le constructeur chinois COMAC.</description>
   </item>
 </channel>
 </rss>

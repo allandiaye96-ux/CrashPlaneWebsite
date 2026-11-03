@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
+    "created": "2026-11-03T05:31:04Z",
+    "updated": "2026-11-03T05:31:04Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Bangkok : l'aéroport de Suvarnabhumi vise un doublement de sa capacité passagers d'ici sept ans",
+    "chapo": "Selon aero.de, Suvarnabhumi, le plus grand aéroport de Thaïlande, doit doubler sa capacité annuelle d'accueil de passagers au cours des sept prochaines années.",
+    "paragraphes": [
+      "D'après aero.de, ce projet d'extension d'envergure concerne la plateforme de Bangkok, présentée comme le premier aéroport du pays. L'objectif affiché est de multiplier par deux le nombre de passagers pouvant être accueillis chaque année, sur un horizon de sept ans."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Bangkok plant Mega-Ausbau seines Flughafens",
+        "url": "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html",
+        "date": "2026-11-03T05:26:27Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
     "created": "2026-11-03T04:10:53Z",
     "updated": "2026-11-03T04:10:53Z",

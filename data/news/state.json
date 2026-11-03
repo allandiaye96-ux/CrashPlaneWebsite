@@ -1226,7 +1226,9 @@
     "https://www.airliners.de/air-astana-ruestet-a321-lr-satelliten-wlan/91250": "2026-11-03T03:20:34Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years": "2026-11-03T04:01:00Z",
     "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/": "2026-11-03T04:10:34Z",
-    "https://www.airliners.de/icelease-laesst-boeing-767-300-frachter-umbauen/91252": "2026-11-03T05:20:33Z"
+    "https://www.airliners.de/icelease-laesst-boeing-767-300-frachter-umbauen/91252": "2026-11-03T05:20:33Z",
+    "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html": "2026-11-03T05:30:46Z",
+    "https://www.aero.de/news-54072/Klaeger-wollen-Ausbau-des-Flughafens-LeipzigHalle-stoppen.html": "2026-11-03T05:30:46Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3490,10 +3492,31 @@
       ],
       "story_id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
       "written_count": 1
+    },
+    "c60a1ad6fc9": {
+      "id": "c60a1ad6fc9",
+      "label": "Bangkok Suvarnabhumi extension capacité",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-03T05:31:01Z",
+      "updated": "2026-11-03T05:31:01Z",
+      "items": [
+        {
+          "id": "963f032ed94db55f",
+          "feed": "aero.de",
+          "title": "Bangkok plant Mega-Ausbau seines Flughafens",
+          "url": "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html",
+          "domain": "aero.de",
+          "summary": "BANGKOK - Thailands größter Flughafen Suvarnabhumi in Bangkok soll seine jährliche Passagierkapazität in den kommenden sieben Jahren verdoppeln.",
+          "published": "2026-11-03T05:26:27Z"
+        }
+      ],
+      "story_id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.692329
+    "2026-11": 0.700315
   }
 }
