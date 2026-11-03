@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T10:10:33Z",
+  "run": "2026-11-03T10:20:46Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 4,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.8261,
+  "spend_month_usd": 0.8401,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -266,6 +266,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
+    },
+    {
+      "dossier": "Lufthansa résultats T3 kérosène",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9"
     },
     {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
@@ -560,12 +566,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9"
-    },
-    {
-      "dossier": "Lufthansa résultats T3 kérosène",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9"
     },
     {
       "dossier": "Ryanair résultats semestriels S1 2026-2027",

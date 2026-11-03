@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
+    "created": "2026-11-03T06:10:56Z",
+    "updated": "2026-11-03T10:21:08Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa : bénéfice en hausse de 30 % au troisième trimestre malgré le kérosène, prévision annuelle abaissée",
+    "chapo": "Selon aero.de et airliners.de, Lufthansa a accru son bénéfice net au troisième trimestre malgré des coûts de carburant nettement plus élevés. Le groupe révise toutefois à la baisse sa prévision de bénéfice pour l'année.",
+    "paragraphes": [
+      "D'après aero.de, le groupe a absorbé la forte hausse du prix du kérosène grâce à des billets plus chers et à de bons résultats dans la maintenance et le fret. Les dépenses de carburant ont augmenté de plus d'une demi-milliard d'euros, mais le résultat net atteint près de 1,3 milliard d'euros, soit 30 % de plus qu'un an auparavant.",
+      "Selon airliners.de, ce résultat dépasse les attentes des analystes. La facture de kérosène s'élève à 9,3 milliards d'euros, et la compagnie abaisse à nouveau sa prévision pour l'ensemble de l'année. Le média précise qu'une division du groupe a triplé son résultat d'exploitation."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Lufthansa steigert Sommer-Gewinn trotz teuren Kerosins",
+        "url": "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html",
+        "date": "2026-11-03T06:06:03Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa steigert Quartalsgewinn trotz höherer Kerosinkosten – senkt Gewinnprognose erneut",
+        "url": "https://www.airliners.de/lufthansa-steigert-quartalsgewinn-trotz-hoeherer-kerosinkosten-gewinnprognose/91268",
+        "date": "2026-11-03T09:47:11Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
     "created": "2026-11-02T13:01:51Z",
     "updated": "2026-11-03T10:09:34Z",
@@ -297,38 +336,6 @@
         "title": "Ryanair : le bénéfice net semestriel recule de 15%, impacté par le doublement du prix du carburant non couvert",
         "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html",
         "date": "2026-11-03T06:02:48Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
-    "created": "2026-11-03T06:10:56Z",
-    "updated": "2026-11-03T06:10:56Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Lufthansa : bénéfice net en hausse de 30 % au troisième trimestre malgré la flambée du kérosène",
-    "chapo": "Selon aero.de, Lufthansa a absorbé la forte hausse des prix du kérosène au troisième trimestre grâce à des billets plus chers et à de bons résultats dans la maintenance et le fret.",
-    "paragraphes": [
-      "D'après aero.de, les dépenses de carburant du groupe ont augmenté de plus d'un demi-milliard d'euros sur la période. Le groupe de transport aérien a malgré tout dégagé un bénéfice net d'un peu moins de 1,3 milliard d'euros.",
-      "Ce résultat est supérieur de 30 % à celui du même trimestre un an plus tôt, toujours d'après le média allemand. Celui-ci attribue cette performance à la hausse des tarifs et à l'activité dans la maintenance et le fret."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Lufthansa steigert Sommer-Gewinn trotz teuren Kerosins",
-        "url": "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html",
-        "date": "2026-11-03T06:06:03Z",
         "official": false
       }
     ]
