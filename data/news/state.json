@@ -1243,7 +1243,10 @@
     "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche": "2026-11-03T08:10:31Z",
     "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html": "2026-11-03T08:10:31Z",
     "https://www.airliners.de/herbstferien-flughafen-hamburg-passagierzahlen-steigern/91258": "2026-11-03T08:20:35Z",
-    "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html": "2026-11-03T08:40:42Z"
+    "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html": "2026-11-03T08:40:42Z",
+    "https://simpleflying.com/delta-air-lines-18-hour-meal-pre-order-window-closest-departure-any-us-carrier/": "2026-11-03T09:01:03Z",
+    "https://www.aero.de/news-54078/Keine-Kurzarbeit-bei-Eurowings.html": "2026-11-03T09:01:03Z",
+    "https://www.air-journal.fr/2026-11-03-boeing-787-une-etude-chinoise-documente-lusure-prematuree-de-certaines-aubes-genx-5278655.html": "2026-11-03T09:01:03Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3597,10 +3600,31 @@
       ],
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
       "written_count": 2
+    },
+    "c831c351f9c": {
+      "id": "c831c351f9c",
+      "label": "Étude chinoise aubes GEnx Boeing 787",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-03T09:01:21Z",
+      "updated": "2026-11-03T09:01:21Z",
+      "items": [
+        {
+          "id": "223985b13cb9e59f",
+          "feed": "Air Journal",
+          "title": "Boeing 787 : une étude chinoise documente l’usure prématurée de certaines aubes GEnx",
+          "url": "https://www.air-journal.fr/2026-11-03-boeing-787-une-etude-chinoise-documente-lusure-prematuree-de-certaines-aubes-genx-5278655.html",
+          "domain": "air-journal.fr",
+          "summary": "Certaines aubes de turbine haute pression des moteurs GE GEnx-1B équipant le Boeing 787 peuvent présenter des fissures après environ 1 000 cycles de vol, selon une étude technique rapportée le 2 novembre par le South China Morning Post. Ces observations concernent des configurations précises de composants et éclairent un enjeu de maintenance : surveiller […]",
+          "published": "2026-11-03T09:00:31Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.778666
+    "2026-11": 0.779542
   }
 }
