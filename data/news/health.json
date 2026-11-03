@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T20:50:43Z",
+  "run": "2026-11-03T21:01:06Z",
   "stats": {
     "fetched": 691,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.1259,
+  "spend_month_usd": 1.1382,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -196,6 +196,12 @@
       "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
     },
     {
+      "dossier": "Lufthansa TAP participation contrat",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -314,12 +320,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86"
-    },
-    {
-      "dossier": "Lufthansa TAP participation contrat",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
+    "created": "2026-11-03T17:41:08Z",
+    "updated": "2026-11-03T21:01:27Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 3,
+    "titre": "Lufthansa signe le contrat d'entrée au capital de TAP Air Portugal à hauteur de 44,9 %",
+    "chapo": "Lufthansa Group et le gouvernement portugais ont signé l'accord d'entrée du groupe allemand au capital de TAP Air Portugal, selon airliners.de. Les premiers 44,9 % sont chiffrés à 1,025 milliard d'euros.",
+    "paragraphes": [
+      "Le contrat a été conclu entre Lufthansa et l'État portugais, indique aero.de. Dans un communiqué du groupe, Lufthansa présente cette signature comme une étape décisive du processus de privatisation de la compagnie nationale portugaise.",
+      "À plus long terme, Lisbonne doit devenir le septième hub du groupe, d'après airliners.de. Simple Flying évoque une transaction de 1,2 milliard de dollars et indique que Lufthansa vise aussi une croissance sur l'Amérique latine."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa Group unterzeichnet Vertrag über Einstieg bei Tap Air Portugal",
+        "url": "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304",
+        "date": "2026-11-03T17:24:00Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
+        "url": "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html",
+        "date": "2026-11-03T17:36:05Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "It's Official: Lufthansa Signs $1.2 Billion Deal To Purchase 44.9% Of TAP Air Portugal",
+        "url": "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/",
+        "date": "2026-11-03T20:52:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
     "created": "2026-11-03T20:20:57Z",
     "updated": "2026-11-03T20:20:57Z",
@@ -112,45 +158,6 @@
         "title": "American Airlines resumes Haiti flights two years after aircraft shootings",
         "url": "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026",
         "date": "2026-11-03T18:12:14Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-    "created": "2026-11-03T17:41:08Z",
-    "updated": "2026-11-03T18:20:54Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 3,
-    "titre": "Lufthansa Group signe le contrat d'entrée au capital de TAP Air Portugal",
-    "chapo": "Lufthansa et le gouvernement portugais ont signé le contrat de participation du groupe allemand dans la compagnie publique TAP, selon aero.de et airliners.de. Une étape décisive de la privatisation, d'après Lufthansa.",
-    "paragraphes": [
-      "D'après airliners.de, les premiers 44,9 % du capital de TAP Air Portugal donnent lieu à un paiement de 1,025 milliard d'euros. Le média indique que Lisbonne doit devenir, à long terme, le septième hub du groupe.",
-      "Selon aero.de, qui cite un communiqué de Lufthansa, la signature marque un jalon important dans le processus de privatisation de la compagnie portugaise."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Lufthansa Group unterzeichnet Vertrag über Einstieg bei Tap Air Portugal",
-        "url": "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304",
-        "date": "2026-11-03T17:24:00Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
-        "url": "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html",
-        "date": "2026-11-03T17:36:05Z",
         "official": false
       }
     ]

@@ -1354,7 +1354,8 @@
     "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/": "2026-11-03T20:20:41Z",
     "https://simpleflying.com/us-army-black-hawk-helicopter-struck-fireworks-dramatic-nfl-flyover/": "2026-11-03T20:20:41Z",
     "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability": "2026-11-03T20:20:41Z",
-    "https://simpleflying.com/united-airlines-launches-11-new-international-routes/": "2026-11-03T20:30:51Z"
+    "https://simpleflying.com/united-airlines-launches-11-new-international-routes/": "2026-11-03T20:30:51Z",
+    "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/": "2026-11-03T21:01:06Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4117,7 +4118,7 @@
       "categorie": "Compagnies",
       "importance": 3,
       "created": "2026-11-03T17:41:01Z",
-      "updated": "2026-11-03T18:20:50Z",
+      "updated": "2026-11-03T21:01:21Z",
       "items": [
         {
           "id": "8366b0f13e50f104",
@@ -4136,10 +4137,19 @@
           "domain": "airliners.de",
           "summary": "Die Lufthansa Group unterzeichnent den Vertrag zum Einstieg bei Tap Air Portugal. Für die ersten 44,9 Prozent sind 1,025 Milliarden Euro fällig. Lissabon soll langfristig das siebte Drehkreuz des Konzerns werden.",
           "published": "2026-11-03T17:24:00Z"
+        },
+        {
+          "id": "7d88968be9385963",
+          "feed": "Simple Flying",
+          "title": "It's Official: Lufthansa Signs $1.2 Billion Deal To Purchase 44.9% Of TAP Air Portugal",
+          "url": "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/",
+          "domain": "simpleflying.com",
+          "summary": "Lufthansa officially signs its TAP acquisition agreement, positioning Lisbon as its seventh hub and targeting Latin American growth.",
+          "published": "2026-11-03T20:52:16Z"
         }
       ],
       "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-      "written_count": 2
+      "written_count": 3
     },
     "c2917a949b1": {
       "id": "c2917a949b1",
@@ -4249,6 +4259,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.125918
+    "2026-11": 1.138239
   }
 }
