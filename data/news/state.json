@@ -1299,7 +1299,10 @@
     "https://www.aerotime.aero/articles/uk-france-military-exercise-poland-post-war-ukraine": "2026-11-03T14:01:05Z",
     "https://www.aerotime.aero/articles/germany-mbda-airborne-laser-weapon-demonstrator": "2026-11-03T14:01:05Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Travel-Demand-Propels-Middle-East-Fleet-to-Double-by-2045": "2026-11-03T14:01:05Z",
-    "https://www.air-journal.fr/2026-11-03-avec-orlando-tap-air-portugal-ouvre-une-deuxieme-porte-dentree-en-floride-5278662.html": "2026-11-03T14:01:05Z"
+    "https://www.air-journal.fr/2026-11-03-avec-orlando-tap-air-portugal-ouvre-une-deuxieme-porte-dentree-en-floride-5278662.html": "2026-11-03T14:01:05Z",
+    "https://simpleflying.com/multiple-separate-european-flights-face-bomb-threats/": "2026-11-03T14:10:34Z",
+    "https://simpleflying.com/delta-launches-4-new-nonstop-routes/": "2026-11-03T14:10:34Z",
+    "https://leehamnews.com/2026/11/03/chinas-comac-may-have-built-electric-aircraft-demonstrator/": "2026-11-03T14:10:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1824,7 +1827,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-10-30T08:01:15Z",
+      "updated": "2026-11-03T14:10:50Z",
       "items": [
         {
           "id": "fba8048c09b0dd9d",
@@ -1843,10 +1846,19 @@
           "domain": "aero.de",
           "summary": "SHANGHAI - CE-25A - hinter dem sperrigen Namen verbirgt sich ein neuer E-Flug-Demonstrator des chinesischen Herstellers Comac. Im Internet kursieren seit dieser Woche erste Aufnahmen des Flugzeugs. Der von Comac verfolgte Ansatz erinnert an das - seinerzeit nicht unumstrittene - Antriebsprinzip des Lilium Jet.",
           "published": "2026-10-30T07:57:41Z"
+        },
+        {
+          "id": "5a4b8647dacb47ee",
+          "feed": "Leeham News",
+          "title": "China’s Comac May Have Built Electric Aircraft Demonstrator",
+          "url": "https://leehamnews.com/2026/11/03/chinas-comac-may-have-built-electric-aircraft-demonstrator/",
+          "domain": "leehamnews.com",
+          "summary": "By Jennifer Meszaros • Contributing Writer November 3, 2026 Three years after Comac first displayed a model of its CE-25A electric aircraft, the Chinese airframer may have built the first full-scale example. Photos posted on the Weibo social... Read More The post China’s Comac May Have Built Electric Aircraft Demonstrator appeared first on Leeham News .",
+          "published": "2026-11-03T14:00:37Z"
         }
       ],
       "story_id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
-      "written_count": 2
+      "written_count": 3
     },
     "c61532f62a2": {
       "id": "c61532f62a2",
@@ -3849,6 +3861,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.977414
+    "2026-11": 0.997798
   }
 }

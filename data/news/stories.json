@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
+    "created": "2026-10-29T16:47:47Z",
+    "updated": "2026-11-03T14:10:58Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Comac prépare le CE-25A, un démonstrateur d'avion régional électrique, avant ses premiers essais en vol",
+    "chapo": "Selon airliners.de, le constructeur chinois Comac s'apprête à faire voler le CE-25A, un démonstrateur d'avion régional à propulsion électrique. Des images de l'appareil circulent sur les réseaux sociaux chinois.",
+    "paragraphes": [
+      "D'après airliners.de, c'est le blogueur automobile chinois Han Lu qui a rapporté l'information sur son site et publié des photos de l'appareil d'essai. Ces images circulent actuellement sur des réseaux en ligne chinois.",
+      "Aero.de relève que le principe retenu par Comac rappelle celui de l'Lilium Jet, qui avait suscité des débats à l'époque. Leeham News indique de son côté que Comac a présenté une maquette du CE-25A il y a trois ans et qu'il pourrait s'agir du premier exemplaire à échelle réelle, à partir de photos publiées sur le réseau social Weibo."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Comac bereitet Elektro-Regionalflugzeug auf Testflüge vor",
+        "url": "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201",
+        "date": "2026-10-29T16:26:26Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Comac greift mit der CE-25A den Lilium-Antrieb auf",
+        "url": "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html",
+        "date": "2026-10-30T07:57:41Z",
+        "official": false
+      },
+      {
+        "name": "Leeham News",
+        "title": "China’s Comac May Have Built Electric Aircraft Demonstrator",
+        "url": "https://leehamnews.com/2026/11/03/chinas-comac-may-have-built-electric-aircraft-demonstrator/",
+        "date": "2026-11-03T14:00:37Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
     "created": "2026-10-28T21:56:14Z",
     "updated": "2026-11-03T13:40:56Z",
@@ -2407,45 +2453,6 @@
         "title": "Airbus maintient ses objectifs malgré un ralentissement au troisième trimestre",
         "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html",
         "date": "2026-10-30T08:01:40Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
-    "created": "2026-10-29T16:47:47Z",
-    "updated": "2026-10-30T23:07:23Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Comac prépare les premiers vols d'essai du CE-25A, son démonstrateur d'avion régional électrique",
-    "chapo": "Le constructeur chinois Comac s'apprête à faire voler le CE-25A, un démonstrateur électrique, selon airliners.de. Des images de l'appareil circulent sur les réseaux chinois.",
-    "paragraphes": [
-      "D'après airliners.de, Comac travaille à rendre prêt pour ses premiers vols d'essai un démonstrateur d'avion régional à propulsion électrique, désigné CE-25A. L'information provient du blogueur automobile chinois Han Lu, qui a publié sur son site des photos de l'appareil, depuis largement relayées sur les réseaux en ligne chinois.",
-      "Selon aero.de, l'approche retenue par Comac rappelle le principe de propulsion de l'avion Lilium Jet, qui avait suscité des débats à l'époque. Les premières images du CE-25A circulent sur internet depuis la fin octobre."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Comac bereitet Elektro-Regionalflugzeug auf Testflüge vor",
-        "url": "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201",
-        "date": "2026-10-29T16:26:26Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Comac greift mit der CE-25A den Lilium-Antrieb auf",
-        "url": "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html",
-        "date": "2026-10-30T07:57:41Z",
         "official": false
       }
     ]

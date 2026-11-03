@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T14:01:05Z",
+  "run": "2026-11-03T14:10:34Z",
   "stats": {
     "fetched": 688,
-    "new": 4,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.9774,
+  "spend_month_usd": 0.9978,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -148,6 +148,12 @@
       "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
     },
     {
+      "dossier": "Comac CE-25A avion électrique essais",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
+    },
+    {
       "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
       "statut": "corrobore",
       "editeurs": 3,
@@ -212,12 +218,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1"
-    },
-    {
-      "dossier": "Comac CE-25A avion électrique essais",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
     },
     {
       "dossier": "airBaltic suppression postes pilotes et cabine",
