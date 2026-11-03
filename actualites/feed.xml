@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 11:50:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 12:01:34 +0000</lastBuildDate>
+  <item>
+    <title>British Airways supprime six routes en Boeing 787 au départ de Londres Heathrow</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e/</guid>
+    <pubDate>Tue, 03 Nov 2026 12:01:34 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, British Airways met fin à six routes exploitées en Boeing 787 depuis l&#x27;aéroport de Londres Heathrow.</description>
+  </item>
   <item>
     <title>Lufthansa Group affiche des bénéfices au troisième trimestre, aidé par ses mesures d&#x27;efficacité</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86/</link>
@@ -104,12 +112,12 @@
     <description>Selon Australian Aviation, des données de clients de Qantas pourraient avoir été exposées à la suite d&#x27;un piratage visant Amadeus, prestataire de nombreuses compagnies aériennes.</description>
   </item>
   <item>
-    <title>NetJets prévoit d&#x27;agrandir son siège mondial de Columbus, avec 800 emplois supplémentaires</title>
+    <title>NetJets prévoit d&#x27;agrandir son siège mondial de Columbus et de créer 800 emplois</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a/</link>
     <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a/</guid>
     <pubDate>Mon, 02 Nov 2026 20:01:23 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon AeroTime, NetJets envisage d&#x27;étendre son siège mondial de Columbus, dans l&#x27;Ohio, de plus de 365 000 square feet. Le projet s&#x27;accompagnerait de la création de 800 emplois supplémentaires.</description>
+    <description>NetJets projette d&#x27;étendre son siège mondial de Columbus, dans l&#x27;Ohio, de plus de 365 000 square feet, selon AeroTime. Le projet s&#x27;accompagne de 800 emplois supplémentaires.</description>
   </item>
   <item>
     <title>Ryanair envisage gel des salaires et hausse des tarifs face à la flambée du prix du kérosène</title>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 05:01:20 +0000</pubDate>
     <category>Compagnies</category>
     <description>Pakistan International Airlines a accueilli son premier Boeing 787-9 Dreamliner à Islamabad, le 1er novembre 2026, selon AeroTime et Air Journal. D&#x27;après Air Journal, l&#x27;appareil est exploité pour le compte de la compagnie par Norse Atlantic Airways.</description>
-  </item>
-  <item>
-    <title>Learjet 60 : neuf morts dans un accident en Floride, le NTSB envoie une équipe sur place</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb/</guid>
-    <pubDate>Sun, 01 Nov 2026 22:01:32 +0000</pubDate>
-    <category>Accident</category>
-    <description>Un Learjet 60 s&#x27;est écrasé le 1er novembre près de West Palm Beach, en Floride, avec neuf personnes à bord, selon Flightradar24. D&#x27;après Aero-News Network, aucun occupant n&#x27;a survécu.</description>
   </item>
 </channel>
 </rss>

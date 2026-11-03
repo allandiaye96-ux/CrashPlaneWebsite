@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T11:50:35Z",
+  "run": "2026-11-03T12:01:02Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 5,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.8651,
+  "spend_month_usd": 0.8934,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -260,6 +260,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7"
+    },
+    {
+      "dossier": "NetJets extension siège Columbus",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a"
     },
     {
       "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
@@ -532,12 +538,6 @@
       "breve": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0"
     },
     {
-      "dossier": "NetJets extension siège Columbus",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a"
-    },
-    {
       "dossier": "Amadeus fuite données Qantas",
       "statut": "source_unique",
       "editeurs": 1,
@@ -590,6 +590,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86"
+    },
+    {
+      "dossier": "BA retire 6 routes 787 Heathrow",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
     },
     {
       "dossier": "Vente de missiles Patriot à l'Ukraine",

@@ -1278,7 +1278,12 @@
     "https://www.air-journal.fr/2026-11-03-identification-biometrique-liata-mise-sur-one-id-pour-rendre-les-systemes-interoperables-5278579.html": "2026-11-03T11:01:06Z",
     "https://www.aerotime.aero/articles/saab-in-house-ai-gripen-e-flight-tests": "2026-11-03T11:10:34Z",
     "https://www.aerotime.aero/articles/lufthansa-groups-third-quarter-profits-2026": "2026-11-03T11:10:34Z",
-    "https://www.aero.de/news-54082/Merz-Berliner-Flughafenpolitik-miserabel-schlecht.html": "2026-11-03T11:10:34Z"
+    "https://www.aero.de/news-54082/Merz-Berliner-Flughafenpolitik-miserabel-schlecht.html": "2026-11-03T11:10:34Z",
+    "https://simpleflying.com/british-airways-axes-6-boeing-787-routes-from-heathrow/": "2026-11-03T12:01:02Z",
+    "https://simpleflying.com/united-airlines-threw-away-damaged-25-year-old-airbus-a320-repaired-fueselage-wrinkled-boeing-767-older/": "2026-11-03T12:01:02Z",
+    "https://avitrader.com/2026/11/03/avolon-launches-us1-4bn-aircraft-leasing-venture-constellation/": "2026-11-03T12:01:02Z",
+    "https://www.aero.de/news-54083/ITA-Airways-durchkreuzt-Lima-Plaene-von-Emirates.html": "2026-11-03T12:01:02Z",
+    "https://www.air-journal.fr/2026-11-03-je-sais-que-cest-lui-lidiot-le-patron-de-ryanair-relance-sa-querelle-avec-elon-musk-5278659.html": "2026-11-03T12:01:02Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3396,7 +3401,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-02T20:01:19Z",
-      "updated": "2026-11-02T20:01:19Z",
+      "updated": "2026-11-03T12:01:20Z",
       "items": [
         {
           "id": "f678616e185999ff",
@@ -3406,10 +3411,19 @@
           "domain": "aerotime.aero",
           "summary": "NetJets plans to expand its global headquarters in Columbus, Ohio, by more than 365,000 square feet and grow… The post NetJets plans major headquarters expansion, 800 additional jobs appeared first on AeroTime .",
           "published": "2026-11-02T19:40:18Z"
+        },
+        {
+          "id": "50fbaef6a7f1e1c1",
+          "feed": "AviTrader",
+          "title": "Avolon launches US$1.4bn aircraft leasing venture ‘Constellation’",
+          "url": "https://avitrader.com/2026/11/03/avolon-launches-us1-4bn-aircraft-leasing-venture-constellation/",
+          "domain": "avitrader.com",
+          "summary": "Avolon has agreed to establish Constellation Aviation (Constellation), a new aircraft leasing investment platform, through a joint venture with infrastructure investor I Squared Capital and a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA). The platform will combine long-term institutional capital with Avolon’s aircraft leasing expertise, providing airlines with access to fleet capacity […] The post Avolon launches US$1.4bn aircraft leasing venture ‘Constellation’ appeared first on AviTrader Aviation News .",
+          "published": "2026-11-03T11:52:33Z"
         }
       ],
       "story_id": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a",
-      "written_count": 1
+      "written_count": 2
     },
     "cf8aca91140": {
       "id": "cf8aca91140",
@@ -3782,10 +3796,31 @@
       ],
       "story_id": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86",
       "written_count": 1
+    },
+    "c74b46cf28e": {
+      "id": "c74b46cf28e",
+      "label": "BA retire 6 routes 787 Heathrow",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T12:01:20Z",
+      "updated": "2026-11-03T12:01:20Z",
+      "items": [
+        {
+          "id": "2da38eaecba8c32d",
+          "feed": "Simple Flying",
+          "title": "British Airways Axes 6 Boeing 787 Routes From Heathrow: See Full List Now",
+          "url": "https://simpleflying.com/british-airways-axes-6-boeing-787-routes-from-heathrow/",
+          "domain": "simpleflying.com",
+          "summary": "Five ended earlier this year, while one will do so later this month. Find out more here!",
+          "published": "2026-11-03T12:00:18Z"
+        }
+      ],
+      "story_id": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.865063
+    "2026-11": 0.89344
   }
 }

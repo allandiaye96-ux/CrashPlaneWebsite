@@ -1,5 +1,75 @@
 [
   {
+    "id": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e",
+    "created": "2026-11-03T12:01:34Z",
+    "updated": "2026-11-03T12:01:34Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "British Airways supprime six routes en Boeing 787 au départ de Londres Heathrow",
+    "chapo": "Selon Simple Flying, British Airways met fin à six routes exploitées en Boeing 787 depuis l'aéroport de Londres Heathrow.",
+    "paragraphes": [
+      "D'après le média spécialisé, cinq de ces liaisons ont déjà été arrêtées, tandis que la sixième doit cesser à une échéance ultérieure. Simple Flying présente dans son article la liste complète des routes concernées."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "British Airways Axes 6 Boeing 787 Routes From Heathrow: See Full List Now",
+        "url": "https://simpleflying.com/british-airways-axes-6-boeing-787-routes-from-heathrow/",
+        "date": "2026-11-03T12:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a",
+    "created": "2026-11-02T20:01:23Z",
+    "updated": "2026-11-03T12:01:28Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "NetJets prévoit d'agrandir son siège mondial de Columbus et de créer 800 emplois",
+    "chapo": "NetJets projette d'étendre son siège mondial de Columbus, dans l'Ohio, de plus de 365 000 square feet, selon AeroTime. Le projet s'accompagne de 800 emplois supplémentaires.",
+    "paragraphes": [
+      "D'après AeroTime, l'extension porte sur plus de 365 000 square feet et concerne le siège mondial de la compagnie, installé à Columbus, dans l'Ohio.",
+      "Le projet doit aussi se traduire par la création de 800 emplois supplémentaires."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "NetJets plans major headquarters expansion, 800 additional jobs",
+        "url": "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs",
+        "date": "2026-11-02T19:40:18Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Avolon launches US$1.4bn aircraft leasing venture ‘Constellation’",
+        "url": "https://avitrader.com/2026/11/03/avolon-launches-us1-4bn-aircraft-leasing-venture-constellation/",
+        "date": "2026-11-03T11:52:33Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86",
     "created": "2026-11-03T11:10:57Z",
     "updated": "2026-11-03T11:10:57Z",
@@ -569,38 +639,6 @@
         "title": "Qantas customer data possibly exposed in Amadeus hack",
         "url": "https://australianaviation.com.au/2026/11/qantas-customer-data-possibly-exposed-in-amadeus-hack/",
         "date": "2026-11-02T05:16:08Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a",
-    "created": "2026-11-02T20:01:23Z",
-    "updated": "2026-11-02T20:01:23Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "NetJets prévoit d'agrandir son siège mondial de Columbus, avec 800 emplois supplémentaires",
-    "chapo": "Selon AeroTime, NetJets envisage d'étendre son siège mondial de Columbus, dans l'Ohio, de plus de 365 000 square feet. Le projet s'accompagnerait de la création de 800 emplois supplémentaires.",
-    "paragraphes": [
-      "D'après AeroTime, la compagnie d'aviation d'affaires prévoit un agrandissement de plus de 365 000 square feet de son siège mondial, situé à Columbus, dans l'Ohio.",
-      "Cette extension irait de pair avec une hausse des effectifs : 800 emplois supplémentaires sont annoncés dans le titre de l'article."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "NetJets plans major headquarters expansion, 800 additional jobs",
-        "url": "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs",
-        "date": "2026-11-02T19:40:18Z",
         "official": false
       }
     ]
