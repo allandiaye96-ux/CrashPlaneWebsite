@@ -1350,7 +1350,10 @@
     "https://australianaviation.com.au/2026/11/amadeus-hack-a-warning-for-australias-cybersecurity-expert/": "2026-11-03T20:01:16Z",
     "https://australianaviation.com.au/2026/11/wa-helicopter-operator-grounded-over-serious-safety-concerns/": "2026-11-03T20:01:16Z",
     "https://australianaviation.com.au/2026/11/investment-nsw-will-not-exhibit-at-avalon-2027/": "2026-11-03T20:01:16Z",
-    "https://www.flightradar24.com/blog/aviation-news/runway-construction-wreaks-havoc-on-buenos-aires-international-network/": "2026-11-03T20:10:39Z"
+    "https://www.flightradar24.com/blog/aviation-news/runway-construction-wreaks-havoc-on-buenos-aires-international-network/": "2026-11-03T20:10:39Z",
+    "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/": "2026-11-03T20:20:41Z",
+    "https://simpleflying.com/us-army-black-hawk-helicopter-struck-fireworks-dramatic-nfl-flyover/": "2026-11-03T20:20:41Z",
+    "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability": "2026-11-03T20:20:41Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4220,10 +4223,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c446f5897cf": {
+      "id": "c446f5897cf",
+      "label": "Air India nouveaux gros-porteurs nouveau CEO",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T20:20:54Z",
+      "updated": "2026-11-03T20:20:54Z",
+      "items": [
+        {
+          "id": "70eb715cf9368ea2",
+          "feed": "AeroTime",
+          "title": "Air India eyes more widebody jets as new CEO predicts return to profitability",
+          "url": "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability",
+          "domain": "aerotime.aero",
+          "summary": "Air India is considering additional widebody aircraft orders from Boeing and Airbus as its new CEO, Tewolde Gebremariam,… The post Air India eyes more widebody jets as new CEO predicts return to profitability appeared first on AeroTime .",
+          "published": "2026-11-03T19:24:40Z"
+        }
+      ],
+      "story_id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.116633
+    "2026-11": 1.125137
   }
 }

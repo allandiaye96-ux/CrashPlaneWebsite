@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 20:11:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 20:20:57 +0000</lastBuildDate>
+  <item>
+    <title>Air India envisage de nouvelles commandes de gros-porteurs auprès de Boeing et d&#x27;Airbus</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf/</guid>
+    <pubDate>Tue, 03 Nov 2026 20:20:57 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, Air India étudie de nouvelles commandes d&#x27;avions gros-porteurs auprès de Boeing et d&#x27;Airbus. Son nouveau directeur général, Tewolde Gebremariam, prévoit un retour à la rentabilité de la compagnie.</description>
+  </item>
   <item>
     <title>Lufthansa Group signe le contrat d&#x27;entrée au capital de TAP Air Portugal</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 12:40:53 +0000</pubDate>
     <category>Défense</category>
     <description>Selon The Aviationist, un Rafale M a effectué le 29 octobre 2026 son premier appontage à bord de l&#x27;INS Vikrant, bâtiment de la marine indienne construit dans le pays. Le Journal de l&#x27;Aviation indique que l&#x27;opération a réussi dès le premier essai.</description>
-  </item>
-  <item>
-    <title>Un steward de Lufthansa meurt dans un accident d&#x27;hôtel à Bengaluru, en Inde</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2/</guid>
-    <pubDate>Mon, 02 Nov 2026 10:20:58 +0000</pubDate>
-    <category>Accident</category>
-    <description>Selon airliners.de, un membre du personnel de cabine de Lufthansa est mort lors d&#x27;un accident survenu dans un hôtel de Bengaluru, où il effectuait une escale. Un autre client étranger a également perdu la vie.</description>
   </item>
 </channel>
 </rss>

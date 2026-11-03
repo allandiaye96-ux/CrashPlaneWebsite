@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
+    "created": "2026-11-03T20:20:57Z",
+    "updated": "2026-11-03T20:20:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air India envisage de nouvelles commandes de gros-porteurs auprès de Boeing et d'Airbus",
+    "chapo": "Selon AeroTime, Air India étudie de nouvelles commandes d'avions gros-porteurs auprès de Boeing et d'Airbus. Son nouveau directeur général, Tewolde Gebremariam, prévoit un retour à la rentabilité de la compagnie.",
+    "paragraphes": [
+      "La compagnie indienne envisage d'élargir sa flotte de gros-porteurs en passant des commandes supplémentaires auprès des deux grands constructeurs, Boeing et Airbus, d'après AeroTime.",
+      "Le nouveau patron d'Air India, Tewolde Gebremariam, anticipe par ailleurs que la compagnie redeviendra rentable."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Air India eyes more widebody jets as new CEO predicts return to profitability",
+        "url": "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability",
+        "date": "2026-11-03T19:24:40Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
     "created": "2026-11-03T08:40:59Z",
     "updated": "2026-11-03T18:51:07Z",
