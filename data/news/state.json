@@ -2606,27 +2606,6 @@
       "story_id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
       "written_count": 2
     },
-    "c00cffabc16": {
-      "id": "c00cffabc16",
-      "label": "Akasa Air 737 MAX talonnage Kolkata",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-01T13:40:46Z",
-      "updated": "2026-11-01T13:40:46Z",
-      "items": [
-        {
-          "id": "46f321870e47da72",
-          "feed": "AeroTime",
-          "title": "Akasa Air B737 MAX strikes runway during go-around in Kolkata",
-          "url": "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata",
-          "domain": "aerotime.aero",
-          "summary": "An Akasa Air Boeing 737 MAX 8 struck its tail on the runway during a go-around at Kolkata… The post Akasa Air B737 MAX strikes runway during go-around in Kolkata appeared first on AeroTime .",
-          "published": "2026-11-01T13:16:20Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ce6679d6005": {
       "id": "ce6679d6005",
       "label": "Jersey aéroport perturbations drones",

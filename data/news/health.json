@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-03T13:40:34Z",
+  "run": "2026-11-03T13:50:34Z",
   "stats": {
     "fetched": 688,
-    "new": 1,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -602,12 +602,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Akasa Air 737 MAX talonnage Kolkata",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Accord CATA UE-Qatar, polémique à Bruxelles",
