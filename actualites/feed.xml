@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 08:31:04 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 08:40:59 +0000</lastBuildDate>
+  <item>
+    <title>Népal : deux hélicoptères entrent en collision près de l&#x27;Everest, un passager tué et trois blessés</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de/</guid>
+    <pubDate>Tue, 03 Nov 2026 08:40:59 +0000</pubDate>
+    <category>Accident</category>
+    <description>Selon AeroTime, deux hélicoptères sont entrés en collision à l&#x27;atterrissage à Pheriche, près du mont Everest. Un passager a perdu la vie et trois personnes ont été blessées.</description>
+  </item>
   <item>
     <title>Airbus : Washington demande des précisions sur un prêt de 3 milliards d&#x27;euros de la BEI</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sun, 01 Nov 2026 19:31:26 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Southwest Airlines doit mettre en service son Boeing 737 MAX 7 en mars 2027. L&#x27;appareil proposerait 150 sièges, soit 13 de plus que les 737-700 de la compagnie.</description>
-  </item>
-  <item>
-    <title>Ryanair annonce un programme d&#x27;hiver 2026-2027 record au Maroc, avec 156 lignes et 17 nouveautés</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-01-ryanair-annonce-un-programme-d-hiver-2026-2027-record-au-mar-4488/</guid>
-    <pubDate>Sun, 01 Nov 2026 15:10:56 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, Ryanair met en place au Maroc son plus gros programme hivernal pour la saison 2026-2027. La compagnie irlandaise y proposera 5,3 millions de sièges répartis sur 156 lignes.</description>
   </item>
 </channel>
 </rss>

@@ -1242,7 +1242,8 @@
     "https://www.aero.de/news-54076/Hier-wartet-der-erste-Airbus-A220-300-auf-Lufthansa-City-Airlines.html": "2026-11-03T08:01:00Z",
     "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche": "2026-11-03T08:10:31Z",
     "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html": "2026-11-03T08:10:31Z",
-    "https://www.airliners.de/herbstferien-flughafen-hamburg-passagierzahlen-steigern/91258": "2026-11-03T08:20:35Z"
+    "https://www.airliners.de/herbstferien-flughafen-hamburg-passagierzahlen-steigern/91258": "2026-11-03T08:20:35Z",
+    "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html": "2026-11-03T08:40:42Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3571,9 +3572,9 @@
       "id": "c33d94ac6de",
       "label": "Collision d'hélicoptères près de l'Everest (Pheriche)",
       "categorie": "Accident",
-      "importance": 2,
+      "importance": 3,
       "created": "2026-11-03T08:10:44Z",
-      "updated": "2026-11-03T08:10:44Z",
+      "updated": "2026-11-03T08:40:55Z",
       "items": [
         {
           "id": "eadd4313503ad45a",
@@ -3583,14 +3584,23 @@
           "domain": "aerotime.aero",
           "summary": "A passenger was killed, and three people were injured when two helicopters collided while landing at the Pheriche… The post Two helicopters collide near Mount Everest, killing passenger appeared first on AeroTime .",
           "published": "2026-11-03T07:53:29Z"
+        },
+        {
+          "id": "09128a6705118c47",
+          "feed": "aero.de",
+          "title": "Hubschrauber kollidieren am Mount Everest",
+          "url": "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html",
+          "domain": "aero.de",
+          "summary": "KATHMANDU - Am Mount Everest kollidieren zwei Hubschrauber an einem Landeplatz und stürzten ab. Ein Mensch stirbt.",
+          "published": "2026-11-03T08:39:49Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.770273
+    "2026-11": 0.778666
   }
 }
