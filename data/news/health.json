@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T08:10:31Z",
+  "run": "2026-11-03T08:20:35Z",
   "stats": {
     "fetched": 688,
-    "new": 2,
-    "written": 1,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.7695,
+  "spend_month_usd": 0.7703,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -578,12 +578,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d"
-    },
-    {
-      "dossier": "United 757 mayday carburant San Francisco",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Vente de missiles Patriot à l'Ukraine",

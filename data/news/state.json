@@ -1241,7 +1241,8 @@
     "https://www.airbus.com/en/newsroom/stories/2026-11-where-the-a220-flies-opening-routes-others-cannot": "2026-11-03T08:01:00Z",
     "https://www.aero.de/news-54076/Hier-wartet-der-erste-Airbus-A220-300-auf-Lufthansa-City-Airlines.html": "2026-11-03T08:01:00Z",
     "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche": "2026-11-03T08:10:31Z",
-    "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html": "2026-11-03T08:10:31Z"
+    "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html": "2026-11-03T08:10:31Z",
+    "https://www.airliners.de/herbstferien-flughafen-hamburg-passagierzahlen-steigern/91258": "2026-11-03T08:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2543,27 +2544,6 @@
       "story_id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
       "written_count": 2
     },
-    "cd3c28b689a": {
-      "id": "cd3c28b689a",
-      "label": "United 757 mayday carburant San Francisco",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-01T08:10:49Z",
-      "updated": "2026-11-01T08:10:49Z",
-      "items": [
-        {
-          "id": "ed3cfadf7767c7de",
-          "feed": "Simple Flying",
-          "title": "United Boeing 757 Declares Mayday As Fuel Runs Low After Aborted Landing At San Francisco",
-          "url": "https://simpleflying.com/united-airlines-boeing-757-mayday-low-fuel-san-francisco/",
-          "domain": "simpleflying.com",
-          "summary": "An unstable approach forced the 757 into a go-around with low fuel remaining.",
-          "published": "2026-11-01T08:06:16Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c5ed4f7454d": {
       "id": "c5ed4f7454d",
       "label": "Vente de missiles Patriot à l'Ukraine",
@@ -3611,6 +3591,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.769469
+    "2026-11": 0.770273
   }
 }
