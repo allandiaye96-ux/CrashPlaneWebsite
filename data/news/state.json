@@ -2589,27 +2589,6 @@
       "story_id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
       "written_count": 2
     },
-    "c5ed4f7454d": {
-      "id": "c5ed4f7454d",
-      "label": "Vente de missiles Patriot à l'Ukraine",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-01T12:40:49Z",
-      "updated": "2026-11-01T12:40:49Z",
-      "items": [
-        {
-          "id": "b733a7565e2aa3ce",
-          "feed": "AeroTime",
-          "title": "US approves potential $2.1 billion sale of 500 Patriot missiles to Ukraine",
-          "url": "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine",
-          "domain": "aerotime.aero",
-          "summary": "The US State Department has approved a potential sale of 500 Patriot PAC-3 MSE interceptors to Ukraine, with… The post US approves potential $2.1 billion sale of 500 Patriot missiles to Ukraine appeared first on AeroTime .",
-          "published": "2026-11-01T12:24:46Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c00cffabc16": {
       "id": "c00cffabc16",
       "label": "Akasa Air 737 MAX talonnage Kolkata",
