@@ -1,5 +1,101 @@
 [
   {
+    "id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
+    "created": "2026-11-03T14:21:04Z",
+    "updated": "2026-11-03T14:21:04Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air India envisage d'augmenter sa commande d'avions gros-porteurs pour croître à l'international",
+    "chapo": "Selon airliners.de, Air India souhaite étoffer une commande d'avions gros-porteurs afin de se développer à l'international. Le nombre d'appareils visés n'a pas été précisé.",
+    "paragraphes": [
+      "D'après airliners.de, des discussions seraient en cours avec les deux grands constructeurs, selon des sources proches du dossier.",
+      "Le directeur général de la compagnie n'a pas indiqué combien d'avions pourraient s'ajouter à la commande."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Air India will Bestellung von Großraumflugzeugen aufstocken",
+        "url": "https://www.airliners.de/air-india-bestellung-grossraumflugzeuge-aufstocken/91274",
+        "date": "2026-11-03T13:45:57Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-delta-conteste-son-transfert-force-vers-le-terminal-4-de-lon-666b",
+    "created": "2026-11-03T14:21:01Z",
+    "updated": "2026-11-03T14:21:01Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Delta conteste son transfert forcé vers le terminal 4 de Londres-Heathrow",
+    "chapo": "Selon airliners.de, Delta Air Lines s'oppose à la décision de l'aéroport de Londres-Heathrow de déplacer ses opérations vers le terminal 4. La compagnie partage actuellement un terminal avec Virgin Atlantic.",
+    "paragraphes": [
+      "D'après le média allemand, la décision émane de l'aéroport de Londres-Heathrow et concerne l'activité de Delta, aujourd'hui installée dans le terminal qu'elle partage avec Virgin Atlantic.",
+      "Le directeur général de Delta, Ed Bastian, a qualifié ce transfert de « zutiefst enttäuschend » (profondément décevant) et défavorable aux clients des compagnies concernées, rapporte airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Delta wehrt sich gegen erzwungenen Umzug in Heathrows Terminal 4",
+        "url": "https://www.airliners.de/delta-wehrt-erzwungenen-umzug-heathrows-terminal-4/91275",
+        "date": "2026-11-03T13:46:35Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-bangkok-suvarnabhumi-la-thailande-prevoit-un-nouveau-termina-a095",
+    "created": "2026-11-03T14:20:57Z",
+    "updated": "2026-11-03T14:20:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Bangkok-Suvarnabhumi : la Thaïlande prévoit un nouveau terminal et une quatrième piste",
+    "chapo": "Selon airliners.de, la Thaïlande projette de doubler en sept ans la capacité de Bangkok-Suvarnabhumi, son plus grand aéroport, avec un nouveau terminal et une quatrième piste.",
+    "paragraphes": [
+      "D'après airliners.de, cette extension doit permettre à la plateforme de rejoindre le groupe des aéroports les plus fréquentés au monde. L'objectif est un doublement de sa capacité dans un délai de sept ans.",
+      "Le média allemand indique par ailleurs que le budget d'agrandissement prévu pour le second aéroport de Bangkok est lui aussi nettement relevé."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Thailand plant neues Terminal und vierte Bahn für Bangkok-Suvarnabhumi",
+        "url": "https://www.airliners.de/thailand-plant-terminal-vierte-bahn-bangkok-suvarnabhumi/91276",
+        "date": "2026-11-03T13:47:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
     "created": "2026-10-29T16:47:47Z",
     "updated": "2026-11-03T14:10:58Z",

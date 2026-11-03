@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T14:10:34Z",
+  "run": "2026-11-03T14:20:36Z",
   "stats": {
     "fetched": 688,
-    "new": 3,
-    "written": 1,
+    "new": 5,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.9978,
+  "spend_month_usd": 1.0213,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -604,6 +604,24 @@
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
     },
     {
+      "dossier": "Bangkok Suvarnabhumi plan extension terminal et quatrième piste",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-bangkok-suvarnabhumi-la-thailande-prevoit-un-nouveau-termina-a095"
+    },
+    {
+      "dossier": "Delta contre déménagement Heathrow T4",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-delta-conteste-son-transfert-force-vers-le-terminal-4-de-lon-666b"
+    },
+    {
+      "dossier": "Air India commande gros-porteurs supplémentaire",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
+    },
+    {
       "dossier": "Accord CATA UE-Qatar, polémique à Bruxelles",
       "statut": "signale",
       "editeurs": 1,
@@ -665,6 +683,12 @@
     },
     {
       "dossier": "Saab IA agents Gripen E essais en vol",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Airbus Aliaca VTOL qualifié Marine nationale",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
