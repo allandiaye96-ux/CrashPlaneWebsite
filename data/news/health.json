@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T15:10:38Z",
+  "run": "2026-11-03T15:20:40Z",
   "stats": {
     "fetched": 688,
-    "new": 1,
+    "new": 6,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.0353,
+  "spend_month_usd": 1.0502,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -178,6 +178,12 @@
       "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
     },
     {
+      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -272,12 +278,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a"
-    },
-    {
-      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
     },
     {
       "dossier": "Lufthansa résultats T3 kérosène",
@@ -689,6 +689,12 @@
     },
     {
       "dossier": "Airbus Aliaca VTOL qualifié Marine nationale",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Suède reçoit missiles Taurus pour Gripen",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

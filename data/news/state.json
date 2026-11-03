@@ -1309,7 +1309,13 @@
     "https://www.airliners.de/air-india-bestellung-grossraumflugzeuge-aufstocken/91274": "2026-11-03T14:20:36Z",
     "https://www.airliners.de/frueherer-china-eastern-vorsitzender-korruption-14-jahre-haft/91277": "2026-11-03T14:20:36Z",
     "https://simpleflying.com/easyjet-launches-7-new-uk-routes-3-days/": "2026-11-03T14:40:33Z",
-    "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html": "2026-11-03T15:10:38Z"
+    "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html": "2026-11-03T15:10:38Z",
+    "https://www.aerotime.aero/articles/sweden-receives-taurus-missiles-germany-gripen": "2026-11-03T15:20:40Z",
+    "https://www.airliners.de/wizz-air-steigert-passagierzahlen-oktober-deutlich/91288": "2026-11-03T15:20:40Z",
+    "https://www.airliners.de/ryanair-fliegt-2027-alicante-malaga-paderbornlippstadt/91292": "2026-11-03T15:20:40Z",
+    "https://www.airliners.de/lufthansa-erwaegt-premium-economy-groessere-business-class/91285": "2026-11-03T15:20:40Z",
+    "https://www.airliners.de/ryanair-passagierzahlen-oktober-steigern/91278": "2026-11-03T15:20:40Z",
+    "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282": "2026-11-03T15:20:40Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3460,7 +3466,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-02T20:01:19Z",
-      "updated": "2026-11-03T05:40:54Z",
+      "updated": "2026-11-03T15:20:58Z",
       "items": [
         {
           "id": "08944c7cc476d795",
@@ -3479,10 +3485,19 @@
           "domain": "aero.de",
           "summary": "WEST PALM BEACH - \"Wie eine herabstürzende Rakete\": Ein Privatflugzeug startet in Texas und nimmt Kurs auf die Bahamas. Doch über einer befahrenen Straße in Florida stürzt die Maschine plötzlich ab.",
           "published": "2026-11-03T05:31:52Z"
+        },
+        {
+          "id": "c236d95bd547b056",
+          "feed": "airliners.de",
+          "title": "NTSB: Learjet 60 könnte vor Absturz in Florida auseinandergebrochen sein",
+          "url": "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282",
+          "domain": "airliners.de",
+          "summary": "Beim Absturz eines Learjet 60 in einem Wohngebiet in Florida sind alle neun Menschen an Bord ums Leben gekommen. Die US-Verkehrssicherheitsbehörde NTSB hat Hinweise darauf, dass der Privatjet schon vor dem Aufprall auseinandergebrochen ist. Kurz zuvor hatten die Piloten Eis gemeldet.",
+          "published": "2026-11-03T14:19:25Z"
         }
       ],
       "story_id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
-      "written_count": 2
+      "written_count": 3
     },
     "cedf40f0714": {
       "id": "cedf40f0714",
@@ -3957,10 +3972,31 @@
       ],
       "story_id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
       "written_count": 1
+    },
+    "c4c723ad51a": {
+      "id": "c4c723ad51a",
+      "label": "Suède reçoit missiles Taurus pour Gripen",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-03T15:20:58Z",
+      "updated": "2026-11-03T15:20:58Z",
+      "items": [
+        {
+          "id": "c576991dfb7b35ea",
+          "feed": "AeroTime",
+          "title": "Sweden receives Taurus missiles from Germany for Gripen deep strikes",
+          "url": "https://www.aerotime.aero/articles/sweden-receives-taurus-missiles-germany-gripen",
+          "domain": "aerotime.aero",
+          "summary": "Sweden has taken delivery of Taurus KEPD 350 long-range cruise missiles purchased from German military stocks, bringing its… The post Sweden receives Taurus missiles from Germany for Gripen deep strikes appeared first on AeroTime .",
+          "published": "2026-11-03T14:32:44Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.035256
+    "2026-11": 1.05024
   }
 }
