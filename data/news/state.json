@@ -1233,7 +1233,9 @@
     "https://simpleflying.com/how-much-boeing-747-8-pilots-make-2026/": "2026-11-03T06:01:04Z",
     "https://www.air-journal.fr/2026-11-03-rome-bologne-bagdad-eurowings-elargit-ses-horizons-depuis-berlin-5278652.html": "2026-11-03T06:01:04Z",
     "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html": "2026-11-03T06:10:35Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html": "2026-11-03T06:10:35Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html": "2026-11-03T06:10:35Z",
+    "https://www.airliners.de/wirtschaft-finanzen-spohr-haelt-sparkurs-fest-gate-of-the-future-bremen-erwaegt-schliessung-terminal-2/91262": "2026-11-03T06:20:39Z",
+    "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255": "2026-11-03T06:20:39Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3569,10 +3571,31 @@
       ],
       "story_id": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae",
       "written_count": 1
+    },
+    "c45e860d491": {
+      "id": "c45e860d491",
+      "label": "Avolon lance la plateforme Constellation Aviation",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T06:20:56Z",
+      "updated": "2026-11-03T06:20:56Z",
+      "items": [
+        {
+          "id": "ed85fb7cb2d793f3",
+          "feed": "airliners.de",
+          "title": "Avolon gründet Leasingplattform Constellation Aviation",
+          "url": "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255",
+          "domain": "airliners.de",
+          "summary": "Avolon hat mit dem Infrastrukturinvestor I Squared Capital und einer Tochter der Abu Dhabi Investment Authority (ADIA) die Leasingplattform Constellation Aviation gegründet. Sie soll von Avolon zum Start 22 Flugzeuge im Marktwert von 1,4 Milliarden US-Dollar (rund 1,25 Milliarden Euro) übernehmen, teilte der Leasinggeber mit.",
+          "published": "2026-11-03T05:21:00Z"
+        }
+      ],
+      "story_id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.734269
+    "2026-11": 0.742742
   }
 }

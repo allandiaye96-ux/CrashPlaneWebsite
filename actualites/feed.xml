@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 06:11:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 06:21:00 +0000</lastBuildDate>
+  <item>
+    <title>Avolon lance avec I Squared Capital et une filiale d&#x27;ADIA la plateforme de leasing Constellation Aviation</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491/</guid>
+    <pubDate>Tue, 03 Nov 2026 06:21:00 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, le loueur Avolon a fondé la plateforme de leasing Constellation Aviation avec le fonds d&#x27;infrastructure I Squared Capital et une filiale de l&#x27;Abu Dhabi Investment Authority (ADIA).</description>
+  </item>
   <item>
     <title>Ryanair : le bénéfice net du premier semestre 2026-2027 recule de 15%, pénalisé par le carburant</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sun, 01 Nov 2026 14:40:53 +0000</pubDate>
     <category>Incident</category>
     <description>Selon AeroTime, l&#x27;aéroport de Jersey a connu une deuxième soirée consécutive de perturbations, le samedi 31 octobre, après de nouveaux signalements d&#x27;activité de drones.</description>
-  </item>
-  <item>
-    <title>Aena : un résultat net en progression de 12,4 % sur neuf mois en 2026, porté par le trafic</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24/</guid>
-    <pubDate>Sat, 31 Oct 2026 14:01:19 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Selon Air Journal, le gestionnaire aéroportuaire espagnol Aena affiche pour les trois premiers trimestres de 2026 des résultats en hausse à deux chiffres, avec un trafic supérieur aux prévisions.</description>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
+    "created": "2026-11-03T06:21:00Z",
+    "updated": "2026-11-03T06:21:00Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Avolon lance avec I Squared Capital et une filiale d'ADIA la plateforme de leasing Constellation Aviation",
+    "chapo": "Selon airliners.de, le loueur Avolon a fondé la plateforme de leasing Constellation Aviation avec le fonds d'infrastructure I Squared Capital et une filiale de l'Abu Dhabi Investment Authority (ADIA).",
+    "paragraphes": [
+      "D'après le média allemand, la nouvelle structure doit reprendre auprès d'Avolon 22 avions dès son lancement. Leur valeur de marché est de 1,4 milliard de dollars américains, soit environ 1,25 milliard d'euros.",
+      "Ces informations proviennent d'une communication du loueur, rapportée par airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Avolon gründet Leasingplattform Constellation Aviation",
+        "url": "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255",
+        "date": "2026-11-03T05:21:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae",
     "created": "2026-11-03T06:11:02Z",
     "updated": "2026-11-03T06:11:02Z",

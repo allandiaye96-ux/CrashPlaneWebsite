@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T06:10:35Z",
+  "run": "2026-11-03T06:20:39Z",
   "stats": {
     "fetched": 688,
     "new": 2,
-    "written": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.7343,
+  "spend_month_usd": 0.7427,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -566,6 +566,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae"
+    },
+    {
+      "dossier": "Avolon lance la plateforme Constellation Aviation",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491"
     },
     {
       "dossier": "Air France programme hiver 2026-2027",
