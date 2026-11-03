@@ -1324,7 +1324,9 @@
     "https://www.airliners.de/austrian-airlines-steigert-operatives-ergebnis-dritten-quartal-18-prozent/91286": "2026-11-03T16:20:39Z",
     "https://www.airliners.de/swiss-haelt-ergebnis-trotz-teurem-kerosin-stabil/91291": "2026-11-03T16:20:39Z",
     "https://www.airliners.de/eurowings-gleicht-hoehere-kerosinkosten-ueber-ticketpreise/91299": "2026-11-03T16:20:39Z",
-    "https://www.airliners.de/brussels-airlines-erzielt-operatives-rekordergebnis-dritten-quartal/91280": "2026-11-03T16:20:39Z"
+    "https://www.airliners.de/brussels-airlines-erzielt-operatives-rekordergebnis-dritten-quartal/91280": "2026-11-03T16:20:39Z",
+    "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany": "2026-11-03T16:30:56Z",
+    "https://www.journal-aviation.com/leasing-et-financement/orix-aviation-finalise-lacquisition-daerfin-20261103.html": "2026-11-03T16:30:56Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4032,10 +4034,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ca1b3978a5e": {
+      "id": "ca1b3978a5e",
+      "label": "Laser aéroporté Luftwaffe avions de combat",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-03T16:31:13Z",
+      "updated": "2026-11-03T16:31:13Z",
+      "items": [
+        {
+          "id": "8f00c3241a19809b",
+          "feed": "The War Zone",
+          "title": "Airborne Laser Weapon For Tactical Aircraft Being Developed By Germany",
+          "url": "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany",
+          "domain": "twz.com",
+          "summary": "The new initiative aims to eventually equip Luftwaffe combat aircraft with a laser capable of shooting down drones and missiles. The post Airborne Laser Weapon For Tactical Aircraft Being Developed By Germany appeared first on TWZ .",
+          "published": "2026-11-03T16:29:54Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.061097
+    "2026-11": 1.061947
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T16:20:39Z",
+  "run": "2026-11-03T16:30:56Z",
   "stats": {
-    "fetched": 688,
-    "new": 7,
+    "fetched": 689,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.0611,
+  "spend_month_usd": 1.0619,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -701,6 +701,12 @@
     },
     {
       "dossier": "Menaces à la bombe compagnies européennes",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Laser aéroporté Luftwaffe avions de combat",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
