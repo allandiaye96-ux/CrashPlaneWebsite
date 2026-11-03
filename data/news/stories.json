@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
+    "created": "2026-11-03T04:10:53Z",
+    "updated": "2026-11-03T04:10:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Heathrow : le patron de Delta veut combattre la séparation d'avec Virgin Atlantic",
+    "chapo": "Selon Simple Flying, le directeur général de Delta Air Lines affirme qu'il s'opposera à la décision de Heathrow de séparer sa compagnie de Virgin Atlantic. Il qualifie ce choix de « short-sighted », c'est-à-dire à courte vue.",
+    "paragraphes": [
+      "D'après le média spécialisé, la réorganisation prévue à Heathrow suscite l'inquiétude de compagnies partenaires. Plusieurs transporteurs doivent en effet changer de terminal, ce qui pourrait fragmenter des opérations conjointes établies de longue date."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "\"Short-Sighted\": Delta CEO Vows To Fight Heathrow’s Move To Split It From Virgin Atlantic",
+        "url": "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/",
+        "date": "2026-11-03T04:02:40Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
     "created": "2026-11-03T00:40:52Z",
     "updated": "2026-11-03T00:40:52Z",

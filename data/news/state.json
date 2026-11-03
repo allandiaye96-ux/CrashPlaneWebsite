@@ -1224,7 +1224,8 @@
     "https://simpleflying.com/7-things-pilots-boeing-737-unique-jet-fly/": "2026-11-03T01:00:58Z",
     "https://simpleflying.com/60-percent-southwest-airlines-fliyrs-paying-to-upgrade-reveal-lcc-really-about/": "2026-11-03T02:50:42Z",
     "https://www.airliners.de/air-astana-ruestet-a321-lr-satelliten-wlan/91250": "2026-11-03T03:20:34Z",
-    "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years": "2026-11-03T04:01:00Z"
+    "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years": "2026-11-03T04:01:00Z",
+    "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/": "2026-11-03T04:10:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3467,10 +3468,31 @@
       ],
       "story_id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
       "written_count": 1
+    },
+    "c20e0f5920b": {
+      "id": "c20e0f5920b",
+      "label": "Delta vs Heathrow séparation Virgin Atlantic terminaux",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-03T04:10:47Z",
+      "updated": "2026-11-03T04:10:47Z",
+      "items": [
+        {
+          "id": "ce8796a1afb2ff12",
+          "feed": "Simple Flying",
+          "title": "\"Short-Sighted\": Delta CEO Vows To Fight Heathrow’s Move To Split It From Virgin Atlantic",
+          "url": "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/",
+          "domain": "simpleflying.com",
+          "summary": "Heathrow reshuffle unsettles partners as airlines face terminal moves that could fragment long standing joint operations.",
+          "published": "2026-11-03T04:02:40Z"
+        }
+      ],
+      "story_id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.679885
+    "2026-11": 0.691533
   }
 }

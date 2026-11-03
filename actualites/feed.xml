@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 04:01:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 04:10:53 +0000</lastBuildDate>
+  <item>
+    <title>Heathrow : le patron de Delta veut combattre la séparation d&#x27;avec Virgin Atlantic</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b/</guid>
+    <pubDate>Tue, 03 Nov 2026 04:10:53 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Simple Flying, le directeur général de Delta Air Lines affirme qu&#x27;il s&#x27;opposera à la décision de Heathrow de séparer sa compagnie de Virgin Atlantic. Il qualifie ce choix de « short-sighted », c&#x27;est-à-dire à courte vue.</description>
+  </item>
   <item>
     <title>American Airlines reprend ses vols vers Haïti après plus de deux ans, avec un équipage entièrement haïtien</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 31 Oct 2026 09:10:53 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon Aero-News Network, de nouvelles photos semblent montrer un démonstrateur à taille réelle du CE-25A, avion tout électrique de 19 places développé par le constructeur chinois COMAC.</description>
-  </item>
-  <item>
-    <title>Ebola : les États-Unis imposeront dès le 3 novembre 2026 une déclaration sanitaire aux voyageurs aériens</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:01:14 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>Selon Air Journal, les passagers de vols internationaux à destination des États-Unis devront attester qu&#x27;ils n&#x27;ont pas séjourné en République démocratique du Congo durant les 21 jours précédents. L&#x27;IATA juge le délai de mise en œuvre trop court, rapporte airliners.de.</description>
   </item>
 </channel>
 </rss>
