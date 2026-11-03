@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-03T21:50:40Z",
+  "run": "2026-11-03T22:01:05Z",
   "stats": {
-    "fetched": 691,
-    "new": 1,
+    "fetched": 661,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "ParseError: no element found: line 13, column 46"
     },
     "airliners.de": {
       "ok": true,
