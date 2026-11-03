@@ -1333,7 +1333,9 @@
     "https://simpleflying.com/how-american-united-airlines-turning-19-year-olds-zero-flight-hours-into-branded-pilots/": "2026-11-03T17:01:17Z",
     "https://simpleflying.com/cdc-ebola-declaration-us-bound-flights-crew-21-days/": "2026-11-03T17:40:43Z",
     "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html": "2026-11-03T17:40:43Z",
-    "https://leehamnews.com/2026/11/03/open-comments-thread-week-of-november-2-2026/": "2026-11-03T18:10:46Z"
+    "https://leehamnews.com/2026/11/03/open-comments-thread-week-of-november-2-2026/": "2026-11-03T18:10:46Z",
+    "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026": "2026-11-03T18:20:38Z",
+    "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304": "2026-11-03T18:20:38Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3574,7 +3576,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T00:40:47Z",
-      "updated": "2026-11-03T00:40:47Z",
+      "updated": "2026-11-03T18:20:50Z",
       "items": [
         {
           "id": "04d8ae578e66fa0b",
@@ -3584,10 +3586,19 @@
           "domain": "simpleflying.com",
           "summary": "Flights from the US to the country's capital are still restricted.",
           "published": "2026-11-03T00:31:33Z"
+        },
+        {
+          "id": "976dfb20065db6d9",
+          "feed": "AeroTime",
+          "title": "American Airlines resumes Haiti flights two years after aircraft shootings",
+          "url": "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026",
+          "domain": "aerotime.aero",
+          "summary": "American Airlines has resumed flights to Haiti for the first time in nearly two years, becoming the first… The post American Airlines resumes Haiti flights two years after aircraft shootings appeared first on AeroTime .",
+          "published": "2026-11-03T18:12:14Z"
         }
       ],
       "story_id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
-      "written_count": 1
+      "written_count": 2
     },
     "c20e0f5920b": {
       "id": "c20e0f5920b",
@@ -4076,9 +4087,9 @@
       "id": "ce9f17c97e0",
       "label": "Lufthansa TAP participation contrat",
       "categorie": "Compagnies",
-      "importance": 2,
+      "importance": 3,
       "created": "2026-11-03T17:41:01Z",
-      "updated": "2026-11-03T17:41:01Z",
+      "updated": "2026-11-03T18:20:50Z",
       "items": [
         {
           "id": "8366b0f13e50f104",
@@ -4088,14 +4099,23 @@
           "domain": "aero.de",
           "summary": "FRANKFURT - Die Lufthansa und die Regierung Portugals haben den Einstieg des deutschen Luftverkehrskonzerns bei der portugiesischen Staatsfluglinie TAP vertraglich unter Dach und Fach gebracht. \"Damit ist ein entscheidender Meilenstein im Privatisierungsverfahren von TAP erreicht\", heißt es in einer Lufthansa-Mitteilung.",
           "published": "2026-11-03T17:36:05Z"
+        },
+        {
+          "id": "b00edd5c25ff95fa",
+          "feed": "airliners.de",
+          "title": "Lufthansa Group unterzeichnet Vertrag über Einstieg bei Tap Air Portugal",
+          "url": "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304",
+          "domain": "airliners.de",
+          "summary": "Die Lufthansa Group unterzeichnent den Vertrag zum Einstieg bei Tap Air Portugal. Für die ersten 44,9 Prozent sind 1,025 Milliarden Euro fällig. Lissabon soll langfristig das siebte Drehkreuz des Konzerns werden.",
+          "published": "2026-11-03T17:24:00Z"
         }
       ],
       "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-      "written_count": 1
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.082288
+    "2026-11": 1.099091
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T18:10:46Z",
+  "run": "2026-11-03T18:20:38Z",
   "stats": {
     "fetched": 689,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.0823,
+  "spend_month_usd": 1.0991,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -280,6 +280,12 @@
       "breve": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a"
     },
     {
+      "dossier": "American Airlines reprise Port-au-Prince Haïti",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae"
+    },
+    {
       "dossier": "Delta vs Heathrow séparation Virgin Atlantic terminaux",
       "statut": "corrobore",
       "editeurs": 2,
@@ -308,6 +314,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86"
+    },
+    {
+      "dossier": "Lufthansa TAP participation contrat",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -574,12 +586,6 @@
       "breve": "2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810"
     },
     {
-      "dossier": "American Airlines reprise Port-au-Prince Haïti",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae"
-    },
-    {
       "dossier": "Bangkok Suvarnabhumi extension capacité",
       "statut": "source_unique",
       "editeurs": 1,
@@ -620,12 +626,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
-    },
-    {
-      "dossier": "Lufthansa TAP participation contrat",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
       "dossier": "Accord CATA UE-Qatar, polémique à Bruxelles",

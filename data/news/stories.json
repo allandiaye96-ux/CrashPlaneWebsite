@@ -1,27 +1,73 @@
 [
   {
-    "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-    "created": "2026-11-03T17:41:08Z",
-    "updated": "2026-11-03T17:41:08Z",
-    "version": 1,
+    "id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
+    "created": "2026-11-03T00:40:52Z",
+    "updated": "2026-11-03T18:20:57Z",
+    "version": 2,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Lufthansa et le Portugal signent le contrat d'entrée du groupe allemand au capital de TAP",
-    "chapo": "Selon aero.de, Lufthansa et le gouvernement portugais ont formalisé par contrat l'entrée du groupe allemand dans le capital de la compagnie publique TAP.",
+    "titre": "American Airlines reprend ses vols vers Haïti après plus de deux ans, avec un équipage entièrement haïtien",
+    "chapo": "Selon AeroTime, American Airlines a repris ses vols vers Haïti pour la première fois en près de deux ans, après des tirs sur des appareils. Simple Flying précise que la liaison ne dessert pas Port-au-Prince.",
     "paragraphes": [
-      "D'après aero.de, l'accord conclut juridiquement la participation du groupe de transport aérien allemand dans la compagnie nationale portugaise.",
-      "Lufthansa y voit, dans un communiqué cité par le média, une étape décisive dans le processus de privatisation de TAP."
+      "D'après AeroTime, la compagnie américaine redevient la première à relancer des vols vers le pays, environ deux ans après des tirs visant des avions. Simple Flying évoque un retour après plus de deux ans d'interruption.",
+      "Selon Simple Flying, le vol est assuré par un équipage entièrement haïtien. Le média souligne que les vols au départ des États-Unis vers la capitale, Port-au-Prince, restent soumis à des restrictions."
     ],
     "contradictions": "",
     "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
+      "status": "corrobore",
+      "independent_sources": 2,
       "official_source": false
     },
     "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Not Port-au-Prince: American Airlines Returns To Haiti After 2+ Years With All-Haitian Crew",
+        "url": "https://simpleflying.com/american-airlines-returns-haiti-2-hears-haitian-crew/",
+        "date": "2026-11-03T00:31:33Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "American Airlines resumes Haiti flights two years after aircraft shootings",
+        "url": "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026",
+        "date": "2026-11-03T18:12:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
+    "created": "2026-11-03T17:41:08Z",
+    "updated": "2026-11-03T18:20:54Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 3,
+    "titre": "Lufthansa Group signe le contrat d'entrée au capital de TAP Air Portugal",
+    "chapo": "Lufthansa et le gouvernement portugais ont signé le contrat de participation du groupe allemand dans la compagnie publique TAP, selon aero.de et airliners.de. Une étape décisive de la privatisation, d'après Lufthansa.",
+    "paragraphes": [
+      "D'après airliners.de, les premiers 44,9 % du capital de TAP Air Portugal donnent lieu à un paiement de 1,025 milliard d'euros. Le média indique que Lisbonne doit devenir, à long terme, le septième hub du groupe.",
+      "Selon aero.de, qui cite un communiqué de Lufthansa, la signature marque un jalon important dans le processus de privatisation de la compagnie portugaise."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa Group unterzeichnet Vertrag über Einstieg bei Tap Air Portugal",
+        "url": "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304",
+        "date": "2026-11-03T17:24:00Z",
+        "official": false
+      },
       {
         "name": "aero.de",
         "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
@@ -910,37 +956,6 @@
         "title": "Bangkok plant Mega-Ausbau seines Flughafens",
         "url": "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html",
         "date": "2026-11-03T05:26:27Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
-    "created": "2026-11-03T00:40:52Z",
-    "updated": "2026-11-03T00:40:52Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "American Airlines reprend ses vols vers Haïti après plus de deux ans, avec un équipage entièrement haïtien",
-    "chapo": "Selon Simple Flying, American Airlines revient en Haïti après plus de deux ans d'absence, avec un équipage entièrement haïtien. La destination desservie n'est pas Port-au-Prince.",
-    "paragraphes": [
-      "D'après le média spécialisé, cette reprise ne concerne pas la capitale haïtienne : les vols depuis les États-Unis vers Port-au-Prince restent soumis à des restrictions."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "Not Port-au-Prince: American Airlines Returns To Haiti After 2+ Years With All-Haitian Crew",
-        "url": "https://simpleflying.com/american-airlines-returns-haiti-2-hears-haitian-crew/",
-        "date": "2026-11-03T00:31:33Z",
         "official": false
       }
     ]
