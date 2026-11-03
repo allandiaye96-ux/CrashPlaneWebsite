@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-03T03:40:33Z",
+  "run": "2026-11-03T03:50:35Z",
   "stats": {
-    "fetched": 688,
+    "fetched": 683,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -78,8 +78,8 @@
       "items": 100
     },
     "Boeing – Communiqués": {
-      "ok": true,
-      "items": 5
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "aero.de": {
       "ok": true,
