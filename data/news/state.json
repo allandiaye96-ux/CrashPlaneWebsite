@@ -1229,7 +1229,9 @@
     "https://www.airliners.de/icelease-laesst-boeing-767-300-frachter-umbauen/91252": "2026-11-03T05:20:33Z",
     "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html": "2026-11-03T05:30:46Z",
     "https://www.aero.de/news-54072/Klaeger-wollen-Ausbau-des-Flughafens-LeipzigHalle-stoppen.html": "2026-11-03T05:30:46Z",
-    "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html": "2026-11-03T05:40:39Z"
+    "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html": "2026-11-03T05:40:39Z",
+    "https://simpleflying.com/how-much-boeing-747-8-pilots-make-2026/": "2026-11-03T06:01:04Z",
+    "https://www.air-journal.fr/2026-11-03-rome-bologne-bagdad-eurowings-elargit-ses-horizons-depuis-berlin-5278652.html": "2026-11-03T06:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3527,6 +3529,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.709076
+    "2026-11": 0.709912
   }
 }
