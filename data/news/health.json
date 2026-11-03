@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T06:50:38Z",
+  "run": "2026-11-03T07:01:01Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.7427,
+  "spend_month_usd": 0.7514,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -572,6 +572,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491"
+    },
+    {
+      "dossier": "Airbus prêt BEI 3 Md€ menace trêve commerciale US",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d"
     },
     {
       "dossier": "Air France programme hiver 2026-2027",

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d",
+    "created": "2026-11-03T07:01:28Z",
+    "updated": "2026-11-03T07:01:28Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus : Washington demande des précisions sur un prêt de 3 milliards d'euros de la BEI",
+    "chapo": "Selon Air Journal, les États-Unis réclament des explications sur un financement de 3 milliards d'euros accordé à Airbus par la Banque européenne d'investissement, au risque de fragiliser la trêve commerciale avec Bruxelles.",
+    "paragraphes": [
+      "D'après Air Journal, Washington soupçonne cette enveloppe, présentée comme un record, de fausser la concurrence avec Boeing. Les autorités américaines demandent des précisions sur les modalités de l'opération.",
+      "Airbus, de son côté, assure que le prêt a été conclu aux conditions du marché. Toujours selon le média, il est destiné à soutenir les investissements de l'avionneur européen."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Airbus : Washington menace la trêve commerciale pour un prêt européen de 3 milliards d’euros",
+        "url": "https://www.air-journal.fr/2026-11-03-airbus-washington-menace-la-treve-commerciale-pour-un-pret-europeen-de-3-milliards-deuros-5278651.html",
+        "date": "2026-11-03T07:00:17Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
     "created": "2026-11-03T06:21:00Z",
     "updated": "2026-11-03T06:21:00Z",

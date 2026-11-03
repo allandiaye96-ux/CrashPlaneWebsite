@@ -1235,7 +1235,8 @@
     "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html": "2026-11-03T06:10:35Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html": "2026-11-03T06:10:35Z",
     "https://www.airliners.de/wirtschaft-finanzen-spohr-haelt-sparkurs-fest-gate-of-the-future-bremen-erwaegt-schliessung-terminal-2/91262": "2026-11-03T06:20:39Z",
-    "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255": "2026-11-03T06:20:39Z"
+    "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255": "2026-11-03T06:20:39Z",
+    "https://www.air-journal.fr/2026-11-03-airbus-washington-menace-la-treve-commerciale-pour-un-pret-europeen-de-3-milliards-deuros-5278651.html": "2026-11-03T07:01:01Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3592,10 +3593,31 @@
       ],
       "story_id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
       "written_count": 1
+    },
+    "cc149c1301d": {
+      "id": "cc149c1301d",
+      "label": "Airbus prêt BEI 3 Md€ menace trêve commerciale US",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-03T07:01:18Z",
+      "updated": "2026-11-03T07:01:18Z",
+      "items": [
+        {
+          "id": "619262af420a997e",
+          "feed": "Air Journal",
+          "title": "Airbus : Washington menace la trêve commerciale pour un prêt européen de 3 milliards d’euros",
+          "url": "https://www.air-journal.fr/2026-11-03-airbus-washington-menace-la-treve-commerciale-pour-un-pret-europeen-de-3-milliards-deuros-5278651.html",
+          "domain": "air-journal.fr",
+          "summary": "Le financement accordé par la Banque européenne d’investissement à Airbus menace-t-il la trêve commerciale entre Washington et Bruxelles ? Les États-Unis réclament des précisions sur cette enveloppe record de 3 milliards d’euros, soupçonnée de fausser la concurrence avec Boeing. L’avionneur européen défend une opération réalisée aux conditions du marché, destinée à soutenir ses investissements de […]",
+          "published": "2026-11-03T07:00:17Z"
+        }
+      ],
+      "story_id": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.742742
+    "2026-11": 0.751401
   }
 }
