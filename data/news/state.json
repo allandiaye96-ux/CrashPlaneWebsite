@@ -1337,7 +1337,9 @@
     "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026": "2026-11-03T18:20:38Z",
     "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304": "2026-11-03T18:20:38Z",
     "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled": "2026-11-03T18:40:36Z",
-    "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/": "2026-11-03T18:50:46Z"
+    "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/": "2026-11-03T18:50:46Z",
+    "https://simpleflying.com/re-engined-narrowbody-quadjet-real-calling-freighter/": "2026-11-03T19:01:14Z",
+    "https://www.twz.com/sea/this-is-naval-groups-concept-for-a-stealthy-drone-armed-future-destroyer": "2026-11-03T19:01:14Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4148,6 +4150,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.111604
+    "2026-11": 1.112418
   }
 }
