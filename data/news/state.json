@@ -1294,7 +1294,8 @@
     "https://www.air-journal.fr/2026-11-03-lufthansa-group-resiste-au-choc-du-kerosene-mais-sa-compagnie-phare-decroche-5278661.html": "2026-11-03T13:01:03Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone": "2026-11-03T13:10:35Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-corsica-se-transforme-et-etudie-lintroduction-dun-nouvel-airbus-a320-en-2027-20261103.html": "2026-11-03T13:10:35Z",
-    "https://www.airliners.de/swiss-hoehere-kerosinkosten-teilweise-passagiere-weitergegeben/91271": "2026-11-03T13:20:33Z"
+    "https://www.airliners.de/swiss-hoehere-kerosinkosten-teilweise-passagiere-weitergegeben/91271": "2026-11-03T13:20:33Z",
+    "https://simpleflying.com/video/jetblue-creditors-call-in-restructuring-experts-as-shares-plummet-to-all-time-low/": "2026-11-03T13:40:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1354,7 +1355,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-31T19:01:13Z",
+      "updated": "2026-11-03T13:40:50Z",
       "items": [
         {
           "id": "00f128e2750b0a0c",
@@ -1373,10 +1374,19 @@
           "domain": "simpleflying.com",
           "summary": "JetBlue leadership remains set on no restructuring plans.",
           "published": "2026-10-31T18:52:28Z"
+        },
+        {
+          "id": "d14c49623c73b843",
+          "feed": "Simple Flying",
+          "title": "JetBlue Creditors Call In Restructuring Experts As Shares Plummet To All-Time Low",
+          "url": "https://simpleflying.com/video/jetblue-creditors-call-in-restructuring-experts-as-shares-plummet-to-all-time-low/",
+          "domain": "simpleflying.com",
+          "summary": "First it was Spirit Airlines to cease operations but is JetBlue next!?Maybe the airline’s situation isn’t as extreme but a group of JetBlue's major creditors have hired restructuring advisers after the airline's shares hit record lows, raising questions about how the carrier will manage its debt while trying to return to profitability. According to The Wall Street Journal, financial adviser PJT Partners and law firm Akin Gump Strauss Hauer & Feld have been hired by creditors to help turn things around.",
+          "published": "2026-11-03T13:36:18Z"
         }
       ],
       "story_id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
-      "written_count": 2
+      "written_count": 3
     },
     "c4a20b5b9fd": {
       "id": "c4a20b5b9fd",
@@ -3856,6 +3866,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.962853
+    "2026-11": 0.976501
   }
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
+    "created": "2026-10-28T21:56:14Z",
+    "updated": "2026-11-03T13:40:56Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "JetBlue : des créanciers engagent des conseillers en restructuration, la compagnie défend sa situation",
+    "chapo": "Selon AeroTime, un groupe de créanciers de JetBlue a engagé des conseillers en restructuration, tandis que la compagnie cherche à rassurer les investisseurs sur sa capacité à redresser son activité.",
+    "paragraphes": [
+      "D'après Simple Flying, qui cite le Wall Street Journal, les créanciers ont fait appel à la société de conseil financier PJT Partners et au cabinet d'avocats Akin Gump Strauss Hauer & Feld. Cette démarche intervient après que l'action JetBlue a touché des plus bas historiques, ce qui soulève des questions sur la gestion de la dette du transporteur alors qu'il vise un retour à la rentabilité.",
+      "Simple Flying indique par ailleurs que la direction de JetBlue reste opposée à tout plan de restructuration."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "JetBlue defends its finances as creditors hire restructuring advisers",
+        "url": "https://www.aerotime.aero/articles/jetblue-finances-creditors-restructuring-advisers",
+        "date": "2026-10-28T02:52:58Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "JetBlue’s Loan Companies Hire Special Advisors Over Repayment Concerns Of $8.4 Million Debt",
+        "url": "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/",
+        "date": "2026-10-31T18:52:28Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "JetBlue Creditors Call In Restructuring Experts As Shares Plummet To All-Time Low",
+        "url": "https://simpleflying.com/video/jetblue-creditors-call-in-restructuring-experts-as-shares-plummet-to-all-time-low/",
+        "date": "2026-11-03T13:36:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86",
     "created": "2026-11-03T11:10:57Z",
     "updated": "2026-11-03T13:01:39Z",
@@ -1531,45 +1577,6 @@
         "title": "Jersey Airport hit by drone disruption for second consecutive night",
         "url": "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night",
         "date": "2026-11-01T13:44:57Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
-    "created": "2026-10-28T21:56:14Z",
-    "updated": "2026-10-31T19:01:20Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "JetBlue cherche à rassurer les investisseurs alors que des créanciers engagent des conseillers en restructuration",
-    "chapo": "JetBlue affirme pouvoir redresser son activité, selon AeroTime, après l'embauche de conseillers en restructuration par un groupe de créanciers de la compagnie.",
-    "paragraphes": [
-      "La compagnie américaine tente de convaincre les investisseurs de la solidité de sa situation financière et de sa capacité à relancer son activité, rapporte AeroTime. Cette démarche fait suite à la décision d'un groupe de créanciers de se faire assister par des conseillers spécialisés en restructuration.",
-      "D'après Simple Flying, ces prêteurs s'inquiètent des perspectives de remboursement de leurs créances. La direction de JetBlue, elle, maintient qu'aucun plan de restructuration n'est envisagé."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "JetBlue defends its finances as creditors hire restructuring advisers",
-        "url": "https://www.aerotime.aero/articles/jetblue-finances-creditors-restructuring-advisers",
-        "date": "2026-10-28T02:52:58Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "JetBlue’s Loan Companies Hire Special Advisors Over Repayment Concerns Of $8.4 Million Debt",
-        "url": "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/",
-        "date": "2026-10-31T18:52:28Z",
         "official": false
       }
     ]
