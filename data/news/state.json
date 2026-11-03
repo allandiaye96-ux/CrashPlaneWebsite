@@ -1228,7 +1228,8 @@
     "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/": "2026-11-03T04:10:34Z",
     "https://www.airliners.de/icelease-laesst-boeing-767-300-frachter-umbauen/91252": "2026-11-03T05:20:33Z",
     "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html": "2026-11-03T05:30:46Z",
-    "https://www.aero.de/news-54072/Klaeger-wollen-Ausbau-des-Flughafens-LeipzigHalle-stoppen.html": "2026-11-03T05:30:46Z"
+    "https://www.aero.de/news-54072/Klaeger-wollen-Ausbau-des-Flughafens-LeipzigHalle-stoppen.html": "2026-11-03T05:30:46Z",
+    "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html": "2026-11-03T05:40:39Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3394,7 +3395,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-02T20:01:19Z",
-      "updated": "2026-11-02T20:01:19Z",
+      "updated": "2026-11-03T05:40:54Z",
       "items": [
         {
           "id": "08944c7cc476d795",
@@ -3404,10 +3405,19 @@
           "domain": "aerotime.aero",
           "summary": "National Transportation Safety Board (NTSB) investigators said they have found evidence that a Learjet 60 shed some components… The post NTSB finds evidence of in-flight breakup before Florida Learjet crash appeared first on AeroTime .",
           "published": "2026-11-02T19:18:12Z"
+        },
+        {
+          "id": "01cee5f2f3f005f1",
+          "feed": "aero.de",
+          "title": "Learjet brach bereits in der Luft auseinander",
+          "url": "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html",
+          "domain": "aero.de",
+          "summary": "WEST PALM BEACH - \"Wie eine herabstürzende Rakete\": Ein Privatflugzeug startet in Texas und nimmt Kurs auf die Bahamas. Doch über einer befahrenen Straße in Florida stürzt die Maschine plötzlich ab.",
+          "published": "2026-11-03T05:31:52Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
+      "written_count": 2
     },
     "cedf40f0714": {
       "id": "cedf40f0714",
@@ -3517,6 +3527,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.700315
+    "2026-11": 0.709076
   }
 }

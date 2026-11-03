@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
+    "created": "2026-11-03T05:40:58Z",
+    "updated": "2026-11-03T05:40:58Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Enquête",
+    "importance": 3,
+    "titre": "Learjet 60 en Floride : le NTSB relève des indices d'une perte de composants en vol avant l'accident",
+    "chapo": "Selon AeroTime, les enquêteurs du NTSB ont trouvé des éléments indiquant qu'un Learjet 60 a perdu certains composants avant de s'écraser en Floride. Les causes de l'accident ne sont pas établies.",
+    "paragraphes": [
+      "D'après aero.de, l'appareil, un avion privé, avait décollé du Texas pour rejoindre les Bahamas. Il s'est abîmé au-dessus d'une route fréquentée en Floride, près de West Palm Beach, dans une chute décrite par le média comme celle d'une fusée qui retombe.",
+      "L'enquête du NTSB se poursuit et les causes de l'accident ne sont pas déterminées à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "NTSB finds evidence of in-flight breakup before Florida Learjet crash",
+        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup",
+        "date": "2026-11-02T19:18:12Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Learjet brach bereits in der Luft auseinander",
+        "url": "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html",
+        "date": "2026-11-03T05:31:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
     "created": "2026-11-03T05:31:04Z",
     "updated": "2026-11-03T05:31:04Z",

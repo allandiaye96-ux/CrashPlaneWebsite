@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T05:30:46Z",
+  "run": "2026-11-03T05:40:39Z",
   "stats": {
-    "fetched": 674,
-    "new": 2,
+    "fetched": 688,
+    "new": 1,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.7003,
+  "spend_month_usd": 0.7091,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -50,12 +50,12 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 14
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": true,
@@ -254,6 +254,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7"
+    },
+    {
+      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -623,12 +629,6 @@
     },
     {
       "dossier": "Allemagne GCAP FCAS Pistorius",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
