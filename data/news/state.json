@@ -1340,7 +1340,10 @@
     "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/": "2026-11-03T18:50:46Z",
     "https://simpleflying.com/re-engined-narrowbody-quadjet-real-calling-freighter/": "2026-11-03T19:01:14Z",
     "https://www.twz.com/sea/this-is-naval-groups-concept-for-a-stealthy-drone-armed-future-destroyer": "2026-11-03T19:01:14Z",
-    "https://airlinegeeks.com/2026/11/03/frontier-shakes-up-leadership-team/": "2026-11-03T19:10:48Z"
+    "https://airlinegeeks.com/2026/11/03/frontier-shakes-up-leadership-team/": "2026-11-03T19:10:48Z",
+    "https://simpleflying.com/breeze-launches-flights-to-6-new-destinations/": "2026-11-03T19:20:36Z",
+    "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk": "2026-11-03T19:20:36Z",
+    "https://theaviationist.com/2026/11/03/ga-asi-opens-remote-split-operation-facility/": "2026-11-03T19:20:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4147,10 +4150,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c5a0cf1fbb6": {
+      "id": "c5a0cf1fbb6",
+      "label": "FAA inspections réservoirs carburant 787 foudre",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-03T19:20:59Z",
+      "updated": "2026-11-03T19:20:59Z",
+      "items": [
+        {
+          "id": "3913ed5d39a5199f",
+          "feed": "AeroTime",
+          "title": "FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk",
+          "url": "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk",
+          "domain": "aerotime.aero",
+          "summary": "The Federal Aviation Administration (FAA) has ordered inspections of certain Boeing 787 Dreamliners after discovering that required manufacturing… The post FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk appeared first on AeroTime .",
+          "published": "2026-11-03T19:03:33Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.113207
+    "2026-11": 1.114109
   }
 }
