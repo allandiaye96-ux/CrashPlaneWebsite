@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T16:10:39Z",
+  "run": "2026-11-03T16:20:39Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
+    "new": 7,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.06,
+  "spend_month_usd": 1.0611,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -695,6 +695,12 @@
     },
     {
       "dossier": "Suède reçoit missiles Taurus pour Gripen",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Menaces à la bombe compagnies européennes",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

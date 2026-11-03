@@ -1317,7 +1317,14 @@
     "https://www.airliners.de/ryanair-passagierzahlen-oktober-steigern/91278": "2026-11-03T15:20:40Z",
     "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282": "2026-11-03T15:20:40Z",
     "https://www.air-journal.fr/2026-11-03-le-caire-easyjet-holidays-ajoute-les-pyramides-et-le-grand-musee-egyptien-a-ses-sejours-5278663.html": "2026-11-03T15:30:59Z",
-    "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/": "2026-11-03T16:01:07Z"
+    "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/": "2026-11-03T16:01:07Z",
+    "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat": "2026-11-03T16:20:39Z",
+    "https://www.airliners.de/linke-fragt-bundesregierung-katar-abkommen-landerechten-golf-airlines/91301": "2026-11-03T16:20:39Z",
+    "https://www.airliners.de/lufthansa-technik-bestaetigt-jahresprognose-umsatzplus-14-prozent/91281": "2026-11-03T16:20:39Z",
+    "https://www.airliners.de/austrian-airlines-steigert-operatives-ergebnis-dritten-quartal-18-prozent/91286": "2026-11-03T16:20:39Z",
+    "https://www.airliners.de/swiss-haelt-ergebnis-trotz-teurem-kerosin-stabil/91291": "2026-11-03T16:20:39Z",
+    "https://www.airliners.de/eurowings-gleicht-hoehere-kerosinkosten-ueber-ticketpreise/91299": "2026-11-03T16:20:39Z",
+    "https://www.airliners.de/brussels-airlines-erzielt-operatives-rekordergebnis-dritten-quartal/91280": "2026-11-03T16:20:39Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4004,10 +4011,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c26c674081f": {
+      "id": "c26c674081f",
+      "label": "Menaces à la bombe compagnies européennes",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-03T16:20:56Z",
+      "updated": "2026-11-03T16:20:56Z",
+      "items": [
+        {
+          "id": "febf1814b45fb7c7",
+          "feed": "AeroTime",
+          "title": "Ryanair, Wizz Air, LOT and SAS targeted by series of bomb threats within hours",
+          "url": "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat",
+          "domain": "aerotime.aero",
+          "summary": "Several European airlines including Ryanair, Wizz Air, LOT Polish Airlines and Scandinavian Airlines (SAS) have been targeted by… The post Ryanair, Wizz Air, LOT and SAS targeted by series of bomb threats within hours appeared first on AeroTime .",
+          "published": "2026-11-03T15:41:58Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.06002
+    "2026-11": 1.061097
   }
 }
