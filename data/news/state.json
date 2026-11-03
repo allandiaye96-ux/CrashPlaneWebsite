@@ -1248,7 +1248,10 @@
     "https://www.aero.de/news-54078/Keine-Kurzarbeit-bei-Eurowings.html": "2026-11-03T09:01:03Z",
     "https://www.air-journal.fr/2026-11-03-boeing-787-une-etude-chinoise-documente-lusure-prematuree-de-certaines-aubes-genx-5278655.html": "2026-11-03T09:01:03Z",
     "https://simpleflying.com/united-airlines-jessica-pegula-canceled-flight-bags/": "2026-11-03T09:10:31Z",
-    "https://www.journal-aviation.com/actualite-en-bref/dubai-phoenix-aviation-prevoit-de-se-doter-dun-nouveau-centre-de-maintenance-pour-gros-porteurs-a-dwc-des-2029-20261103.html": "2026-11-03T09:10:31Z"
+    "https://www.journal-aviation.com/actualite-en-bref/dubai-phoenix-aviation-prevoit-de-se-doter-dun-nouveau-centre-de-maintenance-pour-gros-porteurs-a-dwc-des-2029-20261103.html": "2026-11-03T09:10:31Z",
+    "https://www.airliners.de/deutsche-flughaefen-september-passagierzahlen-stillstand/91261": "2026-11-03T09:20:33Z",
+    "https://www.airliners.de/merz-will-luftverkehrsteuer-weiter-senken-und-berlin-besser-anbinden/91267": "2026-11-03T09:20:33Z",
+    "https://www.airliners.de/hiserv-oeffnet-werkstatt-flughafen-kopenhagen/91259": "2026-11-03T09:20:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3623,10 +3626,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cbc5f0e8f53": {
+      "id": "cbc5f0e8f53",
+      "label": "Merz baisse de la taxe aérienne et Berlin",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-03T09:20:54Z",
+      "updated": "2026-11-03T09:20:54Z",
+      "items": [
+        {
+          "id": "f75d439d835d2eb1",
+          "feed": "airliners.de",
+          "title": "Merz will Luftverkehrsteuer weiter senken und Berlin besser anbinden",
+          "url": "https://www.airliners.de/merz-will-luftverkehrsteuer-weiter-senken-und-berlin-besser-anbinden/91267",
+          "domain": "airliners.de",
+          "summary": "Bundeskanzler Friedrich Merz (CDU) will die Luftverkehrsteuer weiter senken. Bei der IHK Berlin äußert er sich auch zur Flughafenpolitik der Hauptstadt und zu Emirates.",
+          "published": "2026-11-03T09:02:57Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.78037
+    "2026-11": 0.781265
   }
 }
