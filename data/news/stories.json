@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
+    "created": "2026-11-02T14:01:54Z",
+    "updated": "2026-11-03T12:40:53Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Icelease commande la conversion d'un Boeing 767-300 en cargo, avec deux options supplémentaires",
+    "chapo": "Le loueur islandais Icelease a signé un accord avec Boeing pour transformer un 767-300 en avion-cargo BCF, assorti d'options pour deux appareils de plus, selon AviTrader et Air Journal.",
+    "paragraphes": [
+      "D'après AviTrader, l'accord porte sur un 767-300 Boeing Converted Freighter, avec la possibilité d'en convertir jusqu'à deux autres. Le loueur cherche ainsi à étoffer son portefeuille d'appareils cargo. Le Journal de l'Aviation évoque pour sa part jusqu'à trois 767-300 au total.",
+      "Selon AviTrader, l'entrée en conversion du premier avion est programmée au premier trimestre 2027, pour une livraison attendue au deuxième trimestre. Air Journal indique que les travaux auront lieu à Singapour et que l'appareil rejoindra la flotte cargo gérée par IAT Leasing, société sœur d'Icelease."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Boeing – Communiqués",
+        "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
+        "url": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
+        "date": "2026-11-02T14:00:00Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Icelease mise sur une seconde vie cargo pour jusqu’à trois Boeing 767",
+        "url": "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html",
+        "date": "2026-11-03T08:00:47Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Icelease orders Boeing 767 freighter",
+        "url": "https://avitrader.com/2026/11/03/icelease-orders-boeing-767-freighter/",
+        "date": "2026-11-03T12:31:12Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Icelease acquiert jusqu’à 3 Boeing 767-300BCF",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/icelease-acquiert-jusqua-3-boeing-767-300bcf-20261103.html",
+        "date": "2026-11-03T12:38:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8",
     "created": "2026-11-03T12:20:53Z",
     "updated": "2026-11-03T12:20:53Z",
@@ -356,45 +409,6 @@
         "title": "Hubschrauber kollidieren am Mount Everest",
         "url": "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html",
         "date": "2026-11-03T08:39:49Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
-    "created": "2026-11-02T14:01:54Z",
-    "updated": "2026-11-03T08:10:50Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Icelease commande la conversion en cargo d'un Boeing 767-300, avec deux options supplémentaires",
-    "chapo": "Le loueur islandais Icelease a signé un accord avec Boeing pour transformer en avion-cargo un 767-300, avec la possibilité de deux appareils de plus, selon Air Journal.",
-    "paragraphes": [
-      "D'après Air Journal, le premier avion doit entrer en chantier à Singapour début 2027. Sa livraison est attendue au deuxième trimestre. L'accord, annoncé par Boeing, porte sur un maximum de trois 767-300 Boeing Converted Freighters.",
-      "L'appareil convertit rejoindra la flotte de fret gérée par IAT Leasing, présentée comme une société sœur d'Icelease."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Boeing – Communiqués",
-        "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
-        "url": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
-        "date": "2026-11-02T14:00:00Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Icelease mise sur une seconde vie cargo pour jusqu’à trois Boeing 767",
-        "url": "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html",
-        "date": "2026-11-03T08:00:47Z",
         "official": false
       }
     ]

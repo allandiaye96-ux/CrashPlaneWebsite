@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T12:30:50Z",
+  "run": "2026-11-03T12:40:32Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.9105,
+  "spend_month_usd": 0.9305,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -130,6 +130,12 @@
       "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
     },
     {
+      "dossier": "Boeing Icelease 767-300 convertis cargo",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -248,12 +254,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92"
-    },
-    {
-      "dossier": "Boeing Icelease 767-300 convertis cargo",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
     },
     {
       "dossier": "Menace à la bombe Wizz Air Londres-Sofia Budapest",

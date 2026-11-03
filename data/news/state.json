@@ -1285,7 +1285,9 @@
     "https://www.aero.de/news-54083/ITA-Airways-durchkreuzt-Lima-Plaene-von-Emirates.html": "2026-11-03T12:01:02Z",
     "https://www.air-journal.fr/2026-11-03-je-sais-que-cest-lui-lidiot-le-patron-de-ryanair-relance-sa-querelle-avec-elon-musk-5278659.html": "2026-11-03T12:01:02Z",
     "https://avitrader.com/2026/11/03/diehl-aviation-appoints-andrea-sorg-as-cfo/": "2026-11-03T12:10:36Z",
-    "https://www.airliners.de/bombendrohungen-treffen-fluege/91272": "2026-11-03T12:20:32Z"
+    "https://www.airliners.de/bombendrohungen-treffen-fluege/91272": "2026-11-03T12:20:32Z",
+    "https://avitrader.com/2026/11/03/icelease-orders-boeing-767-freighter/": "2026-11-03T12:40:32Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/icelease-acquiert-jusqua-3-boeing-767-300bcf-20261103.html": "2026-11-03T12:40:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3208,7 +3210,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-02T14:01:38Z",
-      "updated": "2026-11-03T08:10:44Z",
+      "updated": "2026-11-03T12:40:45Z",
       "items": [
         {
           "id": "ff471e76bfc48c67",
@@ -3227,10 +3229,28 @@
           "domain": "air-journal.fr",
           "summary": "Le loueur islandais Icelease a conclu avec Boeing un accord portant sur la conversion d’un 767-300 en avion-cargo, assorti de deux options supplémentaires. Le premier appareil doit entrer en chantier à Singapour début 2027, avant une livraison attendue au deuxième trimestre. Il rejoindra le portefeuille de fret géré par IAT Leasing, société sœur d’Icelease établie […]",
           "published": "2026-11-03T08:00:47Z"
+        },
+        {
+          "id": "790c56e94a84a93a",
+          "feed": "AviTrader",
+          "title": "Icelease orders Boeing 767 freighter",
+          "url": "https://avitrader.com/2026/11/03/icelease-orders-boeing-767-freighter/",
+          "domain": "avitrader.com",
+          "summary": "Boeing and aircraft leasing company Icelease have agreed an order for one 767-300 Boeing Converted Freighter (BCF), with options for up to two additional aircraft, as the lessor expands its freighter portfolio. Induction of the first aircraft is scheduled for the first quarter of 2027, with delivery of the converted freighter expected in the second […] The post Icelease orders Boeing 767 freighter appeared first on AviTrader Aviation News .",
+          "published": "2026-11-03T12:31:12Z"
+        },
+        {
+          "id": "07ed17291608ddf0",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Icelease acquiert jusqu’à 3 Boeing 767-300BCF",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/icelease-acquiert-jusqua-3-boeing-767-300bcf-20261103.html",
+          "domain": "journal-aviation.com",
+          "summary": "La société islandaise de leasing Icelease a conclu un accord avec Boeing, en vue de convertir jusqu’à trois 767-300 en BCF (Boeing converted freighter). La commande porte initialement sur un […] L’article Icelease acquiert jusqu’à 3 Boeing 767-300BCF a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-03T12:38:00Z"
         }
       ],
       "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
-      "written_count": 2
+      "written_count": 4
     },
     "c1e4142b0c1": {
       "id": "c1e4142b0c1",
@@ -3832,6 +3852,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.910543
+    "2026-11": 0.930482
   }
 }
