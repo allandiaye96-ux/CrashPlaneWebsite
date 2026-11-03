@@ -1343,7 +1343,8 @@
     "https://airlinegeeks.com/2026/11/03/frontier-shakes-up-leadership-team/": "2026-11-03T19:10:48Z",
     "https://simpleflying.com/breeze-launches-flights-to-6-new-destinations/": "2026-11-03T19:20:36Z",
     "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk": "2026-11-03T19:20:36Z",
-    "https://theaviationist.com/2026/11/03/ga-asi-opens-remote-split-operation-facility/": "2026-11-03T19:20:36Z"
+    "https://theaviationist.com/2026/11/03/ga-asi-opens-remote-split-operation-facility/": "2026-11-03T19:20:36Z",
+    "https://simpleflying.com/jetblue-cancels-13-international-nonstop-routes/": "2026-11-03T19:31:09Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4175,6 +4176,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.114109
+    "2026-11": 1.114901
   }
 }
