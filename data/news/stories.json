@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
+    "created": "2026-11-03T06:21:00Z",
+    "updated": "2026-11-03T15:11:01Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Avolon fonde la plateforme de leasing Constellation Aviation avec I Squared Capital et ADIA",
+    "chapo": "Le loueur Avolon a créé une nouvelle société de leasing, Constellation Aviation, avec I Squared Capital et une entité liée au fonds d'Abou Dhabi ADIA, selon airliners.de.",
+    "paragraphes": [
+      "Selon le communiqué du loueur relayé par airliners.de, la plateforme doit reprendre à Avolon 22 appareils dès son lancement, pour une valeur de marché de 1,4 milliard de dollars américains.",
+      "Le Journal de l'Aviation confirme la création de Constellation Aviation par Avolon en association avec I Squared Capital et le fonds d'investissement d'Abou Dhabi."
+    ],
+    "contradictions": "Les sources diffèrent sur la structure de l'actionnariat : airliners.de cite deux partenaires distincts d'Avolon (I Squared Capital et une filiale d'ADIA), tandis que Le Journal de l'Aviation décrit I Squared Capital comme une filiale à 100 % d'ADIA.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Avolon gründet Leasingplattform Constellation Aviation",
+        "url": "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255",
+        "date": "2026-11-03T05:21:00Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Avolon crée Constellation Aviation",
+        "url": "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html",
+        "date": "2026-11-03T15:03:50Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
     "created": "2026-11-03T14:21:04Z",
     "updated": "2026-11-03T14:21:04Z",
@@ -645,38 +684,6 @@
         "title": "Airbus : Washington menace la trêve commerciale pour un prêt européen de 3 milliards d’euros",
         "url": "https://www.air-journal.fr/2026-11-03-airbus-washington-menace-la-treve-commerciale-pour-un-pret-europeen-de-3-milliards-deuros-5278651.html",
         "date": "2026-11-03T07:00:17Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
-    "created": "2026-11-03T06:21:00Z",
-    "updated": "2026-11-03T06:21:00Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Avolon lance avec I Squared Capital et une filiale d'ADIA la plateforme de leasing Constellation Aviation",
-    "chapo": "Selon airliners.de, le loueur Avolon a fondé la plateforme de leasing Constellation Aviation avec le fonds d'infrastructure I Squared Capital et une filiale de l'Abu Dhabi Investment Authority (ADIA).",
-    "paragraphes": [
-      "D'après le média allemand, la nouvelle structure doit reprendre auprès d'Avolon 22 avions dès son lancement. Leur valeur de marché est de 1,4 milliard de dollars américains, soit environ 1,25 milliard d'euros.",
-      "Ces informations proviennent d'une communication du loueur, rapportée par airliners.de."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Avolon gründet Leasingplattform Constellation Aviation",
-        "url": "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255",
-        "date": "2026-11-03T05:21:00Z",
         "official": false
       }
     ]

@@ -1308,7 +1308,8 @@
     "https://www.airliners.de/delta-wehrt-erzwungenen-umzug-heathrows-terminal-4/91275": "2026-11-03T14:20:36Z",
     "https://www.airliners.de/air-india-bestellung-grossraumflugzeuge-aufstocken/91274": "2026-11-03T14:20:36Z",
     "https://www.airliners.de/frueherer-china-eastern-vorsitzender-korruption-14-jahre-haft/91277": "2026-11-03T14:20:36Z",
-    "https://simpleflying.com/easyjet-launches-7-new-uk-routes-3-days/": "2026-11-03T14:40:33Z"
+    "https://simpleflying.com/easyjet-launches-7-new-uk-routes-3-days/": "2026-11-03T14:40:33Z",
+    "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html": "2026-11-03T15:10:38Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3663,7 +3664,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T06:20:56Z",
-      "updated": "2026-11-03T06:20:56Z",
+      "updated": "2026-11-03T15:10:55Z",
       "items": [
         {
           "id": "ed85fb7cb2d793f3",
@@ -3673,10 +3674,19 @@
           "domain": "airliners.de",
           "summary": "Avolon hat mit dem Infrastrukturinvestor I Squared Capital und einer Tochter der Abu Dhabi Investment Authority (ADIA) die Leasingplattform Constellation Aviation gegründet. Sie soll von Avolon zum Start 22 Flugzeuge im Marktwert von 1,4 Milliarden US-Dollar (rund 1,25 Milliarden Euro) übernehmen, teilte der Leasinggeber mit.",
           "published": "2026-11-03T05:21:00Z"
+        },
+        {
+          "id": "3baacef6c1f3711c",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Avolon crée Constellation Aviation",
+          "url": "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html",
+          "domain": "journal-aviation.com",
+          "summary": "Avolon s’est associé à I Squared Capital, une filiale à 100 % du fonds d’investissement d’Abou Dhabi (ADIA), pour créer une nouvelle société de leasing, Constellation Aviation. Lorsque la transaction […] L’article Avolon crée Constellation Aviation a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-03T15:03:50Z"
         }
       ],
       "story_id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
-      "written_count": 1
+      "written_count": 2
     },
     "cc149c1301d": {
       "id": "cc149c1301d",
@@ -3951,6 +3961,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.022068
+    "2026-11": 1.035256
   }
 }

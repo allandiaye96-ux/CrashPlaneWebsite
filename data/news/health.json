@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T15:01:09Z",
+  "run": "2026-11-03T15:10:38Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.0221,
+  "spend_month_usd": 1.0353,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -284,6 +284,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9"
+    },
+    {
+      "dossier": "Avolon lance la plateforme Constellation Aviation",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491"
     },
     {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
@@ -584,12 +590,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae"
-    },
-    {
-      "dossier": "Avolon lance la plateforme Constellation Aviation",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491"
     },
     {
       "dossier": "Airbus prêt BEI 3 Md€ menace trêve commerciale US",
