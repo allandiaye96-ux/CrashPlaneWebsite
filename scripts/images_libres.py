@@ -30,7 +30,7 @@ DATA = ROOT / "data" / "accidents.json"
 REVIEW = ROOT / "review"
 OUT_DIR = ROOT / "assets" / "img" / "libres"
 API = "https://commons.wikimedia.org/w/api.php"
-UA = "CarnetDeVolImages/1.0 (https://www.crashplanewebsite.com; contact via GitHub allandiaye96-ux)"
+UA = "CarnetDeVolImages/1.0 (https://www.cahierdevol.fr; contact via GitHub allandiaye96-ux)"
 
 # Immatriculations absentes ou mal formées dans les données, et requêtes de secours.
 EXTRA = {

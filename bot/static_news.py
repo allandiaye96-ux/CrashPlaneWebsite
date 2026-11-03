@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = ROOT / "actualites"
-BASE = "https://www.crashplanewebsite.com"
+BASE = "https://www.cahierdevol.fr"
 RESERVED = {"brouillons"}
 MARKER = ".genere-par-le-robot"
 MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",

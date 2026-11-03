@@ -38,7 +38,7 @@ STORIES_PATH = NEWS_DIR / "stories.json"
 STATE_PATH = NEWS_DIR / "state.json"
 HEALTH_PATH = NEWS_DIR / "health.json"
 
-USER_AGENT = "CarnetDeVolBot/1.0 (+https://www.crashplanewebsite.com/actualites/)"
+USER_AGENT = "CarnetDeVolBot/1.0 (+https://www.cahierdevol.fr/actualites/)"
 API_URL = "https://api.anthropic.com/v1/messages"
 API_VERSION = "2023-06-01"
 
