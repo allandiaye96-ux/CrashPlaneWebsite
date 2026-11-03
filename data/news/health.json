@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T12:50:33Z",
+  "run": "2026-11-03T13:01:03Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 4,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.9305,
+  "spend_month_usd": 0.9612,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -290,6 +290,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
+    },
+    {
+      "dossier": "Lufthansa Group résultats T3 bénéfices efficacité",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -590,12 +596,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d"
-    },
-    {
-      "dossier": "Lufthansa Group résultats T3 bénéfices efficacité",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86"
     },
     {
       "dossier": "BA retire 6 routes 787 Heathrow",

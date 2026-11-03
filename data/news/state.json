@@ -1287,7 +1287,11 @@
     "https://avitrader.com/2026/11/03/diehl-aviation-appoints-andrea-sorg-as-cfo/": "2026-11-03T12:10:36Z",
     "https://www.airliners.de/bombendrohungen-treffen-fluege/91272": "2026-11-03T12:20:32Z",
     "https://avitrader.com/2026/11/03/icelease-orders-boeing-767-freighter/": "2026-11-03T12:40:32Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/icelease-acquiert-jusqua-3-boeing-767-300bcf-20261103.html": "2026-11-03T12:40:32Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/icelease-acquiert-jusqua-3-boeing-767-300bcf-20261103.html": "2026-11-03T12:40:32Z",
+    "https://simpleflying.com/boeing-china-market-projection/": "2026-11-03T13:01:03Z",
+    "https://avitrader.com/2026/11/03/fokker-services-group-appointed-c-390-service-centre/": "2026-11-03T13:01:03Z",
+    "https://www.aero.de/news-54085/Lufthansa-kommt-mit-hohen-Kerosinpreisen-immer-besser-zurecht.html": "2026-11-03T13:01:03Z",
+    "https://www.air-journal.fr/2026-11-03-lufthansa-group-resiste-au-choc-du-kerosene-mais-sa-compagnie-phare-decroche-5278661.html": "2026-11-03T13:01:03Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3576,7 +3580,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T06:10:52Z",
-      "updated": "2026-11-03T10:50:50Z",
+      "updated": "2026-11-03T13:01:21Z",
       "items": [
         {
           "id": "f5e772dc014e4ee5",
@@ -3604,10 +3608,19 @@
           "domain": "aero.de",
           "summary": "FRANKFURT - Eine starke Swiss hält das Netzwerkgeschäft von Lufthansa 2026 über Wasser. Lufthansa Airlines zieht das Ergebnis runter. Lufthansa-Konzernchef Carsten Spohr setzt auf \"langfristige Vereinbarungen\" mit dem Flugpersonal im Kern - um den Schrumpfkurs bei Lufthansa Classic zumindest zu bremsen.",
           "published": "2026-11-03T10:46:35Z"
+        },
+        {
+          "id": "339373270399ccf8",
+          "feed": "aero.de",
+          "title": "Lufthansa kommt mit Kerosinpreisen immer besser zurecht",
+          "url": "https://www.aero.de/news-54085/Lufthansa-kommt-mit-hohen-Kerosinpreisen-immer-besser-zurecht.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Lufthansa rechnet mit noch höheren Kerosinausgaben, kann die Kosten aber immer besser auf Passagiere umlegen. Hohe Flugnachfrage im Premiumsegment, späte Buchungen und knappe Kapazitäten stabilisieren die Margen. Im Asienverkehr kann Lufthansa das Flugangebot sogar markant ausweiten.",
+          "published": "2026-11-03T12:54:40Z"
         }
       ],
       "story_id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
-      "written_count": 3
+      "written_count": 4
     },
     "c426c1411ae": {
       "id": "c426c1411ae",
@@ -3792,7 +3805,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T11:10:51Z",
-      "updated": "2026-11-03T11:10:51Z",
+      "updated": "2026-11-03T13:01:21Z",
       "items": [
         {
           "id": "ccef4788178d5f0e",
@@ -3802,10 +3815,19 @@
           "domain": "aerotime.aero",
           "summary": "Lufthansa Group has posted third-quarter profits thanks in part to efficiency measures the company took earlier in the… The post Lufthansa Group’s efficiency measures help boost third-quarter profits appeared first on AeroTime .",
           "published": "2026-11-03T10:48:25Z"
+        },
+        {
+          "id": "7a6bdcf1bc78823f",
+          "feed": "Air Journal",
+          "title": "Lufthansa Group résiste au choc du kérosène, mais sa compagnie phare décroche",
+          "url": "https://www.air-journal.fr/2026-11-03-lufthansa-group-resiste-au-choc-du-kerosene-mais-sa-compagnie-phare-decroche-5278661.html",
+          "domain": "air-journal.fr",
+          "summary": "Lufthansa Group a dégagé un bénéfice opérationnel ajusté de 1,41 milliard d’euros au troisième trimestre 2026, en hausse de 6%, malgré une facture de carburant alourdie de 543 millions d’euros. La maîtrise des coûts, les recettes des cabines premium et les performances du fret et de la maintenance ont soutenu le groupe allemand. Mais Lufthansa […]",
+          "published": "2026-11-03T13:00:36Z"
         }
       ],
       "story_id": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86",
-      "written_count": 1
+      "written_count": 2
     },
     "c74b46cf28e": {
       "id": "c74b46cf28e",
@@ -3831,6 +3853,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.930482
+    "2026-11": 0.961194
   }
 }
