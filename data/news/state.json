@@ -1272,7 +1272,8 @@
     "https://www.airliners.de/eurowings-schickt-beschaeftigte-winter-wohl-nicht-kurzarbeit/91269": "2026-11-03T10:20:46Z",
     "https://www.airliners.de/orix-aviation-schliesst-uebernahme-aerfin/91260": "2026-11-03T10:20:46Z",
     "https://avitrader.com/2026/11/03/honeywell-tests-thermal-response-module-at-equinix-data-centre/": "2026-11-03T10:40:36Z",
-    "https://avitrader.com/2026/11/03/orix-aviation-completes-aerfin-acquisition/": "2026-11-03T10:40:36Z"
+    "https://avitrader.com/2026/11/03/orix-aviation-completes-aerfin-acquisition/": "2026-11-03T10:40:36Z",
+    "https://www.aero.de/news-54080/Lufthansa-Chef-sieht-wenig-Chancen-fuer-Flottenwachstum.html": "2026-11-03T10:50:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3537,7 +3538,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T06:10:52Z",
-      "updated": "2026-11-03T10:21:02Z",
+      "updated": "2026-11-03T10:50:50Z",
       "items": [
         {
           "id": "f5e772dc014e4ee5",
@@ -3556,10 +3557,19 @@
           "domain": "airliners.de",
           "summary": "Die Lufthansa verdient im dritten Quartal mehr als von Analysten erwartet, senkt aber ihre Jahresprognose erneut. Die Kerosinrechnung steigt auf 9,3 Milliarden Euro. Ein Konzernteil verdreifachte seinen Betriebsgewinn.",
           "published": "2026-11-03T09:47:11Z"
+        },
+        {
+          "id": "05a6be45f95c075b",
+          "feed": "aero.de",
+          "title": "Lufthansa-Chef sieht wenig Chancen für Flottenwachstum",
+          "url": "https://www.aero.de/news-54080/Lufthansa-Chef-sieht-wenig-Chancen-fuer-Flottenwachstum.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Eine starke Swiss hält das Netzwerkgeschäft von Lufthansa 2026 über Wasser. Lufthansa Airlines zieht das Ergebnis runter. Lufthansa-Konzernchef Carsten Spohr setzt auf \"langfristige Vereinbarungen\" mit dem Flugpersonal im Kern - um den Schrumpfkurs bei Lufthansa Classic zumindest zu bremsen.",
+          "published": "2026-11-03T10:46:35Z"
         }
       ],
       "story_id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
-      "written_count": 2
+      "written_count": 3
     },
     "c426c1411ae": {
       "id": "c426c1411ae",
@@ -3720,6 +3730,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.840889
+    "2026-11": 0.852931
   }
 }
