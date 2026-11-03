@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BASE = "https://www.crashplanewebsite.com"
+BASE = "https://www.cahierdevol.fr"
 data = json.loads((ROOT / "data" / "accidents.json").read_text(encoding="utf-8"))
 
 for acc in data:

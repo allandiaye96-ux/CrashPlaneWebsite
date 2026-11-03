@@ -1,7 +1,7 @@
 ﻿param(
   [string]$JsonPath = "data/accidents.json",
   [string]$OutDir = "accidents",
-  [string]$BaseUrl = "https://www.crashplanewebsite.com", [switch]$WithEnglish = $true
+  [string]$BaseUrl = "https://www.cahierdevol.fr", [switch]$WithEnglish = $true
 )
 
 Set-StrictMode -Version Latest
@@ -100,7 +100,7 @@ function Make-Page { param([pscustomobject]$acc,[string]$dir,[string]$lang = 'fr
     <footer class="site-footer">
       <div class="wrap">
         <p>L’actualité aéronautique vérifiée, et l’histoire des accidents qui ont rendu l’aviation plus sûre.</p>
-        <p>Carnet de Vol — crashplanewebsite.com</p>
+        <p>Carnet de Vol — cahierdevol.fr</p>
       </div>
     </footer>
     <script src="/assets/js/site.js"></script>
@@ -147,7 +147,7 @@ $listHtml = @"
 <body>
   <header class="site-header"><div class="container header-inner"><a class="brand" href="/">✈ Carnet de Vol</a></div></header>
   <main class="list"><h1>Accidents</h1><ul>$links</ul></main>
-  <footer class="site-footer"><div class="container"><p>Carnet de Vol — crashplanewebsite.com</p></div></footer>
+  <footer class="site-footer"><div class="container"><p>Carnet de Vol — cahierdevol.fr</p></div></footer>
 </body>
 </html>
 "@
