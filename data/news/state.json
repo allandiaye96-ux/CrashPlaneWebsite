@@ -1239,7 +1239,9 @@
     "https://www.air-journal.fr/2026-11-03-airbus-washington-menace-la-treve-commerciale-pour-un-pret-europeen-de-3-milliards-deuros-5278651.html": "2026-11-03T07:01:01Z",
     "https://www.airliners.de/recaro-rail-beruft-chief-operating-officer/91254": "2026-11-03T07:20:35Z",
     "https://www.airbus.com/en/newsroom/stories/2026-11-where-the-a220-flies-opening-routes-others-cannot": "2026-11-03T08:01:00Z",
-    "https://www.aero.de/news-54076/Hier-wartet-der-erste-Airbus-A220-300-auf-Lufthansa-City-Airlines.html": "2026-11-03T08:01:00Z"
+    "https://www.aero.de/news-54076/Hier-wartet-der-erste-Airbus-A220-300-auf-Lufthansa-City-Airlines.html": "2026-11-03T08:01:00Z",
+    "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche": "2026-11-03T08:10:31Z",
+    "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html": "2026-11-03T08:10:31Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2541,27 +2543,6 @@
       "story_id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
       "written_count": 2
     },
-    "c432cac0ca1": {
-      "id": "c432cac0ca1",
-      "label": "Pont aérien Madrid-Andalousie après catastrophe ferroviaire",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-01T08:01:08Z",
-      "updated": "2026-11-01T08:01:08Z",
-      "items": [
-        {
-          "id": "e73e50a38cc18407",
-          "feed": "Air Journal",
-          "title": "Catastrophe ferroviaire en Espagne : un pont aérien entre Madrid et l’Andalousie, mais des tarifs élevés",
-          "url": "https://www.air-journal.fr/2026-11-01-catastrophe-ferroviaire-en-espagne-un-pont-aerien-entre-madrid-et-landalousie-mais-des-tarifs-eleves-5278619.html",
-          "domain": "air-journal.fr",
-          "summary": "Les compagnies aériennes renforcent leurs vols après la catastrophe ferroviaire du 28 octobre 2026, qui a interrompu le train à grande vitesse entre Madrid et l’Andalousie. Iberia et Iberia Express annoncent plus de 20 000 sièges supplémentaires jusqu’au 8 novembre. Mais les places restent rares et certains tarifs atteignent 400 euros entre Málaga et Madrid, […]",
-          "published": "2026-11-01T08:00:19Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 1
-    },
     "cd3c28b689a": {
       "id": "cd3c28b689a",
       "label": "United 757 mayday carburant San Francisco",
@@ -3186,7 +3167,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-02T14:01:38Z",
-      "updated": "2026-11-02T14:01:38Z",
+      "updated": "2026-11-03T08:10:44Z",
       "items": [
         {
           "id": "ff471e76bfc48c67",
@@ -3196,10 +3177,19 @@
           "domain": "boeing.mediaroom.com",
           "summary": "",
           "published": "2026-11-02T14:00:00Z"
+        },
+        {
+          "id": "c6b7319dacd7d0de",
+          "feed": "Air Journal",
+          "title": "Icelease mise sur une seconde vie cargo pour jusqu’à trois Boeing 767",
+          "url": "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html",
+          "domain": "air-journal.fr",
+          "summary": "Le loueur islandais Icelease a conclu avec Boeing un accord portant sur la conversion d’un 767-300 en avion-cargo, assorti de deux options supplémentaires. Le premier appareil doit entrer en chantier à Singapour début 2027, avant une livraison attendue au deuxième trimestre. Il rejoindra le portefeuille de fret géré par IAT Leasing, société sœur d’Icelease établie […]",
+          "published": "2026-11-03T08:00:47Z"
         }
       ],
       "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
-      "written_count": 1
+      "written_count": 2
     },
     "c1e4142b0c1": {
       "id": "c1e4142b0c1",
@@ -3596,10 +3586,31 @@
       ],
       "story_id": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d",
       "written_count": 1
+    },
+    "c33d94ac6de": {
+      "id": "c33d94ac6de",
+      "label": "Collision d'hélicoptères près de l'Everest (Pheriche)",
+      "categorie": "Accident",
+      "importance": 2,
+      "created": "2026-11-03T08:10:44Z",
+      "updated": "2026-11-03T08:10:44Z",
+      "items": [
+        {
+          "id": "eadd4313503ad45a",
+          "feed": "AeroTime",
+          "title": "Two helicopters collide near Mount Everest, killing passenger",
+          "url": "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche",
+          "domain": "aerotime.aero",
+          "summary": "A passenger was killed, and three people were injured when two helicopters collided while landing at the Pheriche… The post Two helicopters collide near Mount Everest, killing passenger appeared first on AeroTime .",
+          "published": "2026-11-03T07:53:29Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.75302
+    "2026-11": 0.769469
   }
 }

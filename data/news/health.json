@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T08:01:00Z",
+  "run": "2026-11-03T08:10:31Z",
   "stats": {
     "fetched": 688,
     "new": 2,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.753,
+  "spend_month_usd": 0.7695,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -250,6 +250,12 @@
       "breve": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92"
     },
     {
+      "dossier": "Boeing Icelease 767-300 convertis cargo",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
+    },
+    {
       "dossier": "Ryanair gel des salaires options kérosène",
       "statut": "corrobore",
       "editeurs": 2,
@@ -490,12 +496,6 @@
       "breve": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd"
     },
     {
-      "dossier": "Boeing Icelease 767-300 convertis cargo",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
-    },
-    {
       "dossier": "FAA finance étude JetZero moteurs top-mounted",
       "statut": "source_unique",
       "editeurs": 1,
@@ -580,12 +580,6 @@
       "breve": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d"
     },
     {
-      "dossier": "Pont aérien Madrid-Andalousie après catastrophe ferroviaire",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "United 757 mayday carburant San Francisco",
       "statut": "signale",
       "editeurs": 1,
@@ -647,6 +641,12 @@
     },
     {
       "dossier": "Allemagne GCAP FCAS Pistorius",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
