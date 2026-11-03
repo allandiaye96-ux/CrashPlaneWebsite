@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 12:10:53 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 12:20:53 +0000</lastBuildDate>
+  <item>
+    <title>Alertes à la bombe : un vol Wizz Air escorté vers Budapest, un vol LOT dérouté à Varsovie-Modlin</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8/</guid>
+    <pubDate>Tue, 03 Nov 2026 12:20:53 +0000</pubDate>
+    <category>Incident</category>
+    <description>Selon aero.de et airliners.de, des menaces à la bombe ont visé plusieurs avions de ligne à Budapest et à Varsovie, où trois appareils au total ont dû être inspectés.</description>
+  </item>
   <item>
     <title>British Airways supprime six routes en Boeing 787 au départ de Londres Heathrow</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 06:20:53 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>Selon airliners.de, qui s&#x27;appuie sur une analyse de données, le système d&#x27;entrée/sortie (EES) n&#x27;a eu que des effets limités sur les retards au départ durant l&#x27;été.</description>
-  </item>
-  <item>
-    <title>PIA reçoit à Islamabad son premier Boeing 787-9, exploité par Norse Atlantic Airways</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92/</guid>
-    <pubDate>Mon, 02 Nov 2026 05:01:20 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Pakistan International Airlines a accueilli son premier Boeing 787-9 Dreamliner à Islamabad, le 1er novembre 2026, selon AeroTime et Air Journal. D&#x27;après Air Journal, l&#x27;appareil est exploité pour le compte de la compagnie par Norse Atlantic Airways.</description>
   </item>
 </channel>
 </rss>

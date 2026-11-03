@@ -1284,7 +1284,8 @@
     "https://avitrader.com/2026/11/03/avolon-launches-us1-4bn-aircraft-leasing-venture-constellation/": "2026-11-03T12:01:02Z",
     "https://www.aero.de/news-54083/ITA-Airways-durchkreuzt-Lima-Plaene-von-Emirates.html": "2026-11-03T12:01:02Z",
     "https://www.air-journal.fr/2026-11-03-je-sais-que-cest-lui-lidiot-le-patron-de-ryanair-relance-sa-querelle-avec-elon-musk-5278659.html": "2026-11-03T12:01:02Z",
-    "https://avitrader.com/2026/11/03/diehl-aviation-appoints-andrea-sorg-as-cfo/": "2026-11-03T12:10:36Z"
+    "https://avitrader.com/2026/11/03/diehl-aviation-appoints-andrea-sorg-as-cfo/": "2026-11-03T12:10:36Z",
+    "https://www.airliners.de/bombendrohungen-treffen-fluege/91272": "2026-11-03T12:20:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3321,7 +3322,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-02T14:50:49Z",
-      "updated": "2026-11-03T11:01:24Z",
+      "updated": "2026-11-03T12:20:44Z",
       "items": [
         {
           "id": "c5803e460aee3b90",
@@ -3340,10 +3341,19 @@
           "domain": "aero.de",
           "summary": "WARSCHAU - Eine Maschine aus London mit 181 Menschen an Bord muss wegen eines Bombenalarms auf einen kleineren Flughafen ausweichen. Nun rücken Spezialisten an.",
           "published": "2026-11-03T10:57:10Z"
+        },
+        {
+          "id": "5b169aecc47ebfba",
+          "feed": "airliners.de",
+          "title": "Bombendrohungen treffen gleich mehrere Flüge",
+          "url": "https://www.airliners.de/bombendrohungen-treffen-fluege/91272",
+          "domain": "airliners.de",
+          "summary": "Nach Bombendrohungen mussten in Warschau und Budapest drei Passagierflugzeuge überprüft werden. Der Flughafen Warschau-Modlin schloss zeitweise und nahm den Betrieb wieder auf. Was die Prüfungen ergaben, ist bisher nur teilweise bekannt.",
+          "published": "2026-11-03T11:30:04Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8",
+      "written_count": 3
     },
     "ca25aca21a7": {
       "id": "ca25aca21a7",
@@ -3822,6 +3832,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.894246
+    "2026-11": 0.910543
   }
 }

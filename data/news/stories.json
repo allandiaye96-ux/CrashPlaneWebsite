@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8",
+    "created": "2026-11-03T12:20:53Z",
+    "updated": "2026-11-03T12:20:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Alertes à la bombe : un vol Wizz Air escorté vers Budapest, un vol LOT dérouté à Varsovie-Modlin",
+    "chapo": "Selon aero.de et airliners.de, des menaces à la bombe ont visé plusieurs avions de ligne à Budapest et à Varsovie, où trois appareils au total ont dû être inspectés.",
+    "paragraphes": [
+      "D'après aero.de, un appareil de Wizz Air reliant Londres à Sofia survolait la Bosnie lorsqu'une menace à la bombe est parvenue jusqu'au poste de pilotage. Deux avions de combat ont alors escorté l'avion jusqu'à Budapest.",
+      "Un autre vol en provenance de Londres, exploité par LOT et transportant 181 personnes, a été dérouté vers un aéroport plus petit, celui de Varsovie-Modlin, à la suite d'une alerte à la bombe, rapporte aero.de. Des spécialistes ont été dépêchés sur place et la plateforme a été fermée.",
+      "Selon airliners.de, l'aéroport de Varsovie-Modlin a fermé temporairement avant de reprendre ses opérations."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Bombendrohnung gegen Wizz-Air-Flug",
+        "url": "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html",
+        "date": "2026-11-02T14:46:02Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Warschau-Modlin nach Drohung gegen LOT-Flug gesperrt",
+        "url": "https://www.aero.de/news-54081/Warschau-Modlin-nach-Drohung-gegen-LOT-Flug-gesperrt.html",
+        "date": "2026-11-03T10:57:10Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Bombendrohungen treffen gleich mehrere Flüge",
+        "url": "https://www.airliners.de/bombendrohungen-treffen-fluege/91272",
+        "date": "2026-11-03T11:30:04Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e",
     "created": "2026-11-03T12:01:34Z",
     "updated": "2026-11-03T12:01:34Z",

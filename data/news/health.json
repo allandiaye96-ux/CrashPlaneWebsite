@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T12:10:36Z",
+  "run": "2026-11-03T12:20:32Z",
   "stats": {
     "fetched": 688,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.8942,
+  "spend_month_usd": 0.9105,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -254,6 +254,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
+    },
+    {
+      "dossier": "Menace à la bombe Wizz Air Londres-Sofia Budapest",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8"
     },
     {
       "dossier": "Ryanair gel des salaires options kérosène",
@@ -641,12 +647,6 @@
     },
     {
       "dossier": "Airbus H145M retard munition Bundeswehr",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Menace à la bombe Wizz Air Londres-Sofia Budapest",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
