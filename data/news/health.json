@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-03T07:01:01Z",
+  "run": "2026-11-03T07:10:43Z",
   "stats": {
     "fetched": 688,
-    "new": 1,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -578,12 +578,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d"
-    },
-    {
-      "dossier": "Air France programme hiver 2026-2027",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Pont aérien Madrid-Andalousie après catastrophe ferroviaire",
