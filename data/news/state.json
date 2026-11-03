@@ -1335,7 +1335,8 @@
     "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html": "2026-11-03T17:40:43Z",
     "https://leehamnews.com/2026/11/03/open-comments-thread-week-of-november-2-2026/": "2026-11-03T18:10:46Z",
     "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026": "2026-11-03T18:20:38Z",
-    "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304": "2026-11-03T18:20:38Z"
+    "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304": "2026-11-03T18:20:38Z",
+    "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled": "2026-11-03T18:40:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4112,10 +4113,31 @@
       ],
       "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
       "written_count": 2
+    },
+    "c2917a949b1": {
+      "id": "c2917a949b1",
+      "label": "Shield AI X-BAT drone de combat VTOL dévoilé",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-03T18:40:51Z",
+      "updated": "2026-11-03T18:40:51Z",
+      "items": [
+        {
+          "id": "39a0bbfe448b3b34",
+          "feed": "The War Zone",
+          "title": "Prototype X-BAT VTOL ‘Fighter’ Drone Unveiled",
+          "url": "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled",
+          "domain": "twz.com",
+          "summary": "We are finally getting our first look at Shield AI's extremely ambitious tail-sitting X-BAT multi-role combat drone. The post Prototype X-BAT VTOL ‘Fighter’ Drone Unveiled appeared first on TWZ .",
+          "published": "2026-11-03T18:33:50Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.099091
+    "2026-11": 1.099894
   }
 }

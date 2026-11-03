@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T18:30:57Z",
+  "run": "2026-11-03T18:40:36Z",
   "stats": {
-    "fetched": 689,
-    "new": 0,
+    "fetched": 690,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.0991,
+  "spend_month_usd": 1.0999,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 30
+      "items": 31
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -713,6 +713,12 @@
     },
     {
       "dossier": "Laser aéroporté Luftwaffe avions de combat",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Shield AI X-BAT drone de combat VTOL dévoilé",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
