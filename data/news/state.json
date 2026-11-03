@@ -1231,7 +1231,9 @@
     "https://www.aero.de/news-54072/Klaeger-wollen-Ausbau-des-Flughafens-LeipzigHalle-stoppen.html": "2026-11-03T05:30:46Z",
     "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html": "2026-11-03T05:40:39Z",
     "https://simpleflying.com/how-much-boeing-747-8-pilots-make-2026/": "2026-11-03T06:01:04Z",
-    "https://www.air-journal.fr/2026-11-03-rome-bologne-bagdad-eurowings-elargit-ses-horizons-depuis-berlin-5278652.html": "2026-11-03T06:01:04Z"
+    "https://www.air-journal.fr/2026-11-03-rome-bologne-bagdad-eurowings-elargit-ses-horizons-depuis-berlin-5278652.html": "2026-11-03T06:01:04Z",
+    "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html": "2026-11-03T06:10:35Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html": "2026-11-03T06:10:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3525,10 +3527,52 @@
       ],
       "story_id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
       "written_count": 1
+    },
+    "cdf76f75cf9": {
+      "id": "cdf76f75cf9",
+      "label": "Lufthansa résultats T3 kérosène",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T06:10:52Z",
+      "updated": "2026-11-03T06:10:52Z",
+      "items": [
+        {
+          "id": "f5e772dc014e4ee5",
+          "feed": "aero.de",
+          "title": "Lufthansa steigert Sommer-Gewinn trotz teuren Kerosins",
+          "url": "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Die Lufthansa hat die stark gestiegenen Kerosinpreise dank teurerer Tickets und guter Geschäfte mit Wartung und Fracht gut weggesteckt. Obwohl die Ausgaben für Treibstoff um mehr als eine halbe Milliarde Euro stiegen, verdiente der Luftverkehrskonzern im dritten Quartal unter dem Strich mit knapp 1,3 Milliarden Euro 30 Prozent mehr als ein Jahr zuvor.",
+          "published": "2026-11-03T06:06:03Z"
+        }
+      ],
+      "story_id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
+      "written_count": 1
+    },
+    "c426c1411ae": {
+      "id": "c426c1411ae",
+      "label": "Ryanair résultats semestriels S1 2026-2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T06:10:52Z",
+      "updated": "2026-11-03T06:10:52Z",
+      "items": [
+        {
+          "id": "6a5db81eeaee2f76",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Ryanair : le bénéfice net semestriel recule de 15%, impacté par le doublement du prix du carburant non couvert",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html",
+          "domain": "journal-aviation.com",
+          "summary": "Ryanair a annoncé le 2 novembre avoir réalisé un bénéfice net de 2,15 milliards d’euros au premier semestre de son exercice 2026-2027, en baisse de 15%, malgré un trafic en […] L’article Ryanair : le bénéfice net semestriel recule de 15%, impacté par le doublement du prix du carburant non couvert a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-03T06:02:48Z"
+        }
+      ],
+      "story_id": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.709912
+    "2026-11": 0.734269
   }
 }

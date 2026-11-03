@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T06:01:04Z",
+  "run": "2026-11-03T06:10:35Z",
   "stats": {
     "fetched": 688,
     "new": 2,
-    "written": 0,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.7099,
+  "spend_month_usd": 0.7343,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -554,6 +554,18 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9"
+    },
+    {
+      "dossier": "Lufthansa résultats T3 kérosène",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9"
+    },
+    {
+      "dossier": "Ryanair résultats semestriels S1 2026-2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae"
     },
     {
       "dossier": "Air France programme hiver 2026-2027",

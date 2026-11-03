@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae",
+    "created": "2026-11-03T06:11:02Z",
+    "updated": "2026-11-03T06:11:02Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair : le bénéfice net du premier semestre 2026-2027 recule de 15%, pénalisé par le carburant",
+    "chapo": "Selon Le Journal de l'Aviation, Ryanair a vu son résultat net semestriel baisser de 15%, à 2,15 milliards d'euros. Le titre de l'article attribue ce recul au doublement du prix du carburant non couvert.",
+    "paragraphes": [
+      "La compagnie irlandaise a publié ses résultats le 2 novembre, pour le premier semestre de son exercice 2026-2027. D'après Le Journal de l'Aviation, le profit net s'établit à 2,15 milliards d'euros, en retrait de 15%.",
+      "Ce recul intervient alors que le trafic progresse, indique le média. Il met en cause l'envolée du coût du carburant que Ryanair n'avait pas couvert, dont le prix aurait doublé."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Ryanair : le bénéfice net semestriel recule de 15%, impacté par le doublement du prix du carburant non couvert",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html",
+        "date": "2026-11-03T06:02:48Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
+    "created": "2026-11-03T06:10:56Z",
+    "updated": "2026-11-03T06:10:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa : bénéfice net en hausse de 30 % au troisième trimestre malgré la flambée du kérosène",
+    "chapo": "Selon aero.de, Lufthansa a absorbé la forte hausse des prix du kérosène au troisième trimestre grâce à des billets plus chers et à de bons résultats dans la maintenance et le fret.",
+    "paragraphes": [
+      "D'après aero.de, les dépenses de carburant du groupe ont augmenté de plus d'un demi-milliard d'euros sur la période. Le groupe de transport aérien a malgré tout dégagé un bénéfice net d'un peu moins de 1,3 milliard d'euros.",
+      "Ce résultat est supérieur de 30 % à celui du même trimestre un an plus tôt, toujours d'après le média allemand. Celui-ci attribue cette performance à la hausse des tarifs et à l'activité dans la maintenance et le fret."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Lufthansa steigert Sommer-Gewinn trotz teuren Kerosins",
+        "url": "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html",
+        "date": "2026-11-03T06:06:03Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
     "created": "2026-11-03T05:40:58Z",
     "updated": "2026-11-03T05:40:58Z",
