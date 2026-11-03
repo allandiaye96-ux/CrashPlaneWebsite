@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T00:30:47Z",
+  "run": "2026-11-03T00:40:32Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.6666,
+  "spend_month_usd": 0.6759,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -530,6 +530,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810"
+    },
+    {
+      "dossier": "American Airlines reprise Port-au-Prince Haïti",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae"
     },
     {
       "dossier": "Air France programme hiver 2026-2027",

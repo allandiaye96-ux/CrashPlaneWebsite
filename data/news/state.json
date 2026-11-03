@@ -1218,7 +1218,8 @@
     "https://simpleflying.com/jetblue-3-destinations-1-city-launches-today/": "2026-11-02T22:30:49Z",
     "https://simpleflying.com/boeing-admits-future-freighters-twin-engine-jets/": "2026-11-02T23:01:01Z",
     "https://www.air-journal.fr/2026-11-03-le-3-novembre-1912-dans-le-ciel-roland-garros-a-la-guigne-5278650.html": "2026-11-02T23:10:34Z",
-    "https://simpleflying.com/american-airlines-double-size-philadelphia-flagship-lounge/": "2026-11-03T00:10:34Z"
+    "https://simpleflying.com/american-airlines-double-size-philadelphia-flagship-lounge/": "2026-11-03T00:10:34Z",
+    "https://simpleflying.com/american-airlines-returns-haiti-2-hears-haitian-crew/": "2026-11-03T00:40:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3440,10 +3441,31 @@
       ],
       "story_id": "2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810",
       "written_count": 1
+    },
+    "cd37aa894ae": {
+      "id": "cd37aa894ae",
+      "label": "American Airlines reprise Port-au-Prince Haïti",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-03T00:40:47Z",
+      "updated": "2026-11-03T00:40:47Z",
+      "items": [
+        {
+          "id": "04d8ae578e66fa0b",
+          "feed": "Simple Flying",
+          "title": "Not Port-au-Prince: American Airlines Returns To Haiti After 2+ Years With All-Haitian Crew",
+          "url": "https://simpleflying.com/american-airlines-returns-haiti-2-hears-haitian-crew/",
+          "domain": "simpleflying.com",
+          "summary": "Flights from the US to the country's capital are still restricted.",
+          "published": "2026-11-03T00:31:33Z"
+        }
+      ],
+      "story_id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.666606
+    "2026-11": 0.675917
   }
 }

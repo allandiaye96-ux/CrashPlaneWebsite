@@ -6,7 +6,15 @@
   <atom:link href="https://www.crashplanewebsite.com/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 00:31:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 00:40:52 +0000</lastBuildDate>
+  <item>
+    <title>American Airlines reprend ses vols vers Haïti après plus de deux ans, avec un équipage entièrement haïtien</title>
+    <link>https://www.crashplanewebsite.com/actualites/2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae/</link>
+    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae/</guid>
+    <pubDate>Tue, 03 Nov 2026 00:40:52 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, American Airlines revient en Haïti après plus de deux ans d&#x27;absence, avec un équipage entièrement haïtien. La destination desservie n&#x27;est pas Port-au-Prince.</description>
+  </item>
   <item>
     <title>United : son directeur général juge que l&#x27;Overture de Boom manquera l&#x27;objectif d&#x27;entrée en service de 2029</title>
     <link>https://www.crashplanewebsite.com/actualites/2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 31 Oct 2026 09:01:14 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>Selon Air Journal, les passagers de vols internationaux à destination des États-Unis devront attester qu&#x27;ils n&#x27;ont pas séjourné en République démocratique du Congo durant les 21 jours précédents. L&#x27;IATA juge le délai de mise en œuvre trop court, rapporte airliners.de.</description>
-  </item>
-  <item>
-    <title>Delta, United et JetBlue visées par une enquête fédérale sur l&#x27;usage des données passagers dans leurs tarifs</title>
-    <link>https://www.crashplanewebsite.com/actualites/2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6/</link>
-    <guid isPermaLink="true">https://www.crashplanewebsite.com/actualites/2026-10-31-delta-united-et-jetblue-visees-par-une-enquete-federale-sur-98b6/</guid>
-    <pubDate>Sat, 31 Oct 2026 07:20:47 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, les compagnies Delta, United et JetBlue font l&#x27;objet d&#x27;une enquête fédérale portant sur l&#x27;utilisation des données de leurs passagers pour personnaliser les tarifs.</description>
   </item>
 </channel>
 </rss>

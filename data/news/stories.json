@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
+    "created": "2026-11-03T00:40:52Z",
+    "updated": "2026-11-03T00:40:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "American Airlines reprend ses vols vers Haïti après plus de deux ans, avec un équipage entièrement haïtien",
+    "chapo": "Selon Simple Flying, American Airlines revient en Haïti après plus de deux ans d'absence, avec un équipage entièrement haïtien. La destination desservie n'est pas Port-au-Prince.",
+    "paragraphes": [
+      "D'après le média spécialisé, cette reprise ne concerne pas la capitale haïtienne : les vols depuis les États-Unis vers Port-au-Prince restent soumis à des restrictions."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Not Port-au-Prince: American Airlines Returns To Haiti After 2+ Years With All-Haitian Crew",
+        "url": "https://simpleflying.com/american-airlines-returns-haiti-2-hears-haitian-crew/",
+        "date": "2026-11-03T00:31:33Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810",
     "created": "2026-11-02T21:01:31Z",
     "updated": "2026-11-02T21:01:31Z",
