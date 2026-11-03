@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T10:01:00Z",
+  "run": "2026-11-03T10:08:53Z",
   "stats": {
     "fetched": 688,
-    "new": 2,
-    "written": 0,
+    "new": 13,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 0.7821,
+  "spend_month_usd": 0.8261,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -102,7 +102,7 @@
     {
       "dossier": "Learjet 60 accident Palm Beach Floride",
       "statut": "corrobore",
-      "editeurs": 5,
+      "editeurs": 6,
       "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
     },
     {
@@ -110,6 +110,12 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
+    },
+    {
+      "dossier": "Grèce KC-390 Embraer",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
       "dossier": "Ilulissat nouvel aéroport Groenland",
@@ -122,12 +128,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae"
-    },
-    {
-      "dossier": "Grèce KC-390 Embraer",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
       "dossier": "Airbus résultats T3 2026 livraisons",
@@ -653,6 +653,12 @@
     },
     {
       "dossier": "Merz baisse de la taxe aérienne et Berlin",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Lockheed contrat missile hypersonique AGM-183A 694 M$",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

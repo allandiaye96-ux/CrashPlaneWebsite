@@ -1253,7 +1253,20 @@
     "https://www.airliners.de/merz-will-luftverkehrsteuer-weiter-senken-und-berlin-besser-anbinden/91267": "2026-11-03T09:20:33Z",
     "https://www.airliners.de/hiserv-oeffnet-werkstatt-flughafen-kopenhagen/91259": "2026-11-03T09:20:33Z",
     "https://simpleflying.com/ultra-long-haul-flights-still-need-4-pilots-cockpit-takeoff/": "2026-11-03T10:01:00Z",
-    "https://www.air-journal.fr/2026-11-03-air-montenegro-paris-cdg-parmi-cinq-liaisons-soutenues-par-letat-montenegrin-5278656.html": "2026-11-03T10:01:00Z"
+    "https://www.air-journal.fr/2026-11-03-air-montenegro-paris-cdg-parmi-cinq-liaisons-soutenues-par-letat-montenegrin-5278656.html": "2026-11-03T10:01:00Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=FBF604B1-6AC9-4BFE-BE3A-3F82A199C649": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=4397FD37-CBE8-4CE6-AD75-486C904727E3": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=37E4275C-7A3C-4295-8815-79F81CC27793": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C98F0496-D4CE-4BA3-8257-33DA1A66F44B": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=559C8591-990B-4EF5-8D63-BC6681AC6FD8": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=5E0BCEB7-AF25-4CAB-B8EE-0F060E7447B3": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C5C392DD-55D7-4775-BBE2-F9060254D129": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E25B6734-63D0-4BEB-9573-63FFEB0A0603": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=34FC9992-E65C-467C-B720-4F53F9F0B2F9": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=AF2EDD9E-EC96-475C-B43A-86CEC4D5AC60": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=56311C79-25C9-4245-B454-51FA4877D481": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=0595BCB4-0AB9-4039-8434-16E8D225D637": "2026-11-03T10:08:53Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=12BA1076-A9A1-47EB-AE8D-C94CDE440AA3": "2026-11-03T10:08:53Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2666,7 +2679,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-01T20:40:47Z",
-      "updated": "2026-11-02T14:20:49Z",
+      "updated": "2026-11-03T10:09:13Z",
       "items": [
         {
           "id": "f4d9d74a3fa0d7f5",
@@ -2712,10 +2725,19 @@
           "domain": "airliners.de",
           "summary": "Ein Learjet 60 ist auf dem Weg von Texas auf die Bahamas in Florida abgestürzt. Alle neun Menschen an Bord kamen ums Leben. Die Funksprüche aus dem Cockpit dokumentieren die letzten Sekunden des Flugs.",
           "published": "2026-11-02T13:46:16Z"
+        },
+        {
+          "id": "5efef2e0520bebaf",
+          "feed": "Aero-News Network",
+          "title": "NTSB Go-Team Heads To Florida To Investigate Tragic Sunday Learjet 60 Accident",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=559C8591-990B-4EF5-8D63-BC6681AC6FD8",
+          "domain": "aero-news.net",
+          "summary": "Investigators Began Arriving At The Site Sunday And Monday The National Transportation Safety Board (NTSB) is expected to give a briefing in West Palm Beach Monday on the Learjet 60 accident in Florida. A Learjet 60 went down in a residential area near Cresthaven, Florida around 12:50 p.m. local time Sunday, Nov. 1. Nine people were aboard and all deceased. Radio transmissions between the pilots of the Learjet and Air Traffic Control captured some of the flight's final moments indicating a rapid descent from altitude. The pilot had radioed ATC to report light-to-manageable clear ice accumulation before the rapid descent, according to CNN. Florida Gov. Ron DeSantis, who visited the scene Sund",
+          "published": null
         }
       ],
       "story_id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
-      "written_count": 5
+      "written_count": 6
     },
     "c04977d8e92": {
       "id": "c04977d8e92",
@@ -3047,7 +3069,7 @@
       "categorie": "Défense",
       "importance": 3,
       "created": "2026-11-02T13:01:18Z",
-      "updated": "2026-11-02T15:10:50Z",
+      "updated": "2026-11-03T10:09:13Z",
       "items": [
         {
           "id": "974f4f1c6d9601bd",
@@ -3084,10 +3106,19 @@
           "domain": "theaviationist.com",
           "summary": "The Hellenic Air Force has placed a firm order for three KC-390 Millennium aircraft from Brazilian manufacturer Embraer, to be delivered from 2027, with options for three more also included in the deal. Greece will join the growing list of countries operating Embraer’s jet-powered medium airlifter following a finalized deal signed in Athens on Nov. […]",
           "published": "2026-11-02T15:06:22Z"
+        },
+        {
+          "id": "88a7487967e070fa",
+          "feed": "Aero-News Network",
+          "title": "Greece Acquires Embraer KC-390 Millennium Multi-Mission Aircraft",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=34FC9992-E65C-467C-B720-4F53F9F0B2F9",
+          "domain": "aero-news.net",
+          "summary": "Three Of The Aircraft Now And Options For Three More The Hellenic Ministry of National Defense has signed a contract to acquire three KC-390 Millennium with options for an additional three aircraft, produced by Embraer through a government-to-government agreement between Greece and Portugal. The Hellenic Air Force will receive its first KC-390 Millennium in 2027, enhancing its airlift and air-to-air refueling capabilities while strengthening interoperability with NATO (North Atlantic Treaty Organization) and allied forces. Greece will also benefit from European synergies in training, support, and logistics. Greece becomes the seventh European nation to select the aircraft, joining Portugal, ",
+          "published": null
         }
       ],
       "story_id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
-      "written_count": 4
+      "written_count": 5
     },
     "c780fa1dfdd": {
       "id": "c780fa1dfdd",
@@ -3649,10 +3680,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c305ae42703": {
+      "id": "c305ae42703",
+      "label": "Lockheed contrat missile hypersonique AGM-183A 694 M$",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-03T10:09:13Z",
+      "updated": "2026-11-03T10:09:13Z",
+      "items": [
+        {
+          "id": "219f97902ff4d1ec",
+          "feed": "Aero-News Network",
+          "title": "Air Force Awards Lockheed $694 Million Hypersonic Missile Production Contract",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=5E0BCEB7-AF25-4CAB-B8EE-0F060E7447B3",
+          "domain": "aero-news.net",
+          "summary": "AGM-183A Air-Launched Rapid Response Weapon The U.S. Air Force awarded Lockheed Martin a nearly $700 million contract for the production and fielding of a hypersonic missile. The service granted Lockheed the $694 million contract in late September as it moved the AGM-183A Air-Launched Rapid Response Weapon, or ARRW, from prototyping and flight testing to production, according to a Monday announcement. The contract, which was completed under the Defense Department’s Enterprise-Wide Agile Acquisition Contract, is another effort by the U.S. military to modernize the country’s Arsenal of Freedom, the statement says.",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 0.782095
+    "2026-11": 0.826102
   }
 }

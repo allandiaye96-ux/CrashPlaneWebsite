@@ -1,5 +1,133 @@
 [
   {
+    "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
+    "created": "2026-11-02T13:01:51Z",
+    "updated": "2026-11-03T10:09:34Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 3,
+    "titre": "La Grèce commande trois Embraer KC-390 Millennium, avec une option pour trois appareils de plus",
+    "chapo": "Athènes a conclu l'achat de trois avions de transport militaire KC-390 Millennium auprès d'Embraer, assorti d'options sur trois exemplaires supplémentaires, selon AviTrader. Le contrat passe par un accord d'État à État entre la Grèce et le Portugal.",
+    "paragraphes": [
+      "D'après Aero-News Network, la force aérienne hellénique doit recevoir son premier KC-390 en 2027. L'appareil renforcera ses capacités de transport et de ravitaillement en vol, ainsi que son interopérabilité avec l'OTAN et les forces alliées. La Grèce bénéficiera aussi de synergies européennes en matière de formation, de soutien et de logistique.",
+      "Selon The Aviationist, l'accord a été finalisé à Athènes et il s'agit d'une commande ferme pour trois appareils, avec trois options. Aero-News Network indique que la Grèce devient la septième nation européenne à choisir cet avion, après notamment le Portugal. AeroTime précise qu'Embraer a confirmé que l'acquisition porte sur trois appareils, pour un total pouvant atteindre six."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 5,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Greece Acquires Embraer KC-390 Millennium Multi-Mission Aircraft",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=34FC9992-E65C-467C-B720-4F53F9F0B2F9",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "The Hellenic Ministry of National Defense signs KC-390 order",
+        "url": "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/",
+        "date": "2026-11-02T12:55:58Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums",
+        "url": "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft",
+        "date": "2026-11-02T12:58:55Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "La Grèce finalise son contrat d’acquisition d’Embraer KC-390",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html",
+        "date": "2026-11-02T13:32:41Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "Greece Signs for up to Six Embraer KC-390 Millennium Multi-Role Transports",
+        "url": "https://theaviationist.com/2026/11/02/greece-orders-kc390-millennium/",
+        "date": "2026-11-02T15:06:22Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
+    "created": "2026-11-01T22:01:32Z",
+    "updated": "2026-11-03T10:09:25Z",
+    "version": 5,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Learjet 60 : neuf morts dans un accident en Floride, le NTSB envoie une équipe sur place",
+    "chapo": "Un Learjet 60 s'est écrasé le 1er novembre près de West Palm Beach, en Floride, avec neuf personnes à bord, selon Flightradar24. D'après Aero-News Network, aucun occupant n'a survécu.",
+    "paragraphes": [
+      "L'appareil effectuait une liaison entre l'aéroport international d'Austin-Bergstrom et celui de North Eleuthera, aux Bahamas, indique Flightradar24, qui cite la FAA pour le nombre de personnes à bord. L'accident s'est produit vers 17h49 UTC, soit 12h49 en heure locale. Selon Aero-News Network, l'avion est tombé dans une zone résidentielle.",
+      "D'après Aero-News Network, qui s'appuie sur CNN, les échanges radio avec le contrôle aérien font état d'une descente rapide depuis l'altitude de croisière. Le pilote avait auparavant signalé une accumulation de givre clair qu'il qualifiait de légère à gérable. AeroTime évoque pour sa part des signalements de givrage et de turbulences de la part des pilotes. Simple Flying décrit une descente le nez vers le bas, suivie d'un impact accompagné d'un incendie.",
+      "Selon Aero-News Network, une équipe d'enquêteurs du NTSB s'est rendue sur place, et un point de presse de l'agence était prévu à West Palm Beach. Les causes de l'accident ne sont pas établies."
+    ],
+    "contradictions": "Le lieu de l'accident varie selon les sources : Cresthaven (Aero-News Network), Greenacres près de Mar-a-Lago (Simple Flying), près de West Palm Beach (Flightradar24) et comté de Palm Beach (AeroTime). L'heure est donnée à 12h50 heure locale par Aero-News Network, contre 12h49 (17h49 UTC) par Flightradar24.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 6,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "NTSB Go-Team Heads To Florida To Investigate Tragic Sunday Learjet 60 Accident",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=559C8591-990B-4EF5-8D63-BC6681AC6FD8",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Tote bei Learjet-Absturz in Florida",
+        "url": "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html",
+        "date": "2026-11-01T20:40:28Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Breaking: Learjet 60 With 9 People Onboard Fatally Nose Dives In Missile-Like Crash Near Mar-A-Lago",
+        "url": "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/",
+        "date": "2026-11-01T21:59:52Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Learjet 60 crashes near West Palm Beach, Florida",
+        "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/",
+        "date": "2026-11-01T23:25:42Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
+        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence",
+        "date": "2026-11-02T01:25:36Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Neun Tote bei Absturz eines Learjet 60 in Florida",
+        "url": "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243",
+        "date": "2026-11-02T13:46:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
     "created": "2026-11-03T08:40:59Z",
     "updated": "2026-11-03T08:40:59Z",
@@ -518,59 +646,6 @@
     ]
   },
   {
-    "id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
-    "created": "2026-11-02T13:01:51Z",
-    "updated": "2026-11-02T15:10:59Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Défense",
-    "importance": 3,
-    "titre": "Grèce : contrat signé pour trois Embraer KC-390 Millennium, avec option sur trois appareils de plus",
-    "chapo": "Athènes a officialisé l'achat de trois avions de transport militaire KC-390 Millennium auprès d'Embraer, assorti d'options pour trois exemplaires supplémentaires, selon AviTrader. L'accord a été conclu entre la Grèce et le Portugal.",
-    "paragraphes": [
-      "Le contrat passé par le ministère hellénique de la Défense nationale prend la forme d'un accord de gouvernement à gouvernement entre la Grèce et le Portugal, d'après AviTrader. Embraer a de son côté confirmé que l'acquisition porte sur trois appareils, avec jusqu'à six KC-390 Millennium au total si les options sont levées, selon AeroTime.",
-      "The Aviationist précise qu'il s'agit d'une commande ferme de l'armée de l'air grecque, signée à Athènes, avec des livraisons prévues à partir de 2027. La Grèce rejoindra ainsi la liste des pays exploitant ce transporteur tactique à réaction du constructeur brésilien."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 4,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "The Hellenic Ministry of National Defense signs KC-390 order",
-        "url": "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/",
-        "date": "2026-11-02T12:55:58Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Embraer confirms Greek defense acquisition includes up to six KC-390 Millenniums",
-        "url": "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft",
-        "date": "2026-11-02T12:58:55Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "La Grèce finalise son contrat d’acquisition d’Embraer KC-390",
-        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-militaires/la-grece-finalise-son-contrat-dacquisition-dembraer-kc-390-20261102.html",
-        "date": "2026-11-02T13:32:41Z",
-        "official": false
-      },
-      {
-        "name": "The Aviationist",
-        "title": "Greece Signs for up to Six Embraer KC-390 Millennium Multi-Role Transports",
-        "url": "https://theaviationist.com/2026/11/02/greece-orders-kc390-millennium/",
-        "date": "2026-11-02T15:06:22Z",
-        "official": false
-      }
-    ]
-  },
-  {
     "id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
     "created": "2026-11-02T05:01:20Z",
     "updated": "2026-11-02T15:01:38Z",
@@ -701,66 +776,6 @@
         "title": "Hohe Kerosinpreise drücken Air China, China Eastern und China Southern ins Minus",
         "url": "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244",
         "date": "2026-11-02T13:46:39Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb",
-    "created": "2026-11-01T22:01:32Z",
-    "updated": "2026-11-02T14:20:57Z",
-    "version": 4,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Accident",
-    "importance": 3,
-    "titre": "Floride : un Learjet 60 s'écrase près de West Palm Beach, les neuf personnes à bord sont mortes",
-    "chapo": "Un Learjet 60 s'est écrasé le 1er novembre en Floride, dans le comté de Palm Beach, selon AeroTime. Les neuf occupants ont perdu la vie.",
-    "paragraphes": [
-      "D'après Flightradar24, l'accident s'est produit vers 17:49 UTC (12:49 heure locale) près de West Palm Beach. La FAA indique que neuf personnes se trouvaient à bord de l'appareil, qui effectuait la liaison entre l'aéroport international Austin-Bergstrom et l'aéroport de North Eleuthera, aux Bahamas. Simple Flying situe le point d'impact à Greenacres, près de Mar-a-Lago, et évoque une descente le nez vers le bas suivie d'un impact avec incendie. Selon aero.de, l'avion est tombé à côté d'une route et personne n'a survécu.",
-      "AeroTime rapporte que les pilotes avaient signalé des conditions de givrage et de turbulences. Pour airliners.de, les échanges radio avec le cockpit documentent les dernières secondes du vol. Les causes de l'accident ne sont pas établies à ce stade."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 5,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Tote bei Learjet-Absturz in Florida",
-        "url": "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html",
-        "date": "2026-11-01T20:40:28Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Breaking: Learjet 60 With 9 People Onboard Fatally Nose Dives In Missile-Like Crash Near Mar-A-Lago",
-        "url": "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/",
-        "date": "2026-11-01T21:59:52Z",
-        "official": false
-      },
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "Learjet 60 crashes near West Palm Beach, Florida",
-        "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/",
-        "date": "2026-11-01T23:25:42Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Nine killed in Florida Learjet crash after pilots report icing and turbulence",
-        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence",
-        "date": "2026-11-02T01:25:36Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Neun Tote bei Absturz eines Learjet 60 in Florida",
-        "url": "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243",
-        "date": "2026-11-02T13:46:16Z",
         "official": false
       }
     ]
