@@ -1353,7 +1353,8 @@
     "https://www.flightradar24.com/blog/aviation-news/runway-construction-wreaks-havoc-on-buenos-aires-international-network/": "2026-11-03T20:10:39Z",
     "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/": "2026-11-03T20:20:41Z",
     "https://simpleflying.com/us-army-black-hawk-helicopter-struck-fireworks-dramatic-nfl-flyover/": "2026-11-03T20:20:41Z",
-    "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability": "2026-11-03T20:20:41Z"
+    "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability": "2026-11-03T20:20:41Z",
+    "https://simpleflying.com/united-airlines-launches-11-new-international-routes/": "2026-11-03T20:30:51Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4248,6 +4249,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.125137
+    "2026-11": 1.125918
   }
 }
