@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-03T19:50:45Z",
+  "run": "2026-11-03T20:01:16Z",
   "stats": {
     "fetched": 691,
-    "new": 0,
+    "new": 5,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.1149,
+  "spend_month_usd": 1.1158,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -725,6 +725,18 @@
     },
     {
       "dossier": "FAA inspections réservoirs carburant 787 foudre",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Bonanza VH-MPT crash Archerfield Brisbane",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "CASA suspension Fortescue Helicopters",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

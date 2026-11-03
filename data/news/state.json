@@ -1344,7 +1344,12 @@
     "https://simpleflying.com/breeze-launches-flights-to-6-new-destinations/": "2026-11-03T19:20:36Z",
     "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk": "2026-11-03T19:20:36Z",
     "https://theaviationist.com/2026/11/03/ga-asi-opens-remote-split-operation-facility/": "2026-11-03T19:20:36Z",
-    "https://simpleflying.com/jetblue-cancels-13-international-nonstop-routes/": "2026-11-03T19:31:09Z"
+    "https://simpleflying.com/jetblue-cancels-13-international-nonstop-routes/": "2026-11-03T19:31:09Z",
+    "https://australianaviation.com.au/2026/11/perth-airport-prepares-to-open-new-p1-transport-hub/": "2026-11-03T20:01:16Z",
+    "https://australianaviation.com.au/2026/11/bonanza-had-engine-trouble-before-fatal-brisbane-crash-says-atsb/": "2026-11-03T20:01:16Z",
+    "https://australianaviation.com.au/2026/11/amadeus-hack-a-warning-for-australias-cybersecurity-expert/": "2026-11-03T20:01:16Z",
+    "https://australianaviation.com.au/2026/11/wa-helicopter-operator-grounded-over-serious-safety-concerns/": "2026-11-03T20:01:16Z",
+    "https://australianaviation.com.au/2026/11/investment-nsw-will-not-exhibit-at-avalon-2027/": "2026-11-03T20:01:16Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4172,10 +4177,52 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6502874509": {
+      "id": "c6502874509",
+      "label": "Bonanza VH-MPT crash Archerfield Brisbane",
+      "categorie": "Accident",
+      "importance": 3,
+      "created": "2026-11-03T20:01:29Z",
+      "updated": "2026-11-03T20:01:29Z",
+      "items": [
+        {
+          "id": "a42a4a4e7cdf652f",
+          "feed": "Australian Aviation",
+          "title": "Bonanza had engine trouble before fatal Brisbane crash, says ATSB",
+          "url": "https://australianaviation.com.au/2026/11/bonanza-had-engine-trouble-before-fatal-brisbane-crash-says-atsb/",
+          "domain": "australianaviation.com.au",
+          "summary": "The aircraft, registration VH-MPT, crashed into open grass farmland around seven minutes after take-off from Archerfield Airport in Queensland on 7 September 2026, with a pilot and a passenger on board. The aircraft caught alight upon impact, and both occupants were fatally injured.",
+          "published": "2026-11-03T04:04:22Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "ceab2406ab6": {
+      "id": "ceab2406ab6",
+      "label": "CASA suspension Fortescue Helicopters",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-03T20:01:29Z",
+      "updated": "2026-11-03T20:01:29Z",
+      "items": [
+        {
+          "id": "803d21e2e16e89b8",
+          "feed": "Australian Aviation",
+          "title": "WA helicopter operator grounded over ‘serious’ safety concerns",
+          "url": "https://australianaviation.com.au/2026/11/wa-helicopter-operator-grounded-over-serious-safety-concerns/",
+          "domain": "australianaviation.com.au",
+          "summary": "CASA said it had reason to believe that Fortescue Helicopters maintains a “deliberately and systematically non-compliant safety culture” and regularly directs its pilots to operate outside of regulatory guidelines.",
+          "published": "2026-11-03T00:50:05Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.114901
+    "2026-11": 1.115827
   }
 }
