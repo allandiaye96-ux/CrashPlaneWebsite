@@ -2,23 +2,23 @@
   {
     "id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
     "created": "2026-11-04T11:50:56Z",
-    "updated": "2026-11-04T15:01:25Z",
-    "version": 2,
+    "updated": "2026-11-04T15:21:06Z",
+    "version": 3,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "IndiGo en discussions avec Embraer pour une possible commande d'une centaine d'avions régionaux",
-    "chapo": "Selon Reuters, repris par AeroTime et Le Journal de l'Aviation, la compagnie indienne IndiGo discuterait avec Embraer d'une commande potentielle d'environ 100 jets régionaux.",
+    "titre": "IndiGo en discussions avec Embraer pour une commande potentielle d'une centaine d'avions régionaux",
+    "chapo": "La plus grande compagnie aérienne indienne, IndiGo, négocierait avec Embraer l'achat de 100 jets régionaux, selon des informations de Reuters relayées par AeroTime.",
     "paragraphes": [
-      "D'après Le Journal de l'Aviation, qui cite Reuters, les discussions seraient préliminaires. IndiGo envisagerait l'acquisition d'une centaine d'E-Jets, à laquelle pourraient s'ajouter cinquante options.",
-      "AeroTime présente IndiGo comme la plus grande compagnie aérienne d'Inde. Aucune commande n'est annoncée à ce stade."
+      "D'après Le Journal de l'Aviation, qui cite Reuters, les échanges seraient à un stade préliminaire. IndiGo envisagerait d'acquérir une centaine d'E-Jets, auxquels pourraient s'ajouter cinquante options.",
+      "Selon airliners.de, il s'agirait de l'une des plus importantes commandes de l'histoire du constructeur brésilien. Le modèle d'appareil concerné n'a pas encore été arrêté."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 2,
+      "independent_sources": 3,
       "official_source": false
     },
     "sources": [
@@ -34,6 +34,13 @@
         "title": "IndiGo discuterait d’une potentielle commande d’Embraer",
         "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/indigo-discuterait-dune-potentielle-commande-dembraer-20261104.html",
         "date": "2026-11-04T14:53:05Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Indigo verhandelt über Kauf von 100 Embraer-Jets",
+        "url": "https://www.airliners.de/indigo-verhandelt-kauf-100-embraer-jets/91321",
+        "date": "2026-11-04T14:57:02Z",
         "official": false
       }
     ]

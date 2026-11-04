@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T15:11:20Z",
+  "run": "2026-11-04T15:20:49Z",
   "stats": {
     "fetched": 693,
-    "new": 0,
-    "written": 0,
+    "new": 7,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.5672,
+  "spend_month_usd": 1.5765,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -220,6 +220,12 @@
       "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
     },
     {
+      "dossier": "IndiGo commande jets régionaux Embraer",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -362,12 +368,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
-    },
-    {
-      "dossier": "IndiGo commande jets régionaux Embraer",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",

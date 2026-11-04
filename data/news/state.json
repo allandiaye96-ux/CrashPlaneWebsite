@@ -1443,7 +1443,14 @@
     "https://www.airliners.de/us-zwischenwahlen-fraport-chef-erwartet-leichten-rueckenwind-luftverkehr/91310": "2026-11-04T14:20:35Z",
     "https://simpleflying.com/delta-air-lines-boeing-757-fleet-fell-127-83-retired-jets-spare-parts/": "2026-11-04T15:01:06Z",
     "https://www.air-journal.fr/2026-11-04-un-a380-demirates-a-bruxelles-en-mars-2027-nouvelle-occasion-de-tester-la-triple-passerelle-5278676.html": "2026-11-04T15:01:06Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/indigo-discuterait-dune-potentielle-commande-dembraer-20261104.html": "2026-11-04T15:01:06Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/indigo-discuterait-dune-potentielle-commande-dembraer-20261104.html": "2026-11-04T15:01:06Z",
+    "https://simpleflying.com/air-transat-cancels-9-hour-transatlantic-route/": "2026-11-04T15:20:49Z",
+    "https://www.airliners.de/flughafenmalaria-frankfurt-westafrika-gentests/91323": "2026-11-04T15:20:49Z",
+    "https://www.airliners.de/weltweiter-fluglotsenmangel-befeuert-abwerbung-laendergrenzen/91322": "2026-11-04T15:20:49Z",
+    "https://www.airliners.de/indigo-verhandelt-kauf-100-embraer-jets/91321": "2026-11-04T15:20:49Z",
+    "https://www.airliners.de/lufthansa-spart-2027-flugzeuge-kuendigt-zusaetzliche-massnahmen-kernmarke/91284": "2026-11-04T15:20:49Z",
+    "https://www.airliners.de/brandenburg-verkehrsminister-kontert-merz-kritik-berliner-flughafenpolitik/91319": "2026-11-04T15:20:49Z",
+    "https://www.airliners.de/eu-kommission-touristenstroeme-gleichmaessiger-verteilen/91317": "2026-11-04T15:20:49Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4620,7 +4627,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-04T11:50:52Z",
-      "updated": "2026-11-04T15:01:20Z",
+      "updated": "2026-11-04T15:21:03Z",
       "items": [
         {
           "id": "b2eeb92af4c1281b",
@@ -4639,10 +4646,19 @@
           "domain": "journal-aviation.com",
           "summary": "Selon les informations de l’agence Reuters, IndiGo serait en discussion préliminaire avec Embraer et envisagerait d’acquérir une centaine d’E-Jets. A ces appareils pourraient s’ajouter cinquante options. De telles discussions avaient […] L’article IndiGo discuterait d’une potentielle commande d’Embraer a été publié sur Le Journal de l'Aviation .",
           "published": "2026-11-04T14:53:05Z"
+        },
+        {
+          "id": "03f5f6a7743ef2b9",
+          "feed": "airliners.de",
+          "title": "Indigo verhandelt über Kauf von 100 Embraer-Jets",
+          "url": "https://www.airliners.de/indigo-verhandelt-kauf-100-embraer-jets/91321",
+          "domain": "airliners.de",
+          "summary": "Die größte Fluggesellschaft Indiens spricht mit Embraer über einen der größten Aufträge in der Geschichte des brasilianischen Herstellers. Welches Flugzeugmuster es werden soll, ist allerdings noch offen.",
+          "published": "2026-11-04T14:57:02Z"
         }
       ],
       "story_id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
-      "written_count": 2
+      "written_count": 3
     },
     "c28d60c8f8b": {
       "id": "c28d60c8f8b",
@@ -4752,6 +4768,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.567191
+    "2026-11": 1.576543
   }
 }
