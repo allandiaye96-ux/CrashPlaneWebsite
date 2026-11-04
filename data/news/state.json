@@ -1397,7 +1397,8 @@
     "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile": "2026-11-04T08:50:36Z",
     "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html": "2026-11-04T09:10:35Z",
     "https://simpleflying.com/avolon-boeing-737-max-10-order/": "2026-11-04T09:20:33Z",
-    "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order": "2026-11-04T09:50:37Z"
+    "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order": "2026-11-04T09:50:37Z",
+    "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/": "2026-11-04T10:01:02Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4224,9 +4225,9 @@
       "id": "c5a0cf1fbb6",
       "label": "FAA inspections réservoirs carburant 787 foudre",
       "categorie": "Sécurité et réglementation",
-      "importance": 2,
+      "importance": 3,
       "created": "2026-11-03T19:20:59Z",
-      "updated": "2026-11-04T09:10:53Z",
+      "updated": "2026-11-04T10:01:16Z",
       "items": [
         {
           "id": "3913ed5d39a5199f",
@@ -4245,10 +4246,19 @@
           "domain": "air-journal.fr",
           "summary": "La Federal Aviation Administration (FAA) impose des inspections de certains Boeing 787-8, 787-9 et 787-10 après avoir constaté l’absence de preuves attestant la réalisation de contrôles obligatoires de mastics dans le réservoir central de voilure, lors de leur fabrication. L’enjeu : prévenir l’apparition d’une source d’inflammation en cas de foudroiement. La mesure, qui concerne selon […]",
           "published": "2026-11-04T09:00:48Z"
+        },
+        {
+          "id": "d3a3591bf3ceac2a",
+          "feed": "Simple Flying",
+          "title": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
+          "url": "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/",
+          "domain": "simpleflying.com",
+          "summary": "The FAA's directive covers 60 US-registered jets, with an unknown number of foreign-registered aircraft potentially affected.",
+          "published": "2026-11-04T09:54:09Z"
         }
       ],
       "story_id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
-      "written_count": 2
+      "written_count": 3
     },
     "c6502874509": {
       "id": "c6502874509",
@@ -4511,6 +4521,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.334873
+    "2026-11": 1.354458
   }
 }

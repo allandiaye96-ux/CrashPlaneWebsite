@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
+    "created": "2026-11-04T09:10:57Z",
+    "updated": "2026-11-04T10:01:25Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 3,
+    "titre": "Boeing 787 : la FAA impose des inspections du réservoir central après un défaut de traçabilité de contrôles",
+    "chapo": "La FAA exige des vérifications sur plusieurs Dreamliner, faute de preuves que des contrôles de mastic dans le réservoir central avaient été réalisés en production, selon Air Journal. L'objectif est d'écarter tout risque d'inflammation en cas de foudroiement.",
+    "paragraphes": [
+      "D'après Air Journal, la directive vise des appareils des séries 787-8, 787-9 et 787-10. Les documents ne permettaient pas d'attester que les contrôles obligatoires des produits d'étanchéité du réservoir central de voilure avaient bien eu lieu pendant la fabrication.",
+      "Selon Simple Flying, la mesure concerne 60 avions immatriculés aux États-Unis, auxquels pourrait s'ajouter un nombre indéterminé d'appareils immatriculés à l'étranger. AeroTime relie cette décision au risque d'explosion du réservoir en cas de foudroiement."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk",
+        "url": "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk",
+        "date": "2026-11-03T19:03:33Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Réservoirs du Boeing 787 : des contrôles de fabrication non vérifiés déclenchent une directive de la FAA",
+        "url": "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html",
+        "date": "2026-11-04T09:00:48Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
+        "url": "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/",
+        "date": "2026-11-04T09:54:09Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
     "created": "2026-11-04T08:31:13Z",
     "updated": "2026-11-04T09:50:59Z",
@@ -41,45 +87,6 @@
         "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
         "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
         "date": "2026-11-04T09:19:46Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
-    "created": "2026-11-04T09:10:57Z",
-    "updated": "2026-11-04T09:10:57Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Sécurité et réglementation",
-    "importance": 2,
-    "titre": "Boeing 787 : la FAA impose des inspections des réservoirs après l'absence de preuves de contrôles de mastics",
-    "chapo": "La FAA a ordonné l'inspection de certains Boeing 787 Dreamliner, selon AeroTime et Air Journal. Elle a constaté que la preuve de contrôles de fabrication obligatoires faisait défaut.",
-    "paragraphes": [
-      "D'après Air Journal, la mesure concerne certains 787-8, 787-9 et 787-10. L'autorité américaine n'a trouvé aucune preuve que les contrôles obligatoires des mastics du réservoir central de voilure avaient été réalisés pendant la construction des appareils.",
-      "L'objectif est de prévenir l'apparition d'une source d'inflammation dans le réservoir en cas de foudroiement. AeroTime évoque pour sa part un risque d'explosion lié à la foudre."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk",
-        "url": "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk",
-        "date": "2026-11-03T19:03:33Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Réservoirs du Boeing 787 : des contrôles de fabrication non vérifiés déclenchent une directive de la FAA",
-        "url": "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html",
-        "date": "2026-11-04T09:00:48Z",
         "official": false
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-04T09:50:37Z",
+  "run": "2026-11-04T10:01:02Z",
   "stats": {
     "fetched": 692,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.3349,
+  "spend_month_usd": 1.3545,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -202,6 +202,12 @@
       "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
     },
     {
+      "dossier": "FAA inspections réservoirs carburant 787 foudre",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
+    },
+    {
       "dossier": "Avolon commande 140 Boeing 737-10",
       "statut": "corrobore",
       "editeurs": 3,
@@ -332,12 +338,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1"
-    },
-    {
-      "dossier": "FAA inspections réservoirs carburant 787 foudre",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
     },
     {
       "dossier": "Fraport résultats et prévisions 2026",
