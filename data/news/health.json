@@ -1,11 +1,12 @@
 {
-  "run": "2026-11-04T13:50:37Z",
+  "run": "2026-11-04T14:01:07Z",
   "stats": {
     "fetched": 693,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
-    "errors": 0
+    "errors": 1,
+    "last_error": "RuntimeError: API injoignable: HTTP Error 503: Service Unavailable"
   },
   "spend_month_usd": 1.518,
   "feeds": {
@@ -710,12 +711,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b"
-    },
-    {
-      "dossier": "Airbus H145M retard munition Bundeswehr",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Allemagne GCAP FCAS Pistorius",
