@@ -1480,36 +1480,6 @@
     "https://theaircurrent.com/defense/us-air-force-operations-rebuilt-world-war-ii-era-pacific-airfields/": "2026-11-04T21:30:52Z"
   },
   "clusters": {
-    "c6267b0d790": {
-      "id": "c6267b0d790",
-      "label": "Image du spaceplane chinois",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "83940bd3938d2de0",
-          "feed": "AeroTime",
-          "title": "US intelligence releases rare image of China’s secretive spaceplane",
-          "url": "https://www.aerotime.aero/articles/china-spaceplane-orbit-photo-us-intelligence",
-          "domain": "aerotime.aero",
-          "summary": "The US Defense Intelligence Agency has published a rare photograph of China’s secretive reusable spaceplane in orbit, showing… The post US intelligence releases rare image of China’s secretive spaceplane appeared first on AeroTime .",
-          "published": "2026-10-28T19:08:16Z"
-        },
-        {
-          "id": "f276866651c15f44",
-          "feed": "The Aviationist",
-          "title": "DIA Releases Clearest Image of China’s Reusable Spaceplane with Service Module Attached",
-          "url": "https://theaviationist.com/2026/10/27/clearest-image-of-chinas-reusable-spaceplane/",
-          "domain": "theaviationist.com",
-          "summary": "The DIA report reviews the three missions flown between 2020 and 2023, highlighting reported rendezvous and proximity operations during the second and third flights, before China launched the spacecraft again in February 2026. The U.S. Defense Intelligence Agency (DIA) has released a new image of China’s secretive reusable spaceplane, captured by a Maxar Technologies spacecraft […]",
-          "published": "2026-10-27T21:26:23Z"
-        }
-      ],
-      "story_id": "2026-10-28-la-dia-publie-une-image-rare-de-l-avion-spatial-reutilisable-d790",
-      "written_count": 2
-    },
     "c4d06ce9da9": {
       "id": "c4d06ce9da9",
       "label": "JetBlue créanciers conseillers restructuration",
@@ -1578,69 +1548,6 @@
       ],
       "story_id": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f",
       "written_count": 2
-    },
-    "caa74b8eecc": {
-      "id": "caa74b8eecc",
-      "label": "Grève TWU personnel au sol Qantas",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "438a29ea0ac4e783",
-          "feed": "Australian Aviation",
-          "title": "Qantas ground workers kick off another 24-hour strike",
-          "url": "https://australianaviation.com.au/2026/10/qantas-ground-workers-kick-off-another-24-hour-strike/",
-          "domain": "australianaviation.com.au",
-          "summary": "Transport Workers’ Union members working for Qantas Ground Services in Sydney, Melbourne, Adelaide, Brisbane and Perth took a further round of protected industrial action on Wednesday following initial strikes in September, which were backed by 97 per cent of members in an August ballot.",
-          "published": "2026-10-28T00:39:03Z"
-        }
-      ],
-      "story_id": "2026-10-28-qantas-les-personnels-au-sol-relancent-une-greve-de-24-heure-eecc",
-      "written_count": 1
-    },
-    "c492db1ec0a": {
-      "id": "c492db1ec0a",
-      "label": "Fin des vols A380 Qantas à Melbourne",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "618d381f00f00475",
-          "feed": "Australian Aviation",
-          "title": "Sun sets on Qantas’ Melbourne A380 operations",
-          "url": "https://australianaviation.com.au/2026/10/sun-sets-on-qantas-melbourne-a380-operations/",
-          "domain": "australianaviation.com.au",
-          "summary": "Qantas has performed its final scheduled passenger service from Melbourne on its Airbus A380 fleet, marking the end of an era – and reduced booking options for premium passengers.",
-          "published": "2026-10-27T06:41:23Z"
-        }
-      ],
-      "story_id": "2026-10-28-qantas-assure-son-dernier-vol-commercial-a380-au-depart-de-m-ec0a",
-      "written_count": 1
-    },
-    "c870493b2fc": {
-      "id": "c870493b2fc",
-      "label": "ITOCHU participation IAG Engine Tech",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-28T21:50:25Z",
-      "updated": "2026-10-28T21:50:25Z",
-      "items": [
-        {
-          "id": "6ff8571cdd9c4dc4",
-          "feed": "AviTrader",
-          "title": "ITOCHU to take minority stake in IAG engine unit",
-          "url": "https://avitrader.com/2026/10/28/itochu-to-take-minority-stake-in-iag-engine-unit/",
-          "domain": "avitrader.com",
-          "summary": "Iberia has agreed to sell a minority stake in IAG Engine Tech (IET), a company established in 2026 to specialise in aircraft engine maintenance within International Airlines Group (IAG), to Japanese trading and investment group ITOCHU Corporation. IAG will retain a majority stake in IET through Iberia, the companies said. ITOCHU’s investment builds on its […] The post ITOCHU to take minority stake in IAG engine unit appeared first on AviTrader Aviation News .",
-          "published": "2026-10-28T07:15:13Z"
-        }
-      ],
-      "story_id": "2026-10-28-itochu-va-prendre-une-participation-minoritaire-dans-iag-eng-b2fc",
-      "written_count": 1
     },
     "c22cc8c79df": {
       "id": "c22cc8c79df",

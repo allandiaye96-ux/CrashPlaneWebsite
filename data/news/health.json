@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-04T21:40:34Z",
+  "run": "2026-11-04T21:50:32Z",
   "stats": {
     "fetched": 696,
     "new": 0,
@@ -238,12 +238,6 @@
       "breve": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92"
     },
     {
-      "dossier": "Image du spaceplane chinois",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-28-la-dia-publie-une-image-rare-de-l-avion-spatial-reutilisable-d790"
-    },
-    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -386,24 +380,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
-      "dossier": "Grève TWU personnel au sol Qantas",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-28-qantas-les-personnels-au-sol-relancent-une-greve-de-24-heure-eecc"
-    },
-    {
-      "dossier": "Fin des vols A380 Qantas à Melbourne",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-28-qantas-assure-son-dernier-vol-commercial-a380-au-depart-de-m-ec0a"
-    },
-    {
-      "dossier": "ITOCHU participation IAG Engine Tech",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-28-itochu-va-prendre-une-participation-minoritaire-dans-iag-eng-b2fc"
     },
     {
       "dossier": "Alaska Airlines Anchorage Tokyo 737 MAX",
