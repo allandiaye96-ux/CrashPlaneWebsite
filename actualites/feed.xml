@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 09:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 09:10:57 +0000</lastBuildDate>
+  <item>
+    <title>Boeing 787 : la FAA impose des inspections des réservoirs après l&#x27;absence de preuves de contrôles de mastics</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:10:57 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>La FAA a ordonné l&#x27;inspection de certains Boeing 787 Dreamliner, selon AeroTime et Air Journal. Elle a constaté que la preuve de contrôles de fabrication obligatoires faisait défaut.</description>
+  </item>
   <item>
     <title>Avolon finalise sa commande de 140 Boeing 737-10, annonce Boeing</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 16:01:28 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AeroTime, Ryanair a exposé plusieurs leviers possibles pour faire face au niveau élevé du prix du carburant d&#x27;aviation, dont des gels de salaires. AirlineGeeks rapporte que son PDG anticipe une hausse des billets en Europe.</description>
-  </item>
-  <item>
-    <title>Discover Airlines prépare l&#x27;arrivée de ses premiers Airbus A350-900 long-courriers</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0/</guid>
-    <pubDate>Mon, 02 Nov 2026 14:31:14 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Le Journal de l&#x27;Aviation, Discover Airlines, la filiale loisirs du groupe Lufthansa, voit plus grand pour sa future flotte long-courrier de nouvelle génération. La compagnie doit accueillir quatre Airbus A350-900.</description>
   </item>
 </channel>
 </rss>

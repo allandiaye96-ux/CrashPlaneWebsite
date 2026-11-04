@@ -1394,7 +1394,8 @@
     "https://simpleflying.com/why-years-boeing-finally-orders-787-10-always-wanted/": "2026-11-04T08:30:50Z",
     "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets": "2026-11-04T08:30:50Z",
     "https://www.aero.de/news-54089/Ryanair-entdeckt-Flughafen-Kassel-Calden-fuer-sich.html": "2026-11-04T08:30:50Z",
-    "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile": "2026-11-04T08:50:36Z"
+    "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile": "2026-11-04T08:50:36Z",
+    "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html": "2026-11-04T09:10:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4223,7 +4224,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-03T19:20:59Z",
-      "updated": "2026-11-03T19:20:59Z",
+      "updated": "2026-11-04T09:10:53Z",
       "items": [
         {
           "id": "3913ed5d39a5199f",
@@ -4233,10 +4234,19 @@
           "domain": "aerotime.aero",
           "summary": "The Federal Aviation Administration (FAA) has ordered inspections of certain Boeing 787 Dreamliners after discovering that required manufacturing… The post FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk appeared first on AeroTime .",
           "published": "2026-11-03T19:03:33Z"
+        },
+        {
+          "id": "cdad1f988b3a1ca1",
+          "feed": "Air Journal",
+          "title": "Réservoirs du Boeing 787 : des contrôles de fabrication non vérifiés déclenchent une directive de la FAA",
+          "url": "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html",
+          "domain": "air-journal.fr",
+          "summary": "La Federal Aviation Administration (FAA) impose des inspections de certains Boeing 787-8, 787-9 et 787-10 après avoir constaté l’absence de preuves attestant la réalisation de contrôles obligatoires de mastics dans le réservoir central de voilure, lors de leur fabrication. L’enjeu : prévenir l’apparition d’une source d’inflammation en cas de foudroiement. La mesure, qui concerne selon […]",
+          "published": "2026-11-04T09:00:48Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
+      "written_count": 2
     },
     "c6502874509": {
       "id": "c6502874509",
@@ -4481,6 +4491,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.287723
+    "2026-11": 1.296951
   }
 }

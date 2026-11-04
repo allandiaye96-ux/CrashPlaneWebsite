@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
+    "created": "2026-11-04T09:10:57Z",
+    "updated": "2026-11-04T09:10:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Boeing 787 : la FAA impose des inspections des réservoirs après l'absence de preuves de contrôles de mastics",
+    "chapo": "La FAA a ordonné l'inspection de certains Boeing 787 Dreamliner, selon AeroTime et Air Journal. Elle a constaté que la preuve de contrôles de fabrication obligatoires faisait défaut.",
+    "paragraphes": [
+      "D'après Air Journal, la mesure concerne certains 787-8, 787-9 et 787-10. L'autorité américaine n'a trouvé aucune preuve que les contrôles obligatoires des mastics du réservoir central de voilure avaient été réalisés pendant la construction des appareils.",
+      "L'objectif est de prévenir l'apparition d'une source d'inflammation dans le réservoir en cas de foudroiement. AeroTime évoque pour sa part un risque d'explosion lié à la foudre."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk",
+        "url": "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk",
+        "date": "2026-11-03T19:03:33Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Réservoirs du Boeing 787 : des contrôles de fabrication non vérifiés déclenchent une directive de la FAA",
+        "url": "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html",
+        "date": "2026-11-04T09:00:48Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
     "created": "2026-11-04T08:31:13Z",
     "updated": "2026-11-04T08:31:13Z",
