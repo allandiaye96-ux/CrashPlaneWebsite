@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
+    "created": "2026-11-04T08:31:13Z",
+    "updated": "2026-11-04T09:21:01Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Avolon conclut une commande de 140 Boeing 737-10, la plus grande variante de la famille MAX",
+    "chapo": "Le loueur Avolon a officialisé l'achat de 140 appareils de type 737-10, selon un communiqué de Boeing.",
+    "paragraphes": [
+      "Boeing indique que cette commande, portant sur 140 avions 737-10, est désormais finalisée avec Avolon. Le constructeur américain présente l'accord comme une commande ferme de ce loueur.",
+      "D'après Simple Flying, le contrat arrive juste après l'approbation de l'appareil par la FAA. Le site souligne que les sociétés de leasing parient fortement cette année sur le plus grand modèle de la gamme MAX."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Boeing – Communiqués",
+        "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
+        "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
+        "date": "2026-11-04T08:30:00Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor",
+        "url": "https://simpleflying.com/avolon-boeing-737-max-10-order/",
+        "date": "2026-11-04T09:18:12Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
     "created": "2026-11-04T09:10:57Z",
     "updated": "2026-11-04T09:10:57Z",
@@ -34,37 +73,6 @@
         "title": "Réservoirs du Boeing 787 : des contrôles de fabrication non vérifiés déclenchent une directive de la FAA",
         "url": "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html",
         "date": "2026-11-04T09:00:48Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-    "created": "2026-11-04T08:31:13Z",
-    "updated": "2026-11-04T08:31:13Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Avolon finalise sa commande de 140 Boeing 737-10, annonce Boeing",
-    "chapo": "Selon un communiqué publié par Boeing le 4 novembre 2026, Avolon a finalisé une commande portant sur 140 avions 737-10.",
-    "paragraphes": [
-      "Le constructeur indique, dans sa communication officielle, que l'accord conclu avec Avolon est désormais finalisé. Il porte sur 140 appareils de type 737-10."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Boeing – Communiqués",
-        "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
-        "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
-        "date": "2026-11-04T08:30:00Z",
         "official": false
       }
     ]

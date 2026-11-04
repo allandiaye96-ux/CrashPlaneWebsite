@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-04T09:10:35Z",
+  "run": "2026-11-04T09:20:33Z",
   "stats": {
     "fetched": 692,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.297,
+  "spend_month_usd": 1.3216,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -338,6 +338,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
+    },
+    {
+      "dossier": "Avolon commande 140 Boeing 737-10",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -680,12 +686,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170"
-    },
-    {
-      "dossier": "Avolon commande 140 Boeing 737-10",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
       "dossier": "NASA X-59 premier vol pilote Lippert",
