@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b",
+    "created": "2026-11-04T12:20:56Z",
+    "updated": "2026-11-04T12:20:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Discover, Emirates, Air Transat : flotte, Berlin et liaison Toronto–Berlin au programme",
+    "chapo": "Selon airliners.de, Discover Airlines dévoile les premières destinations de son A350 et retire son dernier A330-200, tandis qu'Emirates réclame des garanties sur l'accord aérien avant Berlin. Air Transat supprime Toronto–Berlin.",
+    "paragraphes": [
+      "D'après airliners.de, Discover Airlines a indiqué les premières destinations prévues pour ses A350 et a fait ses adieux à son dernier A330-200, dans le cadre du renouvellement de sa flotte.",
+      "Le média rapporte aussi que le chancelier Friedrich Merz a réaffirmé la promesse faite à Emirates concernant Berlin. La compagnie exige toutefois d'abord des clarifications sur l'accord relatif au transport aérien.",
+      "Enfin, Air Transat abandonne la liaison entre Toronto et Berlin, précise airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Discover-Flottenumbau, Merz und Emirates zu Berlin, Air Transat streicht Toronto-Berlin",
+        "url": "https://www.airliners.de/nachrichten-der-woche-discover-flottenumbau-merz-emirates-berlin-air-transat/91297",
+        "date": "2026-11-04T11:30:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
     "created": "2026-11-04T11:50:56Z",
     "updated": "2026-11-04T11:50:56Z",

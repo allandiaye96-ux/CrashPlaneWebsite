@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 12:10:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 12:20:56 +0000</lastBuildDate>
+  <item>
+    <title>Discover, Emirates, Air Transat : flotte, Berlin et liaison Toronto–Berlin au programme</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b/</guid>
+    <pubDate>Wed, 04 Nov 2026 12:20:56 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, Discover Airlines dévoile les premières destinations de son A350 et retire son dernier A330-200, tandis qu&#x27;Emirates réclame des garanties sur l&#x27;accord aérien avant Berlin. Air Transat supprime Toronto–Berlin.</description>
+  </item>
   <item>
     <title>IndiGo en discussion avec Embraer pour une possible commande de 100 jets régionaux</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 21:01:31 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AeroTime, Scott Kirby, directeur général d&#x27;United Airlines, estime que Boom Supersonic ne tiendra pas son objectif d&#x27;entrée en service de 2029 pour l&#x27;Overture.</description>
-  </item>
-  <item>
-    <title>Piratage chez Amadeus : des données clients de Qantas possiblement exposées</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714/</guid>
-    <pubDate>Mon, 02 Nov 2026 20:01:26 +0000</pubDate>
-    <category>Incident</category>
-    <description>Selon Australian Aviation, des données de clients de Qantas pourraient avoir été exposées à la suite d&#x27;un piratage visant Amadeus, prestataire de nombreuses compagnies aériennes.</description>
   </item>
 </channel>
 </rss>

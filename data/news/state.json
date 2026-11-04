@@ -1421,7 +1421,13 @@
     "https://www.aerotime.aero/articles/finland-hornets-highway-strip-protective-fence-26-ace": "2026-11-04T11:50:36Z",
     "https://simpleflying.com/qatar-airways-launches-massive-new-21-hour-route-today/": "2026-11-04T12:01:05Z",
     "https://simpleflying.com/southwest-airlines-beat-out-bank-lounge-concept-busiest-airports/": "2026-11-04T12:01:05Z",
-    "https://www.air-journal.fr/2026-11-04-boeing-avolon-frappe-fort-avec-140-737-max-10-5278671.html": "2026-11-04T12:01:05Z"
+    "https://www.air-journal.fr/2026-11-04-boeing-avolon-frappe-fort-avec-140-737-max-10-5278671.html": "2026-11-04T12:01:05Z",
+    "https://www.airliners.de/nachrichten-der-woche-discover-flottenumbau-merz-emirates-berlin-air-transat/91297": "2026-11-04T12:20:35Z",
+    "https://www.airliners.de/interview-lygg-schaut-ziele-deutschland-lufthansa-ueckzieht/91273": "2026-11-04T12:20:35Z",
+    "https://www.airliners.de/gedankenfluege-denkzettel-lieferkette-airbus-wettet-boeing-wartet/91235": "2026-11-04T12:20:35Z",
+    "https://www.airliners.de/ground-handling-8-automatisierung-vorfeld-gse-beschaeftigte/91093": "2026-11-04T12:20:35Z",
+    "https://www.airliners.de/mobilitaetsformel-11-terminal-3-frankfurt-gegenbeispiel-ber/90756": "2026-11-04T12:20:35Z",
+    "https://www.airliners.de/reportage-nadeloehr-newark-alternativlose-drehkreuz-united-lufthansa/90745": "2026-11-04T12:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4636,10 +4642,31 @@
       ],
       "story_id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
       "written_count": 1
+    },
+    "c28d60c8f8b": {
+      "id": "c28d60c8f8b",
+      "label": "Discover A350 et Air Transat Toronto-Berlin",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T12:20:52Z",
+      "updated": "2026-11-04T12:20:52Z",
+      "items": [
+        {
+          "id": "97bf622d3e746f7d",
+          "feed": "airliners.de",
+          "title": "Discover-Flottenumbau, Merz und Emirates zu Berlin, Air Transat streicht Toronto-Berlin",
+          "url": "https://www.airliners.de/nachrichten-der-woche-discover-flottenumbau-merz-emirates-berlin-air-transat/91297",
+          "domain": "airliners.de",
+          "summary": "Discover nennt die ersten A350-Ziele und verabschiedet den letzten A330-200. Kanzler Merz bekräftigt die Berlin-Zusage für Emirates, die Airline verlangt aber zuerst Klarheit im Luftverkehrsabkommen. Air Transat streicht Toronto–Berlin.",
+          "published": "2026-11-04T11:30:00Z"
+        }
+      ],
+      "story_id": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.48201
+    "2026-11": 1.4912
   }
 }
