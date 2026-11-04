@@ -1433,7 +1433,8 @@
     "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html": "2026-11-04T13:01:06Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-signe-laccord-pour-la-prise-de-participation-dans-tap-air-portugal-20261104.html": "2026-11-04T13:20:36Z",
     "https://www.twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs": "2026-11-04T13:30:51Z",
-    "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html": "2026-11-04T13:30:51Z"
+    "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html": "2026-11-04T13:30:51Z",
+    "https://simpleflying.com/video/united-crew-spots-passenger-texting-he-was-going-to-hijack-plane-cockpit-locked-down/": "2026-11-04T13:40:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3209,27 +3210,6 @@
       "story_id": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd",
       "written_count": 1
     },
-    "c83f1db4cff": {
-      "id": "c83f1db4cff",
-      "label": "FAA inspection queue 737NG (tail, AD)",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-02T13:31:07Z",
-      "updated": "2026-11-02T13:31:07Z",
-      "items": [
-        {
-          "id": "a9187d137b31e74e",
-          "feed": "Simple Flying",
-          "title": "Nearly 2,000 Boeing 737s Must Get Tail Inspections After Jets Pitched Up And Down Mid-Flight",
-          "url": "https://simpleflying.com/video/nearly-2-000-boeing-737s-must-get-tail-inspections-after-jets-pitched-up-and-down-mid-flight/",
-          "domain": "simpleflying.com",
-          "summary": "The Federal Aviation Administration has ordered inspections of nearly 2,000 Boeing 737 Next Generation (737NG) aircraft after multiple operators reported incidents in which the planes' noses moved up and down during flight. The airworthiness directive (AD) targets excessive movement in the hinges and jackscrew that support and move the aircraft's horizontal stabilizer.",
-          "published": "2026-11-02T13:24:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ccaf9e363a2": {
       "id": "ccaf9e363a2",
       "label": "Airbus H145M retard munition Bundeswehr",
@@ -4720,10 +4700,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c68f612da75": {
+      "id": "c68f612da75",
+      "label": "United Las Vegas-New York passager menace détournement",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-04T13:41:02Z",
+      "updated": "2026-11-04T13:41:02Z",
+      "items": [
+        {
+          "id": "da5049e556d055c7",
+          "feed": "Simple Flying",
+          "title": "United Crew Spots Passenger “Texting He Was Going To Hijack” Plane, Cockpit Locked Down",
+          "url": "https://simpleflying.com/video/united-crew-spots-passenger-texting-he-was-going-to-hijack-plane-cockpit-locked-down/",
+          "domain": "simpleflying.com",
+          "summary": "A security concern on a United Airlines flight from Las Vegas to New York prompted the aircraft to return to Vegas shortly after takeoff. The incident concerns a flight attendant reportedly spotting a passenger texting about hijacking the plane. In response, the crew locked down the cockpit and returned to the origin airport, where law enforcement met the aircraft.",
+          "published": "2026-11-04T13:32:18Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.517236
+    "2026-11": 1.518042
   }
 }

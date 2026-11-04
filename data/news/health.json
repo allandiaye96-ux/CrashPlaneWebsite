@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T13:30:51Z",
+  "run": "2026-11-04T13:40:36Z",
   "stats": {
-    "fetched": 679,
-    "new": 2,
+    "fetched": 693,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.5172,
+  "spend_month_usd": 1.518,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -50,12 +50,12 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 14
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": true,
@@ -712,12 +712,6 @@
       "breve": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b"
     },
     {
-      "dossier": "FAA inspection queue 737NG (tail, AD)",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Airbus H145M retard munition Bundeswehr",
       "statut": "signale",
       "editeurs": 1,
@@ -815,6 +809,12 @@
     },
     {
       "dossier": "Air Serbia vol Moscou retour à Belgrade",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "United Las Vegas-New York passager menace détournement",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
