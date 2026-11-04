@@ -1415,7 +1415,8 @@
     "https://www.air-journal.fr/2026-11-04-voyage-en-croatie-iles-villes-historiques-et-parcs-nationaux-sur-fond-de-depenses-en-hausse-5278535.html": "2026-11-04T11:01:07Z",
     "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/": "2026-11-04T11:20:34Z",
     "https://theaviationist.com/2026/11/04/ujts-snc-pulls-out/": "2026-11-04T11:30:54Z",
-    "https://www.aero.de/news-54091/EU-Kommission-will-Touristenstroeme-besser-verteilen.html": "2026-11-04T11:30:54Z"
+    "https://www.aero.de/news-54091/EU-Kommission-will-Touristenstroeme-besser-verteilen.html": "2026-11-04T11:30:54Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html": "2026-11-04T11:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4452,9 +4453,9 @@
       "id": "c2569f72076",
       "label": "Avolon commande 140 Boeing 737-10",
       "categorie": "Constructeurs et industrie",
-      "importance": 2,
+      "importance": 3,
       "created": "2026-11-04T08:31:07Z",
-      "updated": "2026-11-04T09:50:52Z",
+      "updated": "2026-11-04T11:40:59Z",
       "items": [
         {
           "id": "b1354994aece0cb6",
@@ -4482,10 +4483,19 @@
           "domain": "aerotime.aero",
           "summary": "Boeing has confirmed that a triple-digit order announced last month from lessor Avolon is for 737 MAX 10… The post Boeing confirms triple-digit Avolon order is for MAX 10 jets appeared first on AeroTime .",
           "published": "2026-11-04T09:19:46Z"
+        },
+        {
+          "id": "b910af0cfb357d05",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Avolon finalise sa commande pour 140 Boeing",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html",
+          "domain": "journal-aviation.com",
+          "summary": "Boeing a annoncé le 3 novembre que la commande d’Avolon avait été finalisée. Annoncée au début du mois d’octobre, elle porte sur 140 737-10, la version la plus capacitaire, qui […] L’article Avolon finalise sa commande pour 140 Boeing a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-04T11:40:07Z"
         }
       ],
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-      "written_count": 3
+      "written_count": 4
     },
     "cd945f08fd6": {
       "id": "cd945f08fd6",
@@ -4595,6 +4605,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.427801
+    "2026-11": 1.442404
   }
 }
