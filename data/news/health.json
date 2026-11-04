@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T16:01:05Z",
+  "run": "2026-11-04T16:10:34Z",
   "stats": {
     "fetched": 693,
-    "new": 2,
-    "written": 1,
-    "held": 1,
+    "new": 1,
+    "written": 0,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.624,
+  "spend_month_usd": 1.6248,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -821,6 +821,12 @@
     },
     {
       "dossier": "Joby USAF financement autonome cargo",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Attaque Houthis aéroport Riad",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
