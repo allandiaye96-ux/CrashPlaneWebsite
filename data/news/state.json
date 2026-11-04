@@ -1393,7 +1393,8 @@
     "https://www.airliners.de/china-eastern-stockt-winterflugplan-auf-investiert-premiumprodukt/91300": "2026-11-04T08:20:40Z",
     "https://simpleflying.com/why-years-boeing-finally-orders-787-10-always-wanted/": "2026-11-04T08:30:50Z",
     "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets": "2026-11-04T08:30:50Z",
-    "https://www.aero.de/news-54089/Ryanair-entdeckt-Flughafen-Kassel-Calden-fuer-sich.html": "2026-11-04T08:30:50Z"
+    "https://www.aero.de/news-54089/Ryanair-entdeckt-Flughafen-Kassel-Calden-fuer-sich.html": "2026-11-04T08:30:50Z",
+    "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile": "2026-11-04T08:50:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4455,10 +4456,31 @@
       ],
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
       "written_count": 1
+    },
+    "cd945f08fd6": {
+      "id": "cd945f08fd6",
+      "label": "France SyLEx fusée sonde M51.4",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-04T08:51:00Z",
+      "updated": "2026-11-04T08:51:00Z",
+      "items": [
+        {
+          "id": "1b81da1e9def6b9e",
+          "feed": "AeroTime",
+          "title": "France launches SyLEx sounding rocket to test technology for M51.4 missile",
+          "url": "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile",
+          "domain": "aerotime.aero",
+          "summary": "France’s defense procurement agency, the Direction générale de l’armement (DGA), launched a SyLEx sounding rocket during the night… The post France launches SyLEx sounding rocket to test technology for M51.4 missile appeared first on AeroTime .",
+          "published": "2026-11-04T07:47:45Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.286924
+    "2026-11": 1.287723
   }
 }
