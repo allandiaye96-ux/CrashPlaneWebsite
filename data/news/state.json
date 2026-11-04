@@ -1398,7 +1398,17 @@
     "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html": "2026-11-04T09:10:35Z",
     "https://simpleflying.com/avolon-boeing-737-max-10-order/": "2026-11-04T09:20:33Z",
     "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order": "2026-11-04T09:50:37Z",
-    "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/": "2026-11-04T10:01:02Z"
+    "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/": "2026-11-04T10:01:02Z",
+    "https://simpleflying.com/how-breeze-airways-makes-money-routes-with-just-10-passengers-per-day-each-way/": "2026-11-04T10:20:33Z",
+    "https://simpleflying.com/ita-airways-milan-malpensa-u-turn-lima-route/": "2026-11-04T10:20:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=40764465-AF22-4A7B-B810-15A35C1691D3": "2026-11-04T10:20:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=28619094-59C1-4DA0-B304-B23AEBD9D954": "2026-11-04T10:20:33Z",
+    "https://www.airliners.de/tap-strecken-brasilien-usa/91290": "2026-11-04T10:20:33Z",
+    "https://www.airliners.de/eurowings-verbindet-friedrichshafen-kommenden-sommer-korsika/91295": "2026-11-04T10:20:33Z",
+    "https://www.airliners.de/eigener-sache-lieferbar-airlinersde-flugzeugkalender-2027/89705": "2026-11-04T10:20:33Z",
+    "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html": "2026-11-04T10:20:33Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html": "2026-11-04T10:20:33Z",
+    "https://www.journal-aviation.com/actualites-mro-support/maintenance-militaire-mco/fokker-services-group-monte-a-bord-de-la-maintenance-des-futurs-embraer-c-390-neerlandais-20261104.html": "2026-11-04T10:20:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3012,27 +3022,6 @@
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
       "written_count": 5
     },
-    "cfaffcd0fc3": {
-      "id": "cfaffcd0fc3",
-      "label": "NASA X-59 premier vol pilote Lippert",
-      "categorie": "Enquête",
-      "importance": 2,
-      "created": "2026-11-02T10:06:33Z",
-      "updated": "2026-11-02T10:06:33Z",
-      "items": [
-        {
-          "id": "51aa16f328aff980",
-          "feed": "Aero-News Network",
-          "title": "NASAs X-59 Aircraft And Test Pilot",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=84B682F4-7958-4A02-B10C-7A1C9A37BC3C",
-          "domain": "aero-news.net",
-          "summary": "Mike Lippert Took Controls Of The X-59 For The First Time NASA test pilot Mike Lippert put months of simulator training and ground preparation into practice, before completing his first flight in the agency’s X-59 quiet supersonic research aircraft. Lippert took off Oct. 21 from NASA’s Armstrong Flight Research Center in Edwards, California, and landed one hour later. During the flight, he reached a maximum speed of Mach 1.4 and an altitude of 55,000 feet. Although the X-59 has flown numerous times, the flight marked Lippert’s first opportunity to fly an X-plane during his more than 21 years of flying high-performance aircraft, including 11 years as a test pilot.",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c298364e94b": {
       "id": "c298364e94b",
       "label": "Electra usine Springfield EL9",
@@ -3054,27 +3043,6 @@
       "story_id": "2026-11-02-electra-choisit-springfield-dans-l-ohio-pour-produire-son-av-e94b",
       "written_count": 1
     },
-    "cb7893071cb": {
-      "id": "cb7893071cb",
-      "label": "Navy bilan accidents aviation FY2026",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-02T10:06:33Z",
-      "updated": "2026-11-02T10:06:33Z",
-      "items": [
-        {
-          "id": "0da7d73d556e1cb2",
-          "feed": "Aero-News Network",
-          "title": "Navy Sees 10-year High For Class A Aviation, Afloat Mishaps",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=B94E7495-56A6-4330-AAD1-FA9481231A83",
-          "domain": "aero-news.net",
-          "summary": "Class A Defined By $2.5 Million In Damage And/Or Aircraft To Be Destroyed The Navy saw the most Class A aviation and afloat mishaps in at least in a decade, according to Fiscal Year 2026 data recently released by the Navy Safety Command. The Navy had 16 aviation Class A mishaps, which include manned and unmanned flights, as well as ground aviation, between Oct. 1, 2025 and Sept. 30, 2026. A Class A mishap is defined by the Naval Safety Command as one that causes at least $2.5 million in damage and/or aircraft to be destroyed. A permanent disability or fatality would also put a mishap in the Class A category. Sixteen aviation mishaps are the most the Navy has had since Fiscal Year 2014, when ",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cc7685d462d": {
       "id": "cc7685d462d",
       "label": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
@@ -3095,27 +3063,6 @@
       ],
       "story_id": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d",
       "written_count": 1
-    },
-    "cfd771d100e": {
-      "id": "cfd771d100e",
-      "label": "BAE Bombardier combat aérien Canada",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-02T10:06:33Z",
-      "updated": "2026-11-02T10:06:33Z",
-      "items": [
-        {
-          "id": "746a257e12fe03f7",
-          "feed": "Aero-News Network",
-          "title": "BAE And Bombardier To Explore Next-Generation Combat Air Development",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=D487C233-D6B0-4146-8F89-0CE01FD349DB",
-          "domain": "aero-news.net",
-          "summary": "The Proposed Agreement In Canada Would Span Aircraft Design, Mission Systems And Manufacturing BAE Systems and Bombardier have signed an agreement to explore developing next-generation combat air capabilities in Canada. The proposed cooperation would span aircraft design, mission systems, manufacturing and long-term support, with ambitions to serve Canadian and international markets. The cooperation would draw on BAE Systems’ combat air experience and Bombardier’s aircraft design, manufacturing and support expertise. The memorandum of understanding identifies potential areas of work without committing the companies to a specific aircraft program. These include systems integration, digital en",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "cb944cb3ac2": {
       "id": "cb944cb3ac2",
@@ -4308,7 +4255,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T20:20:54Z",
-      "updated": "2026-11-03T20:20:54Z",
+      "updated": "2026-11-04T10:20:52Z",
       "items": [
         {
           "id": "70eb715cf9368ea2",
@@ -4318,10 +4265,28 @@
           "domain": "aerotime.aero",
           "summary": "Air India is considering additional widebody aircraft orders from Boeing and Airbus as its new CEO, Tewolde Gebremariam,… The post Air India eyes more widebody jets as new CEO predicts return to profitability appeared first on AeroTime .",
           "published": "2026-11-03T19:24:40Z"
+        },
+        {
+          "id": "eac1bc981ee06775",
+          "feed": "Air Journal",
+          "title": "Air India vise de nouveaux gros-porteurs pour reconquérir l’international",
+          "url": "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html",
+          "domain": "air-journal.fr",
+          "summary": "Air India envisage de commander des avions long-courriers supplémentaires auprès d’Airbus et de Boeing. Son nouveau directeur général, Tewolde Gebremariam, entend renforcer les liaisons internationales, rééquilibrer le réseau face à la fermeture de l’espace aérien pakistanais et ramener la compagnie à la rentabilité « très bientôt ». Une ambition affichée alors que le groupe reste […]",
+          "published": "2026-11-04T10:00:37Z"
+        },
+        {
+          "id": "7e53a6a25f4fefce",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Air India va commander de nouveaux avions gros-porteurs long-courriers",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html",
+          "domain": "journal-aviation.com",
+          "summary": "Air India souhaite augmenter ses commandes de gros-porteurs pour développer son réseau long-courrier. Son directeur général, Tewolde Gebremariam, l’a indiqué le 3 novembre à New Delhi, lors de la conférence […] L’article Air India va commander de nouveaux avions gros-porteurs long-courriers a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-04T10:16:14Z"
         }
       ],
       "story_id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
-      "written_count": 1
+      "written_count": 3
     },
     "c9f1c7518ac": {
       "id": "c9f1c7518ac",
@@ -4329,7 +4294,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-04T06:01:17Z",
-      "updated": "2026-11-04T06:01:17Z",
+      "updated": "2026-11-04T10:20:52Z",
       "items": [
         {
           "id": "7d58b06143b57e20",
@@ -4339,10 +4304,19 @@
           "domain": "air-journal.fr",
           "summary": "ITA Airways envisage de relier Milan-Malpensa à Lima au Pérou, en complément d’une desserte depuis Rome-Fiumicino. Révélé le 3 novembre par le Corriere della Sera, ce projet reposerait sur une rotation en Airbus A350 sans ouverture de base en Lombardie. Une manière de renforcer son réseau latino-américain, mais aussi de contrer Emirates, qui demande à […]",
           "published": "2026-11-04T06:00:43Z"
+        },
+        {
+          "id": "3a198768e87904f8",
+          "feed": "Simple Flying",
+          "title": "ITA Airways Plots Malpensa U-Turn To Fly Milan-Lima Route Before Emirates Can",
+          "url": "https://simpleflying.com/ita-airways-milan-malpensa-u-turn-lima-route/",
+          "domain": "simpleflying.com",
+          "summary": "It has been almost three years since ITA Airways operated scheduled long-haul flights from Milan Malpensa.",
+          "published": "2026-11-04T10:07:16Z"
         }
       ],
       "story_id": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac",
-      "written_count": 1
+      "written_count": 2
     },
     "c24541ab990": {
       "id": "c24541ab990",
@@ -4517,10 +4491,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c8fcaaf2e87": {
+      "id": "c8fcaaf2e87",
+      "label": "Fokker Services maintenance C-390 RNLAF",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-04T10:20:52Z",
+      "updated": "2026-11-04T10:20:52Z",
+      "items": [
+        {
+          "id": "4ad9b88a3224ebb8",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Fokker Services Group monte à bord de la maintenance des futurs Embraer C-390 néerlandais",
+          "url": "https://www.journal-aviation.com/actualites-mro-support/maintenance-militaire-mco/fokker-services-group-monte-a-bord-de-la-maintenance-des-futurs-embraer-c-390-neerlandais-20261104.html",
+          "domain": "journal-aviation.com",
+          "summary": "Embraer a désigné Fokker Services Group comme centre de maintenance agréé pour la future flotte de C-390 Millennium de la Force aérienne royale néerlandaise (RNLAF). L’accord, annoncé le 3 novembre, […] L’article Fokker Services Group monte à bord de la maintenance des futurs Embraer C-390 néerlandais a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-04T10:13:56Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.354458
+    "2026-11": 1.391046
   }
 }

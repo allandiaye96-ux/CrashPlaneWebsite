@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac",
+    "created": "2026-11-04T06:01:25Z",
+    "updated": "2026-11-04T10:21:07Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "ITA Airways étudierait une liaison Milan-Malpensa – Lima, en plus de Rome-Fiumicino",
+    "chapo": "Selon Air Journal, qui cite le Corriere della Sera, ITA Airways songe à desservir Lima, au Pérou, depuis Milan-Malpensa. Le projet viendrait s'ajouter à la desserte déjà prévue depuis Rome-Fiumicino.",
+    "paragraphes": [
+      "D'après les informations du Corriere della Sera, révélées le 3 novembre, la compagnie italienne exploiterait cette ligne avec un Airbus A350. Elle n'implanterait pas pour autant de base en Lombardie. Air Journal y voit un moyen de consolider le réseau latino-américain de la compagnie et de devancer Emirates, qui souhaiterait elle aussi desservir Lima.",
+      "Simple Flying souligne que cela fait près de trois ans qu'ITA Airways n'a plus opéré de vols long-courriers réguliers au départ de Malpensa."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "ITA Airways prépare son retour à Milan-Malpensa pour couper la route à Emirates vers Lima",
+        "url": "https://www.air-journal.fr/2026-11-04-ita-airways-prepare-son-retour-a-milan-malpensa-pour-couper-la-route-a-emirates-vers-lima-5278664.html",
+        "date": "2026-11-04T06:00:43Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "ITA Airways Plots Malpensa U-Turn To Fly Milan-Lima Route Before Emirates Can",
+        "url": "https://simpleflying.com/ita-airways-milan-malpensa-u-turn-lima-route/",
+        "date": "2026-11-04T10:07:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
+    "created": "2026-11-03T20:20:57Z",
+    "updated": "2026-11-04T10:20:59Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air India étudie de nouvelles commandes de gros-porteurs auprès de Boeing et Airbus",
+    "chapo": "Air India réfléchit à l'achat d'appareils long-courriers supplémentaires chez Boeing et Airbus, selon AeroTime. Son nouveau directeur général, Tewolde Gebremariam, table sur un retour à la rentabilité.",
+    "paragraphes": [
+      "D'après Air Journal, le dirigeant souhaite développer les liaisons internationales de la compagnie indienne et rééquilibrer son réseau, compte tenu de la fermeture de l'espace aérien pakistanais. Il évoque un retour aux bénéfices « très bientôt ».",
+      "Le Journal de l'Aviation précise que ces projets ont été exposés à New Delhi, à l'occasion d'une conférence, le 3 novembre."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Air India eyes more widebody jets as new CEO predicts return to profitability",
+        "url": "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability",
+        "date": "2026-11-03T19:24:40Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Air India vise de nouveaux gros-porteurs pour reconquérir l’international",
+        "url": "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html",
+        "date": "2026-11-04T10:00:37Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Air India va commander de nouveaux avions gros-porteurs long-courriers",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html",
+        "date": "2026-11-04T10:16:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
     "created": "2026-11-04T09:10:57Z",
     "updated": "2026-11-04T10:01:25Z",
@@ -354,70 +439,6 @@
         "title": "Condor-Tarifkommission wirft VC-Vorstand Eingriffe bei Abstimmung zum Zukunftspaket vor",
         "url": "https://www.airliners.de/condor-tarifkommission-wirft-vc-vorstand-eingriffe-abstimmung-zukunftspaket/91266",
         "date": "2026-11-04T05:27:00Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac",
-    "created": "2026-11-04T06:01:25Z",
-    "updated": "2026-11-04T06:01:25Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "ITA Airways étudierait une liaison Milan-Malpensa–Lima, en plus de celle depuis Rome-Fiumicino",
-    "chapo": "Selon Air Journal, qui cite une information du Corriere della Sera du 3 novembre, ITA Airways envisagerait de desservir Lima, au Pérou, depuis Milan-Malpensa. Ce vol viendrait compléter la liaison au départ de Rome-Fiumicino.",
-    "paragraphes": [
-      "D'après Air Journal, le projet reposerait sur un Airbus A350 et n'impliquerait pas la création d'une base de la compagnie en Lombardie. Il s'agirait de renforcer la présence d'ITA Airways en Amérique latine.",
-      "Air Journal indique aussi que cette desserte permettrait de faire face à Emirates, qui demande à obtenir des droits sur cette destination. Aucune confirmation officielle de la compagnie n'est mentionnée."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Air Journal",
-        "title": "ITA Airways prépare son retour à Milan-Malpensa pour couper la route à Emirates vers Lima",
-        "url": "https://www.air-journal.fr/2026-11-04-ita-airways-prepare-son-retour-a-milan-malpensa-pour-couper-la-route-a-emirates-vers-lima-5278664.html",
-        "date": "2026-11-04T06:00:43Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
-    "created": "2026-11-03T20:20:57Z",
-    "updated": "2026-11-03T20:20:57Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air India envisage de nouvelles commandes de gros-porteurs auprès de Boeing et d'Airbus",
-    "chapo": "Selon AeroTime, Air India étudie de nouvelles commandes d'avions gros-porteurs auprès de Boeing et d'Airbus. Son nouveau directeur général, Tewolde Gebremariam, prévoit un retour à la rentabilité de la compagnie.",
-    "paragraphes": [
-      "La compagnie indienne envisage d'élargir sa flotte de gros-porteurs en passant des commandes supplémentaires auprès des deux grands constructeurs, Boeing et Airbus, d'après AeroTime.",
-      "Le nouveau patron d'Air India, Tewolde Gebremariam, anticipe par ailleurs que la compagnie redeviendra rentable."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "Air India eyes more widebody jets as new CEO predicts return to profitability",
-        "url": "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability",
-        "date": "2026-11-03T19:24:40Z",
         "official": false
       }
     ]

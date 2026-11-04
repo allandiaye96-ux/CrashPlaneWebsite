@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T10:01:02Z",
+  "run": "2026-11-04T10:20:33Z",
   "stats": {
     "fetched": 692,
-    "new": 1,
-    "written": 1,
+    "new": 10,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.3545,
+  "spend_month_usd": 1.391,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -208,6 +208,12 @@
       "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
     },
     {
+      "dossier": "Air India nouveaux gros-porteurs nouveau CEO",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
+    },
+    {
       "dossier": "Avolon commande 140 Boeing 737-10",
       "statut": "corrobore",
       "editeurs": 3,
@@ -338,6 +344,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1"
+    },
+    {
+      "dossier": "ITA Airways Milan-Malpensa Lima projet",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac"
     },
     {
       "dossier": "Fraport résultats et prévisions 2026",
@@ -652,18 +664,6 @@
       "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
     },
     {
-      "dossier": "Air India nouveaux gros-porteurs nouveau CEO",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
-    },
-    {
-      "dossier": "ITA Airways Milan-Malpensa Lima projet",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac"
-    },
-    {
       "dossier": "Condor tarifkommission vs VC-Vorstand Zukunftspaket",
       "statut": "source_unique",
       "editeurs": 1,
@@ -686,24 +686,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170"
-    },
-    {
-      "dossier": "NASA X-59 premier vol pilote Lippert",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Navy bilan accidents aviation FY2026",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "BAE Bombardier combat aérien Canada",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "FAA inspection queue 737NG (tail, AD)",
@@ -785,6 +767,12 @@
     },
     {
       "dossier": "France SyLEx fusée sonde M51.4",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Fokker Services maintenance C-390 RNLAF",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
