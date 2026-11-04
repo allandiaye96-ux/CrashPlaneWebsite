@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 10:31:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 10:40:51 +0000</lastBuildDate>
+  <item>
+    <title>Air Baltic restitue six Airbus A220-300 et prévoit une flotte réduite en 2027</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393/</guid>
+    <pubDate>Wed, 04 Nov 2026 10:40:51 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, Air Baltic se séparera de six Airbus A220-300 dans le cadre de la procédure de Chapter 11 en cours, afin d&#x27;opérer avec une flotte plus petite en 2027.</description>
+  </item>
   <item>
     <title>Boeing 787 : la FAA impose des inspections du réservoir central après un défaut de traçabilité de contrôles</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 20:01:23 +0000</pubDate>
     <category>Compagnies</category>
     <description>NetJets projette d&#x27;étendre son siège mondial de Columbus, dans l&#x27;Ohio, de plus de 365 000 square feet, selon AeroTime. Le projet s&#x27;accompagne de 800 emplois supplémentaires.</description>
-  </item>
-  <item>
-    <title>Ryanair envisage gel des salaires et hausse des tarifs face à la flambée du prix du kérosène</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7/</guid>
-    <pubDate>Mon, 02 Nov 2026 16:01:28 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, Ryanair a exposé plusieurs leviers possibles pour faire face au niveau élevé du prix du carburant d&#x27;aviation, dont des gels de salaires. AirlineGeeks rapporte que son PDG anticipe une hausse des billets en Europe.</description>
   </item>
 </channel>
 </rss>

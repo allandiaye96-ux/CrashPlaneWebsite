@@ -1408,7 +1408,8 @@
     "https://www.airliners.de/eigener-sache-lieferbar-airlinersde-flugzeugkalender-2027/89705": "2026-11-04T10:20:33Z",
     "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html": "2026-11-04T10:20:33Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html": "2026-11-04T10:20:33Z",
-    "https://www.journal-aviation.com/actualites-mro-support/maintenance-militaire-mco/fokker-services-group-monte-a-bord-de-la-maintenance-des-futurs-embraer-c-390-neerlandais-20261104.html": "2026-11-04T10:20:33Z"
+    "https://www.journal-aviation.com/actualites-mro-support/maintenance-militaire-mco/fokker-services-group-monte-a-bord-de-la-maintenance-des-futurs-embraer-c-390-neerlandais-20261104.html": "2026-11-04T10:20:33Z",
+    "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html": "2026-11-04T10:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4512,10 +4513,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ceec6dd5393": {
+      "id": "ceec6dd5393",
+      "label": "Air Baltic retour de six A220-300",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T10:40:47Z",
+      "updated": "2026-11-04T10:40:47Z",
+      "items": [
+        {
+          "id": "4975bc1cd4347456",
+          "feed": "aero.de",
+          "title": "Air Baltic gibt die ersten sechs Airbus A220-300 zurück",
+          "url": "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html",
+          "domain": "aero.de",
+          "summary": "RIGA - Air Baltic will 2027 mit einer kleineren Flotte agieren. Im laufenden Chapter-11-Verfahren streift der Lufthansa-Partner jetzt sechs Airbus A220-300 ab, darunter brandneue Flugzeuge. Das ist erst der Anfang - Air Baltic will bis Ende 2026 noch zwölf weitere A220-300 loswerden.",
+          "published": "2026-11-04T10:36:50Z"
+        }
+      ],
+      "story_id": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.391046
+    "2026-11": 1.399256
   }
 }
