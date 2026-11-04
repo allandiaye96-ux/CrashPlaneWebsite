@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
+    "created": "2026-11-04T16:51:12Z",
+    "updated": "2026-11-04T16:51:12Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Air Serbia : un vol Belgrade-Moscou fait demi-tour, un politicien accusé d'avoir contourné la sûreté",
+    "chapo": "Selon aero.de, un vol régulier d'Air Serbia à destination de Moscou a dû retourner à Belgrade environ une heure avant d'atteindre sa destination.",
+    "paragraphes": [
+      "Il s'agissait d'un vol du soir de la compagnie serbe. Le média allemand indique que le retour vers Belgrade a été ordonné par l'aéroport.",
+      "D'après Simple Flying, un responsable politique serbe prorusse aurait évité le point de contrôle de sûreté avant l'embarquement, ce qui aurait conduit l'avion à rebrousser chemin. Cette version est présentée comme une allégation."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Flughafen beordert Flug von Air Serbia zurück",
+        "url": "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html",
+        "date": "2026-11-04T13:27:29Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Politician Bypasses Preflight Security Checkpoint, Prompting Moscow-Bound Jet To Divert",
+        "url": "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/",
+        "date": "2026-11-04T16:42:01Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393",
     "created": "2026-11-04T10:40:51Z",
     "updated": "2026-11-04T16:21:01Z",

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 16:40:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 16:51:12 +0000</lastBuildDate>
+  <item>
+    <title>Air Serbia : un vol Belgrade-Moscou fait demi-tour, un politicien accusé d&#x27;avoir contourné la sûreté</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92/</guid>
+    <pubDate>Wed, 04 Nov 2026 16:51:12 +0000</pubDate>
+    <category>Incident</category>
+    <description>Selon aero.de, un vol régulier d&#x27;Air Serbia à destination de Moscou a dû retourner à Belgrade environ une heure avant d&#x27;atteindre sa destination.</description>
+  </item>
   <item>
     <title>Latam abaisse sa prévision d&#x27;Ebitda ajusté à cause du carburant, mais relève celle de chiffre d&#x27;affaires</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 04:10:53 +0000</pubDate>
     <category>Aéroports</category>
     <description>Selon Simple Flying et AirlineGeeks, le directeur général de Delta, Ed Bastian, annonce vouloir contester une décision de Heathrow qui séparerait sa compagnie de son partenaire Virgin Atlantic.</description>
-  </item>
-  <item>
-    <title>American Airlines reprend ses vols vers Haïti après plus de deux ans, avec un équipage entièrement haïtien</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae/</guid>
-    <pubDate>Tue, 03 Nov 2026 00:40:52 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, American Airlines a repris ses vols vers Haïti pour la première fois en près de deux ans, après des tirs sur des appareils. Simple Flying précise que la liaison ne dessert pas Port-au-Prince.</description>
   </item>
 </channel>
 </rss>

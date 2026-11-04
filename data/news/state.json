@@ -1459,7 +1459,8 @@
     "https://www.airliners.de/condor-fliegt-taeglich-ueber-abu-dhabi-bangkok/91331": "2026-11-04T16:20:36Z",
     "https://www.airliners.de/air-baltic-beantragt-rueckgabe-geleasten-a220-300/91307": "2026-11-04T16:20:36Z",
     "https://www.airliners.de/air-baltic-vilnius-uesseldorf-strecke/91325": "2026-11-04T16:20:36Z",
-    "https://simpleflying.com/how-emirates-is-spending-2-billion-defend-worlds-newest-premium-airline/": "2026-11-04T16:40:35Z"
+    "https://simpleflying.com/how-emirates-is-spending-2-billion-defend-worlds-newest-premium-airline/": "2026-11-04T16:40:35Z",
+    "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/": "2026-11-04T16:50:48Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4753,7 +4754,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-04T13:31:05Z",
-      "updated": "2026-11-04T13:31:05Z",
+      "updated": "2026-11-04T16:51:03Z",
       "items": [
         {
           "id": "b822ab8bca709bad",
@@ -4763,10 +4764,19 @@
           "domain": "aero.de",
           "summary": "BELGRAD - Der jüngste planmäßige Abendflug der serbischen Fluggesellschaft Air Serbia nach Moskau musste eine Stunde vor Erreichens seines Ziels nach Belgrad umkehren.",
           "published": "2026-11-04T13:27:29Z"
+        },
+        {
+          "id": "1bdfc12f08da7a7b",
+          "feed": "Simple Flying",
+          "title": "Politician Bypasses Preflight Security Checkpoint, Prompting Moscow-Bound Jet To Divert",
+          "url": "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/",
+          "domain": "simpleflying.com",
+          "summary": "A pro-Russian Serbian politician has allegedly caused a jet to return to Belgrade after dodging security",
+          "published": "2026-11-04T16:42:01Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
+      "written_count": 2
     },
     "c68f612da75": {
       "id": "c68f612da75",
@@ -4855,6 +4865,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.639035
+    "2026-11": 1.654816
   }
 }
