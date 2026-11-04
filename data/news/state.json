@@ -3455,27 +3455,6 @@
       "story_id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
       "written_count": 2
     },
-    "c2613c3f873": {
-      "id": "c2613c3f873",
-      "label": "Allemagne GCAP FCAS Pistorius",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-02T18:31:27Z",
-      "updated": "2026-11-02T18:31:27Z",
-      "items": [
-        {
-          "id": "0fadef04eeb5430a",
-          "feed": "aero.de",
-          "title": "Pistorius fordert schnelle Entscheidung über Kampfjet-Kooperation",
-          "url": "https://www.aero.de/news-54071/Pistorius-fordert-schnelle-Entscheidung-ueber-neuen-Kampfjet.html",
-          "domain": "aero.de",
-          "summary": "BERLIN - Nach dem Scheitern des deutsch-französischen FCAS-Projekts prüft Deutschland einen Einstieg in das britisch geführte GCAP. Welche Bedingungen dafür gelten könnten, soll sich bald klären.",
-          "published": "2026-11-02T18:31:11Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cf74166462a": {
       "id": "cf74166462a",
       "label": "NetJets extension siège Columbus",
