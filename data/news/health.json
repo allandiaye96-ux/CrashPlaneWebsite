@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T11:50:36Z",
+  "run": "2026-11-04T12:01:05Z",
   "stats": {
     "fetched": 692,
-    "new": 2,
-    "written": 1,
-    "held": 0,
+    "new": 3,
+    "written": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 1.4506,
+  "spend_month_usd": 1.482,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -124,6 +124,12 @@
       "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
+      "dossier": "Avolon commande 140 Boeing 737-10",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
@@ -140,12 +146,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
-    },
-    {
-      "dossier": "Avolon commande 140 Boeing 737-10",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
       "dossier": "Airbus résultats T3 2026 livraisons",
