@@ -1396,7 +1396,8 @@
     "https://www.aero.de/news-54089/Ryanair-entdeckt-Flughafen-Kassel-Calden-fuer-sich.html": "2026-11-04T08:30:50Z",
     "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile": "2026-11-04T08:50:36Z",
     "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html": "2026-11-04T09:10:35Z",
-    "https://simpleflying.com/avolon-boeing-737-max-10-order/": "2026-11-04T09:20:33Z"
+    "https://simpleflying.com/avolon-boeing-737-max-10-order/": "2026-11-04T09:20:33Z",
+    "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order": "2026-11-04T09:50:37Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4453,7 +4454,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-04T08:31:07Z",
-      "updated": "2026-11-04T09:20:47Z",
+      "updated": "2026-11-04T09:50:52Z",
       "items": [
         {
           "id": "b1354994aece0cb6",
@@ -4472,10 +4473,19 @@
           "domain": "simpleflying.com",
           "summary": "Lessors are betting big on the largest MAX variant this year.",
           "published": "2026-11-04T09:18:12Z"
+        },
+        {
+          "id": "b2e96e2d05895899",
+          "feed": "AeroTime",
+          "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
+          "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
+          "domain": "aerotime.aero",
+          "summary": "Boeing has confirmed that a triple-digit order announced last month from lessor Avolon is for 737 MAX 10… The post Boeing confirms triple-digit Avolon order is for MAX 10 jets appeared first on AeroTime .",
+          "published": "2026-11-04T09:19:46Z"
         }
       ],
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-      "written_count": 2
+      "written_count": 3
     },
     "cd945f08fd6": {
       "id": "cd945f08fd6",
@@ -4501,6 +4511,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.321577
+    "2026-11": 1.334873
   }
 }

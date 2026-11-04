@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T09:40:37Z",
+  "run": "2026-11-04T09:50:37Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.3216,
+  "spend_month_usd": 1.3349,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -202,6 +202,12 @@
       "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
     },
     {
+      "dossier": "Avolon commande 140 Boeing 737-10",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -338,12 +344,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
-    },
-    {
-      "dossier": "Avolon commande 140 Boeing 737-10",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
