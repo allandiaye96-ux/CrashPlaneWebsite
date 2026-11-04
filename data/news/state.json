@@ -1474,7 +1474,9 @@
     "https://www.twz.com/land/which-guns-and-optics-are-best-according-to-battle-tested-ukrainian-soldiers": "2026-11-04T19:20:34Z",
     "https://simpleflying.com/jetblue-cancels-19-routes-from-florida/": "2026-11-04T20:10:37Z",
     "https://simpleflying.com/7-airlines-largest-dreamliner-fleets-2026/": "2026-11-04T20:10:37Z",
-    "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz": "2026-11-04T20:30:52Z"
+    "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz": "2026-11-04T20:30:52Z",
+    "https://www.aerotime.aero/articles/gulfstream-general-dynamics-q3-2026-results": "2026-11-04T21:20:37Z",
+    "https://www.aerotime.aero/articles/maxwell-m1-hybrid-amphibious-cargo-aircraft": "2026-11-04T21:20:37Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -1506,27 +1508,6 @@
       ],
       "story_id": "2026-10-28-la-dia-publie-une-image-rare-de-l-avion-spatial-reutilisable-d790",
       "written_count": 2
-    },
-    "cc2d808e078": {
-      "id": "cc2d808e078",
-      "label": "Prêt 3,4 milliards Airbus US",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:16:42Z",
-      "items": [
-        {
-          "id": "20822aebd809074f",
-          "feed": "AeroTime",
-          "title": "US warns $3.4 billion Airbus loan threatens aircraft trade truce",
-          "url": "https://www.aerotime.aero/articles/us-warns-3-4-billion-airbus-loan-threatens-aircraft-trade-truce",
-          "domain": "aerotime.aero",
-          "summary": "The US has warned that European financing for Airbus could threaten its aircraft trade truce with the European… The post US warns $3.4 billion Airbus loan threatens aircraft trade truce appeared first on AeroTime .",
-          "published": "2026-10-28T03:22:25Z"
-        }
-      ],
-      "story_id": "2026-10-28-les-etats-unis-jugent-un-pret-europeen-de-3-4-milliards-de-d-e078",
-      "written_count": 1
     },
     "c4d06ce9da9": {
       "id": "c4d06ce9da9",
@@ -1567,27 +1548,6 @@
       "story_id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
       "written_count": 3
     },
-    "c4a20b5b9fd": {
-      "id": "c4a20b5b9fd",
-      "label": "Boeing résultats T3 2026",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:16:42Z",
-      "items": [
-        {
-          "id": "9ac7af7f415fe55c",
-          "feed": "AeroTime",
-          "title": "Boeing Q3 2026 results: record backlog, 737-7 and 737-10 certified, loss narrows",
-          "url": "https://www.aerotime.aero/articles/boeing-q3-2026-results-record-backlog-737-7-and-737-10-certified-loss-narrows",
-          "domain": "aerotime.aero",
-          "summary": "Boeing closed the third quarter of 2026 with a record backlog, two newly certified 737 MAX variants and… The post Boeing Q3 2026 results: record backlog, 737-7 and 737-10 certified, loss narrows appeared first on AeroTime .",
-          "published": "2026-10-27T14:26:52Z"
-        }
-      ],
-      "story_id": "2026-10-28-boeing-clot-le-troisieme-trimestre-2026-avec-un-carnet-recor-b9fd",
-      "written_count": 1
-    },
     "c54c6f4058f": {
       "id": "c54c6f4058f",
       "label": "Canada premiers F-35 reçus",
@@ -1617,27 +1577,6 @@
       ],
       "story_id": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f",
       "written_count": 2
-    },
-    "c2d8fe6df03": {
-      "id": "c2d8fe6df03",
-      "label": "Ouverture aéroport Western Sydney",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-28T21:16:42Z",
-      "items": [
-        {
-          "id": "8de9b915f115fa90",
-          "feed": "Australian Aviation",
-          "title": "Video Podcast: Western Sydney Airport finally takes flight",
-          "url": "https://australianaviation.com.au/2026/10/video-podcast-western-sydney-airport-finally-takes-flight/",
-          "domain": "australianaviation.com.au",
-          "summary": "On this week’s Australian Aviation Podcast, Jake and Hannah recap the trials and triumphs of Western Sydney Airport’s grand opening, ask what’s next for Australia’s newest international gateway, and declare an undying blood feud on a certain Jetstar A320.",
-          "published": "2026-10-28T05:34:23Z"
-        }
-      ],
-      "story_id": "2026-10-28-western-sydney-airport-l-ouverture-evoquee-dans-un-podcast-d-df03",
-      "written_count": 1
     },
     "caa74b8eecc": {
       "id": "caa74b8eecc",
@@ -4951,6 +4890,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.689053
+    "2026-11": 1.689905
   }
 }

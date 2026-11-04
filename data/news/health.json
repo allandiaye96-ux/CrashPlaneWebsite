@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T21:10:37Z",
+  "run": "2026-11-04T21:20:37Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6891,
+  "spend_month_usd": 1.6899,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -386,24 +386,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
-      "dossier": "Prêt 3,4 milliards Airbus US",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-28-les-etats-unis-jugent-un-pret-europeen-de-3-4-milliards-de-d-e078"
-    },
-    {
-      "dossier": "Boeing résultats T3 2026",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-28-boeing-clot-le-troisieme-trimestre-2026-avec-un-carnet-recor-b9fd"
-    },
-    {
-      "dossier": "Ouverture aéroport Western Sydney",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-28-western-sydney-airport-l-ouverture-evoquee-dans-un-podcast-d-df03"
     },
     {
       "dossier": "Grève TWU personnel au sol Qantas",
