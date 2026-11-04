@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T16:10:34Z",
+  "run": "2026-11-04T16:20:36Z",
   "stats": {
     "fetched": 693,
-    "new": 1,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6248,
+  "spend_month_usd": 1.6382,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -370,6 +370,12 @@
       "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
     },
     {
+      "dossier": "Air Baltic retour de six A220-300",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
+    },
+    {
       "dossier": "AerFin rachat 44 737NG Qantas",
       "statut": "corrobore",
       "editeurs": 2,
@@ -698,12 +704,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170"
-    },
-    {
-      "dossier": "Air Baltic retour de six A220-300",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
     },
     {
       "dossier": "Discover A350 et Air Transat Toronto-Berlin",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393",
+    "created": "2026-11-04T10:40:51Z",
+    "updated": "2026-11-04T16:21:01Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Baltic veut rendre six Airbus A220-300 loués dans le cadre de sa procédure Chapter 11",
+    "chapo": "Selon airliners.de, Air Baltic a demandé à restituer six A220-300 pris en leasing, dans le cadre de sa procédure de Chapter 11. Un tribunal new-yorkais doit se prononcer à la mi-novembre.",
+    "paragraphes": [
+      "La compagnie lettone propose également, dans sa requête, les modalités selon lesquelles ces appareils seraient rendus, d'après airliners.de. La décision revient à la justice new-yorkaise, attendue à la mi-novembre.",
+      "Pour aero.de, cette démarche prépare une exploitation de la compagnie avec une flotte réduite en 2027. Parmi les six A220-300 concernés figurent des avions tout neufs, précise le site.",
+      "Aero.de ajoute qu'il ne s'agirait que d'une première étape : Air Baltic souhaite se séparer de douze A220-300 supplémentaires d'ici la fin de 2026. Le site présente la compagnie comme partenaire de Lufthansa."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air Baltic gibt die ersten sechs Airbus A220-300 zurück",
+        "url": "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html",
+        "date": "2026-11-04T10:36:50Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Air Baltic beantragt Rückgabe von sechs geleasten A220-300",
+        "url": "https://www.airliners.de/air-baltic-beantragt-rueckgabe-geleasten-a220-300/91307",
+        "date": "2026-11-04T15:22:10Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
     "created": "2026-11-03T20:20:57Z",
     "updated": "2026-11-04T16:01:48Z",
@@ -304,38 +344,6 @@
         "title": "Bangkok-Suvarnabhumi : AOT prévoit de doubler la capacité de l’aéroport d’ici 6 à 7 ans",
         "url": "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/bangkok-suvarnabhumi-aot-prevoit-de-doubler-la-capacite-de-laeroport-dici-6-a-7-ans-20261104.html",
         "date": "2026-11-04T10:42:02Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393",
-    "created": "2026-11-04T10:40:51Z",
-    "updated": "2026-11-04T10:40:51Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air Baltic restitue six Airbus A220-300 et prévoit une flotte réduite en 2027",
-    "chapo": "Selon aero.de, Air Baltic se séparera de six Airbus A220-300 dans le cadre de la procédure de Chapter 11 en cours, afin d'opérer avec une flotte plus petite en 2027.",
-    "paragraphes": [
-      "D'après aero.de, la compagnie lettone, partenaire de Lufthansa, abandonne ces six appareils, dont des avions tout neufs. Il s'agit des premiers A220-300 restitués.",
-      "Le média ajoute qu'Air Baltic entend se défaire de douze A220-300 supplémentaires d'ici la fin 2026."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Air Baltic gibt die ersten sechs Airbus A220-300 zurück",
-        "url": "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html",
-        "date": "2026-11-04T10:36:50Z",
         "official": false
       }
     ]

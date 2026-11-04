@@ -1455,7 +1455,10 @@
     "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m": "2026-11-04T15:50:32Z",
     "https://airlinegeeks.com/2026/11/04/air-india-ceo-wants-more-wide-body-aircraft/": "2026-11-04T16:01:05Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/pia-integre-son-1er-boeing-787-et-accueille-un-nouveau-ceo-20261104.html": "2026-11-04T16:01:05Z",
-    "https://www.aero.de/news-54093/Erneut-Huthi-Angriff-auf-Flughafen-Riad.html": "2026-11-04T16:10:34Z"
+    "https://www.aero.de/news-54093/Erneut-Huthi-Angriff-auf-Flughafen-Riad.html": "2026-11-04T16:10:34Z",
+    "https://www.airliners.de/condor-fliegt-taeglich-ueber-abu-dhabi-bangkok/91331": "2026-11-04T16:20:36Z",
+    "https://www.airliners.de/air-baltic-beantragt-rueckgabe-geleasten-a220-300/91307": "2026-11-04T16:20:36Z",
+    "https://www.airliners.de/air-baltic-vilnius-uesseldorf-strecke/91325": "2026-11-04T16:20:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4587,7 +4590,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-04T10:40:47Z",
-      "updated": "2026-11-04T10:40:47Z",
+      "updated": "2026-11-04T16:20:54Z",
       "items": [
         {
           "id": "4975bc1cd4347456",
@@ -4597,10 +4600,19 @@
           "domain": "aero.de",
           "summary": "RIGA - Air Baltic will 2027 mit einer kleineren Flotte agieren. Im laufenden Chapter-11-Verfahren streift der Lufthansa-Partner jetzt sechs Airbus A220-300 ab, darunter brandneue Flugzeuge. Das ist erst der Anfang - Air Baltic will bis Ende 2026 noch zwölf weitere A220-300 loswerden.",
           "published": "2026-11-04T10:36:50Z"
+        },
+        {
+          "id": "ea8b626845beb57c",
+          "feed": "airliners.de",
+          "title": "Air Baltic beantragt Rückgabe von sechs geleasten A220-300",
+          "url": "https://www.airliners.de/air-baltic-beantragt-rueckgabe-geleasten-a220-300/91307",
+          "domain": "airliners.de",
+          "summary": "Air Baltic will im Chapter-11-Verfahren sechs geleaste A220-300 abgeben. Ein New Yorker Gericht entscheidet Mitte November über den Antrag. Dazu schlägt die Airline auch vor, wie die Rückgabe ablaufen soll.",
+          "published": "2026-11-04T15:22:10Z"
         }
       ],
       "story_id": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393",
-      "written_count": 1
+      "written_count": 2
     },
     "ccef4cb072b": {
       "id": "ccef4cb072b",
@@ -4842,6 +4854,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.624822
+    "2026-11": 1.638232
   }
 }
