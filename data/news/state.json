@@ -1440,7 +1440,10 @@
     "https://www.airliners.de/avolon-auftrag-ueber-140-boeing-737-max-10-fest/91314": "2026-11-04T14:20:35Z",
     "https://www.airliners.de/latam-ergebnisprognose-hoher-treibstoffkosten/91311": "2026-11-04T14:20:35Z",
     "https://www.airliners.de/flughafen-mexiko-stadt-baut-altschulden/91312": "2026-11-04T14:20:35Z",
-    "https://www.airliners.de/us-zwischenwahlen-fraport-chef-erwartet-leichten-rueckenwind-luftverkehr/91310": "2026-11-04T14:20:35Z"
+    "https://www.airliners.de/us-zwischenwahlen-fraport-chef-erwartet-leichten-rueckenwind-luftverkehr/91310": "2026-11-04T14:20:35Z",
+    "https://simpleflying.com/delta-air-lines-boeing-757-fleet-fell-127-83-retired-jets-spare-parts/": "2026-11-04T15:01:06Z",
+    "https://www.air-journal.fr/2026-11-04-un-a380-demirates-a-bruxelles-en-mars-2027-nouvelle-occasion-de-tester-la-triple-passerelle-5278676.html": "2026-11-04T15:01:06Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/indigo-discuterait-dune-potentielle-commande-dembraer-20261104.html": "2026-11-04T15:01:06Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4617,7 +4620,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-04T11:50:52Z",
-      "updated": "2026-11-04T11:50:52Z",
+      "updated": "2026-11-04T15:01:20Z",
       "items": [
         {
           "id": "b2eeb92af4c1281b",
@@ -4627,10 +4630,19 @@
           "domain": "aerotime.aero",
           "summary": "India’s largest airline IndiGo is in talks with Embraer over a potential order for 100 regional jets with… The post IndiGo explores large regional jet order with Embraer: Reuters appeared first on AeroTime .",
           "published": "2026-11-04T11:39:14Z"
+        },
+        {
+          "id": "0179ba9a5e224f2c",
+          "feed": "Le Journal de l'Aviation",
+          "title": "IndiGo discuterait d’une potentielle commande d’Embraer",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/indigo-discuterait-dune-potentielle-commande-dembraer-20261104.html",
+          "domain": "journal-aviation.com",
+          "summary": "Selon les informations de l’agence Reuters, IndiGo serait en discussion préliminaire avec Embraer et envisagerait d’acquérir une centaine d’E-Jets. A ces appareils pourraient s’ajouter cinquante options. De telles discussions avaient […] L’article IndiGo discuterait d’une potentielle commande d’Embraer a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-04T14:53:05Z"
         }
       ],
       "story_id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
-      "written_count": 1
+      "written_count": 2
     },
     "c28d60c8f8b": {
       "id": "c28d60c8f8b",
@@ -4740,6 +4752,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.558437
+    "2026-11": 1.567191
   }
 }

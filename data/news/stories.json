@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
+    "created": "2026-11-04T11:50:56Z",
+    "updated": "2026-11-04T15:01:25Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "IndiGo en discussions avec Embraer pour une possible commande d'une centaine d'avions régionaux",
+    "chapo": "Selon Reuters, repris par AeroTime et Le Journal de l'Aviation, la compagnie indienne IndiGo discuterait avec Embraer d'une commande potentielle d'environ 100 jets régionaux.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, qui cite Reuters, les discussions seraient préliminaires. IndiGo envisagerait l'acquisition d'une centaine d'E-Jets, à laquelle pourraient s'ajouter cinquante options.",
+      "AeroTime présente IndiGo comme la plus grande compagnie aérienne d'Inde. Aucune commande n'est annoncée à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "IndiGo explores large regional jet order with Embraer: Reuters",
+        "url": "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters",
+        "date": "2026-11-04T11:39:14Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "IndiGo discuterait d’une potentielle commande d’Embraer",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/indigo-discuterait-dune-potentielle-commande-dembraer-20261104.html",
+        "date": "2026-11-04T14:53:05Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b",
     "created": "2026-11-04T14:21:11Z",
     "updated": "2026-11-04T14:21:11Z",
@@ -127,38 +166,6 @@
         "title": "Discover-Flottenumbau, Merz und Emirates zu Berlin, Air Transat streicht Toronto-Berlin",
         "url": "https://www.airliners.de/nachrichten-der-woche-discover-flottenumbau-merz-emirates-berlin-air-transat/91297",
         "date": "2026-11-04T11:30:00Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
-    "created": "2026-11-04T11:50:56Z",
-    "updated": "2026-11-04T11:50:56Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "IndiGo en discussion avec Embraer pour une possible commande de 100 jets régionaux",
-    "chapo": "Selon AeroTime, qui s'appuie sur une information de Reuters, la compagnie indienne IndiGo négocierait avec Embraer une commande potentielle de 100 jets régionaux.",
-    "paragraphes": [
-      "AeroTime présente IndiGo comme la plus grande compagnie aérienne d'Inde. D'après le média, qui reprend Reuters, elle serait en pourparlers avec le constructeur brésilien Embraer au sujet de cet achat envisagé.",
-      "À ce stade, il s'agit de discussions portant sur une commande potentielle : aucun contrat n'est présenté comme conclu."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "IndiGo explores large regional jet order with Embraer: Reuters",
-        "url": "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters",
-        "date": "2026-11-04T11:39:14Z",
         "official": false
       }
     ]

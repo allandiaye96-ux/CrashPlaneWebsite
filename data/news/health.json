@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T14:50:41Z",
+  "run": "2026-11-04T15:01:06Z",
   "stats": {
-    "fetched": 683,
-    "new": 0,
-    "written": 0,
+    "fetched": 693,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.5584,
+  "spend_month_usd": 1.5672,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -362,6 +362,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
+    },
+    {
+      "dossier": "IndiGo commande jets régionaux Embraer",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -698,12 +704,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
-      "dossier": "IndiGo commande jets régionaux Embraer",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
       "dossier": "Discover A350 et Air Transat Toronto-Berlin",
