@@ -1458,7 +1458,8 @@
     "https://www.aero.de/news-54093/Erneut-Huthi-Angriff-auf-Flughafen-Riad.html": "2026-11-04T16:10:34Z",
     "https://www.airliners.de/condor-fliegt-taeglich-ueber-abu-dhabi-bangkok/91331": "2026-11-04T16:20:36Z",
     "https://www.airliners.de/air-baltic-beantragt-rueckgabe-geleasten-a220-300/91307": "2026-11-04T16:20:36Z",
-    "https://www.airliners.de/air-baltic-vilnius-uesseldorf-strecke/91325": "2026-11-04T16:20:36Z"
+    "https://www.airliners.de/air-baltic-vilnius-uesseldorf-strecke/91325": "2026-11-04T16:20:36Z",
+    "https://simpleflying.com/how-emirates-is-spending-2-billion-defend-worlds-newest-premium-airline/": "2026-11-04T16:40:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4854,6 +4855,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.638232
+    "2026-11": 1.639035
   }
 }
