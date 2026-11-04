@@ -1476,7 +1476,8 @@
     "https://simpleflying.com/7-airlines-largest-dreamliner-fleets-2026/": "2026-11-04T20:10:37Z",
     "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz": "2026-11-04T20:30:52Z",
     "https://www.aerotime.aero/articles/gulfstream-general-dynamics-q3-2026-results": "2026-11-04T21:20:37Z",
-    "https://www.aerotime.aero/articles/maxwell-m1-hybrid-amphibious-cargo-aircraft": "2026-11-04T21:20:37Z"
+    "https://www.aerotime.aero/articles/maxwell-m1-hybrid-amphibious-cargo-aircraft": "2026-11-04T21:20:37Z",
+    "https://theaircurrent.com/defense/us-air-force-operations-rebuilt-world-war-ii-era-pacific-airfields/": "2026-11-04T21:30:52Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4886,10 +4887,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cefe096bc99": {
+      "id": "cefe096bc99",
+      "label": "USAF reactivation bases WWII Pacifique",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-04T21:31:08Z",
+      "updated": "2026-11-04T21:31:08Z",
+      "items": [
+        {
+          "id": "1e4e36fba464250d",
+          "feed": "The Air Current",
+          "title": "U.S. Air Force to begin year-round operations at rebuilt World War II-era Pacific airfields",
+          "url": "https://theaircurrent.com/defense/us-air-force-operations-rebuilt-world-war-ii-era-pacific-airfields/",
+          "domain": "theaircurrent.com",
+          "summary": "Loading the Elevenlabs Text to Speech AudioNative Player... The U.S. Air Force is preparing to formally reactivate a cluster of reconstituted World War II-era bases for high-tempo flight operations as the U.S. positions itself for a possible future conflict with China by dispersing assets across the Pacific. The service is laying the groundwork for potentially thousands of annual flight operations at four historic airfields across the Northern Mariana Islands, last used in the […] The post U.S. Air Force to begin year-round operations at rebuilt World War II-era Pacific airfields appeared first on The Air Current .",
+          "published": "2026-11-04T21:23:09Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.689905
+    "2026-11": 1.690711
   }
 }

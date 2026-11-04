@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T21:20:37Z",
+  "run": "2026-11-04T21:30:52Z",
   "stats": {
     "fetched": 696,
-    "new": 2,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6899,
+  "spend_month_usd": 1.6907,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -827,6 +827,12 @@
     },
     {
       "dossier": "Pakistan essai missile air-air Fa'az",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "USAF reactivation bases WWII Pacifique",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
