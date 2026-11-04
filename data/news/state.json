@@ -1429,7 +1429,8 @@
     "https://www.airliners.de/mobilitaetsformel-11-terminal-3-frankfurt-gegenbeispiel-ber/90756": "2026-11-04T12:20:35Z",
     "https://www.airliners.de/reportage-nadeloehr-newark-alternativlose-drehkreuz-united-lufthansa/90745": "2026-11-04T12:20:35Z",
     "https://www.aerotime.aero/articles/eve-air-mobilitty-agreement-evtols-brazilian-operator": "2026-11-04T12:50:34Z",
-    "https://theaviationist.com/2026/11/04/first-hh-60w-joint-base-andrews/": "2026-11-04T12:50:34Z"
+    "https://theaviationist.com/2026/11/04/first-hh-60w-joint-base-andrews/": "2026-11-04T12:50:34Z",
+    "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html": "2026-11-04T13:01:06Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4665,10 +4666,31 @@
       ],
       "story_id": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b",
       "written_count": 1
+    },
+    "c1504d3ead7": {
+      "id": "c1504d3ead7",
+      "label": "Alertes à la bombe vols Europe 3 novembre 2026",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-04T13:01:40Z",
+      "updated": "2026-11-04T13:01:40Z",
+      "items": [
+        {
+          "id": "2812e262ab995040",
+          "feed": "Air Journal",
+          "title": "Déroutements, avions de chasse, fouilles : des alertes à la bombe perturbent plusieurs vols en Europe",
+          "url": "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html",
+          "domain": "air-journal.fr",
+          "summary": "Au moins sept vols à destination de la Pologne, de la Bulgarie, de l’Italie et de l’Espagne ont été visés par des menaces à la bombe mardi 3 novembre 2026. Déroutement d’un appareil de LOT, fermeture temporaire de Varsovie-Modlin, escorte militaire en Italie : les alertes ont mobilisé les services de sûreté, sans qu’aucun explosif […]",
+          "published": "2026-11-04T13:00:09Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.492053
+    "2026-11": 1.492862
   }
 }

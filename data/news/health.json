@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T12:50:34Z",
+  "run": "2026-11-04T13:01:06Z",
   "stats": {
-    "fetched": 692,
-    "new": 2,
+    "fetched": 592,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.4921,
+  "spend_month_usd": 1.4929,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Leeham News": {
       "ok": true,
@@ -803,6 +803,12 @@
     },
     {
       "dossier": "SNC se retire du programme UJTS de la US Navy",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
