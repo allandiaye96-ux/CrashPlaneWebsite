@@ -1467,7 +1467,9 @@
     "https://www.airliners.de/gdf-lehnt-staatliche-basisfinanzierung-flugsicherung/91329": "2026-11-04T17:20:38Z",
     "https://www.airliners.de/umgangene-sicherheitskontrolle-air-serbia-flug-moskau-kehrt-belgrad-ueck/91333": "2026-11-04T17:20:38Z",
     "https://theaviationist.com/2026/11/04/riat-relocates-boscombe-down/": "2026-11-04T17:30:51Z",
-    "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition": "2026-11-04T17:40:34Z"
+    "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition": "2026-11-04T17:40:34Z",
+    "https://simpleflying.com/5-boeing-787-9-fleets-40-business-class-seats/": "2026-11-04T18:01:03Z",
+    "https://airlinegeeks.com/2026/11/04/qatar-launches-two-south-american-destinations/": "2026-11-04T18:01:03Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4919,10 +4921,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c7375899a1c": {
+      "id": "c7375899a1c",
+      "label": "Qatar Airways nouvelles destinations Amérique du Sud",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T18:01:22Z",
+      "updated": "2026-11-04T18:01:22Z",
+      "items": [
+        {
+          "id": "94bfee7b82866a95",
+          "feed": "AirlineGeeks",
+          "title": "Qatar Launches Two South American Destinations",
+          "url": "https://airlinegeeks.com/2026/11/04/qatar-launches-two-south-american-destinations/",
+          "domain": "airlinegeeks.com",
+          "summary": "The carrier is flying a twice-weekly loop from Doha on a Boeing 777-200LR.",
+          "published": "2026-11-04T18:01:03Z"
+        }
+      ],
+      "story_id": "2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.678219
+    "2026-11": 1.68582
   }
 }

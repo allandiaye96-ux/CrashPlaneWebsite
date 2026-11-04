@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T17:50:36Z",
+  "run": "2026-11-04T18:01:03Z",
   "stats": {
     "fetched": 694,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6782,
+  "spend_month_usd": 1.6858,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -728,6 +728,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507"
+    },
+    {
+      "dossier": "Qatar Airways nouvelles destinations Amérique du Sud",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c"
     },
     {
       "dossier": "Allemagne GCAP FCAS Pistorius",

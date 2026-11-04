@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c",
+    "created": "2026-11-04T18:01:26Z",
+    "updated": "2026-11-04T18:01:26Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qatar Airways lance deux nouvelles destinations sud-américaines au départ de Doha en Boeing 777-200LR",
+    "chapo": "Selon AirlineGeeks, Qatar Airways ouvre deux destinations en Amérique du Sud, desservies par une boucle bihebdomadaire depuis Doha.",
+    "paragraphes": [
+      "D'après AirlineGeeks, la compagnie exploite cette liaison à raison de deux fréquences par semaine, sous forme de boucle au départ de Doha.",
+      "Le site indique que l'appareil employé est un Boeing 777-200LR."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AirlineGeeks",
+        "title": "Qatar Launches Two South American Destinations",
+        "url": "https://airlinegeeks.com/2026/11/04/qatar-launches-two-south-american-destinations/",
+        "date": "2026-11-04T18:01:03Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
     "created": "2026-11-04T16:51:12Z",
     "updated": "2026-11-04T17:20:57Z",
