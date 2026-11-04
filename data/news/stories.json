@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-11-04-condor-la-commission-tarifaire-reproche-au-comite-de-la-vc-d-b990",
+    "created": "2026-11-04T06:21:05Z",
+    "updated": "2026-11-04T06:21:05Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Condor : la commission tarifaire reproche au comité de la VC d'être intervenu dans le vote sur le « Zukunftspaket »",
+    "chapo": "Selon airliners.de, qui a eu accès à un courrier de la commission tarifaire de Condor, celle-ci critique la manière dont le comité directeur de la VC a géré le vote sur le « Zukunftspaket » de la compagnie.",
+    "paragraphes": [
+      "D'après airliners.de, ce courrier de la commission tarifaire reproche au comité directeur du syndicat de pilotes Vereinigung Cockpit (VC) d'avoir interféré dans la consultation portant sur le paquet d'avenir de Condor.",
+      "La VC présente pour sa part une tout autre lecture : selon le média, elle affirme que son comité directeur et la commission tarifaire soutiennent ensemble ce paquet."
+    ],
+    "contradictions": "Les deux parties divergent : la commission tarifaire critique le comité directeur de la VC dans un courrier, tandis que la VC affirme que comité et commission soutiennent ensemble le paquet (selon airliners.de).",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Condor-Tarifkommission wirft VC-Vorstand Eingriffe bei Abstimmung zum Zukunftspaket vor",
+        "url": "https://www.airliners.de/condor-tarifkommission-wirft-vc-vorstand-eingriffe-abstimmung-zukunftspaket/91266",
+        "date": "2026-11-04T05:27:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
+    "created": "2026-11-03T17:41:08Z",
+    "updated": "2026-11-04T06:20:57Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 3,
+    "titre": "Lufthansa signe l'accord de prise de participation de 44,9 % dans TAP Air Portugal pour 1,025 milliard d'euros",
+    "chapo": "Le groupe Lufthansa et le gouvernement portugais ont signé le contrat d'entrée du transporteur allemand au capital de TAP Air Portugal, selon airliners.de et AviTrader. Cette première tranche de 44,9 % représente 1,025 milliard d'euros.",
+    "paragraphes": [
+      "D'après AviTrader, la signature a eu lieu à l'aéroport Humberto Delgado de Lisbonne. Lufthansa y voit, dans un communiqué cité par aero.de, une étape décisive du processus de privatisation de la compagnie nationale portugaise.",
+      "Selon airliners.de, Lisbonne a vocation à devenir à long terme le septième hub du groupe allemand. Simple Flying évoque aussi un objectif de croissance sur l'Amérique latine. D'après AviTrader, la finalisation de l'opération reste soumise à l'accord des autorités de régulation."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa Group unterzeichnet Vertrag über Einstieg bei Tap Air Portugal",
+        "url": "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304",
+        "date": "2026-11-03T17:24:00Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
+        "url": "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html",
+        "date": "2026-11-03T17:36:05Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "It's Official: Lufthansa Signs $1.2 Billion Deal To Purchase 44.9% Of TAP Air Portugal",
+        "url": "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/",
+        "date": "2026-11-03T20:52:16Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Lufthansa seals €1.025bn deal for TAP stake",
+        "url": "https://avitrader.com/2026/11/04/lufthansa-seals-e1-025bn-deal-for-tap-stake/",
+        "date": "2026-11-04T06:14:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac",
     "created": "2026-11-04T06:01:25Z",
     "updated": "2026-11-04T06:01:25Z",
@@ -27,52 +112,6 @@
         "title": "ITA Airways prépare son retour à Milan-Malpensa pour couper la route à Emirates vers Lima",
         "url": "https://www.air-journal.fr/2026-11-04-ita-airways-prepare-son-retour-a-milan-malpensa-pour-couper-la-route-a-emirates-vers-lima-5278664.html",
         "date": "2026-11-04T06:00:43Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-    "created": "2026-11-03T17:41:08Z",
-    "updated": "2026-11-03T21:01:27Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 3,
-    "titre": "Lufthansa signe le contrat d'entrée au capital de TAP Air Portugal à hauteur de 44,9 %",
-    "chapo": "Lufthansa Group et le gouvernement portugais ont signé l'accord d'entrée du groupe allemand au capital de TAP Air Portugal, selon airliners.de. Les premiers 44,9 % sont chiffrés à 1,025 milliard d'euros.",
-    "paragraphes": [
-      "Le contrat a été conclu entre Lufthansa et l'État portugais, indique aero.de. Dans un communiqué du groupe, Lufthansa présente cette signature comme une étape décisive du processus de privatisation de la compagnie nationale portugaise.",
-      "À plus long terme, Lisbonne doit devenir le septième hub du groupe, d'après airliners.de. Simple Flying évoque une transaction de 1,2 milliard de dollars et indique que Lufthansa vise aussi une croissance sur l'Amérique latine."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Lufthansa Group unterzeichnet Vertrag über Einstieg bei Tap Air Portugal",
-        "url": "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304",
-        "date": "2026-11-03T17:24:00Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
-        "url": "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html",
-        "date": "2026-11-03T17:36:05Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "It's Official: Lufthansa Signs $1.2 Billion Deal To Purchase 44.9% Of TAP Air Portugal",
-        "url": "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/",
-        "date": "2026-11-03T20:52:16Z",
         "official": false
       }
     ]

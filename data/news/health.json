@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T06:10:37Z",
+  "run": "2026-11-04T06:20:35Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.163,
+  "spend_month_usd": 1.1912,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -136,6 +136,12 @@
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
     },
     {
+      "dossier": "Lufthansa TAP participation contrat",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -194,12 +200,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
-    },
-    {
-      "dossier": "Lufthansa TAP participation contrat",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
       "dossier": "Image du spaceplane chinois",
@@ -638,6 +638,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac"
+    },
+    {
+      "dossier": "Condor tarifkommission vs VC-Vorstand Zukunftspaket",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-condor-la-commission-tarifaire-reproche-au-comite-de-la-vc-d-b990"
     },
     {
       "dossier": "NASA X-59 premier vol pilote Lippert",
