@@ -1450,7 +1450,9 @@
     "https://www.airliners.de/indigo-verhandelt-kauf-100-embraer-jets/91321": "2026-11-04T15:20:49Z",
     "https://www.airliners.de/lufthansa-spart-2027-flugzeuge-kuendigt-zusaetzliche-massnahmen-kernmarke/91284": "2026-11-04T15:20:49Z",
     "https://www.airliners.de/brandenburg-verkehrsminister-kontert-merz-kritik-berliner-flughafenpolitik/91319": "2026-11-04T15:20:49Z",
-    "https://www.airliners.de/eu-kommission-touristenstroeme-gleichmaessiger-verteilen/91317": "2026-11-04T15:20:49Z"
+    "https://www.airliners.de/eu-kommission-touristenstroeme-gleichmaessiger-verteilen/91317": "2026-11-04T15:20:49Z",
+    "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans": "2026-11-04T15:50:32Z",
+    "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m": "2026-11-04T15:50:32Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4585,7 +4587,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-04T11:20:49Z",
-      "updated": "2026-11-04T11:20:49Z",
+      "updated": "2026-11-04T15:50:46Z",
       "items": [
         {
           "id": "d135e258a03db088",
@@ -4595,10 +4597,19 @@
           "domain": "avitrader.com",
           "summary": "AerFin has agreed to acquire 44 aircraft from Qantas in the largest transaction in the company’s history. The acquisition comprises 44 Boeing 737NG aircraft and 88 CFM56-7B engines, marking a major milestone in AerFin’s continued expansion and further cementing its position as a leading global aviation aftermarket specialist. The transaction will strengthen support for airline […] The post AerFin seals landmark 737NG aircraft acquisition from Qantas appeared first on AviTrader Aviation News .",
           "published": "2026-11-04T11:01:21Z"
+        },
+        {
+          "id": "464114e80af534c4",
+          "feed": "AeroTime",
+          "title": "Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans",
+          "url": "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans",
+          "domain": "aerotime.aero",
+          "summary": "Qantas has sold 44 Boeing 737 Next Generation aircraft to aftermarket specialist AerFin as part of plans to… The post Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans appeared first on AeroTime .",
+          "published": "2026-11-04T15:44:03Z"
         }
       ],
       "story_id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-      "written_count": 1
+      "written_count": 2
     },
     "cf6636a56bd": {
       "id": "cf6636a56bd",
@@ -4764,10 +4775,31 @@
       ],
       "story_id": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b",
       "written_count": 1
+    },
+    "ce9cbc2ca52": {
+      "id": "ce9cbc2ca52",
+      "label": "Joby USAF financement autonome cargo",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-04T15:50:46Z",
+      "updated": "2026-11-04T15:50:46Z",
+      "items": [
+        {
+          "id": "bd8aa6fa1d194b5d",
+          "feed": "AeroTime",
+          "title": "US Air Force backs Joby’s autonomous cargo aircraft with $37M commitment",
+          "url": "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m",
+          "domain": "aerotime.aero",
+          "summary": "Joby Aviation has secured additional US Air Force funding for its autonomous flight technology, bringing the service’s total… The post US Air Force backs Joby’s autonomous cargo aircraft with $37M commitment appeared first on AeroTime .",
+          "published": "2026-11-04T14:56:10Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.576543
+    "2026-11": 1.586258
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T15:40:37Z",
+  "run": "2026-11-04T15:50:32Z",
   "stats": {
     "fetched": 693,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.5765,
+  "spend_month_usd": 1.5863,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -370,6 +370,12 @@
       "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
     },
     {
+      "dossier": "AerFin rachat 44 737NG Qantas",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
+    },
+    {
       "dossier": "Prêt 3,4 milliards Airbus US",
       "statut": "source_unique",
       "editeurs": 1,
@@ -700,12 +706,6 @@
       "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
     },
     {
-      "dossier": "AerFin rachat 44 737NG Qantas",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
       "dossier": "Discover A350 et Air Transat Toronto-Berlin",
       "statut": "source_unique",
       "editeurs": 1,
@@ -815,6 +815,12 @@
     },
     {
       "dossier": "United Las Vegas-New York passager menace détournement",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Joby USAF financement autonome cargo",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
