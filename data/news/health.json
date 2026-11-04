@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T03:10:33Z",
+  "run": "2026-11-04T03:20:35Z",
   "stats": {
-    "fetched": 692,
-    "new": 0,
+    "fetched": 592,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.143,
+  "spend_month_usd": 1.1438,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 33
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     "Boeing – Communiqués": {
       "ok": true,
