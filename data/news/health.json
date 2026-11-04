@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T05:50:33Z",
+  "run": "2026-11-04T06:01:01Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.1454,
+  "spend_month_usd": 1.163,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -632,6 +632,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
+    },
+    {
+      "dossier": "ITA Airways Milan-Malpensa Lima projet",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac"
     },
     {
       "dossier": "NASA X-59 premier vol pilote Lippert",

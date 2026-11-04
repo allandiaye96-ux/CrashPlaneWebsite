@@ -1365,7 +1365,9 @@
     "https://www.airliners.de/emirates-plaenen-ita-airways-plant-rueckkehr-malpensa/91279": "2026-11-04T03:20:35Z",
     "https://simpleflying.com/perth-became-australia-gateway-europe/": "2026-11-04T05:01:02Z",
     "https://www.aero.de/news-54084/Lufthansa-plant-neue-Boeing-787-9-um.html": "2026-11-04T05:20:34Z",
-    "https://www.airliners.de/air-astana-china-southern-vereinbaren-joint-venture/91283": "2026-11-04T05:20:34Z"
+    "https://www.airliners.de/air-astana-china-southern-vereinbaren-joint-venture/91283": "2026-11-04T05:20:34Z",
+    "https://avitrader.com/2026/11/04/willis-lease-finance-posts-us246-3-million-quarterly-revenue/": "2026-11-04T06:01:01Z",
+    "https://www.air-journal.fr/2026-11-04-ita-airways-prepare-son-retour-a-milan-malpensa-pour-couper-la-route-a-emirates-vers-lima-5278664.html": "2026-11-04T06:01:01Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4244,10 +4246,31 @@
       ],
       "story_id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
       "written_count": 1
+    },
+    "c9f1c7518ac": {
+      "id": "c9f1c7518ac",
+      "label": "ITA Airways Milan-Malpensa Lima projet",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T06:01:17Z",
+      "updated": "2026-11-04T06:01:17Z",
+      "items": [
+        {
+          "id": "7d58b06143b57e20",
+          "feed": "Air Journal",
+          "title": "ITA Airways prépare son retour à Milan-Malpensa pour couper la route à Emirates vers Lima",
+          "url": "https://www.air-journal.fr/2026-11-04-ita-airways-prepare-son-retour-a-milan-malpensa-pour-couper-la-route-a-emirates-vers-lima-5278664.html",
+          "domain": "air-journal.fr",
+          "summary": "ITA Airways envisage de relier Milan-Malpensa à Lima au Pérou, en complément d’une desserte depuis Rome-Fiumicino. Révélé le 3 novembre par le Corriere della Sera, ce projet reposerait sur une rotation en Airbus A350 sans ouverture de base en Lombardie. Une manière de renforcer son réseau latino-américain, mais aussi de contrer Emirates, qui demande à […]",
+          "published": "2026-11-04T06:00:43Z"
+        }
+      ],
+      "story_id": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.145435
+    "2026-11": 1.162964
   }
 }
