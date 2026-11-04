@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
+    "created": "2026-11-03T20:20:57Z",
+    "updated": "2026-11-04T16:01:48Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air India étudie de nouvelles commandes de gros-porteurs auprès de Boeing et Airbus",
+    "chapo": "Selon AeroTime, Air India envisage de passer des commandes supplémentaires d'avions gros-porteurs chez Boeing et Airbus. Son nouveau directeur général, Tewolde Gebremariam, table sur un retour à la rentabilité.",
+    "paragraphes": [
+      "D'après Air Journal, le dirigeant souhaite renforcer les liaisons internationales de la compagnie indienne et rééquilibrer son réseau, compte tenu de la fermeture de l'espace aérien pakistanais. Il évoque un retour à la rentabilité « très bientôt ».",
+      "Le Journal de l'Aviation indique que ces propos ont été tenus le 3 novembre à New Delhi, lors d'une conférence. Selon AirlineGeeks, la compagnie a déjà mené des discussions avec Airbus et Boeing dans le cadre de son expansion à l'international."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Air India eyes more widebody jets as new CEO predicts return to profitability",
+        "url": "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability",
+        "date": "2026-11-03T19:24:40Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Air India vise de nouveaux gros-porteurs pour reconquérir l’international",
+        "url": "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html",
+        "date": "2026-11-04T10:00:37Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Air India va commander de nouveaux avions gros-porteurs long-courriers",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html",
+        "date": "2026-11-04T10:16:14Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "Air India CEO Wants ‘More Widebody Aircraft’",
+        "url": "https://airlinegeeks.com/2026/11/04/air-india-ceo-wants-more-wide-body-aircraft/",
+        "date": "2026-11-04T15:51:42Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
     "created": "2026-11-04T11:20:53Z",
     "updated": "2026-11-04T15:50:50Z",
@@ -322,52 +375,6 @@
         "title": "ITA Airways Plots Malpensa U-Turn To Fly Milan-Lima Route Before Emirates Can",
         "url": "https://simpleflying.com/ita-airways-milan-malpensa-u-turn-lima-route/",
         "date": "2026-11-04T10:07:16Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
-    "created": "2026-11-03T20:20:57Z",
-    "updated": "2026-11-04T10:20:59Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air India étudie de nouvelles commandes de gros-porteurs auprès de Boeing et Airbus",
-    "chapo": "Air India réfléchit à l'achat d'appareils long-courriers supplémentaires chez Boeing et Airbus, selon AeroTime. Son nouveau directeur général, Tewolde Gebremariam, table sur un retour à la rentabilité.",
-    "paragraphes": [
-      "D'après Air Journal, le dirigeant souhaite développer les liaisons internationales de la compagnie indienne et rééquilibrer son réseau, compte tenu de la fermeture de l'espace aérien pakistanais. Il évoque un retour aux bénéfices « très bientôt ».",
-      "Le Journal de l'Aviation précise que ces projets ont été exposés à New Delhi, à l'occasion d'une conférence, le 3 novembre."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "Air India eyes more widebody jets as new CEO predicts return to profitability",
-        "url": "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability",
-        "date": "2026-11-03T19:24:40Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Air India vise de nouveaux gros-porteurs pour reconquérir l’international",
-        "url": "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html",
-        "date": "2026-11-04T10:00:37Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Air India va commander de nouveaux avions gros-porteurs long-courriers",
-        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html",
-        "date": "2026-11-04T10:16:14Z",
         "official": false
       }
     ]
@@ -1738,7 +1745,7 @@
     "version": 2,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Compagnies",
     "importance": 2,
     "titre": "PIA reçoit à Islamabad son premier Boeing 787-9, exploité par Norse Atlantic Airways",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T15:50:32Z",
+  "run": "2026-11-04T16:01:05Z",
   "stats": {
     "fetched": 693,
     "new": 2,
     "written": 1,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 1.5863,
+  "spend_month_usd": 1.624,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -148,6 +148,12 @@
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
     },
     {
+      "dossier": "Air India nouveaux gros-porteurs nouveau CEO",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -196,6 +202,12 @@
       "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
     },
     {
+      "dossier": "PIA réception premier Boeing 787-9",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92"
+    },
+    {
       "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
       "statut": "corrobore",
       "editeurs": 3,
@@ -212,12 +224,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
-    },
-    {
-      "dossier": "Air India nouveaux gros-porteurs nouveau CEO",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
     },
     {
       "dossier": "IndiGo commande jets régionaux Embraer",
@@ -290,12 +296,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76"
-    },
-    {
-      "dossier": "PIA réception premier Boeing 787-9",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92"
     },
     {
       "dossier": "Menace à la bombe Wizz Air Londres-Sofia Budapest",

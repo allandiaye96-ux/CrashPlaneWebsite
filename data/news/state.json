@@ -1452,7 +1452,9 @@
     "https://www.airliners.de/brandenburg-verkehrsminister-kontert-merz-kritik-berliner-flughafenpolitik/91319": "2026-11-04T15:20:49Z",
     "https://www.airliners.de/eu-kommission-touristenstroeme-gleichmaessiger-verteilen/91317": "2026-11-04T15:20:49Z",
     "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans": "2026-11-04T15:50:32Z",
-    "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m": "2026-11-04T15:50:32Z"
+    "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m": "2026-11-04T15:50:32Z",
+    "https://airlinegeeks.com/2026/11/04/air-india-ceo-wants-more-wide-body-aircraft/": "2026-11-04T16:01:05Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/pia-integre-son-1er-boeing-787-et-accueille-un-nouveau-ceo-20261104.html": "2026-11-04T16:01:05Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -2916,7 +2918,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-02T05:01:17Z",
-      "updated": "2026-11-02T15:01:34Z",
+      "updated": "2026-11-04T16:01:33Z",
       "items": [
         {
           "id": "ed755a8be73c1160",
@@ -2935,10 +2937,19 @@
           "domain": "air-journal.fr",
           "summary": "Pakistan International Airlines (PIA) a accueilli à Islamabad, le 1er novembre 2026, un premier Boeing 787-9 exploité pour son compte par Norse Atlantic Airways. L’appareil, arrivé de Londres-Heathrow, inaugure un accord de location avec équipage portant sur deux Dreamliner. Pour la compagnie pakistanaise, l’enjeu est de renforcer ses capacités vers le Royaume-Uni tout en poursuivant […]",
           "published": "2026-11-02T15:00:43Z"
+        },
+        {
+          "id": "b22187be0f0de68b",
+          "feed": "Le Journal de l'Aviation",
+          "title": "PIA intègre son 1er Boeing 787 et accueille un nouveau CEO",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/pia-integre-son-1er-boeing-787-et-accueille-un-nouveau-ceo-20261104.html",
+          "domain": "journal-aviation.com",
+          "summary": "Le mois de novembre a commencé avec plusieurs nouveautés pour Pakistan International Airlines (PIA). La compagnie a accueilli son premier Boeing 787-9 affrété le 1er novembre, puis son nouveau directeur […] L’article PIA intègre son 1er Boeing 787 et accueille un nouveau CEO a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-04T15:52:40Z"
         }
       ],
       "story_id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
-      "written_count": 2
+      "written_count": 3
     },
     "cc2f8482356": {
       "id": "cc2f8482356",
@@ -4275,7 +4286,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T20:20:54Z",
-      "updated": "2026-11-04T10:20:52Z",
+      "updated": "2026-11-04T16:01:33Z",
       "items": [
         {
           "id": "70eb715cf9368ea2",
@@ -4303,10 +4314,19 @@
           "domain": "journal-aviation.com",
           "summary": "Air India souhaite augmenter ses commandes de gros-porteurs pour développer son réseau long-courrier. Son directeur général, Tewolde Gebremariam, l’a indiqué le 3 novembre à New Delhi, lors de la conférence […] L’article Air India va commander de nouveaux avions gros-porteurs long-courriers a été publié sur Le Journal de l'Aviation .",
           "published": "2026-11-04T10:16:14Z"
+        },
+        {
+          "id": "799f5c968d07e77e",
+          "feed": "AirlineGeeks",
+          "title": "Air India CEO Wants ‘More Widebody Aircraft’",
+          "url": "https://airlinegeeks.com/2026/11/04/air-india-ceo-wants-more-wide-body-aircraft/",
+          "domain": "airlinegeeks.com",
+          "summary": "The carrier has held talks with Airbus and Boeing as it looks to expand its international network.",
+          "published": "2026-11-04T15:51:42Z"
         }
       ],
       "story_id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
-      "written_count": 3
+      "written_count": 4
     },
     "c9f1c7518ac": {
       "id": "c9f1c7518ac",
@@ -4800,6 +4820,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.586258
+    "2026-11": 1.624023
   }
 }
