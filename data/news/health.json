@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T06:50:37Z",
+  "run": "2026-11-04T07:01:04Z",
   "stats": {
     "fetched": 692,
-    "new": 4,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.2169,
+  "spend_month_usd": 1.2389,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -118,6 +118,12 @@
       "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
+      "dossier": "Lufthansa TAP participation contrat",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
@@ -134,12 +140,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
-    },
-    {
-      "dossier": "Lufthansa TAP participation contrat",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
       "dossier": "Airbus résultats T3 2026 livraisons",

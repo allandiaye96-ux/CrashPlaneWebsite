@@ -1377,7 +1377,9 @@
     "https://australianaviation.com.au/2026/11/video-podcast-hack-me-amadeus/": "2026-11-04T06:50:37Z",
     "https://australianaviation.com.au/2026/11/rex-and-flypelican-return-to-sydneys-terminal-2/": "2026-11-04T06:50:37Z",
     "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/": "2026-11-04T06:50:37Z",
-    "https://australianaviation.com.au/2026/11/cairns-airport-to-get-first-public-bus-route-this-month/": "2026-11-04T06:50:37Z"
+    "https://australianaviation.com.au/2026/11/cairns-airport-to-get-first-public-bus-route-this-month/": "2026-11-04T06:50:37Z",
+    "https://avitrader.com/2026/11/04/air-europa-extends-boeing-787-nacelle-deal-to-2037/": "2026-11-04T07:01:04Z",
+    "https://www.air-journal.fr/2026-11-04-lufthansa-signe-pour-449-de-tap-air-portugal-a-1025-milliard-deuros-5278667.html": "2026-11-04T07:01:04Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4128,7 +4130,7 @@
       "categorie": "Compagnies",
       "importance": 3,
       "created": "2026-11-03T17:41:01Z",
-      "updated": "2026-11-04T06:20:52Z",
+      "updated": "2026-11-04T07:01:20Z",
       "items": [
         {
           "id": "8366b0f13e50f104",
@@ -4165,10 +4167,19 @@
           "domain": "avitrader.com",
           "summary": "Lufthansa Group and the Portuguese government have signed the agreement for the German airline group to acquire an initial 44.9% stake in TAP Air Portugal (TAP) for €1.025 billion, marking a major milestone in the airline’s privatisation. The agreement was signed at Lisbon’s Humberto Delgado Airport. Completion of the transaction remains subject to regulatory approval, […] The post Lufthansa seals €1.025bn deal for TAP stake appeared first on AviTrader Aviation News .",
           "published": "2026-11-04T06:14:02Z"
+        },
+        {
+          "id": "d592cdb20cc7d10b",
+          "feed": "Air Journal",
+          "title": "Lufthansa signe pour 44,9% de TAP Air Portugal à 1,025 milliard d’euros",
+          "url": "https://www.air-journal.fr/2026-11-04-lufthansa-signe-pour-449-de-tap-air-portugal-a-1025-milliard-deuros-5278667.html",
+          "domain": "air-journal.fr",
+          "summary": "Lufthansa Group et le gouvernement portugais ont signé, le 3 novembre 2026 à Lisbonne, un accord prévoyant l’acquisition de 44,9% de TAP Air Portugal pour 1,025 milliard d’euros. Encore soumise aux autorisations réglementaires, notamment celle de la Commission européenne, cette opération doit renforcer sensiblement le groupe allemand entre l’Europe et l’Amérique latine. Lisbonne est appelée […]",
+          "published": "2026-11-04T07:00:59Z"
         }
       ],
       "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-      "written_count": 4
+      "written_count": 5
     },
     "c2917a949b1": {
       "id": "c2917a949b1",
@@ -4362,6 +4373,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.21692
+    "2026-11": 1.238946
   }
 }
