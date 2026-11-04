@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-04T00:01:02Z",
+  "run": "2026-11-04T00:10:33Z",
   "stats": {
-    "fetched": 692,
-    "new": 1,
+    "fetched": 592,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 33
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "RemoteDisconnected: Remote end closed connection without response"
     },
     "Boeing – Communiqués": {
       "ok": true,
