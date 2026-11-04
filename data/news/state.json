@@ -1390,7 +1390,10 @@
     "https://www.airliners.de/bahnbetreiber-flughafen-graz-kaernten-anbinden/91289": "2026-11-04T08:20:40Z",
     "https://www.airliners.de/swiss-kurzstrecke-langfristig-a320-familie-fliegen/91270": "2026-11-04T08:20:40Z",
     "https://www.airliners.de/british-airways-mexikanische-viva-vereinbaren-codeshare/91303": "2026-11-04T08:20:40Z",
-    "https://www.airliners.de/china-eastern-stockt-winterflugplan-auf-investiert-premiumprodukt/91300": "2026-11-04T08:20:40Z"
+    "https://www.airliners.de/china-eastern-stockt-winterflugplan-auf-investiert-premiumprodukt/91300": "2026-11-04T08:20:40Z",
+    "https://simpleflying.com/why-years-boeing-finally-orders-787-10-always-wanted/": "2026-11-04T08:30:50Z",
+    "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets": "2026-11-04T08:30:50Z",
+    "https://www.aero.de/news-54089/Ryanair-entdeckt-Flughafen-Kassel-Calden-fuer-sich.html": "2026-11-04T08:30:50Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4431,10 +4434,31 @@
       ],
       "story_id": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170",
       "written_count": 1
+    },
+    "c2569f72076": {
+      "id": "c2569f72076",
+      "label": "Avolon commande 140 Boeing 737-10",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-04T08:31:07Z",
+      "updated": "2026-11-04T08:31:07Z",
+      "items": [
+        {
+          "id": "b1354994aece0cb6",
+          "feed": "Boeing – Communiqués",
+          "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
+          "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
+          "domain": "boeing.mediaroom.com",
+          "summary": "",
+          "published": "2026-11-04T08:30:00Z"
+        }
+      ],
+      "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.275574
+    "2026-11": 1.286924
   }
 }

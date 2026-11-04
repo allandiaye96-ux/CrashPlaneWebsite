@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
+    "created": "2026-11-04T08:31:13Z",
+    "updated": "2026-11-04T08:31:13Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Avolon finalise sa commande de 140 Boeing 737-10, annonce Boeing",
+    "chapo": "Selon un communiqué publié par Boeing le 4 novembre 2026, Avolon a finalisé une commande portant sur 140 avions 737-10.",
+    "paragraphes": [
+      "Le constructeur indique, dans sa communication officielle, que l'accord conclu avec Avolon est désormais finalisé. Il porte sur 140 appareils de type 737-10."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Boeing – Communiqués",
+        "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
+        "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
+        "date": "2026-11-04T08:30:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170",
     "created": "2026-11-04T08:21:03Z",
     "updated": "2026-11-04T08:21:03Z",

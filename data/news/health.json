@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T08:20:40Z",
+  "run": "2026-11-04T08:30:50Z",
   "stats": {
     "fetched": 692,
-    "new": 6,
-    "written": 2,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.2756,
+  "spend_month_usd": 1.2869,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -674,6 +674,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170"
+    },
+    {
+      "dossier": "Avolon commande 140 Boeing 737-10",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
       "dossier": "NASA X-59 premier vol pilote Lippert",
