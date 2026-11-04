@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507",
+    "created": "2026-11-04T17:01:29Z",
+    "updated": "2026-11-04T17:01:29Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Atlas Air passe une commande à Airbus, une première après trois décennies de gros-porteurs Boeing",
+    "chapo": "Selon Simple Flying, le transporteur cargo Atlas Air a rompu avec trois décennies de fidélité à Boeing pour ses gros-porteurs en passant une commande auprès d'Airbus.",
+    "paragraphes": [
+      "Le site spécialisé publie une analyse consacrée aux raisons de ce choix. Il y présente cette commande comme la première fois que la compagnie sort d'une logique exclusivement Boeing sur ce segment."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Why This Cargo Airline Broke 3 Decades Of Boeing Widebody Loyalty To Give Airbus 1 Order",
+        "url": "https://simpleflying.com/why-cargo-airline-broke-3-decades-boeing-widebody-loyalty-give-airbus-1-order/",
+        "date": "2026-11-04T17:00:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
     "created": "2026-11-04T16:51:12Z",
     "updated": "2026-11-04T16:51:12Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T16:50:48Z",
+  "run": "2026-11-04T17:01:07Z",
   "stats": {
-    "fetched": 693,
-    "new": 1,
+    "fetched": 678,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6548,
+  "spend_month_usd": 1.6664,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": true,
-      "items": 15
+      "ok": false,
+      "error": "IncompleteRead: IncompleteRead(57344 bytes read)"
     },
     "AviTrader": {
       "ok": true,
@@ -722,6 +722,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b"
+    },
+    {
+      "dossier": "Atlas Air commande Airbus gros-porteurs",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507"
     },
     {
       "dossier": "Allemagne GCAP FCAS Pistorius",

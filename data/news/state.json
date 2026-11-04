@@ -1460,7 +1460,9 @@
     "https://www.airliners.de/air-baltic-beantragt-rueckgabe-geleasten-a220-300/91307": "2026-11-04T16:20:36Z",
     "https://www.airliners.de/air-baltic-vilnius-uesseldorf-strecke/91325": "2026-11-04T16:20:36Z",
     "https://simpleflying.com/how-emirates-is-spending-2-billion-defend-worlds-newest-premium-airline/": "2026-11-04T16:40:35Z",
-    "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/": "2026-11-04T16:50:48Z"
+    "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/": "2026-11-04T16:50:48Z",
+    "https://simpleflying.com/breeze-airways-cancels-11-nonstop-routes/": "2026-11-04T17:01:07Z",
+    "https://simpleflying.com/why-cargo-airline-broke-3-decades-boeing-widebody-loyalty-give-airbus-1-order/": "2026-11-04T17:01:07Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4861,10 +4863,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ce14d531507": {
+      "id": "ce14d531507",
+      "label": "Atlas Air commande Airbus gros-porteurs",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T17:01:23Z",
+      "updated": "2026-11-04T17:01:23Z",
+      "items": [
+        {
+          "id": "076d7d98170e7b98",
+          "feed": "Simple Flying",
+          "title": "Why This Cargo Airline Broke 3 Decades Of Boeing Widebody Loyalty To Give Airbus 1 Order",
+          "url": "https://simpleflying.com/why-cargo-airline-broke-3-decades-boeing-widebody-loyalty-give-airbus-1-order/",
+          "domain": "simpleflying.com",
+          "summary": "Analyzing why Atlas Air broke its all Boeing streak for the first time.",
+          "published": "2026-11-04T17:00:20Z"
+        }
+      ],
+      "story_id": "2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.654816
+    "2026-11": 1.666373
   }
 }
