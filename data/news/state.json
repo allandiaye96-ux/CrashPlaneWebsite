@@ -1373,7 +1373,11 @@
     "https://www.airliners.de/condor-tarifkommission-wirft-vc-vorstand-eingriffe-abstimmung-zukunftspaket/91266": "2026-11-04T06:20:35Z",
     "https://avitrader.com/2026/11/04/avair-secures-us170m-to-fund-expansion/": "2026-11-04T06:30:52Z",
     "https://avitrader.com/2026/11/04/airbus-aliaca-vtol-drone-cleared-for-french-navy/": "2026-11-04T06:40:33Z",
-    "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html": "2026-11-04T06:40:33Z"
+    "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html": "2026-11-04T06:40:33Z",
+    "https://australianaviation.com.au/2026/11/video-podcast-hack-me-amadeus/": "2026-11-04T06:50:37Z",
+    "https://australianaviation.com.au/2026/11/rex-and-flypelican-return-to-sydneys-terminal-2/": "2026-11-04T06:50:37Z",
+    "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/": "2026-11-04T06:50:37Z",
+    "https://australianaviation.com.au/2026/11/cairns-airport-to-get-first-public-bus-route-this-month/": "2026-11-04T06:50:37Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4333,10 +4337,31 @@
       ],
       "story_id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
       "written_count": 1
+    },
+    "c17d3424441": {
+      "id": "c17d3424441",
+      "label": "Virgin Galactic Apeiron dévoilé",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-04T06:50:52Z",
+      "updated": "2026-11-04T06:50:52Z",
+      "items": [
+        {
+          "id": "f9a51d0ff52cd5d3",
+          "feed": "Australian Aviation",
+          "title": "Virgin Galactic unveils lead spacecraft ahead of 2027 flights",
+          "url": "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/",
+          "domain": "australianaviation.com.au",
+          "summary": "Apeiron was named and revealed in its completed livery for the first time at Virgin Galactic’s Spaceship Factory in Mesa, Arizona, before flying to Spaceport America in New Mexico for future flight test preparations.",
+          "published": "2026-11-03T23:48:53Z"
+        }
+      ],
+      "story_id": "2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.208164
+    "2026-11": 1.21692
   }
 }

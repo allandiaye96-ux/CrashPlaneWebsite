@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T06:40:33Z",
+  "run": "2026-11-04T06:50:37Z",
   "stats": {
     "fetched": 692,
-    "new": 2,
-    "written": 2,
+    "new": 4,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.2082,
+  "spend_month_usd": 1.2169,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -656,6 +656,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
+    },
+    {
+      "dossier": "Virgin Galactic Apeiron dévoilé",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441"
     },
     {
       "dossier": "NASA X-59 premier vol pilote Lippert",

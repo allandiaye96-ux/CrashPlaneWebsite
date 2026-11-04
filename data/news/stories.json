@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441",
+    "created": "2026-11-04T06:50:56Z",
+    "updated": "2026-11-04T06:50:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Virgin Galactic dévoile Apeiron, son vaisseau de tête, avant les vols prévus en 2027",
+    "chapo": "Selon Australian Aviation, Virgin Galactic a présenté son premier vaisseau spatial de nouvelle génération, baptisé Apeiron, dans sa livrée définitive. La présentation s'est tenue à Mesa, en Arizona.",
+    "paragraphes": [
+      "L'appareil a reçu son nom et été montré pour la première fois dans sa livrée terminée au Spaceship Factory de Virgin Galactic, à Mesa, dans l'Arizona, d'après le média.",
+      "Apeiron a ensuite rejoint Spaceport America, au Nouveau-Mexique, où doivent se dérouler les préparatifs des futurs essais en vol. Le titre de l'article mentionne des vols prévus en 2027."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Virgin Galactic unveils lead spacecraft ahead of 2027 flights",
+        "url": "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/",
+        "date": "2026-11-03T23:48:53Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
     "created": "2026-11-04T06:40:55Z",
     "updated": "2026-11-04T06:40:55Z",
