@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 23:01:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 23:10:56 +0000</lastBuildDate>
   <item>
     <title>Qatar Airways lance deux nouvelles destinations sud-américaines au départ de Doha en Boeing 777-200LR</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c/</link>
@@ -240,12 +240,12 @@
     <description>Selon aero.de, Lufthansa a vu son bénéfice net du troisième trimestre progresser de 30 % malgré la flambée des prix du kérosène. D&#x27;après airliners.de, le groupe abaisse toutefois une nouvelle fois sa prévision de résultat pour l&#x27;année.</description>
   </item>
   <item>
-    <title>Learjet 60 en Floride : le NTSB relève des indices d&#x27;une désintégration en vol avant l&#x27;impact</title>
+    <title>Learjet 60 en Floride : le NTSB relève des indices de désintégration en vol avant l&#x27;impact</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140/</guid>
     <pubDate>Tue, 03 Nov 2026 05:40:58 +0000</pubDate>
-    <category>Accident</category>
-    <description>Selon AeroTime, les enquêteurs du NTSB ont trouvé des éléments indiquant que le Learjet 60 accidenté en Floride avait perdu certains composants avant de s&#x27;écraser. Les neuf personnes à bord sont mortes, d&#x27;après airliners.de.</description>
+    <category>Enquête</category>
+    <description>Selon AeroTime, les enquêteurs du NTSB ont trouvé des éléments indiquant que le Learjet 60 accidenté en Floride a perdu certains composants avant de s&#x27;écraser. Les causes de l&#x27;accident ne sont pas établies.</description>
   </item>
 </channel>
 </rss>

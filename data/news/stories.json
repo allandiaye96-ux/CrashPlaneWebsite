@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
+    "created": "2026-11-03T05:40:58Z",
+    "updated": "2026-11-04T23:10:56Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Enquête",
+    "importance": 3,
+    "titre": "Learjet 60 en Floride : le NTSB relève des indices de désintégration en vol avant l'impact",
+    "chapo": "Selon AeroTime, les enquêteurs du NTSB ont trouvé des éléments indiquant que le Learjet 60 accidenté en Floride a perdu certains composants avant de s'écraser. Les causes de l'accident ne sont pas établies.",
+    "paragraphes": [
+      "Le jet privé avait décollé du Texas pour rejoindre les Bahamas, d'après aero.de. Il s'est écrasé en Floride, à proximité de West Palm Beach, au-dessus d'une route fréquentée. Airliners.de indique que l'accident s'est produit dans un quartier résidentiel et que les neuf personnes à bord sont mortes.",
+      "D'après airliners.de, les pilotes avaient signalé de la glace peu avant l'accident. L'enquête du NTSB se poursuit, et aucune cause n'a été communiquée.",
+      "Simple Flying rapporte par ailleurs que des enregistrements audio de communications avec le contrôle aérien ont ressurgi. Ils montreraient qu'un Learjet avait eu du mal à tenir son altitude dans de fortes turbulences six mois avant l'accident mortel dans le sud de la Floride."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "NTSB finds evidence of in-flight breakup before Florida Learjet crash",
+        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup",
+        "date": "2026-11-02T19:18:12Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Learjet brach bereits in der Luft auseinander",
+        "url": "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html",
+        "date": "2026-11-03T05:31:52Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "NTSB: Learjet 60 könnte vor Absturz in Florida auseinandergebrochen sein",
+        "url": "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282",
+        "date": "2026-11-03T14:19:25Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Ill-Fated Learjet Had Altitude Struggles Amid Severe Turbulence 6 Months Ago, ATC Audio Shows",
+        "url": "https://simpleflying.com/ill-fated-learjet-altitude-struggles-severe-turbulence-6-months-ago/",
+        "date": "2026-11-04T23:01:12Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
     "created": "2026-11-04T11:20:53Z",
     "updated": "2026-11-04T22:40:51Z",
@@ -983,52 +1037,6 @@
         "title": "Delta CEO Calls Heathrow Move ‘Short-Sighted’",
         "url": "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/",
         "date": "2026-11-03T15:51:21Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
-    "created": "2026-11-03T05:40:58Z",
-    "updated": "2026-11-03T15:21:06Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Accident",
-    "importance": 3,
-    "titre": "Learjet 60 en Floride : le NTSB relève des indices d'une désintégration en vol avant l'impact",
-    "chapo": "Selon AeroTime, les enquêteurs du NTSB ont trouvé des éléments indiquant que le Learjet 60 accidenté en Floride avait perdu certains composants avant de s'écraser. Les neuf personnes à bord sont mortes, d'après airliners.de.",
-    "paragraphes": [
-      "L'appareil, un jet privé, avait décollé du Texas pour rejoindre les Bahamas, rapporte aero.de. Il s'est abîmé en Floride, au-dessus d'une route très fréquentée, dans une zone résidentielle. Le média allemand cite un témoignage comparant la chute à celle d'une fusée qui retombe.",
-      "D'après airliners.de, l'autorité américaine dispose d'indices selon lesquels l'avion s'était déjà disloqué avant de toucher le sol. Les pilotes avaient signalé de la glace peu avant l'accident. Les causes de l'accident ne sont pas établies et l'enquête du NTSB se poursuit."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "NTSB finds evidence of in-flight breakup before Florida Learjet crash",
-        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup",
-        "date": "2026-11-02T19:18:12Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Learjet brach bereits in der Luft auseinander",
-        "url": "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html",
-        "date": "2026-11-03T05:31:52Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "NTSB: Learjet 60 könnte vor Absturz in Florida auseinandergebrochen sein",
-        "url": "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282",
-        "date": "2026-11-03T14:19:25Z",
         "official": false
       }
     ]

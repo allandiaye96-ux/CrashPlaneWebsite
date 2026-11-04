@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T23:01:00Z",
+  "run": "2026-11-04T23:10:33Z",
   "stats": {
     "fetched": 697,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.7021,
+  "spend_month_usd": 1.7177,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -148,6 +148,12 @@
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
     },
     {
+      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
+    },
+    {
       "dossier": "Air India nouveaux gros-porteurs nouveau CEO",
       "statut": "corrobore",
       "editeurs": 4,
@@ -206,12 +212,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92"
-    },
-    {
-      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
     },
     {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
