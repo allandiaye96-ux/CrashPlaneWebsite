@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T10:40:35Z",
+  "run": "2026-11-04T10:50:37Z",
   "stats": {
     "fetched": 692,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.3993,
+  "spend_month_usd": 1.4172,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -322,6 +322,12 @@
       "breve": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b"
     },
     {
+      "dossier": "Bangkok Suvarnabhumi extension capacité",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9"
+    },
+    {
       "dossier": "Lufthansa résultats T3 kérosène",
       "statut": "corrobore",
       "editeurs": 2,
@@ -620,12 +626,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810"
-    },
-    {
-      "dossier": "Bangkok Suvarnabhumi extension capacité",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9"
     },
     {
       "dossier": "Ryanair résultats semestriels S1 2026-2027",

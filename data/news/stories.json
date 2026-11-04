@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
+    "created": "2026-11-03T05:31:04Z",
+    "updated": "2026-11-04T10:50:59Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Bangkok-Suvarnabhumi : l'exploitant veut doubler la capacité annuelle de l'aéroport à l'horizon de sept ans",
+    "chapo": "Selon aero.de, le principal aéroport de Thaïlande devrait voir sa capacité d'accueil annuelle doublée dans les sept prochaines années. Le Journal de l'Aviation précise que ce projet est porté par le gestionnaire AOT.",
+    "paragraphes": [
+      "Suvarnabhumi, plus grand aéroport du pays, doit augmenter fortement le nombre de passagers qu'il peut traiter chaque année. D'après aero.de, l'objectif est de multiplier cette capacité par deux d'ici sept ans.",
+      "Le Journal de l'Aviation indique que l'exploitant, Airports of Thailand (AOT), inscrit cette ambition dans son cinquième plan de développement de la plateforme. Le calendrier évoqué est de six à sept ans."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Bangkok plant Mega-Ausbau seines Flughafens",
+        "url": "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html",
+        "date": "2026-11-03T05:26:27Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Bangkok-Suvarnabhumi : AOT prévoit de doubler la capacité de l’aéroport d’ici 6 à 7 ans",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/bangkok-suvarnabhumi-aot-prevoit-de-doubler-la-capacite-de-laeroport-dici-6-a-7-ans-20261104.html",
+        "date": "2026-11-04T10:42:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393",
     "created": "2026-11-04T10:40:51Z",
     "updated": "2026-11-04T10:40:51Z",
@@ -1369,37 +1408,6 @@
         "title": "Ryanair : le bénéfice net semestriel recule de 15%, impacté par le doublement du prix du carburant non couvert",
         "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html",
         "date": "2026-11-03T06:02:48Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
-    "created": "2026-11-03T05:31:04Z",
-    "updated": "2026-11-03T05:31:04Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Bangkok : l'aéroport de Suvarnabhumi vise un doublement de sa capacité passagers d'ici sept ans",
-    "chapo": "Selon aero.de, Suvarnabhumi, le plus grand aéroport de Thaïlande, doit doubler sa capacité annuelle d'accueil de passagers au cours des sept prochaines années.",
-    "paragraphes": [
-      "D'après aero.de, ce projet d'extension d'envergure concerne la plateforme de Bangkok, présentée comme le premier aéroport du pays. L'objectif affiché est de multiplier par deux le nombre de passagers pouvant être accueillis chaque année, sur un horizon de sept ans."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Bangkok plant Mega-Ausbau seines Flughafens",
-        "url": "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html",
-        "date": "2026-11-03T05:26:27Z",
         "official": false
       }
     ]

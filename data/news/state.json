@@ -1409,7 +1409,9 @@
     "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html": "2026-11-04T10:20:33Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html": "2026-11-04T10:20:33Z",
     "https://www.journal-aviation.com/actualites-mro-support/maintenance-militaire-mco/fokker-services-group-monte-a-bord-de-la-maintenance-des-futurs-embraer-c-390-neerlandais-20261104.html": "2026-11-04T10:20:33Z",
-    "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html": "2026-11-04T10:40:35Z"
+    "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html": "2026-11-04T10:40:35Z",
+    "https://www.aerotime.aero/articles/us-air-force-divests-a29-super-tucanos-edwards": "2026-11-04T10:50:37Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/bangkok-suvarnabhumi-aot-prevoit-de-doubler-la-capacite-de-laeroport-dici-6-a-7-ans-20261104.html": "2026-11-04T10:50:37Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3626,7 +3628,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-11-03T05:31:01Z",
-      "updated": "2026-11-03T05:31:01Z",
+      "updated": "2026-11-04T10:50:51Z",
       "items": [
         {
           "id": "963f032ed94db55f",
@@ -3636,10 +3638,19 @@
           "domain": "aero.de",
           "summary": "BANGKOK - Thailands größter Flughafen Suvarnabhumi in Bangkok soll seine jährliche Passagierkapazität in den kommenden sieben Jahren verdoppeln.",
           "published": "2026-11-03T05:26:27Z"
+        },
+        {
+          "id": "fa44d9d25445dc2d",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Bangkok-Suvarnabhumi : AOT prévoit de doubler la capacité de l’aéroport d’ici 6 à 7 ans",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/bangkok-suvarnabhumi-aot-prevoit-de-doubler-la-capacite-de-laeroport-dici-6-a-7-ans-20261104.html",
+          "domain": "journal-aviation.com",
+          "summary": "Le gestionnaire aéroportuaire Airports of Thailand (AOT) prévoit de doubler la capacité annuelle de l’aéroport de Bangkok-Suvarnabhumi dans le cadre de son cinquième plan de développement, avec un horizon envisagé […] L’article Bangkok-Suvarnabhumi : AOT prévoit de doubler la capacité de l’aéroport d’ici 6 à 7 ans a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-04T10:42:02Z"
         }
       ],
       "story_id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
-      "written_count": 1
+      "written_count": 2
     },
     "cdf76f75cf9": {
       "id": "cdf76f75cf9",
@@ -4538,6 +4549,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.399256
+    "2026-11": 1.417232
   }
 }
