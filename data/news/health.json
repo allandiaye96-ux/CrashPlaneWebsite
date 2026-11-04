@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-04T17:01:07Z",
+  "run": "2026-11-04T17:10:35Z",
   "stats": {
-    "fetched": 678,
-    "new": 2,
-    "written": 1,
+    "fetched": 693,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "IncompleteRead: IncompleteRead(57344 bytes read)"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
