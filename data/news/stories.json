@@ -462,7 +462,7 @@
     "version": 5,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Compagnies",
     "importance": 3,
     "titre": "Lufthansa et le Portugal signent l'accord d'entrée du groupe allemand au capital de TAP",

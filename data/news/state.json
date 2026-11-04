@@ -1430,7 +1430,8 @@
     "https://www.airliners.de/reportage-nadeloehr-newark-alternativlose-drehkreuz-united-lufthansa/90745": "2026-11-04T12:20:35Z",
     "https://www.aerotime.aero/articles/eve-air-mobilitty-agreement-evtols-brazilian-operator": "2026-11-04T12:50:34Z",
     "https://theaviationist.com/2026/11/04/first-hh-60w-joint-base-andrews/": "2026-11-04T12:50:34Z",
-    "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html": "2026-11-04T13:01:06Z"
+    "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html": "2026-11-04T13:01:06Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-signe-laccord-pour-la-prise-de-participation-dans-tap-air-portugal-20261104.html": "2026-11-04T13:20:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4127,7 +4128,7 @@
       "categorie": "Compagnies",
       "importance": 3,
       "created": "2026-11-03T17:41:01Z",
-      "updated": "2026-11-04T07:01:20Z",
+      "updated": "2026-11-04T13:20:53Z",
       "items": [
         {
           "id": "8366b0f13e50f104",
@@ -4173,10 +4174,19 @@
           "domain": "air-journal.fr",
           "summary": "Lufthansa Group et le gouvernement portugais ont signé, le 3 novembre 2026 à Lisbonne, un accord prévoyant l’acquisition de 44,9% de TAP Air Portugal pour 1,025 milliard d’euros. Encore soumise aux autorisations réglementaires, notamment celle de la Commission européenne, cette opération doit renforcer sensiblement le groupe allemand entre l’Europe et l’Amérique latine. Lisbonne est appelée […]",
           "published": "2026-11-04T07:00:59Z"
+        },
+        {
+          "id": "ff99f9b33011ced7",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Lufthansa signe l’accord pour la prise de participation dans TAP Air Portugal",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-signe-laccord-pour-la-prise-de-participation-dans-tap-air-portugal-20261104.html",
+          "domain": "journal-aviation.com",
+          "summary": "La main de Lufthansa se rapproche un petit peu plus du capital de TAP Air Portugal. Le groupe a signé le 3 novembre avec le gouvernement portugais l’accord portant sur […] L’article Lufthansa signe l’accord pour la prise de participation dans TAP Air Portugal a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-04T13:14:19Z"
         }
       ],
       "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-      "written_count": 5
+      "written_count": 6
     },
     "c2917a949b1": {
       "id": "c2917a949b1",
@@ -4691,6 +4701,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.492862
+    "2026-11": 1.516386
   }
 }

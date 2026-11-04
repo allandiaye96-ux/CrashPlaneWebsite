@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T13:10:34Z",
+  "run": "2026-11-04T13:20:36Z",
   "stats": {
-    "fetched": 692,
-    "new": 0,
+    "fetched": 672,
+    "new": 1,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 1.4929,
+  "spend_month_usd": 1.5164,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "ParseError: no element found: line 13, column 46"
     },
     "airliners.de": {
       "ok": true,
@@ -106,6 +106,12 @@
       "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
     },
     {
+      "dossier": "Lufthansa TAP participation contrat",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
@@ -116,12 +122,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
-    },
-    {
-      "dossier": "Lufthansa TAP participation contrat",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
       "dossier": "Avolon commande 140 Boeing 737-10",
