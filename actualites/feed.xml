@@ -6,7 +6,23 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 06:31:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 06:40:55 +0000</lastBuildDate>
+  <item>
+    <title>Fraport maintient ses prévisions 2026 malgré la guerre en Iran et la crise du kérosène</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e/</guid>
+    <pubDate>Wed, 04 Nov 2026 06:40:55 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon aero.de, l&#x27;exploitant de l&#x27;aéroport de Francfort Fraport conserve ses attentes pour 2026, malgré le conflit en Iran et la crise des prix du kérosène.</description>
+  </item>
+  <item>
+    <title>Le drone VTOL Aliaca d&#x27;Airbus Helicopters qualifié par la DGA pour un service dans la Marine nationale</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1/</guid>
+    <pubDate>Wed, 04 Nov 2026 06:40:51 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon AeroTime et AviTrader, la DGA a qualifié la version à décollage et atterrissage verticaux du drone U010 Aliaca d&#x27;Airbus Helicopters. Le système peut ainsi entrer en service au sein de la Marine nationale.</description>
+  </item>
   <item>
     <title>Condor : la commission tarifaire reproche au comité de la VC d&#x27;être intervenu dans le vote sur le « Zukunftspaket »</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-condor-la-commission-tarifaire-reproche-au-comite-de-la-vc-d-b990/</link>
@@ -230,22 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 14:01:54 +0000</pubDate>
     <category>Compagnies</category>
     <description>Le loueur islandais Icelease a signé un accord avec Boeing pour transformer un 767-300 en avion-cargo BCF, assorti d&#x27;options pour deux appareils de plus, selon AviTrader et Air Journal.</description>
-  </item>
-  <item>
-    <title>Leipzig/Halle : dix plaignants contestent l&#x27;extension de l&#x27;aéroport devant la justice administrative de Bautzen</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd/</guid>
-    <pubDate>Mon, 02 Nov 2026 13:21:14 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Selon airliners.de, le tribunal administratif supérieur de Bautzen examine à partir de mardi les recours visant l&#x27;extension de l&#x27;aéroport de fret de Leipzig/Halle. Dix plaignants, dont une commune, cherchent à l&#x27;arrêter.</description>
-  </item>
-  <item>
-    <title>La Grèce commande trois Embraer KC-390 Millennium, avec une option pour trois appareils de plus</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405/</guid>
-    <pubDate>Mon, 02 Nov 2026 13:01:51 +0000</pubDate>
-    <category>Défense</category>
-    <description>Athènes a conclu l&#x27;achat de trois avions de transport militaire KC-390 Millennium auprès d&#x27;Embraer, assorti d&#x27;options sur trois exemplaires supplémentaires, selon AviTrader. Le contrat passe par un accord d&#x27;État à État entre la Grèce et le Portugal.</description>
   </item>
 </channel>
 </rss>

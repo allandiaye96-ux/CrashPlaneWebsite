@@ -1371,7 +1371,9 @@
     "https://avitrader.com/2026/11/04/lufthansa-seals-e1-025bn-deal-for-tap-stake/": "2026-11-04T06:20:35Z",
     "https://www.airliners.de/politik-gesellschaft-emirates-klarheit-merz-luftverkehrsteuer-kerosinkosten-ryanair-druck/91302": "2026-11-04T06:20:35Z",
     "https://www.airliners.de/condor-tarifkommission-wirft-vc-vorstand-eingriffe-abstimmung-zukunftspaket/91266": "2026-11-04T06:20:35Z",
-    "https://avitrader.com/2026/11/04/avair-secures-us170m-to-fund-expansion/": "2026-11-04T06:30:52Z"
+    "https://avitrader.com/2026/11/04/avair-secures-us170m-to-fund-expansion/": "2026-11-04T06:30:52Z",
+    "https://avitrader.com/2026/11/04/airbus-aliaca-vtol-drone-cleared-for-french-navy/": "2026-11-04T06:40:33Z",
+    "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html": "2026-11-04T06:40:33Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -3966,7 +3968,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-03T14:20:54Z",
-      "updated": "2026-11-03T14:20:54Z",
+      "updated": "2026-11-04T06:40:48Z",
       "items": [
         {
           "id": "ebf7e43344dc87a6",
@@ -3976,10 +3978,19 @@
           "domain": "aerotime.aero",
           "summary": "France’s defense procurement agency (DGA) has qualified the vertical takeoff and landing (VTOL) version of Airbus Helicopters’ U010… The post French Navy clears Airbus Aliaca VTOL drone for shipboard service appeared first on AeroTime .",
           "published": "2026-11-03T13:58:54Z"
+        },
+        {
+          "id": "f468628303b69466",
+          "feed": "AviTrader",
+          "title": "Airbus Aliaca VTOL drone cleared for French Navy",
+          "url": "https://avitrader.com/2026/11/04/airbus-aliaca-vtol-drone-cleared-for-french-navy/",
+          "domain": "avitrader.com",
+          "summary": "Airbus Helicopters‘ U010 Aliaca vertical take-off and landing (VTOL) uncrewed aerial system has been qualified by France’s Armament General Directorate (DGA), clearing the system to enter service with the French Navy. The qualification follows an extensive test campaign conducted on land and at sea during May and June 2026 in collaboration with the French Navy. […] The post Airbus Aliaca VTOL drone cleared for French Navy appeared first on AviTrader Aviation News .",
+          "published": "2026-11-04T06:40:04Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1",
+      "written_count": 2
     },
     "ca879b5a095": {
       "id": "ca879b5a095",
@@ -4301,10 +4312,31 @@
       ],
       "story_id": "2026-11-04-condor-la-commission-tarifaire-reproche-au-comite-de-la-vc-d-b990",
       "written_count": 1
+    },
+    "c6bdc343c7e": {
+      "id": "c6bdc343c7e",
+      "label": "Fraport résultats et prévisions 2026",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-04T06:40:48Z",
+      "updated": "2026-11-04T06:40:48Z",
+      "items": [
+        {
+          "id": "5399e1ff5f977ce8",
+          "feed": "aero.de",
+          "title": "Fraport sieht sich trotz Iran-Kriegs auf Kurs",
+          "url": "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Der Frankfurter Flughafenbetreiber Fraport hält trotz des Iran-Kriegs und der Kerosinpreis-Krise an seinen Erwartungen für 2026 fest. An Deutschlands größtem Airport dürfte die Zahl der Fluggäste auf dem Niveau der 63,2 Millionen aus dem Vorjahr verharren, teilte das im MDax gelistete Unternehmen am Mittwoch mit.",
+          "published": "2026-11-04T06:35:08Z"
+        }
+      ],
+      "story_id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.191978
+    "2026-11": 1.208164
   }
 }

@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
+    "created": "2026-11-04T06:40:55Z",
+    "updated": "2026-11-04T06:40:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Fraport maintient ses prévisions 2026 malgré la guerre en Iran et la crise du kérosène",
+    "chapo": "Selon aero.de, l'exploitant de l'aéroport de Francfort Fraport conserve ses attentes pour 2026, malgré le conflit en Iran et la crise des prix du kérosène.",
+    "paragraphes": [
+      "D'après aero.de, la fréquentation de Francfort, présenté comme le plus grand aéroport d'Allemagne, devrait rester au niveau de l'année précédente, soit 63,2 millions de passagers. L'information provient d'une communication du groupe, coté au MDax.",
+      "Fraport ne revoit donc pas ses attentes pour 2026, selon le média, en dépit du contexte évoqué."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Fraport sieht sich trotz Iran-Kriegs auf Kurs",
+        "url": "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html",
+        "date": "2026-11-04T06:35:08Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1",
+    "created": "2026-11-04T06:40:51Z",
+    "updated": "2026-11-04T06:40:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Le drone VTOL Aliaca d'Airbus Helicopters qualifié par la DGA pour un service dans la Marine nationale",
+    "chapo": "Selon AeroTime et AviTrader, la DGA a qualifié la version à décollage et atterrissage verticaux du drone U010 Aliaca d'Airbus Helicopters. Le système peut ainsi entrer en service au sein de la Marine nationale.",
+    "paragraphes": [
+      "D'après AviTrader, cette qualification fait suite à une campagne d'essais approfondie menée à terre et en mer en mai et juin 2026, en collaboration avec la Marine nationale.",
+      "La décision ouvre la voie à une utilisation du drone à bord des navires, indique AeroTime."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "French Navy clears Airbus Aliaca VTOL drone for shipboard service",
+        "url": "https://www.aerotime.aero/articles/french-navy-airbus-aliaca-vtol-drone-qualified",
+        "date": "2026-11-03T13:58:54Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Airbus Aliaca VTOL drone cleared for French Navy",
+        "url": "https://avitrader.com/2026/11/04/airbus-aliaca-vtol-drone-cleared-for-french-navy/",
+        "date": "2026-11-04T06:40:04Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-condor-la-commission-tarifaire-reproche-au-comite-de-la-vc-d-b990",
     "created": "2026-11-04T06:21:05Z",
     "updated": "2026-11-04T06:21:05Z",
