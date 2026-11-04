@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T08:10:31Z",
+  "run": "2026-11-04T08:20:40Z",
   "stats": {
     "fetched": 692,
-    "new": 1,
-    "written": 1,
+    "new": 6,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.2563,
+  "spend_month_usd": 1.2756,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -326,6 +326,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1"
+    },
+    {
+      "dossier": "Fraport résultats et prévisions 2026",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
@@ -652,12 +658,6 @@
       "breve": "2026-11-04-condor-la-commission-tarifaire-reproche-au-comite-de-la-vc-d-b990"
     },
     {
-      "dossier": "Fraport résultats et prévisions 2026",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
-    },
-    {
       "dossier": "Virgin Galactic Apeiron dévoilé",
       "statut": "source_unique",
       "editeurs": 1,
@@ -668,6 +668,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d"
+    },
+    {
+      "dossier": "Swiss flotte A220 retrait",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170"
     },
     {
       "dossier": "NASA X-59 premier vol pilote Lippert",

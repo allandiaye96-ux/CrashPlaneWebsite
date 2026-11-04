@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 08:10:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 08:21:03 +0000</lastBuildDate>
+  <item>
+    <title>Swiss prévoit de retirer ses neuf A220-100 d&#x27;ici fin 2027 et de ne garder que l&#x27;A320 à moyen terme</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170/</guid>
+    <pubDate>Wed, 04 Nov 2026 08:21:03 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, Swiss veut à long terme n&#x27;exploiter que la famille A320 sur son réseau court-courrier. La compagnie sortira ses neuf A220-100 de la flotte d&#x27;ici fin 2027.</description>
+  </item>
   <item>
     <title>Naples-Capodichino fermé en novembre 2026 pour des travaux de piste, une partie des vols vers Salerne</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d/</link>
@@ -24,12 +32,12 @@
     <description>Selon Australian Aviation, Virgin Galactic a présenté son premier vaisseau spatial de nouvelle génération, baptisé Apeiron, dans sa livrée définitive. La présentation s&#x27;est tenue à Mesa, en Arizona.</description>
   </item>
   <item>
-    <title>Fraport maintient ses prévisions 2026 malgré la guerre en Iran et la crise du kérosène</title>
+    <title>Fraport maintient ses prévisions 2026 malgré la guerre en Iran, avec un trafic stable à Francfort</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e/</guid>
     <pubDate>Wed, 04 Nov 2026 06:40:55 +0000</pubDate>
     <category>Aéroports</category>
-    <description>Selon aero.de, l&#x27;exploitant de l&#x27;aéroport de Francfort Fraport conserve ses attentes pour 2026, malgré le conflit en Iran et la crise des prix du kérosène.</description>
+    <description>Selon aero.de, le gestionnaire de l&#x27;aéroport de Francfort Fraport conserve ses attentes pour 2026, en dépit de la guerre en Iran et de la crise du prix du kérosène. Le trafic passagers devrait rester au niveau de l&#x27;an dernier.</description>
   </item>
   <item>
     <title>Le drone VTOL Aliaca d&#x27;Airbus Helicopters qualifié par la DGA pour un service dans la Marine nationale</title>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 14:21:08 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, la fermeture de l&#x27;espace aérien pakistanais et la situation au Moyen-Orient pèsent sur les liaisons d&#x27;Indigo vers l&#x27;ouest. Le directeur général Willie Walsh laisse entendre que la compagnie pourrait revoir le rythme de son développement à l&#x27;international.</description>
-  </item>
-  <item>
-    <title>Kérosène cher : Air China, China Eastern et China Southern en recul sur leur trimestre le plus fort</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-02-kerosene-cher-air-china-china-eastern-et-china-southern-en-r-0c77/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-02-kerosene-cher-air-china-china-eastern-et-china-southern-en-r-0c77/</guid>
-    <pubDate>Mon, 02 Nov 2026 14:21:01 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, les trois principales compagnies chinoises ont nettement moins bien performé que l&#x27;an dernier lors du trimestre traditionnellement le plus fort de l&#x27;année, pénalisées par le prix élevé du kérosène.</description>
   </item>
 </channel>
 </rss>

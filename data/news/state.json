@@ -1384,7 +1384,13 @@
     "https://www.airliners.de/iso-gruppe-digitalisiert-tower-flughafen-penang-malaysia/91294": "2026-11-04T07:20:34Z",
     "https://www.airliners.de/emirates-skycargo-fuehrt-frachtprodukt-ki-hardware/91293": "2026-11-04T07:20:34Z",
     "https://www.airliners.de/icao-ernennt-pegasus-verwaltungsratschef-nane-global-ambassador/91287": "2026-11-04T07:20:34Z",
-    "https://www.air-journal.fr/2026-11-04-naples-ferme-son-aeroport-pendant-un-mois-salerne-prend-le-relais-5278668.html": "2026-11-04T08:10:31Z"
+    "https://www.air-journal.fr/2026-11-04-naples-ferme-son-aeroport-pendant-un-mois-salerne-prend-le-relais-5278668.html": "2026-11-04T08:10:31Z",
+    "https://www.airliners.de/auslandsgeschaeft-gleicht-fraport-stagnation-frankfurt/91306": "2026-11-04T08:20:40Z",
+    "https://www.airliners.de/ryanair-kassel-streckennetz/91305": "2026-11-04T08:20:40Z",
+    "https://www.airliners.de/bahnbetreiber-flughafen-graz-kaernten-anbinden/91289": "2026-11-04T08:20:40Z",
+    "https://www.airliners.de/swiss-kurzstrecke-langfristig-a320-familie-fliegen/91270": "2026-11-04T08:20:40Z",
+    "https://www.airliners.de/british-airways-mexikanische-viva-vereinbaren-codeshare/91303": "2026-11-04T08:20:40Z",
+    "https://www.airliners.de/china-eastern-stockt-winterflugplan-auf-investiert-premiumprodukt/91300": "2026-11-04T08:20:40Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4339,7 +4345,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-11-04T06:40:48Z",
-      "updated": "2026-11-04T06:40:48Z",
+      "updated": "2026-11-04T08:20:54Z",
       "items": [
         {
           "id": "5399e1ff5f977ce8",
@@ -4349,10 +4355,19 @@
           "domain": "aero.de",
           "summary": "FRANKFURT - Der Frankfurter Flughafenbetreiber Fraport hält trotz des Iran-Kriegs und der Kerosinpreis-Krise an seinen Erwartungen für 2026 fest. An Deutschlands größtem Airport dürfte die Zahl der Fluggäste auf dem Niveau der 63,2 Millionen aus dem Vorjahr verharren, teilte das im MDax gelistete Unternehmen am Mittwoch mit.",
           "published": "2026-11-04T06:35:08Z"
+        },
+        {
+          "id": "92047a870b8a8846",
+          "feed": "airliners.de",
+          "title": "Auslandsgeschäft gleicht bei Fraport Stagnation in Frankfurt aus",
+          "url": "https://www.airliners.de/auslandsgeschaeft-gleicht-fraport-stagnation-frankfurt/91306",
+          "domain": "airliners.de",
+          "summary": "Das Auslandsgeschäft trägt Fraport durch das Jahr, während die Passagierzahl in Frankfurt stagniert. Beim Überschuss rechnet der Konzern dennoch mit einem deutlichen Einschnitt.",
+          "published": "2026-11-04T08:10:18Z"
         }
       ],
       "story_id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
-      "written_count": 1
+      "written_count": 2
     },
     "c17d3424441": {
       "id": "c17d3424441",
@@ -4395,10 +4410,31 @@
       ],
       "story_id": "2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d",
       "written_count": 1
+    },
+    "ce07b1a7170": {
+      "id": "ce07b1a7170",
+      "label": "Swiss flotte A220 retrait",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T08:20:54Z",
+      "updated": "2026-11-04T08:20:54Z",
+      "items": [
+        {
+          "id": "15af55e4376f27de",
+          "feed": "airliners.de",
+          "title": "Swiss will auf Kurzstrecke langfristig nur noch A320-Familie fliegen",
+          "url": "https://www.airliners.de/swiss-kurzstrecke-langfristig-a320-familie-fliegen/91270",
+          "domain": "airliners.de",
+          "summary": "Swiss nimmt alle neun A220-100 bis Jahresende 2027 aus dem Betrieb. Die 21 A220-300 sollen auf Sicht folgen. Offen ist, wohin die Flugzeuge dann gehen könnten.",
+          "published": "2026-11-04T07:43:36Z"
+        }
+      ],
+      "story_id": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.256322
+    "2026-11": 1.275574
   }
 }

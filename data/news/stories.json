@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170",
+    "created": "2026-11-04T08:21:03Z",
+    "updated": "2026-11-04T08:21:03Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Swiss prévoit de retirer ses neuf A220-100 d'ici fin 2027 et de ne garder que l'A320 à moyen terme",
+    "chapo": "Selon airliners.de, Swiss veut à long terme n'exploiter que la famille A320 sur son réseau court-courrier. La compagnie sortira ses neuf A220-100 de la flotte d'ici fin 2027.",
+    "paragraphes": [
+      "D'après airliners.de, les 21 A220-300 de la compagnie doivent suivre à plus longue échéance, sans calendrier précisé.",
+      "La destination des appareils retirés du service reste ouverte, indique le média allemand."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Swiss will auf Kurzstrecke langfristig nur noch A320-Familie fliegen",
+        "url": "https://www.airliners.de/swiss-kurzstrecke-langfristig-a320-familie-fliegen/91270",
+        "date": "2026-11-04T07:43:36Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
+    "created": "2026-11-04T06:40:55Z",
+    "updated": "2026-11-04T08:21:00Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Fraport maintient ses prévisions 2026 malgré la guerre en Iran, avec un trafic stable à Francfort",
+    "chapo": "Selon aero.de, le gestionnaire de l'aéroport de Francfort Fraport conserve ses attentes pour 2026, en dépit de la guerre en Iran et de la crise du prix du kérosène. Le trafic passagers devrait rester au niveau de l'an dernier.",
+    "paragraphes": [
+      "Fraport, coté au MDax, table toujours sur un nombre de passagers stable à Francfort, premier aéroport d'Allemagne. Le chiffre attendu reste proche des 63,2 millions de voyageurs enregistrés l'année précédente.",
+      "D'après airliners.de, l'activité internationale du groupe compense la stagnation du trafic à Francfort et porte l'année. Le groupe anticipe néanmoins un net recul de son résultat net."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Fraport sieht sich trotz Iran-Kriegs auf Kurs",
+        "url": "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html",
+        "date": "2026-11-04T06:35:08Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Auslandsgeschäft gleicht bei Fraport Stagnation in Frankfurt aus",
+        "url": "https://www.airliners.de/auslandsgeschaeft-gleicht-fraport-stagnation-frankfurt/91306",
+        "date": "2026-11-04T08:10:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d",
     "created": "2026-11-04T08:10:54Z",
     "updated": "2026-11-04T08:10:54Z",
@@ -120,38 +191,6 @@
         "title": "Virgin Galactic unveils lead spacecraft ahead of 2027 flights",
         "url": "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/",
         "date": "2026-11-03T23:48:53Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
-    "created": "2026-11-04T06:40:55Z",
-    "updated": "2026-11-04T06:40:55Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Fraport maintient ses prévisions 2026 malgré la guerre en Iran et la crise du kérosène",
-    "chapo": "Selon aero.de, l'exploitant de l'aéroport de Francfort Fraport conserve ses attentes pour 2026, malgré le conflit en Iran et la crise des prix du kérosène.",
-    "paragraphes": [
-      "D'après aero.de, la fréquentation de Francfort, présenté comme le plus grand aéroport d'Allemagne, devrait rester au niveau de l'année précédente, soit 63,2 millions de passagers. L'information provient d'une communication du groupe, coté au MDax.",
-      "Fraport ne revoit donc pas ses attentes pour 2026, selon le média, en dépit du contexte évoqué."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Fraport sieht sich trotz Iran-Kriegs auf Kurs",
-        "url": "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html",
-        "date": "2026-11-04T06:35:08Z",
         "official": false
       }
     ]
