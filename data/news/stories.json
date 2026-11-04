@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
+    "created": "2026-11-04T11:50:56Z",
+    "updated": "2026-11-04T11:50:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "IndiGo en discussion avec Embraer pour une possible commande de 100 jets régionaux",
+    "chapo": "Selon AeroTime, qui s'appuie sur une information de Reuters, la compagnie indienne IndiGo négocierait avec Embraer une commande potentielle de 100 jets régionaux.",
+    "paragraphes": [
+      "AeroTime présente IndiGo comme la plus grande compagnie aérienne d'Inde. D'après le média, qui reprend Reuters, elle serait en pourparlers avec le constructeur brésilien Embraer au sujet de cet achat envisagé.",
+      "À ce stade, il s'agit de discussions portant sur une commande potentielle : aucun contrat n'est présenté comme conclu."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "IndiGo explores large regional jet order with Embraer: Reuters",
+        "url": "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters",
+        "date": "2026-11-04T11:39:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
     "created": "2026-11-04T08:31:13Z",
     "updated": "2026-11-04T11:41:07Z",

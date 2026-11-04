@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T11:40:33Z",
+  "run": "2026-11-04T11:50:36Z",
   "stats": {
     "fetched": 692,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.4424,
+  "spend_month_usd": 1.4506,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -698,6 +698,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
+    },
+    {
+      "dossier": "IndiGo commande jets régionaux Embraer",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
       "dossier": "FAA inspection queue 737NG (tail, AD)",

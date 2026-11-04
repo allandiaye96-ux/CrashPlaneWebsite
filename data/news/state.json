@@ -1416,7 +1416,9 @@
     "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/": "2026-11-04T11:20:34Z",
     "https://theaviationist.com/2026/11/04/ujts-snc-pulls-out/": "2026-11-04T11:30:54Z",
     "https://www.aero.de/news-54091/EU-Kommission-will-Touristenstroeme-besser-verteilen.html": "2026-11-04T11:30:54Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html": "2026-11-04T11:40:33Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html": "2026-11-04T11:40:33Z",
+    "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters": "2026-11-04T11:50:36Z",
+    "https://www.aerotime.aero/articles/finland-hornets-highway-strip-protective-fence-26-ace": "2026-11-04T11:50:36Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4601,10 +4603,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6e1fa7b766": {
+      "id": "c6e1fa7b766",
+      "label": "IndiGo commande jets régionaux Embraer",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-04T11:50:52Z",
+      "updated": "2026-11-04T11:50:52Z",
+      "items": [
+        {
+          "id": "b2eeb92af4c1281b",
+          "feed": "AeroTime",
+          "title": "IndiGo explores large regional jet order with Embraer: Reuters",
+          "url": "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters",
+          "domain": "aerotime.aero",
+          "summary": "India’s largest airline IndiGo is in talks with Embraer over a potential order for 100 regional jets with… The post IndiGo explores large regional jet order with Embraer: Reuters appeared first on AeroTime .",
+          "published": "2026-11-04T11:39:14Z"
+        }
+      ],
+      "story_id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.442404
+    "2026-11": 1.450564
   }
 }
