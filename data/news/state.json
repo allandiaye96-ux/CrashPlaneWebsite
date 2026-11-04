@@ -1431,7 +1431,9 @@
     "https://www.aerotime.aero/articles/eve-air-mobilitty-agreement-evtols-brazilian-operator": "2026-11-04T12:50:34Z",
     "https://theaviationist.com/2026/11/04/first-hh-60w-joint-base-andrews/": "2026-11-04T12:50:34Z",
     "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html": "2026-11-04T13:01:06Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-signe-laccord-pour-la-prise-de-participation-dans-tap-air-portugal-20261104.html": "2026-11-04T13:20:36Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-signe-laccord-pour-la-prise-de-participation-dans-tap-air-portugal-20261104.html": "2026-11-04T13:20:36Z",
+    "https://www.twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs": "2026-11-04T13:30:51Z",
+    "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html": "2026-11-04T13:30:51Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4697,10 +4699,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c532f85ef92": {
+      "id": "c532f85ef92",
+      "label": "Air Serbia vol Moscou retour à Belgrade",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-04T13:31:05Z",
+      "updated": "2026-11-04T13:31:05Z",
+      "items": [
+        {
+          "id": "b822ab8bca709bad",
+          "feed": "aero.de",
+          "title": "Flughafen beordert Flug von Air Serbia zurück",
+          "url": "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html",
+          "domain": "aero.de",
+          "summary": "BELGRAD - Der jüngste planmäßige Abendflug der serbischen Fluggesellschaft Air Serbia nach Moskau musste eine Stunde vor Erreichens seines Ziels nach Belgrad umkehren.",
+          "published": "2026-11-04T13:27:29Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.516386
+    "2026-11": 1.517236
   }
 }

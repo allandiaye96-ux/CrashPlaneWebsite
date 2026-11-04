@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T13:20:36Z",
+  "run": "2026-11-04T13:30:51Z",
   "stats": {
-    "fetched": 672,
-    "new": 1,
+    "fetched": 679,
+    "new": 2,
     "written": 0,
-    "held": 1,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.5164,
+  "spend_month_usd": 1.5172,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -50,12 +50,12 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 14
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Accidents": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Air Current": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": false,
-      "error": "ParseError: no element found: line 13, column 46"
+      "ok": true,
+      "items": 20
     },
     "airliners.de": {
       "ok": true,
@@ -809,6 +809,12 @@
     },
     {
       "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Air Serbia vol Moscou retour à Belgrade",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
