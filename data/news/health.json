@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T17:30:51Z",
+  "run": "2026-11-04T17:40:34Z",
   "stats": {
-    "fetched": 693,
+    "fetched": 694,
     "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6774,
+  "spend_month_usd": 1.6782,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 34
+      "items": 35
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -833,6 +833,12 @@
     },
     {
       "dossier": "Attaque Houthis aéroport Riad",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

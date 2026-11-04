@@ -1466,7 +1466,8 @@
     "https://www.airliners.de/video/airlinersde-spieleabend-3-flughafen-kaffee-problem-e-gepaeckanlage-91308": "2026-11-04T17:20:38Z",
     "https://www.airliners.de/gdf-lehnt-staatliche-basisfinanzierung-flugsicherung/91329": "2026-11-04T17:20:38Z",
     "https://www.airliners.de/umgangene-sicherheitskontrolle-air-serbia-flug-moskau-kehrt-belgrad-ueck/91333": "2026-11-04T17:20:38Z",
-    "https://theaviationist.com/2026/11/04/riat-relocates-boscombe-down/": "2026-11-04T17:30:51Z"
+    "https://theaviationist.com/2026/11/04/riat-relocates-boscombe-down/": "2026-11-04T17:30:51Z",
+    "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition": "2026-11-04T17:40:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4897,10 +4898,31 @@
       ],
       "story_id": "2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507",
       "written_count": 1
+    },
+    "cbe879bf2ac": {
+      "id": "cbe879bf2ac",
+      "label": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-04T17:40:53Z",
+      "updated": "2026-11-04T17:40:53Z",
+      "items": [
+        {
+          "id": "2a4e853bee892c52",
+          "feed": "The War Zone",
+          "title": "The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition",
+          "url": "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition",
+          "domain": "twz.com",
+          "summary": "Sierra Nevada Corp decided not to bid to replace the Navy's T-45s with its Freedom Jet, one of two known contenders left in the running. The post The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition appeared first on TWZ .",
+          "published": "2026-11-04T17:36:13Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.677406
+    "2026-11": 1.678219
   }
 }
