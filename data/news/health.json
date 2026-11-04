@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T22:30:48Z",
+  "run": "2026-11-04T22:40:33Z",
   "stats": {
     "fetched": 696,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6915,
+  "spend_month_usd": 1.7013,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -226,6 +226,12 @@
       "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
     },
     {
+      "dossier": "AerFin rachat 44 737NG Qantas",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
+    },
+    {
       "dossier": "IndiGo commande jets régionaux Embraer",
       "statut": "corrobore",
       "editeurs": 3,
@@ -374,12 +380,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
-    },
-    {
-      "dossier": "AerFin rachat 44 737NG Qantas",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
     },
     {
       "dossier": "Alaska Airlines Anchorage Tokyo 737 MAX",

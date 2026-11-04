@@ -1478,7 +1478,8 @@
     "https://www.aerotime.aero/articles/gulfstream-general-dynamics-q3-2026-results": "2026-11-04T21:20:37Z",
     "https://www.aerotime.aero/articles/maxwell-m1-hybrid-amphibious-cargo-aircraft": "2026-11-04T21:20:37Z",
     "https://theaircurrent.com/defense/us-air-force-operations-rebuilt-world-war-ii-era-pacific-airfields/": "2026-11-04T21:30:52Z",
-    "https://simpleflying.com/how-much-premium-economy-costs-london-new-york-flights-2026/": "2026-11-04T22:00:59Z"
+    "https://simpleflying.com/how-much-premium-economy-costs-london-new-york-flights-2026/": "2026-11-04T22:00:59Z",
+    "https://airlinegeeks.com/2026/11/04/qantas-reaches-deal-to-sell-44-boeing-737s/": "2026-11-04T22:40:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4463,7 +4464,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-04T11:20:49Z",
-      "updated": "2026-11-04T15:50:46Z",
+      "updated": "2026-11-04T22:40:47Z",
       "items": [
         {
           "id": "d135e258a03db088",
@@ -4482,10 +4483,19 @@
           "domain": "aerotime.aero",
           "summary": "Qantas has sold 44 Boeing 737 Next Generation aircraft to aftermarket specialist AerFin as part of plans to… The post Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans appeared first on AeroTime .",
           "published": "2026-11-04T15:44:03Z"
+        },
+        {
+          "id": "990d180400cf93ad",
+          "feed": "AirlineGeeks",
+          "title": "Qantas Reaches Deal to Sell 44 Boeing 737s",
+          "url": "https://airlinegeeks.com/2026/11/04/qantas-reaches-deal-to-sell-44-boeing-737s/",
+          "domain": "airlinegeeks.com",
+          "summary": "The airline will hand over the jets over seven years as Airbus A321XLRs join its fleet.",
+          "published": "2026-11-04T22:38:42Z"
         }
       ],
       "story_id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-      "written_count": 2
+      "written_count": 3
     },
     "cf6636a56bd": {
       "id": "cf6636a56bd",
@@ -4820,6 +4830,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.691499
+    "2026-11": 1.701314
   }
 }
