@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 08:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 08:10:54 +0000</lastBuildDate>
+  <item>
+    <title>Naples-Capodichino fermé en novembre 2026 pour des travaux de piste, une partie des vols vers Salerne</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d/</guid>
+    <pubDate>Wed, 04 Nov 2026 08:10:54 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Air Journal, le trafic aérien est suspendu à Naples-Capodichino du 1er au 30 novembre 2026, le temps d&#x27;un chantier de rénovation de la piste et des voies de circulation. Une partie des vols est reportée sur l&#x27;aéroport de Salerne.</description>
+  </item>
   <item>
     <title>Virgin Galactic dévoile Apeiron, son vaisseau de tête, avant les vols prévus en 2027</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 02 Nov 2026 14:21:01 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, les trois principales compagnies chinoises ont nettement moins bien performé que l&#x27;an dernier lors du trimestre traditionnellement le plus fort de l&#x27;année, pénalisées par le prix élevé du kérosène.</description>
-  </item>
-  <item>
-    <title>La FAA attribue 5,3 millions de dollars à JetZero pour étudier l&#x27;écoulement d&#x27;air de ses moteurs en position haute</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1/</guid>
-    <pubDate>Mon, 02 Nov 2026 14:10:50 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon Leeham News, qui reprend un article d&#x27;AIN, la FAA a accordé 5,3 millions de dollars à JetZero pour étudier en vol l&#x27;écoulement de l&#x27;air à travers ses moteurs montés sur le dessus de l&#x27;appareil.</description>
   </item>
 </channel>
 </rss>

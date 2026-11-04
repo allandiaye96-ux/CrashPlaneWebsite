@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d",
+    "created": "2026-11-04T08:10:54Z",
+    "updated": "2026-11-04T08:10:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Naples-Capodichino fermé en novembre 2026 pour des travaux de piste, une partie des vols vers Salerne",
+    "chapo": "Selon Air Journal, le trafic aérien est suspendu à Naples-Capodichino du 1er au 30 novembre 2026, le temps d'un chantier de rénovation de la piste et des voies de circulation. Une partie des vols est reportée sur l'aéroport de Salerne.",
+    "paragraphes": [
+      "Le projet représente un investissement de 30 millions d'euros, d'après le média. Environ 500 personnes y travaillent jour et nuit pour remettre à niveau la piste ainsi que les voies de circulation.",
+      "Pour absorber une partie du trafic pendant la fermeture, des vols sont transférés à Salerne, où quinze destinations nationales sont concernées, rapporte Air Journal."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Naples ferme son aéroport pendant un mois, Salerne prend le relais",
+        "url": "https://www.air-journal.fr/2026-11-04-naples-ferme-son-aeroport-pendant-un-mois-salerne-prend-le-relais-5278668.html",
+        "date": "2026-11-04T08:00:46Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
     "created": "2026-11-03T17:41:08Z",
     "updated": "2026-11-04T07:01:28Z",
