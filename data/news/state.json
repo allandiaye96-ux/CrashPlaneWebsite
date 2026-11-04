@@ -1412,7 +1412,8 @@
     "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html": "2026-11-04T10:40:35Z",
     "https://www.aerotime.aero/articles/us-air-force-divests-a29-super-tucanos-edwards": "2026-11-04T10:50:37Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/bangkok-suvarnabhumi-aot-prevoit-de-doubler-la-capacite-de-laeroport-dici-6-a-7-ans-20261104.html": "2026-11-04T10:50:37Z",
-    "https://www.air-journal.fr/2026-11-04-voyage-en-croatie-iles-villes-historiques-et-parcs-nationaux-sur-fond-de-depenses-en-hausse-5278535.html": "2026-11-04T11:01:07Z"
+    "https://www.air-journal.fr/2026-11-04-voyage-en-croatie-iles-villes-historiques-et-parcs-nationaux-sur-fond-de-depenses-en-hausse-5278535.html": "2026-11-04T11:01:07Z",
+    "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/": "2026-11-04T11:20:34Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4546,10 +4547,31 @@
       ],
       "story_id": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393",
       "written_count": 1
+    },
+    "ccef4cb072b": {
+      "id": "ccef4cb072b",
+      "label": "AerFin rachat 44 737NG Qantas",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T11:20:49Z",
+      "updated": "2026-11-04T11:20:49Z",
+      "items": [
+        {
+          "id": "d135e258a03db088",
+          "feed": "AviTrader",
+          "title": "AerFin seals landmark 737NG aircraft acquisition from Qantas",
+          "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
+          "domain": "avitrader.com",
+          "summary": "AerFin has agreed to acquire 44 aircraft from Qantas in the largest transaction in the company’s history. The acquisition comprises 44 Boeing 737NG aircraft and 88 CFM56-7B engines, marking a major milestone in AerFin’s continued expansion and further cementing its position as a leading global aviation aftermarket specialist. The transaction will strengthen support for airline […] The post AerFin seals landmark 737NG aircraft acquisition from Qantas appeared first on AviTrader Aviation News .",
+          "published": "2026-11-04T11:01:21Z"
+        }
+      ],
+      "story_id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.418028
+    "2026-11": 1.426964
   }
 }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
+    "created": "2026-11-04T11:20:53Z",
+    "updated": "2026-11-04T11:20:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "AerFin acquiert 44 Boeing 737NG et 88 moteurs CFM56-7B auprès de Qantas",
+    "chapo": "Selon AviTrader, AerFin a convenu de racheter 44 appareils à Qantas, dans la plus importante transaction de son histoire. Le lot comprend des Boeing 737NG et des moteurs CFM56-7B.",
+    "paragraphes": [
+      "L'accord porte sur 44 Boeing 737NG ainsi que sur 88 moteurs CFM56-7B, d'après AviTrader. Le média présente l'opération comme une étape majeure dans l'expansion d'AerFin.",
+      "AviTrader indique que cette acquisition conforte la position d'AerFin comme l'un des principaux spécialistes mondiaux du marché de l'après-vente aéronautique. La transaction doit aussi renforcer le soutien apporté aux compagnies aériennes."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "AerFin seals landmark 737NG aircraft acquisition from Qantas",
+        "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
+        "date": "2026-11-04T11:01:21Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
     "created": "2026-11-03T05:31:04Z",
     "updated": "2026-11-04T10:50:59Z",
