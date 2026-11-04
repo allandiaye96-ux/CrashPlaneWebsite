@@ -1462,7 +1462,10 @@
     "https://simpleflying.com/how-emirates-is-spending-2-billion-defend-worlds-newest-premium-airline/": "2026-11-04T16:40:35Z",
     "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/": "2026-11-04T16:50:48Z",
     "https://simpleflying.com/breeze-airways-cancels-11-nonstop-routes/": "2026-11-04T17:01:07Z",
-    "https://simpleflying.com/why-cargo-airline-broke-3-decades-boeing-widebody-loyalty-give-airbus-1-order/": "2026-11-04T17:01:07Z"
+    "https://simpleflying.com/why-cargo-airline-broke-3-decades-boeing-widebody-loyalty-give-airbus-1-order/": "2026-11-04T17:01:07Z",
+    "https://www.airliners.de/video/airlinersde-spieleabend-3-flughafen-kaffee-problem-e-gepaeckanlage-91308": "2026-11-04T17:20:38Z",
+    "https://www.airliners.de/gdf-lehnt-staatliche-basisfinanzierung-flugsicherung/91329": "2026-11-04T17:20:38Z",
+    "https://www.airliners.de/umgangene-sicherheitskontrolle-air-serbia-flug-moskau-kehrt-belgrad-ueck/91333": "2026-11-04T17:20:38Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4756,7 +4759,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-04T13:31:05Z",
-      "updated": "2026-11-04T16:51:03Z",
+      "updated": "2026-11-04T17:20:53Z",
       "items": [
         {
           "id": "b822ab8bca709bad",
@@ -4775,10 +4778,19 @@
           "domain": "simpleflying.com",
           "summary": "A pro-Russian Serbian politician has allegedly caused a jet to return to Belgrade after dodging security",
           "published": "2026-11-04T16:42:01Z"
+        },
+        {
+          "id": "1e49212dd18dbc89",
+          "feed": "airliners.de",
+          "title": "Umgangene Sicherheitskontrolle: Air-Serbia-Flug nach Moskau kehrt nach Belgrad zurück",
+          "url": "https://www.airliners.de/umgangene-sicherheitskontrolle-air-serbia-flug-moskau-kehrt-belgrad-ueck/91333",
+          "domain": "airliners.de",
+          "summary": "Eine Maschine der Air Serbia hat auf dem Weg nach Moskau rund eine Stunde vor dem Ziel umgedreht und ist nach Belgrad zurückgeflogen. Grund war ein Passagier, der die Sicherheitskontrolle umgangen haben soll.",
+          "published": "2026-11-04T16:37:36Z"
         }
       ],
       "story_id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
-      "written_count": 2
+      "written_count": 3
     },
     "c68f612da75": {
       "id": "c68f612da75",
@@ -4888,6 +4900,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.666373
+    "2026-11": 1.676598
   }
 }

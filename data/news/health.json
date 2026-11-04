@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T17:10:35Z",
+  "run": "2026-11-04T17:20:38Z",
   "stats": {
     "fetched": 693,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.6664,
+  "spend_month_usd": 1.6766,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -232,6 +232,12 @@
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
+      "dossier": "Air Serbia vol Moscou retour à Belgrade",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92"
+    },
+    {
       "dossier": "Image du spaceplane chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -380,12 +386,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
-      "dossier": "Air Serbia vol Moscou retour à Belgrade",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92"
     },
     {
       "dossier": "Prêt 3,4 milliards Airbus US",
