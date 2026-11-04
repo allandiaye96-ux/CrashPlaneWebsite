@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T14:10:37Z",
+  "run": "2026-11-04T14:20:35Z",
   "stats": {
     "fetched": 693,
-    "new": 2,
-    "written": 0,
+    "new": 4,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.5189,
+  "spend_month_usd": 1.5584,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -112,6 +112,12 @@
       "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
+      "dossier": "Avolon commande 140 Boeing 737-10",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
@@ -122,12 +128,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
-    },
-    {
-      "dossier": "Avolon commande 140 Boeing 737-10",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
       "dossier": "Ilulissat nouvel aéroport Groenland",
@@ -710,6 +710,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b"
+    },
+    {
+      "dossier": "Latam baisse prévisions Ebitda carburant",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b"
     },
     {
       "dossier": "Allemagne GCAP FCAS Pistorius",

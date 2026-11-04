@@ -1436,7 +1436,11 @@
     "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html": "2026-11-04T13:30:51Z",
     "https://simpleflying.com/video/united-crew-spots-passenger-texting-he-was-going-to-hijack-plane-cockpit-locked-down/": "2026-11-04T13:40:36Z",
     "https://leehamnews.com/2026/11/04/scott-kirby-laments-long-wait-for-airbus-and-boeing-to-build-new-aircraft/": "2026-11-04T14:10:37Z",
-    "https://www.air-journal.fr/2026-11-04-suede-linternational-bat-des-records-les-vols-interieurs-restent-a-la-traine-5278674.html": "2026-11-04T14:10:37Z"
+    "https://www.air-journal.fr/2026-11-04-suede-linternational-bat-des-records-les-vols-interieurs-restent-a-la-traine-5278674.html": "2026-11-04T14:10:37Z",
+    "https://www.airliners.de/avolon-auftrag-ueber-140-boeing-737-max-10-fest/91314": "2026-11-04T14:20:35Z",
+    "https://www.airliners.de/latam-ergebnisprognose-hoher-treibstoffkosten/91311": "2026-11-04T14:20:35Z",
+    "https://www.airliners.de/flughafen-mexiko-stadt-baut-altschulden/91312": "2026-11-04T14:20:35Z",
+    "https://www.airliners.de/us-zwischenwahlen-fraport-chef-erwartet-leichten-rueckenwind-luftverkehr/91310": "2026-11-04T14:20:35Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4442,7 +4446,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 3,
       "created": "2026-11-04T08:31:07Z",
-      "updated": "2026-11-04T12:01:18Z",
+      "updated": "2026-11-04T14:20:51Z",
       "items": [
         {
           "id": "b1354994aece0cb6",
@@ -4488,10 +4492,19 @@
           "domain": "air-journal.fr",
           "summary": "Le loueur aéronautique Avolon a finalisé l’achat de 140 Boeing 737-10, la plus grande version de la famille MAX, portant à plus de 240 appareils son carnet de commandes de 737 MAX restant à livrer. Annoncée le 4 novembre, cette opération intervient deux semaines après la certification américaine du monocouloir et précise la version retenue […]",
           "published": "2026-11-04T12:00:46Z"
+        },
+        {
+          "id": "3556e32813382477",
+          "feed": "airliners.de",
+          "title": "Avolon macht Auftrag über 140 Boeing 737 Max 10 fest",
+          "url": "https://www.airliners.de/avolon-auftrag-ueber-140-boeing-737-max-10-fest/91314",
+          "domain": "airliners.de",
+          "summary": "Der Leasinggeber Avolon hat den Kauf von 140 Boeing 737 Max 10 fest abgeschlossen, wie der Flugzeughersteller mitteilte . Avolons Bestand an offenen Bestellungen steigt damit auf mehr als 240 Flugzeuge.",
+          "published": "2026-11-04T14:09:38Z"
         }
       ],
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-      "written_count": 5
+      "written_count": 6
     },
     "cd945f08fd6": {
       "id": "cd945f08fd6",
@@ -4702,10 +4715,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c404429904b": {
+      "id": "c404429904b",
+      "label": "Latam baisse prévisions Ebitda carburant",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-04T14:20:51Z",
+      "updated": "2026-11-04T14:20:51Z",
+      "items": [
+        {
+          "id": "9a006c27a496448e",
+          "feed": "airliners.de",
+          "title": "Latam senkt Ergebnisprognose wegen hoher Treibstoffkosten",
+          "url": "https://www.airliners.de/latam-ergebnisprognose-hoher-treibstoffkosten/91311",
+          "domain": "airliners.de",
+          "summary": "Latam Airlines hat ihre Prognose für das bereinigte Ebitda gesenkt, weil stark gestiegene Treibstoffpreise die Margen belasten. Die Umsatzprognose hob Lateinamerikas größte Airline-Gruppe dagegen an.",
+          "published": "2026-11-04T14:08:39Z"
+        }
+      ],
+      "story_id": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.518897
+    "2026-11": 1.558437
   }
 }

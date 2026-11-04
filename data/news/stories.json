@@ -1,5 +1,104 @@
 [
   {
+    "id": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b",
+    "created": "2026-11-04T14:21:11Z",
+    "updated": "2026-11-04T14:21:11Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Latam abaisse sa prévision d'Ebitda ajusté à cause du carburant, mais relève celle de chiffre d'affaires",
+    "chapo": "Selon airliners.de, Latam Airlines a revu à la baisse sa prévision d'Ebitda ajusté, pénalisée par la forte hausse des prix du carburant. Le groupe a en revanche relevé sa prévision de chiffre d'affaires.",
+    "paragraphes": [
+      "D'après airliners.de, la compagnie explique cet ajustement par des cours du carburant nettement plus élevés, qui pèsent sur ses marges.",
+      "Le média décrit Latam comme le plus grand groupe aérien d'Amérique latine. Malgré la révision à la baisse de la rentabilité attendue, le groupe anticipe un chiffre d'affaires supérieur à sa précédente prévision."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Latam senkt Ergebnisprognose wegen hoher Treibstoffkosten",
+        "url": "https://www.airliners.de/latam-ergebnisprognose-hoher-treibstoffkosten/91311",
+        "date": "2026-11-04T14:08:39Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
+    "created": "2026-11-04T08:31:13Z",
+    "updated": "2026-11-04T14:21:07Z",
+    "version": 5,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 3,
+    "titre": "Avolon finalise sa commande de 140 Boeing 737-10, précisant la version retenue",
+    "chapo": "Le loueur Avolon a transformé en commande ferme son achat de 140 Boeing 737-10, a indiqué Boeing. Selon AeroTime, le constructeur confirme ainsi que l'engagement annoncé en octobre concerne bien la variante MAX 10.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, l'accord avait été dévoilé début octobre, sans que le modèle exact soit alors précisé. Le 737-10 est la version du monocouloir offrant le plus de sièges. Simple Flying relève que cette commande intervient juste après l'approbation de l'appareil par la FAA, et que les loueurs misent fortement sur cette déclinaison cette année.",
+      "Air Journal et airliners.de indiquent que ce contrat porte à plus de 240 appareils le carnet de commandes d'Avolon restant à livrer. Air Journal situe l'opération environ deux semaines après la certification américaine du MAX 10."
+    ],
+    "contradictions": "La date de l'annonce de la finalisation diffère : Le Journal de l'Aviation la place au 3 novembre, tandis qu'Air Journal évoque le 4 novembre.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 6,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Boeing – Communiqués",
+        "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
+        "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
+        "date": "2026-11-04T08:30:00Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor",
+        "url": "https://simpleflying.com/avolon-boeing-737-max-10-order/",
+        "date": "2026-11-04T09:18:12Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
+        "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
+        "date": "2026-11-04T09:19:46Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Avolon finalise sa commande pour 140 Boeing",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html",
+        "date": "2026-11-04T11:40:07Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Boeing : Avolon frappe fort avec 140 737 MAX 10",
+        "url": "https://www.air-journal.fr/2026-11-04-boeing-avolon-frappe-fort-avec-140-737-max-10-5278671.html",
+        "date": "2026-11-04T12:00:46Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Avolon macht Auftrag über 140 Boeing 737 Max 10 fest",
+        "url": "https://www.airliners.de/avolon-auftrag-ueber-140-boeing-737-max-10-fest/91314",
+        "date": "2026-11-04T14:09:38Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b",
     "created": "2026-11-04T12:20:56Z",
     "updated": "2026-11-04T12:20:56Z",
@@ -60,60 +159,6 @@
         "title": "IndiGo explores large regional jet order with Embraer: Reuters",
         "url": "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters",
         "date": "2026-11-04T11:39:14Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-    "created": "2026-11-04T08:31:13Z",
-    "updated": "2026-11-04T11:41:07Z",
-    "version": 4,
-    "published": true,
-    "hidden": false,
-    "withdrawn": true,
-    "categorie": "Compagnies",
-    "importance": 3,
-    "titre": "Avolon finalise sa commande de 140 Boeing 737-10, confirmée comme portant sur le MAX 10",
-    "chapo": "Boeing a finalisé la commande du loueur Avolon portant sur 140 appareils 737-10, selon le Journal de l'Aviation. Le constructeur a ainsi précisé le modèle concerné par cet accord.",
-    "paragraphes": [
-      "Selon Le Journal de l'Aviation, Boeing a annoncé le 3 novembre la finalisation de la commande d'Avolon, révélée au début d'octobre. Elle porte sur 140 exemplaires du 737-10, la version la plus capacitaire de la famille.",
-      "D'après AeroTime, la commande avait d'abord été présentée comme un contrat à trois chiffres, sans que le modèle soit détaillé. Boeing a depuis confirmé qu'il s'agissait bien de 737 MAX 10.",
-      "Simple Flying relève que les loueurs misent fortement cette année sur la plus grande variante du MAX."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 4,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Boeing – Communiqués",
-        "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
-        "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
-        "date": "2026-11-04T08:30:00Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor",
-        "url": "https://simpleflying.com/avolon-boeing-737-max-10-order/",
-        "date": "2026-11-04T09:18:12Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
-        "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
-        "date": "2026-11-04T09:19:46Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Avolon finalise sa commande pour 140 Boeing",
-        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html",
-        "date": "2026-11-04T11:40:07Z",
         "official": false
       }
     ]
