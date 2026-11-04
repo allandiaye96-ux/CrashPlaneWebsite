@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-04T05:20:34Z",
+  "run": "2026-11-04T05:30:48Z",
   "stats": {
     "fetched": 692,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -632,12 +632,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
-    },
-    {
-      "dossier": "Accord CATA UE-Qatar, polémique à Bruxelles",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "NASA X-59 premier vol pilote Lippert",
