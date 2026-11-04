@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-04T11:20:34Z",
+  "run": "2026-11-04T11:30:54Z",
   "stats": {
     "fetched": 692,
-    "new": 1,
-    "written": 1,
+    "new": 2,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.427,
+  "spend_month_usd": 1.4278,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -785,6 +785,12 @@
     },
     {
       "dossier": "Fokker Services maintenance C-390 RNLAF",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "SNC se retire du programme UJTS de la US Navy",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
