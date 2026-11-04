@@ -1473,7 +1473,8 @@
     "https://simpleflying.com/american-airlines-launches-10-new-boeing-777-routes/": "2026-11-04T19:10:41Z",
     "https://www.twz.com/land/which-guns-and-optics-are-best-according-to-battle-tested-ukrainian-soldiers": "2026-11-04T19:20:34Z",
     "https://simpleflying.com/jetblue-cancels-19-routes-from-florida/": "2026-11-04T20:10:37Z",
-    "https://simpleflying.com/7-airlines-largest-dreamliner-fleets-2026/": "2026-11-04T20:10:37Z"
+    "https://simpleflying.com/7-airlines-largest-dreamliner-fleets-2026/": "2026-11-04T20:10:37Z",
+    "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz": "2026-11-04T20:30:52Z"
   },
   "clusters": {
     "c6267b0d790": {
@@ -4925,10 +4926,31 @@
       ],
       "story_id": "2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c",
       "written_count": 1
+    },
+    "c0bc7bcbc8d": {
+      "id": "c0bc7bcbc8d",
+      "label": "Pakistan essai missile air-air Fa'az",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-04T20:31:11Z",
+      "updated": "2026-11-04T20:31:11Z",
+      "items": [
+        {
+          "id": "3fe3772575551fa4",
+          "feed": "The War Zone",
+          "title": "Pakistan Joins Air-to-Air Missile Club With Successful Test Of Fa’az",
+          "url": "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz",
+          "domain": "twz.com",
+          "summary": "The test is a major step toward Pakistan’s homegrown air-to-air missile capability, despite already fielding advanced Chinese weapons. The post Pakistan Joins Air-to-Air Missile Club With Successful Test Of Fa’az appeared first on TWZ .",
+          "published": "2026-11-04T20:29:40Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.688246
+    "2026-11": 1.689053
   }
 }
