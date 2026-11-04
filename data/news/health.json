@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-04T03:20:35Z",
+  "run": "2026-11-04T03:24:13Z",
   "stats": {
-    "fetched": 592,
-    "new": 1,
+    "fetched": 692,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 33
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
