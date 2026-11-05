@@ -1485,7 +1485,8 @@
     "https://www.air-journal.fr/2026-11-05-le-5-novembre-1908-le-gouvernement-francais-accorde-un-budget-pour-le-developpement-de-la-locomotion-aerienne-5278679.html": "2026-11-04T23:10:33Z",
     "https://simpleflying.com/17-gates-matter-so-much-airlne-carrying-over-60-percent-miami-passengers/": "2026-11-05T00:01:02Z",
     "https://www.aerotime.aero/articles/retired-jet-engines-powering-ai-data-centers": "2026-11-05T01:40:31Z",
-    "https://simpleflying.com/qantas-retiring-airbus-a380s-4-years-early-trust-a350-1000-boeing-787-deliveries/": "2026-11-05T02:01:00Z"
+    "https://simpleflying.com/qantas-retiring-airbus-a380s-4-years-early-trust-a350-1000-boeing-787-deliveries/": "2026-11-05T02:01:00Z",
+    "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft": "2026-11-05T02:40:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4862,10 +4863,31 @@
       ],
       "story_id": "2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765",
       "written_count": 1
+    },
+    "c00a49a8b4f": {
+      "id": "c00a49a8b4f",
+      "label": "NASA annonce avion expérimental X-70 Fractal",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T02:40:48Z",
+      "updated": "2026-11-05T02:40:48Z",
+      "items": [
+        {
+          "id": "c540d314da64c0ad",
+          "feed": "The War Zone",
+          "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+          "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
+          "domain": "twz.com",
+          "summary": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability. The post NASA Announces X-70 “Fractal” Experimental Aircraft appeared first on TWZ .",
+          "published": "2026-11-05T02:37:32Z"
+        }
+      ],
+      "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.730446
+    "2026-11": 1.738012
   }
 }

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 02:31:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 02:40:51 +0000</lastBuildDate>
+  <item>
+    <title>La NASA annonce le X-70 « Fractal », un avion expérimental dédié aux commandes de vol</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f/</guid>
+    <pubDate>Thu, 05 Nov 2026 02:40:51 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon The War Zone, la NASA a annoncé le X-70 « Fractal », un appareil expérimental destiné à tester de nouvelles capacités de commandes de vol.</description>
+  </item>
   <item>
     <title>Qantas retirerait ses Airbus A380 quatre ans plus tôt, en misant sur les livraisons d&#x27;A350-1000 et de 787</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 06:11:02 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Le Journal de l&#x27;Aviation, Ryanair a vu son résultat net semestriel baisser de 15%, à 2,15 milliards d&#x27;euros. Le titre de l&#x27;article attribue ce recul au doublement du prix du carburant non couvert.</description>
-  </item>
-  <item>
-    <title>Lufthansa : bénéfice trimestriel en hausse malgré le kérosène, mais prévision annuelle abaissée à nouveau</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9/</guid>
-    <pubDate>Tue, 03 Nov 2026 06:10:56 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon aero.de, Lufthansa a vu son bénéfice net du troisième trimestre progresser de 30 % malgré la flambée des prix du kérosène. D&#x27;après airliners.de, le groupe abaisse toutefois une nouvelle fois sa prévision de résultat pour l&#x27;année.</description>
   </item>
 </channel>
 </rss>

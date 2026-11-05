@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T02:30:49Z",
+  "run": "2026-11-05T02:40:34Z",
   "stats": {
-    "fetched": 697,
-    "new": 0,
-    "written": 0,
+    "fetched": 698,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.7304,
+  "spend_month_usd": 1.738,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 38
+      "items": 39
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -698,6 +698,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765"
+    },
+    {
+      "dossier": "NASA annonce avion expérimental X-70 Fractal",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f"
     },
     {
       "dossier": "Étude chinoise aubes GEnx Boeing 787",

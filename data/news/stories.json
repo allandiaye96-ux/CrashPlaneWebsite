@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
+    "created": "2026-11-05T02:40:51Z",
+    "updated": "2026-11-05T02:40:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "La NASA annonce le X-70 « Fractal », un avion expérimental dédié aux commandes de vol",
+    "chapo": "Selon The War Zone, la NASA a annoncé le X-70 « Fractal », un appareil expérimental destiné à tester de nouvelles capacités de commandes de vol.",
+    "paragraphes": [
+      "D'après The War Zone, cet avion expérimental doit permettre d'essayer de nouvelles fonctions de contrôle du vol. Le média indique aussi qu'il repoussera les limites en matière de manœuvrabilité."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The War Zone",
+        "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+        "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
+        "date": "2026-11-05T02:37:32Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765",
     "created": "2026-11-05T02:01:22Z",
     "updated": "2026-11-05T02:01:22Z",
