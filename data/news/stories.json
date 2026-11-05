@@ -1,5 +1,104 @@
 [
   {
+    "id": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04",
+    "created": "2026-11-05T20:01:30Z",
+    "updated": "2026-11-05T20:01:30Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Shield AI dévoile le premier prototype grandeur nature de son drone de combat VTOL X-BAT",
+    "chapo": "Selon The Aviationist, Shield AI a présenté dans son usine de Frisco, au Texas, le premier prototype à l'échelle réelle de l'X-BAT, un drone de combat à décollage vertical présenté comme autonome.",
+    "paragraphes": [
+      "D'après The Aviationist, l'appareil mesure environ la moitié de la taille d'un F-35. Il est animé par un moteur General Electric F110 doté de postcombustion et d'une tuyère à poussée vectorielle. Le média indique que l'X-BAT est présenté comme le premier avion de frappe autonome à décollage et atterrissage verticaux au monde.",
+      "Le prototype doit désormais être acheminé par la route jusqu'à la base d'essais en vol de l'entreprise, située à Newton, toujours d'après The Aviationist."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "Shield AI Reveals First Full-Scale Prototype X-BAT VTOL Fighter Drone",
+        "url": "https://theaviationist.com/2026/11/05/shield-xbat-prototype-revealed/",
+        "date": "2026-11-05T19:56:43Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
+    "created": "2026-11-04T11:20:53Z",
+    "updated": "2026-11-05T20:01:27Z",
+    "version": 6,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas vend 44 Boeing 737NG et 88 moteurs CFM56-7B à AerFin, plus grosse transaction de ce dernier",
+    "chapo": "AerFin a conclu l'acquisition de 44 Boeing 737NG auprès de Qantas, accompagnés de 88 moteurs CFM56-7B, selon AviTrader. Le spécialiste de l'après-vente présente l'opération comme la plus importante de son histoire.",
+    "paragraphes": [
+      "Les appareils seront transférés sur sept ans, au rythme du renouvellement de la flotte de Qantas, d'après Air Journal. Selon airliners.de, les premiers avions doivent être remis à l'acheteur dès cette année. La compagnie australienne prépare ainsi la sortie d'une grande partie de sa flotte de 737, alors que des Airbus A321XLR rejoignent ses rangs, rapporte AirlineGeeks.",
+      "Australian Aviation indique que Qantas exploite actuellement 73 Boeing 737-800, auxquels s'ajoutent trois appareils immobilisés. Le premier 737-800 de la compagnie, immatriculé VH-VXA, a été retiré du service après presque 25 ans d'activité, avec un premier vol en février 2002. Il fait partie des avions inclus dans l'accord avec AerFin."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 6,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "AerFin seals landmark 737NG aircraft acquisition from Qantas",
+        "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
+        "date": "2026-11-04T11:01:21Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans",
+        "url": "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans",
+        "date": "2026-11-04T15:44:03Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "Qantas Reaches Deal to Sell 44 Boeing 737s",
+        "url": "https://airlinegeeks.com/2026/11/04/qantas-reaches-deal-to-sell-44-boeing-737s/",
+        "date": "2026-11-04T22:38:42Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas offloads 44 737-800s in huge fleet sale",
+        "url": "https://australianaviation.com.au/2026/11/qantas-offloads-44-737-800s-in-huge-fleet-sale/",
+        "date": "2026-11-05T02:12:28Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Qantas cède 44 Boeing 737 à AerFin et prépare la relève en Airbus A321XLR",
+        "url": "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html",
+        "date": "2026-11-05T09:00:37Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Aerfin übernimmt 44 Boeing 737 NG von Qantas",
+        "url": "https://www.airliners.de/aerfin-uebernimmt-44-boeing-737-ng-qantas/91326",
+        "date": "2026-11-05T09:18:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
     "created": "2026-11-03T05:40:58Z",
     "updated": "2026-11-05T19:40:52Z",
@@ -645,66 +744,6 @@
         "title": "Frachtdrohnen-Unternehmen Dronamics plant Börsengang an der Nasdaq",
         "url": "https://www.airliners.de/frachtdrohnen-unternehmen-dronamics-plant-boersengang-nasdaq/91330",
         "date": "2026-11-05T09:41:00Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-    "created": "2026-11-04T11:20:53Z",
-    "updated": "2026-11-05T10:20:50Z",
-    "version": 5,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Qantas cède 44 Boeing 737NG et 88 moteurs CFM56-7B à AerFin, plus grosse transaction de ce dernier",
-    "chapo": "AerFin a conclu l'acquisition de 44 Boeing 737NG et de 88 moteurs CFM56-7B auprès de Qantas, selon AviTrader. Le spécialiste de l'après-vente présente cette opération comme la plus importante de son histoire.",
-    "paragraphes": [
-      "D'après AviTrader, l'accord porte sur 44 appareils et 88 moteurs CFM56-7B. AerFin y voit une étape majeure de son expansion et un moyen de consolider sa place parmi les spécialistes mondiaux du marché de l'après-vente aéronautique.",
-      "Selon Air Journal et airliners.de, les avions seront livrés à l'acheteur de manière échelonnée sur sept ans, les premiers dès cette année d'après airliners.de. Qantas prépare ainsi la sortie de la majeure partie de sa flotte de 737, tandis que des Airbus A321XLR rejoignent sa flotte, rapporte AirlineGeeks."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 5,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "AerFin seals landmark 737NG aircraft acquisition from Qantas",
-        "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
-        "date": "2026-11-04T11:01:21Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans",
-        "url": "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans",
-        "date": "2026-11-04T15:44:03Z",
-        "official": false
-      },
-      {
-        "name": "AirlineGeeks",
-        "title": "Qantas Reaches Deal to Sell 44 Boeing 737s",
-        "url": "https://airlinegeeks.com/2026/11/04/qantas-reaches-deal-to-sell-44-boeing-737s/",
-        "date": "2026-11-04T22:38:42Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Qantas cède 44 Boeing 737 à AerFin et prépare la relève en Airbus A321XLR",
-        "url": "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html",
-        "date": "2026-11-05T09:00:37Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Aerfin übernimmt 44 Boeing 737 NG von Qantas",
-        "url": "https://www.airliners.de/aerfin-uebernimmt-44-boeing-737-ng-qantas/91326",
-        "date": "2026-11-05T09:18:00Z",
         "official": false
       }
     ]

@@ -1595,7 +1595,14 @@
     "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-05T18:01:03Z",
     "https://airlinegeeks.com/2026/11/05/klm-plans-1000-more-job-cuts/": "2026-11-05T18:10:36Z",
     "https://www.twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons": "2026-11-05T19:10:33Z",
-    "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash": "2026-11-05T19:40:33Z"
+    "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash": "2026-11-05T19:40:33Z",
+    "https://simpleflying.com/ups-137-million-hit-replace-mcdonnell-douglas-md-11s-smaller-widebody-freighters/": "2026-11-05T20:01:00Z",
+    "https://australianaviation.com.au/2026/11/air-tractor-crashed-while-trying-to-avoid-power-pole-says-atsb/": "2026-11-05T20:01:00Z",
+    "https://australianaviation.com.au/2026/11/virgin-australia-to-make-major-lounge-investments/": "2026-11-05T20:01:00Z",
+    "https://australianaviation.com.au/2026/11/qantas-offloads-44-737-800s-in-huge-fleet-sale/": "2026-11-05T20:01:00Z",
+    "https://australianaviation.com.au/2026/11/submissions-nominations-open-for-australasian-space-awards-2027/": "2026-11-05T20:01:00Z",
+    "https://australianaviation.com.au/2026/11/china-southern-axes-darwin-guangzhou-flights/": "2026-11-05T20:01:00Z",
+    "https://theaviationist.com/2026/11/05/shield-xbat-prototype-revealed/": "2026-11-05T20:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4241,7 +4248,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-04T11:20:49Z",
-      "updated": "2026-11-05T10:20:46Z",
+      "updated": "2026-11-05T20:01:22Z",
       "items": [
         {
           "id": "d135e258a03db088",
@@ -4287,10 +4294,19 @@
           "domain": "airliners.de",
           "summary": "Der Aftermarket-Spezialist Aerfin übernimmt nach eigenen Angaben in der größten Transaktion seiner Firmengeschichte 44 Boeing 737 NG samt 88 Triebwerken vom Typ CFM56-7B von Qantas. Die Flugzeuge gehen über sieben Jahre an den Käufer, die ersten noch in diesem Jahr. Qantas bereitet damit die Ausmusterung des Großteils ihrer 737-Flotte vor.",
           "published": "2026-11-05T09:18:00Z"
+        },
+        {
+          "id": "510eecb7ad112756",
+          "feed": "Australian Aviation",
+          "title": "Qantas offloads 44 737-800s in huge fleet sale",
+          "url": "https://australianaviation.com.au/2026/11/qantas-offloads-44-737-800s-in-huge-fleet-sale/",
+          "domain": "australianaviation.com.au",
+          "summary": "The Flying Kangaroo currently operates 73 of the narrow-body aircraft, with another three parked. Its first 737-800, VH-VXA, was retired this month after almost 25 years in service, having operated its first flight in February 2002, and will be part of the AerFin deal.",
+          "published": "2026-11-05T02:12:28Z"
         }
       ],
       "story_id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-      "written_count": 5
+      "written_count": 6
     },
     "cf6636a56bd": {
       "id": "cf6636a56bd",
@@ -5257,10 +5273,31 @@
       ],
       "story_id": "2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23",
       "written_count": 1
+    },
+    "ca2d91f6f04": {
+      "id": "ca2d91f6f04",
+      "label": "Shield AI X-BAT prototype grandeur réelle",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T20:01:22Z",
+      "updated": "2026-11-05T20:01:22Z",
+      "items": [
+        {
+          "id": "6204bbabfeb9c7cf",
+          "feed": "The Aviationist",
+          "title": "Shield AI Reveals First Full-Scale Prototype X-BAT VTOL Fighter Drone",
+          "url": "https://theaviationist.com/2026/11/05/shield-xbat-prototype-revealed/",
+          "domain": "theaviationist.com",
+          "summary": "Around half the size of an F-35, and powered by an afterburning GE F110 engine with thrust vectoring capabilities, the X-BAT is billed as the world’s first autonomous VTOL strike fighter. Unveiled at Shield AI’s Frisco, Texas plant, the prototype will now make its way by road to the company’s flight testing base in Newton, […]",
+          "published": "2026-11-05T19:56:43Z"
+        }
+      ],
+      "story_id": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.370685
+    "2026-11": 2.391371
   }
 }

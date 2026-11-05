@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T19:50:33Z",
+  "run": "2026-11-05T20:01:00Z",
   "stats": {
     "fetched": 700,
-    "new": 0,
-    "written": 0,
+    "new": 7,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.3707,
+  "spend_month_usd": 2.3914,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -118,6 +118,12 @@
       "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
+      "dossier": "AerFin rachat 44 737NG Qantas",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
+    },
+    {
       "dossier": "Air France-KLM recentre KLM sur Schiphol",
       "statut": "corrobore",
       "editeurs": 6,
@@ -140,12 +146,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
-    },
-    {
-      "dossier": "AerFin rachat 44 737NG Qantas",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
@@ -770,6 +770,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23"
+    },
+    {
+      "dossier": "Shield AI X-BAT prototype grandeur réelle",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04"
     },
     {
       "dossier": "Bonanza VH-MPT crash Archerfield Brisbane",
