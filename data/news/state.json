@@ -1604,7 +1604,8 @@
     "https://australianaviation.com.au/2026/11/china-southern-axes-darwin-guangzhou-flights/": "2026-11-05T20:01:00Z",
     "https://theaviationist.com/2026/11/05/shield-xbat-prototype-revealed/": "2026-11-05T20:01:00Z",
     "https://simpleflying.com/breeze-airways-launches-15-new-routes-from-major-airport/": "2026-11-05T20:20:35Z",
-    "https://simpleflying.com/podcast-309/": "2026-11-05T20:30:50Z"
+    "https://simpleflying.com/podcast-309/": "2026-11-05T20:30:50Z",
+    "https://simpleflying.com/avelo-airlines-cancels-all-6-international-routes/": "2026-11-05T20:50:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5258,6 +5259,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.392923
+    "2026-11": 2.393712
   }
 }
