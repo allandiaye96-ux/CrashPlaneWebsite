@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 10:11:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 10:20:54 +0000</lastBuildDate>
+  <item>
+    <title>Dronamics prévoit une entrée au Nasdaq via une fusion avec GP-Act III Acquisition</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d/</guid>
+    <pubDate>Thu, 05 Nov 2026 10:20:54 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, le spécialiste des drones cargo Dronamics envisage de s&#x27;introduire en Bourse au Nasdaq en fusionnant avec GP-Act III Acquisition. L&#x27;opération valorise l&#x27;entreprise à 400 millions de dollars américains.</description>
+  </item>
   <item>
     <title>Joby Aviation lance une semaine de vols de taxi aérien électrique en Floride, de Tampa à Kennedy Space Center</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654/</link>
@@ -144,12 +152,12 @@
     <description>Selon Reuters, relayé par AeroTime, la compagnie indienne IndiGo discute avec Embraer d&#x27;une commande potentielle de 100 avions régionaux. Les échanges en sont à un stade préliminaire.</description>
   </item>
   <item>
-    <title>Qantas vend 44 Boeing 737NG et 88 moteurs CFM56-7B à AerFin, la plus grande transaction de l&#x27;entreprise</title>
+    <title>Qantas cède 44 Boeing 737NG et 88 moteurs CFM56-7B à AerFin, plus grosse transaction de ce dernier</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b/</guid>
     <pubDate>Wed, 04 Nov 2026 11:20:53 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon AviTrader, AerFin a conclu l&#x27;acquisition de 44 Boeing 737NG et de 88 moteurs CFM56-7B auprès de Qantas. Il s&#x27;agit de la plus grande transaction de l&#x27;histoire du spécialiste de l&#x27;après-vente aéronautique.</description>
+    <description>AerFin a conclu l&#x27;acquisition de 44 Boeing 737NG et de 88 moteurs CFM56-7B auprès de Qantas, selon AviTrader. Le spécialiste de l&#x27;après-vente présente cette opération comme la plus importante de son histoire.</description>
   </item>
   <item>
     <title>Air Baltic veut rendre six Airbus A220-300 loués dans le cadre de sa procédure Chapter 11</title>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 20:20:57 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AeroTime, Air India envisage de passer des commandes supplémentaires d&#x27;avions gros-porteurs chez Boeing et Airbus. Son nouveau directeur général, Tewolde Gebremariam, table sur un retour à la rentabilité.</description>
-  </item>
-  <item>
-    <title>Air India envisage d&#x27;augmenter sa commande d&#x27;avions gros-porteurs pour croître à l&#x27;international</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d/</guid>
-    <pubDate>Tue, 03 Nov 2026 14:21:04 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Air India souhaite étoffer une commande d&#x27;avions gros-porteurs afin de se développer à l&#x27;international. Le nombre d&#x27;appareils visés n&#x27;a pas été précisé.</description>
   </item>
 </channel>
 </rss>

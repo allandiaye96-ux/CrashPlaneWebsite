@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T10:10:36Z",
+  "run": "2026-11-05T10:20:32Z",
   "stats": {
     "fetched": 698,
-    "new": 15,
-    "written": 3,
+    "new": 3,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.9505,
+  "spend_month_usd": 1.9694,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -136,6 +136,12 @@
       "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
     },
     {
+      "dossier": "AerFin rachat 44 737NG Qantas",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
@@ -158,12 +164,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
-    },
-    {
-      "dossier": "AerFin rachat 44 737NG Qantas",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
     },
     {
       "dossier": "IndiGo commande jets régionaux Embraer",
@@ -752,6 +752,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654"
+    },
+    {
+      "dossier": "Dronamics introduction Nasdaq fusion GP-Act III",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d"
     },
     {
       "dossier": "Saab IA agents Gripen E essais en vol",

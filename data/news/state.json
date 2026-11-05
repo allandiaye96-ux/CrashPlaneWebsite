@@ -1537,7 +1537,10 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC8FE091-C291-4B40-ACF2-F885846113DC": "2026-11-05T10:10:36Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=29CA2F7E-BEA5-441A-82FD-5DE1D3176C83": "2026-11-05T10:10:36Z",
     "https://avitrader.com/2026/11/05/lufthansa-technik-aero-alzey-renews-psa-airlines-engine-deal/": "2026-11-05T10:10:36Z",
-    "https://www.air-journal.fr/2026-11-05-condor-met-le-cap-sur-bangkok-via-le-hub-detihad-5278682.html": "2026-11-05T10:10:36Z"
+    "https://www.air-journal.fr/2026-11-05-condor-met-le-cap-sur-bangkok-via-le-hub-detihad-5278682.html": "2026-11-05T10:10:36Z",
+    "https://www.airliners.de/frachtdrohnen-unternehmen-dronamics-plant-boersengang-nasdaq/91330": "2026-11-05T10:20:32Z",
+    "https://www.airliners.de/aerfin-uebernimmt-44-boeing-737-ng-qantas/91326": "2026-11-05T10:20:32Z",
+    "https://www.airliners.de/auto-flight-plant-europazentrale-flughafen-moenchengladbach/91339": "2026-11-05T10:20:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4456,7 +4459,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-04T11:20:49Z",
-      "updated": "2026-11-05T09:10:46Z",
+      "updated": "2026-11-05T10:20:46Z",
       "items": [
         {
           "id": "d135e258a03db088",
@@ -4493,10 +4496,19 @@
           "domain": "air-journal.fr",
           "summary": "La compagnie australienne a conclu un accord portant sur la vente de 44 Boeing 737NG et de leurs 88 moteurs au spécialiste britannique des actifs aéronautiques AerFin. Les transferts s’échelonneront sur sept ans, à mesure du renouvellement de la flotte de Qantas. Qantas prépare la fin de carrière d’une grande partie de ses Boeing 737, […]",
           "published": "2026-11-05T09:00:37Z"
+        },
+        {
+          "id": "5a7fbc0792395e1c",
+          "feed": "airliners.de",
+          "title": "Aerfin übernimmt 44 Boeing 737 NG von Qantas",
+          "url": "https://www.airliners.de/aerfin-uebernimmt-44-boeing-737-ng-qantas/91326",
+          "domain": "airliners.de",
+          "summary": "Der Aftermarket-Spezialist Aerfin übernimmt nach eigenen Angaben in der größten Transaktion seiner Firmengeschichte 44 Boeing 737 NG samt 88 Triebwerken vom Typ CFM56-7B von Qantas. Die Flugzeuge gehen über sieben Jahre an den Käufer, die ersten noch in diesem Jahr. Qantas bereitet damit die Ausmusterung des Großteils ihrer 737-Flotte vor.",
+          "published": "2026-11-05T09:18:00Z"
         }
       ],
       "story_id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-      "written_count": 4
+      "written_count": 5
     },
     "cf6636a56bd": {
       "id": "cf6636a56bd",
@@ -5151,10 +5163,31 @@
       ],
       "story_id": "2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654",
       "written_count": 1
+    },
+    "c5418299a7d": {
+      "id": "c5418299a7d",
+      "label": "Dronamics introduction Nasdaq fusion GP-Act III",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T10:20:46Z",
+      "updated": "2026-11-05T10:20:46Z",
+      "items": [
+        {
+          "id": "e4e4e1eafe3af9bd",
+          "feed": "airliners.de",
+          "title": "Frachtdrohnen-Unternehmen Dronamics plant Börsengang an der Nasdaq",
+          "url": "https://www.airliners.de/frachtdrohnen-unternehmen-dronamics-plant-boersengang-nasdaq/91330",
+          "domain": "airliners.de",
+          "summary": "Das Frachtdrohnen-Unternehmen Dronamics plant den Börsengang an der Nasdaq über eine Fusion mit \"GP-Act III Acquisition\". Der Deal bewertet Dronamics mit 400 Millionen US-Dollar (rund 355 Millionen Euro) und soll netto rund 100 Millionen US-Dollar einbringen, teilten beide Unternehmen mit. Der Abschluss ist für das erste Halbjahr 2027 geplant.",
+          "published": "2026-11-05T09:41:00Z"
+        }
+      ],
+      "story_id": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.950486
+    "2026-11": 1.969377
   }
 }
