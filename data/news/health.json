@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T15:30:51Z",
+  "run": "2026-11-05T15:40:34Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.2087,
+  "spend_month_usd": 2.2095,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -268,22 +268,10 @@
       "breve": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9"
     },
     {
-      "dossier": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df"
-    },
-    {
       "dossier": "Éthiopie Su-35 et S-400",
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2"
-    },
-    {
-      "dossier": "Condor accord pilotes 2029",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-29-condor-accord-avec-les-pilotes-jusqu-en-septembre-2029-1097"
     },
     {
       "dossier": "airBaltic suppression postes pilotes et cabine",
@@ -416,12 +404,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
-    },
-    {
-      "dossier": "Honeywell usine Arizona 500 M$",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-29-honeywell-aerospace-prevoit-une-usine-de-500-millions-de-dol-31ca"
     },
     {
       "dossier": "Honeywell Aerospace premier trimestre après scission",
@@ -869,6 +851,12 @@
     },
     {
       "dossier": "Livraison premier FA-50M Malaisie",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Interceptions de drones chinois WZ-7 au-dessus du détroit de Miyako",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
