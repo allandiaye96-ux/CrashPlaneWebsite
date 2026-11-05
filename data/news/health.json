@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T11:40:34Z",
+  "run": "2026-11-05T11:50:33Z",
   "stats": {
-    "fetched": 598,
-    "new": 0,
-    "written": 0,
+    "fetched": 698,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.9726,
+  "spend_month_usd": 1.9901,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -172,6 +172,12 @@
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
+      "dossier": "Air France-KLM recentre KLM sur Schiphol",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -248,12 +254,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92"
-    },
-    {
-      "dossier": "Air France-KLM recentre KLM sur Schiphol",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
     },
     {
       "dossier": "JetBlue créanciers conseillers restructuration",

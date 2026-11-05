@@ -1545,7 +1545,8 @@
     "https://simpleflying.com/differences-economy-premium-economy-business-first-class/": "2026-11-05T10:40:35Z",
     "https://www.air-journal.fr/2026-11-05-voyage-en-thailande-thai-airways-double-ses-frequences-sur-la-liaison-bangkok-paris-5278422.html": "2026-11-05T11:10:32Z",
     "https://avitrader.com/2026/11/05/liebherr-aerospace-wins-klm-cityhopper-landing-gear-deal/": "2026-11-05T11:30:49Z",
-    "https://www.aero.de/news-54100/Daempfer-fuer-Ryanair-im-Streit-um-Hilfen-fuer-KLM-und-Condor.html": "2026-11-05T11:30:49Z"
+    "https://www.aero.de/news-54100/Daempfer-fuer-Ryanair-im-Streit-um-Hilfen-fuer-KLM-und-Condor.html": "2026-11-05T11:30:49Z",
+    "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts": "2026-11-05T11:50:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4968,7 +4969,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-05T08:40:53Z",
-      "updated": "2026-11-05T09:20:49Z",
+      "updated": "2026-11-05T11:51:02Z",
       "items": [
         {
           "id": "60b45e9de6eed274",
@@ -4996,10 +4997,19 @@
           "domain": "airliners.de",
           "summary": "Air France-KLM übertrifft im dritten Quartal die Erwartungen von Analysten und rechnet für das Gesamtjahr mit höheren Treibstoffkosten. Bei der Tochter KLM fallen zudem rund 1000 Stellen weg.",
           "published": "2026-11-05T09:10:58Z"
+        },
+        {
+          "id": "eac025c2cb2b8314",
+          "feed": "AeroTime",
+          "title": "Air France-KLM beats profit forecasts, but KLM plans 1,000 job cuts",
+          "url": "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts",
+          "domain": "aerotime.aero",
+          "summary": "Air France-KLM’s adjusted operating profit rose by €126 million ($142 million) year-on-year to €1.35 billion ($1.52 billion) in… The post Air France-KLM beats profit forecasts, but KLM plans 1,000 job cuts appeared first on AeroTime .",
+          "published": "2026-11-05T10:38:06Z"
         }
       ],
       "story_id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
-      "written_count": 3
+      "written_count": 4
     },
     "ca8afd9b6c4": {
       "id": "ca8afd9b6c4",
@@ -5172,6 +5182,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.972633
+    "2026-11": 1.990067
   }
 }

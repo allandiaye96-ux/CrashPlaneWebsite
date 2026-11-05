@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
+    "created": "2026-11-05T08:40:57Z",
+    "updated": "2026-11-05T11:51:12Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air France-KLM : bénéfice supérieur aux attentes, mais KLM supprime environ 1 000 postes et recentre son réseau",
+    "chapo": "Air France-KLM a dépassé les attentes des analystes au troisième trimestre, selon airliners.de, tout en annonçant une restructuration de KLM avec environ 1 000 suppressions de postes.",
+    "paragraphes": [
+      "D'après AeroTime, le résultat d'exploitation ajusté du groupe a progressé de 126 millions d'euros (142 millions de dollars) sur un an, pour atteindre 1,35 milliard d'euros (1,52 milliard de dollars). Le groupe s'attend par ailleurs à des coûts de carburant plus élevés sur l'ensemble de l'année, précise airliners.de.",
+      "Face au niveau élevé des prix du kérosène, KLM est réorientée, rapporte aero.de : la compagnie doit se concentrer pleinement sur ses 160 liaisons directes à Schiphol et renoncer totalement à l'Airbus A320neo.",
+      "Simple Flying évoque un plan de réorganisation financière d'un milliard d'euros, qualifié de « douloureux », avec une réduction des effectifs d'environ 15 % afin d'améliorer les résultats de la compagnie néerlandaise."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air France-KLM kürzt bei niederländischer Tochter",
+        "url": "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html",
+        "date": "2026-11-05T08:34:47Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "KLM Forced Into 'Painful' €1B Financial Overhaul",
+        "url": "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/",
+        "date": "2026-11-05T08:53:27Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Air France-KLM übertrifft Gewinnerwartungen – streicht bei KLM 1000 Stellen",
+        "url": "https://www.airliners.de/air-france-klm-uebertrifft-gewinnerwartungen-streicht-klm-1000-stellen/91338",
+        "date": "2026-11-05T09:10:58Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Air France-KLM beats profit forecasts, but KLM plans 1,000 job cuts",
+        "url": "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts",
+        "date": "2026-11-05T10:38:06Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d",
     "created": "2026-11-05T10:20:54Z",
     "updated": "2026-11-05T10:20:54Z",
@@ -399,53 +453,6 @@
         "title": "Emirates-Nettogewinn bricht im ersten Halbjahr um 66 Prozent ein",
         "url": "https://www.airliners.de/emirates-nettogewinn-bricht-halbjahr-66-prozent-ein/91335",
         "date": "2026-11-05T09:08:57Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
-    "created": "2026-11-05T08:40:57Z",
-    "updated": "2026-11-05T09:21:04Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air France-KLM recentre KLM sur Schiphol, renonce à l'A320neo et supprime des postes face au kérosène",
-    "chapo": "Face à la hausse des prix du kérosène, Air France-KLM réorganise sa filiale néerlandaise KLM, selon aero.de. Le groupe a par ailleurs dépassé les attentes des analystes au troisième trimestre, d'après airliners.de.",
-    "paragraphes": [
-      "KLM doit se concentrer pleinement sur ses 160 liaisons directes à l'aéroport d'Amsterdam-Schiphol, indique aero.de. La compagnie renonce en outre complètement à l'Airbus A320neo.",
-      "Simple Flying évoque un plan de restructuration financière d'un milliard d'euros, qualifié de « douloureux », avec une réduction d'environ 15 % des effectifs de la compagnie nationale néerlandaise afin d'améliorer ses résultats. De son côté, airliners.de fait état d'environ 1000 suppressions de postes chez KLM.",
-      "Toujours d'après airliners.de, Air France-KLM a fait mieux que prévu au troisième trimestre, mais anticipe des coûts de carburant plus élevés sur l'ensemble de l'année."
-    ],
-    "contradictions": "Simple Flying parle d'une réduction d'environ 15 % des effectifs, airliners.de d'environ 1000 postes supprimés chez KLM ; les périmètres respectifs ne sont pas précisés dans les sources.",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Air France-KLM kürzt bei niederländischer Tochter",
-        "url": "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html",
-        "date": "2026-11-05T08:34:47Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "KLM Forced Into 'Painful' €1B Financial Overhaul",
-        "url": "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/",
-        "date": "2026-11-05T08:53:27Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Air France-KLM übertrifft Gewinnerwartungen – streicht bei KLM 1000 Stellen",
-        "url": "https://www.airliners.de/air-france-klm-uebertrifft-gewinnerwartungen-streicht-klm-1000-stellen/91338",
-        "date": "2026-11-05T09:10:58Z",
         "official": false
       }
     ]
