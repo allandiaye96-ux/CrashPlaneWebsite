@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T16:50:34Z",
+  "run": "2026-11-05T17:01:05Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.271,
+  "spend_month_usd": 2.2872,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -406,12 +406,6 @@
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
-      "dossier": "Air Transat nouvelle ligne Montréal-Istanbul",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665"
-    },
-    {
       "dossier": "Turkish Airlines 777-300ERSF via AerCap",
       "statut": "source_unique",
       "editeurs": 1,
@@ -770,6 +764,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415"
+    },
+    {
+      "dossier": "Air Tahiti Nui Starlink connectivité 787",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23"
     },
     {
       "dossier": "Shield AI X-BAT drone de combat VTOL dévoilé",

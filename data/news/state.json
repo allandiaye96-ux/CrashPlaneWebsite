@@ -1585,7 +1585,9 @@
     "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/": "2026-11-05T16:30:53Z",
     "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-05T16:30:53Z",
     "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es": "2026-11-05T16:40:34Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html": "2026-11-05T16:50:34Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html": "2026-11-05T16:50:34Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/connectivite-et-ife/air-tahiti-nui-signe-a-son-tour-avec-starlink-20261105.html": "2026-11-05T17:01:05Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/sopra-steria-a-finalisee-la-reprise-de-lactivite-manufacturing-engineering-de-daher-20261105.html": "2026-11-05T17:01:05Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1869,27 +1871,6 @@
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
       "written_count": 4
-    },
-    "cf5670ae665": {
-      "id": "cf5670ae665",
-      "label": "Air Transat nouvelle ligne Montréal-Istanbul",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-29T16:50:45Z",
-      "updated": "2026-10-29T16:50:45Z",
-      "items": [
-        {
-          "id": "1f9c8cec413c5c7e",
-          "feed": "Simple Flying",
-          "title": "Air Transat Launches New 11-Hour Nonstop Route Today: See Map Now",
-          "url": "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/",
-          "domain": "simpleflying.com",
-          "summary": "Air Transat launches Montreal–Istanbul flights, strengthens its Turkish Airlines partnership, and announces five new European routes for 2027.",
-          "published": "2026-10-29T16:48:13Z"
-        }
-      ],
-      "story_id": "2026-10-29-air-transat-lance-une-liaison-directe-montrealistanbul-et-an-e665",
-      "written_count": 1
     },
     "c4df59d0616": {
       "id": "c4df59d0616",
@@ -5262,10 +5243,31 @@
       ],
       "story_id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
       "written_count": 1
+    },
+    "c71393dfe23": {
+      "id": "c71393dfe23",
+      "label": "Air Tahiti Nui Starlink connectivité 787",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-05T17:01:21Z",
+      "updated": "2026-11-05T17:01:21Z",
+      "items": [
+        {
+          "id": "a9edced430667c52",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Air Tahiti Nui signe à son tour avec Starlink",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/connectivite-et-ife/air-tahiti-nui-signe-a-son-tour-avec-starlink-20261105.html",
+          "domain": "journal-aviation.com",
+          "summary": "Air Tahiti Nui va proposer une connectivité gratuite à bord de ses appareils, grâce à un accord signé avec SpaceX pour équiper sa flotte de quatre Boeing 787 avec le […] L’article Air Tahiti Nui signe à son tour avec Starlink a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-05T16:55:07Z"
+        }
+      ],
+      "story_id": "2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.270964
+    "2026-11": 2.28722
   }
 }

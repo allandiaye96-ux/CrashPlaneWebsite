@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 16:50:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 17:01:29 +0000</lastBuildDate>
+  <item>
+    <title>Air Tahiti Nui choisit la connexion Starlink pour ses quatre Boeing 787</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23/</guid>
+    <pubDate>Thu, 05 Nov 2026 17:01:29 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Le Journal de l&#x27;Aviation, la compagnie polynésienne a conclu un accord avec SpaceX afin d&#x27;offrir à ses passagers un accès internet gratuit en vol.</description>
+  </item>
   <item>
     <title>Air France-KLM annonce un troisième trimestre solide, avec un chiffre d&#x27;affaires en hausse de 7,6 %</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 08:31:13 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Boeing indique que le loueur Avolon a conclu définitivement sa commande de 140 appareils de type 737-10, déjà évoquée en octobre. Le carnet de commandes du loueur dépasse ainsi 240 avions, selon AviTrader.</description>
-  </item>
-  <item>
-    <title>Swiss prévoit de retirer ses neuf A220-100 d&#x27;ici fin 2027 et de ne garder que l&#x27;A320 à moyen terme</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170/</guid>
-    <pubDate>Wed, 04 Nov 2026 08:21:03 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Swiss veut à long terme n&#x27;exploiter que la famille A320 sur son réseau court-courrier. La compagnie sortira ses neuf A220-100 de la flotte d&#x27;ici fin 2027.</description>
   </item>
 </channel>
 </rss>

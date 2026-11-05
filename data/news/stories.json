@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23",
+    "created": "2026-11-05T17:01:29Z",
+    "updated": "2026-11-05T17:01:29Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Tahiti Nui choisit la connexion Starlink pour ses quatre Boeing 787",
+    "chapo": "Selon Le Journal de l'Aviation, la compagnie polynésienne a conclu un accord avec SpaceX afin d'offrir à ses passagers un accès internet gratuit en vol.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, le contrat prévoit d'équiper les quatre Boeing 787 de la flotte d'Air Tahiti Nui avec le système de SpaceX. La connectivité serait proposée sans frais à bord.",
+      "Le média présente cette signature comme un nouveau ralliement à Starlink, la compagnie rejoignant ainsi d'autres transporteurs qui ont fait le même choix."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Air Tahiti Nui signe à son tour avec Starlink",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/connectivite-et-ife/air-tahiti-nui-signe-a-son-tour-avec-starlink-20261105.html",
+        "date": "2026-11-05T16:55:07Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
     "created": "2026-11-05T16:50:50Z",
     "updated": "2026-11-05T16:50:50Z",
