@@ -1594,7 +1594,8 @@
     "https://simpleflying.com/5-airlines-complimentary-premium-economy-wifi/": "2026-11-05T18:01:03Z",
     "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-05T18:01:03Z",
     "https://airlinegeeks.com/2026/11/05/klm-plans-1000-more-job-cuts/": "2026-11-05T18:10:36Z",
-    "https://www.twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons": "2026-11-05T19:10:33Z"
+    "https://www.twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons": "2026-11-05T19:10:33Z",
+    "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash": "2026-11-05T19:40:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3244,7 +3245,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-02T20:01:19Z",
-      "updated": "2026-11-05T10:10:54Z",
+      "updated": "2026-11-05T19:40:47Z",
       "items": [
         {
           "id": "08944c7cc476d795",
@@ -3290,10 +3291,19 @@
           "domain": "aero-news.net",
           "summary": "Unclear At This Point What Caused It To Break Away Investigators recovered three pieces of the Learjet’s left elevator miles from the Greenacres crash site, a significant clue that at least part of the aircraft separated before impact, an NTSB board member said Tuesday. NTSB Board Member Tom Chapman said the pieces were found about 1.3 to 3.8 miles from the crash site. The elevator is a control surface on the aircraft’s tail that controls its up-and-down pitch. Investigators have not determined whether the elevator’s separation contributed to the accident or whether the forces on the plane caused it to break away. Chapman said the finding will guide further investigation. “We don’t know that",
           "published": null
+        },
+        {
+          "id": "5a5e4ca5b1e71dfd",
+          "feed": "AeroTime",
+          "title": "Investigators find pieces of Learjet’s elevator miles from Florida crash site",
+          "url": "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash",
+          "domain": "aerotime.aero",
+          "summary": "Investigators found three pieces of a Learjet 60’s left elevator between 1.3 and 3.8 miles from the road… The post Investigators find pieces of Learjet’s elevator miles from Florida crash site appeared first on AeroTime .",
+          "published": "2026-11-05T19:20:59Z"
         }
       ],
       "story_id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
-      "written_count": 5
+      "written_count": 6
     },
     "cedf40f0714": {
       "id": "cedf40f0714",
@@ -5251,6 +5261,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.358325
+    "2026-11": 2.370685
   }
 }
