@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T13:50:33Z",
+  "run": "2026-11-05T14:01:12Z",
   "stats": {
-    "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "fetched": 688,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.1454,
+  "spend_month_usd": 2.1564,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -752,6 +752,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6"
+    },
+    {
+      "dossier": "Air Canada commande 8 A350-1000",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",

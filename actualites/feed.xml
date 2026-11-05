@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 13:50:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 14:01:29 +0000</lastBuildDate>
+  <item>
+    <title>Air Canada commande huit Airbus A350-1000 pour des vols sans escale hors de portée de ses 777-300ER</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d/</guid>
+    <pubDate>Thu, 05 Nov 2026 14:01:29 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Air Canada a commandé huit Airbus A350-1000 afin d&#x27;assurer des vols sans escale que ses Boeing 777-300ER ne peuvent pas réaliser.</description>
+  </item>
   <item>
     <title>KLM renonce à l&#x27;A320neo et prévoit de nouvelles réductions d&#x27;effectifs</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 06:21:05 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, qui a eu accès à un courrier de la commission tarifaire de Condor, celle-ci critique la manière dont le comité directeur de la VC a géré le vote sur le « Zukunftspaket » de la compagnie.</description>
-  </item>
-  <item>
-    <title>ITA Airways étudierait une liaison Milan-Malpensa – Lima, en plus de Rome-Fiumicino</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac/</guid>
-    <pubDate>Wed, 04 Nov 2026 06:01:25 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, qui cite le Corriere della Sera, ITA Airways songe à desservir Lima, au Pérou, depuis Milan-Malpensa. Le projet viendrait s&#x27;ajouter à la desserte déjà prévue depuis Rome-Fiumicino.</description>
   </item>
 </channel>
 </rss>

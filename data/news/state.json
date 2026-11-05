@@ -1558,7 +1558,9 @@
     "https://theaviationist.com/2026/11/05/from-drones-to-bomb-hoaxes/": "2026-11-05T12:50:34Z",
     "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html": "2026-11-05T13:10:49Z",
     "https://simpleflying.com/video/emirates-boss-names-3-us-cities-that-could-land-their-first-nonstop-flights-to-dubai/": "2026-11-05T13:30:49Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/klm-renonce-a-la320neo-et-reduit-encore-ses-effectifs-20261105.html": "2026-11-05T13:30:49Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/klm-renonce-a-la320neo-et-reduit-encore-ses-effectifs-20261105.html": "2026-11-05T13:30:49Z",
+    "https://simpleflying.com/air-canada-ordered-8-airbus-a350-1000s-fly-nonstop-boeing-777-300ers-cannot/": "2026-11-05T14:01:12Z",
+    "https://www.air-journal.fr/2026-11-05-easyjet-ouvre-lyon-louxor-et-revient-sur-lyon-nice-5278685.html": "2026-11-05T14:01:12Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5226,10 +5228,31 @@
       ],
       "story_id": "2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6",
       "written_count": 1
+    },
+    "c7fcbbf182d": {
+      "id": "c7fcbbf182d",
+      "label": "Air Canada commande 8 A350-1000",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T14:01:24Z",
+      "updated": "2026-11-05T14:01:24Z",
+      "items": [
+        {
+          "id": "99e10fc1528fed85",
+          "feed": "Simple Flying",
+          "title": "Air Canada Ordered 8 Airbus A350-1000s To Fly Nonstop Where Its Boeing 777-300ERs Cannot",
+          "url": "https://simpleflying.com/air-canada-ordered-8-airbus-a350-1000s-fly-nonstop-boeing-777-300ers-cannot/",
+          "domain": "simpleflying.com",
+          "summary": "A closer look at how geopolitics and industry bottlenecks are driving the flag carrier’s fleet overhaul.",
+          "published": "2026-11-05T14:00:18Z"
+        }
+      ],
+      "story_id": "2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.145398
+    "2026-11": 2.156435
   }
 }

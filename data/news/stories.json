@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d",
+    "created": "2026-11-05T14:01:29Z",
+    "updated": "2026-11-05T14:01:29Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Canada commande huit Airbus A350-1000 pour des vols sans escale hors de portée de ses 777-300ER",
+    "chapo": "Selon Simple Flying, Air Canada a commandé huit Airbus A350-1000 afin d'assurer des vols sans escale que ses Boeing 777-300ER ne peuvent pas réaliser.",
+    "paragraphes": [
+      "Le site présente cette commande comme un élément du renouvellement de flotte de la compagnie nationale canadienne. Il explique que ce renouvellement est influencé par des enjeux géopolitiques ainsi que par des goulets d'étranglement au sein de l'industrie aéronautique."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Air Canada Ordered 8 Airbus A350-1000s To Fly Nonstop Where Its Boeing 777-300ERs Cannot",
+        "url": "https://simpleflying.com/air-canada-ordered-8-airbus-a350-1000s-fly-nonstop-boeing-777-300ers-cannot/",
+        "date": "2026-11-05T14:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6",
     "created": "2026-11-05T13:31:05Z",
     "updated": "2026-11-05T13:31:05Z",
