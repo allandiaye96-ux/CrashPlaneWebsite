@@ -1,5 +1,136 @@
 [
   {
+    "id": "2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654",
+    "created": "2026-11-05T10:11:13Z",
+    "updated": "2026-11-05T10:11:13Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Joby Aviation lance une semaine de vols de taxi aérien électrique en Floride, de Tampa à Kennedy Space Center",
+    "chapo": "Selon Aero-News Network, Joby Aviation a lancé une semaine de vols pilotés de son taxi aérien électrique en Floride, avec des étapes à Tampa, Orlando et sur la Space Coast.",
+    "paragraphes": [
+      "D'après Aero-News Network, l'appareil doit voler à l'aéroport international d'Orlando et au Kennedy Space Center. Ces vols doivent contribuer à cartographier la première phase du futur réseau « Aerial Highway Network » de la Floride. Un vol entre Saint-Pétersbourg et l'aéroport international de Tampa figure aussi dans le programme.",
+      "Le média indique qu'il s'agit des premiers vols en Floride menés dans le cadre du programme eIPP, soutenu par la Maison-Blanche et annoncé par le département des Transports des États-Unis en mars 2026. Ce programme associe pouvoirs publics et industriels afin d'accélérer l'introduction en toute sécurité des taxis aériens électriques dans l'espace aérien américain."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=F449A919-F404-4F42-BE5F-2304E6FC9E58",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac",
+    "created": "2026-11-05T10:11:10Z",
+    "updated": "2026-11-05T10:11:10Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Entraîneur à réaction de l'US Navy : SNC renonce, le M-346N reste seul candidat connu",
+    "chapo": "Selon Aero-News Network, qui cite Breaking Defense, Sierra Nevada Corporation (SNC) ne concourt plus pour le futur avion d'entraînement à réaction de l'US Navy. Le M-346N de Textron Aviation Defense devient ainsi le seul concurrent identifié.",
+    "paragraphes": [
+      "Dans une déclaration à Breaking Defense, SNC explique ne pas avoir pu soumettre une offre de manière responsable pour le programme UJTS (Undergraduate Jet Training System) dans la structure contractuelle actuelle. L'entreprise, qui dit son respect pour la Navy et le bureau PMA-273, assure rester engagée dans l'entraînement à réaction naval et prête à revenir si l'approche était revue.",
+      "D'après The War Zone, SNC a renoncé à proposer son Freedom Jet pour remplacer les T-45 de la Navy. Il s'agissait de l'un des deux candidats connus encore en lice : le Beechcraft M-346N est désormais le seul appareil identifié dans la compétition."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "SNC Drops Out Of Navy's Jet Trainer Competition",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC8FE091-C291-4B40-ACF2-F885846113DC",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition",
+        "url": "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition",
+        "date": "2026-11-04T17:36:13Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
+    "created": "2026-11-03T05:40:58Z",
+    "updated": "2026-11-05T10:11:02Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Learjet 60 en Floride : trois morceaux de la gouverne de profondeur gauche retrouvés loin du lieu du crash",
+    "chapo": "Selon Aero-News Network, les enquêteurs du NTSB ont retrouvé trois morceaux de la gouverne de profondeur gauche du Learjet à plusieurs miles du site de l'accident de Greenacres, en Floride. Ce constat indique qu'une partie de l'avion s'est détachée avant l'impact.",
+    "paragraphes": [
+      "Le membre du NTSB Tom Chapman a indiqué que les pièces avaient été découvertes entre 1,3 et 3,8 miles du lieu du crash. La gouverne de profondeur, située sur l'empennage, commande le mouvement de tangage de l'appareil. Les enquêteurs n'ont pas déterminé si sa séparation a contribué à l'accident, ni si ce sont les efforts subis par l'avion qui l'ont fait se détacher. D'après Tom Chapman, cette découverte orientera la suite de l'enquête.",
+      "Le Learjet 60 avait décollé du Texas à destination des Bahamas, rapporte aero.de, avant de s'écraser au-dessus d'une route fréquentée en Floride. Selon airliners.de, les neuf personnes à bord ont perdu la vie dans cet accident survenu en zone résidentielle, et les pilotes avaient signalé de la glace peu avant. Les causes de l'accident ne sont pas établies."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 5,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Update: NTSB Confirms Learjets Left Elevator Found Miles From Accident Site",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=7E281995-7276-4F16-9CBE-CAF4D074BAF3",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "NTSB finds evidence of in-flight breakup before Florida Learjet crash",
+        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup",
+        "date": "2026-11-02T19:18:12Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Learjet brach bereits in der Luft auseinander",
+        "url": "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html",
+        "date": "2026-11-03T05:31:52Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "NTSB: Learjet 60 könnte vor Absturz in Florida auseinandergebrochen sein",
+        "url": "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282",
+        "date": "2026-11-03T14:19:25Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Ill-Fated Learjet Had Altitude Struggles Amid Severe Turbulence 6 Months Ago, ATC Audio Shows",
+        "url": "https://simpleflying.com/ill-fated-learjet-altitude-struggles-severe-turbulence-6-months-ago/",
+        "date": "2026-11-04T23:01:12Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
     "created": "2026-11-05T02:40:51Z",
     "updated": "2026-11-05T09:50:53Z",
@@ -432,60 +563,6 @@
         "title": "Qantas Is Retiring Its Airbus A380s 4 Years Early Because It Trusts Its A350-1000 & Boeing 787 Deliveries",
         "url": "https://simpleflying.com/qantas-retiring-airbus-a380s-4-years-early-trust-a350-1000-boeing-787-deliveries/",
         "date": "2026-11-05T02:00:18Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
-    "created": "2026-11-03T05:40:58Z",
-    "updated": "2026-11-04T23:10:56Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Enquête",
-    "importance": 3,
-    "titre": "Learjet 60 en Floride : le NTSB relève des indices de désintégration en vol avant l'impact",
-    "chapo": "Selon AeroTime, les enquêteurs du NTSB ont trouvé des éléments indiquant que le Learjet 60 accidenté en Floride a perdu certains composants avant de s'écraser. Les causes de l'accident ne sont pas établies.",
-    "paragraphes": [
-      "Le jet privé avait décollé du Texas pour rejoindre les Bahamas, d'après aero.de. Il s'est écrasé en Floride, à proximité de West Palm Beach, au-dessus d'une route fréquentée. Airliners.de indique que l'accident s'est produit dans un quartier résidentiel et que les neuf personnes à bord sont mortes.",
-      "D'après airliners.de, les pilotes avaient signalé de la glace peu avant l'accident. L'enquête du NTSB se poursuit, et aucune cause n'a été communiquée.",
-      "Simple Flying rapporte par ailleurs que des enregistrements audio de communications avec le contrôle aérien ont ressurgi. Ils montreraient qu'un Learjet avait eu du mal à tenir son altitude dans de fortes turbulences six mois avant l'accident mortel dans le sud de la Floride."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 4,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "NTSB finds evidence of in-flight breakup before Florida Learjet crash",
-        "url": "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup",
-        "date": "2026-11-02T19:18:12Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Learjet brach bereits in der Luft auseinander",
-        "url": "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html",
-        "date": "2026-11-03T05:31:52Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "NTSB: Learjet 60 könnte vor Absturz in Florida auseinandergebrochen sein",
-        "url": "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282",
-        "date": "2026-11-03T14:19:25Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Ill-Fated Learjet Had Altitude Struggles Amid Severe Turbulence 6 Months Ago, ATC Audio Shows",
-        "url": "https://simpleflying.com/ill-fated-learjet-altitude-struggles-severe-turbulence-6-months-ago/",
-        "date": "2026-11-04T23:01:12Z",
         "official": false
       }
     ]

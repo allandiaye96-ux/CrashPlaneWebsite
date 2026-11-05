@@ -1522,7 +1522,22 @@
     "https://avitrader.com/2026/11/05/flybis-orders-up-to-12-eve-evtols/": "2026-11-05T09:40:43Z",
     "https://www.aero.de/news-54098/Erneut-Bombendrohung-gegen-Linienflug.html": "2026-11-05T09:40:43Z",
     "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/": "2026-11-05T09:50:32Z",
-    "https://avitrader.com/2026/11/05/3top-enters-freighter-market-with-a321f-deal/": "2026-11-05T09:50:32Z"
+    "https://avitrader.com/2026/11/05/3top-enters-freighter-market-with-a321f-deal/": "2026-11-05T09:50:32Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=7E281995-7276-4F16-9CBE-CAF4D074BAF3": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3F3EA56C-5E34-4AEE-B7E2-E0F96D7F61AE": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=A021AF0F-82B0-456E-B3BD-C57F85AFD231": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=47723995-ABF2-4D2D-B8B6-82222A877B83": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E25AC3A3-DF34-4804-87D5-EAE155A6769A": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E3663397-3927-460D-B275-CC134A60D247": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=8A3BD211-0985-4E65-9604-212439AFD2D5": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C956B846-8759-4875-9380-5AA81860EF9F": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C8E16E91-8A10-4B32-8C06-E8DCFD2C6B8D": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=4FE374E7-FC36-41F1-94BC-BFE8A65D1E7A": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F449A919-F404-4F42-BE5F-2304E6FC9E58": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC8FE091-C291-4B40-ACF2-F885846113DC": "2026-11-05T10:10:36Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=29CA2F7E-BEA5-441A-82FD-5DE1D3176C83": "2026-11-05T10:10:36Z",
+    "https://avitrader.com/2026/11/05/lufthansa-technik-aero-alzey-renews-psa-airlines-engine-deal/": "2026-11-05T10:10:36Z",
+    "https://www.air-journal.fr/2026-11-05-condor-met-le-cap-sur-bangkok-via-le-hub-detihad-5278682.html": "2026-11-05T10:10:36Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3367,7 +3382,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-02T20:01:19Z",
-      "updated": "2026-11-04T23:10:48Z",
+      "updated": "2026-11-05T10:10:54Z",
       "items": [
         {
           "id": "08944c7cc476d795",
@@ -3404,10 +3419,19 @@
           "domain": "simpleflying.com",
           "summary": "Resurfaced ATC audio reveals a Learjet struggled with severe turbulence six months before its fatal crash in South Florida.",
           "published": "2026-11-04T23:01:12Z"
+        },
+        {
+          "id": "b4d063c03bbc624b",
+          "feed": "Aero-News Network",
+          "title": "Update: NTSB Confirms Learjets Left Elevator Found Miles From Accident Site",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=7E281995-7276-4F16-9CBE-CAF4D074BAF3",
+          "domain": "aero-news.net",
+          "summary": "Unclear At This Point What Caused It To Break Away Investigators recovered three pieces of the Learjet’s left elevator miles from the Greenacres crash site, a significant clue that at least part of the aircraft separated before impact, an NTSB board member said Tuesday. NTSB Board Member Tom Chapman said the pieces were found about 1.3 to 3.8 miles from the crash site. The elevator is a control surface on the aircraft’s tail that controls its up-and-down pitch. Investigators have not determined whether the elevator’s separation contributed to the accident or whether the forces on the plane caused it to break away. Chapman said the finding will guide further investigation. “We don’t know that",
+          "published": null
         }
       ],
       "story_id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
-      "written_count": 4
+      "written_count": 5
     },
     "cedf40f0714": {
       "id": "cedf40f0714",
@@ -3699,27 +3723,6 @@
       ],
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
       "written_count": 3
-    },
-    "c305ae42703": {
-      "id": "c305ae42703",
-      "label": "Lockheed contrat missile hypersonique AGM-183A 694 M$",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-03T10:09:13Z",
-      "updated": "2026-11-03T10:09:13Z",
-      "items": [
-        {
-          "id": "219f97902ff4d1ec",
-          "feed": "Aero-News Network",
-          "title": "Air Force Awards Lockheed $694 Million Hypersonic Missile Production Contract",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=5E0BCEB7-AF25-4CAB-B8EE-0F060E7447B3",
-          "domain": "aero-news.net",
-          "summary": "AGM-183A Air-Launched Rapid Response Weapon The U.S. Air Force awarded Lockheed Martin a nearly $700 million contract for the production and fielding of a hypersonic missile. The service granted Lockheed the $694 million contract in late September as it moved the AGM-183A Air-Launched Rapid Response Weapon, or ARRW, from prototyping and flight testing to production, according to a Monday announcement. The contract, which was completed under the Defense Department’s Enterprise-Wide Agile Acquisition Contract, is another effort by the U.S. military to modernize the country’s Arsenal of Freedom, the statement says.",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "cf68eafa3aa": {
       "id": "cf68eafa3aa",
@@ -4774,7 +4777,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-04T17:40:53Z",
-      "updated": "2026-11-04T17:40:53Z",
+      "updated": "2026-11-05T10:10:54Z",
       "items": [
         {
           "id": "2a4e853bee892c52",
@@ -4784,10 +4787,19 @@
           "domain": "twz.com",
           "summary": "Sierra Nevada Corp decided not to bid to replace the Navy's T-45s with its Freedom Jet, one of two known contenders left in the running. The post The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition appeared first on TWZ .",
           "published": "2026-11-04T17:36:13Z"
+        },
+        {
+          "id": "4e409414fe0deba3",
+          "feed": "Aero-News Network",
+          "title": "SNC Drops Out Of Navy's Jet Trainer Competition",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC8FE091-C291-4B40-ACF2-F885846113DC",
+          "domain": "aero-news.net",
+          "summary": "Leaves Textron Aviation Defense As Only Competitor Sierra Nevada Corporation (SNC) is no longer competing for the Navy’s new training jet, Breaking Defense reported. The decision not to compete may leave the Navy with only one true competitor, Textron Aviation Defense’s M-346N trainer. “With great respect for the Navy and PMA-273, SNC could not responsibly bid the UJTS (Undergraduate Jet Training System) program under the current contract structure,” SNC said in a statement to Breaking Defense. “We do remain committed to naval jet training and stand ready to re-engage if the approach is revisited.” Textron Aviation Defense, the only known major competitor to SNC, confirmed the firm submitted",
+          "published": null
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac",
+      "written_count": 2
     },
     "c7375899a1c": {
       "id": "c7375899a1c",
@@ -5076,10 +5088,73 @@
       ],
       "story_id": "2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6",
       "written_count": 1
+    },
+    "c92163e0b47": {
+      "id": "c92163e0b47",
+      "label": "Saisie jet privé chinois G550 Iran",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-05T10:10:54Z",
+      "updated": "2026-11-05T10:10:54Z",
+      "items": [
+        {
+          "id": "7940d12f7868fb4b",
+          "feed": "Aero-News Network",
+          "title": "FBI Seizes Chinese Private Jet Over Iran Sanctions Violations",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=8A3BD211-0985-4E65-9604-212439AFD2D5",
+          "domain": "aero-news.net",
+          "summary": "DOJ Seeking Permanent Ownership Of 2012 Gulfstream G550 Federal investigators seized a Chinese-registered private jet after discovering the aircraft allegedly made an unauthorized six-day trip to Iran, violating strict U.S. sanctions and export regulations. According to court documents, the Department of Justice filed a federal forfeiture complaint on October 28 seeking permanent ownership of a 2012 Gulfstream G550 aircraft registered to Deer Jet (Beijing) Co., Ltd., after the FBI seized the plane in Anchorage, Alaska. The nine-page complaint alleges the American-manufactured aircraft departed Beijing, China, on December 13, 2024, and traveled to Tehran, Iran, where it remained until Decembe",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c0fa0245d95": {
+      "id": "c0fa0245d95",
+      "label": "Livraison premier FA-50M Malaisie",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-05T10:10:54Z",
+      "updated": "2026-11-05T10:10:54Z",
+      "items": [
+        {
+          "id": "db10a60959bdc7a4",
+          "feed": "Aero-News Network",
+          "title": "Malaysia Receives First FA-50M Light Combat Aircraft From South Korea",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=C8E16E91-8A10-4B32-8C06-E8DCFD2C6B8D",
+          "domain": "aero-news.net",
+          "summary": "18 FA-50M Aircraft Procured Under Malaysia's Fighter Lead-In Training And Light Combat Aircraft Program Defense Minister Datuk Seri Mohamed Khaled Nordin on Friday received the first FA-50M light combat aircraft acquired by the Royal Malaysian Air Force (RMAF), marking an important milestone in the country's efforts to strengthen its air defense capabilities. The aircraft, developed by Korea Aerospace Industries (KAI), arrived on Friday at the Labuan RMAF base, after being flown from Sacheon, Republic of Korea. “The official handover ceremony is scheduled to take place in mid-November at RMAF Kuantan Air Base,” he told reporters at the Labuan RMAF base.",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c19640f4654": {
+      "id": "c19640f4654",
+      "label": "Joby vols de démonstration en Floride",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T10:10:54Z",
+      "updated": "2026-11-05T10:10:54Z",
+      "items": [
+        {
+          "id": "9e038dc148ec2058",
+          "feed": "Aero-News Network",
+          "title": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=F449A919-F404-4F42-BE5F-2304E6FC9E58",
+          "domain": "aero-news.net",
+          "summary": "Flight From St. Petersburg To Tampa International Airport Joby Aviation has launched a week of piloted electric air taxi flights across Florida, taking its aircraft from Tampa to Orlando and on to the Space Coast. The aircraft will fly at Orlando International Airport and Kennedy Space Center, helping map the first phase of Florida’s planned Aerial Highway Network. These are Florida’s first flights under the White House-backed eIPP program, announced by the U.S. Department of Transportation in March 2026. The program brings government and industry together to accelerate the safe introduction of electric air taxis into U.S. airspace. Florida is where commercial aviation began more than a cent",
+          "published": null
+        }
+      ],
+      "story_id": "2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.908965
+    "2026-11": 1.950486
   }
 }

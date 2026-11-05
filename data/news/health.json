@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T10:01:01Z",
+  "run": "2026-11-05T10:10:36Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 15,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.909,
+  "spend_month_usd": 1.9505,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -130,6 +130,12 @@
       "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
+      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
@@ -146,12 +152,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
-    },
-    {
-      "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
     },
     {
       "dossier": "Air India nouveaux gros-porteurs nouveau CEO",
@@ -392,6 +392,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
+    },
+    {
+      "dossier": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac"
     },
     {
       "dossier": "NASA annonce avion expérimental X-70 Fractal",
@@ -742,10 +748,10 @@
       "breve": "2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6"
     },
     {
-      "dossier": "Lockheed contrat missile hypersonique AGM-183A 694 M$",
-      "statut": "signale",
+      "dossier": "Joby vols de démonstration en Floride",
+      "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654"
     },
     {
       "dossier": "Saab IA agents Gripen E essais en vol",
@@ -826,12 +832,6 @@
       "breve": null
     },
     {
-      "dossier": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Pakistan essai missile air-air Fa'az",
       "statut": "signale",
       "editeurs": 1,
@@ -845,6 +845,18 @@
     },
     {
       "dossier": "Malaysia report SAF 2030",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Saisie jet privé chinois G550 Iran",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Livraison premier FA-50M Malaisie",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

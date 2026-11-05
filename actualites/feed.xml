@@ -6,7 +6,23 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 10:01:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 10:11:13 +0000</lastBuildDate>
+  <item>
+    <title>Joby Aviation lance une semaine de vols de taxi aérien électrique en Floride, de Tampa à Kennedy Space Center</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654/</guid>
+    <pubDate>Thu, 05 Nov 2026 10:11:13 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon Aero-News Network, Joby Aviation a lancé une semaine de vols pilotés de son taxi aérien électrique en Floride, avec des étapes à Tampa, Orlando et sur la Space Coast.</description>
+  </item>
+  <item>
+    <title>Entraîneur à réaction de l&#x27;US Navy : SNC renonce, le M-346N reste seul candidat connu</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac/</guid>
+    <pubDate>Thu, 05 Nov 2026 10:11:10 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon Aero-News Network, qui cite Breaking Defense, Sierra Nevada Corporation (SNC) ne concourt plus pour le futur avion d&#x27;entraînement à réaction de l&#x27;US Navy. Le M-346N de Textron Aviation Defense devient ainsi le seul concurrent identifié.</description>
+  </item>
   <item>
     <title>Eve Air Mobility signe un accord ferme avec FlyBIS Aviation pour jusqu&#x27;à 12 eVTOL</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6/</link>
@@ -230,22 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 14:21:04 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Air India souhaite étoffer une commande d&#x27;avions gros-porteurs afin de se développer à l&#x27;international. Le nombre d&#x27;appareils visés n&#x27;a pas été précisé.</description>
-  </item>
-  <item>
-    <title>Delta conteste son transfert forcé vers le terminal 4 de Londres-Heathrow</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-delta-conteste-son-transfert-force-vers-le-terminal-4-de-lon-666b/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-delta-conteste-son-transfert-force-vers-le-terminal-4-de-lon-666b/</guid>
-    <pubDate>Tue, 03 Nov 2026 14:21:01 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Selon airliners.de, Delta Air Lines s&#x27;oppose à la décision de l&#x27;aéroport de Londres-Heathrow de déplacer ses opérations vers le terminal 4. La compagnie partage actuellement un terminal avec Virgin Atlantic.</description>
-  </item>
-  <item>
-    <title>Bangkok-Suvarnabhumi : la Thaïlande prévoit un nouveau terminal et une quatrième piste</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-bangkok-suvarnabhumi-la-thailande-prevoit-un-nouveau-termina-a095/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-bangkok-suvarnabhumi-la-thailande-prevoit-un-nouveau-termina-a095/</guid>
-    <pubDate>Tue, 03 Nov 2026 14:20:57 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Selon airliners.de, la Thaïlande projette de doubler en sept ans la capacité de Bangkok-Suvarnabhumi, son plus grand aéroport, avec un nouveau terminal et une quatrième piste.</description>
   </item>
 </channel>
 </rss>
