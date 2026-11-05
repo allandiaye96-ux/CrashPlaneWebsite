@@ -1,13 +1,14 @@
 {
-  "run": "2026-11-05T12:10:34Z",
+  "run": "2026-11-05T12:20:33Z",
   "stats": {
     "fetched": 698,
-    "new": 3,
-    "written": 2,
+    "new": 1,
+    "written": 0,
     "held": 0,
-    "errors": 0
+    "errors": 1,
+    "last_error": "KeyError: 'chapo'"
   },
-  "spend_month_usd": 2.0237,
+  "spend_month_usd": 2.0617,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -100,6 +101,12 @@
   },
   "dossiers": [
     {
+      "dossier": "Avolon commande 140 Boeing 737-10",
+      "statut": "corrobore",
+      "editeurs": 7,
+      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
+    },
+    {
       "dossier": "Learjet 60 accident Palm Beach Floride",
       "statut": "corrobore",
       "editeurs": 6,
@@ -110,12 +117,6 @@
       "statut": "corrobore",
       "editeurs": 6,
       "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
-    },
-    {
-      "dossier": "Avolon commande 140 Boeing 737-10",
-      "statut": "corrobore",
-      "editeurs": 6,
-      "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
       "dossier": "Boeing autorisée vente Belarus Belavia",

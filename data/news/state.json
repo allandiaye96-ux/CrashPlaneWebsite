@@ -1551,7 +1551,8 @@
     "https://simpleflying.com/video/why-the-boeing-787-s-wings-are-under-faa-scrutiny/": "2026-11-05T12:01:02Z",
     "https://simpleflying.com/british-airways-has-axed-8-major-a380-routes-from-heathrow/": "2026-11-05T12:10:34Z",
     "https://avitrader.com/2026/11/05/lufthansa-cargo-completes-lug-acquisition/": "2026-11-05T12:10:34Z",
-    "https://www.air-journal.fr/2026-11-05-klm-se-restructure-1-000-postes-en-moins-et-un-virage-vers-les-embraer-e195-e2-5278687.html": "2026-11-05T12:10:34Z"
+    "https://www.air-journal.fr/2026-11-05-klm-se-restructure-1-000-postes-en-moins-et-un-virage-vers-les-embraer-e195-e2-5278687.html": "2026-11-05T12:10:34Z",
+    "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/": "2026-11-05T12:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4320,7 +4321,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 3,
       "created": "2026-11-04T08:31:07Z",
-      "updated": "2026-11-04T14:20:51Z",
+      "updated": "2026-11-05T12:20:52Z",
       "items": [
         {
           "id": "b1354994aece0cb6",
@@ -4375,6 +4376,15 @@
           "domain": "airliners.de",
           "summary": "Der Leasinggeber Avolon hat den Kauf von 140 Boeing 737 Max 10 fest abgeschlossen, wie der Flugzeughersteller mitteilte . Avolons Bestand an offenen Bestellungen steigt damit auf mehr als 240 Flugzeuge.",
           "published": "2026-11-04T14:09:38Z"
+        },
+        {
+          "id": "df3aef77b28c1b0b",
+          "feed": "AviTrader",
+          "title": "Avolon finalises 140 Boeing 737-10 order",
+          "url": "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/",
+          "domain": "avitrader.com",
+          "summary": "Boeing and aircraft lessor Avolon have confirmed the finalisation of the lessor’s previously announced purchase of 140 737-10 aircraft. The deal represents the largest 737 MAX order by a leasing company and takes Avolon’s backlog to more than 240 unfilled orders. Lessors have placed firm orders for more than 230 737-10s in 2026, five times […] The post Avolon finalises 140 Boeing 737-10 order appeared first on AviTrader Aviation News .",
+          "published": "2026-11-05T12:16:46Z"
         }
       ],
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
@@ -5205,6 +5215,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.023749
+    "2026-11": 2.061739
   }
 }
