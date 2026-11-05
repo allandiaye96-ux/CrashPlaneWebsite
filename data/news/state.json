@@ -1590,7 +1590,9 @@
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/sopra-steria-a-finalisee-la-reprise-de-lactivite-manufacturing-engineering-de-daher-20261105.html": "2026-11-05T17:01:05Z",
     "https://simpleflying.com/british-airways-finally-relaunches-this-major-9-hour-route-see-map-now/": "2026-11-05T17:20:34Z",
     "https://simpleflying.com/boeing-777x-folding-wingtips-cost-more-engineer-entire-new-aircraft/": "2026-11-05T17:30:51Z",
-    "https://airlinegeeks.com/2026/11/05/allegiant-says-max-7-seat-cost-loses-pace/": "2026-11-05T17:30:51Z"
+    "https://airlinegeeks.com/2026/11/05/allegiant-says-max-7-seat-cost-loses-pace/": "2026-11-05T17:30:51Z",
+    "https://simpleflying.com/5-airlines-complimentary-premium-economy-wifi/": "2026-11-05T18:01:03Z",
+    "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-05T18:01:03Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4305,7 +4307,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-04T11:31:19Z",
-      "updated": "2026-11-04T11:31:19Z",
+      "updated": "2026-11-05T18:01:17Z",
       "items": [
         {
           "id": "00be554f1de2a9e3",
@@ -4315,10 +4317,19 @@
           "domain": "theaviationist.com",
           "summary": "SNC decided to not bid for the U.S. Navy’s UJTS program, leaving the Textron/Leonardo team with the M-346N as the only competitor for the replacement of the T-45 Goshawk. A few days after the deadline for bids for the U.S. Navy’s Undergraduate Jet Training System (UJTS), Sierra Nevada Corporation (SNC) has confirmed that it is […]",
           "published": "2026-11-04T11:26:31Z"
+        },
+        {
+          "id": "ebe07e707172470c",
+          "feed": "The War Zone",
+          "title": "We Now Know Why Sierra Nevada Corp Canned Its Navy Jet Trainer Bid",
+          "url": "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid",
+          "domain": "twz.com",
+          "summary": "SNC has provided a detail explanation for why its clean-sheet Freedom Jet isn't competing to replace the Navy's T-45s. The post We Now Know Why Sierra Nevada Corp Canned Its Navy Jet Trainer Bid appeared first on TWZ .",
+          "published": "2026-11-05T17:57:32Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd",
+      "written_count": 2
     },
     "c6e1fa7b766": {
       "id": "c6e1fa7b766",
@@ -5250,6 +5261,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.288826
+    "2026-11": 2.298888
   }
 }

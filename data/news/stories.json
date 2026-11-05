@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd",
+    "created": "2026-11-05T18:01:22Z",
+    "updated": "2026-11-05T18:01:22Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "UJTS de l'US Navy : SNC renonce, Textron et son M-346N restent seuls en lice pour succéder au T-45",
+    "chapo": "Selon The Aviationist, Sierra Nevada Corporation (SNC) a confirmé qu'elle ne présenterait pas d'offre pour le programme UJTS de l'US Navy. L'équipe Textron/Leonardo, avec le M-346N, devient ainsi le seul concurrent pour remplacer le T-45 Goshawk.",
+    "paragraphes": [
+      "La confirmation de SNC est intervenue quelques jours après la date limite de dépôt des offres pour l'Undergraduate Jet Training System (UJTS), le programme d'entraînement avancé à réaction de l'US Navy. L'appareil proposé par Textron et Leonardo, le M-346N, reste donc le seul candidat à la succession du T-45 Goshawk.",
+      "SNC proposait pour sa part son Freedom Jet, un appareil conçu sur une feuille blanche. D'après The War Zone, l'entreprise a depuis fourni une explication détaillée sur les raisons pour lesquelles cet avion ne participe pas à la compétition."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "SNC Withdraws From UJTS Competition, Leaving Textron As Sole Bidder",
+        "url": "https://theaviationist.com/2026/11/04/ujts-snc-pulls-out/",
+        "date": "2026-11-04T11:26:31Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "We Now Know Why Sierra Nevada Corp Canned Its Navy Jet Trainer Bid",
+        "url": "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid",
+        "date": "2026-11-05T17:57:32Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23",
     "created": "2026-11-05T17:01:29Z",
     "updated": "2026-11-05T17:01:29Z",

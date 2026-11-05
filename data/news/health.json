@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T17:50:33Z",
+  "run": "2026-11-05T18:01:03Z",
   "stats": {
-    "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "fetched": 699,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.2888,
+  "spend_month_usd": 2.2989,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 39
+      "items": 40
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -380,6 +380,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
+    },
+    {
+      "dossier": "SNC se retire du programme UJTS de la US Navy",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd"
     },
     {
       "dossier": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
@@ -791,12 +797,6 @@
     },
     {
       "dossier": "Fokker Services maintenance C-390 RNLAF",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "SNC se retire du programme UJTS de la US Navy",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
