@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6",
+    "created": "2026-11-05T13:31:05Z",
+    "updated": "2026-11-05T13:31:05Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "KLM renonce à l'A320neo et prévoit de nouvelles réductions d'effectifs",
+    "chapo": "Selon Le Journal de l'Aviation, KLM abandonne le projet d'A320neo et réduit encore ses effectifs afin d'améliorer ses résultats.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, la compagnie néerlandaise doit prendre de nouvelles mesures pour redresser ses comptes. Son programme de redressement, baptisé « Back on track », produit des effets, mais ceux-ci restent insuffisants, d'après le média.",
+      "Le titre de l'article associe ces mesures à un renoncement à l'A320neo et à une nouvelle baisse des effectifs. Le média évoque aussi un renchérissement de certains coûts comme élément de contexte."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "KLM renonce à l’A320neo et réduit encore ses effectifs",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/klm-renonce-a-la320neo-et-reduit-encore-ses-effectifs-20261105.html",
+        "date": "2026-11-05T13:20:49Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
     "created": "2026-11-05T09:21:07Z",
     "updated": "2026-11-05T12:40:56Z",

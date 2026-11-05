@@ -1556,7 +1556,9 @@
     "https://www.aerotime.aero/articles/emirates-financial-results-fuel-profit": "2026-11-05T12:40:33Z",
     "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions": "2026-11-05T12:40:33Z",
     "https://theaviationist.com/2026/11/05/from-drones-to-bomb-hoaxes/": "2026-11-05T12:50:34Z",
-    "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html": "2026-11-05T13:10:49Z"
+    "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html": "2026-11-05T13:10:49Z",
+    "https://simpleflying.com/video/emirates-boss-names-3-us-cities-that-could-land-their-first-nonstop-flights-to-dubai/": "2026-11-05T13:30:49Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/klm-renonce-a-la320neo-et-reduit-encore-ses-effectifs-20261105.html": "2026-11-05T13:30:49Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5203,10 +5205,31 @@
       ],
       "story_id": null,
       "written_count": 2
+    },
+    "ca4dad664c6": {
+      "id": "ca4dad664c6",
+      "label": "KLM renonce A320neo et réduction effectifs",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-05T13:31:02Z",
+      "updated": "2026-11-05T13:31:02Z",
+      "items": [
+        {
+          "id": "dcfafff766c3b4da",
+          "feed": "Le Journal de l'Aviation",
+          "title": "KLM renonce à l’A320neo et réduit encore ses effectifs",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/klm-renonce-a-la320neo-et-reduit-encore-ses-effectifs-20261105.html",
+          "domain": "journal-aviation.com",
+          "summary": "KLM va devoir prendre de nouvelles mesures pour améliorer ses résultats, alors que le programme de redressement « Back on track » produit ses effets, mais pas assez. Au vu du renchérissement […] L’article KLM renonce à l’A320neo et réduit encore ses effectifs a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-05T13:20:49Z"
+        }
+      ],
+      "story_id": "2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.137013
+    "2026-11": 2.145398
   }
 }

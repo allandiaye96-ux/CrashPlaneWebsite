@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 13:20:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 13:31:05 +0000</lastBuildDate>
+  <item>
+    <title>KLM renonce à l&#x27;A320neo et prévoit de nouvelles réductions d&#x27;effectifs</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6/</guid>
+    <pubDate>Thu, 05 Nov 2026 13:31:05 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Le Journal de l&#x27;Aviation, KLM abandonne le projet d&#x27;A320neo et réduit encore ses effectifs afin d&#x27;améliorer ses résultats.</description>
+  </item>
   <item>
     <title>Dronamics prévoit une entrée au Nasdaq via une fusion avec GP-Act III Acquisition</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 06:01:25 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Air Journal, qui cite le Corriere della Sera, ITA Airways songe à desservir Lima, au Pérou, depuis Milan-Malpensa. Le projet viendrait s&#x27;ajouter à la desserte déjà prévue depuis Rome-Fiumicino.</description>
-  </item>
-  <item>
-    <title>Air India étudie de nouvelles commandes de gros-porteurs auprès de Boeing et Airbus</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf/</guid>
-    <pubDate>Tue, 03 Nov 2026 20:20:57 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, Air India envisage de passer des commandes supplémentaires d&#x27;avions gros-porteurs chez Boeing et Airbus. Son nouveau directeur général, Tewolde Gebremariam, table sur un retour à la rentabilité.</description>
   </item>
 </channel>
 </rss>
