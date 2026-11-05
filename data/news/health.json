@@ -1,10 +1,10 @@
 {
-  "run": "2026-11-05T18:20:34Z",
+  "run": "2026-11-05T18:30:51Z",
   "stats": {
     "fetched": 699,
     "new": 0,
     "written": 0,
-    "held": 1,
+    "held": 0,
     "errors": 0
   },
   "spend_month_usd": 2.3575,
