@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-05T09:20:35Z",
+  "run": "2026-11-05T09:30:49Z",
   "stats": {
     "fetched": 698,
-    "new": 9,
-    "written": 3,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -728,12 +728,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
-    },
-    {
-      "dossier": "Merz baisse de la taxe aérienne et Berlin",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Lockheed contrat missile hypersonique AGM-183A 694 M$",
