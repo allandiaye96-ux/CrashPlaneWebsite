@@ -1552,7 +1552,9 @@
     "https://simpleflying.com/british-airways-has-axed-8-major-a380-routes-from-heathrow/": "2026-11-05T12:10:34Z",
     "https://avitrader.com/2026/11/05/lufthansa-cargo-completes-lug-acquisition/": "2026-11-05T12:10:34Z",
     "https://www.air-journal.fr/2026-11-05-klm-se-restructure-1-000-postes-en-moins-et-un-virage-vers-les-embraer-e195-e2-5278687.html": "2026-11-05T12:10:34Z",
-    "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/": "2026-11-05T12:20:33Z"
+    "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/": "2026-11-05T12:20:33Z",
+    "https://www.aerotime.aero/articles/emirates-financial-results-fuel-profit": "2026-11-05T12:40:33Z",
+    "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions": "2026-11-05T12:40:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4999,7 +5001,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-05T09:20:49Z",
-      "updated": "2026-11-05T09:20:49Z",
+      "updated": "2026-11-05T12:40:48Z",
       "items": [
         {
           "id": "e0e9819cfd5266df",
@@ -5009,10 +5011,19 @@
           "domain": "airliners.de",
           "summary": "Die Emirates hat im ersten Halbjahr 66 Prozent weniger Nettogewinn erzielt. Luftraumsperrungen im Zuge des Kriegs mit dem Iran ließen die Passagierzahl um 22 Prozent sinken, die Kerosinkosten stiegen vor Absicherung um 60 Prozent.",
           "published": "2026-11-05T09:08:57Z"
+        },
+        {
+          "id": "b9071447b93466e2",
+          "feed": "AeroTime",
+          "title": "Emirates stays profitable despite 68% drop amid high fuel prices",
+          "url": "https://www.aerotime.aero/articles/emirates-financial-results-fuel-profit",
+          "domain": "aerotime.aero",
+          "summary": "Emirates posted a $1 billion profit in its latest financial results despite a 68% drop amid high fuel… The post Emirates stays profitable despite 68% drop amid high fuel prices appeared first on AeroTime .",
+          "published": "2026-11-05T12:06:14Z"
         }
       ],
       "story_id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
-      "written_count": 1
+      "written_count": 2
     },
     "c04a5f2da88": {
       "id": "c04a5f2da88",
@@ -5160,10 +5171,31 @@
       ],
       "story_id": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d",
       "written_count": 1
+    },
+    "c73fa996211": {
+      "id": "c73fa996211",
+      "label": "Menaces à la bombe vols Europe 5 novembre 2026",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-05T12:40:48Z",
+      "updated": "2026-11-05T12:40:48Z",
+      "items": [
+        {
+          "id": "f912a39ee0e16091",
+          "feed": "AeroTime",
+          "title": "Bomb threats hit at least 16 flights across Europe, trigger fighter escorts",
+          "url": "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions",
+          "domain": "aerotime.aero",
+          "summary": "At least 16 passenger flights were targeted by bomb threats across Europe on November 5, 2026, prompting fighter… The post Bomb threats hit at least 16 flights across Europe, trigger fighter escorts appeared first on AeroTime .",
+          "published": "2026-11-05T12:02:11Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.098185
+    "2026-11": 2.113007
   }
 }

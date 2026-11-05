@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
+    "created": "2026-11-05T09:21:07Z",
+    "updated": "2026-11-05T12:40:56Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Emirates : le bénéfice net chute au premier semestre, entre fermetures d'espaces aériens et carburant cher",
+    "chapo": "Emirates reste bénéficiaire au premier semestre, mais son résultat recule fortement, selon airliners.de et AeroTime. Les deux médias avancent toutefois des taux de baisse différents : 66 % et 68 %.",
+    "paragraphes": [
+      "Selon airliners.de, le bénéfice net de la compagnie de Dubaï a reculé de 66 % sur le semestre. AeroTime évoque pour sa part une baisse de 68 % et un bénéfice de 1 milliard de dollars, la compagnie demeurant rentable malgré la chute.",
+      "D'après airliners.de, les fermetures d'espaces aériens liées à la guerre avec l'Iran ont fait reculer le nombre de passagers de 22 %. Le même média indique que les coûts de kérosène ont augmenté de 60 % avant couverture. AeroTime met lui aussi en avant le niveau élevé des prix du carburant."
+    ],
+    "contradictions": "Le recul du bénéfice est donné à 66 % par airliners.de (bénéfice net, premier semestre) et à 68 % par AeroTime.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Emirates-Nettogewinn bricht im ersten Halbjahr um 66 Prozent ein",
+        "url": "https://www.airliners.de/emirates-nettogewinn-bricht-halbjahr-66-prozent-ein/91335",
+        "date": "2026-11-05T09:08:57Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Emirates stays profitable despite 68% drop amid high fuel prices",
+        "url": "https://www.aerotime.aero/articles/emirates-financial-results-fuel-profit",
+        "date": "2026-11-05T12:06:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
     "created": "2026-11-04T08:31:13Z",
     "updated": "2026-11-05T12:31:20Z",
@@ -541,38 +580,6 @@
         "title": "Erneut Bombendrohung gegen Linienflug",
         "url": "https://www.aero.de/news-54098/Erneut-Bombendrohung-gegen-Linienflug.html",
         "date": "2026-11-05T09:31:07Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
-    "created": "2026-11-05T09:21:07Z",
-    "updated": "2026-11-05T09:21:07Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Emirates : le bénéfice net du premier semestre chute de 66 %, entre fermetures d'espaces aériens et kérosène plus cher",
-    "chapo": "Selon airliners.de, Emirates a enregistré au premier semestre un bénéfice net en baisse de 66 %. Le média allemand lie ce recul aux fermetures d'espaces aériens dans le contexte de la guerre avec l'Iran.",
-    "paragraphes": [
-      "D'après airliners.de, ces fermetures d'espace aérien ont entraîné une baisse de 22 % du nombre de passagers de la compagnie sur la période.",
-      "Le média indique par ailleurs que les coûts de kérosène ont augmenté de 60 % avant couverture."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Emirates-Nettogewinn bricht im ersten Halbjahr um 66 Prozent ein",
-        "url": "https://www.airliners.de/emirates-nettogewinn-bricht-halbjahr-66-prozent-ein/91335",
-        "date": "2026-11-05T09:08:57Z",
         "official": false
       }
     ]
