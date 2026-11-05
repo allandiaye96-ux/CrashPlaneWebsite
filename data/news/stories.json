@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a",
+    "created": "2026-11-05T08:31:12Z",
+    "updated": "2026-11-05T08:31:12Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Vaeridion : plus de 120 millions d'euros de l'UE et d'investisseurs pour son avion électrique",
+    "chapo": "Selon aero.de, la start-up munichoise Vaeridion bénéficie de financements de l'Union européenne et d'investisseurs dépassant 120 millions d'euros pour développer un avion électrique.",
+    "paragraphes": [
+      "Vaeridion est une jeune entreprise de Munich, créée il y a cinq ans. Le montant de plus de 120 millions d'euros réunit des fonds de l'UE et des apports d'investisseurs, et il est destiné au développement de son appareil à propulsion électrique.",
+      "Dans le cadre de son dernier tour de table, la société a levé 30 millions d'euros auprès de fonds de capital-risque, comme elle l'a indiqué dans son communiqué."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion",
+        "url": "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html",
+        "date": "2026-11-05T08:26:42Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
     "created": "2026-11-04T11:50:56Z",
     "updated": "2026-11-05T07:01:19Z",

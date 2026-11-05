@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 08:21:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 08:31:12 +0000</lastBuildDate>
+  <item>
+    <title>Vaeridion : plus de 120 millions d&#x27;euros de l&#x27;UE et d&#x27;investisseurs pour son avion électrique</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a/</guid>
+    <pubDate>Thu, 05 Nov 2026 08:31:12 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon aero.de, la start-up munichoise Vaeridion bénéficie de financements de l&#x27;Union européenne et d&#x27;investisseurs dépassant 120 millions d&#x27;euros pour développer un avion électrique.</description>
+  </item>
   <item>
     <title>Lufthansa : moins de passagers au troisième trimestre 2026, mais un chiffre d&#x27;affaires record</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 08:40:59 +0000</pubDate>
     <category>Accident</category>
     <description>Deux hélicoptères sont entrés en collision lors d&#x27;un atterrissage à Pheriche, près du mont Everest, selon AeroTime. Un passager a perdu la vie et plusieurs personnes ont été blessées.</description>
-  </item>
-  <item>
-    <title>Airbus : Washington demande des précisions sur un prêt de 3 milliards d&#x27;euros de la BEI</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d/</guid>
-    <pubDate>Tue, 03 Nov 2026 07:01:28 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon Air Journal, les États-Unis réclament des explications sur un financement de 3 milliards d&#x27;euros accordé à Airbus par la Banque européenne d&#x27;investissement, au risque de fragiliser la trêve commerciale avec Bruxelles.</description>
   </item>
 </channel>
 </rss>

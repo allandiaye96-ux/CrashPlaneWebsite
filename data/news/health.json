@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T08:20:34Z",
+  "run": "2026-11-05T08:30:50Z",
   "stats": {
     "fetched": 698,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.7833,
+  "spend_month_usd": 1.7954,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -388,12 +388,6 @@
       "breve": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7"
     },
     {
-      "dossier": "Alaska Airlines Anchorage Tokyo 737 MAX",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-29-alaska-airlines-prevoit-une-liaison-anchoragetokyo-narita-en-4392"
-    },
-    {
       "dossier": "Wizz Air Luton départs volontaires pilotes",
       "statut": "source_unique",
       "editeurs": 1,
@@ -716,6 +710,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083"
+    },
+    {
+      "dossier": "Vaeridion financement avion électrique UE",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
     },
     {
       "dossier": "Étude chinoise aubes GEnx Boeing 787",

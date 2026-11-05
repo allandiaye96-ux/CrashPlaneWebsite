@@ -1503,7 +1503,8 @@
     "https://simpleflying.com/same-tsa-scanner-laptops-stay-in-bag-quietly-ruining-other-gear/": "2026-11-05T07:40:32Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-and-blue-angels-air-will-deliver-ab-initio-pilot-training-for-the-indian-market": "2026-11-05T07:40:32Z",
     "https://www.air-journal.fr/2026-11-05-boeing-777-9-des-vents-dislande-aux-hauts-plateaux-boliviens-la-certification-a-lepreuve-5278680.html": "2026-11-05T08:01:03Z",
-    "https://www.airliners.de/a99-vollsperrung-anfahrt-flughafen-muenchen-dauert-laenger/91296": "2026-11-05T08:20:34Z"
+    "https://www.airliners.de/a99-vollsperrung-anfahrt-flughafen-muenchen-dauert-laenger/91296": "2026-11-05T08:20:34Z",
+    "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html": "2026-11-05T08:30:50Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1604,27 +1605,6 @@
       ],
       "story_id": "2026-10-29-flydubai-le-commandant-de-bord-blesse-lors-d-une-attaque-dan-79df",
       "written_count": 2
-    },
-    "c6b65ae4392": {
-      "id": "c6b65ae4392",
-      "label": "Alaska Airlines Anchorage Tokyo 737 MAX",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-29T08:28:52Z",
-      "updated": "2026-10-29T08:28:52Z",
-      "items": [
-        {
-          "id": "30ea7fe3a71a8cb2",
-          "feed": "Air Journal",
-          "title": "Alaska Airlines ose le Boeing 737 MAX entre Anchorage et Tokyo",
-          "url": "https://www.air-journal.fr/2026-10-29-alaska-airlines-ose-le-boeing-737-max-entre-anchorage-et-tokyo-5278551.html",
-          "domain": "air-journal.fr",
-          "summary": "Alaska Airlines prévoit d’ouvrir le 13 mai 2027 une liaison sans escale entre Anchorage et Tokyo-Narita, sous réserve des autorisations gouvernementales. Particularité de cette traversée d’environ huit heures : elle sera assurée en Boeing 737 MAX 8. Quotidienne pendant l’été, la desserte doit reprendre à raison de trois vols hebdomadaires en janvier 2028, après une […]",
-          "published": "2026-10-29T08:00:16Z"
-        }
-      ],
-      "story_id": "2026-10-29-alaska-airlines-prevoit-une-liaison-anchoragetokyo-narita-en-4392",
-      "written_count": 1
     },
     "cbb25062e17": {
       "id": "cbb25062e17",
@@ -4940,10 +4920,31 @@
       ],
       "story_id": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083",
       "written_count": 1
+    },
+    "c1cf5019c1a": {
+      "id": "c1cf5019c1a",
+      "label": "Vaeridion financement avion électrique UE",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T08:31:06Z",
+      "updated": "2026-11-05T08:31:06Z",
+      "items": [
+        {
+          "id": "f78fa4fb5e6cf5c2",
+          "feed": "aero.de",
+          "title": "EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion",
+          "url": "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html",
+          "domain": "aero.de",
+          "summary": "MÜNCHEN - Die EU und Investoren geben über 120 Millionen Euro für die Entwicklung eines Elektroflugzeugs an das fünf Jahre alte Münchner Start-Up Vaeridion. Bei der jüngsten Finanzierungsrunde hat das Unternehmen 30 Millionen Euro von Risikokapitalgebern eingeworben, wie Vaeridion mitteilte.",
+          "published": "2026-11-05T08:26:42Z"
+        }
+      ],
+      "story_id": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.783323
+    "2026-11": 1.795412
   }
 }
