@@ -1,14 +1,13 @@
 {
-  "run": "2026-11-05T12:20:33Z",
+  "run": "2026-11-05T12:30:48Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
-    "written": 0,
+    "new": 0,
+    "written": 1,
     "held": 0,
-    "errors": 1,
-    "last_error": "KeyError: 'chapo'"
+    "errors": 0
   },
-  "spend_month_usd": 2.0617,
+  "spend_month_usd": 2.0982,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -263,12 +262,6 @@
       "breve": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9"
     },
     {
-      "dossier": "Canada premiers F-35 reçus",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f"
-    },
-    {
       "dossier": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
       "statut": "corrobore",
       "editeurs": 2,
@@ -411,12 +404,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
-    },
-    {
-      "dossier": "Wizz Air Luton départs volontaires pilotes",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771"
     },
     {
       "dossier": "Honeywell usine Arizona 500 M$",

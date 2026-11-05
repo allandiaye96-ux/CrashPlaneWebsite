@@ -1594,36 +1594,6 @@
       "story_id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
       "written_count": 3
     },
-    "c54c6f4058f": {
-      "id": "c54c6f4058f",
-      "label": "Canada premiers F-35 reçus",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-10-29T12:23:16Z",
-      "items": [
-        {
-          "id": "31f63c4f0e1e802b",
-          "feed": "AeroTime",
-          "title": "Canada receives first two F-35s as full purchase remains under review",
-          "url": "https://www.aerotime.aero/articles/canada-first-two-f35-fighters-delivery",
-          "domain": "aerotime.aero",
-          "summary": "Canada has received its first two Lockheed Martin F-35A fighters, beginning the replacement of its aging CF-18 fleet… The post Canada receives first two F-35s as full purchase remains under review appeared first on AeroTime .",
-          "published": "2026-10-26T23:44:19Z"
-        },
-        {
-          "id": "a5aebf42e40c1750",
-          "feed": "Aero-News Network",
-          "title": "Canada Receives First F-35 Fighters",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=2D5B4318-955E-4E85-B5DA-C56B6661A9E5",
-          "domain": "aero-news.net",
-          "summary": "The Full 88-Aircraft Order Remains Under Review The Royal Canadian Air Force (RCAF) has received its first two Lockheed Martin CF-35A Lightning II fighters, formally introducing the type into the Canadian fleet while the government continues to review whether it will proceed with the full 88-aircraft acquisition. The two fighters were accepted on October 22 at Luke Air Force Base in Arizona, the RCAF said. They will remain in the United States to support the initial training of Canadian pilots and maintainers rather than immediately moving to Canada. Canada plans to base its first eight CF-35As at Luke during the initial training phase. The first aircraft are expected to arrive in Canada in ",
-          "published": null
-        }
-      ],
-      "story_id": "2026-10-29-le-canada-recoit-ses-deux-premiers-f-35-l-achat-complet-touj-058f",
-      "written_count": 2
-    },
     "c22cc8c79df": {
       "id": "c22cc8c79df",
       "label": "Attaque pilote flydubai Tel Aviv, honneur Dubaï",
@@ -1701,27 +1671,6 @@
       ],
       "story_id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
       "written_count": 4
-    },
-    "c28fb2a0771": {
-      "id": "c28fb2a0771",
-      "label": "Wizz Air Luton départs volontaires pilotes",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-29T12:23:16Z",
-      "updated": "2026-10-29T12:23:16Z",
-      "items": [
-        {
-          "id": "834c354ac996ac00",
-          "feed": "Air Journal",
-          "title": "Kérosène hors de prix : Wizz Air propose à ses copilotes de Luton de partir",
-          "url": "https://www.air-journal.fr/2026-10-29-kerosene-hors-de-prix-wizz-air-propose-a-ses-copilotes-de-luton-de-partir-5278560.html",
-          "domain": "air-journal.fr",
-          "summary": "La compagnie hongroise low cost Wizz Air propose des départs volontaires à ses copilotes de Londres-Luton, alors que la flambée du kérosène la conduit à revoir son programme hivernal. D’autres bases afficheraient des pertes, sans qu’un plan comparable y ait été annoncé. Wizz Air conserve néanmoins une importante réserve de liquidités et une couverture financière […]",
-          "published": "2026-10-29T11:00:04Z"
-        }
-      ],
-      "story_id": "2026-10-29-wizz-air-propose-des-departs-volontaires-a-ses-copilotes-de-0771",
-      "written_count": 1
     },
     "c7c871ef4f2": {
       "id": "c7c871ef4f2",
@@ -4388,7 +4337,7 @@
         }
       ],
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-      "written_count": 6
+      "written_count": 7
     },
     "cd945f08fd6": {
       "id": "cd945f08fd6",
@@ -5215,6 +5164,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.061739
+    "2026-11": 2.098185
   }
 }
