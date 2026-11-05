@@ -1611,7 +1611,9 @@
     "https://simpleflying.com/boeing-renton-factory-stagger-737-max-10-smaller-jets-everett-run-nose-tail/": "2026-11-05T21:10:37Z",
     "https://simpleflying.com/classic-airliners-with-three-person-cockpits/": "2026-11-05T21:10:37Z",
     "https://theaviationist.com/2026/11/05/f-35b-releases-meteor-bvraam-for-the-first-time/": "2026-11-05T21:10:37Z",
-    "https://theaircurrent.com/aircraft-development/beta-joby-bullish-commercial-operations-under-eipp/": "2026-11-05T21:10:37Z"
+    "https://theaircurrent.com/aircraft-development/beta-joby-bullish-commercial-operations-under-eipp/": "2026-11-05T21:10:37Z",
+    "https://simpleflying.com/5-airlines-flying-airbus-a321xlr-lie-flat-business-class-seats/": "2026-11-05T22:01:03Z",
+    "https://www.aerotime.aero/articles/faa-1000-rocket-launches-2030": "2026-11-05T22:01:03Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5291,10 +5293,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cb49fec890f": {
+      "id": "cb49fec890f",
+      "label": "FAA simplification licences spatiales",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-05T22:01:20Z",
+      "updated": "2026-11-05T22:01:20Z",
+      "items": [
+        {
+          "id": "738068b631fcffa2",
+          "feed": "AeroTime",
+          "title": "FAA moves to streamline space licensing as it preps for 1,000 launches a year",
+          "url": "https://www.aerotime.aero/articles/faa-1000-rocket-launches-2030",
+          "domain": "aerotime.aero",
+          "summary": "The US Federal Aviation Administration (FAA) has proposed changes to its commercial space licensing rules as it prepares… The post FAA moves to streamline space licensing as it preps for 1,000 launches a year appeared first on AeroTime .",
+          "published": "2026-11-05T21:03:04Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.405727
+    "2026-11": 2.406545
   }
 }
