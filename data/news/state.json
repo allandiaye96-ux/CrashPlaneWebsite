@@ -3730,27 +3730,6 @@
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
       "written_count": 3
     },
-    "cf68eafa3aa": {
-      "id": "cf68eafa3aa",
-      "label": "Saab IA agents Gripen E essais en vol",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-03T11:10:51Z",
-      "updated": "2026-11-03T11:10:51Z",
-      "items": [
-        {
-          "id": "10e24c4d89383188",
-          "feed": "AeroTime",
-          "title": "Saab AI agent controls Gripen E autonomously in BVR combat scenarios",
-          "url": "https://www.aerotime.aero/articles/saab-in-house-ai-gripen-e-flight-tests",
-          "domain": "aerotime.aero",
-          "summary": "Saab has flight-tested artificial intelligence (AI) agents developed entirely in-house on a Gripen E fighter, with one agent… The post Saab AI agent controls Gripen E autonomously in BVR combat scenarios appeared first on AeroTime .",
-          "published": "2026-11-03T10:48:25Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c0438db2c86": {
       "id": "c0438db2c86",
       "label": "Lufthansa Group résultats T3 bénéfices efficacité",

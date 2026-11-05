@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-05T11:10:32Z",
+  "run": "2026-11-05T11:20:33Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -758,12 +758,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d"
-    },
-    {
-      "dossier": "Saab IA agents Gripen E essais en vol",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Suède reçoit missiles Taurus pour Gripen",
