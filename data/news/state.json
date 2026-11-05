@@ -1583,7 +1583,8 @@
     "https://www.airliners.de/flughafen-muenster-osnabrueck-staerkster-monat-seit-18-jahren/91350": "2026-11-05T16:20:35Z",
     "https://www.journal-aviation.com/actualites-mro-support/maintenance-cellule/hop-investit-4-millions-deuros-pour-la-maintenance-des-airbus-a220-dair-france-a-clermont-ferrand-20261105.html": "2026-11-05T16:20:35Z",
     "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/": "2026-11-05T16:30:53Z",
-    "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-05T16:30:53Z"
+    "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-05T16:30:53Z",
+    "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es": "2026-11-05T16:40:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3791,27 +3792,6 @@
       "story_id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
       "written_count": 1
     },
-    "ca1b3978a5e": {
-      "id": "ca1b3978a5e",
-      "label": "Laser aéroporté Luftwaffe avions de combat",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-03T16:31:13Z",
-      "updated": "2026-11-03T16:31:13Z",
-      "items": [
-        {
-          "id": "8f00c3241a19809b",
-          "feed": "The War Zone",
-          "title": "Airborne Laser Weapon For Tactical Aircraft Being Developed By Germany",
-          "url": "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany",
-          "domain": "twz.com",
-          "summary": "The new initiative aims to eventually equip Luftwaffe combat aircraft with a laser capable of shooting down drones and missiles. The post Airborne Laser Weapon For Tactical Aircraft Being Developed By Germany appeared first on TWZ .",
-          "published": "2026-11-03T16:29:54Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ce9f17c97e0": {
       "id": "ce9f17c97e0",
       "label": "Lufthansa TAP participation contrat",
@@ -5260,10 +5240,31 @@
       ],
       "story_id": "2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c",
       "written_count": 1
+    },
+    "c205bc2a70e": {
+      "id": "c205bc2a70e",
+      "label": "Wheels Up commande 6 Embraer Phenom 300E",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T16:40:48Z",
+      "updated": "2026-11-05T16:40:48Z",
+      "items": [
+        {
+          "id": "9c4061f51cfdb282",
+          "feed": "AeroTime",
+          "title": "Delta Air Lines partner Wheels Up orders six new Embraer Phenom 300Es",
+          "url": "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es",
+          "domain": "aerotime.aero",
+          "summary": "Delta Air Lines’ private jet partner Wheels Up has ordered six new Embraer Phenom 300E aircraft with deliveries… The post Delta Air Lines partner Wheels Up orders six new Embraer Phenom 300Es appeared first on AeroTime .",
+          "published": "2026-11-05T15:41:29Z"
+        }
+      ],
+      "story_id": "2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.254804
+    "2026-11": 2.263
   }
 }

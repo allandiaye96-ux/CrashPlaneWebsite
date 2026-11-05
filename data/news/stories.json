@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e",
+    "created": "2026-11-05T16:40:52Z",
+    "updated": "2026-11-05T16:40:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Wheels Up, partenaire de Delta Air Lines, commande six Embraer Phenom 300E neufs",
+    "chapo": "Selon AeroTime, Wheels Up, partenaire de Delta Air Lines dans l'aviation d'affaires, a passé commande de six Embraer Phenom 300E neufs.",
+    "paragraphes": [
+      "D'après AeroTime, la commande porte sur six appareils Phenom 300E, un jet léger du constructeur brésilien Embraer. Wheels Up est présentée comme le partenaire de Delta Air Lines pour les jets privés.",
+      "Des livraisons sont prévues dans le cadre de ce contrat, dont le calendrier n'est pas détaillé dans les éléments disponibles."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Delta Air Lines partner Wheels Up orders six new Embraer Phenom 300Es",
+        "url": "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es",
+        "date": "2026-11-05T15:41:29Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c",
     "created": "2026-11-05T16:20:58Z",
     "updated": "2026-11-05T16:20:58Z",
