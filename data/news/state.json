@@ -1490,7 +1490,8 @@
     "https://www.airliners.de/schwedische-flughaefen-wachsen-international-inlandsverkehr-schrumpft/91327": "2026-11-05T03:20:33Z",
     "https://simpleflying.com/how-emirates-safeguards-its-longest-airbus-a380-route-little-known-fallback/": "2026-11-05T04:20:32Z",
     "https://www.aero.de/news-54088/Wie-kurzfristige-Buchungen-Lufthansa-helfen.html": "2026-11-05T05:20:33Z",
-    "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318": "2026-11-05T05:20:33Z"
+    "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318": "2026-11-05T05:20:33Z",
+    "https://www.aero.de/news-54094/NASA-Satellitenrettung-gescheitert.html": "2026-11-05T05:40:41Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4922,6 +4923,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.766049
+    "2026-11": 1.766839
   }
 }
