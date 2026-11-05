@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T14:20:34Z",
+  "run": "2026-11-05T14:30:57Z",
   "stats": {
     "fetched": 698,
-    "new": 2,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.158,
+  "spend_month_usd": 2.1836,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -254,6 +254,12 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92"
+    },
+    {
+      "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211"
     },
     {
       "dossier": "JetBlue créanciers conseillers restructuration",
@@ -758,12 +764,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d"
-    },
-    {
-      "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
     },
     {
       "dossier": "Suède reçoit missiles Taurus pour Gripen",

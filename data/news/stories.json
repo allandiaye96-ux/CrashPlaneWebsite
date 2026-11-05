@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
+    "created": "2026-11-05T14:31:25Z",
+    "updated": "2026-11-05T14:31:25Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Alertes à la bombe en Europe : au moins 16 vols visés le 5 novembre 2026, avec escortes de chasseurs",
+    "chapo": "Selon AeroTime, au moins 16 vols de passagers ont fait l'objet de menaces à la bombe en Europe le 5 novembre 2026, ce qui a entraîné des escortes d'avions de chasse. Air Journal indique que tous les appareils concernés au milieu de la journée s'étaient posés sans encombre.",
+    "paragraphes": [
+      "D'après Air Journal, c'est la troisième journée de la semaine marquée par des menaces de ce type sur des liaisons européennes. Le média en dénombrait au moins douze à la mi-journée, alors qu'AeroTime en comptabilise au moins 16 : les deux décomptes diffèrent, sans doute parce qu'ils ont été établis à des moments différents.",
+      "En France, un Airbus A320 d'Aer Lingus qui assurait la liaison Dublin–Rome a été envoyé vers la base aérienne d'Évreux, sous escorte, d'après Air Journal. Selon aero.de, toutes les menaces se sont jusqu'ici révélées être de fausses alertes. Le média allemand souligne que le phénomène n'est pas nouveau et s'interroge sur l'identité des auteurs de cette série de menaces."
+    ],
+    "contradictions": "Le nombre de vols concernés diffère : au moins 16 selon AeroTime, au moins douze à la mi-journée selon Air Journal (décomptes probablement établis à des heures différentes).",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Bomb threats hit at least 16 flights across Europe, trigger fighter escorts",
+        "url": "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions",
+        "date": "2026-11-05T12:02:11Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Un A320 d’Aer Lingus dérouté sous escorte à Évreux, sur fond d’alertes à la bombe en Europe",
+        "url": "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html",
+        "date": "2026-11-05T13:00:35Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Mysteriöse Bombendrohungen stören Flugverkehr in Europa",
+        "url": "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html",
+        "date": "2026-11-05T14:25:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d",
     "created": "2026-11-05T14:01:29Z",
     "updated": "2026-11-05T14:01:29Z",

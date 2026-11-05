@@ -1563,7 +1563,8 @@
     "https://www.air-journal.fr/2026-11-05-easyjet-ouvre-lyon-louxor-et-revient-sur-lyon-nice-5278685.html": "2026-11-05T14:01:12Z",
     "https://simpleflying.com/ryanair-unveils-9-new-international-routes/": "2026-11-05T14:10:34Z",
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-provides-complete-easy-access-rules-publication-history-xml": "2026-11-05T14:20:34Z",
-    "https://www.aero.de/news-54101/Streit-um-Kosten-fuer-Luftsicherheit.html": "2026-11-05T14:20:34Z"
+    "https://www.aero.de/news-54101/Streit-um-Kosten-fuer-Luftsicherheit.html": "2026-11-05T14:20:34Z",
+    "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html": "2026-11-05T14:30:57Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5187,7 +5188,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-05T13:11:06Z",
+      "updated": "2026-11-05T14:31:13Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -5206,10 +5207,19 @@
           "domain": "air-journal.fr",
           "summary": "Pour la troisième journée cette semaine, des menaces à la bombe ont perturbé plusieurs liaisons européennes, jeudi 5 novembre. Au moins douze vols étaient concernés à la mi-journée, tous ayant atterri en sécurité. En France, un Airbus A320 d’Aer Lingus reliant Dublin à Rome a été dérouté vers la base aérienne d’Évreux. Ailleurs, plusieurs appareils […]",
           "published": "2026-11-05T13:00:35Z"
+        },
+        {
+          "id": "5ed23b72e801d363",
+          "feed": "aero.de",
+          "title": "Mysteriöse Bombendrohungen stören Flugverkehr in Europa",
+          "url": "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html",
+          "domain": "aero.de",
+          "summary": "LONDON - Eine rätselhafte Häufung von Bombendrohungen gegen Passagiermaschinen in Europa macht Fluggesellschaften und Airports zu schaffen. Bisher entpuppen sich alle Drohungen als Fehlalarm. Neu ist das Phänomen nicht. Was - und vor allem wer - steckt hinter der Drohserie?",
+          "published": "2026-11-05T14:25:16Z"
         }
       ],
-      "story_id": null,
-      "written_count": 2
+      "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
+      "written_count": 3
     },
     "ca4dad664c6": {
       "id": "ca4dad664c6",
@@ -5256,6 +5266,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.15804
+    "2026-11": 2.183603
   }
 }
