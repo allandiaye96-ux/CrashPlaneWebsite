@@ -1592,7 +1592,8 @@
     "https://simpleflying.com/boeing-777x-folding-wingtips-cost-more-engineer-entire-new-aircraft/": "2026-11-05T17:30:51Z",
     "https://airlinegeeks.com/2026/11/05/allegiant-says-max-7-seat-cost-loses-pace/": "2026-11-05T17:30:51Z",
     "https://simpleflying.com/5-airlines-complimentary-premium-economy-wifi/": "2026-11-05T18:01:03Z",
-    "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-05T18:01:03Z"
+    "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-05T18:01:03Z",
+    "https://airlinegeeks.com/2026/11/05/klm-plans-1000-more-job-cuts/": "2026-11-05T18:10:36Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4784,7 +4785,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-05T08:40:53Z",
-      "updated": "2026-11-05T12:10:50Z",
+      "updated": "2026-11-05T18:10:53Z",
       "items": [
         {
           "id": "60b45e9de6eed274",
@@ -4830,6 +4831,15 @@
           "domain": "air-journal.fr",
           "summary": "KLM engage une nouvelle restructuration pour renforcer sa compétitivité et financer ses investissements. Annoncé le 5 novembre 2026, le projet prévoit environ 1 000 suppressions de postes liées aux gains de productivité, des externalisations et des transferts d’activités vers Air France-KLM. Sur le réseau européen, la compagnie conservera l’Airbus A321neo mais privilégiera les Embraer E195-E2 […]",
           "published": "2026-11-05T12:00:14Z"
+        },
+        {
+          "id": "2483d2cdd43e9865",
+          "feed": "AirlineGeeks",
+          "title": "KLM Plans 1,000 More Job Cuts",
+          "url": "https://airlinegeeks.com/2026/11/05/klm-plans-1000-more-job-cuts/",
+          "domain": "airlinegeeks.com",
+          "summary": "The airline will outsource work and transfer other positions to Air France-KLM as it seeks lower costs.",
+          "published": "2026-11-05T18:01:55Z"
         }
       ],
       "story_id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
@@ -5261,6 +5271,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.298888
+    "2026-11": 2.319508
   }
 }

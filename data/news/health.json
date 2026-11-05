@@ -1,13 +1,14 @@
 {
-  "run": "2026-11-05T18:01:03Z",
+  "run": "2026-11-05T18:10:36Z",
   "stats": {
     "fetched": 699,
-    "new": 2,
-    "written": 1,
+    "new": 1,
+    "written": 0,
     "held": 0,
-    "errors": 0
+    "errors": 1,
+    "last_error": "KeyError: 'paragraphes'"
   },
-  "spend_month_usd": 2.2989,
+  "spend_month_usd": 2.3195,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -118,6 +119,12 @@
       "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
+      "dossier": "Air France-KLM recentre KLM sur Schiphol",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
@@ -140,12 +147,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
-      "dossier": "Air France-KLM recentre KLM sur Schiphol",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
