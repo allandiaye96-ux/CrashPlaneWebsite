@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T12:01:02Z",
+  "run": "2026-11-05T12:10:34Z",
   "stats": {
     "fetched": 698,
-    "new": 2,
-    "written": 0,
+    "new": 3,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.9909,
+  "spend_month_usd": 2.0237,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -142,6 +142,12 @@
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
     },
     {
+      "dossier": "Air France-KLM recentre KLM sur Schiphol",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
@@ -170,12 +176,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
-    },
-    {
-      "dossier": "Air France-KLM recentre KLM sur Schiphol",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
     },
     {
       "dossier": "Airbus résultats T3 2026 livraisons",

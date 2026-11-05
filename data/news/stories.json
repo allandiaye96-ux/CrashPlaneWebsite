@@ -2,24 +2,24 @@
   {
     "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
     "created": "2026-11-05T08:40:57Z",
-    "updated": "2026-11-05T11:51:12Z",
-    "version": 4,
+    "updated": "2026-11-05T12:11:08Z",
+    "version": 5,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Air France-KLM : bénéfice supérieur aux attentes, mais KLM supprime environ 1 000 postes et recentre son réseau",
-    "chapo": "Air France-KLM a dépassé les attentes des analystes au troisième trimestre, selon airliners.de, tout en annonçant une restructuration de KLM avec environ 1 000 suppressions de postes.",
+    "titre": "KLM annonce environ 1 000 suppressions de postes et une refonte de sa flotte et de son réseau",
+    "chapo": "Selon Air Journal, KLM a présenté le 5 novembre 2026 un plan de restructuration qui prévoit environ 1 000 suppressions de postes. Air France-KLM a par ailleurs dépassé les attentes des analystes, d'après airliners.de.",
     "paragraphes": [
-      "D'après AeroTime, le résultat d'exploitation ajusté du groupe a progressé de 126 millions d'euros (142 millions de dollars) sur un an, pour atteindre 1,35 milliard d'euros (1,52 milliard de dollars). Le groupe s'attend par ailleurs à des coûts de carburant plus élevés sur l'ensemble de l'année, précise airliners.de.",
-      "Face au niveau élevé des prix du kérosène, KLM est réorientée, rapporte aero.de : la compagnie doit se concentrer pleinement sur ses 160 liaisons directes à Schiphol et renoncer totalement à l'Airbus A320neo.",
-      "Simple Flying évoque un plan de réorganisation financière d'un milliard d'euros, qualifié de « douloureux », avec une réduction des effectifs d'environ 15 % afin d'améliorer les résultats de la compagnie néerlandaise."
+      "Le projet vise à renforcer la compétitivité de la compagnie néerlandaise et à financer ses investissements. Les suppressions de postes découlent de gains de productivité, d'externalisations et de transferts d'activités vers Air France-KLM. Simple Flying évoque une refonte financière d'un milliard d'euros, qualifiée de « douloureuse ».",
+      "Côté flotte, KLM conservera l'Airbus A321neo sur son réseau européen, mais privilégiera les Embraer E195-E2, indique Air Journal. D'après aero.de, la compagnie renonce entièrement à l'Airbus A320neo et se concentre sur ses 160 liaisons directes depuis l'aéroport d'Amsterdam-Schiphol, dans un contexte de prix élevés du kérosène.",
+      "Air France-KLM a dépassé au troisième trimestre les attentes des analystes, selon airliners.de, qui ajoute que le groupe table sur des coûts de carburant plus élevés pour l'ensemble de l'année. AeroTime fait état d'un résultat d'exploitation ajusté en hausse de 126 millions d'euros (142 millions de dollars) sur un an, à 1,35 milliard d'euros (1,52 milliard de dollars)."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 4,
+      "independent_sources": 5,
       "official_source": false
     },
     "sources": [
@@ -49,6 +49,52 @@
         "title": "Air France-KLM beats profit forecasts, but KLM plans 1,000 job cuts",
         "url": "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts",
         "date": "2026-11-05T10:38:06Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "KLM se restructure : 1 000 postes en moins et un virage vers les Embraer E195-E2",
+        "url": "https://www.air-journal.fr/2026-11-05-klm-se-restructure-1-000-postes-en-moins-et-un-virage-vers-les-embraer-e195-e2-5278687.html",
+        "date": "2026-11-05T12:00:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e",
+    "created": "2026-11-03T12:01:34Z",
+    "updated": "2026-11-05T12:10:58Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "British Airways : Simple Flying recense les liaisons 787 et A380 supprimées au départ de Heathrow",
+    "chapo": "Selon Simple Flying, British Airways a supprimé six routes opérées en Boeing 787 depuis Londres-Heathrow, ainsi que huit routes importantes assurées en Airbus A380.",
+    "paragraphes": [
+      "D'après le média spécialisé, cinq des six liaisons en Boeing 787 ont pris fin en 2026, tandis que la sixième doit s'arrêter en novembre. Le site publie une liste complète de ces routes.",
+      "Dans un second article, Simple Flying évoque huit grandes routes d'A380 abandonnées par la compagnie au départ de Heathrow. Le média souligne que les destinations desservies par ce type d'appareil ont beaucoup évolué au fil des années."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "British Airways Axes 6 Boeing 787 Routes From Heathrow: See Full List Now",
+        "url": "https://simpleflying.com/british-airways-axes-6-boeing-787-routes-from-heathrow/",
+        "date": "2026-11-03T12:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "British Airways Has Axed 8 Major A380 Routes From Heathrow: See Full List Now",
+        "url": "https://simpleflying.com/british-airways-has-axed-8-major-a380-routes-from-heathrow/",
+        "date": "2026-11-05T12:05:19Z",
         "official": false
       }
     ]
@@ -1925,37 +1971,6 @@
         "title": "Bombendrohungen treffen gleich mehrere Flüge",
         "url": "https://www.airliners.de/bombendrohungen-treffen-fluege/91272",
         "date": "2026-11-03T11:30:04Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e",
-    "created": "2026-11-03T12:01:34Z",
-    "updated": "2026-11-03T12:01:34Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "British Airways supprime six routes en Boeing 787 au départ de Londres Heathrow",
-    "chapo": "Selon Simple Flying, British Airways met fin à six routes exploitées en Boeing 787 depuis l'aéroport de Londres Heathrow.",
-    "paragraphes": [
-      "D'après le média spécialisé, cinq de ces liaisons ont déjà été arrêtées, tandis que la sixième doit cesser à une échéance ultérieure. Simple Flying présente dans son article la liste complète des routes concernées."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "British Airways Axes 6 Boeing 787 Routes From Heathrow: See Full List Now",
-        "url": "https://simpleflying.com/british-airways-axes-6-boeing-787-routes-from-heathrow/",
-        "date": "2026-11-03T12:00:18Z",
         "official": false
       }
     ]
