@@ -1,5 +1,123 @@
 [
   {
+    "id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
+    "created": "2026-11-05T09:21:07Z",
+    "updated": "2026-11-05T09:21:07Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Emirates : le bénéfice net du premier semestre chute de 66 %, entre fermetures d'espaces aériens et kérosène plus cher",
+    "chapo": "Selon airliners.de, Emirates a enregistré au premier semestre un bénéfice net en baisse de 66 %. Le média allemand lie ce recul aux fermetures d'espaces aériens dans le contexte de la guerre avec l'Iran.",
+    "paragraphes": [
+      "D'après airliners.de, ces fermetures d'espace aérien ont entraîné une baisse de 22 % du nombre de passagers de la compagnie sur la période.",
+      "Le média indique par ailleurs que les coûts de kérosène ont augmenté de 60 % avant couverture."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Emirates-Nettogewinn bricht im ersten Halbjahr um 66 Prozent ein",
+        "url": "https://www.airliners.de/emirates-nettogewinn-bricht-halbjahr-66-prozent-ein/91335",
+        "date": "2026-11-05T09:08:57Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
+    "created": "2026-11-05T08:40:57Z",
+    "updated": "2026-11-05T09:21:04Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air France-KLM recentre KLM sur Schiphol, renonce à l'A320neo et supprime des postes face au kérosène",
+    "chapo": "Face à la hausse des prix du kérosène, Air France-KLM réorganise sa filiale néerlandaise KLM, selon aero.de. Le groupe a par ailleurs dépassé les attentes des analystes au troisième trimestre, d'après airliners.de.",
+    "paragraphes": [
+      "KLM doit se concentrer pleinement sur ses 160 liaisons directes à l'aéroport d'Amsterdam-Schiphol, indique aero.de. La compagnie renonce en outre complètement à l'Airbus A320neo.",
+      "Simple Flying évoque un plan de restructuration financière d'un milliard d'euros, qualifié de « douloureux », avec une réduction d'environ 15 % des effectifs de la compagnie nationale néerlandaise afin d'améliorer ses résultats. De son côté, airliners.de fait état d'environ 1000 suppressions de postes chez KLM.",
+      "Toujours d'après airliners.de, Air France-KLM a fait mieux que prévu au troisième trimestre, mais anticipe des coûts de carburant plus élevés sur l'ensemble de l'année."
+    ],
+    "contradictions": "Simple Flying parle d'une réduction d'environ 15 % des effectifs, airliners.de d'environ 1000 postes supprimés chez KLM ; les périmètres respectifs ne sont pas précisés dans les sources.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air France-KLM kürzt bei niederländischer Tochter",
+        "url": "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html",
+        "date": "2026-11-05T08:34:47Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "KLM Forced Into 'Painful' €1B Financial Overhaul",
+        "url": "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/",
+        "date": "2026-11-05T08:53:27Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Air France-KLM übertrifft Gewinnerwartungen – streicht bei KLM 1000 Stellen",
+        "url": "https://www.airliners.de/air-france-klm-uebertrifft-gewinnerwartungen-streicht-klm-1000-stellen/91338",
+        "date": "2026-11-05T09:10:58Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a",
+    "created": "2026-11-05T08:31:12Z",
+    "updated": "2026-11-05T09:20:55Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Vaeridion : 94,5 millions d'euros de fonds européens et une levée de 30 millions pour le Microliner",
+    "chapo": "La start-up munichoise Vaeridion obtient des financements de l'UE et d'investisseurs pour son avion électrique, selon aero.de et airliners.de. Plus de 120 millions d'euros au total sont évoqués par aero.de.",
+    "paragraphes": [
+      "D'après aero.de, l'Union européenne et des investisseurs apportent plus de 120 millions d'euros à Vaeridion, entreprise de Munich vieille de cinq ans, pour le développement d'un avion électrique. Lors de son dernier tour de table, la société a levé 30 millions d'euros auprès de fonds de capital-risque, a-t-elle indiqué.",
+      "Selon airliners.de, la part européenne se monte à 94,5 millions d'euros de subventions. Cet argent doit permettre au Microliner, un appareil de neuf places, d'entrer en production en série. Un exploitant belge est déjà désigné comme client de lancement."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion",
+        "url": "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html",
+        "date": "2026-11-05T08:26:42Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Vaeridion erhält 94,5 Millionen Euro EU-Fördermittel für Microliner",
+        "url": "https://www.airliners.de/vaeridion-945-millionen-euro-eu-foerdermittel-microliner/91337",
+        "date": "2026-11-05T09:12:42Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
     "created": "2026-11-04T11:20:53Z",
     "updated": "2026-11-05T09:10:50Z",
@@ -48,77 +166,6 @@
         "title": "Qantas cède 44 Boeing 737 à AerFin et prépare la relève en Airbus A321XLR",
         "url": "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html",
         "date": "2026-11-05T09:00:37Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
-    "created": "2026-11-05T08:40:57Z",
-    "updated": "2026-11-05T09:01:28Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air France-KLM resserre KLM : recentrage sur Schiphol, fin de l'A320neo et réduction des effectifs",
-    "chapo": "Face à la hausse des prix du kérosène, Air France-KLM réorganise sa filiale néerlandaise KLM, selon aero.de et Simple Flying. Le plan prévoit un recentrage du réseau et une baisse des effectifs.",
-    "paragraphes": [
-      "D'après aero.de, la compagnie doit désormais se concentrer pleinement sur ses 160 liaisons directes à l'aéroport d'Amsterdam-Schiphol. KLM renonce par ailleurs totalement à l'Airbus A320neo.",
-      "Simple Flying décrit une refonte financière « douloureuse » d'un milliard d'euros pour le transporteur néerlandais, qui supprimerait environ 15 % de ses effectifs afin d'améliorer ses résultats."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Air France-KLM kürzt bei niederländischer Tochter",
-        "url": "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html",
-        "date": "2026-11-05T08:34:47Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "KLM Forced Into 'Painful' €1B Financial Overhaul",
-        "url": "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/",
-        "date": "2026-11-05T08:53:27Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a",
-    "created": "2026-11-05T08:31:12Z",
-    "updated": "2026-11-05T08:31:12Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Vaeridion : plus de 120 millions d'euros de l'UE et d'investisseurs pour son avion électrique",
-    "chapo": "Selon aero.de, la start-up munichoise Vaeridion bénéficie de financements de l'Union européenne et d'investisseurs dépassant 120 millions d'euros pour développer un avion électrique.",
-    "paragraphes": [
-      "Vaeridion est une jeune entreprise de Munich, créée il y a cinq ans. Le montant de plus de 120 millions d'euros réunit des fonds de l'UE et des apports d'investisseurs, et il est destiné au développement de son appareil à propulsion électrique.",
-      "Dans le cadre de son dernier tour de table, la société a levé 30 millions d'euros auprès de fonds de capital-risque, comme elle l'a indiqué dans son communiqué."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion",
-        "url": "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html",
-        "date": "2026-11-05T08:26:42Z",
         "official": false
       }
     ]

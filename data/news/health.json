@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T09:10:33Z",
+  "run": "2026-11-05T09:20:35Z",
   "stats": {
     "fetched": 698,
-    "new": 2,
-    "written": 1,
+    "new": 9,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.8289,
+  "spend_month_usd": 1.8652,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -244,6 +244,12 @@
       "breve": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92"
     },
     {
+      "dossier": "Air France-KLM recentre KLM sur Schiphol",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
+    },
+    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -388,10 +394,10 @@
       "breve": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7"
     },
     {
-      "dossier": "Air France-KLM recentre KLM sur Schiphol",
+      "dossier": "Vaeridion financement avion électrique UE",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
+      "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
     },
     {
       "dossier": "Wizz Air Luton départs volontaires pilotes",
@@ -718,10 +724,10 @@
       "breve": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083"
     },
     {
-      "dossier": "Vaeridion financement avion électrique UE",
+      "dossier": "Emirates résultats S1 2026",
       "statut": "source_unique",
       "editeurs": 1,
-      "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
+      "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
       "dossier": "Merz baisse de la taxe aérienne et Berlin",
@@ -827,6 +833,12 @@
     },
     {
       "dossier": "USAF reactivation bases WWII Pacifique",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Malaysia report SAF 2030",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

@@ -1508,7 +1508,16 @@
     "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html": "2026-11-05T08:40:33Z",
     "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/": "2026-11-05T09:01:04Z",
     "https://simpleflying.com/united-airlines-boeing-767-400er-seats-43-inches-pitch-arent-passengers/": "2026-11-05T09:10:33Z",
-    "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html": "2026-11-05T09:10:33Z"
+    "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html": "2026-11-05T09:10:33Z",
+    "https://www.airliners.de/vaeridion-945-millionen-euro-eu-foerdermittel-microliner/91337": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/air-france-klm-uebertrifft-gewinnerwartungen-streicht-klm-1000-stellen/91338": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/emirates-nettogewinn-bricht-halbjahr-66-prozent-ein/91335": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/malaysia-verschiebt-saf-beimischungspflicht-2030/91340": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/michael-schwarz-geschaeftsfuehrer-flughafen-paderbornlippstadt/91336": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/latam-aktie-legt-trotz-gesenkter-jahresprognose-prozent/91334": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/fahrwerk-dornier-328-d328-eco-tests/91320": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/herbstferien-flughafen-dortmund-passagiere/91313": "2026-11-05T09:20:35Z",
+    "https://www.airliners.de/fraport-condor-umzug-einzelne-airlines-terminal-1-ueckholen/91309": "2026-11-05T09:20:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4919,7 +4928,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-05T08:31:06Z",
-      "updated": "2026-11-05T08:31:06Z",
+      "updated": "2026-11-05T09:20:49Z",
       "items": [
         {
           "id": "f78fa4fb5e6cf5c2",
@@ -4929,10 +4938,19 @@
           "domain": "aero.de",
           "summary": "MÜNCHEN - Die EU und Investoren geben über 120 Millionen Euro für die Entwicklung eines Elektroflugzeugs an das fünf Jahre alte Münchner Start-Up Vaeridion. Bei der jüngsten Finanzierungsrunde hat das Unternehmen 30 Millionen Euro von Risikokapitalgebern eingeworben, wie Vaeridion mitteilte.",
           "published": "2026-11-05T08:26:42Z"
+        },
+        {
+          "id": "de36fa24f4c3d335",
+          "feed": "airliners.de",
+          "title": "Vaeridion erhält 94,5 Millionen Euro EU-Fördermittel für Microliner",
+          "url": "https://www.airliners.de/vaeridion-945-millionen-euro-eu-foerdermittel-microliner/91337",
+          "domain": "airliners.de",
+          "summary": "Vaeridion sichert sich 94,5 Millionen Euro an EU-Fördermitteln und zusätzlich frisches Kapital von Investoren. Mit dem Geld soll der neunsitzige Microliner in die Serie gehen. Ein Betreiber aus Belgien steht bereits als Erstkunde fest.",
+          "published": "2026-11-05T09:12:42Z"
         }
       ],
       "story_id": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a",
-      "written_count": 1
+      "written_count": 2
     },
     "cf6cf3faedc": {
       "id": "cf6cf3faedc",
@@ -4940,7 +4958,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-05T08:40:53Z",
-      "updated": "2026-11-05T09:01:19Z",
+      "updated": "2026-11-05T09:20:49Z",
       "items": [
         {
           "id": "60b45e9de6eed274",
@@ -4959,14 +4977,65 @@
           "domain": "simpleflying.com",
           "summary": "The Dutch flag carrier will cut its staff by around 15% as it looks to improve its earnings.",
           "published": "2026-11-05T08:53:27Z"
+        },
+        {
+          "id": "9101aec7c2927442",
+          "feed": "airliners.de",
+          "title": "Air France-KLM übertrifft Gewinnerwartungen – streicht bei KLM 1000 Stellen",
+          "url": "https://www.airliners.de/air-france-klm-uebertrifft-gewinnerwartungen-streicht-klm-1000-stellen/91338",
+          "domain": "airliners.de",
+          "summary": "Air France-KLM übertrifft im dritten Quartal die Erwartungen von Analysten und rechnet für das Gesamtjahr mit höheren Treibstoffkosten. Bei der Tochter KLM fallen zudem rund 1000 Stellen weg.",
+          "published": "2026-11-05T09:10:58Z"
         }
       ],
       "story_id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
-      "written_count": 2
+      "written_count": 3
+    },
+    "ca8afd9b6c4": {
+      "id": "ca8afd9b6c4",
+      "label": "Emirates résultats S1 2026",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-05T09:20:49Z",
+      "updated": "2026-11-05T09:20:49Z",
+      "items": [
+        {
+          "id": "e0e9819cfd5266df",
+          "feed": "airliners.de",
+          "title": "Emirates-Nettogewinn bricht im ersten Halbjahr um 66 Prozent ein",
+          "url": "https://www.airliners.de/emirates-nettogewinn-bricht-halbjahr-66-prozent-ein/91335",
+          "domain": "airliners.de",
+          "summary": "Die Emirates hat im ersten Halbjahr 66 Prozent weniger Nettogewinn erzielt. Luftraumsperrungen im Zuge des Kriegs mit dem Iran ließen die Passagierzahl um 22 Prozent sinken, die Kerosinkosten stiegen vor Absicherung um 60 Prozent.",
+          "published": "2026-11-05T09:08:57Z"
+        }
+      ],
+      "story_id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
+      "written_count": 1
+    },
+    "c04a5f2da88": {
+      "id": "c04a5f2da88",
+      "label": "Malaysia report SAF 2030",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-05T09:20:49Z",
+      "updated": "2026-11-05T09:20:49Z",
+      "items": [
+        {
+          "id": "27a43c4fa5938730",
+          "feed": "airliners.de",
+          "title": "Malaysia verschiebt SAF-Beimischungspflicht auf 2030",
+          "url": "https://www.airliners.de/malaysia-verschiebt-saf-beimischungspflicht-2030/91340",
+          "domain": "airliners.de",
+          "summary": "Malaysia hat die Einführung der Beimischungspflicht für nachhaltigen Flugkraftstoff (SAF) von einem Prozent auf 2030 verschoben. Das teilte das Rohstoffministerium des Landes mit. Die Luftfahrtbranche solle damit mehr Zeit erhalten, sich vorzubereiten und ihren Betrieb anzupassen.",
+          "published": "2026-11-05T09:05:43Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.828891
+    "2026-11": 1.865245
   }
 }

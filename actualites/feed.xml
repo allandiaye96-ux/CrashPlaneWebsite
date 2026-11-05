@@ -6,22 +6,30 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 09:10:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 09:21:07 +0000</lastBuildDate>
   <item>
-    <title>Air France-KLM resserre KLM : recentrage sur Schiphol, fin de l&#x27;A320neo et réduction des effectifs</title>
+    <title>Emirates : le bénéfice net du premier semestre chute de 66 %, entre fermetures d&#x27;espaces aériens et kérosène plus cher</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:21:07 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, Emirates a enregistré au premier semestre un bénéfice net en baisse de 66 %. Le média allemand lie ce recul aux fermetures d&#x27;espaces aériens dans le contexte de la guerre avec l&#x27;Iran.</description>
+  </item>
+  <item>
+    <title>Air France-KLM recentre KLM sur Schiphol, renonce à l&#x27;A320neo et supprime des postes face au kérosène</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc/</guid>
     <pubDate>Thu, 05 Nov 2026 08:40:57 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Face à la hausse des prix du kérosène, Air France-KLM réorganise sa filiale néerlandaise KLM, selon aero.de et Simple Flying. Le plan prévoit un recentrage du réseau et une baisse des effectifs.</description>
+    <description>Face à la hausse des prix du kérosène, Air France-KLM réorganise sa filiale néerlandaise KLM, selon aero.de. Le groupe a par ailleurs dépassé les attentes des analystes au troisième trimestre, d&#x27;après airliners.de.</description>
   </item>
   <item>
-    <title>Vaeridion : plus de 120 millions d&#x27;euros de l&#x27;UE et d&#x27;investisseurs pour son avion électrique</title>
+    <title>Vaeridion : 94,5 millions d&#x27;euros de fonds européens et une levée de 30 millions pour le Microliner</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a/</guid>
     <pubDate>Thu, 05 Nov 2026 08:31:12 +0000</pubDate>
     <category>Constructeurs et industrie</category>
-    <description>Selon aero.de, la start-up munichoise Vaeridion bénéficie de financements de l&#x27;Union européenne et d&#x27;investisseurs dépassant 120 millions d&#x27;euros pour développer un avion électrique.</description>
+    <description>La start-up munichoise Vaeridion obtient des financements de l&#x27;UE et d&#x27;investisseurs pour son avion électrique, selon aero.de et airliners.de. Plus de 120 millions d&#x27;euros au total sont évoqués par aero.de.</description>
   </item>
   <item>
     <title>Lufthansa : moins de passagers au troisième trimestre 2026, mais un chiffre d&#x27;affaires record</title>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 12:01:34 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, British Airways met fin à six routes exploitées en Boeing 787 depuis l&#x27;aéroport de Londres Heathrow.</description>
-  </item>
-  <item>
-    <title>Lufthansa Group : le résultat du troisième trimestre 2026 progresse malgré un carburant plus coûteux</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86/</guid>
-    <pubDate>Tue, 03 Nov 2026 11:10:57 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, le groupe allemand affiche pour le troisième trimestre 2026 un résultat d&#x27;exploitation ajusté de 1,41 milliard d&#x27;euros, en progression de 6%. AeroTime attribue en partie cette performance aux mesures d&#x27;efficacité engagées plus tôt par l&#x27;entreprise.</description>
   </item>
 </channel>
 </rss>
