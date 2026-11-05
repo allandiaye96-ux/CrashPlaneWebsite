@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T20:50:34Z",
+  "run": "2026-11-05T21:01:02Z",
   "stats": {
     "fetched": 700,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.3937,
+  "spend_month_usd": 2.4048,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -410,6 +410,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
+    },
+    {
+      "dossier": "Saisie jet privé chinois G550 Iran",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47"
     },
     {
       "dossier": "ANA reprise Airdo et Solaseed Air",
@@ -821,12 +827,6 @@
     },
     {
       "dossier": "Malaysia report SAF 2030",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Saisie jet privé chinois G550 Iran",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

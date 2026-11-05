@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47",
+    "created": "2026-11-05T21:01:25Z",
+    "updated": "2026-11-05T21:01:25Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Un Gulfstream G550 chinois saisi à Anchorage après un voyage à Téhéran : le DOJ réclame sa confiscation",
+    "chapo": "Selon Aero-News Network, le département américain de la Justice demande la propriété définitive d'un Gulfstream G550 de 2012 immatriculé en Chine, saisi par le FBI après un séjour présumé non autorisé en Iran. AeroTime indique que la demande a été adressée à un juge fédéral en Californie.",
+    "paragraphes": [
+      "D'après les documents judiciaires cités par Aero-News Network, le DOJ a déposé le 28 octobre une plainte en confiscation visant un Gulfstream G550 de 2012 appartenant à Deer Jet (Beijing) Co., Ltd. Le FBI a saisi l'appareil à Anchorage, en Alaska. Le document de neuf pages soutient que l'avion, de fabrication américaine, a effectué un voyage de six jours en Iran sans autorisation, en violation des sanctions américaines et de la réglementation sur les exportations.",
+      "Toujours d'après la plainte, l'avion a quitté Pékin le 13 décembre 2024 pour rejoindre Téhéran, où il serait resté plusieurs jours. AeroTime précise de son côté que le département de la Justice a saisi un juge fédéral en Californie pour que l'État puisse conserver l'appareil."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "FBI Seizes Chinese Private Jet Over Iran Sanctions Violations",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=8A3BD211-0985-4E65-9604-212439AFD2D5",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "US seeks to keep Chinese-registered Gulfstream G550 seized after trip to Iran",
+        "url": "https://www.aerotime.aero/articles/us-gulfstream-g550-seized-iran-trip",
+        "date": "2026-11-05T20:19:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04",
     "created": "2026-11-05T20:01:30Z",
     "updated": "2026-11-05T20:01:30Z",

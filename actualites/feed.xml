@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:50:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 21:01:25 +0000</lastBuildDate>
+  <item>
+    <title>Un Gulfstream G550 chinois saisi à Anchorage après un voyage à Téhéran : le DOJ réclame sa confiscation</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47/</guid>
+    <pubDate>Thu, 05 Nov 2026 21:01:25 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Selon Aero-News Network, le département américain de la Justice demande la propriété définitive d&#x27;un Gulfstream G550 de 2012 immatriculé en Chine, saisi par le FBI après un séjour présumé non autorisé en Iran. AeroTime indique que la demande a été adressée à un juge fédéral en Californie.</description>
+  </item>
   <item>
     <title>Shield AI dévoile le premier prototype grandeur nature de son drone de combat VTOL X-BAT</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 10:40:51 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Air Baltic a demandé à restituer six A220-300 pris en leasing, dans le cadre de sa procédure de Chapter 11. Un tribunal new-yorkais doit se prononcer à la mi-novembre.</description>
-  </item>
-  <item>
-    <title>Boeing 787 : la FAA impose des inspections du réservoir central après un défaut de traçabilité de contrôles</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6/</guid>
-    <pubDate>Wed, 04 Nov 2026 09:10:57 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>La FAA exige des vérifications sur plusieurs Dreamliner, faute de preuves que des contrôles de mastic dans le réservoir central avaient été réalisés en production, selon Air Journal. L&#x27;objectif est d&#x27;écarter tout risque d&#x27;inflammation en cas de foudroiement.</description>
   </item>
 </channel>
 </rss>
