@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 08:31:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 08:40:57 +0000</lastBuildDate>
+  <item>
+    <title>Air France-KLM recentre KLM sur ses 160 liaisons directes depuis Amsterdam-Schiphol</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc/</guid>
+    <pubDate>Thu, 05 Nov 2026 08:40:57 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, Air France-KLM réorganise sa filiale néerlandaise KLM en raison du prix élevé du kérosène. La compagnie doit se concentrer entièrement sur ses liaisons directes au départ de Schiphol.</description>
+  </item>
   <item>
     <title>Vaeridion : plus de 120 millions d&#x27;euros de l&#x27;UE et d&#x27;investisseurs pour son avion électrique</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 11:10:57 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Air Journal, le groupe allemand affiche pour le troisième trimestre 2026 un résultat d&#x27;exploitation ajusté de 1,41 milliard d&#x27;euros, en progression de 6%. AeroTime attribue en partie cette performance aux mesures d&#x27;efficacité engagées plus tôt par l&#x27;entreprise.</description>
-  </item>
-  <item>
-    <title>Népal : deux hélicoptères entrent en collision près de l&#x27;Everest, un passager tué</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de/</guid>
-    <pubDate>Tue, 03 Nov 2026 08:40:59 +0000</pubDate>
-    <category>Accident</category>
-    <description>Deux hélicoptères sont entrés en collision lors d&#x27;un atterrissage à Pheriche, près du mont Everest, selon AeroTime. Un passager a perdu la vie et plusieurs personnes ont été blessées.</description>
   </item>
 </channel>
 </rss>

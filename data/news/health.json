@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-05T08:30:50Z",
+  "run": "2026-11-05T08:40:33Z",
   "stats": {
     "fetched": 698,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.7954,
+  "spend_month_usd": 1.8039,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -716,6 +716,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
+    },
+    {
+      "dossier": "Air France-KLM recentre KLM sur Schiphol",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
     },
     {
       "dossier": "Étude chinoise aubes GEnx Boeing 787",

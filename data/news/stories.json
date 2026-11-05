@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
+    "created": "2026-11-05T08:40:57Z",
+    "updated": "2026-11-05T08:40:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air France-KLM recentre KLM sur ses 160 liaisons directes depuis Amsterdam-Schiphol",
+    "chapo": "Selon aero.de, Air France-KLM réorganise sa filiale néerlandaise KLM en raison du prix élevé du kérosène. La compagnie doit se concentrer entièrement sur ses liaisons directes au départ de Schiphol.",
+    "paragraphes": [
+      "D'après aero.de, KLM va désormais focaliser son activité sur 160 liaisons directes à l'aéroport d'Amsterdam-Schiphol. Le groupe justifie cette réorientation par le niveau élevé des prix du kérosène.",
+      "Toujours d'après le média allemand, KLM renonce par ailleurs complètement à l'Airbus A320neo."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air France-KLM kürzt bei niederländischer Tochter",
+        "url": "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html",
+        "date": "2026-11-05T08:34:47Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a",
     "created": "2026-11-05T08:31:12Z",
     "updated": "2026-11-05T08:31:12Z",
