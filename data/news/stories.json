@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-11-05-airbus-aurait-livre-74-avions-en-octobre-selon-un-media-cite-9886",
+    "created": "2026-11-05T15:21:00Z",
+    "updated": "2026-11-05T15:21:00Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus aurait livré 74 avions en octobre, selon un média cité par airliners.de",
+    "chapo": "Selon airliners.de, qui s'appuie sur un article de presse, Airbus aurait livré 74 appareils en octobre. Le constructeur n'a pas encore publié ses chiffres officiels.",
+    "paragraphes": [
+      "D'après le site allemand, ce total provient d'un rapport médiatique et non d'une communication du constructeur. Airbus doit présenter ses chiffres officiels de livraisons vendredi.",
+      "Airbus devrait, toujours d'après airliners.de, réaliser un dernier trimestre d'une ampleur inédite dans son histoire pour atteindre son objectif annuel."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Bericht: Airbus steigert Auslieferungen im Oktober",
+        "url": "https://www.airliners.de/bericht-airbus-steigert-auslieferungen-oktober/91347",
+        "date": "2026-11-05T15:03:28Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-nesma-airlines-devient-flyplus-et-prevoit-d-agrandir-sa-flot-2283",
+    "created": "2026-11-05T15:20:56Z",
+    "updated": "2026-11-05T15:20:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Nesma Airlines devient Flyplus et prévoit d'agrandir sa flotte et de lancer une classe affaires",
+    "chapo": "Selon airliners.de, la compagnie égyptienne Nesma Airlines opère désormais sous la nouvelle marque Flyplus. D'après les informations communiquées par la compagnie, ce changement d'identité doit s'accompagner d'une extension de sa flotte.",
+    "paragraphes": [
+      "Le transporteur, présenté comme une compagnie spécialisée dans les destinations touristiques, a annoncé que sa flotte devrait croître à la suite de ce rebranding.",
+      "Flyplus envisage par ailleurs d'introduire une classe affaires ainsi qu'une classe premium economy."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Nesma Airlines wird zu Flyplus und plant Business Class",
+        "url": "https://www.airliners.de/nesma-airlines-flyplus-business-class/91348",
+        "date": "2026-11-05T15:08:35Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
     "created": "2026-11-05T14:31:25Z",
     "updated": "2026-11-05T14:31:25Z",

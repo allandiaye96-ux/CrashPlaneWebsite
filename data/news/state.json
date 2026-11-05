@@ -1568,7 +1568,13 @@
     "https://www.aerotime.aero/articles/bombardier-2026-cash-flow-forecast-services-record": "2026-11-05T14:40:37Z",
     "https://www.aerotime.aero/articles/nasa-x-70-fractal-aircraft-jared-isaacman": "2026-11-05T14:40:37Z",
     "https://leehamnews.com/2026/11/05/will-airbus-stretch-the-a350-part-2/": "2026-11-05T14:40:37Z",
-    "https://www.air-journal.fr/2026-11-05-camera-cachee-dans-les-toilettes-dun-vol-scoot-un-britannique-inculpe-5278684.html": "2026-11-05T15:10:36Z"
+    "https://www.air-journal.fr/2026-11-05-camera-cachee-dans-les-toilettes-dun-vol-scoot-un-britannique-inculpe-5278684.html": "2026-11-05T15:10:36Z",
+    "https://www.airliners.de/ryanair-luebeck-alicante-programm/91349": "2026-11-05T15:20:34Z",
+    "https://www.airliners.de/nesma-airlines-flyplus-business-class/91348": "2026-11-05T15:20:34Z",
+    "https://www.airliners.de/bericht-airbus-steigert-auslieferungen-oktober/91347": "2026-11-05T15:20:34Z",
+    "https://www.airliners.de/liebherr-aerospace-eroeffnet-buero-sydney/91346": "2026-11-05T15:20:34Z",
+    "https://www.airliners.de/streit-kosten-luftsicherheit-frankfurt-hahn/91344": "2026-11-05T15:20:34Z",
+    "https://www.airliners.de/ki-boom-dhl-express-geschaeft-punktet/91345": "2026-11-05T15:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5266,10 +5272,52 @@
       ],
       "story_id": "2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d",
       "written_count": 1
+    },
+    "c0476c72283": {
+      "id": "c0476c72283",
+      "label": "Nesma Airlines devient Flyplus",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-05T15:20:50Z",
+      "updated": "2026-11-05T15:20:50Z",
+      "items": [
+        {
+          "id": "1f1e18ae8b8f680d",
+          "feed": "airliners.de",
+          "title": "Nesma Airlines wird zu Flyplus und plant Business Class",
+          "url": "https://www.airliners.de/nesma-airlines-flyplus-business-class/91348",
+          "domain": "airliners.de",
+          "summary": "Die ägyptische Nesma Airlines fliegt ab sofort unter der neuen Marke Flyplus. Wie die Fluggesellschaft mitteilte, soll nach dem Rebranding die Flotte wachsen. Zudem plant der Zielgebietscarrier eine Business Class und eine Premium Economy.",
+          "published": "2026-11-05T15:08:35Z"
+        }
+      ],
+      "story_id": "2026-11-05-nesma-airlines-devient-flyplus-et-prevoit-d-agrandir-sa-flot-2283",
+      "written_count": 1
+    },
+    "cbb14cb9886": {
+      "id": "cbb14cb9886",
+      "label": "Airbus livraisons octobre 2026",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-05T15:20:50Z",
+      "updated": "2026-11-05T15:20:50Z",
+      "items": [
+        {
+          "id": "48771704151f0631",
+          "feed": "airliners.de",
+          "title": "Bericht: Airbus steigert Auslieferungen im Oktober",
+          "url": "https://www.airliners.de/bericht-airbus-steigert-auslieferungen-oktober/91347",
+          "domain": "airliners.de",
+          "summary": "Airbus hat im Oktober nach einem Medienbericht 74 Flugzeuge ausgeliefert. Die offiziellen Zahlen will der Hersteller am Freitag vorlegen. Für sein Jahresziel braucht der Konzern ein Schlussquartal, wie es das in seiner Geschichte noch nicht gab.",
+          "published": "2026-11-05T15:03:28Z"
+        }
+      ],
+      "story_id": "2026-11-05-airbus-aurait-livre-74-avions-en-octobre-selon-un-media-cite-9886",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.18528
+    "2026-11": 2.208685
   }
 }
