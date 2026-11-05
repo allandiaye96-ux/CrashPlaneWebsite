@@ -1576,7 +1576,12 @@
     "https://www.airliners.de/streit-kosten-luftsicherheit-frankfurt-hahn/91344": "2026-11-05T15:20:34Z",
     "https://www.airliners.de/ki-boom-dhl-express-geschaeft-punktet/91345": "2026-11-05T15:20:34Z",
     "https://theaviationist.com/2026/11/05/japan-intercepts-chinese-wz-7/": "2026-11-05T15:40:34Z",
-    "https://www.journal-aviation.com/actualites-mro-support/airbus-services-du-fhs-a-skywise-une-offre-en-pleine-expansion-pour-accompagner-les-operateurs-20261105.html": "2026-11-05T15:40:34Z"
+    "https://www.journal-aviation.com/actualites-mro-support/airbus-services-du-fhs-a-skywise-une-offre-en-pleine-expansion-pour-accompagner-les-operateurs-20261105.html": "2026-11-05T15:40:34Z",
+    "https://simpleflying.com/full-life-engine-prices-nearly-doubles-13-million-keeping-old-freighters-air/": "2026-11-05T16:20:35Z",
+    "https://www.airliners.de/eugh-hebt-urteile-corona-hilfen-condor-klm-auf/91352": "2026-11-05T16:20:35Z",
+    "https://www.airliners.de/swiss-fliegt-a350-mumbai/91351": "2026-11-05T16:20:35Z",
+    "https://www.airliners.de/flughafen-muenster-osnabrueck-staerkster-monat-seit-18-jahren/91350": "2026-11-05T16:20:35Z",
+    "https://www.journal-aviation.com/actualites-mro-support/maintenance-cellule/hop-investit-4-millions-deuros-pour-la-maintenance-des-airbus-a220-dair-france-a-clermont-ferrand-20261105.html": "2026-11-05T16:20:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5235,10 +5240,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c959891e75c": {
+      "id": "c959891e75c",
+      "label": "Swiss A350 vers Mumbai",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-05T16:20:55Z",
+      "updated": "2026-11-05T16:20:55Z",
+      "items": [
+        {
+          "id": "ca7801e41d20b102",
+          "feed": "airliners.de",
+          "title": "Swiss fliegt mit dem A350 nach Mumbai",
+          "url": "https://www.airliners.de/swiss-fliegt-a350-mumbai/91351",
+          "domain": "airliners.de",
+          "summary": "Swiss setzt ab dem 15. Dezember den Airbus A350-900 auf der Strecke von Zürich nach Mumbai ein, wie die Lufthansa-Tochter am Donnerstag mitteilte. Damit kommt das Langstreckenprodukt \"Swiss Senses\" mit neu gestalteter Kabine erstmals auf einer Indien-Verbindung zum Einsatz.",
+          "published": "2026-11-05T15:19:44Z"
+        }
+      ],
+      "story_id": "2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.209529
+    "2026-11": 2.217505
   }
 }

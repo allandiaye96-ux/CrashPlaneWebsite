@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c",
+    "created": "2026-11-05T16:20:58Z",
+    "updated": "2026-11-05T16:20:58Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Swiss déploiera l'Airbus A350-900 sur Zurich–Mumbai à partir du 15 décembre",
+    "chapo": "Selon airliners.de, Swiss mettra en service l'Airbus A350-900 entre Zurich et Mumbai à compter du 15 décembre. La filiale de Lufthansa l'a annoncé dans un communiqué.",
+    "paragraphes": [
+      "D'après airliners.de, cette desserte marquera la première utilisation sur une liaison vers l'Inde du produit long-courrier « Swiss Senses », doté d'une cabine entièrement redessinée."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Swiss fliegt mit dem A350 nach Mumbai",
+        "url": "https://www.airliners.de/swiss-fliegt-a350-mumbai/91351",
+        "date": "2026-11-05T15:19:44Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-airbus-aurait-livre-74-avions-en-octobre-selon-un-media-cite-9886",
     "created": "2026-11-05T15:21:00Z",
     "updated": "2026-11-05T15:21:00Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T16:01:07Z",
+  "run": "2026-11-05T16:20:35Z",
   "stats": {
-    "fetched": 598,
-    "new": 0,
-    "written": 0,
+    "fetched": 698,
+    "new": 5,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.2095,
+  "spend_month_usd": 2.2175,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -758,6 +758,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-airbus-aurait-livre-74-avions-en-octobre-selon-un-media-cite-9886"
+    },
+    {
+      "dossier": "Swiss A350 vers Mumbai",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c"
     },
     {
       "dossier": "Menaces à la bombe compagnies européennes",
