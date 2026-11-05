@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T13:01:00Z",
+  "run": "2026-11-05T13:10:49Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
+    "new": 1,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 2.1138,
+  "spend_month_usd": 2.137,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -748,6 +748,12 @@
       "breve": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d"
     },
     {
+      "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "Suède reçoit missiles Taurus pour Gripen",
       "statut": "signale",
       "editeurs": 1,
@@ -845,12 +851,6 @@
     },
     {
       "dossier": "Livraison premier FA-50M Malaisie",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

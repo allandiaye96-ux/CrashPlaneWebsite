@@ -1555,7 +1555,8 @@
     "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/": "2026-11-05T12:20:33Z",
     "https://www.aerotime.aero/articles/emirates-financial-results-fuel-profit": "2026-11-05T12:40:33Z",
     "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions": "2026-11-05T12:40:33Z",
-    "https://theaviationist.com/2026/11/05/from-drones-to-bomb-hoaxes/": "2026-11-05T12:50:34Z"
+    "https://theaviationist.com/2026/11/05/from-drones-to-bomb-hoaxes/": "2026-11-05T12:50:34Z",
+    "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html": "2026-11-05T13:10:49Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5179,7 +5180,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-05T12:40:48Z",
+      "updated": "2026-11-05T13:11:06Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -5189,14 +5190,23 @@
           "domain": "aerotime.aero",
           "summary": "At least 16 passenger flights were targeted by bomb threats across Europe on November 5, 2026, prompting fighter… The post Bomb threats hit at least 16 flights across Europe, trigger fighter escorts appeared first on AeroTime .",
           "published": "2026-11-05T12:02:11Z"
+        },
+        {
+          "id": "17f01c0970077792",
+          "feed": "Air Journal",
+          "title": "Un A320 d’Aer Lingus dérouté sous escorte à Évreux, sur fond d’alertes à la bombe en Europe",
+          "url": "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html",
+          "domain": "air-journal.fr",
+          "summary": "Pour la troisième journée cette semaine, des menaces à la bombe ont perturbé plusieurs liaisons européennes, jeudi 5 novembre. Au moins douze vols étaient concernés à la mi-journée, tous ayant atterri en sécurité. En France, un Airbus A320 d’Aer Lingus reliant Dublin à Rome a été dérouté vers la base aérienne d’Évreux. Ailleurs, plusieurs appareils […]",
+          "published": "2026-11-05T13:00:35Z"
         }
       ],
       "story_id": null,
-      "written_count": 0
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.113798
+    "2026-11": 2.137013
   }
 }
