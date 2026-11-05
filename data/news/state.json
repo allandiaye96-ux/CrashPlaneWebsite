@@ -1581,7 +1581,9 @@
     "https://www.airliners.de/eugh-hebt-urteile-corona-hilfen-condor-klm-auf/91352": "2026-11-05T16:20:35Z",
     "https://www.airliners.de/swiss-fliegt-a350-mumbai/91351": "2026-11-05T16:20:35Z",
     "https://www.airliners.de/flughafen-muenster-osnabrueck-staerkster-monat-seit-18-jahren/91350": "2026-11-05T16:20:35Z",
-    "https://www.journal-aviation.com/actualites-mro-support/maintenance-cellule/hop-investit-4-millions-deuros-pour-la-maintenance-des-airbus-a220-dair-france-a-clermont-ferrand-20261105.html": "2026-11-05T16:20:35Z"
+    "https://www.journal-aviation.com/actualites-mro-support/maintenance-cellule/hop-investit-4-millions-deuros-pour-la-maintenance-des-airbus-a220-dair-france-a-clermont-ferrand-20261105.html": "2026-11-05T16:20:35Z",
+    "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/": "2026-11-05T16:30:53Z",
+    "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-05T16:30:53Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3789,27 +3791,6 @@
       "story_id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
       "written_count": 1
     },
-    "c26c674081f": {
-      "id": "c26c674081f",
-      "label": "Menaces à la bombe compagnies européennes",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-03T16:20:56Z",
-      "updated": "2026-11-03T16:20:56Z",
-      "items": [
-        {
-          "id": "febf1814b45fb7c7",
-          "feed": "AeroTime",
-          "title": "Ryanair, Wizz Air, LOT and SAS targeted by series of bomb threats within hours",
-          "url": "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat",
-          "domain": "aerotime.aero",
-          "summary": "Several European airlines including Ryanair, Wizz Air, LOT Polish Airlines and Scandinavian Airlines (SAS) have been targeted by… The post Ryanair, Wizz Air, LOT and SAS targeted by series of bomb threats within hours appeared first on AeroTime .",
-          "published": "2026-11-03T15:41:58Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ca1b3978a5e": {
       "id": "ca1b3978a5e",
       "label": "Laser aéroporté Luftwaffe avions de combat",
@@ -5103,7 +5084,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-05T14:31:13Z",
+      "updated": "2026-11-05T16:31:06Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -5131,10 +5112,28 @@
           "domain": "aero.de",
           "summary": "LONDON - Eine rätselhafte Häufung von Bombendrohungen gegen Passagiermaschinen in Europa macht Fluggesellschaften und Airports zu schaffen. Bisher entpuppen sich alle Drohungen als Fehlalarm. Neu ist das Phänomen nicht. Was - und vor allem wer - steckt hinter der Drohserie?",
           "published": "2026-11-05T14:25:16Z"
+        },
+        {
+          "id": "1380aed1d10f37f4",
+          "feed": "Simple Flying",
+          "title": "Fighter Jets Scrambled As More Bomb Threats Force Multiple Passenger Flights To Divert",
+          "url": "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/",
+          "domain": "simpleflying.com",
+          "summary": "The French and Italian Air Forces have had to respond to more commercial aviation bomb threats",
+          "published": "2026-11-05T16:26:11Z"
+        },
+        {
+          "id": "6b09dc42f041702e",
+          "feed": "Flightradar24 – Blog",
+          "title": "Second straight day of threats affects nearly two dozen flights across Europe",
+          "url": "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/",
+          "domain": "flightradar24.com",
+          "summary": "For the second straight day, flights across Europe have been subject to bomb threats, leading to diversions, delays, and security responses at nearly a dozen airports. Authorities thus far have found no actual threat aboard any of the aircraft. On Wednesday, 4 November, at least seven flights were subject to threats as well. Nearly two […] The post Second straight day of threats affects nearly two dozen flights across Europe appeared first on Flightradar24 Blog .",
+          "published": "2026-11-05T16:14:43Z"
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-      "written_count": 3
+      "written_count": 5
     },
     "ca4dad664c6": {
       "id": "ca4dad664c6",
@@ -5265,6 +5264,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.217505
+    "2026-11": 2.254804
   }
 }

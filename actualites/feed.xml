@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 16:20:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 16:31:24 +0000</lastBuildDate>
   <item>
     <title>Swiss déploiera l&#x27;Airbus A350-900 sur Zurich–Mumbai à partir du 15 décembre</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c/</link>
@@ -30,14 +30,6 @@
     <pubDate>Thu, 05 Nov 2026 15:20:56 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, la compagnie égyptienne Nesma Airlines opère désormais sous la nouvelle marque Flyplus. D&#x27;après les informations communiquées par la compagnie, ce changement d&#x27;identité doit s&#x27;accompagner d&#x27;une extension de sa flotte.</description>
-  </item>
-  <item>
-    <title>Alertes à la bombe en Europe : au moins 16 vols visés le 5 novembre 2026, avec escortes de chasseurs</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211/</guid>
-    <pubDate>Thu, 05 Nov 2026 14:31:25 +0000</pubDate>
-    <category>Incident</category>
-    <description>Selon AeroTime, au moins 16 vols de passagers ont fait l&#x27;objet de menaces à la bombe en Europe le 5 novembre 2026, ce qui a entraîné des escortes d&#x27;avions de chasse. Air Journal indique que tous les appareils concernés au milieu de la journée s&#x27;étaient posés sans encombre.</description>
   </item>
   <item>
     <title>Air Canada commande huit Airbus A350-1000 pour des vols sans escale hors de portée de ses 777-300ER</title>
@@ -246,6 +238,14 @@
     <pubDate>Wed, 04 Nov 2026 08:10:54 +0000</pubDate>
     <category>Aéroports</category>
     <description>Selon Air Journal, le trafic aérien est suspendu à Naples-Capodichino du 1er au 30 novembre 2026, le temps d&#x27;un chantier de rénovation de la piste et des voies de circulation. Une partie des vols est reportée sur l&#x27;aéroport de Salerne.</description>
+  </item>
+  <item>
+    <title>Virgin Galactic dévoile Apeiron, son vaisseau de tête, avant les vols prévus en 2027</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441/</guid>
+    <pubDate>Wed, 04 Nov 2026 06:50:56 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon Australian Aviation, Virgin Galactic a présenté son premier vaisseau spatial de nouvelle génération, baptisé Apeiron, dans sa livrée définitive. La présentation s&#x27;est tenue à Mesa, en Arizona.</description>
   </item>
 </channel>
 </rss>
