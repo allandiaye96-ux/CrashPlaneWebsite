@@ -4843,7 +4843,7 @@
         }
       ],
       "story_id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
-      "written_count": 5
+      "written_count": 6
     },
     "ca8afd9b6c4": {
       "id": "ca8afd9b6c4",
@@ -5271,6 +5271,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.319508
+    "2026-11": 2.357545
   }
 }

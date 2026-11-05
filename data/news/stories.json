@@ -457,7 +457,7 @@
     "version": 5,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Compagnies",
     "importance": 2,
     "titre": "KLM annonce environ 1 000 suppressions de postes et une refonte de sa flotte et de son réseau",
