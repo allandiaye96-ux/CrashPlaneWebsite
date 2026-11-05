@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
+    "created": "2026-11-04T11:20:53Z",
+    "updated": "2026-11-05T09:10:50Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas vend 44 Boeing 737NG et 88 moteurs CFM56-7B à AerFin, la plus grande transaction de l'entreprise",
+    "chapo": "Selon AviTrader, AerFin a conclu l'acquisition de 44 Boeing 737NG et de 88 moteurs CFM56-7B auprès de Qantas. Il s'agit de la plus grande transaction de l'histoire du spécialiste de l'après-vente aéronautique.",
+    "paragraphes": [
+      "L'accord porte sur 44 appareils de type 737NG et 88 moteurs CFM56-7B. AerFin y voit une étape majeure de son expansion, qui conforte sa position parmi les acteurs mondiaux du marché de l'après-vente, d'après AviTrader.",
+      "D'après Air Journal et AirlineGeeks, Qantas cédera ces avions de façon échelonnée sur sept ans, au rythme du renouvellement de sa flotte, où arrivent des Airbus A321XLR. AeroTime présente cette vente comme faisant partie des plans de retrait de ces appareils par la compagnie australienne."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "AerFin seals landmark 737NG aircraft acquisition from Qantas",
+        "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
+        "date": "2026-11-04T11:01:21Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans",
+        "url": "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans",
+        "date": "2026-11-04T15:44:03Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "Qantas Reaches Deal to Sell 44 Boeing 737s",
+        "url": "https://airlinegeeks.com/2026/11/04/qantas-reaches-deal-to-sell-44-boeing-737s/",
+        "date": "2026-11-04T22:38:42Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Qantas cède 44 Boeing 737 à AerFin et prépare la relève en Airbus A321XLR",
+        "url": "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html",
+        "date": "2026-11-05T09:00:37Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
     "created": "2026-11-05T08:40:57Z",
     "updated": "2026-11-05T09:01:28Z",
@@ -307,52 +360,6 @@
         "title": "Ill-Fated Learjet Had Altitude Struggles Amid Severe Turbulence 6 Months Ago, ATC Audio Shows",
         "url": "https://simpleflying.com/ill-fated-learjet-altitude-struggles-severe-turbulence-6-months-ago/",
         "date": "2026-11-04T23:01:12Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-    "created": "2026-11-04T11:20:53Z",
-    "updated": "2026-11-04T22:40:51Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "AerFin acquiert 44 Boeing 737NG et 88 moteurs CFM56-7B auprès de Qantas",
-    "chapo": "Selon AviTrader, AerFin a conclu l'achat de 44 Boeing 737NG auprès de Qantas, la plus importante transaction de son histoire. L'opération porte aussi sur 88 moteurs CFM56-7B.",
-    "paragraphes": [
-      "D'après AviTrader, l'accord comprend 44 Boeing 737NG et 88 moteurs CFM56-7B. Le spécialiste du marché secondaire y voit une étape majeure de son expansion et un renforcement de sa position parmi les acteurs mondiaux de l'aftermarket aéronautique.",
-      "AeroTime présente cette vente comme s'inscrivant dans les plans de retrait de flotte de la compagnie australienne. Selon AirlineGeeks, Qantas remettra les appareils sur une période de sept ans, tandis que des Airbus A321XLR rejoignent sa flotte."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "AerFin seals landmark 737NG aircraft acquisition from Qantas",
-        "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
-        "date": "2026-11-04T11:01:21Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans",
-        "url": "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans",
-        "date": "2026-11-04T15:44:03Z",
-        "official": false
-      },
-      {
-        "name": "AirlineGeeks",
-        "title": "Qantas Reaches Deal to Sell 44 Boeing 737s",
-        "url": "https://airlinegeeks.com/2026/11/04/qantas-reaches-deal-to-sell-44-boeing-737s/",
-        "date": "2026-11-04T22:38:42Z",
         "official": false
       }
     ]

@@ -1506,7 +1506,9 @@
     "https://www.airliners.de/a99-vollsperrung-anfahrt-flughafen-muenchen-dauert-laenger/91296": "2026-11-05T08:20:34Z",
     "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html": "2026-11-05T08:30:50Z",
     "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html": "2026-11-05T08:40:33Z",
-    "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/": "2026-11-05T09:01:04Z"
+    "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/": "2026-11-05T09:01:04Z",
+    "https://simpleflying.com/united-airlines-boeing-767-400er-seats-43-inches-pitch-arent-passengers/": "2026-11-05T09:10:33Z",
+    "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html": "2026-11-05T09:10:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3684,27 +3686,6 @@
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
       "written_count": 3
     },
-    "c831c351f9c": {
-      "id": "c831c351f9c",
-      "label": "Étude chinoise aubes GEnx Boeing 787",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-03T09:01:21Z",
-      "updated": "2026-11-03T09:01:21Z",
-      "items": [
-        {
-          "id": "223985b13cb9e59f",
-          "feed": "Air Journal",
-          "title": "Boeing 787 : une étude chinoise documente l’usure prématurée de certaines aubes GEnx",
-          "url": "https://www.air-journal.fr/2026-11-03-boeing-787-une-etude-chinoise-documente-lusure-prematuree-de-certaines-aubes-genx-5278655.html",
-          "domain": "air-journal.fr",
-          "summary": "Certaines aubes de turbine haute pression des moteurs GE GEnx-1B équipant le Boeing 787 peuvent présenter des fissures après environ 1 000 cycles de vol, selon une étude technique rapportée le 2 novembre par le South China Morning Post. Ces observations concernent des configurations précises de composants et éclairent un enjeu de maintenance : surveiller […]",
-          "published": "2026-11-03T09:00:31Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cbc5f0e8f53": {
       "id": "cbc5f0e8f53",
       "label": "Merz baisse de la taxe aérienne et Berlin",
@@ -4479,7 +4460,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-04T11:20:49Z",
-      "updated": "2026-11-04T22:40:47Z",
+      "updated": "2026-11-05T09:10:46Z",
       "items": [
         {
           "id": "d135e258a03db088",
@@ -4507,10 +4488,19 @@
           "domain": "airlinegeeks.com",
           "summary": "The airline will hand over the jets over seven years as Airbus A321XLRs join its fleet.",
           "published": "2026-11-04T22:38:42Z"
+        },
+        {
+          "id": "a716d9e391ba320d",
+          "feed": "Air Journal",
+          "title": "Qantas cède 44 Boeing 737 à AerFin et prépare la relève en Airbus A321XLR",
+          "url": "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html",
+          "domain": "air-journal.fr",
+          "summary": "La compagnie australienne a conclu un accord portant sur la vente de 44 Boeing 737NG et de leurs 88 moteurs au spécialiste britannique des actifs aéronautiques AerFin. Les transferts s’échelonneront sur sept ans, à mesure du renouvellement de la flotte de Qantas. Qantas prépare la fin de carrière d’une grande partie de ses Boeing 737, […]",
+          "published": "2026-11-05T09:00:37Z"
         }
       ],
       "story_id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-      "written_count": 3
+      "written_count": 4
     },
     "cf6636a56bd": {
       "id": "cf6636a56bd",
@@ -4977,6 +4967,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.818227
+    "2026-11": 1.828891
   }
 }

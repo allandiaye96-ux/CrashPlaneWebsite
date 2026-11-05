@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T09:01:04Z",
+  "run": "2026-11-05T09:10:33Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.8182,
+  "spend_month_usd": 1.8289,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -160,6 +160,12 @@
       "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
     },
     {
+      "dossier": "AerFin rachat 44 737NG Qantas",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
+    },
+    {
       "dossier": "IndiGo commande jets régionaux Embraer",
       "statut": "corrobore",
       "editeurs": 4,
@@ -230,12 +236,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
-    },
-    {
-      "dossier": "AerFin rachat 44 737NG Qantas",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
     },
     {
       "dossier": "Air Serbia vol Moscou retour à Belgrade",
@@ -722,12 +722,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
-    },
-    {
-      "dossier": "Étude chinoise aubes GEnx Boeing 787",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Merz baisse de la taxe aérienne et Berlin",
