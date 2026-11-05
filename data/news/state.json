@@ -1487,7 +1487,8 @@
     "https://www.aerotime.aero/articles/retired-jet-engines-powering-ai-data-centers": "2026-11-05T01:40:31Z",
     "https://simpleflying.com/qantas-retiring-airbus-a380s-4-years-early-trust-a350-1000-boeing-787-deliveries/": "2026-11-05T02:01:00Z",
     "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft": "2026-11-05T02:40:34Z",
-    "https://www.airliners.de/schwedische-flughaefen-wachsen-international-inlandsverkehr-schrumpft/91327": "2026-11-05T03:20:33Z"
+    "https://www.airliners.de/schwedische-flughaefen-wachsen-international-inlandsverkehr-schrumpft/91327": "2026-11-05T03:20:33Z",
+    "https://simpleflying.com/how-emirates-safeguards-its-longest-airbus-a380-route-little-known-fallback/": "2026-11-05T04:20:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4889,6 +4890,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.73882
+    "2026-11": 1.739607
   }
 }
