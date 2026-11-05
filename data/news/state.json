@@ -1607,7 +1607,11 @@
     "https://simpleflying.com/podcast-309/": "2026-11-05T20:30:50Z",
     "https://simpleflying.com/avelo-airlines-cancels-all-6-international-routes/": "2026-11-05T20:50:34Z",
     "https://www.aerotime.aero/articles/us-gulfstream-g550-seized-iran-trip": "2026-11-05T21:01:02Z",
-    "https://www.twz.com/air/chinas-military-helicopters-a-guide": "2026-11-05T21:01:02Z"
+    "https://www.twz.com/air/chinas-military-helicopters-a-guide": "2026-11-05T21:01:02Z",
+    "https://simpleflying.com/boeing-renton-factory-stagger-737-max-10-smaller-jets-everett-run-nose-tail/": "2026-11-05T21:10:37Z",
+    "https://simpleflying.com/classic-airliners-with-three-person-cockpits/": "2026-11-05T21:10:37Z",
+    "https://theaviationist.com/2026/11/05/f-35b-releases-meteor-bvraam-for-the-first-time/": "2026-11-05T21:10:37Z",
+    "https://theaircurrent.com/aircraft-development/beta-joby-bullish-commercial-operations-under-eipp/": "2026-11-05T21:10:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5266,10 +5270,31 @@
       ],
       "story_id": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04",
       "written_count": 1
+    },
+    "c95c3af7cd5": {
+      "id": "c95c3af7cd5",
+      "label": "F-35B tir d'essai missile Meteor",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-05T21:10:59Z",
+      "updated": "2026-11-05T21:10:59Z",
+      "items": [
+        {
+          "id": "a887c940302b18fa",
+          "feed": "The Aviationist",
+          "title": "F-35B Releases Meteor BVRAAM for the First Time",
+          "url": "https://theaviationist.com/2026/11/05/f-35b-releases-meteor-bvraam-for-the-first-time/",
+          "domain": "theaviationist.com",
+          "summary": "The Oct. 7 trial saw the release of an inert Meteor test asset from an F-35B’s internal weapons bay, demonstrating safe separation and providing data for further release tests ahead of live firings. An F-35B Short Take-Off Vertical Landing (STOVL) fighter jettisoned an MBDA Meteor Beyond Visual-Range Air-to-Air Missile (BVRAAM) for the first time from […]",
+          "published": "2026-11-05T21:05:30Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.40482
+    "2026-11": 2.405727
   }
 }

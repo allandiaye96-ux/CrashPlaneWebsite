@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T21:01:02Z",
+  "run": "2026-11-05T21:10:37Z",
   "stats": {
     "fetched": 700,
-    "new": 2,
-    "written": 1,
+    "new": 4,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4048,
+  "spend_month_usd": 2.4057,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -839,6 +839,12 @@
     },
     {
       "dossier": "Interceptions de drones chinois WZ-7 au-dessus du détroit de Miyako",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "F-35B tir d'essai missile Meteor",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
