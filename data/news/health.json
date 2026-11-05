@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T10:20:32Z",
+  "run": "2026-11-05T10:30:50Z",
   "stats": {
-    "fetched": 698,
-    "new": 3,
-    "written": 2,
+    "fetched": 684,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.9694,
+  "spend_month_usd": 1.9702,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -50,12 +50,12 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 14
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Accidents": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Air Current": {
       "ok": true,
