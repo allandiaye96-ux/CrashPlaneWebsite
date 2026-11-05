@@ -1564,7 +1564,10 @@
     "https://simpleflying.com/ryanair-unveils-9-new-international-routes/": "2026-11-05T14:10:34Z",
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-provides-complete-easy-access-rules-publication-history-xml": "2026-11-05T14:20:34Z",
     "https://www.aero.de/news-54101/Streit-um-Kosten-fuer-Luftsicherheit.html": "2026-11-05T14:20:34Z",
-    "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html": "2026-11-05T14:30:57Z"
+    "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html": "2026-11-05T14:30:57Z",
+    "https://www.aerotime.aero/articles/bombardier-2026-cash-flow-forecast-services-record": "2026-11-05T14:40:37Z",
+    "https://www.aerotime.aero/articles/nasa-x-70-fractal-aircraft-jared-isaacman": "2026-11-05T14:40:37Z",
+    "https://leehamnews.com/2026/11/05/will-airbus-stretch-the-a350-part-2/": "2026-11-05T14:40:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5266,6 +5269,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.183603
+    "2026-11": 2.18448
   }
 }
