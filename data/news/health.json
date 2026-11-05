@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T17:20:34Z",
+  "run": "2026-11-05T17:30:51Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.288,
+  "spend_month_usd": 2.2888,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -404,12 +404,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
-    },
-    {
-      "dossier": "Turkish Airlines 777-300ERSF via AerCap",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-turkish-airlines-va-louer-deux-boeing-777-300ersf-aupres-du-0616"
     },
     {
       "dossier": "ANA reprise Airdo et Solaseed Air",
