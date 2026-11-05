@@ -1520,7 +1520,9 @@
     "https://www.airliners.de/fraport-condor-umzug-einzelne-airlines-terminal-1-ueckholen/91309": "2026-11-05T09:20:35Z",
     "https://www.aerotime.aero/articles/autoflight-worlds-first-formation-flight-five-unmanned-evtols-video": "2026-11-05T09:40:43Z",
     "https://avitrader.com/2026/11/05/flybis-orders-up-to-12-eve-evtols/": "2026-11-05T09:40:43Z",
-    "https://www.aero.de/news-54098/Erneut-Bombendrohung-gegen-Linienflug.html": "2026-11-05T09:40:43Z"
+    "https://www.aero.de/news-54098/Erneut-Bombendrohung-gegen-Linienflug.html": "2026-11-05T09:40:43Z",
+    "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/": "2026-11-05T09:50:32Z",
+    "https://avitrader.com/2026/11/05/3top-enters-freighter-market-with-a321f-deal/": "2026-11-05T09:50:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4877,7 +4879,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-05T02:40:48Z",
-      "updated": "2026-11-05T02:40:48Z",
+      "updated": "2026-11-05T09:50:50Z",
       "items": [
         {
           "id": "c540d314da64c0ad",
@@ -4887,10 +4889,19 @@
           "domain": "twz.com",
           "summary": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability. The post NASA Announces X-70 “Fractal” Experimental Aircraft appeared first on TWZ .",
           "published": "2026-11-05T02:37:32Z"
+        },
+        {
+          "id": "150eb8bc62b459c1",
+          "feed": "The Aviationist",
+          "title": "NASA Announces X-70 Fractal, its Latest Experimental Aircraft",
+          "url": "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/",
+          "domain": "theaviationist.com",
+          "summary": "NASA has announced its newest experimental aircraft, the X-70 Fractal, described as a high-performance, highly adaptable crewed research platform with rapidly reconfigurable flight-control technology. NASA has announced on Nov. 4, 2026, its latest experimental aircraft, the X-70 Fractal, reflecting the agency’s push toward a renewed X-plane portfolio. The announcement arrived during the UP.Summit at NASA’s […]",
+          "published": "2026-11-05T09:43:47Z"
         }
       ],
       "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
-      "written_count": 1
+      "written_count": 2
     },
     "ca173e9d083": {
       "id": "ca173e9d083",
@@ -5069,6 +5080,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.900118
+    "2026-11": 1.908965
   }
 }

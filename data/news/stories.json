@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
+    "created": "2026-11-05T02:40:51Z",
+    "updated": "2026-11-05T09:50:53Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "NASA dévoile le X-70 Fractal, nouvel avion expérimental habité à commandes de vol reconfigurables",
+    "chapo": "La NASA a annoncé le 4 novembre 2026 le X-70 Fractal, son nouvel avion expérimental, selon The Aviationist. Il est présenté comme une plateforme de recherche habitée, très performante et très adaptable.",
+    "paragraphes": [
+      "D'après The Aviationist, le X-70 Fractal s'appuie sur une technologie de commandes de vol rapidement reconfigurable. L'annonce a été faite lors de l'UP.Summit, et s'inscrit dans la volonté de l'agence de renouveler son portefeuille de X-planes.",
+      "Selon The War Zone, l'appareil doit permettre de tester de nouvelles capacités de contrôle de vol et de repousser les limites de la maniabilité."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The War Zone",
+        "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+        "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
+        "date": "2026-11-05T02:37:32Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "NASA Announces X-70 Fractal, its Latest Experimental Aircraft",
+        "url": "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/",
+        "date": "2026-11-05T09:43:47Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6",
     "created": "2026-11-05T09:41:12Z",
     "updated": "2026-11-05T09:41:12Z",
@@ -361,37 +400,6 @@
         "title": "\"Da ist keine Schwäche zu erkennen\"",
         "url": "https://www.aero.de/news-54088/Wie-kurzfristige-Buchungen-Lufthansa-helfen.html",
         "date": "2026-11-05T05:18:10Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
-    "created": "2026-11-05T02:40:51Z",
-    "updated": "2026-11-05T02:40:51Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "La NASA annonce le X-70 « Fractal », un avion expérimental dédié aux commandes de vol",
-    "chapo": "Selon The War Zone, la NASA a annoncé le X-70 « Fractal », un appareil expérimental destiné à tester de nouvelles capacités de commandes de vol.",
-    "paragraphes": [
-      "D'après The War Zone, cet avion expérimental doit permettre d'essayer de nouvelles fonctions de contrôle du vol. Le média indique aussi qu'il repoussera les limites en matière de manœuvrabilité."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "The War Zone",
-        "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
-        "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
-        "date": "2026-11-05T02:37:32Z",
         "official": false
       }
     ]
