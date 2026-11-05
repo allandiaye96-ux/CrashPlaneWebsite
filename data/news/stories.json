@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765",
+    "created": "2026-11-05T02:01:22Z",
+    "updated": "2026-11-05T02:01:22Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas retirerait ses Airbus A380 quatre ans plus tôt, en misant sur les livraisons d'A350-1000 et de 787",
+    "chapo": "Selon Simple Flying, Qantas prévoit de sortir ses Airbus A380 de sa flotte quatre ans avant l'échéance initiale. Le média lie cette décision à la confiance de la compagnie dans les livraisons à venir de ses A350-1000 et de ses Boeing 787.",
+    "paragraphes": [
+      "D'après le site spécialisé, la compagnie australienne prend des décisions difficiles concernant ses superjumbos. Le retrait anticipé de l'A380 serait ainsi rendu possible par l'arrivée attendue de nouveaux appareils long-courriers.",
+      "Simple Flying met en avant les A350-1000 et les Boeing 787 comme les avions sur lesquels Qantas s'appuie pour remplacer ses quadriréacteurs plus tôt que prévu."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Qantas Is Retiring Its Airbus A380s 4 Years Early Because It Trusts Its A350-1000 & Boeing 787 Deliveries",
+        "url": "https://simpleflying.com/qantas-retiring-airbus-a380s-4-years-early-trust-a350-1000-boeing-787-deliveries/",
+        "date": "2026-11-05T02:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
     "created": "2026-11-03T05:40:58Z",
     "updated": "2026-11-04T23:10:56Z",

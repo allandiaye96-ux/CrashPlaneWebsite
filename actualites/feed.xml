@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 01:50:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 02:01:22 +0000</lastBuildDate>
+  <item>
+    <title>Qantas retirerait ses Airbus A380 quatre ans plus tôt, en misant sur les livraisons d&#x27;A350-1000 et de 787</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765/</guid>
+    <pubDate>Thu, 05 Nov 2026 02:01:22 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Qantas prévoit de sortir ses Airbus A380 de sa flotte quatre ans avant l&#x27;échéance initiale. Le média lie cette décision à la confiance de la compagnie dans les livraisons à venir de ses A350-1000 et de ses Boeing 787.</description>
+  </item>
   <item>
     <title>Qatar Airways lance deux nouvelles destinations sud-américaines au départ de Doha en Boeing 777-200LR</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 06:10:56 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon aero.de, Lufthansa a vu son bénéfice net du troisième trimestre progresser de 30 % malgré la flambée des prix du kérosène. D&#x27;après airliners.de, le groupe abaisse toutefois une nouvelle fois sa prévision de résultat pour l&#x27;année.</description>
-  </item>
-  <item>
-    <title>Learjet 60 en Floride : le NTSB relève des indices de désintégration en vol avant l&#x27;impact</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140/</guid>
-    <pubDate>Tue, 03 Nov 2026 05:40:58 +0000</pubDate>
-    <category>Enquête</category>
-    <description>Selon AeroTime, les enquêteurs du NTSB ont trouvé des éléments indiquant que le Learjet 60 accidenté en Floride a perdu certains composants avant de s&#x27;écraser. Les causes de l&#x27;accident ne sont pas établies.</description>
   </item>
 </channel>
 </rss>

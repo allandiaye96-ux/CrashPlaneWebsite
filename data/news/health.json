@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T01:50:33Z",
+  "run": "2026-11-05T02:01:00Z",
   "stats": {
     "fetched": 697,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.7193,
+  "spend_month_usd": 1.7304,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -692,6 +692,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c"
+    },
+    {
+      "dossier": "Qantas retrait anticipé A380",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765"
     },
     {
       "dossier": "Étude chinoise aubes GEnx Boeing 787",
