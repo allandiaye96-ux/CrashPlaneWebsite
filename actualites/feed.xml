@@ -6,7 +6,23 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 05:10:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 05:21:00 +0000</lastBuildDate>
+  <item>
+    <title>Lufthansa : moins de passagers au troisième trimestre 2026, mais un chiffre d&#x27;affaires record</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083/</guid>
+    <pubDate>Thu, 05 Nov 2026 05:21:00 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, Lufthansa a transporté moins de passagers que l&#x27;année précédente durant le trimestre d&#x27;été 2026, tout en réalisant un chiffre d&#x27;affaires record.</description>
+  </item>
+  <item>
+    <title>Alertes à la bombe en Europe : vols déroutés, fouilles et escorte militaire, sans explosif retrouvé</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7/</guid>
+    <pubDate>Thu, 05 Nov 2026 05:20:57 +0000</pubDate>
+    <category>Incident</category>
+    <description>Selon Air Journal, plusieurs vols vers la Pologne, la Bulgarie, l&#x27;Italie et l&#x27;Espagne ont fait l&#x27;objet de menaces le 3 novembre 2026. D&#x27;après airliners.de, aucun explosif n&#x27;a été découvert à ce stade.</description>
+  </item>
   <item>
     <title>La NASA annonce le X-70 « Fractal », un avion expérimental dédié aux commandes de vol</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f/</link>
@@ -230,22 +246,6 @@
     <pubDate>Tue, 03 Nov 2026 07:01:28 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon Air Journal, les États-Unis réclament des explications sur un financement de 3 milliards d&#x27;euros accordé à Airbus par la Banque européenne d&#x27;investissement, au risque de fragiliser la trêve commerciale avec Bruxelles.</description>
-  </item>
-  <item>
-    <title>Avolon fonde la plateforme de leasing Constellation Aviation avec I Squared Capital et ADIA</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491/</guid>
-    <pubDate>Tue, 03 Nov 2026 06:21:00 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Le loueur Avolon a créé une nouvelle société de leasing, Constellation Aviation, avec I Squared Capital et une entité liée au fonds d&#x27;Abou Dhabi ADIA, selon airliners.de.</description>
-  </item>
-  <item>
-    <title>Ryanair : le bénéfice net du premier semestre 2026-2027 recule de 15%, pénalisé par le carburant</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae/</guid>
-    <pubDate>Tue, 03 Nov 2026 06:11:02 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Le Journal de l&#x27;Aviation, Ryanair a vu son résultat net semestriel baisser de 15%, à 2,15 milliards d&#x27;euros. Le titre de l&#x27;article attribue ce recul au doublement du prix du carburant non couvert.</description>
   </item>
 </channel>
 </rss>

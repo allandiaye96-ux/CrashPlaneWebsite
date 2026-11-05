@@ -1488,7 +1488,9 @@
     "https://simpleflying.com/qantas-retiring-airbus-a380s-4-years-early-trust-a350-1000-boeing-787-deliveries/": "2026-11-05T02:01:00Z",
     "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft": "2026-11-05T02:40:34Z",
     "https://www.airliners.de/schwedische-flughaefen-wachsen-international-inlandsverkehr-schrumpft/91327": "2026-11-05T03:20:33Z",
-    "https://simpleflying.com/how-emirates-safeguards-its-longest-airbus-a380-route-little-known-fallback/": "2026-11-05T04:20:32Z"
+    "https://simpleflying.com/how-emirates-safeguards-its-longest-airbus-a380-route-little-known-fallback/": "2026-11-05T04:20:32Z",
+    "https://www.aero.de/news-54088/Wie-kurzfristige-Buchungen-Lufthansa-helfen.html": "2026-11-05T05:20:33Z",
+    "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318": "2026-11-05T05:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4602,7 +4604,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-04T13:01:40Z",
-      "updated": "2026-11-04T13:01:40Z",
+      "updated": "2026-11-05T05:20:49Z",
       "items": [
         {
           "id": "2812e262ab995040",
@@ -4612,10 +4614,19 @@
           "domain": "air-journal.fr",
           "summary": "Au moins sept vols à destination de la Pologne, de la Bulgarie, de l’Italie et de l’Espagne ont été visés par des menaces à la bombe mardi 3 novembre 2026. Déroutement d’un appareil de LOT, fermeture temporaire de Varsovie-Modlin, escorte militaire en Italie : les alertes ont mobilisé les services de sûreté, sans qu’aucun explosif […]",
           "published": "2026-11-04T13:00:09Z"
+        },
+        {
+          "id": "66118a5b4672e00c",
+          "feed": "airliners.de",
+          "title": "Serie von Bombendrohungen stört Flugverkehr in Europa",
+          "url": "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318",
+          "domain": "airliners.de",
+          "summary": "Eine Serie von Bombendrohungen hat in den vergangenen Tagen Passagierflüge in ganz Europa gestört. Mehrere Flugzeuge mussten umgeleitet und durchsucht werden. Sprengstoff wurde bislang nicht gefunden.",
+          "published": "2026-11-05T04:13:00Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7",
+      "written_count": 2
     },
     "c532f85ef92": {
       "id": "c532f85ef92",
@@ -4886,10 +4897,31 @@
       ],
       "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
       "written_count": 1
+    },
+    "ca173e9d083": {
+      "id": "ca173e9d083",
+      "label": "Lufthansa résultats T3 deuxième trimestre 2026 kérosène",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-05T05:20:49Z",
+      "updated": "2026-11-05T05:20:49Z",
+      "items": [
+        {
+          "id": "f20f1bc49badd1a0",
+          "feed": "aero.de",
+          "title": "\"Da ist keine Schwäche zu erkennen\"",
+          "url": "https://www.aero.de/news-54088/Wie-kurzfristige-Buchungen-Lufthansa-helfen.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Lufthansa hat im Sommerquartal 2026 weniger Fluggäste als im Vorjahr befördert - und liefert gleichwohl einen Rekordumsatz ab. Der Konzern hat Instrumente gegen die rekordhohen Kerosinpreise gefunden - zahlungswillige Kunden und geschickte Netzsteuerung halten Lufthansa in der Spur.",
+          "published": "2026-11-05T05:18:10Z"
+        }
+      ],
+      "story_id": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.739607
+    "2026-11": 1.766049
   }
 }

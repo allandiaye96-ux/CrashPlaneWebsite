@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T05:10:33Z",
+  "run": "2026-11-05T05:20:33Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.7396,
+  "spend_month_usd": 1.766,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -382,6 +382,12 @@
       "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
     },
     {
+      "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7"
+    },
+    {
       "dossier": "Alaska Airlines Anchorage Tokyo 737 MAX",
       "statut": "source_unique",
       "editeurs": 1,
@@ -706,6 +712,12 @@
       "breve": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f"
     },
     {
+      "dossier": "Lufthansa résultats T3 deuxième trimestre 2026 kérosène",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083"
+    },
+    {
       "dossier": "Étude chinoise aubes GEnx Boeing 787",
       "statut": "signale",
       "editeurs": 1,
@@ -779,12 +791,6 @@
     },
     {
       "dossier": "SNC se retire du programme UJTS de la US Navy",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

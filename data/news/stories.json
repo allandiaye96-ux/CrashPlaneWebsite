@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083",
+    "created": "2026-11-05T05:21:00Z",
+    "updated": "2026-11-05T05:21:00Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa : moins de passagers au troisième trimestre 2026, mais un chiffre d'affaires record",
+    "chapo": "Selon aero.de, Lufthansa a transporté moins de passagers que l'année précédente durant le trimestre d'été 2026, tout en réalisant un chiffre d'affaires record.",
+    "paragraphes": [
+      "D'après aero.de, le groupe fait face à des prix du kérosène à des niveaux record. Il aurait trouvé des leviers pour y répondre : des clients prêts à payer davantage et une gestion habile de son réseau.",
+      "Le média estime que ces éléments permettent à Lufthansa de rester sur sa trajectoire, et ne relève aucun signe de faiblesse dans ces résultats."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "\"Da ist keine Schwäche zu erkennen\"",
+        "url": "https://www.aero.de/news-54088/Wie-kurzfristige-Buchungen-Lufthansa-helfen.html",
+        "date": "2026-11-05T05:18:10Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7",
+    "created": "2026-11-05T05:20:57Z",
+    "updated": "2026-11-05T05:20:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Alertes à la bombe en Europe : vols déroutés, fouilles et escorte militaire, sans explosif retrouvé",
+    "chapo": "Selon Air Journal, plusieurs vols vers la Pologne, la Bulgarie, l'Italie et l'Espagne ont fait l'objet de menaces le 3 novembre 2026. D'après airliners.de, aucun explosif n'a été découvert à ce stade.",
+    "paragraphes": [
+      "Air Journal recense au moins sept vols concernés par des menaces d'attentat le 3 novembre 2026, avec pour destinations la Pologne, la Bulgarie, l'Italie et l'Espagne. Un appareil de LOT a été dérouté, l'aéroport de Varsovie-Modlin a fermé temporairement et, en Italie, un avion a bénéficié d'une escorte militaire. Les services de sûreté ont été mobilisés.",
+      "Le média allemand airliners.de décrit une série de menaces ayant perturbé le trafic passager à travers l'Europe sur plusieurs jours. Plusieurs avions ont dû être déviés puis fouillés. Aucun explosif n'a été trouvé jusqu'à présent, d'après les deux médias."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Déroutements, avions de chasse, fouilles : des alertes à la bombe perturbent plusieurs vols en Europe",
+        "url": "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html",
+        "date": "2026-11-04T13:00:09Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Serie von Bombendrohungen stört Flugverkehr in Europa",
+        "url": "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318",
+        "date": "2026-11-05T04:13:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
     "created": "2026-11-05T02:40:51Z",
     "updated": "2026-11-05T02:40:51Z",
