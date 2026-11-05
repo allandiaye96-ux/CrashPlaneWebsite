@@ -1495,7 +1495,8 @@
     "https://simpleflying.com/why-boeing-787-9-operators-moving-1-2-1-business-class/": "2026-11-05T06:01:00Z",
     "https://www.air-journal.fr/2026-11-05-aeroport-de-bangkok-suvarnabhumi-moins-de-duty-free-plus-de-services-premium-et-extension-des-capacites-5278677.html": "2026-11-05T06:01:00Z",
     "https://www.airliners.de/netz-strecken-discover-ziele-a350-emirates-klarheit-air-transat-streicht-toronto-berlin/91332": "2026-11-05T06:20:35Z",
-    "https://www.airliners.de/helvetic-fliegt-2027-swiss-condor/91315": "2026-11-05T06:20:35Z"
+    "https://www.airliners.de/helvetic-fliegt-2027-swiss-condor/91315": "2026-11-05T06:20:35Z",
+    "https://www.air-journal.fr/2026-11-05-indigo-lorgne-jusqua-150-embraer-pour-muscler-son-reseau-regional-5278678.html": "2026-11-05T07:01:01Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4549,7 +4550,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-04T11:50:52Z",
-      "updated": "2026-11-04T15:21:03Z",
+      "updated": "2026-11-05T07:01:14Z",
       "items": [
         {
           "id": "b2eeb92af4c1281b",
@@ -4577,10 +4578,19 @@
           "domain": "airliners.de",
           "summary": "Die größte Fluggesellschaft Indiens spricht mit Embraer über einen der größten Aufträge in der Geschichte des brasilianischen Herstellers. Welches Flugzeugmuster es werden soll, ist allerdings noch offen.",
           "published": "2026-11-04T14:57:02Z"
+        },
+        {
+          "id": "db726d37b665243f",
+          "feed": "Air Journal",
+          "title": "IndiGo lorgne jusqu’à 150 Embraer pour muscler son réseau régional",
+          "url": "https://www.air-journal.fr/2026-11-05-indigo-lorgne-jusqua-150-embraer-pour-muscler-son-reseau-regional-5278678.html",
+          "domain": "air-journal.fr",
+          "summary": "La première compagnie aérienne indienne discute avec Embraer d’une acquisition de 100 avions régionaux, assortie d’options sur une cinquantaine d’appareils supplémentaires, selon Reuters. Encore préliminaires, ces échanges pourraient ouvrir un nouveau chapitre dans le développement de son réseau intérieur, aujourd’hui assuré principalement en Airbus et en ATR. Une commande potentielle, sans modèle arrêté IndiGo pourrait offrir […]",
+          "published": "2026-11-05T07:00:15Z"
         }
       ],
       "story_id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
-      "written_count": 3
+      "written_count": 4
     },
     "c28d60c8f8b": {
       "id": "c28d60c8f8b",
@@ -4927,6 +4937,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.768509
+    "2026-11": 1.779244
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T06:50:32Z",
+  "run": "2026-11-05T07:01:01Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.7685,
+  "spend_month_usd": 1.7792,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -160,6 +160,12 @@
       "breve": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf"
     },
     {
+      "dossier": "IndiGo commande jets régionaux Embraer",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -230,12 +236,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
-      "dossier": "IndiGo commande jets régionaux Embraer",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
       "dossier": "Air Serbia vol Moscou retour à Belgrade",
