@@ -2,23 +2,23 @@
   {
     "id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
     "created": "2026-11-05T08:40:57Z",
-    "updated": "2026-11-05T08:40:57Z",
-    "version": 1,
+    "updated": "2026-11-05T09:01:28Z",
+    "version": 2,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Air France-KLM recentre KLM sur ses 160 liaisons directes depuis Amsterdam-Schiphol",
-    "chapo": "Selon aero.de, Air France-KLM réorganise sa filiale néerlandaise KLM en raison du prix élevé du kérosène. La compagnie doit se concentrer entièrement sur ses liaisons directes au départ de Schiphol.",
+    "titre": "Air France-KLM resserre KLM : recentrage sur Schiphol, fin de l'A320neo et réduction des effectifs",
+    "chapo": "Face à la hausse des prix du kérosène, Air France-KLM réorganise sa filiale néerlandaise KLM, selon aero.de et Simple Flying. Le plan prévoit un recentrage du réseau et une baisse des effectifs.",
     "paragraphes": [
-      "D'après aero.de, KLM va désormais focaliser son activité sur 160 liaisons directes à l'aéroport d'Amsterdam-Schiphol. Le groupe justifie cette réorientation par le niveau élevé des prix du kérosène.",
-      "Toujours d'après le média allemand, KLM renonce par ailleurs complètement à l'Airbus A320neo."
+      "D'après aero.de, la compagnie doit désormais se concentrer pleinement sur ses 160 liaisons directes à l'aéroport d'Amsterdam-Schiphol. KLM renonce par ailleurs totalement à l'Airbus A320neo.",
+      "Simple Flying décrit une refonte financière « douloureuse » d'un milliard d'euros pour le transporteur néerlandais, qui supprimerait environ 15 % de ses effectifs afin d'améliorer ses résultats."
     ],
     "contradictions": "",
     "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
+      "status": "corrobore",
+      "independent_sources": 2,
       "official_source": false
     },
     "sources": [
@@ -27,6 +27,13 @@
         "title": "Air France-KLM kürzt bei niederländischer Tochter",
         "url": "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html",
         "date": "2026-11-05T08:34:47Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "KLM Forced Into 'Painful' €1B Financial Overhaul",
+        "url": "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/",
+        "date": "2026-11-05T08:53:27Z",
         "official": false
       }
     ]

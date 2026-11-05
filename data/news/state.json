@@ -1505,7 +1505,8 @@
     "https://www.air-journal.fr/2026-11-05-boeing-777-9-des-vents-dislande-aux-hauts-plateaux-boliviens-la-certification-a-lepreuve-5278680.html": "2026-11-05T08:01:03Z",
     "https://www.airliners.de/a99-vollsperrung-anfahrt-flughafen-muenchen-dauert-laenger/91296": "2026-11-05T08:20:34Z",
     "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html": "2026-11-05T08:30:50Z",
-    "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html": "2026-11-05T08:40:33Z"
+    "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html": "2026-11-05T08:40:33Z",
+    "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/": "2026-11-05T09:01:04Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4949,7 +4950,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-05T08:40:53Z",
-      "updated": "2026-11-05T08:40:53Z",
+      "updated": "2026-11-05T09:01:19Z",
       "items": [
         {
           "id": "60b45e9de6eed274",
@@ -4959,14 +4960,23 @@
           "domain": "aero.de",
           "summary": "PARIS - Der Flugkonzern Air France-KLM richtet angesichts der hohen Kerosinpreise seeine niederländische Sparte KLM neu aus. Künftig sollen sich die weiß-blauen Maschinen voll und ganz auf ihre 160 Direktverbindungen an Amsterdams Flughafen Schiphol fokussieren. Auf den Airbus A320neo verzichtet KLM ganz.",
           "published": "2026-11-05T08:34:47Z"
+        },
+        {
+          "id": "734dc929079e2ca2",
+          "feed": "Simple Flying",
+          "title": "KLM Forced Into 'Painful' €1B Financial Overhaul",
+          "url": "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/",
+          "domain": "simpleflying.com",
+          "summary": "The Dutch flag carrier will cut its staff by around 15% as it looks to improve its earnings.",
+          "published": "2026-11-05T08:53:27Z"
         }
       ],
       "story_id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
-      "written_count": 1
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 1.803873
+    "2026-11": 1.818227
   }
 }

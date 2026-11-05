@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T08:50:43Z",
+  "run": "2026-11-05T09:01:04Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.8039,
+  "spend_month_usd": 1.8182,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -388,6 +388,12 @@
       "breve": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7"
     },
     {
+      "dossier": "Air France-KLM recentre KLM sur Schiphol",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
+    },
+    {
       "dossier": "Wizz Air Luton départs volontaires pilotes",
       "statut": "source_unique",
       "editeurs": 1,
@@ -716,12 +722,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
-    },
-    {
-      "dossier": "Air France-KLM recentre KLM sur Schiphol",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
     },
     {
       "dossier": "Étude chinoise aubes GEnx Boeing 787",
