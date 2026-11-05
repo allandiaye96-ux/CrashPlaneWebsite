@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
+    "created": "2026-11-05T16:50:50Z",
+    "updated": "2026-11-05T16:50:50Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air France-KLM annonce un troisième trimestre solide, avec un chiffre d'affaires en hausse de 7,6 %",
+    "chapo": "Selon Le Journal de l'Aviation, Air France-KLM a publié de bons résultats pour le troisième trimestre. Le groupe a vu son chiffre d'affaires progresser de 7,6 %.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, cette hausse du chiffre d'affaires, de 7,6 %, place le groupe dans la dynamique observée chez nombre de ses concurrents, qui ont eux aussi enregistré une progression importante de leurs revenus."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Air France-KLM signe un 3e trimestre solide",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html",
+        "date": "2026-11-05T16:45:59Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e",
     "created": "2026-11-05T16:40:52Z",
     "updated": "2026-11-05T16:40:52Z",

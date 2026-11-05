@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-05T16:40:34Z",
+  "run": "2026-11-05T16:50:34Z",
   "stats": {
     "fetched": 698,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.263,
+  "spend_month_usd": 2.271,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -406,12 +406,6 @@
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
-      "dossier": "Honeywell Aerospace premier trimestre après scission",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-29-honeywell-aerospace-des-penuries-de-pieces-limitent-sa-crois-2ca3"
-    },
-    {
       "dossier": "Air Transat nouvelle ligne Montréal-Istanbul",
       "statut": "source_unique",
       "editeurs": 1,
@@ -770,6 +764,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e"
+    },
+    {
+      "dossier": "Air France-KLM résultats T3 2026",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415"
     },
     {
       "dossier": "Shield AI X-BAT drone de combat VTOL dévoilé",

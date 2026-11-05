@@ -1584,7 +1584,8 @@
     "https://www.journal-aviation.com/actualites-mro-support/maintenance-cellule/hop-investit-4-millions-deuros-pour-la-maintenance-des-airbus-a220-dair-france-a-clermont-ferrand-20261105.html": "2026-11-05T16:20:35Z",
     "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/": "2026-11-05T16:30:53Z",
     "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-05T16:30:53Z",
-    "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es": "2026-11-05T16:40:34Z"
+    "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es": "2026-11-05T16:40:34Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html": "2026-11-05T16:50:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1742,27 +1743,6 @@
       ],
       "story_id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
       "written_count": 3
-    },
-    "c9b5bbb2ca3": {
-      "id": "c9b5bbb2ca3",
-      "label": "Honeywell Aerospace premier trimestre après scission",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-10-29T16:47:37Z",
-      "items": [
-        {
-          "id": "4d6fa19f4d12f739",
-          "feed": "AeroTime",
-          "title": "Parts shortages limit Honeywell Aerospace growth in first quarter after split",
-          "url": "https://www.aerotime.aero/articles/honeywell-aerospace-q3-2026-results-parts-shortages",
-          "domain": "aerotime.aero",
-          "summary": "Honeywell Aerospace reported higher sales and profit in its first full quarter as an independent company, but shortages… The post Parts shortages limit Honeywell Aerospace growth in first quarter after split appeared first on AeroTime .",
-          "published": "2026-10-29T15:30:02Z"
-        }
-      ],
-      "story_id": "2026-10-29-honeywell-aerospace-des-penuries-de-pieces-limitent-sa-crois-2ca3",
-      "written_count": 1
     },
     "c9cc2d782b1": {
       "id": "c9cc2d782b1",
@@ -5261,10 +5241,31 @@
       ],
       "story_id": "2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e",
       "written_count": 1
+    },
+    "c6312a4d415": {
+      "id": "c6312a4d415",
+      "label": "Air France-KLM résultats T3 2026",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-05T16:50:47Z",
+      "updated": "2026-11-05T16:50:47Z",
+      "items": [
+        {
+          "id": "261e502ef005a286",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Air France-KLM signe un 3e trimestre solide",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html",
+          "domain": "journal-aviation.com",
+          "summary": "Air France-KLM a enregistré des résultats solides au troisième trimestre. Comme nombre de ses concurrents, le groupe a enregistré une hausse importante de son chiffre d’affaires, de 7,6 % à […] L’article Air France-KLM signe un 3e trimestre solide a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-05T16:45:59Z"
+        }
+      ],
+      "story_id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.263
+    "2026-11": 2.270964
   }
 }

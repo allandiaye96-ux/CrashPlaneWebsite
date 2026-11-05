@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 05 Nov 2026 16:40:52 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 16:50:50 +0000</lastBuildDate>
+  <item>
+    <title>Air France-KLM annonce un troisième trimestre solide, avec un chiffre d&#x27;affaires en hausse de 7,6 %</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415/</guid>
+    <pubDate>Thu, 05 Nov 2026 16:50:50 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Le Journal de l&#x27;Aviation, Air France-KLM a publié de bons résultats pour le troisième trimestre. Le groupe a vu son chiffre d&#x27;affaires progresser de 7,6 %.</description>
+  </item>
   <item>
     <title>Wheels Up, partenaire de Delta Air Lines, commande six Embraer Phenom 300E neufs</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 08:21:03 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Swiss veut à long terme n&#x27;exploiter que la famille A320 sur son réseau court-courrier. La compagnie sortira ses neuf A220-100 de la flotte d&#x27;ici fin 2027.</description>
-  </item>
-  <item>
-    <title>Naples-Capodichino fermé en novembre 2026 pour des travaux de piste, une partie des vols vers Salerne</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d/</guid>
-    <pubDate>Wed, 04 Nov 2026 08:10:54 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Selon Air Journal, le trafic aérien est suspendu à Naples-Capodichino du 1er au 30 novembre 2026, le temps d&#x27;un chantier de rénovation de la piste et des voies de circulation. Une partie des vols est reportée sur l&#x27;aéroport de Salerne.</description>
   </item>
 </channel>
 </rss>
