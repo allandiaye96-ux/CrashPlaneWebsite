@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6",
+    "created": "2026-11-05T09:41:12Z",
+    "updated": "2026-11-05T09:41:12Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Eve Air Mobility signe un accord ferme avec FlyBIS Aviation pour jusqu'à 12 eVTOL",
+    "chapo": "Selon AviTrader, Eve Air Mobility a conclu un accord contraignant avec le brésilien FlyBIS Aviation portant sur un maximum de 12 appareils électriques à décollage et atterrissage verticaux (eVTOL).",
+    "paragraphes": [
+      "L'accord comprend deux commandes fermes, assorties de droits d'achat pour dix appareils supplémentaires, d'après AviTrader.",
+      "Ce contrat fait suite à une lettre d'intention signée par les deux entreprises en 2022. Il prolonge leur collaboration visant à mettre en place des opérations électriques."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "FlyBIS orders up to 12 Eve eVTOLs",
+        "url": "https://avitrader.com/2026/11/05/flybis-orders-up-to-12-eve-evtols/",
+        "date": "2026-11-05T09:35:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-autoflight-realise-un-vol-en-formation-avec-cinq-evtol-auton-7d97",
+    "created": "2026-11-05T09:41:09Z",
+    "updated": "2026-11-05T09:41:09Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "AutoFlight réalise un vol en formation avec cinq eVTOL autonomes, une première mondiale selon AeroTime",
+    "chapo": "Selon AeroTime, le constructeur chinois AutoFlight a organisé un vol en formation réunissant cinq eVTOL (avions électriques à décollage et atterrissage verticaux) autonomes. Le média présente cette démonstration comme une première mondiale.",
+    "paragraphes": [
+      "D'après AeroTime, qui publie une vidéo de l'opération, cinq appareils eVTOL sans pilote à bord ont volé ensemble en formation. L'événement est attribué à l'entreprise chinoise AutoFlight."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "AutoFlight stages world’s first formation flight with 5 unmanned eVTOLs: video",
+        "url": "https://www.aerotime.aero/articles/autoflight-worlds-first-formation-flight-five-unmanned-evtols-video",
+        "date": "2026-11-05T08:50:57Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7",
+    "created": "2026-11-05T05:20:57Z",
+    "updated": "2026-11-05T09:41:06Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Menaces à la bombe en Europe : plusieurs vols déroutés ou fouillés, aucun explosif retrouvé",
+    "chapo": "Une série d'alertes à la bombe a perturbé des vols de passagers en Europe début novembre 2026, selon Air Journal et airliners.de. Aucun engin explosif n'a été découvert à ce stade.",
+    "paragraphes": [
+      "D'après Air Journal, au moins sept vols vers la Pologne, la Bulgarie, l'Italie et l'Espagne ont fait l'objet de menaces le 3 novembre 2026. Un appareil de LOT a été dérouté, l'aéroport de Varsovie-Modlin a été fermé temporairement, et une escorte militaire a été mise en place en Italie.",
+      "Selon airliners.de, plusieurs avions ont dû être détournés vers d'autres aéroports puis fouillés, sans qu'aucune substance explosive ne soit trouvée jusqu'ici.",
+      "Un nouveau cas a été rapporté par aero.de : un avion qui devait rejoindre l'Italie a été dirigé vers la France après un avertissement faisant état d'une possible bombe à bord."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Déroutements, avions de chasse, fouilles : des alertes à la bombe perturbent plusieurs vols en Europe",
+        "url": "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html",
+        "date": "2026-11-04T13:00:09Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Serie von Bombendrohungen stört Flugverkehr in Europa",
+        "url": "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318",
+        "date": "2026-11-05T04:13:00Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Erneut Bombendrohung gegen Linienflug",
+        "url": "https://www.aero.de/news-54098/Erneut-Bombendrohung-gegen-Linienflug.html",
+        "date": "2026-11-05T09:31:07Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
     "created": "2026-11-05T09:21:07Z",
     "updated": "2026-11-05T09:21:07Z",
@@ -251,45 +361,6 @@
         "title": "\"Da ist keine Schwäche zu erkennen\"",
         "url": "https://www.aero.de/news-54088/Wie-kurzfristige-Buchungen-Lufthansa-helfen.html",
         "date": "2026-11-05T05:18:10Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7",
-    "created": "2026-11-05T05:20:57Z",
-    "updated": "2026-11-05T05:20:57Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Incident",
-    "importance": 2,
-    "titre": "Alertes à la bombe en Europe : vols déroutés, fouilles et escorte militaire, sans explosif retrouvé",
-    "chapo": "Selon Air Journal, plusieurs vols vers la Pologne, la Bulgarie, l'Italie et l'Espagne ont fait l'objet de menaces le 3 novembre 2026. D'après airliners.de, aucun explosif n'a été découvert à ce stade.",
-    "paragraphes": [
-      "Air Journal recense au moins sept vols concernés par des menaces d'attentat le 3 novembre 2026, avec pour destinations la Pologne, la Bulgarie, l'Italie et l'Espagne. Un appareil de LOT a été dérouté, l'aéroport de Varsovie-Modlin a fermé temporairement et, en Italie, un avion a bénéficié d'une escorte militaire. Les services de sûreté ont été mobilisés.",
-      "Le média allemand airliners.de décrit une série de menaces ayant perturbé le trafic passager à travers l'Europe sur plusieurs jours. Plusieurs avions ont dû être déviés puis fouillés. Aucun explosif n'a été trouvé jusqu'à présent, d'après les deux médias."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Air Journal",
-        "title": "Déroutements, avions de chasse, fouilles : des alertes à la bombe perturbent plusieurs vols en Europe",
-        "url": "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html",
-        "date": "2026-11-04T13:00:09Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Serie von Bombendrohungen stört Flugverkehr in Europa",
-        "url": "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318",
-        "date": "2026-11-05T04:13:00Z",
         "official": false
       }
     ]

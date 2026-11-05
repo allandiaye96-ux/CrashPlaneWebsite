@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-05T09:30:49Z",
+  "run": "2026-11-05T09:40:43Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 1.8652,
+  "spend_month_usd": 1.9001,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -238,6 +238,12 @@
       "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
     },
     {
+      "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7"
+    },
+    {
       "dossier": "Air Serbia vol Moscou retour à Belgrade",
       "statut": "corrobore",
       "editeurs": 3,
@@ -386,12 +392,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
-    },
-    {
-      "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7"
     },
     {
       "dossier": "Vaeridion financement avion électrique UE",
@@ -728,6 +728,18 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
+    },
+    {
+      "dossier": "AutoFlight vol en formation de 5 eVTOL",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-autoflight-realise-un-vol-en-formation-avec-cinq-evtol-auton-7d97"
+    },
+    {
+      "dossier": "Eve commande FlyBIS eVTOL Brésil",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6"
     },
     {
       "dossier": "Lockheed contrat missile hypersonique AGM-183A 694 M$",
