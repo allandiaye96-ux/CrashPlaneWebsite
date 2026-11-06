@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T16:30:55Z",
+  "run": "2026-11-06T16:40:35Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.9241,
+  "spend_month_usd": 2.9325,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -818,6 +818,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a"
+    },
+    {
+      "dossier": "Singapore Airlines A350-900ULR nouvelles cabines 132 sièges",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03"
     },
     {
       "dossier": "Pakistan essai missile air-air Fa'az",

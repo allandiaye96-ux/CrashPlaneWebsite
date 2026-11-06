@@ -1722,7 +1722,9 @@
     "https://www.aerotime.aero/articles/south-korea-selects-four-sikorsky-s-92a-presidential-helicopters": "2026-11-06T15:50:33Z",
     "https://www.airliners.de/ita-airways-einigt-gewerkschaften-180-freiwillige-abgaenge/91384": "2026-11-06T16:20:34Z",
     "https://www.airliners.de/beond-stellt-november-alle-linienfluege-ein/91383": "2026-11-06T16:20:34Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/le-737-max-10-de-boeing-ne-fera-pas-de-miracle-20261106.html": "2026-11-06T16:20:34Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/le-737-max-10-de-boeing-ne-fera-pas-de-miracle-20261106.html": "2026-11-06T16:20:34Z",
+    "https://simpleflying.com/us-navy-vs-us-air-force-pilot-salaries/": "2026-11-06T16:40:35Z",
+    "https://simpleflying.com/only-132-seats-singapore-airlines-ultra-premium-a350-900ulrs/": "2026-11-06T16:40:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5720,10 +5722,31 @@
       ],
       "story_id": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a",
       "written_count": 1
+    },
+    "cf99bcf2c03": {
+      "id": "cf99bcf2c03",
+      "label": "Singapore Airlines A350-900ULR nouvelles cabines 132 sièges",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-06T16:40:50Z",
+      "updated": "2026-11-06T16:40:50Z",
+      "items": [
+        {
+          "id": "a7037b1af36a57d6",
+          "feed": "Simple Flying",
+          "title": "Only 132 Seats: Singapore Airlines Goes Ultra-Premium On Airbus A350-900ULRs.",
+          "url": "https://simpleflying.com/only-132-seats-singapore-airlines-ultra-premium-a350-900ulrs/",
+          "domain": "simpleflying.com",
+          "summary": "Singapore Airlines unveils luxurious new cabins for its ultra-long-haul A350s, cutting capacity by 18% and introducing First Class.",
+          "published": "2026-11-06T16:35:20Z"
+        }
+      ],
+      "story_id": "2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.924055
+    "2026-11": 2.932464
   }
 }

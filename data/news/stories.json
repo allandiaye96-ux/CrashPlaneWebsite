@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03",
+    "created": "2026-11-06T16:40:53Z",
+    "updated": "2026-11-06T16:40:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Singapore Airlines dévoile de nouvelles cabines pour ses A350-900ULR, limitées à 132 sièges",
+    "chapo": "Selon Simple Flying, Singapore Airlines présente de nouvelles cabines haut de gamme pour ses Airbus A350-900ULR, utilisés sur les vols ultra-longue distance. La capacité y est réduite de 18 % et une classe First fait son apparition.",
+    "paragraphes": [
+      "D'après Simple Flying, la compagnie singapourienne repositionne ces A350-900ULR sur un segment ultra-premium, avec 132 sièges seulement à bord.",
+      "Le média indique que cette configuration s'accompagne de l'introduction d'une classe First sur ces appareils, dans le cadre d'un réaménagement présenté comme luxueux."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Only 132 Seats: Singapore Airlines Goes Ultra-Premium On Airbus A350-900ULRs.",
+        "url": "https://simpleflying.com/only-132-seats-singapore-airlines-ultra-premium-a350-900ulrs/",
+        "date": "2026-11-06T16:35:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a",
     "created": "2026-11-06T16:21:18Z",
     "updated": "2026-11-06T16:21:18Z",
