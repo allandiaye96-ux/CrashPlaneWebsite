@@ -1698,7 +1698,9 @@
     "https://www.airliners.de/condor-terminal-umzug-frankfurt-mitte-april-2027/91376": "2026-11-06T12:20:34Z",
     "https://www.aero.de/news-54112/Weitere-Bombendrohung-gegen-Linienflug.html": "2026-11-06T12:30:52Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html": "2026-11-06T12:50:34Z",
-    "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html": "2026-11-06T13:01:02Z"
+    "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html": "2026-11-06T13:01:02Z",
+    "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new": "2026-11-06T13:10:35Z",
+    "https://www.journal-aviation.com/actualites-mro-support/fpt-skywise-et-vietnam-airlines-sassocient-pour-apporter-des-solutions-ia-aux-operations-aeriennes-20261106.html": "2026-11-06T13:10:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5235,7 +5237,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-06T05:40:57Z",
-      "updated": "2026-11-06T11:40:54Z",
+      "updated": "2026-11-06T13:10:48Z",
       "items": [
         {
           "id": "6b8c66e27989f5e0",
@@ -5263,10 +5265,19 @@
           "domain": "avitrader.com",
           "summary": "Singapore Airlines (SIA) is investing more than S$2 billion in new long-haul cabin products across all four travel classes, with the first installations scheduled for the second half of 2027. The new first-class, business-class, premium-economy and economy-class products will be introduced progressively on 41 retrofitted Airbus A350-900 long-haul and A350-900 ultra-long-range (ULR) aircraft, as well […] The post Singapore Airlines invests S$2bn in new long-haul cabins appeared first on AviTrader Aviation News .",
           "published": "2026-11-06T11:38:15Z"
+        },
+        {
+          "id": "7a8b5405556edf3e",
+          "feed": "AeroTime",
+          "title": "Singapore Airlines introduces new first and business long-haul cabin products",
+          "url": "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new",
+          "domain": "aerotime.aero",
+          "summary": "Singapore Airlines (SIA) has announced its new first, business, premium economy and economy long-haul products, to arrive from… The post Singapore Airlines introduces new first and business long-haul cabin products appeared first on AeroTime .",
+          "published": "2026-11-06T13:00:11Z"
         }
       ],
       "story_id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
-      "written_count": 3
+      "written_count": 4
     },
     "cfca5dd9898": {
       "id": "cfca5dd9898",
@@ -5604,6 +5615,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.672278
+    "2026-11": 2.683245
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T13:01:02Z",
+  "run": "2026-11-06T13:10:35Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.6723,
+  "spend_month_usd": 2.6832,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -190,6 +190,12 @@
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
+      "dossier": "Singapore Airlines suites First et Business 777-9",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
+    },
+    {
       "dossier": "Airbus résultats T3 2026 livraisons",
       "statut": "corrobore",
       "editeurs": 3,
@@ -260,12 +266,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
-    },
-    {
-      "dossier": "Singapore Airlines suites First et Business 777-9",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
     },
     {
       "dossier": "JetBlue créanciers conseillers restructuration",
