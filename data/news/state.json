@@ -1644,7 +1644,9 @@
     "https://simpleflying.com/every-airline-flying-us-australia-2026-routes-operating/": "2026-11-06T09:01:02Z",
     "https://www.aero.de/news-54107/IAG-erleidet-Gewinnrueckgang-im-Sommer.html": "2026-11-06T09:01:02Z",
     "https://www.air-journal.fr/2026-11-06-emirates-benefice-en-chute-de-68-mais-toujours-dans-le-vert-5278696.html": "2026-11-06T09:01:02Z",
-    "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations": "2026-11-06T09:10:34Z"
+    "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations": "2026-11-06T09:10:34Z",
+    "https://www.airliners.de/umbuchungen-kosten-geschaeftsreisende-deutlich-haeufiger-gebuehren/91359": "2026-11-06T09:20:34Z",
+    "https://www.airliners.de/turkish-airlines-quartalsgewinn-einstellungsstopp-kerosin/91356": "2026-11-06T09:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5499,6 +5501,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.536746
+    "2026-11": 2.537586
   }
 }
