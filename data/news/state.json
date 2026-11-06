@@ -1708,7 +1708,8 @@
     "https://www.air-journal.fr/2026-11-06-montpellier-volotea-ajoute-malaga-et-bari-a-son-programme-de-lete-2027-5278700.html": "2026-11-06T14:01:02Z",
     "https://simpleflying.com/airbus-a320-eurofighter-nose-commissioning-flights/": "2026-11-06T14:10:34Z",
     "https://leehamnews.com/2026/11/06/beta-focusing-electric-airplane-sales-on-cargo-medical/": "2026-11-06T14:10:34Z",
-    "https://www.airliners.de/bdl-vorausschau-deutschland-faellt-winter-hinter-europa-zurueck/91379": "2026-11-06T14:20:34Z"
+    "https://www.airliners.de/bdl-vorausschau-deutschland-faellt-winter-hinter-europa-zurueck/91379": "2026-11-06T14:20:34Z",
+    "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights": "2026-11-06T14:50:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5341,7 +5342,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-06T09:10:53Z",
-      "updated": "2026-11-06T14:11:07Z",
+      "updated": "2026-11-06T14:51:09Z",
       "items": [
         {
           "id": "2fc28e6c04718f17",
@@ -5360,10 +5361,19 @@
           "domain": "simpleflying.com",
           "summary": "The 30-year-old twinjet acts as a flying testbed for new technologies.",
           "published": "2026-11-06T14:01:50Z"
+        },
+        {
+          "id": "6fab621f56ff457f",
+          "feed": "AeroTime",
+          "title": "Airbus A320 with Eurofighter nose now flying with new fighter radar",
+          "url": "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights",
+          "domain": "aerotime.aero",
+          "summary": "An Airbus A320 fitted with the pointed nose of a Eurofighter has completed commissioning flights with the fighter’s… The post Airbus A320 with Eurofighter nose now flying with new fighter radar appeared first on AeroTime .",
+          "published": "2026-11-06T13:12:32Z"
         }
       ],
       "story_id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
-      "written_count": 2
+      "written_count": 3
     },
     "c4fff5c93c6": {
       "id": "c4fff5c93c6",
@@ -5641,6 +5651,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.751535
+    "2026-11": 2.760982
   }
 }

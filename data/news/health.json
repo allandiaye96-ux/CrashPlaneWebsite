@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T14:40:33Z",
+  "run": "2026-11-06T14:50:35Z",
   "stats": {
-    "fetched": 598,
-    "new": 0,
-    "written": 0,
+    "fetched": 698,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.7515,
+  "spend_month_usd": 2.761,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -268,6 +268,12 @@
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
+      "dossier": "Airbus A320 ATRA laboratoire radar Manching",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
+    },
+    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -440,12 +446,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
-    },
-    {
-      "dossier": "Airbus A320 ATRA laboratoire radar Manching",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
     },
     {
       "dossier": "United Airlines sortie de Tulum",
