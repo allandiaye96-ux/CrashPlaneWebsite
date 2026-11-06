@@ -1726,7 +1726,8 @@
     "https://simpleflying.com/us-navy-vs-us-air-force-pilot-salaries/": "2026-11-06T16:40:35Z",
     "https://simpleflying.com/only-132-seats-singapore-airlines-ultra-premium-a350-900ulrs/": "2026-11-06T16:40:35Z",
     "https://simpleflying.com/emirates-launches-major-new-16-hour-a350-route-to-the-us/": "2026-11-06T17:01:04Z",
-    "https://simpleflying.com/airbus-january-october-delivery-increase/": "2026-11-06T17:01:04Z"
+    "https://simpleflying.com/airbus-january-october-delivery-increase/": "2026-11-06T17:01:04Z",
+    "https://www.airliners.de/bombendrohungen-fluege-weiten-sich-fernsehsender-aus/91378": "2026-11-06T17:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4780,7 +4781,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-06T15:50:45Z",
+      "updated": "2026-11-06T17:20:51Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -4844,6 +4845,15 @@
           "domain": "simpleflying.com",
           "summary": "European flights have been disrupted by the hoaxes for the second day in a row",
           "published": "2026-11-06T15:45:45Z"
+        },
+        {
+          "id": "500565a619dcd4e2",
+          "feed": "airliners.de",
+          "title": "Bombendrohungen gegen Flüge: Bekennerschreiben und Drohungen erreichen Fernsehsender",
+          "url": "https://www.airliners.de/bombendrohungen-fluege-weiten-sich-fernsehsender-aus/91378",
+          "domain": "airliners.de",
+          "summary": "Zum dritten Mal in dieser Woche haben Bombendrohungen den Luftverkehr in Europa beschäftigt. Nun erhielten auch mehrere Fernsehsender Drohungen, samt Bekenntnis zu den Flugdrohungen und der Ankündigung weiterer Angriffe auf Verkehrsmittel. Das Auswärtige Amt sieht Hinweise auf ein koordiniertes Vorgehen.",
+          "published": "2026-11-06T12:46:45Z"
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
@@ -5779,6 +5789,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.953251
+    "2026-11": 2.995712
   }
 }
