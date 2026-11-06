@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T12:01:03Z",
+  "run": "2026-11-06T12:10:32Z",
   "stats": {
     "fetched": 698,
-    "new": 2,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.6209,
+  "spend_month_usd": 2.6217,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -200,12 +200,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1"
-    },
-    {
-      "dossier": "Rolls-Royce moteur futur monocouloir soutien UK",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-29-le-gouvernement-britannique-soutient-l-ambition-de-rolls-roy-82b1"
     },
     {
       "dossier": "Comac CE-25A avion électrique essais",
