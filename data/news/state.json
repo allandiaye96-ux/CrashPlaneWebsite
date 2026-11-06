@@ -1748,7 +1748,10 @@
     "https://www.twz.com/sea/uss-theodore-roosevelt-arrives-in-singapore-last-stop-before-third-strike-group-reaches-the-middle-east": "2026-11-06T21:20:32Z",
     "https://www.twz.com/air/operational-f-15exs-have-started-flying-with-conformal-fuel-tanks": "2026-11-06T21:30:50Z",
     "https://simpleflying.com/allegiant-air-cancels-massive-25-routes/": "2026-11-06T21:40:05Z",
-    "https://theaviationist.com/2026/11/06/t-38c-lost-both-horizontal-stabilizers/": "2026-11-06T21:40:05Z"
+    "https://theaviationist.com/2026/11/06/t-38c-lost-both-horizontal-stabilizers/": "2026-11-06T21:40:05Z",
+    "https://simpleflying.com/delta-air-lines-boost-summer-2027-new-routes-weekend-frequencies/": "2026-11-06T22:10:37Z",
+    "https://simpleflying.com/airport-spending-335-million-connecting-passengers-stop-clearing-security-twice/": "2026-11-06T22:10:37Z",
+    "https://airlinegeeks.com/2026/11/06/southwest-737-flew-44-times-before-wind-damage-was-found/": "2026-11-06T22:10:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5758,10 +5761,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cb93a058767": {
+      "id": "cb93a058767",
+      "label": "Southwest 737 dommages vent gouverne NTSB",
+      "categorie": "Enquête",
+      "importance": 2,
+      "created": "2026-11-06T22:10:49Z",
+      "updated": "2026-11-06T22:10:49Z",
+      "items": [
+        {
+          "id": "f0880f81cd948cc8",
+          "feed": "AirlineGeeks",
+          "title": "Southwest 737 Flew 44 Times Before Wind Damage Was Found",
+          "url": "https://airlinegeeks.com/2026/11/06/southwest-737-flew-44-times-before-wind-damage-was-found/",
+          "domain": "airlinegeeks.com",
+          "summary": "The NTSB found that the jet returned to service without a storm inspection and later passed a maintenance test despite a rudder that moved in only one direction.",
+          "published": "2026-11-06T22:02:58Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.132543
+    "2026-11": 3.133416
   }
 }
