@@ -1727,7 +1727,8 @@
     "https://simpleflying.com/only-132-seats-singapore-airlines-ultra-premium-a350-900ulrs/": "2026-11-06T16:40:35Z",
     "https://simpleflying.com/emirates-launches-major-new-16-hour-a350-route-to-the-us/": "2026-11-06T17:01:04Z",
     "https://simpleflying.com/airbus-january-october-delivery-increase/": "2026-11-06T17:01:04Z",
-    "https://www.airliners.de/bombendrohungen-fluege-weiten-sich-fernsehsender-aus/91378": "2026-11-06T17:20:34Z"
+    "https://www.airliners.de/bombendrohungen-fluege-weiten-sich-fernsehsender-aus/91378": "2026-11-06T17:20:34Z",
+    "https://www.twz.com/air/russian-mi-28-attack-helicopter-fires-cruise-missile": "2026-11-06T17:30:52Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5785,10 +5786,31 @@
       ],
       "story_id": "2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8",
       "written_count": 1
+    },
+    "cb30b68fc6a": {
+      "id": "cb30b68fc6a",
+      "label": "Mi-28 tir de missile de croisière",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-06T17:31:13Z",
+      "updated": "2026-11-06T17:31:13Z",
+      "items": [
+        {
+          "id": "8928f02b87a5f548",
+          "feed": "The War Zone",
+          "title": "Russian Mi-28 Attack Helicopter Fires Cruise Missile",
+          "url": "https://www.twz.com/air/russian-mi-28-attack-helicopter-fires-cruise-missile",
+          "domain": "twz.com",
+          "summary": "New footage highlights Russia’s push to field lower-cost standoff weapons from unconventional platforms. The post Russian Mi-28 Attack Helicopter Fires Cruise Missile appeared first on TWZ .",
+          "published": "2026-11-06T17:30:11Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.995712
+    "2026-11": 3.038178
   }
 }
