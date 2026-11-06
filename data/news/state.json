@@ -1665,7 +1665,17 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=9CF4762C-7E3B-4D90-8093-CC9D2D1A0ADB": "2026-11-06T10:10:37Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=7DDF810F-1823-4ECF-816F-7A71DD111D9B": "2026-11-06T10:10:37Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=C1F83F19-F354-49B7-9608-A7DEE53CA4D0": "2026-11-06T10:10:37Z",
-    "https://avitrader.com/2026/11/06/bevie-thomas-becomes-cfo-of-flair-airlines/": "2026-11-06T10:10:37Z"
+    "https://avitrader.com/2026/11/06/bevie-thomas-becomes-cfo-of-flair-airlines/": "2026-11-06T10:10:37Z",
+    "https://simpleflying.com/how-this-airline-packs-39-business-class-seats-17-hour-flight-nobody-talks-about/": "2026-11-06T10:20:32Z",
+    "https://www.aero.de/news-54109/Das-Terminal-3-ist-ein-Riesenerfolg.html": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/kerosinpreise-druecken-quartalsgewinn-iag/91373": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/airbus-jahresende-250-jets-ausliefern/91372": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/lufthansa-it-tochter-kooperiert-novagentica-ki-agenten/91370": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/hochlauf-boeing-787-produktion-entlastet-leonardo/91369": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/us-flugsicherung-schafft-disketten-bis-ende-2028-ab/91368": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/qantas-anhaltend-hohe-treibstoffpreise/91367": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/berlin-brandenburg-oktober-2026-passagiere-verkehrszahlen/91366": "2026-11-06T10:20:32Z",
+    "https://www.airliners.de/brussels-airlines-neue-amenity-kits-diane-von-furstenberg/91365": "2026-11-06T10:20:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5436,7 +5446,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-06T09:01:20Z",
-      "updated": "2026-11-06T09:01:20Z",
+      "updated": "2026-11-06T10:20:47Z",
       "items": [
         {
           "id": "429f6b1ddc3971c1",
@@ -5446,10 +5456,19 @@
           "domain": "aero.de",
           "summary": "LONDON - Der sprunghafte Anstieg der Kerosinpreise hat der British-Airways-Mutter IAG im Sommer einen Gewinnrückgang eingebrockt.",
           "published": "2026-11-06T08:59:12Z"
+        },
+        {
+          "id": "fd0517fd98352475",
+          "feed": "airliners.de",
+          "title": "Kerosinpreise drücken Quartalsgewinn bei IAG",
+          "url": "https://www.airliners.de/kerosinpreise-druecken-quartalsgewinn-iag/91373",
+          "domain": "airliners.de",
+          "summary": "Teurer Treibstoff hat der British-Airways-Mutter IAG im dritten Quartal einen Gewinnrückgang gebracht. Konzernchef Luis Gallego hebt die Kostenprognose für das Gesamtjahr an und rechnet bei einer weiteren Kennzahl erstmals seit 2022 mit einem Minus.",
+          "published": "2026-11-06T10:12:52Z"
         }
       ],
       "story_id": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb",
-      "written_count": 1
+      "written_count": 2
     },
     "ce331bd8e7e": {
       "id": "ce331bd8e7e",
@@ -5559,6 +5578,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.563456
+    "2026-11": 2.572253
   }
 }
