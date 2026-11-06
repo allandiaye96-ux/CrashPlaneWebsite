@@ -1,5 +1,101 @@
 [
   {
+    "id": "2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c",
+    "created": "2026-11-06T20:01:51Z",
+    "updated": "2026-11-06T20:01:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas annonce des vols directs Sydney–Le Cap en 787-9, du 19 octobre 2027 au 24 mars 2028",
+    "chapo": "Selon Australian Aviation, Qantas lancera les premiers vols sans escale d'Australie vers Le Cap, au départ de Sydney, avec trois fréquences hebdomadaires en Boeing 787-9 Dreamliner.",
+    "paragraphes": [
+      "D'après le média, la liaison sera assurée trois fois par semaine entre Sydney et Le Cap. Elle est programmée du 19 octobre 2027 au 24 mars 2028 et exploitée en 787-9 Dreamliner.",
+      "Cette nouvelle desserte vient s'ajouter aux vols existants de la compagnie vers Johannesburg, au départ de Sydney et de Perth, précise Australian Aviation."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas to launch Australia’s first non-stop Cape Town flights",
+        "url": "https://australianaviation.com.au/2026/11/qantas-to-launch-australias-first-non-stop-cape-town-flights/",
+        "date": "2026-11-06T00:29:06Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-qantas-releve-ses-couts-de-carburant-prevus-a-3-75-milliards-7f17",
+    "created": "2026-11-06T20:01:47Z",
+    "updated": "2026-11-06T20:01:47Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas relève ses coûts de carburant prévus à 3,75 milliards de dollars et prévoit de réduire sa capacité",
+    "chapo": "Selon Australian Aviation, Qantas a augmenté d'environ 150 millions de dollars ses prévisions de dépenses de carburant pour le semestre se terminant le 31 décembre 2026, désormais estimées à 3,75 milliards de dollars. La compagnie envisage aussi de réduire sa capacité.",
+    "paragraphes": [
+      "D'après le média, cette révision concerne les six mois jusqu'au 31 décembre 2026. La facture de carburant anticipée par la compagnie australienne atteint ainsi 3,75 milliards de dollars, dans un contexte que le titre de l'article qualifie de crise du carburant.",
+      "Qantas a par ailleurs annoncé son intention de limiter progressivement ses capacités jusqu'à la fin de l'exercice budgétaire. Le titre de l'article évoque également une possible hausse des tarifs."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas eyes fare hike, reduced capacity amid fuel crisis",
+        "url": "https://australianaviation.com.au/2026/11/qantas-eyes-fare-hike-reduced-capacity-amid-fuel-crisis/",
+        "date": "2026-11-06T00:40:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-virgin-australia-les-employes-representes-par-l-asu-poursuiv-d77b",
+    "created": "2026-11-06T20:01:43Z",
+    "updated": "2026-11-06T20:01:43Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Virgin Australia : les employés représentés par l'ASU poursuivent leur action syndicale et suspendent l'embarquement prioritaire",
+    "chapo": "Selon Australian Aviation, les salariés de Virgin représentés par l'Australian Services Union (ASU) maintiennent leur action protégée, alors que les négociations sur un nouvel accord d'entreprise restent bloquées.",
+    "paragraphes": [
+      "D'après Australian Aviation, les employés affiliés à l'ASU embarquaient tous les passagers en même temps, ce qui revient à suspendre l'embarquement prioritaire. Ils refusaient aussi de prendre les bagages aux portes d'embarquement.",
+      "Le média indique par ailleurs que certains frais liés aux ventes étaient supprimés dans le cadre de ce mouvement. Les discussions autour du nouvel accord d'entreprise continuent de patiner."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Virgin staff continue protected action, suspend priority boarding",
+        "url": "https://australianaviation.com.au/2026/11/virgin-staff-continue-protected-action-suspend-priority-boarding/",
+        "date": "2026-11-06T03:17:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a",
     "created": "2026-11-06T19:11:00Z",
     "updated": "2026-11-06T19:11:00Z",

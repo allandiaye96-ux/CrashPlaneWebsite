@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T19:50:34Z",
+  "run": "2026-11-06T20:01:04Z",
   "stats": {
-    "fetched": 697,
-    "new": 0,
-    "written": 0,
+    "fetched": 692,
+    "new": 5,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.0904,
+  "spend_month_usd": 3.1153,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -78,8 +78,8 @@
       "items": 100
     },
     "Boeing – Communiqués": {
-      "ok": true,
-      "items": 5
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "aero.de": {
       "ok": true,
@@ -824,6 +824,24 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a"
+    },
+    {
+      "dossier": "Virgin Australia grève ASU accord d'entreprise",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-virgin-australia-les-employes-representes-par-l-asu-poursuiv-d77b"
+    },
+    {
+      "dossier": "Qantas hausse coût carburant et réduction capacité",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-qantas-releve-ses-couts-de-carburant-prevus-a-3-75-milliards-7f17"
+    },
+    {
+      "dossier": "Qantas nouvelle ligne Sydney-Le Cap 787",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c"
     },
     {
       "dossier": "Pakistan essai missile air-air Fa'az",
