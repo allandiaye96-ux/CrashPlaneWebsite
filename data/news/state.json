@@ -2000,48 +2000,6 @@
       "story_id": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25",
       "written_count": 2
     },
-    "ca32ac611b1": {
-      "id": "ca32ac611b1",
-      "label": "Air Canada baisse prévision résultats kérosène",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T09:40:55Z",
-      "updated": "2026-10-30T09:40:55Z",
-      "items": [
-        {
-          "id": "0f7572555e846056",
-          "feed": "airliners.de",
-          "title": "Air Canada senkt Ergebnisprognose wegen teurem Kerosin",
-          "url": "https://www.airliners.de/air-canada-senkt-ergebnisprognose-teurem-kerosin/91204",
-          "domain": "airliners.de",
-          "summary": "Air Canada senkt ihre Ergebnisprognose, weil die Kerosinkosten schneller steigen als die Ticketpreise. Für das vierte Quartal rechnet die Airline mit 1,72 kanadischen Dollar je Liter statt der bisher erwarteten 1,29.",
-          "published": "2026-10-30T09:08:11Z"
-        }
-      ],
-      "story_id": "2026-10-30-air-canada-abaisse-sa-prevision-de-resultats-a-cause-du-cout-11b1",
-      "written_count": 1
-    },
-    "c47a3226826": {
-      "id": "c47a3226826",
-      "label": "Bremen Terminal 2 après départ Ryanair",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-10-30T09:40:55Z",
-      "updated": "2026-10-30T09:40:55Z",
-      "items": [
-        {
-          "id": "504d47e7b79d77cf",
-          "feed": "airliners.de",
-          "title": "Nach Ryanair-Abzug: Flughafen Bremen erwägt Schließung von Terminal 2",
-          "url": "https://www.airliners.de/ryanair-abzug-flughafen-bremen-schliessung-terminal-2/91184",
-          "domain": "airliners.de",
-          "summary": "Der Bremer Flughafen verliert mit dem Abzug der Ryanair im kommenden Jahr ein Drittel seiner Passagiere. Sanierungsgeschäftsführer Rainer Schwarz kalkuliert nun mit einem Minus von 17 Millionen Euro und will Teile der Abfertigungsanlagen stilllegen.",
-          "published": "2026-10-30T08:53:00Z"
-        }
-      ],
-      "story_id": "2026-10-30-breme-apres-le-depart-de-ryanair-l-aeroport-envisage-de-ferm-6826",
-      "written_count": 1
-    },
     "cabd09cbe09": {
       "id": "cabd09cbe09",
       "label": "TAP reprise Lisbonne-Caracas",

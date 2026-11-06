@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-06T09:40:36Z",
+  "run": "2026-11-06T09:50:32Z",
   "stats": {
     "fetched": 698,
     "new": 0,
@@ -434,18 +434,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
-    },
-    {
-      "dossier": "Air Canada baisse prévision résultats kérosène",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-air-canada-abaisse-sa-prevision-de-resultats-a-cause-du-cout-11b1"
-    },
-    {
-      "dossier": "Bremen Terminal 2 après départ Ryanair",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-breme-apres-le-depart-de-ryanair-l-aeroport-envisage-de-ferm-6826"
     },
     {
       "dossier": "TAP reprise Lisbonne-Caracas",
