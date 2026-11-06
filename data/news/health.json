@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-06T18:01:03Z",
+  "run": "2026-11-06T18:10:32Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -284,12 +284,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2"
-    },
-    {
-      "dossier": "FAA fin des exemptions monopilote CE-500",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-30-la-faa-met-fin-aux-derogations-monopilote-des-cessna-citatio-2658"
     },
     {
       "dossier": "GJ-21 décollage/appontage Type 076",
