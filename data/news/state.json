@@ -4296,27 +4296,6 @@
       "story_id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
       "written_count": 3
     },
-    "c68f612da75": {
-      "id": "c68f612da75",
-      "label": "United Las Vegas-New York passager menace détournement",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-04T13:41:02Z",
-      "updated": "2026-11-04T13:41:02Z",
-      "items": [
-        {
-          "id": "da5049e556d055c7",
-          "feed": "Simple Flying",
-          "title": "United Crew Spots Passenger “Texting He Was Going To Hijack” Plane, Cockpit Locked Down",
-          "url": "https://simpleflying.com/video/united-crew-spots-passenger-texting-he-was-going-to-hijack-plane-cockpit-locked-down/",
-          "domain": "simpleflying.com",
-          "summary": "A security concern on a United Airlines flight from Las Vegas to New York prompted the aircraft to return to Vegas shortly after takeoff. The incident concerns a flight attendant reportedly spotting a passenger texting about hijacking the plane. In response, the crew locked down the cockpit and returned to the origin airport, where law enforcement met the aircraft.",
-          "published": "2026-11-04T13:32:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c404429904b": {
       "id": "c404429904b",
       "label": "Latam baisse prévisions Ebitda carburant",
