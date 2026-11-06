@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
+    "created": "2026-11-06T11:01:22Z",
+    "updated": "2026-11-06T11:01:22Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas lance une nouvelle liaison sans escale de 15 heures au départ de Sydney",
+    "chapo": "Selon Simple Flying, Qantas met en service une nouvelle route sans escale de 15 heures depuis Sydney, qualifiée d'historique par le site spécialisé.",
+    "paragraphes": [
+      "D'après Simple Flying, cette ouverture permettrait à Qantas de proposer pour la première fois trois routes vers le pays desservi. Le média présente cette liaison comme une étape marquante pour la compagnie."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Qantas Launches Historic New 15-Hour Nonstop Route From Sydney: See Map Now",
+        "url": "https://simpleflying.com/qantas-launches-historic-new-15-hour-nonstop-route-from-sydney/",
+        "date": "2026-11-06T11:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8",
     "created": "2026-11-06T10:40:54Z",
     "updated": "2026-11-06T10:40:54Z",

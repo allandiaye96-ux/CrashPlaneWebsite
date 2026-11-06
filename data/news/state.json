@@ -1677,7 +1677,9 @@
     "https://www.airliners.de/berlin-brandenburg-oktober-2026-passagiere-verkehrszahlen/91366": "2026-11-06T10:20:32Z",
     "https://www.airliners.de/brussels-airlines-neue-amenity-kits-diane-von-furstenberg/91365": "2026-11-06T10:20:32Z",
     "https://avitrader.com/2026/11/06/bombardier-raises-2026-cash-flow-outlook-after-strong-q3/": "2026-11-06T10:40:34Z",
-    "https://avitrader.com/2026/11/06/fraport-revenue-rises-as-international-airports-drive-growth/": "2026-11-06T10:50:33Z"
+    "https://avitrader.com/2026/11/06/fraport-revenue-rises-as-international-airports-drive-growth/": "2026-11-06T10:50:33Z",
+    "https://simpleflying.com/qantas-launches-historic-new-15-hour-nonstop-route-from-sydney/": "2026-11-06T11:01:01Z",
+    "https://www.air-journal.fr/2026-11-06-biometrie-et-intelligence-artificielle-liata-mesure-les-nouvelles-habitudes-des-passagers-5278578.html": "2026-11-06T11:01:01Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2030,27 +2032,6 @@
       ],
       "story_id": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca",
       "written_count": 3
-    },
-    "c08aac252b7": {
-      "id": "c08aac252b7",
-      "label": "Boeing 777-9 livraisons 2027 retard Lufthansa",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-10-30T10:50:48Z",
-      "updated": "2026-10-30T10:50:48Z",
-      "items": [
-        {
-          "id": "09f905ec4e322b20",
-          "feed": "aero.de",
-          "title": "Boeing stellt Airlines 2027 bis zu 15 777-9 in Aussicht",
-          "url": "https://www.aero.de/news-54052/Boeing-stellt-Airlines-2027-bis-zu-15-777-9-in-Aussicht.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Lufthansa plant auch den Flugsommer 2027 ohne die Boeing 777-9. Am Drehkreuz Frankfurt absolvieren stattdessen Airbus A340-300 eine weitere Nachspielzeit. Trotz neuer Verzögerungen will Boeing im nächsten Jahr bis zu 15 777-9 an frühe Betreiber wie Lufthansa ausliefern.",
-          "published": "2026-10-30T10:47:19Z"
-        }
-      ],
-      "story_id": "2026-10-30-lufthansa-prevoit-l-ete-2027-sans-boeing-777-9-et-prolonge-s-52b7",
-      "written_count": 1
     },
     "cf02bb34d4a": {
       "id": "cf02bb34d4a",
@@ -5537,10 +5518,31 @@
       ],
       "story_id": "2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8",
       "written_count": 1
+    },
+    "c68c1a31cb9": {
+      "id": "c68c1a31cb9",
+      "label": "Qantas nouvelle liaison long-courrier 15 h depuis Sydney",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-06T11:01:17Z",
+      "updated": "2026-11-06T11:01:17Z",
+      "items": [
+        {
+          "id": "75baddaa65c296aa",
+          "feed": "Simple Flying",
+          "title": "Qantas Launches Historic New 15-Hour Nonstop Route From Sydney: See Map Now",
+          "url": "https://simpleflying.com/qantas-launches-historic-new-15-hour-nonstop-route-from-sydney/",
+          "domain": "simpleflying.com",
+          "summary": "It'll be the first time that Qantas has three routes to this country. Find out more here!",
+          "published": "2026-11-06T11:00:18Z"
+        }
+      ],
+      "story_id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.581969
+    "2026-11": 2.592891
   }
 }

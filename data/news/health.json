@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T10:50:33Z",
+  "run": "2026-11-06T11:01:01Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.582,
+  "spend_month_usd": 2.5929,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -442,12 +442,6 @@
       "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
     },
     {
-      "dossier": "Boeing 777-9 livraisons 2027 retard Lufthansa",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-lufthansa-prevoit-l-ete-2027-sans-boeing-777-9-et-prolonge-s-52b7"
-    },
-    {
       "dossier": "China Southern résultats T3 perte nette",
       "statut": "source_unique",
       "editeurs": 1,
@@ -794,6 +788,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8"
+    },
+    {
+      "dossier": "Qantas nouvelle liaison long-courrier 15 h depuis Sydney",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
     },
     {
       "dossier": "United Las Vegas-New York passager menace détournement",

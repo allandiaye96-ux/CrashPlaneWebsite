@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 10:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 11:01:22 +0000</lastBuildDate>
+  <item>
+    <title>Qantas lance une nouvelle liaison sans escale de 15 heures au départ de Sydney</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9/</guid>
+    <pubDate>Fri, 06 Nov 2026 11:01:22 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Qantas met en service une nouvelle route sans escale de 15 heures depuis Sydney, qualifiée d&#x27;historique par le site spécialisé.</description>
+  </item>
   <item>
     <title>Bombardier relève sa prévision de flux de trésorerie 2026 après un troisième trimestre solide</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 02:01:22 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Qantas prévoit de sortir ses Airbus A380 de sa flotte quatre ans avant l&#x27;échéance initiale. Le média lie cette décision à la confiance de la compagnie dans les livraisons à venir de ses A350-1000 et de ses Boeing 787.</description>
-  </item>
-  <item>
-    <title>Qatar Airways lance deux nouvelles destinations sud-américaines au départ de Doha en Boeing 777-200LR</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c/</guid>
-    <pubDate>Wed, 04 Nov 2026 18:01:26 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AirlineGeeks, Qatar Airways ouvre deux destinations en Amérique du Sud, desservies par une boucle bihebdomadaire depuis Doha.</description>
   </item>
 </channel>
 </rss>
