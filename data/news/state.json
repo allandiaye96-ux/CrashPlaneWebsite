@@ -1719,7 +1719,10 @@
     "https://www.airliners.de/klage-delta-fensterloser-fensterplaetze/91360": "2026-11-06T15:20:32Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html": "2026-11-06T15:40:35Z",
     "https://simpleflying.com/bomb-threats-hit-european-aviation-third-time-this-week/": "2026-11-06T15:50:33Z",
-    "https://www.aerotime.aero/articles/south-korea-selects-four-sikorsky-s-92a-presidential-helicopters": "2026-11-06T15:50:33Z"
+    "https://www.aerotime.aero/articles/south-korea-selects-four-sikorsky-s-92a-presidential-helicopters": "2026-11-06T15:50:33Z",
+    "https://www.airliners.de/ita-airways-einigt-gewerkschaften-180-freiwillige-abgaenge/91384": "2026-11-06T16:20:34Z",
+    "https://www.airliners.de/beond-stellt-november-alle-linienfluege-ein/91383": "2026-11-06T16:20:34Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/le-737-max-10-de-boeing-ne-fera-pas-de-miracle-20261106.html": "2026-11-06T16:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4281,27 +4284,6 @@
       "story_id": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b",
       "written_count": 1
     },
-    "cb0dbedddf1": {
-      "id": "cb0dbedddf1",
-      "label": "Attaque Houthis aéroport Riad",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-04T16:10:49Z",
-      "updated": "2026-11-04T16:10:49Z",
-      "items": [
-        {
-          "id": "931d178ea575b6f7",
-          "feed": "aero.de",
-          "title": "Erneut Huthi-Angriff auf Flughafen Riad",
-          "url": "https://www.aero.de/news-54093/Erneut-Huthi-Angriff-auf-Flughafen-Riad.html",
-          "domain": "aero.de",
-          "summary": "RIAD - Die vom Iran unterstützte Huthi-Miliz hat erneut einen Angriff auf den Flughafen in der saudischen Hauptstadt Riad für sich beansprucht.",
-          "published": "2026-11-04T16:10:12Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ce14d531507": {
       "id": "ce14d531507",
       "label": "Atlas Air commande Airbus gros-porteurs",
@@ -4861,7 +4843,7 @@
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-      "written_count": 6
+      "written_count": 7
     },
     "ca4dad664c6": {
       "id": "ca4dad664c6",
@@ -5696,10 +5678,52 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c4326057676": {
+      "id": "c4326057676",
+      "label": "Ita Airways accord syndicats départs volontaires",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-06T16:20:50Z",
+      "updated": "2026-11-06T16:20:50Z",
+      "items": [
+        {
+          "id": "b97b5c9b187e4a0b",
+          "feed": "airliners.de",
+          "title": "Lufthansa-Mehrheitsübernahme: Ita Airways einigt sich mit Gewerkschaften",
+          "url": "https://www.airliners.de/ita-airways-einigt-gewerkschaften-180-freiwillige-abgaenge/91384",
+          "domain": "airliners.de",
+          "summary": "Ita Airways hat sich mit den Gewerkschaften auf bis zu 180 freiwillige Abgänge verständigt. Wer geht, erhält zeitweise den Großteil seines bisherigen Gehalts. Gleichzeitig plant die Airline neue Strecken und Hunderte Neueinstellungen.",
+          "published": "2026-11-06T15:57:29Z"
+        }
+      ],
+      "story_id": "2026-11-06-ita-airways-s-accorde-avec-les-syndicats-sur-jusqu-a-180-dep-7676",
+      "written_count": 1
+    },
+    "cf95b9c7e5a": {
+      "id": "cf95b9c7e5a",
+      "label": "Beond arrêt des lignes régulières novembre 2026",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-06T16:20:50Z",
+      "updated": "2026-11-06T16:20:50Z",
+      "items": [
+        {
+          "id": "0bbb92a0c8502287",
+          "feed": "airliners.de",
+          "title": "Beond stellt im November alle Linienflüge ein",
+          "url": "https://www.airliners.de/beond-stellt-november-alle-linienfluege-ein/91383",
+          "domain": "airliners.de",
+          "summary": "Beond stellt im November den kompletten Linienverkehr ein. Nach Angaben der Luxus-Leisure-Airline fallen sämtliche planmäßigen Verbindungen vom 30. Oktober bis zum 30. November aus. Beond begründete den Schritt Ende Oktober mit den derzeitigen Verhältnissen in der Region. Charterflüge sind demnach nicht betroffen.",
+          "published": "2026-11-06T15:50:47Z"
+        }
+      ],
+      "story_id": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.867683
+    "2026-11": 2.924055
   }
 }

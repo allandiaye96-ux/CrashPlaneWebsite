@@ -1,14 +1,13 @@
 {
-  "run": "2026-11-06T16:10:35Z",
+  "run": "2026-11-06T16:20:34Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 3,
     "held": 0,
-    "errors": 1,
-    "last_error": "KeyError: 'titre'"
+    "errors": 0
   },
-  "spend_month_usd": 2.8677,
+  "spend_month_usd": 2.9241,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -809,10 +808,16 @@
       "breve": "2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a"
     },
     {
-      "dossier": "Attaque Houthis aéroport Riad",
-      "statut": "signale",
+      "dossier": "Ita Airways accord syndicats départs volontaires",
+      "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-11-06-ita-airways-s-accorde-avec-les-syndicats-sur-jusqu-a-180-dep-7676"
+    },
+    {
+      "dossier": "Beond arrêt des lignes régulières novembre 2026",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a"
     },
     {
       "dossier": "Pakistan essai missile air-air Fa'az",

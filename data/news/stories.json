@@ -1,5 +1,144 @@
 [
   {
+    "id": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a",
+    "created": "2026-11-06T16:21:18Z",
+    "updated": "2026-11-06T16:21:18Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Beond suspend l'ensemble de ses vols réguliers du 30 octobre au 30 novembre",
+    "chapo": "Selon airliners.de, la compagnie loisirs de luxe Beond a annulé tous ses vols de ligne programmés entre le 30 octobre et le 30 novembre. Les vols charter ne sont pas concernés.",
+    "paragraphes": [
+      "D'après airliners.de, la suspension porte sur la totalité des liaisons régulières de la compagnie sur cette période. Beond aurait justifié cette décision à la fin du mois d'octobre par la situation actuelle dans la région.",
+      "Toujours d'après la compagnie, l'activité charter se poursuit normalement."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Beond stellt im November alle Linienflüge ein",
+        "url": "https://www.airliners.de/beond-stellt-november-alle-linienfluege-ein/91383",
+        "date": "2026-11-06T15:50:47Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-ita-airways-s-accorde-avec-les-syndicats-sur-jusqu-a-180-dep-7676",
+    "created": "2026-11-06T16:21:14Z",
+    "updated": "2026-11-06T16:21:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ita Airways s'accorde avec les syndicats sur jusqu'à 180 départs volontaires",
+    "chapo": "Selon airliners.de, Ita Airways a conclu un accord avec les syndicats prévoyant jusqu'à 180 départs volontaires, alors que la compagnie italienne est concernée par une prise de contrôle majoritaire par Lufthansa.",
+    "paragraphes": [
+      "D'après airliners.de, les salariés qui choisiront de quitter la compagnie percevront temporairement l'essentiel de leur rémunération actuelle.",
+      "Parallèlement à ces départs, Ita Airways prévoit d'ouvrir de nouvelles lignes et de recruter plusieurs centaines de personnes, indique le média allemand."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa-Mehrheitsübernahme: Ita Airways einigt sich mit Gewerkschaften",
+        "url": "https://www.airliners.de/ita-airways-einigt-gewerkschaften-180-freiwillige-abgaenge/91384",
+        "date": "2026-11-06T15:57:29Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
+    "created": "2026-11-05T14:31:25Z",
+    "updated": "2026-11-06T16:21:11Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Alertes à la bombe en Europe : au moins 16 vols visés le 5 novembre, des chasseurs mobilisés",
+    "chapo": "Selon AeroTime, au moins 16 vols de passagers ont fait l'objet de menaces à la bombe en Europe le 5 novembre 2026, avec à la clé des escortes par des avions de chasse. Aucun engin n'a été découvert à ce stade.",
+    "paragraphes": [
+      "D'après Air Journal, un A320 d'Aer Lingus qui devait relier Dublin à Rome a été dérouté et escorté jusqu'à la base aérienne d'Évreux, en France. Le média indique que les appareils concernés par ces alertes ont tous atterri sans encombre. Simple Flying précise que les armées de l'air française et italienne ont dû intervenir.",
+      "Flightradar24 fait état de déroutements, de retards et de mesures de sécurité dans une dizaine d'aéroports, sans qu'aucune menace réelle n'ait été identifiée à bord. Le site rappelle qu'au moins sept vols avaient déjà été visés le 4 novembre. Selon aero.de, toutes les alertes se sont révélées être de fausses alertes, et ce type de phénomène n'est pas inédit.",
+      "Les perturbations se sont prolongées le 6 novembre, d'après airliners.de, avec des vols touchés notamment à Prague, à Copenhague et en France. Aucun explosif n'a été trouvé."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 6,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Bomb threats hit at least 16 flights across Europe, trigger fighter escorts",
+        "url": "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions",
+        "date": "2026-11-05T12:02:11Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Un A320 d’Aer Lingus dérouté sous escorte à Évreux, sur fond d’alertes à la bombe en Europe",
+        "url": "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html",
+        "date": "2026-11-05T13:00:35Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Mysteriöse Bombendrohungen stören Flugverkehr in Europa",
+        "url": "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html",
+        "date": "2026-11-05T14:25:16Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Second straight day of threats affects nearly two dozen flights across Europe",
+        "url": "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/",
+        "date": "2026-11-05T16:14:43Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Fighter Jets Scrambled As More Bomb Threats Force Multiple Passenger Flights To Divert",
+        "url": "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/",
+        "date": "2026-11-05T16:26:11Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Bombendrohungen gegen Flüge in Europa reißen nicht ab",
+        "url": "https://www.airliners.de/bombendrohungen-fluege-europa-reissen-nicht-ab/91378",
+        "date": "2026-11-06T12:46:45Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Disruption Continues As Bomb Threats Hit European Aviation For The Third Day This Week",
+        "url": "https://simpleflying.com/bomb-threats-hit-european-aviation-third-time-this-week/",
+        "date": "2026-11-06T15:45:45Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
     "created": "2026-11-06T05:41:04Z",
     "updated": "2026-11-06T15:40:58Z",
@@ -203,74 +342,6 @@
         "title": "Stunning: Alaska Airlines Unveils Lie-Flat 737 MAX 10 “Aurora Suites” 787s Get 46% Premium Seating",
         "url": "https://simpleflying.com/video/stunning-alaska-airlines-unveils-lie-flat-737-max-10-aurora-suites-787s-get-46-premium-seating/",
         "date": "2026-11-06T13:32:18Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-    "created": "2026-11-05T14:31:25Z",
-    "updated": "2026-11-06T13:21:36Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Sécurité et réglementation",
-    "importance": 2,
-    "titre": "Alertes à la bombe en Europe : au moins 16 vols visés le 5 novembre, des avions de chasse mobilisés",
-    "chapo": "Des menaces à la bombe ont visé plusieurs vols de passagers en Europe le 5 novembre 2026, certains appareils étant accompagnés par des chasseurs, selon AeroTime. Aucun engin n'a été découvert à ce stade.",
-    "paragraphes": [
-      "D'après Air Journal, tous les avions concernés ont atterri sans encombre. En France, un A320 d'Aer Lingus qui assurait la liaison Dublin–Rome a été envoyé vers la base aérienne d'Évreux sous escorte. Simple Flying indique que les armées de l'Air française et italienne ont toutes deux dû intervenir.",
-      "Flightradar24 précise que ces alertes ont provoqué déroutements, retards et mesures de sécurité dans une douzaine d'aéroports, et que les autorités n'ont trouvé aucune menace réelle à bord. Au moins sept vols avaient déjà été visés le 4 novembre. Selon aero.de, toutes les menaces se sont révélées être de fausses alertes, et le phénomène n'est pas inédit.",
-      "Airliners.de rapporte qu'une nouvelle vague a touché des vols à Prague, à Copenhague et en France, là encore sans découverte d'explosifs."
-    ],
-    "contradictions": "Les décomptes diffèrent : AeroTime avance au moins 16 vols visés le 5 novembre, Air Journal au moins douze à la mi-journée, et Flightradar24 près de deux douzaines de vols sur deux jours. Air Journal parle d'une troisième journée de perturbations dans la semaine, alors que Flightradar24 évoque un deuxième jour consécutif.",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 6,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "Bomb threats hit at least 16 flights across Europe, trigger fighter escorts",
-        "url": "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions",
-        "date": "2026-11-05T12:02:11Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Un A320 d’Aer Lingus dérouté sous escorte à Évreux, sur fond d’alertes à la bombe en Europe",
-        "url": "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html",
-        "date": "2026-11-05T13:00:35Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Mysteriöse Bombendrohungen stören Flugverkehr in Europa",
-        "url": "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html",
-        "date": "2026-11-05T14:25:16Z",
-        "official": false
-      },
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "Second straight day of threats affects nearly two dozen flights across Europe",
-        "url": "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/",
-        "date": "2026-11-05T16:14:43Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Fighter Jets Scrambled As More Bomb Threats Force Multiple Passenger Flights To Divert",
-        "url": "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/",
-        "date": "2026-11-05T16:26:11Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Bombendrohungen gegen Flüge in Europa reißen nicht ab",
-        "url": "https://www.airliners.de/bombendrohungen-fluege-europa-reissen-nicht-ab/91378",
-        "date": "2026-11-06T12:46:45Z",
         "official": false
       }
     ]
