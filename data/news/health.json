@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T02:40:33Z",
+  "run": "2026-11-06T02:50:32Z",
   "stats": {
-    "fetched": 698,
-    "new": 0,
+    "fetched": 659,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4121,
+  "spend_month_usd": 2.4129,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -70,8 +70,8 @@
       "items": 10
     },
     "The War Zone": {
-      "ok": true,
-      "items": 39
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "Airbus – Communiqués": {
       "ok": true,
