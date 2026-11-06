@@ -1627,7 +1627,8 @@
     "https://www.aero.de/news-54099/Neuer-Chef-sieht-Zukunft-von-Air-India-auf-der-Langstrecke.html": "2026-11-06T05:20:34Z",
     "https://www.airliners.de/luftfrachtumschlag-deutschland-stabil/91358": "2026-11-06T05:20:34Z",
     "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/": "2026-11-06T05:40:42Z",
-    "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html": "2026-11-06T05:40:42Z"
+    "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html": "2026-11-06T05:40:42Z",
+    "https://simpleflying.com/pilot-procedures-arctic-circle-operations/": "2026-11-06T06:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5413,6 +5414,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.448213
+    "2026-11": 2.448994
   }
 }
