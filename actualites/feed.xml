@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 08:50:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 09:01:39 +0000</lastBuildDate>
+  <item>
+    <title>IAG : le groupe de British Airways voit son bénéfice reculer cet été avec la hausse du prix du kérosène</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb/</guid>
+    <pubDate>Fri, 06 Nov 2026 09:01:39 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, la forte hausse des prix du kérosène a pesé sur les résultats d&#x27;IAG, maison mère de British Airways, qui enregistre un recul de son bénéfice sur la période estivale.</description>
+  </item>
   <item>
     <title>El Al : chiffre d&#x27;affaires record au troisième trimestre, mais bénéfice net en baisse à 175 millions de dollars</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721/</link>
@@ -160,12 +168,12 @@
     <description>Selon AeroTime, le constructeur chinois AutoFlight a organisé un vol en formation réunissant cinq eVTOL (avions électriques à décollage et atterrissage verticaux) autonomes. Le média présente cette démonstration comme une première mondiale.</description>
   </item>
   <item>
-    <title>Emirates : le bénéfice net chute au premier semestre, entre fermetures d&#x27;espaces aériens et carburant cher</title>
+    <title>Emirates : des résultats semestriels en net repli, mais la compagnie reste bénéficiaire malgré la guerre avec l&#x27;Iran</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4/</guid>
     <pubDate>Thu, 05 Nov 2026 09:21:07 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Emirates reste bénéficiaire au premier semestre, mais son résultat recule fortement, selon airliners.de et AeroTime. Les deux médias avancent toutefois des taux de baisse différents : 66 % et 68 %.</description>
+    <description>Selon AeroTime et Air Journal, Emirates affiche pour la période d&#x27;avril à septembre 2026 un profit d&#x27;environ 1 milliard de dollars, en baisse de 68 %. Le trafic passagers a reculé de 22 % dans un contexte de fermetures d&#x27;espaces aériens et de kérosène très cher.</description>
   </item>
   <item>
     <title>Vaeridion : 94,5 millions d&#x27;euros de fonds européens et une levée de 30 millions pour le Microliner</title>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 14:21:11 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Latam Airlines a revu à la baisse sa prévision d&#x27;Ebitda ajusté, pénalisée par la forte hausse des prix du carburant. Le groupe a en revanche relevé sa prévision de chiffre d&#x27;affaires.</description>
-  </item>
-  <item>
-    <title>Discover, Emirates, Air Transat : flotte, Berlin et liaison Toronto–Berlin au programme</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b/</guid>
-    <pubDate>Wed, 04 Nov 2026 12:20:56 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Discover Airlines dévoile les premières destinations de son A350 et retire son dernier A330-200, tandis qu&#x27;Emirates réclame des garanties sur l&#x27;accord aérien avant Berlin. Air Transat supprime Toronto–Berlin.</description>
   </item>
 </channel>
 </rss>

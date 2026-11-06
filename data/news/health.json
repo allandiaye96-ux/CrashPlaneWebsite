@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T08:50:33Z",
+  "run": "2026-11-06T09:01:02Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4902,
+  "spend_month_usd": 2.5286,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -268,6 +268,12 @@
       "breve": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f"
     },
     {
+      "dossier": "Emirates résultats S1 2026",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
+    },
+    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -410,12 +416,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
-    },
-    {
-      "dossier": "Emirates résultats S1 2026",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
       "dossier": "Saisie jet privé chinois G550 Iran",
@@ -796,10 +796,10 @@
       "breve": "2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721"
     },
     {
-      "dossier": "France SyLEx fusée sonde M51.4",
-      "statut": "signale",
+      "dossier": "IAG résultats S1 2026 recul bénéfice kérosène",
+      "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
     },
     {
       "dossier": "Fokker Services maintenance C-390 RNLAF",
