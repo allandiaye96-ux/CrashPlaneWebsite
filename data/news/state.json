@@ -1619,7 +1619,8 @@
     "https://www.twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions": "2026-11-05T23:01:02Z",
     "https://www.air-journal.fr/2026-11-06-le-6-novembre-1925-dans-le-ciel-pinedo-attendu-a-rome-modifie-son-plan-de-vol-5278693.html": "2026-11-05T23:10:37Z",
     "https://simpleflying.com/southwest-airlines-least-punctual-carrier-10-airlines-north-america/": "2026-11-05T23:40:33Z",
-    "https://simpleflying.com/problem-american-airlines-ran-into-inherited-worlds-1st-airbus-a321neo/": "2026-11-06T00:01:07Z"
+    "https://simpleflying.com/problem-american-airlines-ran-into-inherited-worlds-1st-airbus-a321neo/": "2026-11-06T00:01:07Z",
+    "https://theaviationist.com/2026/11/06/hms-qnlz-new-drone-trials/": "2026-11-06T00:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5320,10 +5321,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c4556060d15": {
+      "id": "c4556060d15",
+      "label": "HMS Queen Elizabeth essais drones Tekever AR5 et Nyan",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-06T00:20:47Z",
+      "updated": "2026-11-06T00:20:47Z",
+      "items": [
+        {
+          "id": "df90d45c288ef9ba",
+          "feed": "The Aviationist",
+          "title": "HMS Queen Elizabeth Hosts Tekever AR5 and Nyan Strike Drones During New Trials",
+          "url": "https://theaviationist.com/2026/11/06/hms-qnlz-new-drone-trials/",
+          "domain": "theaviationist.com",
+          "summary": "Operating in the North Atlantic, the Royal Navy aircraft carrier launched Nyan one-way attack drones from its deck, while a Tekever AR5 ISR and logistics UAV proved its ability to land on the carrier. In two different exercises, HMS Queen Elizabeth (R08) added two new types of uncrewed aircraft to its potential arsenal. Exercise Neptune […]",
+          "published": "2026-11-06T00:13:55Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.410498
+    "2026-11": 2.411298
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T00:10:33Z",
+  "run": "2026-11-06T00:20:33Z",
   "stats": {
     "fetched": 700,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4105,
+  "spend_month_usd": 2.4113,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -851,6 +851,12 @@
     },
     {
       "dossier": "FAA simplification licences spatiales",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "HMS Queen Elizabeth essais drones Tekever AR5 et Nyan",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
