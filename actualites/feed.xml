@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 16:50:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 17:01:29 +0000</lastBuildDate>
+  <item>
+    <title>Emirates déploie son A350 vers Orlando, sur une nouvelle liaison d&#x27;environ 16 heures</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8/</guid>
+    <pubDate>Fri, 06 Nov 2026 17:01:29 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Emirates exploite désormais l&#x27;Airbus A350 sur sa liaison vers Orlando, aux États-Unis, une route présentée comme majeure et longue de 16 heures.</description>
+  </item>
   <item>
     <title>Singapore Airlines dévoile de nouvelles cabines pour ses A350-900ULR, limitées à 132 sièges</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03/</link>
@@ -80,12 +88,12 @@
     <description>Selon aero.de, Condor a conclu avec le syndicat du personnel de cabine Ufo une convention-cadre sur les règles de service en cabine. La compagnie n&#x27;aurait ainsi pas de grève du personnel navigant à redouter pendant deux ans.</description>
   </item>
   <item>
-    <title>Airbus vise 259 livraisons d&#x27;avions commerciaux en novembre et décembre 2026 pour atteindre son objectif annuel</title>
+    <title>Airbus doit accélérer ses livraisons en novembre et décembre 2026 pour atteindre son objectif annuel</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454/</guid>
     <pubDate>Fri, 06 Nov 2026 11:10:53 +0000</pubDate>
     <category>Constructeurs et industrie</category>
-    <description>Selon AeroTime, Airbus ambitionne de livrer 259 avions commerciaux sur les mois de novembre et décembre 2026, afin d&#x27;atteindre son objectif annuel.</description>
+    <description>Selon AeroTime, Airbus vise 259 livraisons d&#x27;avions commerciaux en novembre et décembre 2026 afin d&#x27;atteindre sa cible annuelle. Simple Flying avance un chiffre légèrement différent : 249 appareils.</description>
   </item>
   <item>
     <title>Qantas lance une nouvelle liaison sans escale de 15 heures au départ de Sydney</title>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 14:01:29 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Air Canada a commandé huit Airbus A350-1000 afin d&#x27;assurer des vols sans escale que ses Boeing 777-300ER ne peuvent pas réaliser.</description>
-  </item>
-  <item>
-    <title>KLM renonce à l&#x27;A320neo et prévoit de nouvelles réductions d&#x27;effectifs</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6/</guid>
-    <pubDate>Thu, 05 Nov 2026 13:31:05 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Le Journal de l&#x27;Aviation, KLM abandonne le projet d&#x27;A320neo et réduit encore ses effectifs afin d&#x27;améliorer ses résultats.</description>
   </item>
 </channel>
 </rss>

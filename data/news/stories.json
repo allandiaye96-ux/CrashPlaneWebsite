@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8",
+    "created": "2026-11-06T17:01:29Z",
+    "updated": "2026-11-06T17:01:29Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Emirates déploie son A350 vers Orlando, sur une nouvelle liaison d'environ 16 heures",
+    "chapo": "Selon Simple Flying, Emirates exploite désormais l'Airbus A350 sur sa liaison vers Orlando, aux États-Unis, une route présentée comme majeure et longue de 16 heures.",
+    "paragraphes": [
+      "D'après Simple Flying, la compagnie fait voler l'A350 vers Orlando. Le média décrit cette desserte comme une nouvelle route de 16 heures à destination des États-Unis.",
+      "Le site évoque des conséquences à la fois positives et négatives de ce choix, sans en détailler la nature dans le texte disponible."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Emirates Launches Major New 16-Hour A350 Route To The US: See Map Now",
+        "url": "https://simpleflying.com/emirates-launches-major-new-16-hour-a350-route-to-the-us/",
+        "date": "2026-11-06T17:00:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
+    "created": "2026-11-06T11:10:53Z",
+    "updated": "2026-11-06T17:01:26Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus doit accélérer ses livraisons en novembre et décembre 2026 pour atteindre son objectif annuel",
+    "chapo": "Selon AeroTime, Airbus vise 259 livraisons d'avions commerciaux en novembre et décembre 2026 afin d'atteindre sa cible annuelle. Simple Flying avance un chiffre légèrement différent : 249 appareils.",
+    "paragraphes": [
+      "D'après Simple Flying, les livraisons d'Airbus de janvier à octobre sont en hausse de 6 % par rapport à l'an dernier. Le média estime toutefois que le constructeur doit encore nettement accélérer la cadence s'il veut atteindre son objectif pour 2026.",
+      "Les deux médias ne s'accordent pas sur le nombre exact de livraisons à réaliser sur les deux derniers mois de l'année : AeroTime cite 259 appareils, Simple Flying en cite 249."
+    ],
+    "contradictions": "AeroTime indique 259 livraisons à réaliser en novembre et décembre 2026, tandis que Simple Flying évoque 249 appareils nécessaires sur les deux mois pour atteindre l'objectif annuel.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Airbus aims for 259 aircraft deliveries before year end to reach annual target",
+        "url": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026",
+        "date": "2026-11-06T10:25:33Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Airbus January-October Deliveries Up 6% But 249 Required In 2 Months To Hit Annual Target",
+        "url": "https://simpleflying.com/airbus-january-october-delivery-increase/",
+        "date": "2026-11-06T16:52:08Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03",
     "created": "2026-11-06T16:40:53Z",
     "updated": "2026-11-06T16:40:53Z",
@@ -478,37 +549,6 @@
         "title": "Condor hat an Bord Tarifsicherheit",
         "url": "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html",
         "date": "2026-11-06T12:20:35Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
-    "created": "2026-11-06T11:10:53Z",
-    "updated": "2026-11-06T11:10:53Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Airbus vise 259 livraisons d'avions commerciaux en novembre et décembre 2026 pour atteindre son objectif annuel",
-    "chapo": "Selon AeroTime, Airbus ambitionne de livrer 259 avions commerciaux sur les mois de novembre et décembre 2026, afin d'atteindre son objectif annuel.",
-    "paragraphes": [
-      "D'après AeroTime, le constructeur européen s'est fixé ce volume de 259 livraisons sur les deux derniers mois de l'année 2026. Cette cadence doit lui permettre de remplir sa cible de livraisons pour l'ensemble de l'exercice."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "Airbus aims for 259 aircraft deliveries before year end to reach annual target",
-        "url": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026",
-        "date": "2026-11-06T10:25:33Z",
         "official": false
       }
     ]

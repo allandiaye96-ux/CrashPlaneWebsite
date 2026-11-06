@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T16:50:32Z",
+  "run": "2026-11-06T17:01:04Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.9325,
+  "spend_month_usd": 2.9533,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -442,6 +442,12 @@
       "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
     },
     {
+      "dossier": "Airbus objectif livraisons fin 2026",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454"
+    },
+    {
       "dossier": "Drone explosif Leipzig/Halle",
       "statut": "corrobore",
       "editeurs": 2,
@@ -778,12 +784,6 @@
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
     },
     {
-      "dossier": "Airbus objectif livraisons fin 2026",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454"
-    },
-    {
       "dossier": "Condor accord tarifaire personnel navigant",
       "statut": "source_unique",
       "editeurs": 1,
@@ -824,6 +824,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03"
+    },
+    {
+      "dossier": "Emirates nouvelle ligne A350 Orlando",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8"
     },
     {
       "dossier": "Pakistan essai missile air-air Fa'az",
