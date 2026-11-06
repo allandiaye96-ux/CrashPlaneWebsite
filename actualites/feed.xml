@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 08:10:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 08:20:54 +0000</lastBuildDate>
+  <item>
+    <title>El Al : chiffre d&#x27;affaires record au troisième trimestre, mais bénéfice net en baisse à 175 millions de dollars</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721/</guid>
+    <pubDate>Fri, 06 Nov 2026 08:20:54 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, la compagnie israélienne El Al a enregistré un chiffre d&#x27;affaires record au troisième trimestre, tandis que son bénéfice net a reculé à 175 millions de dollars américains.</description>
+  </item>
   <item>
     <title>Singapore Airlines dévoile ses nouvelles cabines long-courrier, avec un grand lit double en première</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 12:20:56 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Discover Airlines dévoile les premières destinations de son A350 et retire son dernier A330-200, tandis qu&#x27;Emirates réclame des garanties sur l&#x27;accord aérien avant Berlin. Air Transat supprime Toronto–Berlin.</description>
-  </item>
-  <item>
-    <title>IndiGo en discussions préliminaires avec Embraer pour une centaine d&#x27;avions régionaux</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766/</guid>
-    <pubDate>Wed, 04 Nov 2026 11:50:56 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Reuters, relayé par AeroTime, la compagnie indienne IndiGo discute avec Embraer d&#x27;une commande potentielle de 100 avions régionaux. Les échanges en sont à un stade préliminaire.</description>
   </item>
 </channel>
 </rss>

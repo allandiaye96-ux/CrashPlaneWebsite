@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721",
+    "created": "2026-11-06T08:20:54Z",
+    "updated": "2026-11-06T08:20:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "El Al : chiffre d'affaires record au troisième trimestre, mais bénéfice net en baisse à 175 millions de dollars",
+    "chapo": "Selon airliners.de, la compagnie israélienne El Al a enregistré un chiffre d'affaires record au troisième trimestre, tandis que son bénéfice net a reculé à 175 millions de dollars américains.",
+    "paragraphes": [
+      "D'après airliners.de, le bénéfice net trimestriel s'établit à 175 millions de dollars américains, contre 203 millions un an plus tôt. Le média précise que la compagnie a communiqué ces résultats un jeudi.",
+      "Le chiffre d'affaires progresse d'environ 18 %, pour atteindre 1,27 milliard de dollars américains, selon la même publication. Le titre de l'article évoque un effet exceptionnel pesant sur le résultat."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "El Al erzielt Rekordumsatz, Sondereffekt drückt Gewinn",
+        "url": "https://www.airliners.de/el-al-rekordumsatz-sondereffekt-drueckt-gewinn/91357",
+        "date": "2026-11-06T07:52:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
     "created": "2026-11-05T16:50:50Z",
     "updated": "2026-11-06T08:10:59Z",

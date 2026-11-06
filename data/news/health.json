@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T08:10:38Z",
+  "run": "2026-11-06T08:20:36Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4814,
+  "spend_month_usd": 2.4902,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -794,6 +794,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0"
+    },
+    {
+      "dossier": "El Al résultats T3 2026",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721"
     },
     {
       "dossier": "France SyLEx fusée sonde M51.4",

@@ -1638,7 +1638,9 @@
     "https://www.airliners.de/koelner-zertifizierer-iscc-kooperiert-saf-luftfahrtzentrum-singapur/91355": "2026-11-06T07:20:32Z",
     "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html": "2026-11-06T07:40:34Z",
     "https://www.aero.de/news-54105/Airbus-fehlen-noch-knapp-250-Flugzeuge-zum-Jahresziel.html": "2026-11-06T08:01:00Z",
-    "https://www.air-journal.fr/2026-11-06-air-france-klm-le-benefice-grimpe-de-22-au-troisieme-trimestre-5278697.html": "2026-11-06T08:10:38Z"
+    "https://www.air-journal.fr/2026-11-06-air-france-klm-le-benefice-grimpe-de-22-au-troisieme-trimestre-5278697.html": "2026-11-06T08:10:38Z",
+    "https://www.airliners.de/el-al-rekordumsatz-sondereffekt-drueckt-gewinn/91357": "2026-11-06T08:20:36Z",
+    "https://www.airliners.de/hohe-pilotengehaelter-passagierluftfahrt-hoechsten-arbeitskosten-branchen/91353": "2026-11-06T08:20:36Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5459,10 +5461,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c798fc89721": {
+      "id": "c798fc89721",
+      "label": "El Al résultats T3 2026",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-06T08:20:51Z",
+      "updated": "2026-11-06T08:20:51Z",
+      "items": [
+        {
+          "id": "e64cd029feb75e99",
+          "feed": "airliners.de",
+          "title": "El Al erzielt Rekordumsatz, Sondereffekt drückt Gewinn",
+          "url": "https://www.airliners.de/el-al-rekordumsatz-sondereffekt-drueckt-gewinn/91357",
+          "domain": "airliners.de",
+          "summary": "El Al hat im dritten Quartal trotz eines Rekordumsatzes weniger verdient. Der Nettogewinn sank auf 175 Millionen US-Dollar nach 203 Millionen US-Dollar ein Jahr zuvor, wie die israelische Fluggesellschaft am Donnerstag mitteilte. Der Umsatz stieg um rund 18 Prozent auf 1,27 Milliarden US-Dollar.",
+          "published": "2026-11-06T07:52:00Z"
+        }
+      ],
+      "story_id": "2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.481426
+    "2026-11": 2.490231
   }
 }
