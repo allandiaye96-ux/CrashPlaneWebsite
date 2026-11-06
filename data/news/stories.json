@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8",
+    "created": "2026-11-06T10:40:54Z",
+    "updated": "2026-11-06T10:40:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Bombardier relève sa prévision de flux de trésorerie 2026 après un troisième trimestre solide",
+    "chapo": "Selon AviTrader, Bombardier a publié un chiffre d'affaires et une rentabilité en hausse au troisième trimestre 2026, et relève son objectif de flux de trésorerie disponible pour l'ensemble de l'année.",
+    "paragraphes": [
+      "D'après AviTrader, le constructeur canadien met en avant une performance record de son activité Services et une forte génération de trésorerie. Son chiffre d'affaires du trimestre progresse de 3 % sur un an, à 2,4 milliards de dollars américains (US$2.4 billion).",
+      "Bombardier porte son objectif de flux de trésorerie disponible pour 2026 à plus de 1,3 milliard de dollars américains. Les autres objectifs financiers de l'année sont, eux, réaffirmés."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Bombardier raises 2026 cash flow outlook after strong Q3",
+        "url": "https://avitrader.com/2026/11/06/bombardier-raises-2026-cash-flow-outlook-after-strong-q3/",
+        "date": "2026-11-06T10:31:15Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb",
     "created": "2026-11-06T09:01:39Z",
     "updated": "2026-11-06T10:20:50Z",

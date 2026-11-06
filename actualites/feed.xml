@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 10:31:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 10:40:54 +0000</lastBuildDate>
+  <item>
+    <title>Bombardier relève sa prévision de flux de trésorerie 2026 après un troisième trimestre solide</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8/</guid>
+    <pubDate>Fri, 06 Nov 2026 10:40:54 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon AviTrader, Bombardier a publié un chiffre d&#x27;affaires et une rentabilité en hausse au troisième trimestre 2026, et relève son objectif de flux de trésorerie disponible pour l&#x27;ensemble de l&#x27;année.</description>
+  </item>
   <item>
     <title>Un F-35B largue pour la première fois un missile Meteor depuis sa soute interne lors d&#x27;un essai</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 18:01:26 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AirlineGeeks, Qatar Airways ouvre deux destinations en Amérique du Sud, desservies par une boucle bihebdomadaire depuis Doha.</description>
-  </item>
-  <item>
-    <title>Atlas Air passe une commande à Airbus, une première après trois décennies de gros-porteurs Boeing</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507/</guid>
-    <pubDate>Wed, 04 Nov 2026 17:01:29 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, le transporteur cargo Atlas Air a rompu avec trois décennies de fidélité à Boeing pour ses gros-porteurs en passant une commande auprès d&#x27;Airbus.</description>
   </item>
 </channel>
 </rss>
