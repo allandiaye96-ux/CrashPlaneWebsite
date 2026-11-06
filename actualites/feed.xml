@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 10:01:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 10:11:07 +0000</lastBuildDate>
+  <item>
+    <title>Un F-35B largue pour la première fois un missile Meteor depuis sa soute interne lors d&#x27;un essai</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5/</guid>
+    <pubDate>Fri, 06 Nov 2026 10:11:06 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon The Aviationist, un F-35B à décollage court et atterrissage vertical a largué un engin d&#x27;essai inerte du missile air-air à longue portée Meteor de MBDA depuis sa soute interne. C&#x27;est une première pour cette combinaison.</description>
+  </item>
   <item>
     <title>Airbus : l&#x27;A320 ATRA, laboratoire volant au nez d&#x27;Eurofighter, termine ses vols de mise en service</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 17:01:29 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, le transporteur cargo Atlas Air a rompu avec trois décennies de fidélité à Boeing pour ses gros-porteurs en passant une commande auprès d&#x27;Airbus.</description>
-  </item>
-  <item>
-    <title>Air Serbia : le vol Belgrade-Moscou fait demi-tour après un contrôle de sûreté qui aurait été contourné</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92/</guid>
-    <pubDate>Wed, 04 Nov 2026 16:51:12 +0000</pubDate>
-    <category>Incident</category>
-    <description>Un avion d&#x27;Air Serbia à destination de Moscou est retourné à Belgrade environ une heure avant son arrivée, selon aero.de et airliners.de. Un passager aurait contourné le contrôle de sûreté avant l&#x27;embarquement.</description>
   </item>
 </channel>
 </rss>

@@ -1648,7 +1648,24 @@
     "https://www.airliners.de/umbuchungen-kosten-geschaeftsreisende-deutlich-haeufiger-gebuehren/91359": "2026-11-06T09:20:34Z",
     "https://www.airliners.de/turkish-airlines-quartalsgewinn-einstellungsstopp-kerosin/91356": "2026-11-06T09:20:34Z",
     "https://avitrader.com/2026/11/06/ga-telesis-secures-afra-recertification/": "2026-11-06T10:01:01Z",
-    "https://www.air-journal.fr/2026-11-06-air-tahiti-nui-choisit-starlink-pour-ses-quatre-boeing-787-9-5278698.html": "2026-11-06T10:01:01Z"
+    "https://www.air-journal.fr/2026-11-06-air-tahiti-nui-choisit-starlink-pour-ses-quatre-boeing-787-9-5278698.html": "2026-11-06T10:01:01Z",
+    "https://www.aerotime.aero/articles/f-35b-meteor-missile-first-internal-bay-release": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=4EE3D85C-69B0-4A85-8550-A4F883603257": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=40E070A9-9748-48A5-9404-8D4B575AE5C0": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E9C76356-3CCC-4EEC-BF9F-D6B2C24FB797": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=A93946C2-B7D6-4525-9C3D-FB4EBD17CA65": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=FCE8CC42-4EC6-495D-9214-AF704DBB565C": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=DC861704-2DA5-401B-B541-E870A4209024": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=40E52883-B2FD-4C03-8501-C55B1FA3D8E9": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3A8A12D5-C858-4B76-820D-E1B4A2BB910D": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C4F41C8A-2238-49B7-AE44-8212C0418EC0": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=EA663800-F733-4698-98A5-BA45619DAFBA": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=689A3FFC-3D63-424F-BD24-9415F18D098E": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=073BEA1B-CD5A-41DB-B597-12DB8727B81A": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=9CF4762C-7E3B-4D90-8093-CC9D2D1A0ADB": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=7DDF810F-1823-4ECF-816F-7A71DD111D9B": "2026-11-06T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C1F83F19-F354-49B7-9608-A7DEE53CA4D0": "2026-11-06T10:10:37Z",
+    "https://avitrader.com/2026/11/06/bevie-thomas-becomes-cfo-of-flair-airlines/": "2026-11-06T10:10:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2001,27 +2018,6 @@
       ],
       "story_id": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25",
       "written_count": 2
-    },
-    "cabd09cbe09": {
-      "id": "cabd09cbe09",
-      "label": "TAP reprise Lisbonne-Caracas",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T10:01:18Z",
-      "updated": "2026-10-30T10:01:18Z",
-      "items": [
-        {
-          "id": "27685bebbe6eaa9e",
-          "feed": "Air Journal",
-          "title": "TAP renoue le lien entre Lisbonne et Caracas",
-          "url": "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html",
-          "domain": "air-journal.fr",
-          "summary": "Après plusieurs mois d’interruption consécutifs aux séismes qui ont endommagé l’aéroport de Caracas, TAP Air Portugal a rétabli, le 27 octobre 2026, sa liaison directe depuis Lisbonne. Deux rotations hebdomadaires desservent désormais la capitale vénézuélienne, un marché étroitement lié à la communauté portugaise du pays. Ce retour s’inscrit dans une reprise progressive des dessertes internationales […]",
-          "published": "2026-10-30T10:00:00Z"
-        }
-      ],
-      "story_id": "2026-10-30-tap-air-portugal-reprend-ses-vols-directs-vers-caracas-avec-be09",
-      "written_count": 1
     },
     "c28fdb8ecca": {
       "id": "c28fdb8ecca",
@@ -3553,7 +3549,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-03T08:10:44Z",
-      "updated": "2026-11-03T18:51:02Z",
+      "updated": "2026-11-06T10:10:54Z",
       "items": [
         {
           "id": "eadd4313503ad45a",
@@ -3581,10 +3577,19 @@
           "domain": "simpleflying.com",
           "summary": "Two helicopters collided near Mount Everest during Nepal's peak trekking season, killing an Indian tourist and injuring passengers and pilots.",
           "published": "2026-11-03T18:47:29Z"
+        },
+        {
+          "id": "3dd2c6ed866d46ec",
+          "feed": "Aero-News Network",
+          "title": "Two Airbus Helicopters Collide Near Mount Everest",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=DC861704-2DA5-401B-B541-E870A4209024",
+          "domain": "aero-news.net",
+          "summary": "1 Dead, 3 Injured In Collision While Landing At High-Altitude Helipad Two Airbus AS350-family helicopters collided while attempting to land at a high-altitude helipad in Nepal’s Everest region on Tuesday morning, killing one passenger and injuring others. The accident occurred at around 8:12 a.m. local time at Pheriche in Solukhumbu district, according to reporting by Aerospace Global News. Helicopters regularly carry tourists, climbers and supplies between remote Himalayan settlements. The Civil Aviation Authority of Nepal (CAAN) identified the two aircraft as an Air Dynasty helicopter, registration 9N-AOD, and a Fishtail Air helicopter, registration 9N-AJR. In a statement, the authority ex",
+          "published": null
         }
       ],
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
-      "written_count": 3
+      "written_count": 4
     },
     "c0438db2c86": {
       "id": "c0438db2c86",
@@ -5266,7 +5271,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-05T21:10:59Z",
-      "updated": "2026-11-05T21:10:59Z",
+      "updated": "2026-11-06T10:10:54Z",
       "items": [
         {
           "id": "a887c940302b18fa",
@@ -5276,10 +5281,19 @@
           "domain": "theaviationist.com",
           "summary": "The Oct. 7 trial saw the release of an inert Meteor test asset from an F-35B’s internal weapons bay, demonstrating safe separation and providing data for further release tests ahead of live firings. An F-35B Short Take-Off Vertical Landing (STOVL) fighter jettisoned an MBDA Meteor Beyond Visual-Range Air-to-Air Missile (BVRAAM) for the first time from […]",
           "published": "2026-11-05T21:05:30Z"
+        },
+        {
+          "id": "b04d1f8cf797cfa2",
+          "feed": "AeroTime",
+          "title": "F-35B releases Meteor missile from internal weapons bay for first time",
+          "url": "https://www.aerotime.aero/articles/f-35b-meteor-missile-first-internal-bay-release",
+          "domain": "aerotime.aero",
+          "summary": "",
+          "published": "2026-11-06T09:59:04Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5",
+      "written_count": 2
     },
     "cb49fec890f": {
       "id": "cb49fec890f",
@@ -5457,10 +5471,94 @@
       ],
       "story_id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
       "written_count": 1
+    },
+    "c4fff5c93c6": {
+      "id": "c4fff5c93c6",
+      "label": "Accident R44 baie de Biscayne",
+      "categorie": "Accident",
+      "importance": 2,
+      "created": "2026-11-06T10:10:54Z",
+      "updated": "2026-11-06T10:10:54Z",
+      "items": [
+        {
+          "id": "92fb851c86e74bdf",
+          "feed": "Aero-News Network",
+          "title": "Helicopter Down In Biscayne Bay, One Dead",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=3A8A12D5-C858-4B76-820D-E1B4A2BB910D",
+          "domain": "aero-news.net",
+          "summary": "Two Injured And Transported To Hospital Two people were injured and one person was killed when a helicopter went down into Biscayne Bay off Key Biscayne on Wednesday morning. The FAA said a Robinson R44 helicopter went down in the water east of Miami Executive Airport in Florida around 11:15 a.m. local time on Wednesday, Nov. 4. Three people were on board. The FAA and the National Transportation Safety Board will investigate. The NTSB will lead the investigation and provide all updates. According to the Miami-Dade County Sheriff's Office, the helicopter went down as the occupants, who have only been identified as three adult males, were taking photos or videos of boats near Bill Baggs State ",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "cff2995016b": {
+      "id": "cff2995016b",
+      "label": "Premier vol prototype HADES",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-06T10:10:54Z",
+      "updated": "2026-11-06T10:10:54Z",
+      "items": [
+        {
+          "id": "59d14f8fa8d50aae",
+          "feed": "Aero-News Network",
+          "title": "HADES Reconnaissance Aircraft Prototype Makes First Flight",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=C4F41C8A-2238-49B7-AE44-8212C0418EC0",
+          "domain": "aero-news.net",
+          "summary": "Supports Army’s Effort To Modernize Aerial Intelligence, Surveillance, And Reconnaissance Capabilities The first HADES reconnaissance aircraft prototype completed its maiden flight as part of the U.S. Army’s effort to modernize its aerial intelligence capabilities. The Army marked a major milestone in its aerial intelligence modernization effort with the High Accuracy Detection and Exploitation System, or HADES, Prototype 1 aircraft’s first flight, Sept. 11. The Fixed Wing Project Office, working with industry partner Sierra Nevada Corporation, led the activities for the flight, following completion of a flight readiness review. The event moves the HADES program to the next phase of mission ",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "ccad1ff78f2": {
+      "id": "ccad1ff78f2",
+      "label": "Alerte NTSB soupapes bloquées moteurs à pistons",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-06T10:10:54Z",
+      "updated": "2026-11-06T10:10:54Z",
+      "items": [
+        {
+          "id": "54b758dc9b05cf87",
+          "feed": "Aero-News Network",
+          "title": "NTSB Safety Alert Warns Of Stuck Valves In Piston Engines",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=EA663800-F733-4698-98A5-BA45619DAFBA",
+          "domain": "aero-news.net",
+          "summary": "Agency Cites 42 Accidents From 2015 To 2025 A safety alert on stuck engine valves in piston aircraft states that, from 2015 to 2025, investigators examined 42 accidents in which a stuck valve led to a loss of power and an accident. Those accidents resulted in five fatalities and 12 serious injuries. The FAA says a sticking (or stuck) valve in reciprocating piston engines can interrupt the combustion cycle, causing severe vibration and a partial loss of engine power. Depending on where the valve sticks within the valve guide, pushrods can also bend. Valves stick due to the accumulation of deposits on the valve stem and/or valve guide. Factors that contribute to this accumulation include local",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c0b981a03d8": {
+      "id": "c0b981a03d8",
+      "label": "Joby Gets Additional Funding From The Air Force",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-06T10:10:54Z",
+      "updated": "2026-11-06T10:10:54Z",
+      "items": [
+        {
+          "id": "d3aad6a042f19c7b",
+          "feed": "Aero-News Network",
+          "title": "Joby Gets Additional Funding From The Air Force",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=9CF4762C-7E3B-4D90-8093-CC9D2D1A0ADB",
+          "domain": "aero-news.net",
+          "summary": "New Commitment To Nearly $37 Million Joby Aviation has announced that the U.S. Air Force has awarded additional funding to accelerate Joby’s autonomous flight technology, bringing the Air Force’s total commitment to nearly $37 million and raising the ceiling on Joby’s operational testing contract to $50 million. Awarded through AFWERX, the innovation arm of the U.S. Air Force, the funding supports continued development of Joby’s autonomy software and expanded operational testing in the Pacific, as the Air Force moves toward sustained autonomous logistics operations. This additional funding builds on Joby’s long-standing partnership with AFWERX and reflects continued Air Force momentum behind",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.538403
+    "2026-11": 2.563456
   }
 }
