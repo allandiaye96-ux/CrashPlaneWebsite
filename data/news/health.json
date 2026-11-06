@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-06T15:20:32Z",
+  "run": "2026-11-06T15:30:51Z",
   "stats": {
-    "fetched": 698,
-    "new": 3,
-    "written": 1,
+    "fetched": 598,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "HTTPError: HTTP Error 521: <none>"
     },
     "Leeham News": {
       "ok": true,
