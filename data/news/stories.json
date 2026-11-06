@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
+    "created": "2026-11-05T16:50:50Z",
+    "updated": "2026-11-06T08:10:59Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air France-KLM : un troisième trimestre 2026 solide, avec un chiffre d'affaires en hausse de 7,6 %",
+    "chapo": "Selon Le Journal de l'Aviation, Air France-KLM a publié de bons résultats pour le troisième trimestre, avec un chiffre d'affaires en progression de 7,6 %. Air Journal indique que le groupe a dégagé 938 millions d'euros de bénéfice net sur la période.",
+    "paragraphes": [
+      "D'après Air Journal, ce résultat est soutenu par la montée en gamme des cabines et par l'amélioration des recettes unitaires. Il est obtenu malgré la forte hausse du prix du kérosène, et le titre du média évoque une progression de 22 % du bénéfice.",
+      "Le Journal de l'Aviation précise que cette hausse du chiffre d'affaires s'inscrit dans une tendance partagée par nombre de compagnies concurrentes.",
+      "Air Journal ajoute que KLM lance une nouvelle transformation, qui comprend une réorganisation de ses activités et une réduction de ses effectifs."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Air France-KLM signe un 3e trimestre solide",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html",
+        "date": "2026-11-05T16:45:59Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Air France-KLM : le bénéfice grimpe de 22% au troisième trimestre",
+        "url": "https://www.air-journal.fr/2026-11-06-air-france-klm-le-benefice-grimpe-de-22-au-troisieme-trimestre-5278697.html",
+        "date": "2026-11-06T08:00:42Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
     "created": "2026-11-06T05:41:04Z",
     "updated": "2026-11-06T06:20:59Z",
@@ -427,37 +467,6 @@
         "title": "Air Tahiti Nui signe à son tour avec Starlink",
         "url": "https://www.journal-aviation.com/actualites-transport-aerien/connectivite-et-ife/air-tahiti-nui-signe-a-son-tour-avec-starlink-20261105.html",
         "date": "2026-11-05T16:55:07Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
-    "created": "2026-11-05T16:50:50Z",
-    "updated": "2026-11-05T16:50:50Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air France-KLM annonce un troisième trimestre solide, avec un chiffre d'affaires en hausse de 7,6 %",
-    "chapo": "Selon Le Journal de l'Aviation, Air France-KLM a publié de bons résultats pour le troisième trimestre. Le groupe a vu son chiffre d'affaires progresser de 7,6 %.",
-    "paragraphes": [
-      "D'après Le Journal de l'Aviation, cette hausse du chiffre d'affaires, de 7,6 %, place le groupe dans la dynamique observée chez nombre de ses concurrents, qui ont eux aussi enregistré une progression importante de leurs revenus."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Air France-KLM signe un 3e trimestre solide",
-        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html",
-        "date": "2026-11-05T16:45:59Z",
         "official": false
       }
     ]

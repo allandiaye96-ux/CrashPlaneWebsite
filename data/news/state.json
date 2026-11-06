@@ -1637,7 +1637,8 @@
     "https://www.air-journal.fr/2026-11-06-marseille-strasbourg-twin-jet-reprend-la-ligne-et-vise-les-voyageurs-daffaires-5278691.html": "2026-11-06T07:01:03Z",
     "https://www.airliners.de/koelner-zertifizierer-iscc-kooperiert-saf-luftfahrtzentrum-singapur/91355": "2026-11-06T07:20:32Z",
     "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html": "2026-11-06T07:40:34Z",
-    "https://www.aero.de/news-54105/Airbus-fehlen-noch-knapp-250-Flugzeuge-zum-Jahresziel.html": "2026-11-06T08:01:00Z"
+    "https://www.aero.de/news-54105/Airbus-fehlen-noch-knapp-250-Flugzeuge-zum-Jahresziel.html": "2026-11-06T08:01:00Z",
+    "https://www.air-journal.fr/2026-11-06-air-france-klm-le-benefice-grimpe-de-22-au-troisieme-trimestre-5278697.html": "2026-11-06T08:10:38Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5258,7 +5259,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-05T16:50:47Z",
-      "updated": "2026-11-05T16:50:47Z",
+      "updated": "2026-11-06T08:10:51Z",
       "items": [
         {
           "id": "261e502ef005a286",
@@ -5268,10 +5269,19 @@
           "domain": "journal-aviation.com",
           "summary": "Air France-KLM a enregistré des résultats solides au troisième trimestre. Comme nombre de ses concurrents, le groupe a enregistré une hausse importante de son chiffre d’affaires, de 7,6 % à […] L’article Air France-KLM signe un 3e trimestre solide a été publié sur Le Journal de l'Aviation .",
           "published": "2026-11-05T16:45:59Z"
+        },
+        {
+          "id": "2b0268fef23a6e3d",
+          "feed": "Air Journal",
+          "title": "Air France-KLM : le bénéfice grimpe de 22% au troisième trimestre",
+          "url": "https://www.air-journal.fr/2026-11-06-air-france-klm-le-benefice-grimpe-de-22-au-troisieme-trimestre-5278697.html",
+          "domain": "air-journal.fr",
+          "summary": "Porté par la montée en gamme de ses cabines et la progression de ses recettes unitaires, Air France-KLM a dégagé un bénéfice net de 938 millions d’euros au troisième trimestre 2026, malgré l’envolée du kérosène. Cette bonne saison estivale n’empêche pas KLM d’engager une nouvelle transformation : réorganisation des activités, réduction des effectifs et révision […]",
+          "published": "2026-11-06T08:00:42Z"
         }
       ],
       "story_id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
-      "written_count": 1
+      "written_count": 2
     },
     "c71393dfe23": {
       "id": "c71393dfe23",
@@ -5453,6 +5463,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.462403
+    "2026-11": 2.481426
   }
 }
