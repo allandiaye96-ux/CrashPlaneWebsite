@@ -1755,7 +1755,8 @@
     "https://theaviationist.com/2026/11/06/mystery-flight-from-rome-to-tehran/": "2026-11-06T22:30:50Z",
     "https://simpleflying.com/why-pilatus-pc24-can-land-on-grass/": "2026-11-06T23:01:01Z",
     "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-214": "2026-11-06T23:10:32Z",
-    "https://www.air-journal.fr/2026-11-07-le-7-novembre-1927-dans-le-ciel-un-nouveau-record-pour-williams-5278716.html": "2026-11-06T23:10:32Z"
+    "https://www.air-journal.fr/2026-11-07-le-7-novembre-1927-dans-le-ciel-un-nouveau-record-pour-williams-5278716.html": "2026-11-06T23:10:32Z",
+    "https://simpleflying.com/19-year-old-southwest-airlines-boeing-737-loses-engine-takeoff-emergency/": "2026-11-06T23:30:51Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5786,10 +5787,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cc9493b7187": {
+      "id": "cc9493b7187",
+      "label": "Southwest 737 perte moteur n°2 après décollage",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-06T23:31:02Z",
+      "updated": "2026-11-06T23:31:02Z",
+      "items": [
+        {
+          "id": "9ac2c8046ba1ac94",
+          "feed": "Simple Flying",
+          "title": "19-Year-Old Southwest Airlines Boeing 737 Loses #2 Engine After Takeoff, Declares Emergency",
+          "url": "https://simpleflying.com/19-year-old-southwest-airlines-boeing-737-loses-engine-takeoff-emergency/",
+          "domain": "simpleflying.com",
+          "summary": "N281WN the carrier's 500th 737 circled over the South Bay as pilots ran emergency checklists and prepared for a single‑engine return.",
+          "published": "2026-11-06T23:23:01Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.135819
+    "2026-11": 3.136615
   }
 }
