@@ -1745,7 +1745,8 @@
     "https://simpleflying.com/delta-cancels-15-routes-from-3-busiest-hubs/": "2026-11-06T20:30:51Z",
     "https://airlinegeeks.com/2026/11/06/psa-pilots-secure-contract-extension-through-2030/": "2026-11-06T21:10:33Z",
     "https://airlinegeeks.com/2026/11/06/livery-of-the-week-jetblues-florida-panthers-design/": "2026-11-06T21:20:32Z",
-    "https://www.twz.com/sea/uss-theodore-roosevelt-arrives-in-singapore-last-stop-before-third-strike-group-reaches-the-middle-east": "2026-11-06T21:20:32Z"
+    "https://www.twz.com/sea/uss-theodore-roosevelt-arrives-in-singapore-last-stop-before-third-strike-group-reaches-the-middle-east": "2026-11-06T21:20:32Z",
+    "https://www.twz.com/air/operational-f-15exs-have-started-flying-with-conformal-fuel-tanks": "2026-11-06T21:30:50Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1834,36 +1835,6 @@
       ],
       "story_id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
       "written_count": 4
-    },
-    "c7c871ef4f2": {
-      "id": "c7c871ef4f2",
-      "label": "Éthiopie Su-35 et S-400",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-10-29T15:39:45Z",
-      "updated": "2026-10-30T21:20:48Z",
-      "items": [
-        {
-          "id": "3d8b7ded81d56ba1",
-          "feed": "AeroTime",
-          "title": "Ethiopia receives first Russian Su-35 fighters, plans S-400 air defense purchase",
-          "url": "https://www.aerotime.aero/articles/ethiopia-receives-first-russian-su-35-fighters-plans-s-400-air-defense-purchase",
-          "domain": "aerotime.aero",
-          "summary": "Ethiopia has received its first Russian Sukhoi Su-35 fighter jets and plans to acquire Russia’s S-400 air defense… The post Ethiopia receives first Russian Su-35 fighters, plans S-400 air defense purchase appeared first on AeroTime .",
-          "published": "2026-10-29T13:05:29Z"
-        },
-        {
-          "id": "fd30b1dc2a1bde39",
-          "feed": "The Aviationist",
-          "title": "Ethiopia Receives First Russian Su-35 Fighters in Moscow",
-          "url": "https://theaviationist.com/2026/10/30/ethiopia-receives-first-su-35-fighters/",
-          "domain": "theaviationist.com",
-          "summary": "Prime Minister Abiy Ahmed Ali shared images of two of the 12 Ethiopian Su-35s at Zhukovsky airport near Moscow, delivered on the sidelines of the third Russia-Africa summit. Ethiopia received on Oct. 28, 2026, its first Russian-made Su-35 fighters, according to a surprise announcement made by Prime Minister Abiy Ahmed Ali. The handover ceremony took […]",
-          "published": "2026-10-30T21:13:29Z"
-        }
-      ],
-      "story_id": "2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2",
-      "written_count": 2
     },
     "c153f9923c1": {
       "id": "c153f9923c1",
@@ -5819,6 +5790,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.13092
+    "2026-11": 3.131717
   }
 }
