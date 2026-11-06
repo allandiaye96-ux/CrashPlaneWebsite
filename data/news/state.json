@@ -1716,7 +1716,8 @@
     "https://www.air-journal.fr/2026-11-06-malte-en-vol-direct-depuis-bordeaux-km-malta-airlines-arrive-au-printemps-2027-5278709.html": "2026-11-06T15:01:04Z",
     "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381": "2026-11-06T15:20:32Z",
     "https://www.airliners.de/video/video-d328-eco-fabrik-entsteht-deutschlands-regionalflug-91380": "2026-11-06T15:20:32Z",
-    "https://www.airliners.de/klage-delta-fensterloser-fensterplaetze/91360": "2026-11-06T15:20:32Z"
+    "https://www.airliners.de/klage-delta-fensterloser-fensterplaetze/91360": "2026-11-06T15:20:32Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html": "2026-11-06T15:40:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5220,7 +5221,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-06T05:40:57Z",
-      "updated": "2026-11-06T13:10:48Z",
+      "updated": "2026-11-06T15:40:50Z",
       "items": [
         {
           "id": "6b8c66e27989f5e0",
@@ -5257,10 +5258,19 @@
           "domain": "aerotime.aero",
           "summary": "Singapore Airlines (SIA) has announced its new first, business, premium economy and economy long-haul products, to arrive from… The post Singapore Airlines introduces new first and business long-haul cabin products appeared first on AeroTime .",
           "published": "2026-11-06T13:00:11Z"
+        },
+        {
+          "id": "8e29765cecb3cc35",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Singapore Airlines lance un nouveau produit cabine sur ses Boeing 777-9 et Airbus A350",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html",
+          "domain": "journal-aviation.com",
+          "summary": "Singapore Airlines a décidé de réviser son produit pour améliorer encore l’expérience de ses passagers. La compagnie a notamment consacré un investissement de 1,56 milliard de dollars (2 milliards de […] L’article Singapore Airlines lance un nouveau produit cabine sur ses Boeing 777-9 et Airbus A350 a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-06T15:39:34Z"
         }
       ],
       "story_id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
-      "written_count": 4
+      "written_count": 5
     },
     "cfca5dd9898": {
       "id": "cfca5dd9898",
@@ -5709,6 +5719,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.770635
+    "2026-11": 2.786028
   }
 }

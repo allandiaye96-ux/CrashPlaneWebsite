@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T15:30:51Z",
+  "run": "2026-11-06T15:40:35Z",
   "stats": {
-    "fetched": 598,
-    "new": 0,
-    "written": 0,
+    "fetched": 698,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.7706,
+  "spend_month_usd": 2.786,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 521: <none>"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -154,6 +154,12 @@
       "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
     },
     {
+      "dossier": "Singapore Airlines suites First et Business 777-9",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
+    },
+    {
       "dossier": "Ilulissat nouvel aéroport Groenland",
       "statut": "corrobore",
       "editeurs": 4,
@@ -188,12 +194,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
-    },
-    {
-      "dossier": "Singapore Airlines suites First et Business 777-9",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
     },
     {
       "dossier": "Airbus résultats T3 2026 livraisons",

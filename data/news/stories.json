@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
+    "created": "2026-11-06T05:41:04Z",
+    "updated": "2026-11-06T15:40:58Z",
+    "version": 5,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Singapore Airlines dévoile ses nouvelles cabines long-courrier, avec un grand lit double en première",
+    "chapo": "Singapore Airlines investit plus de 2 milliards de dollars de Singapour dans de nouveaux produits cabine pour ses quatre classes de voyage, selon AviTrader et airliners.de. Les premières installations sont prévues au second semestre 2027.",
+    "paragraphes": [
+      "La compagnie a présenté de nouveaux sièges et aménagements en première, en classe affaires, en premium economy et en classe économique. D'après AviTrader, ces produits seront déployés progressivement sur 41 Airbus A350-900 modernisés, en versions long-courrier et ultra long-courrier (ULR).",
+      "Selon airliners.de, ces cabines équiperont d'abord un autre type d'appareil que le Boeing 777-9, dont l'arrivée a été repoussée. Simple Flying, qui a suivi la présentation en direct, évoque de nouvelles suites de première et de classe affaires pour le 777-9, ainsi que ce que la compagnie présente comme le plus grand lit double de l'aviation commerciale."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 5,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Live: Singapore Airlines Unveils All-New First & Business Class Suites For Its Boeing 777-9",
+        "url": "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/",
+        "date": "2026-11-06T05:36:32Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Singapore Airlines setzt bei neuer Langstreckenkabine auf Doppelbetten",
+        "url": "https://www.airliners.de/singapore-airlines-langstreckenkabine-doppelbetten/91361",
+        "date": "2026-11-06T06:01:00Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Singapore Airlines invests S$2bn in new long-haul cabins",
+        "url": "https://avitrader.com/2026/11/06/singapore-airlines-invests-s2bn-in-new-long-haul-cabins/",
+        "date": "2026-11-06T11:38:15Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Singapore Airlines introduces new first and business long-haul cabin products",
+        "url": "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new",
+        "date": "2026-11-06T13:00:11Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Singapore Airlines lance un nouveau produit cabine sur ses Boeing 777-9 et Airbus A350",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html",
+        "date": "2026-11-06T15:39:34Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
     "created": "2026-11-06T15:20:51Z",
     "updated": "2026-11-06T15:20:51Z",
@@ -211,59 +271,6 @@
         "title": "Bombendrohungen gegen Flüge in Europa reißen nicht ab",
         "url": "https://www.airliners.de/bombendrohungen-fluege-europa-reissen-nicht-ab/91378",
         "date": "2026-11-06T12:46:45Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
-    "created": "2026-11-06T05:41:04Z",
-    "updated": "2026-11-06T13:10:52Z",
-    "version": 4,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Singapore Airlines dévoile ses nouvelles cabines long-courrier, avec un lit double en première et en affaires",
-    "chapo": "Singapore Airlines a présenté de nouveaux produits pour ses quatre classes de voyage long-courrier, un investissement de plus de 2 milliards de dollars de Singapour, selon AviTrader et airliners.de. Les premières installations sont prévues au second semestre 2027.",
-    "paragraphes": [
-      "D'après AviTrader, les nouveaux produits de première classe, classe affaires, premium economy et classe économique seront déployés progressivement sur 41 Airbus A350-900 long-courriers et A350-900 ultra-long-courriers (ULR) qui seront rénovés. Airliners.de précise que ces cabines arriveront d'abord sur un autre type d'appareil que le Boeing 777-9, dont l'entrée en service a été repoussée.",
-      "Simple Flying, qui a suivi la présentation en direct, indique que la compagnie a dévoilé de nouvelles suites de première classe et de classe affaires pour son Boeing 777-9. Le média évoque « le plus grand lit double de l'aviation commerciale », une formule reprise de l'annonce de la compagnie."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 4,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "Live: Singapore Airlines Unveils All-New First & Business Class Suites For Its Boeing 777-9",
-        "url": "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/",
-        "date": "2026-11-06T05:36:32Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Singapore Airlines setzt bei neuer Langstreckenkabine auf Doppelbetten",
-        "url": "https://www.airliners.de/singapore-airlines-langstreckenkabine-doppelbetten/91361",
-        "date": "2026-11-06T06:01:00Z",
-        "official": false
-      },
-      {
-        "name": "AviTrader",
-        "title": "Singapore Airlines invests S$2bn in new long-haul cabins",
-        "url": "https://avitrader.com/2026/11/06/singapore-airlines-invests-s2bn-in-new-long-haul-cabins/",
-        "date": "2026-11-06T11:38:15Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Singapore Airlines introduces new first and business long-haul cabin products",
-        "url": "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new",
-        "date": "2026-11-06T13:00:11Z",
         "official": false
       }
     ]
