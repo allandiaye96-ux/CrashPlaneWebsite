@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
+    "created": "2026-11-06T09:10:56Z",
+    "updated": "2026-11-06T09:10:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus : l'A320 ATRA, laboratoire volant au nez d'Eurofighter, termine ses vols de mise en service",
+    "chapo": "Selon un communiqué d'Airbus, l'A320 ATRA, présenté comme un laboratoire radar volant doté d'un nez de Eurofighter, a achevé ses vols de mise en service sur le site d'Airbus à Manching, en Allemagne.",
+    "paragraphes": [
+      "L'appareil est un Airbus A320 modifié, dont le nez reprend celui d'un Eurofighter. Le constructeur indique que l'avion démarre ses opérations en vol après cette phase de mise en service.",
+      "Les vols de commissioning se sont déroulés à Manching, site allemand d'Airbus."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "A320 with a Eurofighter nose: Airbus flying radar lab starts flight operations",
+        "url": "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb",
     "created": "2026-11-06T09:01:39Z",
     "updated": "2026-11-06T09:01:39Z",

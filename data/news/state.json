@@ -1643,7 +1643,8 @@
     "https://www.airliners.de/hohe-pilotengehaelter-passagierluftfahrt-hoechsten-arbeitskosten-branchen/91353": "2026-11-06T08:20:36Z",
     "https://simpleflying.com/every-airline-flying-us-australia-2026-routes-operating/": "2026-11-06T09:01:02Z",
     "https://www.aero.de/news-54107/IAG-erleidet-Gewinnrueckgang-im-Sommer.html": "2026-11-06T09:01:02Z",
-    "https://www.air-journal.fr/2026-11-06-emirates-benefice-en-chute-de-68-mais-toujours-dans-le-vert-5278696.html": "2026-11-06T09:01:02Z"
+    "https://www.air-journal.fr/2026-11-06-emirates-benefice-en-chute-de-68-mais-toujours-dans-le-vert-5278696.html": "2026-11-06T09:01:02Z",
+    "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations": "2026-11-06T09:10:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5473,10 +5474,31 @@
       ],
       "story_id": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb",
       "written_count": 1
+    },
+    "ce331bd8e7e": {
+      "id": "ce331bd8e7e",
+      "label": "Airbus A320 ATRA laboratoire radar Manching",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-06T09:10:53Z",
+      "updated": "2026-11-06T09:10:53Z",
+      "items": [
+        {
+          "id": "2fc28e6c04718f17",
+          "feed": "Airbus – Communiqués",
+          "title": "A320 with a Eurofighter nose: Airbus flying radar lab starts flight operations",
+          "url": "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations",
+          "domain": "airbus.com",
+          "summary": "The Airbus A320 ATRA has completed its commissioning flights at the Airbus site in Manching, Germany.",
+          "published": null
+        }
+      ],
+      "story_id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.528572
+    "2026-11": 2.536746
   }
 }

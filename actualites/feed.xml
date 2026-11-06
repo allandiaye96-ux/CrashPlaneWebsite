@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 09:01:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 09:10:56 +0000</lastBuildDate>
+  <item>
+    <title>Airbus : l&#x27;A320 ATRA, laboratoire volant au nez d&#x27;Eurofighter, termine ses vols de mise en service</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e/</guid>
+    <pubDate>Fri, 06 Nov 2026 09:10:56 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon un communiqué d&#x27;Airbus, l&#x27;A320 ATRA, présenté comme un laboratoire radar volant doté d&#x27;un nez de Eurofighter, a achevé ses vols de mise en service sur le site d&#x27;Airbus à Manching, en Allemagne.</description>
+  </item>
   <item>
     <title>IAG : le groupe de British Airways voit son bénéfice reculer cet été avec la hausse du prix du kérosène</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 16:51:12 +0000</pubDate>
     <category>Incident</category>
     <description>Un avion d&#x27;Air Serbia à destination de Moscou est retourné à Belgrade environ une heure avant son arrivée, selon aero.de et airliners.de. Un passager aurait contourné le contrôle de sûreté avant l&#x27;embarquement.</description>
-  </item>
-  <item>
-    <title>Latam abaisse sa prévision d&#x27;Ebitda ajusté à cause du carburant, mais relève celle de chiffre d&#x27;affaires</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b/</guid>
-    <pubDate>Wed, 04 Nov 2026 14:21:11 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Latam Airlines a revu à la baisse sa prévision d&#x27;Ebitda ajusté, pénalisée par la forte hausse des prix du carburant. Le groupe a en revanche relevé sa prévision de chiffre d&#x27;affaires.</description>
   </item>
 </channel>
 </rss>
