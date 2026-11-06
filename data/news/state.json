@@ -1687,7 +1687,9 @@
     "https://www.airliners.de/bombardier-boeing-zukunft-spirit-werk-belfast/91371": "2026-11-06T11:20:33Z",
     "https://www.airliners.de/frankfurt-airport-edeka-filiale-oeffnet-alter-tegut-filliale/91364": "2026-11-06T11:20:33Z",
     "https://www.airliners.de/lufthansa-cargo-ana-neustart-japan-joint-venture/91374": "2026-11-06T11:20:33Z",
-    "https://www.airliners.de/ber-baut-sicherheitskontrolle-duty-free-bereich-folgt/91363": "2026-11-06T11:20:33Z"
+    "https://www.airliners.de/ber-baut-sicherheitskontrolle-duty-free-bereich-folgt/91363": "2026-11-06T11:20:33Z",
+    "https://simpleflying.com/lockheed-constellation-had-three-vertical-stab/": "2026-11-06T11:40:35Z",
+    "https://avitrader.com/2026/11/06/singapore-airlines-invests-s2bn-in-new-long-haul-cabins/": "2026-11-06T11:40:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5305,7 +5307,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-06T05:40:57Z",
-      "updated": "2026-11-06T06:20:55Z",
+      "updated": "2026-11-06T11:40:54Z",
       "items": [
         {
           "id": "6b8c66e27989f5e0",
@@ -5324,10 +5326,19 @@
           "domain": "airliners.de",
           "summary": "Singapore Airlines hat neue Sitze für alle vier Reiseklassen auf der Langstrecke vorgestellt und investiert dafür mehr als zwei Milliarden Singapur-Dollar. Die Kabinen kommen ab der zweiten Jahreshälfte 2027 in die Flotte – statt auf der verschobenen 777-9 nun zuerst in einem anderen Typen.",
           "published": "2026-11-06T06:01:00Z"
+        },
+        {
+          "id": "95fd0b91c677afe0",
+          "feed": "AviTrader",
+          "title": "Singapore Airlines invests S$2bn in new long-haul cabins",
+          "url": "https://avitrader.com/2026/11/06/singapore-airlines-invests-s2bn-in-new-long-haul-cabins/",
+          "domain": "avitrader.com",
+          "summary": "Singapore Airlines (SIA) is investing more than S$2 billion in new long-haul cabin products across all four travel classes, with the first installations scheduled for the second half of 2027. The new first-class, business-class, premium-economy and economy-class products will be introduced progressively on 41 retrofitted Airbus A350-900 long-haul and A350-900 ultra-long-range (ULR) aircraft, as well […] The post Singapore Airlines invests S$2bn in new long-haul cabins appeared first on AviTrader Aviation News .",
+          "published": "2026-11-06T11:38:15Z"
         }
       ],
       "story_id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
-      "written_count": 2
+      "written_count": 3
     },
     "cfca5dd9898": {
       "id": "cfca5dd9898",
@@ -5593,6 +5604,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.601835
+    "2026-11": 2.619342
   }
 }

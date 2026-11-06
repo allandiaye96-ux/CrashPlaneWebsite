@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T11:30:52Z",
+  "run": "2026-11-06T11:40:35Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.6018,
+  "spend_month_usd": 2.6193,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -268,6 +268,12 @@
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
+      "dossier": "Singapore Airlines suites First et Business 777-9",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
+    },
+    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -428,12 +434,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5"
-    },
-    {
-      "dossier": "Singapore Airlines suites First et Business 777-9",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
     },
     {
       "dossier": "IAG résultats S1 2026 recul bénéfice kérosène",
