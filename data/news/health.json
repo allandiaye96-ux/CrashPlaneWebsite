@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T14:50:35Z",
+  "run": "2026-11-06T15:01:04Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
-    "written": 1,
+    "new": 4,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.761,
+  "spend_month_usd": 2.7619,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -893,6 +893,18 @@
     },
     {
       "dossier": "Menaces à la bombe vols Prague novembre 2026",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Drone explosif Leipzig/Halle",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Petit avion sur A2 Magdebourg",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

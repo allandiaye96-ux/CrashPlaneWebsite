@@ -1709,7 +1709,11 @@
     "https://simpleflying.com/airbus-a320-eurofighter-nose-commissioning-flights/": "2026-11-06T14:10:34Z",
     "https://leehamnews.com/2026/11/06/beta-focusing-electric-airplane-sales-on-cargo-medical/": "2026-11-06T14:10:34Z",
     "https://www.airliners.de/bdl-vorausschau-deutschland-faellt-winter-hinter-europa-zurueck/91379": "2026-11-06T14:20:34Z",
-    "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights": "2026-11-06T14:50:35Z"
+    "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights": "2026-11-06T14:50:35Z",
+    "https://simpleflying.com/7-longest-nonstop-boeing-787-9-flights-2026/": "2026-11-06T15:01:04Z",
+    "https://www.aero.de/news-54114/Personenfahndung-nach-Drohnenangriff-auf-Flughafen-LeipzigHalle.html": "2026-11-06T15:01:04Z",
+    "https://www.aero.de/news-54113/Kleinflugzeug-auf-A2-verunglueckt.html": "2026-11-06T15:01:04Z",
+    "https://www.air-journal.fr/2026-11-06-malte-en-vol-direct-depuis-bordeaux-km-malta-airlines-arrive-au-printemps-2027-5278709.html": "2026-11-06T15:01:04Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5647,10 +5651,52 @@
       ],
       "story_id": "2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a",
       "written_count": 1
+    },
+    "ca424ce0528": {
+      "id": "ca424ce0528",
+      "label": "Drone explosif Leipzig/Halle",
+      "categorie": "Incident",
+      "importance": 3,
+      "created": "2026-11-06T15:01:40Z",
+      "updated": "2026-11-06T15:01:40Z",
+      "items": [
+        {
+          "id": "42df815549fab89d",
+          "feed": "aero.de",
+          "title": "Personenfahndung nach Drohnenangriff auf Leipzig/Halle",
+          "url": "https://www.aero.de/news-54114/Personenfahndung-nach-Drohnenangriff-auf-Flughafen-LeipzigHalle.html",
+          "domain": "aero.de",
+          "summary": "LEIPZIG - Im Zusammenhang mit dem mutmaßlichen Anschlagsversuch mit einer Sprengstoffdrohne auf dem Flughafen Leipzig fahndet die Polizei nach einer verdächtigen Person.",
+          "published": "2026-11-06T15:00:09Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "cad877564d4": {
+      "id": "cad877564d4",
+      "label": "Petit avion sur A2 Magdebourg",
+      "categorie": "Accident",
+      "importance": 2,
+      "created": "2026-11-06T15:01:40Z",
+      "updated": "2026-11-06T15:01:40Z",
+      "items": [
+        {
+          "id": "3ed8431a3487fbbb",
+          "feed": "aero.de",
+          "title": "Kleinflugzeug auf A2 verunglückt",
+          "url": "https://www.aero.de/news-54113/Kleinflugzeug-auf-A2-verunglueckt.html",
+          "domain": "aero.de",
+          "summary": "MAGDEBURG - Ein kleines Flugzeug ist auf der A2 nordöstlich von Magdeburg verunglückt. Wie viele Menschen zu Schaden gekommen sind, ist noch unklar.",
+          "published": "2026-11-06T14:56:41Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.760982
+    "2026-11": 2.761879
   }
 }
