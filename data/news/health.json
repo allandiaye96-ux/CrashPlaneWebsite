@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T05:10:38Z",
+  "run": "2026-11-06T05:20:34Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4214,
+  "spend_month_usd": 2.4308,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -364,6 +364,12 @@
       "breve": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1"
     },
     {
+      "dossier": "Air India commande gros-porteurs supplémentaire",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
+    },
+    {
       "dossier": "ITA Airways Milan-Malpensa Lima projet",
       "statut": "corrobore",
       "editeurs": 2,
@@ -638,12 +644,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-delta-conteste-son-transfert-force-vers-le-terminal-4-de-lon-666b"
-    },
-    {
-      "dossier": "Air India commande gros-porteurs supplémentaire",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
     },
     {
       "dossier": "Condor tarifkommission vs VC-Vorstand Zukunftspaket",

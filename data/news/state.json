@@ -1623,7 +1623,9 @@
     "https://theaviationist.com/2026/11/06/hms-qnlz-new-drone-trials/": "2026-11-06T00:20:33Z",
     "https://simpleflying.com/boeing-losing-lockheed-c-5-galaxy-gave-world-747/": "2026-11-06T01:01:00Z",
     "https://simpleflying.com/how-mcdonnell-douglas-md-80-outlast-jet-replace-it/": "2026-11-06T02:50:32Z",
-    "https://www.airliners.de/avolon-nettogewinn-43-prozent-250-flugzeuge-boeing-airbus/91341": "2026-11-06T03:20:33Z"
+    "https://www.airliners.de/avolon-nettogewinn-43-prozent-250-flugzeuge-boeing-airbus/91341": "2026-11-06T03:20:33Z",
+    "https://www.aero.de/news-54099/Neuer-Chef-sieht-Zukunft-von-Air-India-auf-der-Langstrecke.html": "2026-11-06T05:20:34Z",
+    "https://www.airliners.de/luftfrachtumschlag-deutschland-stabil/91358": "2026-11-06T05:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3762,7 +3764,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-03T14:20:54Z",
-      "updated": "2026-11-03T14:20:54Z",
+      "updated": "2026-11-06T05:20:52Z",
       "items": [
         {
           "id": "776a571d2d3e2fd6",
@@ -3772,10 +3774,19 @@
           "domain": "airliners.de",
           "summary": "Air India will eine Bestellung von Großraumflugzeugen aufstocken, um international zu wachsen. Gespräche laufen Insidern zufolge mit beiden großen Herstellern. Wie viele Flugzeuge es werden sollen, lässt der Vorstandsvorsitzende offen.",
           "published": "2026-11-03T13:45:57Z"
+        },
+        {
+          "id": "0d7bc925c6d6bf19",
+          "feed": "aero.de",
+          "title": "Neuer Chef sieht Zukunft von Air India auf der Langstrecke",
+          "url": "https://www.aero.de/news-54099/Neuer-Chef-sieht-Zukunft-von-Air-India-auf-der-Langstrecke.html",
+          "domain": "aero.de",
+          "summary": "MUMBAI - \"Wir haben viele, aber wir brauchen mehr\": Air India will Interkontflugzeuge nachbestellen. Der indische Lufthansa-Partner hat seit Kurzem einen neuen Chef: Tewolde Gebremariam will Air India mit mehr Langstrecken und mehr Luftfracht aus der Verlustzone steuern.",
+          "published": "2026-11-06T05:15:10Z"
         }
       ],
       "story_id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
-      "written_count": 1
+      "written_count": 2
     },
     "ce9f17c97e0": {
       "id": "ce9f17c97e0",
@@ -5370,6 +5381,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.421403
+    "2026-11": 2.430809
   }
 }

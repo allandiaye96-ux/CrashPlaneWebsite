@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
+    "created": "2026-11-03T14:21:04Z",
+    "updated": "2026-11-06T05:20:56Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air India envisage de renforcer sa commande de gros-porteurs pour se développer à l'international",
+    "chapo": "Air India veut augmenter une commande d'avions gros-porteurs afin de croître à l'international, selon airliners.de. D'après des sources proches du dossier, des discussions sont en cours avec les deux grands constructeurs.",
+    "paragraphes": [
+      "Le directeur général n'a pas indiqué combien d'appareils supplémentaires pourraient être commandés, rapporte airliners.de. Les discussions concerneraient les deux principaux avionneurs, d'après des informations d'initiés.",
+      "Selon aero.de, la compagnie, partenaire indienne de Lufthansa, est dirigée depuis peu par Tewolde Gebremariam. Celui-ci souhaite sortir Air India de la zone de pertes en développant les vols long-courriers et le fret aérien. Il résume la situation ainsi : la compagnie en a beaucoup, mais il lui en faut davantage."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Air India will Bestellung von Großraumflugzeugen aufstocken",
+        "url": "https://www.airliners.de/air-india-bestellung-grossraumflugzeuge-aufstocken/91274",
+        "date": "2026-11-03T13:45:57Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Neuer Chef sieht Zukunft von Air India auf der Langstrecke",
+        "url": "https://www.aero.de/news-54099/Neuer-Chef-sieht-Zukunft-von-Air-India-auf-der-Langstrecke.html",
+        "date": "2026-11-06T05:15:10Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0",
     "created": "2026-11-06T03:20:49Z",
     "updated": "2026-11-06T03:20:49Z",
@@ -2059,38 +2098,6 @@
         "title": "Avolon crée Constellation Aviation",
         "url": "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html",
         "date": "2026-11-03T15:03:50Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
-    "created": "2026-11-03T14:21:04Z",
-    "updated": "2026-11-03T14:21:04Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air India envisage d'augmenter sa commande d'avions gros-porteurs pour croître à l'international",
-    "chapo": "Selon airliners.de, Air India souhaite étoffer une commande d'avions gros-porteurs afin de se développer à l'international. Le nombre d'appareils visés n'a pas été précisé.",
-    "paragraphes": [
-      "D'après airliners.de, des discussions seraient en cours avec les deux grands constructeurs, selon des sources proches du dossier.",
-      "Le directeur général de la compagnie n'a pas indiqué combien d'avions pourraient s'ajouter à la commande."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Air India will Bestellung von Großraumflugzeugen aufstocken",
-        "url": "https://www.airliners.de/air-india-bestellung-grossraumflugzeuge-aufstocken/91274",
-        "date": "2026-11-03T13:45:57Z",
         "official": false
       }
     ]
