@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
+    "created": "2026-11-06T13:01:37Z",
+    "updated": "2026-11-06T13:01:37Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Alerte à la bombe sur un A320 d'Aer Lingus : enquête ouverte en France, chasseurs en escorte",
+    "chapo": "Selon Air Journal, le parquet d'Évreux enquête après l'alerte à la bombe visant un vol Aer Lingus Dublin-Rome. Le pilote aurait tardé à se dérouter vers la base aérienne désignée par les autorités françaises.",
+    "paragraphes": [
+      "D'après Air Journal, l'Airbus A320 assurant la liaison Dublin-Rome transportait 157 personnes le 5 novembre. L'alerte, finalement sans fondement, a conduit à un accompagnement par deux chasseurs, et l'appareil s'est posé sans incident.",
+      "Le parquet d'Évreux a ouvert une enquête sur le refus présumé du commandant de rallier immédiatement la base aérienne normande, précise Air Journal. Selon aero.de, le capitaine et les autorités se sont opposés sur le choix de l'aéroport de déroutement, et la France a fait décoller des avions de chasse.",
+      "Toujours d'après aero.de, des menaces ont visé au moins 27 vols dans l'espace aérien européen, toutes jugées être de fausses alertes."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Frankreich ermittelt gegen Pilot von Aer Lingus",
+        "url": "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html",
+        "date": "2026-11-06T07:38:31Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Aer Lingus : deux chasseurs pour escorter le Dublin-Rome, le commandant de bord visé par une enquête",
+        "url": "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html",
+        "date": "2026-11-06T13:00:09Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2",
     "created": "2026-11-06T12:50:54Z",
     "updated": "2026-11-06T12:50:54Z",

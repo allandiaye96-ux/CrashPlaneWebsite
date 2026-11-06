@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 12:50:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 13:01:37 +0000</lastBuildDate>
+  <item>
+    <title>Alerte à la bombe sur un A320 d&#x27;Aer Lingus : enquête ouverte en France, chasseurs en escorte</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898/</guid>
+    <pubDate>Fri, 06 Nov 2026 13:01:37 +0000</pubDate>
+    <category>Incident</category>
+    <description>Selon Air Journal, le parquet d&#x27;Évreux enquête après l&#x27;alerte à la bombe visant un vol Aer Lingus Dublin-Rome. Le pilote aurait tardé à se dérouter vers la base aérienne désignée par les autorités françaises.</description>
+  </item>
   <item>
     <title>Fret aérien Japon-Europe : Lufthansa Cargo, Swiss WorldCargo, ANA et NCA signent un protocole d&#x27;accord</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 08:31:12 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>La start-up munichoise Vaeridion obtient des financements de l&#x27;UE et d&#x27;investisseurs pour son avion électrique, selon aero.de et airliners.de. Plus de 120 millions d&#x27;euros au total sont évoqués par aero.de.</description>
-  </item>
-  <item>
-    <title>Lufthansa : moins de passagers au troisième trimestre 2026, mais un chiffre d&#x27;affaires record</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083/</guid>
-    <pubDate>Thu, 05 Nov 2026 05:21:00 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon aero.de, Lufthansa a transporté moins de passagers que l&#x27;année précédente durant le trimestre d&#x27;été 2026, tout en réalisant un chiffre d&#x27;affaires record.</description>
   </item>
 </channel>
 </rss>

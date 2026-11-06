@@ -1697,7 +1697,8 @@
     "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html": "2026-11-06T12:20:34Z",
     "https://www.airliners.de/condor-terminal-umzug-frankfurt-mitte-april-2027/91376": "2026-11-06T12:20:34Z",
     "https://www.aero.de/news-54112/Weitere-Bombendrohung-gegen-Linienflug.html": "2026-11-06T12:30:52Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html": "2026-11-06T12:50:34Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html": "2026-11-06T12:50:34Z",
+    "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html": "2026-11-06T13:01:02Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5273,7 +5274,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-06T07:40:53Z",
-      "updated": "2026-11-06T07:40:53Z",
+      "updated": "2026-11-06T13:01:25Z",
       "items": [
         {
           "id": "8f5806f6e1ac8df8",
@@ -5283,10 +5284,19 @@
           "domain": "aero.de",
           "summary": "PARIS - Gegen mindestens 27 Flüge im europäischen Luftraum gehen Drohungen ein - durchweg Fehlalarm. Einen Airbus A320 von Aer Lingus ereilt die Warnung im französischen Luftraum. Kapitän und Behörden streiten über den Ausweichairport, Frankreich lässt Kampfjets aufsteigen.",
           "published": "2026-11-06T07:38:31Z"
+        },
+        {
+          "id": "358c3b5a2abbcf8e",
+          "feed": "Air Journal",
+          "title": "Aer Lingus : deux chasseurs pour escorter le Dublin-Rome, le commandant de bord visé par une enquête",
+          "url": "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html",
+          "domain": "air-journal.fr",
+          "summary": "Le parquet d’Évreux a ouvert une enquête après le refus présumé du commandant de bord d’un Airbus A320 d’Aer Lingus de rejoindre immédiatement la base aérienne normande, jeudi 5 novembre. Visé par une alerte à la bombe finalement infondée, l’appareil reliant Dublin à Rome avec 157 personnes à bord s’est posé sans incident, escorté par […]",
+          "published": "2026-11-06T13:00:09Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
+      "written_count": 2
     },
     "c798fc89721": {
       "id": "c798fc89721",
@@ -5594,6 +5604,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.648294
+    "2026-11": 2.672278
   }
 }
