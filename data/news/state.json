@@ -1636,7 +1636,8 @@
     "https://www.airliners.de/pso-finnair-eigene-fluege-regionalzielen/91328": "2026-11-06T06:20:40Z",
     "https://www.air-journal.fr/2026-11-06-marseille-strasbourg-twin-jet-reprend-la-ligne-et-vise-les-voyageurs-daffaires-5278691.html": "2026-11-06T07:01:03Z",
     "https://www.airliners.de/koelner-zertifizierer-iscc-kooperiert-saf-luftfahrtzentrum-singapur/91355": "2026-11-06T07:20:32Z",
-    "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html": "2026-11-06T07:40:34Z"
+    "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html": "2026-11-06T07:40:34Z",
+    "https://www.aero.de/news-54105/Airbus-fehlen-noch-knapp-250-Flugzeuge-zum-Jahresziel.html": "2026-11-06T08:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5452,6 +5453,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.461617
+    "2026-11": 2.462403
   }
 }
