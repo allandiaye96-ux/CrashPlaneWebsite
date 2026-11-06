@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T11:01:01Z",
+  "run": "2026-11-06T11:10:34Z",
   "stats": {
     "fetched": 698,
-    "new": 2,
+    "new": 3,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.5929,
+  "spend_month_usd": 2.6009,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -796,6 +796,12 @@
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
     },
     {
+      "dossier": "Airbus objectif livraisons fin 2026",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454"
+    },
+    {
       "dossier": "United Las Vegas-New York passager menace détournement",
       "statut": "signale",
       "editeurs": 1,
@@ -881,6 +887,12 @@
     },
     {
       "dossier": "Joby Gets Additional Funding From The Air Force",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "OTAN marché anti-drones",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

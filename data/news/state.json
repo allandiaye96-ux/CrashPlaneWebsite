@@ -1679,7 +1679,10 @@
     "https://avitrader.com/2026/11/06/bombardier-raises-2026-cash-flow-outlook-after-strong-q3/": "2026-11-06T10:40:34Z",
     "https://avitrader.com/2026/11/06/fraport-revenue-rises-as-international-airports-drive-growth/": "2026-11-06T10:50:33Z",
     "https://simpleflying.com/qantas-launches-historic-new-15-hour-nonstop-route-from-sydney/": "2026-11-06T11:01:01Z",
-    "https://www.air-journal.fr/2026-11-06-biometrie-et-intelligence-artificielle-liata-mesure-les-nouvelles-habitudes-des-passagers-5278578.html": "2026-11-06T11:01:01Z"
+    "https://www.air-journal.fr/2026-11-06-biometrie-et-intelligence-artificielle-liata-mesure-les-nouvelles-habitudes-des-passagers-5278578.html": "2026-11-06T11:01:01Z",
+    "https://www.aerotime.aero/articles/nato-counter-drone-marketplace-16-systems": "2026-11-06T11:10:34Z",
+    "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026": "2026-11-06T11:10:34Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/airbus-a-livre-621-appareils-depuis-le-debut-de-lannee-20261106.html": "2026-11-06T11:10:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5539,10 +5542,52 @@
       ],
       "story_id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
       "written_count": 1
+    },
+    "cf8b8c2de41": {
+      "id": "cf8b8c2de41",
+      "label": "OTAN marché anti-drones",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-06T11:10:49Z",
+      "updated": "2026-11-06T11:10:49Z",
+      "items": [
+        {
+          "id": "7c6a5a93f9ea84d4",
+          "feed": "AeroTime",
+          "title": "NATO opens counter-drone marketplace with 16 systems from five companies",
+          "url": "https://www.aerotime.aero/articles/nato-counter-drone-marketplace-16-systems",
+          "domain": "aerotime.aero",
+          "summary": "NATO launched a counter-drone marketplace on November 5, 2026, enabling allied countries to order from a catalog of 16… The post NATO opens counter-drone marketplace with 16 systems from five companies appeared first on AeroTime .",
+          "published": "2026-11-06T10:55:23Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "c9e1d18a454": {
+      "id": "c9e1d18a454",
+      "label": "Airbus objectif livraisons fin 2026",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-06T11:10:49Z",
+      "updated": "2026-11-06T11:10:49Z",
+      "items": [
+        {
+          "id": "a3a432587aff8fa0",
+          "feed": "AeroTime",
+          "title": "Airbus aims for 259 aircraft deliveries before year end to reach annual target",
+          "url": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026",
+          "domain": "aerotime.aero",
+          "summary": "Airbus is aiming to make 259 commercial aircraft deliveries across November and December 2026, in order for the… The post Airbus aims for 259 aircraft deliveries before year end to reach annual target appeared first on AeroTime .",
+          "published": "2026-11-06T10:25:33Z"
+        }
+      ],
+      "story_id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.592891
+    "2026-11": 2.600861
   }
 }

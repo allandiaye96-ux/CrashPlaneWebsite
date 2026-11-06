@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
+    "created": "2026-11-06T11:10:53Z",
+    "updated": "2026-11-06T11:10:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus vise 259 livraisons d'avions commerciaux en novembre et décembre 2026 pour atteindre son objectif annuel",
+    "chapo": "Selon AeroTime, Airbus ambitionne de livrer 259 avions commerciaux sur les mois de novembre et décembre 2026, afin d'atteindre son objectif annuel.",
+    "paragraphes": [
+      "D'après AeroTime, le constructeur européen s'est fixé ce volume de 259 livraisons sur les deux derniers mois de l'année 2026. Cette cadence doit lui permettre de remplir sa cible de livraisons pour l'ensemble de l'exercice."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Airbus aims for 259 aircraft deliveries before year end to reach annual target",
+        "url": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026",
+        "date": "2026-11-06T10:25:33Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
     "created": "2026-11-06T11:01:22Z",
     "updated": "2026-11-06T11:01:22Z",

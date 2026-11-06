@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 11:01:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 11:10:53 +0000</lastBuildDate>
+  <item>
+    <title>Airbus vise 259 livraisons d&#x27;avions commerciaux en novembre et décembre 2026 pour atteindre son objectif annuel</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454/</guid>
+    <pubDate>Fri, 06 Nov 2026 11:10:53 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon AeroTime, Airbus ambitionne de livrer 259 avions commerciaux sur les mois de novembre et décembre 2026, afin d&#x27;atteindre son objectif annuel.</description>
+  </item>
   <item>
     <title>Qantas lance une nouvelle liaison sans escale de 15 heures au départ de Sydney</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 02:40:51 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>La NASA a annoncé le X-70 « Fractal », son nouvel avion expérimental, selon The Aviationist. Cet appareil doit servir à tester de nouvelles commandes de vol et à repousser les limites de la manœuvrabilité.</description>
-  </item>
-  <item>
-    <title>Qantas retirerait ses Airbus A380 quatre ans plus tôt, en misant sur les livraisons d&#x27;A350-1000 et de 787</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765/</guid>
-    <pubDate>Thu, 05 Nov 2026 02:01:22 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, Qantas prévoit de sortir ses Airbus A380 de sa flotte quatre ans avant l&#x27;échéance initiale. Le média lie cette décision à la confiance de la compagnie dans les livraisons à venir de ses A350-1000 et de ses Boeing 787.</description>
   </item>
 </channel>
 </rss>
