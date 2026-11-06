@@ -1635,7 +1635,8 @@
     "https://www.airliners.de/lufthansa-technik-wartet-weiter-cf34-triebwerke-psa-airlines/91354": "2026-11-06T06:20:40Z",
     "https://www.airliners.de/pso-finnair-eigene-fluege-regionalzielen/91328": "2026-11-06T06:20:40Z",
     "https://www.air-journal.fr/2026-11-06-marseille-strasbourg-twin-jet-reprend-la-ligne-et-vise-les-voyageurs-daffaires-5278691.html": "2026-11-06T07:01:03Z",
-    "https://www.airliners.de/koelner-zertifizierer-iscc-kooperiert-saf-luftfahrtzentrum-singapur/91355": "2026-11-06T07:20:32Z"
+    "https://www.airliners.de/koelner-zertifizierer-iscc-kooperiert-saf-luftfahrtzentrum-singapur/91355": "2026-11-06T07:20:32Z",
+    "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html": "2026-11-06T07:40:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5426,10 +5427,31 @@
       ],
       "story_id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
       "written_count": 2
+    },
+    "cfca5dd9898": {
+      "id": "cfca5dd9898",
+      "label": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-06T07:40:53Z",
+      "updated": "2026-11-06T07:40:53Z",
+      "items": [
+        {
+          "id": "8f5806f6e1ac8df8",
+          "feed": "aero.de",
+          "title": "Frankreich ermittelt gegen Pilot von Aer Lingus",
+          "url": "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html",
+          "domain": "aero.de",
+          "summary": "PARIS - Gegen mindestens 27 Flüge im europäischen Luftraum gehen Drohungen ein - durchweg Fehlalarm. Einen Airbus A320 von Aer Lingus ereilt die Warnung im französischen Luftraum. Kapitän und Behörden streiten über den Ausweichairport, Frankreich lässt Kampfjets aufsteigen.",
+          "published": "2026-11-06T07:38:31Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.460807
+    "2026-11": 2.461617
   }
 }
