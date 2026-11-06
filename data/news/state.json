@@ -1717,7 +1717,9 @@
     "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381": "2026-11-06T15:20:32Z",
     "https://www.airliners.de/video/video-d328-eco-fabrik-entsteht-deutschlands-regionalflug-91380": "2026-11-06T15:20:32Z",
     "https://www.airliners.de/klage-delta-fensterloser-fensterplaetze/91360": "2026-11-06T15:20:32Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html": "2026-11-06T15:40:35Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html": "2026-11-06T15:40:35Z",
+    "https://simpleflying.com/bomb-threats-hit-european-aviation-third-time-this-week/": "2026-11-06T15:50:33Z",
+    "https://www.aerotime.aero/articles/south-korea-selects-four-sikorsky-s-92a-presidential-helicopters": "2026-11-06T15:50:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1962,36 +1964,6 @@
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
       "written_count": 4
-    },
-    "c232e406d25": {
-      "id": "c232e406d25",
-      "label": "airBaltic suppression postes pilotes et cabine",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T09:01:18Z",
-      "updated": "2026-10-30T15:40:56Z",
-      "items": [
-        {
-          "id": "6c6796c79fca9017",
-          "feed": "Air Journal",
-          "title": "AirBaltic taille dans ses équipages : 100 pilotes et 200 personnels de cabine menacés",
-          "url": "https://www.air-journal.fr/2026-10-30-airbaltic-taille-dans-ses-equipages-100-pilotes-et-200-personnels-de-cabine-menaces-5278574.html",
-          "domain": "air-journal.fr",
-          "summary": "La compagnie lettone prévoit de supprimer environ 100 postes de pilotes et 200 postes de personnels de cabine, dans le cadre d’une restructuration accompagnant la réduction de sa flotte d’Airbus A220-300. Les premières notifications individuelles sont attendues à partir du 31 octobre. Alors qu’airBaltic invoque l’adaptation de ses effectifs au programme de vols de 2027, […]",
-          "published": "2026-10-30T09:00:19Z"
-        },
-        {
-          "id": "26279f2302ebd055",
-          "feed": "AirlineGeeks",
-          "title": "AirBaltic Moves to Cut Around 300 Employees",
-          "url": "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/",
-          "domain": "airlinegeeks.com",
-          "summary": "About 100 pilots and 200 cabin staff could be dismissed as the bankrupt carrier restructures.",
-          "published": "2026-10-30T15:31:30Z"
-        }
-      ],
-      "story_id": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25",
-      "written_count": 2
     },
     "c28fdb8ecca": {
       "id": "c28fdb8ecca",
@@ -4843,7 +4815,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-06T13:21:14Z",
+      "updated": "2026-11-06T15:50:45Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -4898,6 +4870,15 @@
           "domain": "airliners.de",
           "summary": "Zum dritten Mal in dieser Woche haben Bombendrohungen den Luftverkehr in Europa behindert. Betroffen waren am Freitag unter anderem Flüge in Prag, Kopenhagen und Frankreich. Sprengsätze wurden nicht gefunden.",
           "published": "2026-11-06T12:46:45Z"
+        },
+        {
+          "id": "9b52eaca53e10d67",
+          "feed": "Simple Flying",
+          "title": "Disruption Continues As Bomb Threats Hit European Aviation For The Third Day This Week",
+          "url": "https://simpleflying.com/bomb-threats-hit-european-aviation-third-time-this-week/",
+          "domain": "simpleflying.com",
+          "summary": "European flights have been disrupted by the hoaxes for the second day in a row",
+          "published": "2026-11-06T15:45:45Z"
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
@@ -5715,10 +5696,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c72816b1bb3": {
+      "id": "c72816b1bb3",
+      "label": "Corée du Sud hélicoptères présidentiels S-92A+",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-06T15:50:45Z",
+      "updated": "2026-11-06T15:50:45Z",
+      "items": [
+        {
+          "id": "83128057c0e0786c",
+          "feed": "AeroTime",
+          "title": "South Korea selects four Sikorsky S-92A+ presidential helicopters",
+          "url": "https://www.aerotime.aero/articles/south-korea-selects-four-sikorsky-s-92a-presidential-helicopters",
+          "domain": "aerotime.aero",
+          "summary": "Sikorsky, a Lockheed Martin company, has been selected to supply S-92A+ helicopters to the Republic of Korea Air… The post South Korea selects four Sikorsky S-92A+ presidential helicopters appeared first on AeroTime .",
+          "published": "2026-11-06T15:14:10Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.786028
+    "2026-11": 2.827143
   }
 }

@@ -1,13 +1,14 @@
 {
-  "run": "2026-11-06T15:40:35Z",
+  "run": "2026-11-06T15:50:33Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
-    "written": 1,
+    "new": 2,
+    "written": 0,
     "held": 0,
-    "errors": 0
+    "errors": 1,
+    "last_error": "KeyError: 'paragraphes'"
   },
-  "spend_month_usd": 2.786,
+  "spend_month_usd": 2.8271,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -284,12 +285,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-30-l-ethiopie-recoit-ses-premiers-su-35-russes-et-envisage-l-ac-f4f2"
-    },
-    {
-      "dossier": "airBaltic suppression postes pilotes et cabine",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-30-airbaltic-envisage-de-se-separer-d-une-centaine-de-pilotes-e-6d25"
     },
     {
       "dossier": "FAA fin des exemptions monopilote CE-500",
@@ -905,6 +900,12 @@
     },
     {
       "dossier": "Petit avion sur A2 Magdebourg",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Corée du Sud hélicoptères présidentiels S-92A+",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
