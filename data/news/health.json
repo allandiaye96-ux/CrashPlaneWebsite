@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T21:30:50Z",
+  "run": "2026-11-06T21:40:05Z",
   "stats": {
     "fetched": 699,
-    "new": 1,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.1317,
+  "spend_month_usd": 3.1325,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -832,12 +832,6 @@
       "breve": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24"
     },
     {
-      "dossier": "USAF reactivation bases WWII Pacifique",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Malaysia report SAF 2030",
       "statut": "signale",
       "editeurs": 1,
@@ -917,6 +911,12 @@
     },
     {
       "dossier": "Mi-28 tir de missile de croisière",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "T-38C accident Alabama rapport enquête stabilisateurs",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

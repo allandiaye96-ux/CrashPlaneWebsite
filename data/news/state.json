@@ -1746,7 +1746,9 @@
     "https://airlinegeeks.com/2026/11/06/psa-pilots-secure-contract-extension-through-2030/": "2026-11-06T21:10:33Z",
     "https://airlinegeeks.com/2026/11/06/livery-of-the-week-jetblues-florida-panthers-design/": "2026-11-06T21:20:32Z",
     "https://www.twz.com/sea/uss-theodore-roosevelt-arrives-in-singapore-last-stop-before-third-strike-group-reaches-the-middle-east": "2026-11-06T21:20:32Z",
-    "https://www.twz.com/air/operational-f-15exs-have-started-flying-with-conformal-fuel-tanks": "2026-11-06T21:30:50Z"
+    "https://www.twz.com/air/operational-f-15exs-have-started-flying-with-conformal-fuel-tanks": "2026-11-06T21:30:50Z",
+    "https://simpleflying.com/allegiant-air-cancels-massive-25-routes/": "2026-11-06T21:40:05Z",
+    "https://theaviationist.com/2026/11/06/t-38c-lost-both-horizontal-stabilizers/": "2026-11-06T21:40:05Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4257,27 +4259,6 @@
       "story_id": "2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c",
       "written_count": 1
     },
-    "cefe096bc99": {
-      "id": "cefe096bc99",
-      "label": "USAF reactivation bases WWII Pacifique",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-04T21:31:08Z",
-      "updated": "2026-11-04T21:31:08Z",
-      "items": [
-        {
-          "id": "1e4e36fba464250d",
-          "feed": "The Air Current",
-          "title": "U.S. Air Force to begin year-round operations at rebuilt World War II-era Pacific airfields",
-          "url": "https://theaircurrent.com/defense/us-air-force-operations-rebuilt-world-war-ii-era-pacific-airfields/",
-          "domain": "theaircurrent.com",
-          "summary": "Loading the Elevenlabs Text to Speech AudioNative Player... The U.S. Air Force is preparing to formally reactivate a cluster of reconstituted World War II-era bases for high-tempo flight operations as the U.S. positions itself for a possible future conflict with China by dispersing assets across the Pacific. The service is laying the groundwork for potentially thousands of annual flight operations at four historic airfields across the Northern Mariana Islands, last used in the […] The post U.S. Air Force to begin year-round operations at rebuilt World War II-era Pacific airfields appeared first on The Air Current .",
-          "published": "2026-11-04T21:23:09Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ce113b66765": {
       "id": "ce113b66765",
       "label": "Qantas retrait anticipé A380",
@@ -5786,10 +5767,31 @@
       ],
       "story_id": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24",
       "written_count": 1
+    },
+    "cfd731fc2a1": {
+      "id": "cfd731fc2a1",
+      "label": "T-38C accident Alabama rapport enquête stabilisateurs",
+      "categorie": "Enquête",
+      "importance": 2,
+      "created": "2026-11-06T21:40:21Z",
+      "updated": "2026-11-06T21:40:21Z",
+      "items": [
+        {
+          "id": "49dd6753aff6517f",
+          "feed": "The Aviationist",
+          "title": "T-38C Lost Both Horizontal Stabilizers Before Crashing in Alabama, Investigation Finds",
+          "url": "https://theaviationist.com/2026/11/06/t-38c-lost-both-horizontal-stabilizers/",
+          "domain": "theaviationist.com",
+          "summary": "A U.S. Air Force Accident Investigation Board determined that maintenance errors allowed a horizontal stabilizer actuator pin to become loose, triggering aerodynamic flutter that tore both stabilizers from the T-38C that crashed on May 12, 2026. The U.S. Air Force has released on Oct. 30, 2026, the results of its investigation into the May 12, […]",
+          "published": "2026-11-06T21:35:10Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.131717
+    "2026-11": 3.132543
   }
 }
