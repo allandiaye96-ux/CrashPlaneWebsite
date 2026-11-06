@@ -1,5 +1,75 @@
 [
   {
+    "id": "2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a",
+    "created": "2026-11-06T14:11:14Z",
+    "updated": "2026-11-06T14:11:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Beta Technologies vise la première certification FAA d'un constructeur d'avions électriques",
+    "chapo": "Selon Leeham News, qui reprend un article de FutureFlight (AIN), Beta Technologies cherche à devenir le premier constructeur d'avions électriques à obtenir une certification de la FAA.",
+    "paragraphes": [
+      "D'après cette publication du 6 novembre 2026, signée Hanneke Weitering, Beta Technologies a orienté ses ventes récentes de l'Alia CX300, son avion électrique, vers des clients des secteurs aéromédical et du fret."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Leeham News",
+        "title": "Beta Pushing to Become First Electric Aircraft OEM to Secure FAA Certification",
+        "url": "https://leehamnews.com/2026/11/06/beta-focusing-electric-airplane-sales-on-cargo-medical/",
+        "date": "2026-11-06T14:00:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
+    "created": "2026-11-06T09:10:56Z",
+    "updated": "2026-11-06T14:11:11Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus A320 ATRA : le laboratoire volant à nez d'Eurofighter termine ses vols de mise en service",
+    "chapo": "Selon Airbus, l'A320 ATRA a achevé ses vols de mise en service sur le site de Manching, en Allemagne. Cet appareil sert de banc d'essai volant pour de nouvelles technologies, d'après Simple Flying.",
+    "paragraphes": [
+      "L'Airbus A320 ATRA a terminé ses vols de mise en service à Manching, en Allemagne, indique le constructeur. L'avion se distingue par un nez inspiré de celui de l'Eurofighter, ce qui lui vaut le surnom de laboratoire radar volant dans la communication d'Airbus.",
+      "Simple Flying décrit un biréacteur âgé de 30 ans, utilisé comme plateforme d'essais en vol pour de nouvelles technologies."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "A320 with a Eurofighter nose: Airbus flying radar lab starts flight operations",
+        "url": "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "An A320 Like No Other: Airbus Jet Completes Commissioning Flights With Eurofighter Nose",
+        "url": "https://simpleflying.com/airbus-a320-eurofighter-nose-commissioning-flights/",
+        "date": "2026-11-06T14:01:50Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165",
     "created": "2026-11-06T13:40:51Z",
     "updated": "2026-11-06T13:40:51Z",
@@ -478,38 +548,6 @@
         "title": "1 Dead, 2 Injured After 2 Helicopters Collide On Mount Everest",
         "url": "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/",
         "date": "2026-11-03T18:47:29Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
-    "created": "2026-11-06T09:10:56Z",
-    "updated": "2026-11-06T09:10:56Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Airbus : l'A320 ATRA, laboratoire volant au nez d'Eurofighter, termine ses vols de mise en service",
-    "chapo": "Selon un communiqué d'Airbus, l'A320 ATRA, présenté comme un laboratoire radar volant doté d'un nez de Eurofighter, a achevé ses vols de mise en service sur le site d'Airbus à Manching, en Allemagne.",
-    "paragraphes": [
-      "L'appareil est un Airbus A320 modifié, dont le nez reprend celui d'un Eurofighter. Le constructeur indique que l'avion démarre ses opérations en vol après cette phase de mise en service.",
-      "Les vols de commissioning se sont déroulés à Manching, site allemand d'Airbus."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Airbus – Communiqués",
-        "title": "A320 with a Eurofighter nose: Airbus flying radar lab starts flight operations",
-        "url": "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations",
-        "date": null,
         "official": false
       }
     ]

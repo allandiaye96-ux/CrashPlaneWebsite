@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T14:01:02Z",
+  "run": "2026-11-06T14:10:34Z",
   "stats": {
-    "fetched": 698,
-    "new": 1,
-    "written": 0,
+    "fetched": 598,
+    "new": 2,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.7348,
+  "spend_month_usd": 2.7507,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Leeham News": {
       "ok": true,
@@ -442,10 +442,10 @@
       "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
     },
     {
-      "dossier": "SWISS fin de coopération airBaltic 2027",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-swiss-met-fin-a-sa-cooperation-avec-airbaltic-et-reduit-sa-f-e62f"
+      "dossier": "Airbus A320 ATRA laboratoire radar Manching",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
     },
     {
       "dossier": "United Airlines sortie de Tulum",
@@ -766,12 +766,6 @@
       "breve": "2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721"
     },
     {
-      "dossier": "Airbus A320 ATRA laboratoire radar Manching",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
-    },
-    {
       "dossier": "Bombardier relève prévisions cash flow 2026",
       "statut": "source_unique",
       "editeurs": 1,
@@ -806,6 +800,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165"
+    },
+    {
+      "dossier": "Beta Technologies certification FAA Alia CX300",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a"
     },
     {
       "dossier": "Joby USAF financement autonome cargo",

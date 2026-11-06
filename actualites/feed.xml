@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 14:01:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 14:11:14 +0000</lastBuildDate>
+  <item>
+    <title>Beta Technologies vise la première certification FAA d&#x27;un constructeur d&#x27;avions électriques</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a/</guid>
+    <pubDate>Fri, 06 Nov 2026 14:11:14 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon Leeham News, qui reprend un article de FutureFlight (AIN), Beta Technologies cherche à devenir le premier constructeur d&#x27;avions électriques à obtenir une certification de la FAA.</description>
+  </item>
   <item>
     <title>Alaska Airlines dévoile Aurora : suites lie-flat sur 787 et sur certains 737 MAX 10 dès 2028</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165/</link>
@@ -72,12 +80,12 @@
     <description>Selon The Aviationist, un F-35B à décollage court et atterrissage vertical a largué un engin d&#x27;essai inerte du missile air-air à longue portée Meteor de MBDA depuis sa soute interne. C&#x27;est une première pour cette combinaison.</description>
   </item>
   <item>
-    <title>Airbus : l&#x27;A320 ATRA, laboratoire volant au nez d&#x27;Eurofighter, termine ses vols de mise en service</title>
+    <title>Airbus A320 ATRA : le laboratoire volant à nez d&#x27;Eurofighter termine ses vols de mise en service</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e/</guid>
     <pubDate>Fri, 06 Nov 2026 09:10:56 +0000</pubDate>
     <category>Constructeurs et industrie</category>
-    <description>Selon un communiqué d&#x27;Airbus, l&#x27;A320 ATRA, présenté comme un laboratoire radar volant doté d&#x27;un nez de Eurofighter, a achevé ses vols de mise en service sur le site d&#x27;Airbus à Manching, en Allemagne.</description>
+    <description>Selon Airbus, l&#x27;A320 ATRA a achevé ses vols de mise en service sur le site de Manching, en Allemagne. Cet appareil sert de banc d&#x27;essai volant pour de nouvelles technologies, d&#x27;après Simple Flying.</description>
   </item>
   <item>
     <title>IAG : la hausse du prix du kérosène pèse sur le bénéfice du troisième trimestre</title>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 09:41:12 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AviTrader, Eve Air Mobility a conclu un accord contraignant avec le brésilien FlyBIS Aviation portant sur un maximum de 12 appareils électriques à décollage et atterrissage verticaux (eVTOL).</description>
-  </item>
-  <item>
-    <title>AutoFlight réalise un vol en formation avec cinq eVTOL autonomes, une première mondiale selon AeroTime</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-autoflight-realise-un-vol-en-formation-avec-cinq-evtol-auton-7d97/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-autoflight-realise-un-vol-en-formation-avec-cinq-evtol-auton-7d97/</guid>
-    <pubDate>Thu, 05 Nov 2026 09:41:09 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon AeroTime, le constructeur chinois AutoFlight a organisé un vol en formation réunissant cinq eVTOL (avions électriques à décollage et atterrissage verticaux) autonomes. Le média présente cette démonstration comme une première mondiale.</description>
   </item>
 </channel>
 </rss>
