@@ -1695,7 +1695,8 @@
     "https://www.air-journal.fr/2026-11-06-airbus-249-avions-a-livrer-en-deux-mois-le-sprint-de-tous-les-defis-5278708.html": "2026-11-06T12:01:03Z",
     "https://www.airbus.com/en/newsroom/stories/2026-11-airbus-technology-supports-the-modernisation-of-the-spanish-air-and-space-force": "2026-11-06T12:10:32Z",
     "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html": "2026-11-06T12:20:34Z",
-    "https://www.airliners.de/condor-terminal-umzug-frankfurt-mitte-april-2027/91376": "2026-11-06T12:20:34Z"
+    "https://www.airliners.de/condor-terminal-umzug-frankfurt-mitte-april-2027/91376": "2026-11-06T12:20:34Z",
+    "https://www.aero.de/news-54112/Weitere-Bombendrohung-gegen-Linienflug.html": "2026-11-06T12:30:52Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5567,10 +5568,31 @@
       ],
       "story_id": "2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066",
       "written_count": 1
+    },
+    "c689583408c": {
+      "id": "c689583408c",
+      "label": "Menaces à la bombe vols Prague novembre 2026",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-06T12:31:06Z",
+      "updated": "2026-11-06T12:31:06Z",
+      "items": [
+        {
+          "id": "cb037f6602df1a95",
+          "feed": "aero.de",
+          "title": "Weitere Bombendrohung gegen Linienflug",
+          "url": "https://www.aero.de/news-54112/Weitere-Bombendrohung-gegen-Linienflug.html",
+          "domain": "aero.de",
+          "summary": "PRAG - Erst am Donnerstag gab es ähnliche Drohungen, nun sind erneut Passagierflüge in Prag betroffen. Sprengstoffspezialisten rückten aus. Die Ermittler stehen vor offenen Fragen.",
+          "published": "2026-11-06T12:30:42Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.629949
+    "2026-11": 2.630741
   }
 }

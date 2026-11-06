@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T12:20:34Z",
+  "run": "2026-11-06T12:30:52Z",
   "stats": {
     "fetched": 698,
-    "new": 2,
-    "written": 1,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.6299,
+  "spend_month_usd": 2.6307,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -887,6 +887,12 @@
     },
     {
       "dossier": "OTAN marché anti-drones",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Menaces à la bombe vols Prague novembre 2026",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
