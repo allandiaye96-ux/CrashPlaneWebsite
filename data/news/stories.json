@@ -2,23 +2,23 @@
   {
     "id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
     "created": "2026-11-06T05:41:04Z",
-    "updated": "2026-11-06T05:41:04Z",
-    "version": 1,
+    "updated": "2026-11-06T06:20:59Z",
+    "version": 2,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Singapore Airlines dévoile ses nouvelles suites First et Business pour le Boeing 777-9",
-    "chapo": "Selon Simple Flying, Singapore Airlines a présenté ses nouvelles suites de première classe et de classe affaires destinées à son Boeing 777-9. Le média rapporte que la compagnie met en avant le plus grand lit double de l'aviation commerciale.",
+    "titre": "Singapore Airlines dévoile ses nouvelles cabines long-courrier, avec un grand lit double en première",
+    "chapo": "Singapore Airlines a présenté de nouveaux sièges pour ses quatre classes de voyage sur long-courrier, selon airliners.de. Simple Flying évoque, pour le Boeing 777-9, « le plus grand lit double de l'aviation commerciale ».",
     "paragraphes": [
-      "D'après Simple Flying, qui a suivi la présentation en direct, la compagnie singapourienne a levé le voile sur une nouvelle génération de cabines First et Business pour son futur Boeing 777-9.",
-      "Singapore Airlines présente son lit double comme le plus grand de l'aviation commerciale, une affirmation qui émane de la compagnie elle-même, rapporte le site."
+      "D'après airliners.de, la compagnie investit plus de deux milliards de dollars singapouriens dans ce programme. Les nouvelles cabines doivent entrer dans la flotte à partir du second semestre 2027.",
+      "Toujours selon airliners.de, elles équiperont d'abord un autre type d'appareil que le 777-9, dont l'arrivée a été repoussée. Simple Flying, qui a suivi la présentation en direct, indique que la compagnie a dévoilé de nouvelles suites de première classe et de classe affaires pour le 777-9."
     ],
     "contradictions": "",
     "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
+      "status": "corrobore",
+      "independent_sources": 2,
       "official_source": false
     },
     "sources": [
@@ -27,6 +27,13 @@
         "title": "Live: Singapore Airlines Unveils All-New First & Business Class Suites For Its Boeing 777-9",
         "url": "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/",
         "date": "2026-11-06T05:36:32Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Singapore Airlines setzt bei neuer Langstreckenkabine auf Doppelbetten",
+        "url": "https://www.airliners.de/singapore-airlines-langstreckenkabine-doppelbetten/91361",
+        "date": "2026-11-06T06:01:00Z",
         "official": false
       }
     ]

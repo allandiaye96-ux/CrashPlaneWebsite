@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T06:10:34Z",
+  "run": "2026-11-06T06:20:40Z",
   "stats": {
     "fetched": 698,
-    "new": 1,
-    "written": 0,
+    "new": 4,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4498,
+  "spend_month_usd": 2.4592,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -424,6 +424,12 @@
       "breve": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47"
     },
     {
+      "dossier": "Singapore Airlines suites First et Business 777-9",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
+    },
+    {
       "dossier": "ANA reprise Airdo et Solaseed Air",
       "statut": "source_unique",
       "editeurs": 1,
@@ -788,12 +794,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0"
-    },
-    {
-      "dossier": "Singapore Airlines suites First et Business 777-9",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
     },
     {
       "dossier": "France SyLEx fusée sonde M51.4",

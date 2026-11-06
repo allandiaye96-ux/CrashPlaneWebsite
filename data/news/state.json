@@ -1629,7 +1629,11 @@
     "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/": "2026-11-06T05:40:42Z",
     "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html": "2026-11-06T05:40:42Z",
     "https://simpleflying.com/pilot-procedures-arctic-circle-operations/": "2026-11-06T06:01:00Z",
-    "https://www.air-journal.fr/2026-11-06-aeroport-de-nantes-easyjet-met-le-cap-sur-bruxelles-essaouira-et-louxor-5278690.html": "2026-11-06T06:10:34Z"
+    "https://www.air-journal.fr/2026-11-06-aeroport-de-nantes-easyjet-met-le-cap-sur-bruxelles-essaouira-et-louxor-5278690.html": "2026-11-06T06:10:34Z",
+    "https://www.airliners.de/singapore-airlines-langstreckenkabine-doppelbetten/91361": "2026-11-06T06:20:40Z",
+    "https://www.airliners.de/verkehr-statistik-airline-konsolidierung-flugzeuggenerationen-wandel-deutschland-streckennetz/91362": "2026-11-06T06:20:40Z",
+    "https://www.airliners.de/lufthansa-technik-wartet-weiter-cf34-triebwerke-psa-airlines/91354": "2026-11-06T06:20:40Z",
+    "https://www.airliners.de/pso-finnair-eigene-fluege-regionalzielen/91328": "2026-11-06T06:20:40Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5397,7 +5401,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-06T05:40:57Z",
-      "updated": "2026-11-06T05:40:57Z",
+      "updated": "2026-11-06T06:20:55Z",
       "items": [
         {
           "id": "6b8c66e27989f5e0",
@@ -5407,14 +5411,23 @@
           "domain": "simpleflying.com",
           "summary": "The airline has unveiled \"the largest double bed in commercial aviation\".",
           "published": "2026-11-06T05:36:32Z"
+        },
+        {
+          "id": "afd95fa9ed322e9f",
+          "feed": "airliners.de",
+          "title": "Singapore Airlines setzt bei neuer Langstreckenkabine auf Doppelbetten",
+          "url": "https://www.airliners.de/singapore-airlines-langstreckenkabine-doppelbetten/91361",
+          "domain": "airliners.de",
+          "summary": "Singapore Airlines hat neue Sitze für alle vier Reiseklassen auf der Langstrecke vorgestellt und investiert dafür mehr als zwei Milliarden Singapur-Dollar. Die Kabinen kommen ab der zweiten Jahreshälfte 2027 in die Flotte – statt auf der verschobenen 777-9 nun zuerst in einem anderen Typen.",
+          "published": "2026-11-06T06:01:00Z"
         }
       ],
       "story_id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
-      "written_count": 1
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.449796
+    "2026-11": 2.459198
   }
 }
