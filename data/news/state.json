@@ -1625,7 +1625,9 @@
     "https://simpleflying.com/how-mcdonnell-douglas-md-80-outlast-jet-replace-it/": "2026-11-06T02:50:32Z",
     "https://www.airliners.de/avolon-nettogewinn-43-prozent-250-flugzeuge-boeing-airbus/91341": "2026-11-06T03:20:33Z",
     "https://www.aero.de/news-54099/Neuer-Chef-sieht-Zukunft-von-Air-India-auf-der-Langstrecke.html": "2026-11-06T05:20:34Z",
-    "https://www.airliners.de/luftfrachtumschlag-deutschland-stabil/91358": "2026-11-06T05:20:34Z"
+    "https://www.airliners.de/luftfrachtumschlag-deutschland-stabil/91358": "2026-11-06T05:20:34Z",
+    "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/": "2026-11-06T05:40:42Z",
+    "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html": "2026-11-06T05:40:42Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4700,7 +4702,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-05T02:40:48Z",
-      "updated": "2026-11-05T09:50:50Z",
+      "updated": "2026-11-06T05:40:57Z",
       "items": [
         {
           "id": "c540d314da64c0ad",
@@ -4719,10 +4721,19 @@
           "domain": "theaviationist.com",
           "summary": "NASA has announced its newest experimental aircraft, the X-70 Fractal, described as a high-performance, highly adaptable crewed research platform with rapidly reconfigurable flight-control technology. NASA has announced on Nov. 4, 2026, its latest experimental aircraft, the X-70 Fractal, reflecting the agency’s push toward a renewed X-plane portfolio. The announcement arrived during the UP.Summit at NASA’s […]",
           "published": "2026-11-05T09:43:47Z"
+        },
+        {
+          "id": "634b289590383e5d",
+          "feed": "aero.de",
+          "title": "Neues X-Flugzeug der NASA wird modular und extrem wendig",
+          "url": "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html",
+          "domain": "aero.de",
+          "summary": "ORLANDO - Mit einem neuen X-Flugzeug will die NASA die Entwicklung von Zukunftstechnik vorantreiben. Die X-70 \"Fractal\" wird von einem Piloten geflogen, ist laut NASA modular aufgebaut - und wird neue Grenzen bei der Manövrierfähigkeit ausloten.",
+          "published": "2026-11-06T05:39:47Z"
         }
       ],
       "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
-      "written_count": 2
+      "written_count": 3
     },
     "ca173e9d083": {
       "id": "ca173e9d083",
@@ -5377,10 +5388,31 @@
       ],
       "story_id": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0",
       "written_count": 1
+    },
+    "c8734fa933e": {
+      "id": "c8734fa933e",
+      "label": "Singapore Airlines suites First et Business 777-9",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-06T05:40:57Z",
+      "updated": "2026-11-06T05:40:57Z",
+      "items": [
+        {
+          "id": "6b8c66e27989f5e0",
+          "feed": "Simple Flying",
+          "title": "Live: Singapore Airlines Unveils All-New First & Business Class Suites For Its Boeing 777-9",
+          "url": "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/",
+          "domain": "simpleflying.com",
+          "summary": "The airline has unveiled \"the largest double bed in commercial aviation\".",
+          "published": "2026-11-06T05:36:32Z"
+        }
+      ],
+      "story_id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.430809
+    "2026-11": 2.448213
   }
 }

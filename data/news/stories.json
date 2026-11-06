@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
+    "created": "2026-11-06T05:41:04Z",
+    "updated": "2026-11-06T05:41:04Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Singapore Airlines dévoile ses nouvelles suites First et Business pour le Boeing 777-9",
+    "chapo": "Selon Simple Flying, Singapore Airlines a présenté ses nouvelles suites de première classe et de classe affaires destinées à son Boeing 777-9. Le média rapporte que la compagnie met en avant le plus grand lit double de l'aviation commerciale.",
+    "paragraphes": [
+      "D'après Simple Flying, qui a suivi la présentation en direct, la compagnie singapourienne a levé le voile sur une nouvelle génération de cabines First et Business pour son futur Boeing 777-9.",
+      "Singapore Airlines présente son lit double comme le plus grand de l'aviation commerciale, une affirmation qui émane de la compagnie elle-même, rapporte le site."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Live: Singapore Airlines Unveils All-New First & Business Class Suites For Its Boeing 777-9",
+        "url": "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/",
+        "date": "2026-11-06T05:36:32Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
+    "created": "2026-11-05T02:40:51Z",
+    "updated": "2026-11-06T05:41:01Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "La NASA dévoile le X-70 « Fractal », nouvel avion expérimental piloté et modulaire",
+    "chapo": "La NASA a annoncé le X-70 « Fractal », son nouvel avion expérimental, selon The Aviationist. Cet appareil doit servir à tester de nouvelles commandes de vol et à repousser les limites de la manœuvrabilité.",
+    "paragraphes": [
+      "D'après The Aviationist, l'annonce date du 4 novembre 2026 et a eu lieu pendant l'UP.Summit. Le média décrit le X-70 comme une plateforme de recherche habitée, très performante et très adaptable, dotée d'une technologie de commandes de vol rapidement reconfigurable. Il y voit le signe d'une volonté de la NASA de renouveler son portefeuille d'X-planes.",
+      "Selon aero.de, l'appareil sera mené par un pilote et son architecture est modulaire, d'après la NASA. The War Zone indique que le X-70 permettra d'essayer de nouvelles capacités de contrôle en vol."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The War Zone",
+        "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+        "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
+        "date": "2026-11-05T02:37:32Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "NASA Announces X-70 Fractal, its Latest Experimental Aircraft",
+        "url": "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/",
+        "date": "2026-11-05T09:43:47Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Neues X-Flugzeug der NASA wird modular und extrem wendig",
+        "url": "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html",
+        "date": "2026-11-06T05:39:47Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
     "created": "2026-11-03T14:21:04Z",
     "updated": "2026-11-06T05:20:56Z",
@@ -925,45 +1003,6 @@
         "title": "The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition",
         "url": "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition",
         "date": "2026-11-04T17:36:13Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
-    "created": "2026-11-05T02:40:51Z",
-    "updated": "2026-11-05T09:50:53Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "NASA dévoile le X-70 Fractal, nouvel avion expérimental habité à commandes de vol reconfigurables",
-    "chapo": "La NASA a annoncé le 4 novembre 2026 le X-70 Fractal, son nouvel avion expérimental, selon The Aviationist. Il est présenté comme une plateforme de recherche habitée, très performante et très adaptable.",
-    "paragraphes": [
-      "D'après The Aviationist, le X-70 Fractal s'appuie sur une technologie de commandes de vol rapidement reconfigurable. L'annonce a été faite lors de l'UP.Summit, et s'inscrit dans la volonté de l'agence de renouveler son portefeuille de X-planes.",
-      "Selon The War Zone, l'appareil doit permettre de tester de nouvelles capacités de contrôle de vol et de repousser les limites de la maniabilité."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "The War Zone",
-        "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
-        "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
-        "date": "2026-11-05T02:37:32Z",
-        "official": false
-      },
-      {
-        "name": "The Aviationist",
-        "title": "NASA Announces X-70 Fractal, its Latest Experimental Aircraft",
-        "url": "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/",
-        "date": "2026-11-05T09:43:47Z",
         "official": false
       }
     ]
