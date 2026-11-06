@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066",
+    "created": "2026-11-06T12:20:51Z",
+    "updated": "2026-11-06T12:20:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Condor : accord avec le syndicat Ufo sur les règles de service en cabine",
+    "chapo": "Selon aero.de, Condor a conclu avec le syndicat du personnel de cabine Ufo une convention-cadre sur les règles de service en cabine. La compagnie n'aurait ainsi pas de grève du personnel navigant à redouter pendant deux ans.",
+    "paragraphes": [
+      "D'après aero.de, cet accord fait suite à un accord salarial conclu pour les pilotes. Le média indique que Condor n'a plus à craindre de mouvements sociaux du personnel navigant au cours des deux prochaines années.",
+      "La convention conclue avec Ufo porte sur les règles de service applicables en cabine."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Condor hat an Bord Tarifsicherheit",
+        "url": "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html",
+        "date": "2026-11-06T12:20:35Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
     "created": "2026-11-06T05:41:04Z",
     "updated": "2026-11-06T11:41:03Z",

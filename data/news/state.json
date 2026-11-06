@@ -1693,7 +1693,9 @@
     "https://avitrader.com/2026/11/06/aip-capital-provides-us228m-financing-for-breeze-a220s/": "2026-11-06T11:50:33Z",
     "https://simpleflying.com/airlines-offering-premium-economy-airbus-a380-flights/": "2026-11-06T12:01:03Z",
     "https://www.air-journal.fr/2026-11-06-airbus-249-avions-a-livrer-en-deux-mois-le-sprint-de-tous-les-defis-5278708.html": "2026-11-06T12:01:03Z",
-    "https://www.airbus.com/en/newsroom/stories/2026-11-airbus-technology-supports-the-modernisation-of-the-spanish-air-and-space-force": "2026-11-06T12:10:32Z"
+    "https://www.airbus.com/en/newsroom/stories/2026-11-airbus-technology-supports-the-modernisation-of-the-spanish-air-and-space-force": "2026-11-06T12:10:32Z",
+    "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html": "2026-11-06T12:20:34Z",
+    "https://www.airliners.de/condor-terminal-umzug-frankfurt-mitte-april-2027/91376": "2026-11-06T12:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5544,10 +5546,31 @@
       ],
       "story_id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
       "written_count": 1
+    },
+    "c6c127bf066": {
+      "id": "c6c127bf066",
+      "label": "Condor accord tarifaire personnel navigant",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-06T12:20:48Z",
+      "updated": "2026-11-06T12:20:48Z",
+      "items": [
+        {
+          "id": "5aa8aea19705baad",
+          "feed": "aero.de",
+          "title": "Condor hat an Bord Tarifsicherheit",
+          "url": "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Condor muss in den kommenden beiden Jahren keine Streiks des fliegenden Personals befürchten. Nach einem Tarifabschluss zu den Pilotengehältern einigte sich das Unternehmen nun auch mit der Kabinengewerkschaft Ufo auf einen Manteltarif zu Dienstregeln in der Kabine.",
+          "published": "2026-11-06T12:20:35Z"
+        }
+      ],
+      "story_id": "2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.621735
+    "2026-11": 2.629949
   }
 }
