@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-06T10:20:32Z",
+  "run": "2026-11-06T10:30:49Z",
   "stats": {
     "fetched": 698,
-    "new": 10,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -212,12 +212,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
-    },
-    {
-      "dossier": "Accident CH-47F Chinook armée italienne Bosnie",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e"
     },
     {
       "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
@@ -794,12 +788,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
-    },
-    {
-      "dossier": "Fokker Services maintenance C-390 RNLAF",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "United Las Vegas-New York passager menace détournement",

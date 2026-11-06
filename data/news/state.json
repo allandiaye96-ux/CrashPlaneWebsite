@@ -1960,45 +1960,6 @@
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
       "written_count": 4
     },
-    "c165f256c0e": {
-      "id": "c165f256c0e",
-      "label": "Accident CH-47F Chinook armée italienne Bosnie",
-      "categorie": "Accident",
-      "importance": 3,
-      "created": "2026-10-29T18:20:49Z",
-      "updated": "2026-10-30T10:20:47Z",
-      "items": [
-        {
-          "id": "cd69a9277b1f439a",
-          "feed": "The Aviationist",
-          "title": "Developing: Italian CH-47F Chinook Crashes in Bosnia",
-          "url": "https://theaviationist.com/2026/10/29/developing-italian-ch-47f-chinook-crashes-in-bosnia/",
-          "domain": "theaviationist.com",
-          "summary": "A CH-47F Chinook of the Italian Army, attached to the EUFOR Althea mission, crashed near Brčko in Bosnia. Emergency services are currently on scene. A CH-47F Chinook helicopter of the Italian Army has crashed in Bosnia in the afternoon of Oct. 29, 2026. The helicopter, assigned to the EUFOR Althea mission, came down near Gorice, in the […]",
-          "published": "2026-10-29T18:18:36Z"
-        },
-        {
-          "id": "f405bae4fddd106b",
-          "feed": "aero.de",
-          "title": "CH-47 Chinook in Bosnien-Herzegowina abgestürzt",
-          "url": "https://www.aero.de/news-54049/CH-47-Chinook-in-Bosnien-Herzegowina-abgestuerzt.html",
-          "domain": "aero.de",
-          "summary": "SARAJEVO - In dem einstigen Bürgerkriegsland verunglückt ein Helikopter der EU-Friedensmission. Nach bosnischen Angaben kamen mehrere Menschen ums Leben. Bei der Maschine soll es sich um eine CH-47 \"Chinook\" handeln.",
-          "published": "2026-10-29T19:13:29Z"
-        },
-        {
-          "id": "ce9f44dd80c78bab",
-          "feed": "AeroTime",
-          "title": "Four killed in Italian Army Chinook crash on EUFOR mission in Bosnia",
-          "url": "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor",
-          "domain": "aerotime.aero",
-          "summary": "Four Italian military personnel were killed, and a further 11 injured, when an Italian Army CH-47 Chinook crashed… The post Four killed in Italian Army Chinook crash on EUFOR mission in Bosnia appeared first on AeroTime .",
-          "published": "2026-10-30T09:47:10Z"
-        }
-      ],
-      "story_id": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e",
-      "written_count": 3
-    },
     "c232e406d25": {
       "id": "c232e406d25",
       "label": "airBaltic suppression postes pilotes et cabine",
@@ -4134,27 +4095,6 @@
       ],
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
       "written_count": 7
-    },
-    "c8fcaaf2e87": {
-      "id": "c8fcaaf2e87",
-      "label": "Fokker Services maintenance C-390 RNLAF",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-04T10:20:52Z",
-      "updated": "2026-11-04T10:20:52Z",
-      "items": [
-        {
-          "id": "4ad9b88a3224ebb8",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Fokker Services Group monte à bord de la maintenance des futurs Embraer C-390 néerlandais",
-          "url": "https://www.journal-aviation.com/actualites-mro-support/maintenance-militaire-mco/fokker-services-group-monte-a-bord-de-la-maintenance-des-futurs-embraer-c-390-neerlandais-20261104.html",
-          "domain": "journal-aviation.com",
-          "summary": "Embraer a désigné Fokker Services Group comme centre de maintenance agréé pour la future flotte de C-390 Millennium de la Force aérienne royale néerlandaise (RNLAF). L’accord, annoncé le 3 novembre, […] L’article Fokker Services Group monte à bord de la maintenance des futurs Embraer C-390 néerlandais a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-04T10:13:56Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "ceec6dd5393": {
       "id": "ceec6dd5393",
