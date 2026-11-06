@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 20:01:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 20:10:55 +0000</lastBuildDate>
+  <item>
+    <title>Air Canada supprimerait trois liaisons long-courriers assurées en Boeing 737 MAX, selon Simple Flying</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24/</guid>
+    <pubDate>Fri, 06 Nov 2026 20:10:55 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Air Canada annule trois routes long-courriers exploitées avec le Boeing 737 MAX. Le média évoque une réaffectation de liaisons transatlantiques à l&#x27;Airbus A321XLR.</description>
+  </item>
   <item>
     <title>Qantas annonce des vols directs Sydney–Le Cap en 787-9, du 19 octobre 2027 au 24 mars 2028</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 16:40:52 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AeroTime, Wheels Up, partenaire de Delta Air Lines dans l&#x27;aviation d&#x27;affaires, a passé commande de six Embraer Phenom 300E neufs.</description>
-  </item>
-  <item>
-    <title>Swiss déploiera l&#x27;Airbus A350-900 sur Zurich–Mumbai à partir du 15 décembre</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-swiss-deploiera-l-airbus-a350-900-sur-zurichmumbai-a-partir-e75c/</guid>
-    <pubDate>Thu, 05 Nov 2026 16:20:58 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Swiss mettra en service l&#x27;Airbus A350-900 entre Zurich et Mumbai à compter du 15 décembre. La filiale de Lufthansa l&#x27;a annoncé dans un communiqué.</description>
   </item>
 </channel>
 </rss>

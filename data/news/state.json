@@ -1738,7 +1738,9 @@
     "https://australianaviation.com.au/2026/11/virgin-staff-continue-protected-action-suspend-priority-boarding/": "2026-11-06T20:01:04Z",
     "https://australianaviation.com.au/2026/11/ga-hangars-up-for-grabs-in-new-darwin-precinct/": "2026-11-06T20:01:04Z",
     "https://australianaviation.com.au/2026/11/qantas-eyes-fare-hike-reduced-capacity-amid-fuel-crisis/": "2026-11-06T20:01:04Z",
-    "https://australianaviation.com.au/2026/11/qantas-to-launch-australias-first-non-stop-cape-town-flights/": "2026-11-06T20:01:04Z"
+    "https://australianaviation.com.au/2026/11/qantas-to-launch-australias-first-non-stop-cape-town-flights/": "2026-11-06T20:01:04Z",
+    "https://simpleflying.com/air-cancels-3-long-haul-737-max-routes/": "2026-11-06T20:10:35Z",
+    "https://simpleflying.com/new-runways-do-not-increase-airports-flight-capacity/": "2026-11-06T20:10:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2061,48 +2063,6 @@
       ],
       "story_id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
       "written_count": 3
-    },
-    "c7379597198": {
-      "id": "c7379597198",
-      "label": "Couvre-feu Sydney business jets",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-10-30T20:01:18Z",
-      "updated": "2026-10-30T20:01:18Z",
-      "items": [
-        {
-          "id": "0184aaf0a86b9fab",
-          "feed": "Australian Aviation",
-          "title": "Exclusive: Sydney curfew could leave business jets out in the cold",
-          "url": "https://australianaviation.com.au/2026/10/exclusive-sydney-curfew-could-leave-business-jets-out-in-the-cold/",
-          "domain": "australianaviation.com.au",
-          "summary": "Speaking exclusively to Australian Aviation, Felix Lester, head of charter operations at Global Jet International, said business jets will have no viable alternative for landing in Sydney between 11pm and 6am when curfew changes come into effect on 1 November.",
-          "published": "2026-10-30T05:51:22Z"
-        }
-      ],
-      "story_id": "2026-10-30-sydney-les-jets-d-affaires-sans-solution-de-repli-avec-le-no-7198",
-      "written_count": 1
-    },
-    "cf2b99d3192": {
-      "id": "cf2b99d3192",
-      "label": "Accord pilotes long-courriers Qantas 25%",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T20:01:18Z",
-      "updated": "2026-10-30T20:01:18Z",
-      "items": [
-        {
-          "id": "3f697155c223a250",
-          "feed": "Australian Aviation",
-          "title": "Qantas long-haul pilots win 25% pay bump",
-          "url": "https://australianaviation.com.au/2026/10/qantas-long-haul-pilots-win-25-pay-bump/",
-          "domain": "australianaviation.com.au",
-          "summary": "The new enterprise agreement was supported by 61 per cent of pilots across the Australian and International Pilots Association and the Australian Federation of Airline Pilots and follows the rejection of a previous AIPA-backed offer in April.",
-          "published": "2026-10-30T04:23:01Z"
-        }
-      ],
-      "story_id": "2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192",
-      "written_count": 1
     },
     "caae4876212": {
       "id": "caae4876212",
@@ -5850,10 +5810,31 @@
       ],
       "story_id": "2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c",
       "written_count": 1
+    },
+    "cf595fc1e24": {
+      "id": "cf595fc1e24",
+      "label": "Air Canada retrait routes long-courrier 737 MAX",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-06T20:10:49Z",
+      "updated": "2026-11-06T20:10:49Z",
+      "items": [
+        {
+          "id": "8a46949b5c4f9150",
+          "feed": "Simple Flying",
+          "title": "Air Canada Cancels 3 Long-Haul Boeing 737 MAX Routes: See Full List Now",
+          "url": "https://simpleflying.com/air-cancels-3-long-haul-737-max-routes/",
+          "domain": "simpleflying.com",
+          "summary": "Transatlantic routes reallocated to the A321XLR promise longer narrowbody reach and optimized network capacity.",
+          "published": "2026-11-06T20:04:12Z"
+        }
+      ],
+      "story_id": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.115309
+    "2026-11": 3.127729
   }
 }

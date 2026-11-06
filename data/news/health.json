@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T20:01:04Z",
+  "run": "2026-11-06T20:10:35Z",
   "stats": {
-    "fetched": 692,
-    "new": 5,
-    "written": 3,
+    "fetched": 697,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.1153,
+  "spend_month_usd": 3.1277,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -78,8 +78,8 @@
       "items": 100
     },
     "Boeing – Communiqués": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 5
     },
     "aero.de": {
       "ok": true,
@@ -446,18 +446,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528"
-    },
-    {
-      "dossier": "Couvre-feu Sydney business jets",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-sydney-les-jets-d-affaires-sans-solution-de-repli-avec-le-no-7198"
-    },
-    {
-      "dossier": "Accord pilotes long-courriers Qantas 25%",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-qantas-les-pilotes-long-courriers-approuvent-un-nouvel-accor-3192"
     },
     {
       "dossier": "Delta hub Floride 1,5 Md$ porte internationale",
@@ -842,6 +830,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c"
+    },
+    {
+      "dossier": "Air Canada retrait routes long-courrier 737 MAX",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24"
     },
     {
       "dossier": "Pakistan essai missile air-air Fa'az",

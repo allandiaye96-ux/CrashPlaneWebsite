@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24",
+    "created": "2026-11-06T20:10:55Z",
+    "updated": "2026-11-06T20:10:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Canada supprimerait trois liaisons long-courriers assurées en Boeing 737 MAX, selon Simple Flying",
+    "chapo": "Selon Simple Flying, Air Canada annule trois routes long-courriers exploitées avec le Boeing 737 MAX. Le média évoque une réaffectation de liaisons transatlantiques à l'Airbus A321XLR.",
+    "paragraphes": [
+      "D'après Simple Flying, le transporteur canadien retire trois routes long-courriers de son programme opéré en Boeing 737 MAX. Le média publie la liste complète de ces liaisons.",
+      "Toujours d'après l'éditeur, les routes transatlantiques concernées sont réallouées à l'A321XLR, un monocouloir présenté comme offrant une allonge supérieure et une meilleure optimisation de la capacité du réseau."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Air Canada Cancels 3 Long-Haul Boeing 737 MAX Routes: See Full List Now",
+        "url": "https://simpleflying.com/air-cancels-3-long-haul-737-max-routes/",
+        "date": "2026-11-06T20:04:12Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c",
     "created": "2026-11-06T20:01:51Z",
     "updated": "2026-11-06T20:01:51Z",
