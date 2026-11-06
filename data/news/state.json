@@ -1700,7 +1700,9 @@
     "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html": "2026-11-06T12:50:34Z",
     "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html": "2026-11-06T13:01:02Z",
     "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new": "2026-11-06T13:10:35Z",
-    "https://www.journal-aviation.com/actualites-mro-support/fpt-skywise-et-vietnam-airlines-sassocient-pour-apporter-des-solutions-ia-aux-operations-aeriennes-20261106.html": "2026-11-06T13:10:35Z"
+    "https://www.journal-aviation.com/actualites-mro-support/fpt-skywise-et-vietnam-airlines-sassocient-pour-apporter-des-solutions-ia-aux-operations-aeriennes-20261106.html": "2026-11-06T13:10:35Z",
+    "https://www.airliners.de/bombendrohungen-fluege-europa-reissen-nicht-ab/91378": "2026-11-06T13:20:37Z",
+    "https://www.airliners.de/sun-express-passagiere-freiwillig-saf-zahlen/91377": "2026-11-06T13:20:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4868,7 +4870,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-05T16:31:06Z",
+      "updated": "2026-11-06T13:21:14Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -4914,10 +4916,19 @@
           "domain": "flightradar24.com",
           "summary": "For the second straight day, flights across Europe have been subject to bomb threats, leading to diversions, delays, and security responses at nearly a dozen airports. Authorities thus far have found no actual threat aboard any of the aircraft. On Wednesday, 4 November, at least seven flights were subject to threats as well. Nearly two […] The post Second straight day of threats affects nearly two dozen flights across Europe appeared first on Flightradar24 Blog .",
           "published": "2026-11-05T16:14:43Z"
+        },
+        {
+          "id": "5e8ba3854d627913",
+          "feed": "airliners.de",
+          "title": "Bombendrohungen gegen Flüge in Europa reißen nicht ab",
+          "url": "https://www.airliners.de/bombendrohungen-fluege-europa-reissen-nicht-ab/91378",
+          "domain": "airliners.de",
+          "summary": "Zum dritten Mal in dieser Woche haben Bombendrohungen den Luftverkehr in Europa behindert. Betroffen waren am Freitag unter anderem Flüge in Prag, Kopenhagen und Frankreich. Sprengsätze wurden nicht gefunden.",
+          "published": "2026-11-06T12:46:45Z"
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-      "written_count": 5
+      "written_count": 6
     },
     "ca4dad664c6": {
       "id": "ca4dad664c6",
@@ -5615,6 +5626,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.683245
+    "2026-11": 2.723956
   }
 }

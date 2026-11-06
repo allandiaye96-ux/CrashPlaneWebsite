@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T13:10:35Z",
+  "run": "2026-11-06T13:20:37Z",
   "stats": {
-    "fetched": 698,
+    "fetched": 683,
     "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.6832,
+  "spend_month_usd": 2.724,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": true,
-      "items": 15
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Australian Aviation": {
       "ok": true,
@@ -130,6 +130,12 @@
       "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
     },
     {
+      "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
@@ -146,12 +152,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140"
-    },
-    {
-      "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211"
     },
     {
       "dossier": "Ilulissat nouvel aéroport Groenland",

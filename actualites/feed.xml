@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 13:10:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 13:21:36 +0000</lastBuildDate>
   <item>
     <title>Alerte à la bombe sur un A320 d&#x27;Aer Lingus : enquête ouverte en France, chasseurs en escorte</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898/</link>
@@ -176,6 +176,14 @@
     <description>Selon airliners.de, la compagnie égyptienne Nesma Airlines opère désormais sous la nouvelle marque Flyplus. D&#x27;après les informations communiquées par la compagnie, ce changement d&#x27;identité doit s&#x27;accompagner d&#x27;une extension de sa flotte.</description>
   </item>
   <item>
+    <title>Alertes à la bombe en Europe : au moins 16 vols visés le 5 novembre, des avions de chasse mobilisés</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211/</guid>
+    <pubDate>Thu, 05 Nov 2026 14:31:25 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Des menaces à la bombe ont visé plusieurs vols de passagers en Europe le 5 novembre 2026, certains appareils étant accompagnés par des chasseurs, selon AeroTime. Aucun engin n&#x27;a été découvert à ce stade.</description>
+  </item>
+  <item>
     <title>Air Canada commande huit Airbus A350-1000 pour des vols sans escale hors de portée de ses 777-300ER</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d/</guid>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 09:21:07 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AeroTime et Air Journal, Emirates affiche pour la période d&#x27;avril à septembre 2026 un profit d&#x27;environ 1 milliard de dollars, en baisse de 68 %. Le trafic passagers a reculé de 22 % dans un contexte de fermetures d&#x27;espaces aériens et de kérosène très cher.</description>
-  </item>
-  <item>
-    <title>Vaeridion : 94,5 millions d&#x27;euros de fonds européens et une levée de 30 millions pour le Microliner</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a/</guid>
-    <pubDate>Thu, 05 Nov 2026 08:31:12 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>La start-up munichoise Vaeridion obtient des financements de l&#x27;UE et d&#x27;investisseurs pour son avion électrique, selon aero.de et airliners.de. Plus de 120 millions d&#x27;euros au total sont évoqués par aero.de.</description>
   </item>
 </channel>
 </rss>
