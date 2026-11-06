@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T15:10:34Z",
+  "run": "2026-11-06T15:20:32Z",
   "stats": {
-    "fetched": 598,
-    "new": 0,
-    "written": 0,
+    "fetched": 698,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.7619,
+  "spend_month_usd": 2.7706,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -446,6 +446,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
+    },
+    {
+      "dossier": "Drone explosif Leipzig/Halle",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528"
     },
     {
       "dossier": "United Airlines sortie de Tulum",
@@ -893,12 +899,6 @@
     },
     {
       "dossier": "Menaces à la bombe vols Prague novembre 2026",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Drone explosif Leipzig/Halle",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

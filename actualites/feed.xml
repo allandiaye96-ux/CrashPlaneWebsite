@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 15:11:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 15:20:51 +0000</lastBuildDate>
+  <item>
+    <title>Leipzig/Halle : la police recherche une personne après une tentative d&#x27;attaque présumée par drone explosif</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528/</guid>
+    <pubDate>Fri, 06 Nov 2026 15:20:51 +0000</pubDate>
+    <category>Enquête</category>
+    <description>Selon aero.de et airliners.de, la police recherche une personne suspecte dans le cadre de la tentative d&#x27;attentat présumée à l&#x27;aide d&#x27;un drone chargé d&#x27;explosifs visant l&#x27;aéroport de Leipzig.</description>
+  </item>
   <item>
     <title>Beta Technologies vise la première certification FAA d&#x27;un constructeur d&#x27;avions électriques</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 10:11:10 +0000</pubDate>
     <category>Défense</category>
     <description>Selon Aero-News Network, qui cite Breaking Defense, Sierra Nevada Corporation (SNC) ne concourt plus pour le futur avion d&#x27;entraînement à réaction de l&#x27;US Navy. Le M-346N de Textron Aviation Defense devient ainsi le seul concurrent identifié.</description>
-  </item>
-  <item>
-    <title>Eve Air Mobility signe un accord ferme avec FlyBIS Aviation pour jusqu&#x27;à 12 eVTOL</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6/</guid>
-    <pubDate>Thu, 05 Nov 2026 09:41:12 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AviTrader, Eve Air Mobility a conclu un accord contraignant avec le brésilien FlyBIS Aviation portant sur un maximum de 12 appareils électriques à décollage et atterrissage verticaux (eVTOL).</description>
   </item>
 </channel>
 </rss>

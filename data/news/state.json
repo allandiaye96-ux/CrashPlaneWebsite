@@ -1713,7 +1713,10 @@
     "https://simpleflying.com/7-longest-nonstop-boeing-787-9-flights-2026/": "2026-11-06T15:01:04Z",
     "https://www.aero.de/news-54114/Personenfahndung-nach-Drohnenangriff-auf-Flughafen-LeipzigHalle.html": "2026-11-06T15:01:04Z",
     "https://www.aero.de/news-54113/Kleinflugzeug-auf-A2-verunglueckt.html": "2026-11-06T15:01:04Z",
-    "https://www.air-journal.fr/2026-11-06-malte-en-vol-direct-depuis-bordeaux-km-malta-airlines-arrive-au-printemps-2027-5278709.html": "2026-11-06T15:01:04Z"
+    "https://www.air-journal.fr/2026-11-06-malte-en-vol-direct-depuis-bordeaux-km-malta-airlines-arrive-au-printemps-2027-5278709.html": "2026-11-06T15:01:04Z",
+    "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381": "2026-11-06T15:20:32Z",
+    "https://www.airliners.de/video/video-d328-eco-fabrik-entsteht-deutschlands-regionalflug-91380": "2026-11-06T15:20:32Z",
+    "https://www.airliners.de/klage-delta-fensterloser-fensterplaetze/91360": "2026-11-06T15:20:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5658,7 +5661,7 @@
       "categorie": "Incident",
       "importance": 3,
       "created": "2026-11-06T15:01:40Z",
-      "updated": "2026-11-06T15:01:40Z",
+      "updated": "2026-11-06T15:20:48Z",
       "items": [
         {
           "id": "42df815549fab89d",
@@ -5668,10 +5671,19 @@
           "domain": "aero.de",
           "summary": "LEIPZIG - Im Zusammenhang mit dem mutmaßlichen Anschlagsversuch mit einer Sprengstoffdrohne auf dem Flughafen Leipzig fahndet die Polizei nach einer verdächtigen Person.",
           "published": "2026-11-06T15:00:09Z"
+        },
+        {
+          "id": "aa2192fbd4670961",
+          "feed": "airliners.de",
+          "title": "Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
+          "url": "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381",
+          "domain": "airliners.de",
+          "summary": "Ein Fahndungsbild des BKA zeigt eine Person mit Kapuze auf einem E-Bike. Hat der oder die Unbekannte mit dem Anschlagsversuch am Leipziger Flughafen zu tun? Die Polizei sucht Zeugen.",
+          "published": "2026-11-06T15:03:34Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
+      "written_count": 2
     },
     "cad877564d4": {
       "id": "cad877564d4",
@@ -5697,6 +5709,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.761879
+    "2026-11": 2.770635
   }
 }

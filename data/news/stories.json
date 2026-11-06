@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
+    "created": "2026-11-06T15:20:51Z",
+    "updated": "2026-11-06T15:20:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Enquête",
+    "importance": 3,
+    "titre": "Leipzig/Halle : la police recherche une personne après une tentative d'attaque présumée par drone explosif",
+    "chapo": "Selon aero.de et airliners.de, la police recherche une personne suspecte dans le cadre de la tentative d'attentat présumée à l'aide d'un drone chargé d'explosifs visant l'aéroport de Leipzig.",
+    "paragraphes": [
+      "D'après airliners.de, l'office fédéral de police criminelle (BKA) a diffusé un avis de recherche avec une photo. Elle montre une personne portant une capuche, à vélo électrique. Les enquêteurs cherchent à déterminer si cet individu a un lien avec la tentative d'attaque à l'aéroport de Leipzig.",
+      "La police lance par ailleurs un appel à témoins, rapporte le même site."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Personenfahndung nach Drohnenangriff auf Leipzig/Halle",
+        "url": "https://www.aero.de/news-54114/Personenfahndung-nach-Drohnenangriff-auf-Flughafen-LeipzigHalle.html",
+        "date": "2026-11-06T15:00:09Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
+        "url": "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381",
+        "date": "2026-11-06T15:03:34Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
     "created": "2026-11-06T09:10:56Z",
     "updated": "2026-11-06T14:51:13Z",
