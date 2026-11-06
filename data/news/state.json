@@ -1964,27 +1964,6 @@
       "story_id": "2026-10-30-bosnie-un-ch-47f-chinook-de-l-armee-italienne-s-ecrase-pres-6c0e",
       "written_count": 3
     },
-    "cb9acec85e0": {
-      "id": "cb9acec85e0",
-      "label": "ANA reprise Airdo et Solaseed Air",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T08:40:51Z",
-      "updated": "2026-10-30T08:40:51Z",
-      "items": [
-        {
-          "id": "7de9b481953d67be",
-          "feed": "airliners.de",
-          "title": "ANA will Regionalairlines Airdo und Solaseed Air komplett übernehmen",
-          "url": "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196",
-          "domain": "airliners.de",
-          "summary": "Die ANA Holdings, Muttergesellschaft von ANA All Nippon Airways, will die Regionalairlines Airdo und Solaseed Air komplett übernehmen. Wie der Konzern mitteilte, hat er dazu eine weitgehend unverbindliche Absichtserklärung mit deren gemeinsamer Holding Regional Plus Wings unterzeichnet. Der Aktientausch ist für den 1. April 2027 geplant.",
-          "published": "2026-10-30T07:47:00Z"
-        }
-      ],
-      "story_id": "2026-10-30-ana-holdings-veut-prendre-le-controle-total-des-compagnies-r-85e0",
-      "written_count": 1
-    },
     "c232e406d25": {
       "id": "c232e406d25",
       "label": "airBaltic suppression postes pilotes et cabine",
