@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T03:10:32Z",
+  "run": "2026-11-06T03:20:33Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.4129,
+  "spend_month_usd": 2.4214,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -782,6 +782,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04"
+    },
+    {
+      "dossier": "Avolon résultats T3 et commande 250 avions Boeing Airbus",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0"
     },
     {
       "dossier": "France SyLEx fusée sonde M51.4",

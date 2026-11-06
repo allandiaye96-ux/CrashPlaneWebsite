@@ -1622,7 +1622,8 @@
     "https://simpleflying.com/problem-american-airlines-ran-into-inherited-worlds-1st-airbus-a321neo/": "2026-11-06T00:01:07Z",
     "https://theaviationist.com/2026/11/06/hms-qnlz-new-drone-trials/": "2026-11-06T00:20:33Z",
     "https://simpleflying.com/boeing-losing-lockheed-c-5-galaxy-gave-world-747/": "2026-11-06T01:01:00Z",
-    "https://simpleflying.com/how-mcdonnell-douglas-md-80-outlast-jet-replace-it/": "2026-11-06T02:50:32Z"
+    "https://simpleflying.com/how-mcdonnell-douglas-md-80-outlast-jet-replace-it/": "2026-11-06T02:50:32Z",
+    "https://www.airliners.de/avolon-nettogewinn-43-prozent-250-flugzeuge-boeing-airbus/91341": "2026-11-06T03:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5344,10 +5345,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c817887e2f0": {
+      "id": "c817887e2f0",
+      "label": "Avolon résultats T3 et commande 250 avions Boeing Airbus",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-06T03:20:46Z",
+      "updated": "2026-11-06T03:20:46Z",
+      "items": [
+        {
+          "id": "96c3fbc941e1fc36",
+          "feed": "airliners.de",
+          "title": "Avolon steigert Nettogewinn um 43 Prozent und bestellt 250 neue Flugzeuge bei Boeing und Airbus",
+          "url": "https://www.airliners.de/avolon-nettogewinn-43-prozent-250-flugzeuge-boeing-airbus/91341",
+          "domain": "airliners.de",
+          "summary": "Die Flugzeugfinanzierungsgesellschaft Avolon hat nach dem Ende des dritten Quartals fest 250 Flugzeuge bei Boeing und Airbus bestellt, wie das Unternehmen mitteilte. Der Nettogewinn stieg derweil im dritten Quartal um 43 Prozent.",
+          "published": "2026-11-06T03:07:00Z"
+        }
+      ],
+      "story_id": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.412852
+    "2026-11": 2.421403
   }
 }

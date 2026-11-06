@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0",
+    "created": "2026-11-06T03:20:49Z",
+    "updated": "2026-11-06T03:20:49Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Avolon commande 250 avions chez Boeing et Airbus et voit son bénéfice net progresser de 43 %",
+    "chapo": "Selon airliners.de, le loueur et financeur d'avions Avolon a passé commande ferme de 250 appareils auprès de Boeing et d'Airbus après la fin du troisième trimestre. Son bénéfice net trimestriel a augmenté de 43 %.",
+    "paragraphes": [
+      "D'après l'annonce de la société relayée par le média allemand, la commande ferme porte sur 250 avions répartis entre les deux constructeurs, Boeing et Airbus. Elle a été enregistrée après la clôture du troisième trimestre.",
+      "Sur ce même troisième trimestre, le bénéfice net d'Avolon a progressé de 43 %, indique airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Avolon steigert Nettogewinn um 43 Prozent und bestellt 250 neue Flugzeuge bei Boeing und Airbus",
+        "url": "https://www.airliners.de/avolon-nettogewinn-43-prozent-250-flugzeuge-boeing-airbus/91341",
+        "date": "2026-11-06T03:07:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47",
     "created": "2026-11-05T21:01:25Z",
     "updated": "2026-11-05T21:01:25Z",

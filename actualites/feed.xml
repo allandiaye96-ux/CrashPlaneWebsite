@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 03:10:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 03:20:49 +0000</lastBuildDate>
+  <item>
+    <title>Avolon commande 250 avions chez Boeing et Airbus et voit son bénéfice net progresser de 43 %</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0/</guid>
+    <pubDate>Fri, 06 Nov 2026 03:20:49 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, le loueur et financeur d&#x27;avions Avolon a passé commande ferme de 250 appareils auprès de Boeing et d&#x27;Airbus après la fin du troisième trimestre. Son bénéfice net trimestriel a augmenté de 43 %.</description>
+  </item>
   <item>
     <title>Un Gulfstream G550 chinois saisi à Anchorage après un voyage à Téhéran : le DOJ réclame sa confiscation</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 04 Nov 2026 11:20:53 +0000</pubDate>
     <category>Compagnies</category>
     <description>AerFin a conclu l&#x27;acquisition de 44 Boeing 737NG auprès de Qantas, accompagnés de 88 moteurs CFM56-7B, selon AviTrader. Le spécialiste de l&#x27;après-vente présente l&#x27;opération comme la plus importante de son histoire.</description>
-  </item>
-  <item>
-    <title>Air Baltic veut rendre six Airbus A220-300 loués dans le cadre de sa procédure Chapter 11</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393/</guid>
-    <pubDate>Wed, 04 Nov 2026 10:40:51 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Air Baltic a demandé à restituer six A220-300 pris en leasing, dans le cadre de sa procédure de Chapter 11. Un tribunal new-yorkais doit se prononcer à la mi-novembre.</description>
   </item>
 </channel>
 </rss>
