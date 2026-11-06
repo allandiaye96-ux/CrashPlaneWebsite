@@ -4281,27 +4281,6 @@
       "story_id": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b",
       "written_count": 1
     },
-    "ce9cbc2ca52": {
-      "id": "ce9cbc2ca52",
-      "label": "Joby USAF financement autonome cargo",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-04T15:50:46Z",
-      "updated": "2026-11-04T15:50:46Z",
-      "items": [
-        {
-          "id": "bd8aa6fa1d194b5d",
-          "feed": "AeroTime",
-          "title": "US Air Force backs Joby’s autonomous cargo aircraft with $37M commitment",
-          "url": "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m",
-          "domain": "aerotime.aero",
-          "summary": "Joby Aviation has secured additional US Air Force funding for its autonomous flight technology, bringing the service’s total… The post US Air Force backs Joby’s autonomous cargo aircraft with $37M commitment appeared first on AeroTime .",
-          "published": "2026-11-04T14:56:10Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cb0dbedddf1": {
       "id": "cb0dbedddf1",
       "label": "Attaque Houthis aéroport Riad",
@@ -5721,6 +5700,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.827143
+    "2026-11": 2.847413
   }
 }

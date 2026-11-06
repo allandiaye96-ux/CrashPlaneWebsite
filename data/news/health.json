@@ -1,14 +1,14 @@
 {
-  "run": "2026-11-06T15:50:33Z",
+  "run": "2026-11-06T16:01:04Z",
   "stats": {
     "fetched": 698,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 1,
     "last_error": "KeyError: 'paragraphes'"
   },
-  "spend_month_usd": 2.8271,
+  "spend_month_usd": 2.8474,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -807,12 +807,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a"
-    },
-    {
-      "dossier": "Joby USAF financement autonome cargo",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Attaque Houthis aéroport Riad",
