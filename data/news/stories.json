@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165",
+    "created": "2026-11-06T13:40:51Z",
+    "updated": "2026-11-06T13:40:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Alaska Airlines dévoile Aurora : suites lie-flat sur 787 et sur certains 737 MAX 10 dès 2028",
+    "chapo": "Selon Simple Flying, Alaska Airlines a présenté son nouveau produit Aurora, qui apportera des suites avec sièges à plat sur ses Boeing 787 Dreamliner et sur certains 737 MAX 10. Cette offre premium a été annoncée le 29 septembre 2026.",
+    "paragraphes": [
+      "D'après Simple Flying, Aurora doit doter la flotte gros-porteur de la compagnie de suites avec sièges lie-flat. Pour la première fois, ce type de siège serait aussi proposé sur certains vols transcontinentaux assurés par des 737 neufs, à partir de 2028.",
+      "Le média indique que la compagnie lance par ailleurs Premium Reserve. Cette offre porterait la part des sièges premium à environ 46 % à bord de ses 787-9."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Stunning: Alaska Airlines Unveils Lie-Flat 737 MAX 10 “Aurora Suites” 787s Get 46% Premium Seating",
+        "url": "https://simpleflying.com/video/stunning-alaska-airlines-unveils-lie-flat-737-max-10-aurora-suites-787s-get-46-premium-seating/",
+        "date": "2026-11-06T13:32:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
     "created": "2026-11-05T14:31:25Z",
     "updated": "2026-11-06T13:21:36Z",

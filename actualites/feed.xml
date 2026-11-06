@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 13:31:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 13:40:51 +0000</lastBuildDate>
+  <item>
+    <title>Alaska Airlines dévoile Aurora : suites lie-flat sur 787 et sur certains 737 MAX 10 dès 2028</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165/</guid>
+    <pubDate>Fri, 06 Nov 2026 13:40:51 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Alaska Airlines a présenté son nouveau produit Aurora, qui apportera des suites avec sièges à plat sur ses Boeing 787 Dreamliner et sur certains 737 MAX 10. Cette offre premium a été annoncée le 29 septembre 2026.</description>
+  </item>
   <item>
     <title>Alerte à la bombe sur un A320 d&#x27;Aer Lingus : enquête ouverte en France, chasseurs en escorte</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 09:41:09 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AeroTime, le constructeur chinois AutoFlight a organisé un vol en formation réunissant cinq eVTOL (avions électriques à décollage et atterrissage verticaux) autonomes. Le média présente cette démonstration comme une première mondiale.</description>
-  </item>
-  <item>
-    <title>Emirates : des résultats semestriels en net repli, mais la compagnie reste bénéficiaire malgré la guerre avec l&#x27;Iran</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4/</guid>
-    <pubDate>Thu, 05 Nov 2026 09:21:07 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime et Air Journal, Emirates affiche pour la période d&#x27;avril à septembre 2026 un profit d&#x27;environ 1 milliard de dollars, en baisse de 68 %. Le trafic passagers a reculé de 22 % dans un contexte de fermetures d&#x27;espaces aériens et de kérosène très cher.</description>
   </item>
 </channel>
 </rss>
