@@ -1752,7 +1752,8 @@
     "https://simpleflying.com/delta-air-lines-boost-summer-2027-new-routes-weekend-frequencies/": "2026-11-06T22:10:37Z",
     "https://simpleflying.com/airport-spending-335-million-connecting-passengers-stop-clearing-security-twice/": "2026-11-06T22:10:37Z",
     "https://airlinegeeks.com/2026/11/06/southwest-737-flew-44-times-before-wind-damage-was-found/": "2026-11-06T22:10:37Z",
-    "https://theaviationist.com/2026/11/06/mystery-flight-from-rome-to-tehran/": "2026-11-06T22:30:50Z"
+    "https://theaviationist.com/2026/11/06/mystery-flight-from-rome-to-tehran/": "2026-11-06T22:30:50Z",
+    "https://simpleflying.com/why-pilatus-pc24-can-land-on-grass/": "2026-11-06T23:01:01Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5787,6 +5788,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.134221
+    "2026-11": 3.135002
   }
 }
