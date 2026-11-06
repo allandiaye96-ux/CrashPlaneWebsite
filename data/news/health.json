@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-06T18:10:32Z",
+  "run": "2026-11-06T18:20:32Z",
   "stats": {
-    "fetched": 698,
+    "fetched": 677,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 39
+      "items": 38
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "ParseError: no element found: line 13, column 46"
     },
     "airliners.de": {
       "ok": true,
