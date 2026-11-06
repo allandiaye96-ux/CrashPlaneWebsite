@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-06T07:20:32Z",
+  "run": "2026-11-06T07:30:49Z",
   "stats": {
-    "fetched": 683,
-    "new": 1,
+    "fetched": 698,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 523: <none>"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
