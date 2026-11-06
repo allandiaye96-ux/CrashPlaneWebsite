@@ -1689,7 +1689,8 @@
     "https://www.airliners.de/lufthansa-cargo-ana-neustart-japan-joint-venture/91374": "2026-11-06T11:20:33Z",
     "https://www.airliners.de/ber-baut-sicherheitskontrolle-duty-free-bereich-folgt/91363": "2026-11-06T11:20:33Z",
     "https://simpleflying.com/lockheed-constellation-had-three-vertical-stab/": "2026-11-06T11:40:35Z",
-    "https://avitrader.com/2026/11/06/singapore-airlines-invests-s2bn-in-new-long-haul-cabins/": "2026-11-06T11:40:35Z"
+    "https://avitrader.com/2026/11/06/singapore-airlines-invests-s2bn-in-new-long-haul-cabins/": "2026-11-06T11:40:35Z",
+    "https://avitrader.com/2026/11/06/aip-capital-provides-us228m-financing-for-breeze-a220s/": "2026-11-06T11:50:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2042,27 +2043,6 @@
       ],
       "story_id": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca",
       "written_count": 3
-    },
-    "cf02bb34d4a": {
-      "id": "cf02bb34d4a",
-      "label": "China Southern résultats T3 perte nette",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T11:40:49Z",
-      "updated": "2026-10-30T11:40:49Z",
-      "items": [
-        {
-          "id": "e548862241610a26",
-          "feed": "airliners.de",
-          "title": "China Southern Airlines rutscht im dritten Quartal in die Verlustzone",
-          "url": "https://www.airliners.de/china-southern-airlines-rutscht-dritten-quartal-verlustzone/91222",
-          "domain": "airliners.de",
-          "summary": "China Southern Airlines hat im dritten Quartal einen Nettoverlust von 609 Millionen Yuan (rund 82 Millionen Euro). Das teilte die Fluggesellschaft in einer Pflichtmitteilung an die Börse Shanghai mit.",
-          "published": "2026-10-30T11:39:07Z"
-        }
-      ],
-      "story_id": "2026-10-30-china-southern-airlines-passe-dans-le-rouge-au-troisieme-tri-4d4a",
-      "written_count": 1
     },
     "c77cd6f4626": {
       "id": "c77cd6f4626",
@@ -5604,6 +5584,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.619342
+    "2026-11": 2.620135
   }
 }
