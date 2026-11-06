@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 17:31:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 17:41:09 +0000</lastBuildDate>
   <item>
     <title>Emirates déploie son A350 vers Orlando, sur une nouvelle liaison d&#x27;environ 16 heures</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8/</link>
@@ -232,20 +232,20 @@
     <description>Selon airliners.de, la compagnie égyptienne Nesma Airlines opère désormais sous la nouvelle marque Flyplus. D&#x27;après les informations communiquées par la compagnie, ce changement d&#x27;identité doit s&#x27;accompagner d&#x27;une extension de sa flotte.</description>
   </item>
   <item>
-    <title>Alertes à la bombe en Europe : au moins 16 vols visés le 5 novembre, des chasseurs mobilisés</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211/</guid>
-    <pubDate>Thu, 05 Nov 2026 14:31:25 +0000</pubDate>
-    <category>Incident</category>
-    <description>Selon AeroTime, au moins 16 vols de passagers ont fait l&#x27;objet de menaces à la bombe en Europe le 5 novembre 2026, avec à la clé des escortes par des avions de chasse. Aucun engin n&#x27;a été découvert à ce stade.</description>
-  </item>
-  <item>
     <title>Air Canada commande huit Airbus A350-1000 pour des vols sans escale hors de portée de ses 777-300ER</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d/</guid>
     <pubDate>Thu, 05 Nov 2026 14:01:29 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Air Canada a commandé huit Airbus A350-1000 afin d&#x27;assurer des vols sans escale que ses Boeing 777-300ER ne peuvent pas réaliser.</description>
+  </item>
+  <item>
+    <title>KLM renonce à l&#x27;A320neo et prévoit de nouvelles réductions d&#x27;effectifs</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6/</guid>
+    <pubDate>Thu, 05 Nov 2026 13:31:05 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Le Journal de l&#x27;Aviation, KLM abandonne le projet d&#x27;A320neo et réduit encore ses effectifs afin d&#x27;améliorer ses résultats.</description>
   </item>
 </channel>
 </rss>

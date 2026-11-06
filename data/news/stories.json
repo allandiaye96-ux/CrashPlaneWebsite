@@ -173,7 +173,7 @@
     "version": 3,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Incident",
     "importance": 2,
     "titre": "Alertes à la bombe en Europe : au moins 16 vols visés le 5 novembre, des chasseurs mobilisés",
