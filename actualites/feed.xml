@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 06 Nov 2026 12:40:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 12:50:54 +0000</lastBuildDate>
+  <item>
+    <title>Fret aérien Japon-Europe : Lufthansa Cargo, Swiss WorldCargo, ANA et NCA signent un protocole d&#x27;accord</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2/</guid>
+    <pubDate>Fri, 06 Nov 2026 12:50:54 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Le Journal de l&#x27;Aviation, quatre transporteurs, Lufthansa Cargo, Swiss WorldCargo, All Nippon Airways et Nippon Cargo Airlines, ont conclu un MoU le 6 novembre. Ce document ouvre une réflexion sur un rapprochement de leurs activités de fret entre le Japon et l&#x27;Europe.</description>
+  </item>
   <item>
     <title>Condor : accord avec le syndicat Ufo sur les règles de service en cabine</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 05:21:00 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon aero.de, Lufthansa a transporté moins de passagers que l&#x27;année précédente durant le trimestre d&#x27;été 2026, tout en réalisant un chiffre d&#x27;affaires record.</description>
-  </item>
-  <item>
-    <title>Menaces à la bombe en Europe : plusieurs vols déroutés ou fouillés, aucun explosif retrouvé</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7/</guid>
-    <pubDate>Thu, 05 Nov 2026 05:20:57 +0000</pubDate>
-    <category>Incident</category>
-    <description>Une série d&#x27;alertes à la bombe a perturbé des vols de passagers en Europe début novembre 2026, selon Air Journal et airliners.de. Aucun engin explosif n&#x27;a été découvert à ce stade.</description>
   </item>
 </channel>
 </rss>

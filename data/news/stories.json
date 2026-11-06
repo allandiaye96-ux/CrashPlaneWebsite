@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2",
+    "created": "2026-11-06T12:50:54Z",
+    "updated": "2026-11-06T12:50:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Fret aérien Japon-Europe : Lufthansa Cargo, Swiss WorldCargo, ANA et NCA signent un protocole d'accord",
+    "chapo": "Selon Le Journal de l'Aviation, quatre transporteurs, Lufthansa Cargo, Swiss WorldCargo, All Nippon Airways et Nippon Cargo Airlines, ont conclu un MoU le 6 novembre. Ce document ouvre une réflexion sur un rapprochement de leurs activités de fret entre le Japon et l'Europe.",
+    "paragraphes": [
+      "D'après le média, ce protocole d'accord a pour objet d'examiner la possibilité d'approfondir la collaboration entre les quatre compagnies. Il s'agit à ce stade d'une phase d'étude.",
+      "Le Journal de l'Aviation évoque une alliance en préparation sur cet axe du fret aérien entre l'Asie et l'Europe."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Lufthansa Cargo, ANA, Swiss et NCA préparent une alliance dans le fret aérien entre le Japon et l’Europe",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html",
+        "date": "2026-11-06T12:42:09Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066",
     "created": "2026-11-06T12:20:51Z",
     "updated": "2026-11-06T12:20:51Z",

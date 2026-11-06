@@ -1696,7 +1696,8 @@
     "https://www.airbus.com/en/newsroom/stories/2026-11-airbus-technology-supports-the-modernisation-of-the-spanish-air-and-space-force": "2026-11-06T12:10:32Z",
     "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html": "2026-11-06T12:20:34Z",
     "https://www.airliners.de/condor-terminal-umzug-frankfurt-mitte-april-2027/91376": "2026-11-06T12:20:34Z",
-    "https://www.aero.de/news-54112/Weitere-Bombendrohung-gegen-Linienflug.html": "2026-11-06T12:30:52Z"
+    "https://www.aero.de/news-54112/Weitere-Bombendrohung-gegen-Linienflug.html": "2026-11-06T12:30:52Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html": "2026-11-06T12:50:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2010,27 +2011,6 @@
       ],
       "story_id": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca",
       "written_count": 3
-    },
-    "c77cd6f4626": {
-      "id": "c77cd6f4626",
-      "label": "Cathay Pacific incident données Amadeus",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T12:40:46Z",
-      "updated": "2026-10-30T12:40:46Z",
-      "items": [
-        {
-          "id": "ac042734323a48c4",
-          "feed": "airliners.de",
-          "title": "Cathay Pacific meldet 53.000 betroffene Buchungen nach Datenvorfall bei Amadeus",
-          "url": "https://www.airliners.de/cathay-pacific-53000-buchungen-datenvorfall-amadeus/91225",
-          "domain": "airliners.de",
-          "summary": "Cathay Pacific ist vom Datensicherheitsvorfall beim Softwareanbieter Amadeus betroffen. Rund 53.000 Buchungen sind berührt, die eigenen Systeme laufen nach Unternehmensangaben unbeeinträchtigt. Auch Japan Airlines und Asiana Airlines meldeten kompromittierte Kundendaten.",
-          "published": "2026-10-30T11:49:56Z"
-        }
-      ],
-      "story_id": "2026-10-30-cathay-pacific-53-000-reservations-touchees-par-un-incident-4626",
-      "written_count": 1
     },
     "ca4d5c1ab5a": {
       "id": "ca4d5c1ab5a",
@@ -5589,10 +5569,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cec9a0a18e2": {
+      "id": "cec9a0a18e2",
+      "label": "Alliance fret Lufthansa Cargo ANA Swiss NCA",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-06T12:50:46Z",
+      "updated": "2026-11-06T12:50:46Z",
+      "items": [
+        {
+          "id": "71266a173bfef061",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Lufthansa Cargo, ANA, Swiss et NCA préparent une alliance dans le fret aérien entre le Japon et l’Europe",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html",
+          "domain": "journal-aviation.com",
+          "summary": "Lufthansa Cargo, Swiss WorldCargo, All Nippon Airways (ANA) et Nippon Cargo Airlines (NCA) ont annoncé le 6 novembre un protocole d’accord (MoU) visant à étudier un renforcement de leur coopération […] L’article Lufthansa Cargo, ANA, Swiss et NCA préparent une alliance dans le fret aérien entre le Japon et l’Europe a été publié sur Le Journal de l'Aviation .",
+          "published": "2026-11-06T12:42:09Z"
+        }
+      ],
+      "story_id": "2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 2.630741
+    "2026-11": 2.648294
   }
 }

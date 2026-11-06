@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T12:40:33Z",
+  "run": "2026-11-06T12:50:34Z",
   "stats": {
     "fetched": 698,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 2.6307,
+  "spend_month_usd": 2.6483,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -436,12 +436,6 @@
       "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
     },
     {
-      "dossier": "Cathay Pacific incident données Amadeus",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-cathay-pacific-53-000-reservations-touchees-par-un-incident-4626"
-    },
-    {
       "dossier": "SWISS fin de coopération airBaltic 2027",
       "statut": "source_unique",
       "editeurs": 1,
@@ -794,6 +788,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066"
+    },
+    {
+      "dossier": "Alliance fret Lufthansa Cargo ANA Swiss NCA",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2"
     },
     {
       "dossier": "United Las Vegas-New York passager menace détournement",
