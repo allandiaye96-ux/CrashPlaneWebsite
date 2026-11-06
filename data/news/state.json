@@ -1728,7 +1728,8 @@
     "https://simpleflying.com/emirates-launches-major-new-16-hour-a350-route-to-the-us/": "2026-11-06T17:01:04Z",
     "https://simpleflying.com/airbus-january-october-delivery-increase/": "2026-11-06T17:01:04Z",
     "https://www.airliners.de/bombendrohungen-fluege-weiten-sich-fernsehsender-aus/91378": "2026-11-06T17:20:34Z",
-    "https://www.twz.com/air/russian-mi-28-attack-helicopter-fires-cruise-missile": "2026-11-06T17:30:52Z"
+    "https://www.twz.com/air/russian-mi-28-attack-helicopter-fires-cruise-missile": "2026-11-06T17:30:52Z",
+    "https://simpleflying.com/5-flight-attendant-safety-duties-passengers-never-notice/": "2026-11-06T18:01:03Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2081,27 +2082,6 @@
       ],
       "story_id": "2026-10-30-la-faa-met-fin-aux-derogations-monopilote-des-cessna-citatio-2658",
       "written_count": 2
-    },
-    "cce4de9bb6b": {
-      "id": "cce4de9bb6b",
-      "label": "United Airlines sortie de Tulum",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T17:50:52Z",
-      "updated": "2026-10-30T17:50:52Z",
-      "items": [
-        {
-          "id": "f80bcb3646c47241",
-          "feed": "Simple Flying",
-          "title": "Lights Out: United Airlines To Exit Tulum After Less Than 2 Years Of Service",
-          "url": "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/",
-          "domain": "simpleflying.com",
-          "summary": "Military-run facilities, pricey ground transfers and thin routes highlight challenges facing the new Tulum gateway.",
-          "published": "2026-10-30T17:44:48Z"
-        }
-      ],
-      "story_id": "2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b",
-      "written_count": 1
     },
     "c7379597198": {
       "id": "c7379597198",
@@ -5811,6 +5791,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.079846
+    "2026-11": 3.080626
   }
 }

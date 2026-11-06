@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T17:50:34Z",
+  "run": "2026-11-06T18:01:03Z",
   "stats": {
-    "fetched": 697,
-    "new": 0,
+    "fetched": 698,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.0798,
+  "spend_month_usd": 3.0806,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 38
+      "items": 39
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -452,12 +452,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528"
-    },
-    {
-      "dossier": "United Airlines sortie de Tulum",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-30-united-airlines-va-quitter-tulum-apres-moins-de-deux-ans-de-bb6b"
     },
     {
       "dossier": "Couvre-feu Sydney business jets",
