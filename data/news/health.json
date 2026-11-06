@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-06T19:01:04Z",
+  "run": "2026-11-06T19:10:34Z",
   "stats": {
     "fetched": 697,
-    "new": 2,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.0814,
+  "spend_month_usd": 3.0896,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -818,6 +818,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8"
+    },
+    {
+      "dossier": "Allegiant levée d'options 737 MAX 8",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a"
     },
     {
       "dossier": "Pakistan essai missile air-air Fa'az",

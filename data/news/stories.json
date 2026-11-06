@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a",
+    "created": "2026-11-06T19:11:00Z",
+    "updated": "2026-11-06T19:11:00Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Allegiant Air lève ses options pour six Boeing 737 MAX 8 supplémentaires, d'une valeur de 720 millions de dollars",
+    "chapo": "Selon Simple Flying, Allegiant Air a exercé ses options pour six Boeing 737 MAX 8 d'une valeur de 720 millions de dollars. Les appareils sont attendus en 2028.",
+    "paragraphes": [
+      "D'après Simple Flying, ces six avions doivent être livrés en 2028. La commande s'inscrit dans un programme de renouvellement de la flotte de la compagnie américaine, qui s'étend sur une dizaine d'années.",
+      "Le média relie également cette commande à l'intégration d'actifs de Sun Country dans le groupe."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Allegiant Air To Expand Fleet, Exercises Options For 6 New Boeing 737 MAX 8s Worth $720 Million",
+        "url": "https://simpleflying.com/allegiant-air-expand-fleet-exercises-options-6-new-boeing-737-max-8s/",
+        "date": "2026-11-06T19:01:36Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8",
     "created": "2026-11-06T17:01:29Z",
     "updated": "2026-11-06T17:01:29Z",
