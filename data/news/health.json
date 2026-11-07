@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T07:30:46Z",
+  "run": "2026-11-07T07:40:33Z",
   "stats": {
     "fetched": 699,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.1769,
+  "spend_month_usd": 3.1777,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -923,6 +923,12 @@
     },
     {
       "dossier": "Southwest 737 perte moteur n°2 après décollage",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Quasi-collision au roulage Miami 787/747-8 Lufthansa",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

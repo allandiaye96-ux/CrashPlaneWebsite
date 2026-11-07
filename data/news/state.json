@@ -1768,7 +1768,8 @@
     "https://www.air-journal.fr/2026-11-07-lits-doubles-et-suites-a-portes-singapore-airlines-devoile-ses-nouvelles-cabines-5278711.html": "2026-11-07T06:01:00Z",
     "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/": "2026-11-07T06:20:33Z",
     "https://www.airliners.de/industrie-technik-a220-swiss-d328-eco-airbus-auslieferungen/91385": "2026-11-07T06:20:33Z",
-    "https://www.air-journal.fr/2026-11-07-tui-fly-resserre-son-reseau-belge-mais-ajoute-quatre-destinations-a-bruxelles-pour-lete-2027-5278717.html": "2026-11-07T07:01:00Z"
+    "https://www.air-journal.fr/2026-11-07-tui-fly-resserre-son-reseau-belge-mais-ajoute-quatre-destinations-a-bruxelles-pour-lete-2027-5278717.html": "2026-11-07T07:01:00Z",
+    "https://www.aero.de/news-54115/Boeing-787-8-rollt-747-8-von-Lufthansa-vor-die-Nase.html": "2026-11-07T07:40:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5829,10 +5830,31 @@
       ],
       "story_id": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6",
       "written_count": 1
+    },
+    "c149176e65d": {
+      "id": "c149176e65d",
+      "label": "Quasi-collision au roulage Miami 787/747-8 Lufthansa",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-07T07:40:49Z",
+      "updated": "2026-11-07T07:40:49Z",
+      "items": [
+        {
+          "id": "a72d6a5b1f792300",
+          "feed": "aero.de",
+          "title": "Boeing 787-8 rollt 747-8 von Lufthansa vor die Nase",
+          "url": "https://www.aero.de/news-54115/Boeing-787-8-rollt-747-8-von-Lufthansa-vor-die-Nase.html",
+          "domain": "aero.de",
+          "summary": "MIAMI - \"Die American ist in unseren Weg eingebogen\": Eine Boeing 747-8 von Lufthansa muss in Miami auf dem Weg zur Startbahn hart abbremsen.",
+          "published": "2026-11-07T07:40:04Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.176856
+    "2026-11": 3.177662
   }
 }
