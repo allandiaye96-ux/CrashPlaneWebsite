@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T14:50:36Z",
+  "run": "2026-11-07T15:01:01Z",
   "stats": {
-    "fetched": 684,
-    "new": 0,
+    "fetched": 699,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.2941,
+  "spend_month_usd": 3.2949,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
