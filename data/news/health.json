@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-07T09:20:33Z",
+  "run": "2026-11-07T09:30:52Z",
   "stats": {
     "fetched": 699,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -830,12 +830,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2"
-    },
-    {
-      "dossier": "Malaysia report SAF 2030",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Livraison premier FA-50M Malaisie",

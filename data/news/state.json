@@ -4407,27 +4407,6 @@
       "story_id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
       "written_count": 3
     },
-    "c04a5f2da88": {
-      "id": "c04a5f2da88",
-      "label": "Malaysia report SAF 2030",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-05T09:20:49Z",
-      "updated": "2026-11-05T09:20:49Z",
-      "items": [
-        {
-          "id": "27a43c4fa5938730",
-          "feed": "airliners.de",
-          "title": "Malaysia verschiebt SAF-Beimischungspflicht auf 2030",
-          "url": "https://www.airliners.de/malaysia-verschiebt-saf-beimischungspflicht-2030/91340",
-          "domain": "airliners.de",
-          "summary": "Malaysia hat die Einführung der Beimischungspflicht für nachhaltigen Flugkraftstoff (SAF) von einem Prozent auf 2030 verschoben. Das teilte das Rohstoffministerium des Landes mit. Die Luftfahrtbranche solle damit mehr Zeit erhalten, sich vorzubereiten und ihren Betrieb anzupassen.",
-          "published": "2026-11-05T09:05:43Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cca158d7d97": {
       "id": "cca158d7d97",
       "label": "AutoFlight vol en formation de 5 eVTOL",
