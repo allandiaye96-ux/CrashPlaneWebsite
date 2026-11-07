@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-07T10:30:49Z",
+  "run": "2026-11-07T10:40:33Z",
   "stats": {
-    "fetched": 699,
+    "fetched": 599,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -74,8 +74,8 @@
       "items": 40
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "Boeing – Communiqués": {
       "ok": true,
