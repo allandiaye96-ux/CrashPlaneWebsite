@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-07T08:40:32Z",
+  "run": "2026-11-07T08:50:33Z",
   "stats": {
-    "fetched": 699,
+    "fetched": 684,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": true,
-      "items": 15
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "AviTrader": {
       "ok": true,
