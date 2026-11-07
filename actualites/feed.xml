@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 07 Nov 2026 06:10:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 06:20:49 +0000</lastBuildDate>
+  <item>
+    <title>Southwest : un 737 MAX a volé 44 fois avec des dégâts de tempête non détectés, selon le NTSB</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767/</guid>
+    <pubDate>Sat, 07 Nov 2026 06:20:49 +0000</pubDate>
+    <category>Enquête</category>
+    <description>Selon AirlineGeeks et Simple Flying, qui rapportent les conclusions du NTSB, un Boeing 737 MAX de Southwest Airlines est retourné en service sans inspection après une tempête. Des dégâts structurels sont restés inaperçus pendant neuf jours.</description>
+  </item>
   <item>
     <title>Singapore Airlines révèle ses futures cabines long-courrier, avec lits doubles et suites fermées</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 18:01:22 +0000</pubDate>
     <category>Défense</category>
     <description>Selon The Aviationist, Sierra Nevada Corporation (SNC) a confirmé qu&#x27;elle ne présenterait pas d&#x27;offre pour le programme UJTS de l&#x27;US Navy. L&#x27;équipe Textron/Leonardo, avec le M-346N, devient ainsi le seul concurrent pour remplacer le T-45 Goshawk.</description>
-  </item>
-  <item>
-    <title>Air Tahiti Nui choisit la connexion Starlink pour ses quatre Boeing 787</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23/</guid>
-    <pubDate>Thu, 05 Nov 2026 17:01:29 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Le Journal de l&#x27;Aviation, la compagnie polynésienne a conclu un accord avec SpaceX afin d&#x27;offrir à ses passagers un accès internet gratuit en vol.</description>
   </item>
 </channel>
 </rss>

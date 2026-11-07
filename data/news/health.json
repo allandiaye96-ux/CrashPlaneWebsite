@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T06:10:32Z",
+  "run": "2026-11-07T06:20:33Z",
   "stats": {
     "fetched": 699,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.1666,
+  "spend_month_usd": 3.176,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -434,6 +434,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528"
+    },
+    {
+      "dossier": "Southwest 737 dommages vent gouverne NTSB",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767"
     },
     {
       "dossier": "Enquête fédérale tarification personnalisée Delta United JetBlue",
@@ -917,12 +923,6 @@
     },
     {
       "dossier": "T-38C accident Alabama rapport enquête stabilisateurs",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Southwest 737 dommages vent gouverne NTSB",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

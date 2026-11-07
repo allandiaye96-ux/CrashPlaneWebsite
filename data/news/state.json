@@ -1765,7 +1765,9 @@
     "https://simpleflying.com/6-airlines-premium-economy-flights-shorter-6-hours/": "2026-11-07T05:01:00Z",
     "https://www.aero.de/news-54106/Emirates-sieht-Zulassung-der-Boeing-777-9-auf-Kurs.html": "2026-11-07T05:40:35Z",
     "https://simpleflying.com/qantas-training-360-pilots-1200-cabin-crew-12-airbus-a350-1000ulrs/": "2026-11-07T06:01:00Z",
-    "https://www.air-journal.fr/2026-11-07-lits-doubles-et-suites-a-portes-singapore-airlines-devoile-ses-nouvelles-cabines-5278711.html": "2026-11-07T06:01:00Z"
+    "https://www.air-journal.fr/2026-11-07-lits-doubles-et-suites-a-portes-singapore-airlines-devoile-ses-nouvelles-cabines-5278711.html": "2026-11-07T06:01:00Z",
+    "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/": "2026-11-07T06:20:33Z",
+    "https://www.airliners.de/industrie-technik-a220-swiss-d328-eco-airbus-auslieferungen/91385": "2026-11-07T06:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5761,7 +5763,7 @@
       "categorie": "Enquête",
       "importance": 2,
       "created": "2026-11-06T22:10:49Z",
-      "updated": "2026-11-06T22:10:49Z",
+      "updated": "2026-11-07T06:20:46Z",
       "items": [
         {
           "id": "f0880f81cd948cc8",
@@ -5771,10 +5773,19 @@
           "domain": "airlinegeeks.com",
           "summary": "The NTSB found that the jet returned to service without a storm inspection and later passed a maintenance test despite a rudder that moved in only one direction.",
           "published": "2026-11-06T22:02:58Z"
+        },
+        {
+          "id": "ca09c5c95ca68cdd",
+          "feed": "Simple Flying",
+          "title": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
+          "url": "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/",
+          "domain": "simpleflying.com",
+          "summary": "Hidden structural damage from violent winds lingered unnoticed for nine days.",
+          "published": "2026-11-07T06:15:35Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767",
+      "written_count": 2
     },
     "cc9493b7187": {
       "id": "cc9493b7187",
@@ -5842,6 +5853,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.166607
+    "2026-11": 3.176048
   }
 }

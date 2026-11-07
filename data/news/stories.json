@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767",
+    "created": "2026-11-07T06:20:49Z",
+    "updated": "2026-11-07T06:20:49Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Enquête",
+    "importance": 2,
+    "titre": "Southwest : un 737 MAX a volé 44 fois avec des dégâts de tempête non détectés, selon le NTSB",
+    "chapo": "Selon AirlineGeeks et Simple Flying, qui rapportent les conclusions du NTSB, un Boeing 737 MAX de Southwest Airlines est retourné en service sans inspection après une tempête. Des dégâts structurels sont restés inaperçus pendant neuf jours.",
+    "paragraphes": [
+      "D'après AirlineGeeks, le NTSB a établi que l'appareil avait repris du service sans l'inspection requise après une tempête. Il aurait ensuite réussi un test de maintenance malgré une gouverne de direction qui ne bougeait que dans un seul sens.",
+      "Simple Flying indique que les dégâts causés par des vents violents sont restés cachés pendant neuf jours. L'avion a effectué 44 vols avant que ces dommages ne soient découverts. Le média relie ces manquements d'inspection à un accident impliquant un mouvement de roulis hollandais (« Dutch roll »)."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AirlineGeeks",
+        "title": "Southwest 737 Flew 44 Times Before Wind Damage Was Found",
+        "url": "https://airlinegeeks.com/2026/11/06/southwest-737-flew-44-times-before-wind-damage-was-found/",
+        "date": "2026-11-06T22:02:58Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
+        "url": "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/",
+        "date": "2026-11-07T06:15:35Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6",
     "created": "2026-11-07T06:01:22Z",
     "updated": "2026-11-07T06:01:22Z",
