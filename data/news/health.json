@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T15:01:01Z",
+  "run": "2026-11-07T15:10:35Z",
   "stats": {
     "fetched": 699,
-    "new": 1,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.2949,
+  "spend_month_usd": 3.2957,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -917,6 +917,12 @@
     },
     {
       "dossier": "FAA audition modernisation contrôle aérien 12,5 Md$",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Pistorius décision avion de combat après fin FCAS",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

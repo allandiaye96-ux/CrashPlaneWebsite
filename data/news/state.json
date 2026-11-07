@@ -1800,7 +1800,9 @@
     "https://simpleflying.com/video/boeing-cleared-to-sell-parts-jets-to-belarus-despite-fears-they-ll-end-up-in-russia/": "2026-11-07T13:30:47Z",
     "https://www.air-journal.fr/2026-11-07-japon-ana-veut-consolider-son-reseau-domestique-en-rachetant-airdo-et-solaseed-air-5278701.html": "2026-11-07T14:00:59Z",
     "https://simpleflying.com/lawsuits-accuse-us-airlines-colluding-raise-fares/": "2026-11-07T14:40:33Z",
-    "https://www.air-journal.fr/2026-11-07-ryanair-le-trafic-progresse-de-1-en-octobre-mais-le-kerosene-pese-sur-les-benefices-5278706.html": "2026-11-07T15:01:01Z"
+    "https://www.air-journal.fr/2026-11-07-ryanair-le-trafic-progresse-de-1-en-octobre-mais-le-kerosene-pese-sur-les-benefices-5278706.html": "2026-11-07T15:01:01Z",
+    "https://simpleflying.com/how-much-does-an-airbus-a350-rolls-royce-trent-xwb-engine-cost/": "2026-11-07T15:10:35Z",
+    "https://www.aero.de/news-54116/Pistorius-Entscheidung-ueber-Fighter-Strategie-bis-Maerz-2027.html": "2026-11-07T15:10:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5822,10 +5824,31 @@
       ],
       "story_id": "2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91",
       "written_count": 1
+    },
+    "c4e8931c6ca": {
+      "id": "c4e8931c6ca",
+      "label": "Pistorius décision avion de combat après fin FCAS",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-07T15:10:49Z",
+      "updated": "2026-11-07T15:10:49Z",
+      "items": [
+        {
+          "id": "ce1f78c58bda78d9",
+          "feed": "aero.de",
+          "title": "Pistorius: Entscheidung über Fighter-Strategie bis März 2027",
+          "url": "https://www.aero.de/news-54116/Pistorius-Entscheidung-ueber-Fighter-Strategie-bis-Maerz-2027.html",
+          "domain": "aero.de",
+          "summary": "BERLIN - Verteidigungsminister Boris Pistorius erwartet nach dem Aus für das deutsch-französischen Luftkampfsystems FCAS bis Ende März 2027 eine Grundsatzentscheidung über eine Alternative.",
+          "published": "2026-11-07T15:03:14Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.294902
+    "2026-11": 3.295737
   }
 }
