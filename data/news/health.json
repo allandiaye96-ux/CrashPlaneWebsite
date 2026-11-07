@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-07T14:00:59Z",
+  "run": "2026-11-07T14:10:34Z",
   "stats": {
-    "fetched": 699,
-    "new": 1,
-    "written": 1,
+    "fetched": 689,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -58,8 +58,8 @@
       "items": 0
     },
     "The Air Current": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "AirlineGeeks": {
       "ok": true,
@@ -434,12 +434,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Aena résultats T3 2026 trafic",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-31-aena-un-resultat-net-en-progression-de-12-4-sur-neuf-mois-en-9c24"
     },
     {
       "dossier": "Jersey aéroport perturbations drones",
