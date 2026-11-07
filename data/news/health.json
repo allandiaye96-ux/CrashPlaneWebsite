@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T10:10:34Z",
+  "run": "2026-11-07T10:20:34Z",
   "stats": {
     "fetched": 699,
-    "new": 15,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.214,
+  "spend_month_usd": 3.2148,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -824,12 +824,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2"
-    },
-    {
-      "dossier": "Livraison premier FA-50M Malaisie",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Interceptions de drones chinois WZ-7 au-dessus du détroit de Miyako",

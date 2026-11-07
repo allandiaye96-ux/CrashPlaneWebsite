@@ -1789,7 +1789,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=85A8714E-CF3B-4DCA-B0D6-7CA2E96346CC": "2026-11-07T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=C993978A-1602-47B9-A16F-21CEE0C1FD2F": "2026-11-07T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=BEFC458F-CF34-42BF-9B57-224BBD4AD624": "2026-11-07T10:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=75A3D719-514E-46E3-B043-D86AEBB8E4BE": "2026-11-07T10:10:34Z"
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=75A3D719-514E-46E3-B043-D86AEBB8E4BE": "2026-11-07T10:10:34Z",
+    "https://simpleflying.com/inside-the-b-2-spirit-bomber-crew-rest-areas/": "2026-11-07T10:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4447,27 +4448,6 @@
       "story_id": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47",
       "written_count": 2
     },
-    "c0fa0245d95": {
-      "id": "c0fa0245d95",
-      "label": "Livraison premier FA-50M Malaisie",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-05T10:10:54Z",
-      "updated": "2026-11-05T10:10:54Z",
-      "items": [
-        {
-          "id": "db10a60959bdc7a4",
-          "feed": "Aero-News Network",
-          "title": "Malaysia Receives First FA-50M Light Combat Aircraft From South Korea",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=C8E16E91-8A10-4B32-8C06-E8DCFD2C6B8D",
-          "domain": "aero-news.net",
-          "summary": "18 FA-50M Aircraft Procured Under Malaysia's Fighter Lead-In Training And Light Combat Aircraft Program Defense Minister Datuk Seri Mohamed Khaled Nordin on Friday received the first FA-50M light combat aircraft acquired by the Royal Malaysian Air Force (RMAF), marking an important milestone in the country's efforts to strengthen its air defense capabilities. The aircraft, developed by Korea Aerospace Industries (KAI), arrived on Friday at the Labuan RMAF base, after being flown from Sacheon, Republic of Korea. “The official handover ceremony is scheduled to take place in mid-November at RMAF Kuantan Air Base,” he told reporters at the Labuan RMAF base.",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c19640f4654": {
       "id": "c19640f4654",
       "label": "Joby vols de démonstration en Floride",
@@ -5848,6 +5828,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.214008
+    "2026-11": 3.214798
   }
 }
