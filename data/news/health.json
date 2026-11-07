@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T08:00:57Z",
+  "run": "2026-11-07T08:10:34Z",
   "stats": {
-    "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "fetched": 699,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.1777,
+  "spend_month_usd": 3.1941,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
@@ -830,6 +830,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6"
+    },
+    {
+      "dossier": "Grandes compagnies chinoises pertes 2026",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2"
     },
     {
       "dossier": "Malaysia report SAF 2030",

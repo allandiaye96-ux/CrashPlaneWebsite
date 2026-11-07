@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2",
+    "created": "2026-11-07T08:10:54Z",
+    "updated": "2026-11-07T08:10:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Chine : les trois grands transporteurs pourraient afficher des pertes en 2026, selon Air Journal",
+    "chapo": "D'après Air Journal, les trois principales compagnies chinoises pourraient boucler l'exercice 2026 en déficit, en dépit de la taille du marché aérien du pays.",
+    "paragraphes": [
+      "Le média cite Air China, China Eastern et China Southern comme des groupes menacés par une année dans le rouge. Il met en avant le renchérissement du kérosène, des prix des billets jugés faibles sur le réseau intérieur et la pression exercée par le train à grande vitesse.",
+      "Toujours d'après Air Journal, les comptes du troisième trimestre, habituellement la période la plus porteuse pour le secteur, illustrent ces difficultés de rentabilité."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Chine : les grandes compagnies se dirigent vers des pertes malgré un marché aérien immense",
+        "url": "https://www.air-journal.fr/2026-11-07-chine-les-grandes-compagnies-se-dirigent-vers-des-pertes-malgre-un-marche-aerien-immense-5278702.html",
+        "date": "2026-11-07T08:00:58Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767",
     "created": "2026-11-07T06:20:49Z",
     "updated": "2026-11-07T06:20:49Z",

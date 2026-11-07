@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 07 Nov 2026 08:01:10 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 08:10:54 +0000</lastBuildDate>
+  <item>
+    <title>Chine : les trois grands transporteurs pourraient afficher des pertes en 2026, selon Air Journal</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2/</guid>
+    <pubDate>Sat, 07 Nov 2026 08:10:54 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>D&#x27;après Air Journal, les trois principales compagnies chinoises pourraient boucler l&#x27;exercice 2026 en déficit, en dépit de la taille du marché aérien du pays.</description>
+  </item>
   <item>
     <title>Southwest : un 737 MAX a volé 44 fois avec des dégâts de tempête non détectés, selon le NTSB</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 20:01:30 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon The Aviationist, Shield AI a présenté dans son usine de Frisco, au Texas, le premier prototype à l&#x27;échelle réelle de l&#x27;X-BAT, un drone de combat à décollage vertical présenté comme autonome.</description>
-  </item>
-  <item>
-    <title>UJTS de l&#x27;US Navy : SNC renonce, Textron et son M-346N restent seuls en lice pour succéder au T-45</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd/</guid>
-    <pubDate>Thu, 05 Nov 2026 18:01:22 +0000</pubDate>
-    <category>Défense</category>
-    <description>Selon The Aviationist, Sierra Nevada Corporation (SNC) a confirmé qu&#x27;elle ne présenterait pas d&#x27;offre pour le programme UJTS de l&#x27;US Navy. L&#x27;équipe Textron/Leonardo, avec le M-346N, devient ainsi le seul concurrent pour remplacer le T-45 Goshawk.</description>
   </item>
 </channel>
 </rss>
