@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
+    "created": "2026-10-31T12:01:13Z",
+    "updated": "2026-11-07T13:01:25Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Ryanair, Air Transat et Iberia suppriment l'intégralité de leurs vols sur plusieurs liaisons",
+    "chapo": "Selon Simple Flying, trois compagnies (Ryanair, Air Transat et Iberia) ont annoncé la suppression totale de vols sur plusieurs routes, au Royaume-Uni et à l'international. Le média publie pour chacune une liste détaillée des liaisons concernées.",
+    "paragraphes": [
+      "Dans un article du 31 octobre 2026, Simple Flying indique que Ryanair annule tous ses vols sur 19 liaisons britanniques supplémentaires. Cinq de ces routes desservent Bergerac, ville du sud-ouest de la France.",
+      "Dans une publication du 1er novembre 2026, le site rapporte qu'Air Transat met fin à l'ensemble de ses vols vers 7 destinations internationales. Certaines de ces routes n'étaient exploitées que sur une seule saison.",
+      "Le 7 novembre 2026, Simple Flying évoque Iberia, qui supprime tous ses vols vers 6 destinations internationales. La plupart de ces liaisons sont des services internationaux court-courriers."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Ryanair Cancels All Flights On 19 More UK Routes: See Full List Now",
+        "url": "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/",
+        "date": "2026-10-31T12:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Air Transat Cancels All Flights To 7 International Destinations: See Full List Now",
+        "url": "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/",
+        "date": "2026-11-01T17:00:20Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Iberia Cancels All Flights To 6 International Destinations: See Full List Now",
+        "url": "https://simpleflying.com/iberia-cancels-all-flights-to-6-international-destinations/",
+        "date": "2026-11-07T13:00:17Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2",
     "created": "2026-11-07T08:10:54Z",
     "updated": "2026-11-07T08:10:54Z",
@@ -4461,45 +4508,6 @@
         "title": "Southwest Airlines’ Boeing 737 MAX 7s To Debut In March 2027 With 13 More Seats Than Its -700s",
         "url": "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/",
         "date": "2026-11-01T19:25:03Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
-    "created": "2026-10-31T12:01:13Z",
-    "updated": "2026-11-01T17:01:19Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Ryanair supprime 19 liaisons britanniques de plus, Air Transat retire 7 destinations internationales",
-    "chapo": "Selon Simple Flying, Ryanair annule tous ses vols sur 19 liaisons supplémentaires au départ ou à destination du Royaume-Uni, tandis qu'Air Transat met fin à sa desserte de 7 destinations internationales.",
-    "paragraphes": [
-      "Côté Ryanair, le média indique que la compagnie irlandaise supprime l'ensemble de ses vols sur 19 routes britanniques de plus. Cinq de ces liaisons concernent Bergerac, ville du sud-ouest de la France.",
-      "Simple Flying rapporte par ailleurs qu'Air Transat annule tous ses vols vers 7 destinations internationales. Certaines de ces routes n'étaient exploitées que pendant une seule saison."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "Ryanair Cancels All Flights On 19 More UK Routes: See Full List Now",
-        "url": "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/",
-        "date": "2026-10-31T12:00:18Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Air Transat Cancels All Flights To 7 International Destinations: See Full List Now",
-        "url": "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/",
-        "date": "2026-11-01T17:00:20Z",
         "official": false
       }
     ]
