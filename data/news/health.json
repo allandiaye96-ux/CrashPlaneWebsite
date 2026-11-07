@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T09:10:37Z",
+  "run": "2026-11-07T09:20:33Z",
   "stats": {
     "fetched": 699,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.2111,
+  "spend_month_usd": 3.2119,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -440,12 +440,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767"
-    },
-    {
-      "dossier": "COMAC CE-25A démonstrateur",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",

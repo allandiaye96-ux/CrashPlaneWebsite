@@ -1772,7 +1772,8 @@
     "https://www.aero.de/news-54115/Boeing-787-8-rollt-747-8-von-Lufthansa-vor-die-Nase.html": "2026-11-07T07:40:33Z",
     "https://www.air-journal.fr/2026-11-07-chine-les-grandes-compagnies-se-dirigent-vers-des-pertes-malgre-un-marche-aerien-immense-5278702.html": "2026-11-07T08:10:34Z",
     "https://simpleflying.com/us-airports-replacing-regional-jet-gates/": "2026-11-07T09:01:00Z",
-    "https://www.air-journal.fr/2026-11-07-aide-publique-klm-remporte-une-manche-face-a-ryanair-devant-la-justice-europeenne-5278707.html": "2026-11-07T09:01:00Z"
+    "https://www.air-journal.fr/2026-11-07-aide-publique-klm-remporte-une-manche-face-a-ryanair-devant-la-justice-europeenne-5278707.html": "2026-11-07T09:01:00Z",
+    "https://www.airliners.de/podcast/luftfahrt-podcast-71-starkes-lufthansa-quartal-bombendrohungen-absturz-voller-verschwoerungstheorien-91382": "2026-11-07T09:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2104,27 +2105,6 @@
       ],
       "story_id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
       "written_count": 3
-    },
-    "cee98861eba": {
-      "id": "cee98861eba",
-      "label": "COMAC CE-25A démonstrateur",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-10-31T09:10:49Z",
-      "updated": "2026-10-31T09:10:49Z",
-      "items": [
-        {
-          "id": "050c277d1bf872c2",
-          "feed": "Aero-News Network",
-          "title": "Chinas CE-25A Electric Commuter Airliner Demonstrator Emerges",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=082D7B5B-7F50-459C-9FED-1CFD0D7BB0A6",
-          "domain": "aero-news.net",
-          "summary": "19-Seat Aircraft Intended For Short And Medium Passenger Transportation New images appear to show a full-sized demonstrator of China’s CE-25A, an unorthodox 19-seat all-electric aircraft being developed by the state-owned Commercial Aircraft Corporation of China (COMAC). The photographs offer a fresh look at a program the company publicly outlined in 2023, although the aircraft’s current testing status remains unclear. The images appear to have first been shared by Chinese automotive blogger Han Lu on October 28 and show a red and black colored aircraft with a silver cheatline bearing COMAC and CE-25A markings TWZ reported. Its Chinese civilian registration is B-0EFH. TWZ reported it should ",
-          "published": null
-        }
-      ],
-      "story_id": "2026-10-31-comac-de-nouvelles-images-montrent-un-demonstrateur-du-ce-25-1eba",
-      "written_count": 1
     },
     "cb76cd0b9ca": {
       "id": "cb76cd0b9ca",
@@ -5900,6 +5880,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.211091
+    "2026-11": 3.211889
   }
 }
