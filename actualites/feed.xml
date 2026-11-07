@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 07 Nov 2026 13:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 14:01:36 +0000</lastBuildDate>
+  <item>
+    <title>Japon : ANA Holdings vise le contrôle total de RegionalPlus Wings, qui détient Airdo et Solaseed Air</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56/</guid>
+    <pubDate>Sat, 07 Nov 2026 14:01:36 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Air Journal, ANA Holdings a signé un protocole d&#x27;accord pour acquérir l&#x27;intégralité de RegionalPlus Wings, structure regroupant les transporteurs Airdo et Solaseed Air.</description>
+  </item>
   <item>
     <title>Chine : les trois grands transporteurs pourraient afficher des pertes en 2026, selon Air Journal</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 21:01:25 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>Selon Aero-News Network, le département américain de la Justice demande la propriété définitive d&#x27;un Gulfstream G550 de 2012 immatriculé en Chine, saisi par le FBI après un séjour présumé non autorisé en Iran. AeroTime indique que la demande a été adressée à un juge fédéral en Californie.</description>
-  </item>
-  <item>
-    <title>Shield AI dévoile le premier prototype grandeur nature de son drone de combat VTOL X-BAT</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04/</guid>
-    <pubDate>Thu, 05 Nov 2026 20:01:30 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon The Aviationist, Shield AI a présenté dans son usine de Frisco, au Texas, le premier prototype à l&#x27;échelle réelle de l&#x27;X-BAT, un drone de combat à décollage vertical présenté comme autonome.</description>
   </item>
 </channel>
 </rss>

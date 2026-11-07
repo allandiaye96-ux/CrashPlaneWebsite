@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56",
+    "created": "2026-11-07T14:01:36Z",
+    "updated": "2026-11-07T14:01:36Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Japon : ANA Holdings vise le contrôle total de RegionalPlus Wings, qui détient Airdo et Solaseed Air",
+    "chapo": "Selon Air Journal, ANA Holdings a signé un protocole d'accord pour acquérir l'intégralité de RegionalPlus Wings, structure regroupant les transporteurs Airdo et Solaseed Air.",
+    "paragraphes": [
+      "D'après Air Journal, la finalisation de l'opération est visée pour le 1er avril 2027. Le groupe entend ainsi renforcer sa position sur le marché aérien intérieur japonais.",
+      "Les deux marques seraient maintenues dans un premier temps. Un rapprochement plus poussé avec l'enseigne ANA est ensuite évoqué par le média."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Japon : ANA veut consolider son réseau domestique en rachetant Airdo et Solaseed Air",
+        "url": "https://www.air-journal.fr/2026-11-07-japon-ana-veut-consolider-son-reseau-domestique-en-rachetant-airdo-et-solaseed-air-5278701.html",
+        "date": "2026-11-07T14:00:41Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
     "created": "2026-10-31T12:01:13Z",
     "updated": "2026-11-07T13:01:25Z",

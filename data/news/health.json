@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T13:50:34Z",
+  "run": "2026-11-07T14:00:59Z",
   "stats": {
     "fetched": 699,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.2697,
+  "spend_month_usd": 3.2861,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -812,6 +812,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2"
+    },
+    {
+      "dossier": "ANA rachat Airdo et Solaseed Air",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56"
     },
     {
       "dossier": "Interceptions de drones chinois WZ-7 au-dessus du détroit de Miyako",

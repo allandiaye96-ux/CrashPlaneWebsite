@@ -1797,7 +1797,8 @@
     "https://theaviationist.com/2026/11/07/blue-angels-remove-maj-scott-laux/": "2026-11-07T12:10:36Z",
     "https://simpleflying.com/iberia-cancels-all-flights-to-6-international-destinations/": "2026-11-07T13:01:01Z",
     "https://www.air-journal.fr/2026-11-07-clermont-ferrand-porto-volotea-prend-le-relais-de-ryanair-5278718.html": "2026-11-07T13:01:01Z",
-    "https://simpleflying.com/video/boeing-cleared-to-sell-parts-jets-to-belarus-despite-fears-they-ll-end-up-in-russia/": "2026-11-07T13:30:47Z"
+    "https://simpleflying.com/video/boeing-cleared-to-sell-parts-jets-to-belarus-despite-fears-they-ll-end-up-in-russia/": "2026-11-07T13:30:47Z",
+    "https://www.air-journal.fr/2026-11-07-japon-ana-veut-consolider-son-reseau-domestique-en-rachetant-airdo-et-solaseed-air-5278701.html": "2026-11-07T14:00:59Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5798,10 +5799,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c2499c1fe56": {
+      "id": "c2499c1fe56",
+      "label": "ANA rachat Airdo et Solaseed Air",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-07T14:01:15Z",
+      "updated": "2026-11-07T14:01:15Z",
+      "items": [
+        {
+          "id": "7272bc5366b83b03",
+          "feed": "Air Journal",
+          "title": "Japon : ANA veut consolider son réseau domestique en rachetant Airdo et Solaseed Air",
+          "url": "https://www.air-journal.fr/2026-11-07-japon-ana-veut-consolider-son-reseau-domestique-en-rachetant-airdo-et-solaseed-air-5278701.html",
+          "domain": "air-journal.fr",
+          "summary": "All Nippon Airways (ANA) Holdings veut prendre le contrôle intégral de RegionalPlus Wings, la maison mère des compagnies domestiques Airdo et Solaseed Air. Le groupe a signé un protocole d’accord, avec l’objectif de réaliser l’opération le 1er avril 2027. Les deux marques seraient conservées dans un premier temps, mais leur intégration sous la bannière ANA […]",
+          "published": "2026-11-07T14:00:41Z"
+        }
+      ],
+      "story_id": "2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.269664
+    "2026-11": 3.286074
   }
 }
