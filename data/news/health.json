@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T05:30:47Z",
+  "run": "2026-11-07T05:40:35Z",
   "stats": {
-    "fetched": 699,
-    "new": 0,
-    "written": 0,
+    "fetched": 694,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.1413,
+  "spend_month_usd": 3.1498,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -78,8 +78,8 @@
       "items": 100
     },
     "Boeing – Communiqués": {
-      "ok": true,
-      "items": 5
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "aero.de": {
       "ok": true,
@@ -818,6 +818,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24"
+    },
+    {
+      "dossier": "Boeing 777-9 calendrier certification livraison mi-2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8"
     },
     {
       "dossier": "Malaysia report SAF 2030",

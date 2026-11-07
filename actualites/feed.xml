@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 07 Nov 2026 05:31:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 05:41:14 +0000</lastBuildDate>
+  <item>
+    <title>Boeing 777-9 : certification et livraisons visées pour mi-2027, Emirates et Lufthansa s&#x27;y résignent</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8/</guid>
+    <pubDate>Sat, 07 Nov 2026 05:41:14 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon aero.de, Boeing fixe désormais à la mi-2027 la certification et le début des livraisons de son nouveau gros-porteur biréacteur 777-9. Emirates juge la certification toujours sur la bonne voie.</description>
+  </item>
   <item>
     <title>Air Canada supprimerait trois liaisons long-courriers assurées en Boeing 737 MAX, selon Simple Flying</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 16:50:50 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Le Journal de l&#x27;Aviation, Air France-KLM a publié de bons résultats pour le troisième trimestre, avec un chiffre d&#x27;affaires en progression de 7,6 %. Air Journal indique que le groupe a dégagé 938 millions d&#x27;euros de bénéfice net sur la période.</description>
-  </item>
-  <item>
-    <title>Wheels Up, partenaire de Delta Air Lines, commande six Embraer Phenom 300E neufs</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e/</guid>
-    <pubDate>Thu, 05 Nov 2026 16:40:52 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, Wheels Up, partenaire de Delta Air Lines dans l&#x27;aviation d&#x27;affaires, a passé commande de six Embraer Phenom 300E neufs.</description>
   </item>
 </channel>
 </rss>

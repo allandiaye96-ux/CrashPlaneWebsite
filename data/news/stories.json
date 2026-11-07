@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8",
+    "created": "2026-11-07T05:41:14Z",
+    "updated": "2026-11-07T05:41:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing 777-9 : certification et livraisons visées pour mi-2027, Emirates et Lufthansa s'y résignent",
+    "chapo": "Selon aero.de, Boeing fixe désormais à la mi-2027 la certification et le début des livraisons de son nouveau gros-porteur biréacteur 777-9. Emirates juge la certification toujours sur la bonne voie.",
+    "paragraphes": [
+      "D'après aero.de, la 777-9 manquera en grande partie la saison estivale 2027. Le constructeur américain situe désormais l'homologation de l'appareil et la première livraison au milieu de cette même année.",
+      "Toujours d'après le média allemand, les premiers exploitants, Lufthansa et Emirates, prennent ce calendrier avec un certain fatalisme."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Emirates sieht Zulassung der Boeing 777-9 auf Kurs",
+        "url": "https://www.aero.de/news-54106/Emirates-sieht-Zulassung-der-Boeing-777-9-auf-Kurs.html",
+        "date": "2026-11-07T05:32:38Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24",
     "created": "2026-11-06T20:10:55Z",
     "updated": "2026-11-06T20:10:55Z",
