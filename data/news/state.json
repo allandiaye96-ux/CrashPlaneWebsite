@@ -1807,7 +1807,8 @@
     "https://simpleflying.com/jetblue-cancels-12-routes-new-york-jfk/": "2026-11-07T18:10:35Z",
     "https://simpleflying.com/is-boeing-777x-bigger-than-airbus-a380/": "2026-11-07T18:30:49Z",
     "https://simpleflying.com/how-much-delta-skymiles-worth-compared-to-an-american-aadvantage-miles/": "2026-11-07T19:00:59Z",
-    "https://simpleflying.com/southwest-airlines-flight-attendant-quit-job-passenger-facing-crew-dispute/": "2026-11-07T19:50:32Z"
+    "https://simpleflying.com/southwest-airlines-flight-attendant-quit-job-passenger-facing-crew-dispute/": "2026-11-07T19:50:32Z",
+    "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/": "2026-11-07T20:00:57Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5829,10 +5830,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c8a2c7b5903": {
+      "id": "c8a2c7b5903",
+      "label": "Dulles modernisation 20 Md$ hub United",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-07T20:01:09Z",
+      "updated": "2026-11-07T20:01:09Z",
+      "items": [
+        {
+          "id": "c06e6550c9948be5",
+          "feed": "Simple Flying",
+          "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
+          "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
+          "domain": "simpleflying.com",
+          "summary": "Dulles just tripled its modernization budget to more than $20 billion, with Concourse C and D set for replacement.",
+          "published": "2026-11-07T20:00:18Z"
+        }
+      ],
+      "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.298943
+    "2026-11": 3.306529
   }
 }

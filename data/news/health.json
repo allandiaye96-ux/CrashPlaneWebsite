@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T19:50:32Z",
+  "run": "2026-11-07T20:00:57Z",
   "stats": {
-    "fetched": 684,
+    "fetched": 699,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.2989,
+  "spend_month_usd": 3.3065,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
@@ -818,6 +818,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91"
+    },
+    {
+      "dossier": "Dulles modernisation 20 Md$ hub United",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
     },
     {
       "dossier": "FAA simplification licences spatiales",

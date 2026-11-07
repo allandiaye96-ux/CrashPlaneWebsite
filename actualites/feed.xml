@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 07 Nov 2026 19:51:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 20:01:11 +0000</lastBuildDate>
+  <item>
+    <title>Dulles : le budget de modernisation triplé à plus de 20 milliards de dollars, avec les concourses C et D remplacés</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903/</guid>
+    <pubDate>Sat, 07 Nov 2026 20:01:11 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Simple Flying, l&#x27;aéroport de Washington-Dulles, hub de United Airlines, a triplé son budget de modernisation, désormais supérieur à 20 milliards de dollars.</description>
+  </item>
   <item>
     <title>Sept compagnies aériennes américaines visées par des plaintes pour entente présumée sur les tarifs</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 05:41:04 +0000</pubDate>
     <category>Compagnies</category>
     <description>Singapore Airlines investit plus de 2 milliards de dollars de Singapour dans de nouveaux produits cabine pour ses quatre classes de voyage, selon AviTrader et airliners.de. Les premières installations sont prévues au second semestre 2027.</description>
-  </item>
-  <item>
-    <title>Avolon commande 250 avions chez Boeing et Airbus et voit son bénéfice net progresser de 43 %</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0/</guid>
-    <pubDate>Fri, 06 Nov 2026 03:20:49 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, le loueur et financeur d&#x27;avions Avolon a passé commande ferme de 250 appareils auprès de Boeing et d&#x27;Airbus après la fin du troisième trimestre. Son bénéfice net trimestriel a augmenté de 43 %.</description>
   </item>
 </channel>
 </rss>
