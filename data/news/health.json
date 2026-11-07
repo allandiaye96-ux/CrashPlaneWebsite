@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T10:00:59Z",
+  "run": "2026-11-07T10:10:34Z",
   "stats": {
     "fetched": 699,
-    "new": 1,
+    "new": 15,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.2127,
+  "spend_month_usd": 3.214,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -194,12 +194,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
-    },
-    {
-      "dossier": "Airbus résultats T3 2026 livraisons",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17"
     },
     {
       "dossier": "Ebola règles CDC déclaration US",
@@ -930,6 +924,12 @@
     {
       "dossier": "CJUE aides Covid KLM Air France contre Commission Ryanair",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "FAA audition modernisation contrôle aérien 12,5 Md$",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }

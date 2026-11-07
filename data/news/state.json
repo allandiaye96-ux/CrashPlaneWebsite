@@ -1774,7 +1774,22 @@
     "https://simpleflying.com/us-airports-replacing-regional-jet-gates/": "2026-11-07T09:01:00Z",
     "https://www.air-journal.fr/2026-11-07-aide-publique-klm-remporte-une-manche-face-a-ryanair-devant-la-justice-europeenne-5278707.html": "2026-11-07T09:01:00Z",
     "https://www.airliners.de/podcast/luftfahrt-podcast-71-starkes-lufthansa-quartal-bombendrohungen-absturz-voller-verschwoerungstheorien-91382": "2026-11-07T09:20:33Z",
-    "https://www.air-journal.fr/2026-11-07-fatigue-des-pilotes-le-repos-au-coeur-dune-bataille-judiciaire-chez-horizon-air-5278721.html": "2026-11-07T10:00:59Z"
+    "https://www.air-journal.fr/2026-11-07-fatigue-des-pilotes-le-repos-au-coeur-dune-bataille-judiciaire-chez-horizon-air-5278721.html": "2026-11-07T10:00:59Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=367710E9-AC0F-413A-937D-3B7E42449874": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E5A58313-5972-47DA-B80B-915E4E54B428": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=350F4757-5EE6-4586-841A-C21669379E70": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=23AB77CF-24F1-4F41-BDEB-4F6D21AC6F57": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3977349E-230D-4484-B538-44C9AC7FE8DA": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=CF5B5A80-5407-4C3A-8B77-7EF416993DE3": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=B69B73E9-D26B-4A7B-B37E-27765A1C09A2": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC9BB776-CB3F-4E2F-AD0D-2CAC5A9D7587": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=1FE1F649-D970-474B-BE97-9820F1871E9D": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=BBC98635-3C3C-418D-9CEC-9DC15F7162F0": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3BB8ED6B-0F6F-470C-AC03-E798368F66E1": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=85A8714E-CF3B-4DCA-B0D6-7CA2E96346CC": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C993978A-1602-47B9-A16F-21CEE0C1FD2F": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=BEFC458F-CF34-42BF-9B57-224BBD4AD624": "2026-11-07T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=75A3D719-514E-46E3-B043-D86AEBB8E4BE": "2026-11-07T10:10:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1815,54 +1830,6 @@
       ],
       "story_id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
       "written_count": 3
-    },
-    "cbb25062e17": {
-      "id": "cbb25062e17",
-      "label": "Airbus résultats T3 2026 livraisons",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-10-29T12:23:16Z",
-      "updated": "2026-10-31T10:01:17Z",
-      "items": [
-        {
-          "id": "a1cbf2fedbc58725",
-          "feed": "AeroTime",
-          "title": "Airbus delivery slowdown squeezes profits, full-year target unchanged",
-          "url": "https://www.aerotime.aero/articles/airbus-nine-month-results-deliveries-proffits",
-          "domain": "aerotime.aero",
-          "summary": "Airbus reported a decline in third-quarter profits, partly due to slower commercial aircraft deliveries; however, the planemaker left… The post Airbus delivery slowdown squeezes profits, full-year target unchanged appeared first on AeroTime .",
-          "published": "2026-10-29T11:07:17Z"
-        },
-        {
-          "id": "37591644e5cd68c4",
-          "feed": "Air Journal",
-          "title": "Airbus : 323 avions à livrer en trois mois pour tenir son pari de 2026",
-          "url": "https://www.air-journal.fr/2026-10-29-airbus-323-avions-a-livrer-en-trois-mois-pour-tenir-son-pari-de-2026-5278561.html",
-          "domain": "air-journal.fr",
-          "summary": "Airbus a confirmé, le 28 octobre, son objectif d’environ 870 livraisons d’avions commerciaux en 2026, après en avoir remis 547 à ses clients à fin septembre. Si ses résultats progressent sur neuf mois, le troisième trimestre marque un ralentissement. Approvisionnement en moteurs, intégration des activités reprises à Spirit AeroSystems et difficultés ponctuelles de qualité mettent […]",
-          "published": "2026-10-29T12:00:00Z"
-        },
-        {
-          "id": "654c82700ca12e53",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Airbus maintient ses objectifs malgré un ralentissement au troisième trimestre",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html",
-          "domain": "journal-aviation.com",
-          "summary": "Airbus reste confiant en sa capacité à atteindre les objectifs qu’il s’est fixés sur l’année. Si le troisième trimestre a été légèrement moins porteur que prévu en raison des difficultés […] L’article Airbus maintient ses objectifs malgré un ralentissement au troisième trimestre a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-10-30T08:01:40Z"
-        },
-        {
-          "id": "6c7e781a04f892cd",
-          "feed": "Air Journal",
-          "title": "Airbus : un bénéfice net en hausse sur neuf mois et des objectifs maintenus pour 2026",
-          "url": "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html",
-          "domain": "air-journal.fr",
-          "summary": "Airbus a publié un bénéfice net de 3,59 milliards d’euros pour les neuf premiers mois de 2026, en progression de 36% sur un an. Le chiffre d’affaires augmente de 7%, à 50,6 milliards d’euros, porté notamment par la hausse des livraisons d’avions commerciaux. Malgré un troisième trimestre moins favorable et une consommation de trésorerie persistante, […]",
-          "published": "2026-10-31T10:00:54Z"
-        }
-      ],
-      "story_id": "2026-10-29-airbus-benefices-en-baisse-au-troisieme-trimestre-objectif-d-2e17",
-      "written_count": 4
     },
     "c153f9923c1": {
       "id": "c153f9923c1",
@@ -5856,10 +5823,31 @@
       ],
       "story_id": null,
       "written_count": 1
+    },
+    "c122e09368a": {
+      "id": "c122e09368a",
+      "label": "FAA audition modernisation contrôle aérien 12,5 Md$",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-07T10:10:52Z",
+      "updated": "2026-11-07T10:10:52Z",
+      "items": [
+        {
+          "id": "e4d46b912d67c275",
+          "feed": "Aero-News Network",
+          "title": "FAA Administrator To Testify On $12.5 Billion Air Traffic Overhaul",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=23AB77CF-24F1-4F41-BDEB-4F6D21AC6F57",
+          "domain": "aero-news.net",
+          "summary": "Seeking An Additional $30 Billion For Air Traffic Control Towers, Software And Digital Upgrades The ‌head of the FAA will testify next week before the House Transportation and Infrastructure Committee on the ongoing $12.5 billion effort to modernize the aging U.S. air traffic control system, congressional aides said on Friday. FAA Administrator Bryan Bedford will update the committee on Tuesday on progress and ongoing challenges as it works to replace ancient equipment like copper telecom lines, floppy disks and paper strips used to track airplanes. Congress approved $12.5 billion over five years in June 2025 for air traffic control reforms but the Trump administration wants another $30 bill",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.212701
+    "2026-11": 3.214008
   }
 }
