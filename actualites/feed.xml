@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 07 Nov 2026 05:50:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 06:01:22 +0000</lastBuildDate>
+  <item>
+    <title>Singapore Airlines révèle ses futures cabines long-courrier, avec lits doubles et suites fermées</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6/</guid>
+    <pubDate>Sat, 07 Nov 2026 06:01:22 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>D&#x27;après Air Journal, la compagnie singapourienne a dévoilé à Singapour, le 6 novembre, la nouvelle génération de cabines de ses vols long-courriers, un programme d&#x27;investissement supérieur à 2 milliards de dollars singapouriens.</description>
+  </item>
   <item>
     <title>Boeing 777-9 : certification et livraisons visées pour mi-2027, Emirates et Lufthansa s&#x27;y résignent</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 05 Nov 2026 17:01:29 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Le Journal de l&#x27;Aviation, la compagnie polynésienne a conclu un accord avec SpaceX afin d&#x27;offrir à ses passagers un accès internet gratuit en vol.</description>
-  </item>
-  <item>
-    <title>Air France-KLM : un troisième trimestre 2026 solide, avec un chiffre d&#x27;affaires en hausse de 7,6 %</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415/</guid>
-    <pubDate>Thu, 05 Nov 2026 16:50:50 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Le Journal de l&#x27;Aviation, Air France-KLM a publié de bons résultats pour le troisième trimestre, avec un chiffre d&#x27;affaires en progression de 7,6 %. Air Journal indique que le groupe a dégagé 938 millions d&#x27;euros de bénéfice net sur la période.</description>
   </item>
 </channel>
 </rss>

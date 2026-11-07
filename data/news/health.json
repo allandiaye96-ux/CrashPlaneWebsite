@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T05:50:31Z",
+  "run": "2026-11-07T06:01:00Z",
   "stats": {
     "fetched": 699,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.1498,
+  "spend_month_usd": 3.1666,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -824,6 +824,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8"
+    },
+    {
+      "dossier": "Singapore Airlines nouvelles cabines long-courriers 6 novembre",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6"
     },
     {
       "dossier": "Malaysia report SAF 2030",

@@ -1763,7 +1763,9 @@
     "https://simpleflying.com/turboprop-vs-light-jet-ownership-costs-2026/": "2026-11-07T02:00:59Z",
     "https://simpleflying.com/inside-boeing-boeing-777x-modern-secret-upper-deck/": "2026-11-07T02:50:31Z",
     "https://simpleflying.com/6-airlines-premium-economy-flights-shorter-6-hours/": "2026-11-07T05:01:00Z",
-    "https://www.aero.de/news-54106/Emirates-sieht-Zulassung-der-Boeing-777-9-auf-Kurs.html": "2026-11-07T05:40:35Z"
+    "https://www.aero.de/news-54106/Emirates-sieht-Zulassung-der-Boeing-777-9-auf-Kurs.html": "2026-11-07T05:40:35Z",
+    "https://simpleflying.com/qantas-training-360-pilots-1200-cabin-crew-12-airbus-a350-1000ulrs/": "2026-11-07T06:01:00Z",
+    "https://www.air-journal.fr/2026-11-07-lits-doubles-et-suites-a-portes-singapore-airlines-devoile-ses-nouvelles-cabines-5278711.html": "2026-11-07T06:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5815,10 +5817,31 @@
       ],
       "story_id": "2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8",
       "written_count": 1
+    },
+    "c48d46f7ad6": {
+      "id": "c48d46f7ad6",
+      "label": "Singapore Airlines nouvelles cabines long-courriers 6 novembre",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-07T06:01:16Z",
+      "updated": "2026-11-07T06:01:16Z",
+      "items": [
+        {
+          "id": "c76a9a3d246ee88f",
+          "feed": "Air Journal",
+          "title": "Lits doubles et suites à portes : Singapore Airlines dévoile ses nouvelles cabines",
+          "url": "https://www.air-journal.fr/2026-11-07-lits-doubles-et-suites-a-portes-singapore-airlines-devoile-ses-nouvelles-cabines-5278711.html",
+          "domain": "air-journal.fr",
+          "summary": "Singapore Airlines a présenté le 6 novembre à Singapour ses nouvelles cabines long-courriers, au cœur d’un investissement de plus de 2 milliards de dollars singapouriens. Leur déploiement commencera au second semestre 2027 sur une partie de ses Airbus A350, puis accompagnera l’arrivée des Boeing 777-9. Première classe, affaires, divertissement, restauration et services au sol : […]",
+          "published": "2026-11-07T06:00:02Z"
+        }
+      ],
+      "story_id": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.149766
+    "2026-11": 3.166607
   }
 }

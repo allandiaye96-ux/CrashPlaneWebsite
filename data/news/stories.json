@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6",
+    "created": "2026-11-07T06:01:22Z",
+    "updated": "2026-11-07T06:01:22Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Singapore Airlines révèle ses futures cabines long-courrier, avec lits doubles et suites fermées",
+    "chapo": "D'après Air Journal, la compagnie singapourienne a dévoilé à Singapour, le 6 novembre, la nouvelle génération de cabines de ses vols long-courriers, un programme d'investissement supérieur à 2 milliards de dollars singapouriens.",
+    "paragraphes": [
+      "Selon Air Journal, l'installation débutera au second semestre 2027 sur une partie de la flotte d'Airbus A350. Elle se poursuivra ensuite avec la livraison des Boeing 777-9.",
+      "La présentation couvre la première classe et la classe affaires, mais aussi le divertissement à bord, la restauration et les services au sol, d'après le média. Le titre de l'article évoque des lits doubles et des suites dotées de portes."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Lits doubles et suites à portes : Singapore Airlines dévoile ses nouvelles cabines",
+        "url": "https://www.air-journal.fr/2026-11-07-lits-doubles-et-suites-a-portes-singapore-airlines-devoile-ses-nouvelles-cabines-5278711.html",
+        "date": "2026-11-07T06:00:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-07-boeing-777-9-certification-et-livraisons-visees-pour-mi-2027-44a8",
     "created": "2026-11-07T05:41:14Z",
     "updated": "2026-11-07T05:41:14Z",
