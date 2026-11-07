@@ -2082,36 +2082,6 @@
       "story_id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
       "written_count": 3
     },
-    "cb76cd0b9ca": {
-      "id": "cb76cd0b9ca",
-      "label": "Collision hélicoptères Oregon McMinnville",
-      "categorie": "Accident",
-      "importance": 3,
-      "created": "2026-10-31T09:10:49Z",
-      "updated": "2026-10-31T13:31:01Z",
-      "items": [
-        {
-          "id": "85ff9376c6a8d63e",
-          "feed": "Aero-News Network",
-          "title": "Three Killed In Helicopter Collision In Oregon",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=1555CC01-A1BF-4064-AD28-CD2DFED9826C",
-          "domain": "aero-news.net",
-          "summary": "Collision Between Robinson R22 And Airbus H125 Two helicopters collided and went down into a farm field Thursday near a small airport I McMinnville, southwest of Portland, Oregon, killing all three people on board, authorities said. The FAA said the collision was between a Robinson R22, a two-seat aircraft, and an Airbus H125, which can carry up to six passengers depending on the configuration. The accident killed 38-year-old Tyler Sturdevant, a pilot from Oregon, 22-year-old Maddie Aasbo, a flight instructor from Texas, and a student pilot from the United Kingdom, whose name has not been released, Yamhill County Sheriff Sam Elliott said during a news conference. Aasbo and the U.K. student p",
-          "published": null
-        },
-        {
-          "id": "5950040afa9a578f",
-          "feed": "AeroTime",
-          "title": "Three killed in midair helicopter collision at Oregon airport",
-          "url": "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville",
-          "domain": "aerotime.aero",
-          "summary": "Three people were killed when a Robinson R22 and an Airbus AS350B3 collided in flight near McMinnville Municipal… The post Three killed in midair helicopter collision at Oregon airport appeared first on AeroTime .",
-          "published": "2026-10-31T12:27:25Z"
-        }
-      ],
-      "story_id": "2026-10-31-oregon-trois-morts-dans-la-collision-en-vol-de-deux-helicopt-b9ca",
-      "written_count": 2
-    },
     "cb354155b2d": {
       "id": "cb354155b2d",
       "label": "Ryanair suppression 19 routes UK",
