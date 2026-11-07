@@ -4616,27 +4616,6 @@
       "story_id": "2026-11-05-airbus-aurait-livre-74-avions-en-octobre-selon-un-media-cite-9886",
       "written_count": 1
     },
-    "cb4fca7e375": {
-      "id": "cb4fca7e375",
-      "label": "Interceptions de drones chinois WZ-7 au-dessus du détroit de Miyako",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-05T15:40:50Z",
-      "updated": "2026-11-05T15:40:50Z",
-      "items": [
-        {
-          "id": "15a8ac974479e430",
-          "feed": "The Aviationist",
-          "title": "Japan Intercepts Chinese WZ-7 High-Altitude Drones Flying Through Miyako Strait",
-          "url": "https://theaviationist.com/2026/11/05/japan-intercepts-chinese-wz-7/",
-          "domain": "theaviationist.com",
-          "summary": "Chinese state media recently featured the WZ-7 alongside other PLA reconnaissance drones, describing the platforms as providing reconnaissance and targeting support to the PLA Army, Navy and Rocket Force. Japan reported on Nov. 2, 2026 that its air force intercepted once again China’s WZ-7 high-altitude reconnaissance jet drone as it was flying around Japanese airspace […]",
-          "published": "2026-11-05T15:32:28Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c959891e75c": {
       "id": "c959891e75c",
       "label": "Swiss A350 vers Mumbai",

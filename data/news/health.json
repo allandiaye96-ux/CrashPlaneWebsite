@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-07T15:40:34Z",
+  "run": "2026-11-07T15:50:32Z",
   "stats": {
-    "fetched": 684,
+    "fetched": 699,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
@@ -818,12 +818,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91"
-    },
-    {
-      "dossier": "Interceptions de drones chinois WZ-7 au-dessus du détroit de Miyako",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "FAA simplification licences spatiales",
