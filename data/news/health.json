@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T14:30:48Z",
+  "run": "2026-11-07T14:40:33Z",
   "stats": {
-    "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "fetched": 699,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.2861,
+  "spend_month_usd": 3.2941,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
@@ -812,6 +812,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56"
+    },
+    {
+      "dossier": "Procès entente tarifaire 7 compagnies US",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91"
     },
     {
       "dossier": "Interceptions de drones chinois WZ-7 au-dessus du détroit de Miyako",
