@@ -1770,7 +1770,9 @@
     "https://www.airliners.de/industrie-technik-a220-swiss-d328-eco-airbus-auslieferungen/91385": "2026-11-07T06:20:33Z",
     "https://www.air-journal.fr/2026-11-07-tui-fly-resserre-son-reseau-belge-mais-ajoute-quatre-destinations-a-bruxelles-pour-lete-2027-5278717.html": "2026-11-07T07:01:00Z",
     "https://www.aero.de/news-54115/Boeing-787-8-rollt-747-8-von-Lufthansa-vor-die-Nase.html": "2026-11-07T07:40:33Z",
-    "https://www.air-journal.fr/2026-11-07-chine-les-grandes-compagnies-se-dirigent-vers-des-pertes-malgre-un-marche-aerien-immense-5278702.html": "2026-11-07T08:10:34Z"
+    "https://www.air-journal.fr/2026-11-07-chine-les-grandes-compagnies-se-dirigent-vers-des-pertes-malgre-un-marche-aerien-immense-5278702.html": "2026-11-07T08:10:34Z",
+    "https://simpleflying.com/us-airports-replacing-regional-jet-gates/": "2026-11-07T09:01:00Z",
+    "https://www.air-journal.fr/2026-11-07-aide-publique-klm-remporte-une-manche-face-a-ryanair-devant-la-justice-europeenne-5278707.html": "2026-11-07T09:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5873,10 +5875,31 @@
       ],
       "story_id": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2",
       "written_count": 1
+    },
+    "c0f97ed5741": {
+      "id": "c0f97ed5741",
+      "label": "CJUE aides Covid KLM Air France contre Commission Ryanair",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-07T09:01:17Z",
+      "updated": "2026-11-07T09:01:17Z",
+      "items": [
+        {
+          "id": "eff62195c42eea9c",
+          "feed": "Air Journal",
+          "title": "Aide publique : KLM remporte une manche face à Ryanair devant la justice européenne",
+          "url": "https://www.air-journal.fr/2026-11-07-aide-publique-klm-remporte-une-manche-face-a-ryanair-devant-la-justice-europeenne-5278707.html",
+          "domain": "air-journal.fr",
+          "summary": "Nouveau rebondissement dans le contentieux des aides publiques accordées au transport aérien pendant la pandémie de Covid. Saisie de pourvois formés par la Commission européenne, KLM, Air France et la holding Air France-KLM, la Cour de justice de l’Union européenne a annulé l’arrêt rendu le 7 février 2024 par le Tribunal de l’Union européenne. Celui-ci […]",
+          "published": "2026-11-07T09:00:05Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.194076
+    "2026-11": 3.211091
   }
 }

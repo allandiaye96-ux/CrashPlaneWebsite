@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T08:50:33Z",
+  "run": "2026-11-07T09:01:00Z",
   "stats": {
-    "fetched": 684,
-    "new": 0,
+    "fetched": 699,
+    "new": 2,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 3.1941,
+  "spend_month_usd": 3.2111,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
@@ -936,6 +936,12 @@
     {
       "dossier": "Quasi-collision au roulage Miami 787/747-8 Lufthansa",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "CJUE aides Covid KLM Air France contre Commission Ryanair",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }
