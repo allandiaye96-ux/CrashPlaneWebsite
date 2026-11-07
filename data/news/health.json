@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-07T21:50:31Z",
+  "run": "2026-11-07T22:00:55Z",
   "stats": {
-    "fetched": 689,
-    "new": 0,
+    "fetched": 699,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.3081,
+  "spend_month_usd": 3.3089,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -22,8 +22,8 @@
       "items": 50
     },
     "Simple Flying": {
-      "ok": false,
-      "error": "RemoteDisconnected: Remote end closed connection without response"
+      "ok": true,
+      "items": 10
     },
     "AeroTime": {
       "ok": true,
