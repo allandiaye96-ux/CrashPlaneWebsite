@@ -1376,7 +1376,10 @@
     "https://www.air-journal.fr/2026-11-08-les-couts-de-paiement-augmentent-plus-vite-que-les-ventes-des-compagnies-aeriennes-5278739.html": "2026-11-08T13:01:00Z",
     "https://simpleflying.com/video/us-fines-air-france-klm-for-flying-delta-codeshares-too-low-over-iraqi-conflict-zone/": "2026-11-08T13:30:53Z",
     "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax": "2026-11-08T13:50:33Z",
-    "https://www.air-journal.fr/2026-11-08-paris-orly-le-desistement-de-ryanair-ouvre-la-voie-a-quatre-nouveaux-transporteurs-5278738.html": "2026-11-08T14:01:01Z"
+    "https://www.air-journal.fr/2026-11-08-paris-orly-le-desistement-de-ryanair-ouvre-la-voie-a-quatre-nouveaux-transporteurs-5278738.html": "2026-11-08T14:01:01Z",
+    "https://www.aerotime.aero/articles/iraq-axes-mosul-airport-leases-over-alleged-armed-group-links": "2026-11-08T14:50:33Z",
+    "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets": "2026-11-08T14:50:33Z",
+    "https://www.aerotime.aero/articles/israels-israir-eyes-rival-arkia-acquisition": "2026-11-08T14:50:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1690,27 +1693,6 @@
       ],
       "story_id": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76",
       "written_count": 2
-    },
-    "ce6679d6005": {
-      "id": "ce6679d6005",
-      "label": "Jersey aéroport perturbations drones",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-01T14:40:49Z",
-      "updated": "2026-11-01T14:40:49Z",
-      "items": [
-        {
-          "id": "59c1895c97c29236",
-          "feed": "AeroTime",
-          "title": "Jersey Airport hit by drone disruption for second consecutive night",
-          "url": "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night",
-          "domain": "aerotime.aero",
-          "summary": "Jersey Airport experienced a second evening of disruption on Saturday, 31 October, after further drone activity was reported… The post Jersey Airport hit by drone disruption for second consecutive night appeared first on AeroTime .",
-          "published": "2026-11-01T13:44:57Z"
-        }
-      ],
-      "story_id": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005",
-      "written_count": 1
     },
     "ce3ed664488": {
       "id": "ce3ed664488",
@@ -5386,10 +5368,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cadb14a8d19": {
+      "id": "cadb14a8d19",
+      "label": "CFM moteurs China Eastern 101 A320neo",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-08T14:50:48Z",
+      "updated": "2026-11-08T14:50:48Z",
+      "items": [
+        {
+          "id": "629b0b3b7aae12f8",
+          "feed": "AeroTime",
+          "title": "CFM wins engine deal for 101 China Eastern A320neo family jets",
+          "url": "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets",
+          "domain": "aerotime.aero",
+          "summary": "China Eastern Airlines has confirmed CFM International as the engine supplier for its latest Airbus narrowbody order, selecting… The post CFM wins engine deal for 101 China Eastern A320neo family jets appeared first on AeroTime .",
+          "published": "2026-11-08T14:21:34Z"
+        }
+      ],
+      "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.399044
+    "2026-11": 3.406845
   }
 }

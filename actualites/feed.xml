@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 08 Nov 2026 14:40:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 14:50:51 +0000</lastBuildDate>
+  <item>
+    <title>China Eastern choisit CFM International pour motoriser 101 Airbus de la famille A320neo</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19/</guid>
+    <pubDate>Sun, 08 Nov 2026 14:50:51 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, China Eastern Airlines a confirmé CFM International comme fournisseur de moteurs pour sa dernière commande d&#x27;Airbus monocouloirs, portant sur 101 appareils de la famille A320neo.</description>
+  </item>
   <item>
     <title>LAX : un A350 d&#x27;Air France et un A321 d&#x27;American Airlines se croisent de près après un écart au départ</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 10:40:54 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AviTrader, Bombardier a publié un chiffre d&#x27;affaires et une rentabilité en hausse au troisième trimestre 2026, et relève son objectif de flux de trésorerie disponible pour l&#x27;ensemble de l&#x27;année.</description>
-  </item>
-  <item>
-    <title>Un F-35B largue pour la première fois un missile Meteor depuis sa soute interne lors d&#x27;un essai</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5/</guid>
-    <pubDate>Fri, 06 Nov 2026 10:11:06 +0000</pubDate>
-    <category>Défense</category>
-    <description>Selon The Aviationist, un F-35B à décollage court et atterrissage vertical a largué un engin d&#x27;essai inerte du missile air-air à longue portée Meteor de MBDA depuis sa soute interne. C&#x27;est une première pour cette combinaison.</description>
   </item>
 </channel>
 </rss>

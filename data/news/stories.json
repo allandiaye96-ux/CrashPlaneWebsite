@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
+    "created": "2026-11-08T14:50:51Z",
+    "updated": "2026-11-08T14:50:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "China Eastern choisit CFM International pour motoriser 101 Airbus de la famille A320neo",
+    "chapo": "Selon AeroTime, China Eastern Airlines a confirmé CFM International comme fournisseur de moteurs pour sa dernière commande d'Airbus monocouloirs, portant sur 101 appareils de la famille A320neo.",
+    "paragraphes": [
+      "D'après AeroTime, la compagnie chinoise a arrêté son choix sur CFM International pour équiper cette commande d'avions de la famille A320neo. Le média présente ce contrat comme une victoire pour le motoriste."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "CFM wins engine deal for 101 China Eastern A320neo family jets",
+        "url": "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets",
+        "date": "2026-11-08T14:21:34Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754",
     "created": "2026-11-08T13:50:52Z",
     "updated": "2026-11-08T13:50:52Z",

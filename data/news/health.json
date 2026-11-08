@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T14:40:34Z",
+  "run": "2026-11-08T14:50:33Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.399,
+  "spend_month_usd": 3.4068,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -442,12 +442,6 @@
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
     },
     {
-      "dossier": "Jersey aéroport perturbations drones",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-01-aeroport-de-jersey-nouvelle-soiree-perturbee-par-des-drones-6005"
-    },
-    {
       "dossier": "Ryanair programme hivernal Maroc 2026-2027",
       "statut": "source_unique",
       "editeurs": 1,
@@ -842,6 +836,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5"
+    },
+    {
+      "dossier": "CFM moteurs China Eastern 101 A320neo",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
     },
     {
       "dossier": "Petit avion sur A2 Magdebourg",
