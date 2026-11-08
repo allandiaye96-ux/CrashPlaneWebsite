@@ -4786,27 +4786,6 @@
       "story_id": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24",
       "written_count": 1
     },
-    "cfd731fc2a1": {
-      "id": "cfd731fc2a1",
-      "label": "T-38C accident Alabama rapport enquête stabilisateurs",
-      "categorie": "Enquête",
-      "importance": 2,
-      "created": "2026-11-06T21:40:21Z",
-      "updated": "2026-11-06T21:40:21Z",
-      "items": [
-        {
-          "id": "49dd6753aff6517f",
-          "feed": "The Aviationist",
-          "title": "T-38C Lost Both Horizontal Stabilizers Before Crashing in Alabama, Investigation Finds",
-          "url": "https://theaviationist.com/2026/11/06/t-38c-lost-both-horizontal-stabilizers/",
-          "domain": "theaviationist.com",
-          "summary": "A U.S. Air Force Accident Investigation Board determined that maintenance errors allowed a horizontal stabilizer actuator pin to become loose, triggering aerodynamic flutter that tore both stabilizers from the T-38C that crashed on May 12, 2026. The U.S. Air Force has released on Oct. 30, 2026, the results of its investigation into the May 12, […]",
-          "published": "2026-11-06T21:35:10Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cb93a058767": {
       "id": "cb93a058767",
       "label": "Southwest 737 dommages vent gouverne NTSB",

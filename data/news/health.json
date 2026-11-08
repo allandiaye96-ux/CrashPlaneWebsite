@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-08T21:30:48Z",
+  "run": "2026-11-08T21:40:31Z",
   "stats": {
     "fetched": 692,
     "new": 0,
@@ -842,12 +842,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26"
-    },
-    {
-      "dossier": "T-38C accident Alabama rapport enquête stabilisateurs",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Southwest 737 perte moteur n°2 après décollage",
