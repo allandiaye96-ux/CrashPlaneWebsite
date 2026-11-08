@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-08T15:50:33Z",
+  "run": "2026-11-08T16:01:00Z",
   "stats": {
     "fetched": 692,
     "new": 0,
@@ -842,12 +842,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25"
-    },
-    {
-      "dossier": "Corée du Sud hélicoptères présidentiels S-92A+",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Mi-28 tir de missile de croisière",
