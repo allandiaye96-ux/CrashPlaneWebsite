@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-08T00:20:32Z",
+  "run": "2026-11-08T00:30:47Z",
   "stats": {
     "fetched": 699,
     "new": 0,
@@ -824,12 +824,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
-    },
-    {
-      "dossier": "HMS Queen Elizabeth essais drones Tekever AR5 et Nyan",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Accident R44 baie de Biscayne",
