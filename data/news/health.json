@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T18:01:01Z",
+  "run": "2026-11-08T18:10:34Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.417,
+  "spend_month_usd": 3.4285,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -842,6 +842,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25"
+    },
+    {
+      "dossier": "Philippine Airlines nouvelle liaison long-courrier 17 h vers les États-Unis",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26"
     },
     {
       "dossier": "T-38C accident Alabama rapport enquête stabilisateurs",

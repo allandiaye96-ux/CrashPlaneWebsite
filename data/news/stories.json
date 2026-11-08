@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26",
+    "created": "2026-11-08T18:10:54Z",
+    "updated": "2026-11-08T18:10:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Philippine Airlines lance une nouvelle liaison sans escale de 17 heures vers les États-Unis",
+    "chapo": "Philippine Airlines ouvre une nouvelle route directe vers les États-Unis, d'une durée de 17 heures, selon Simple Flying. Le site présente l'Amérique du Nord comme un marché de plus en plus important pour la compagnie.",
+    "paragraphes": [
+      "Le média spécialisé qualifie cette desserte de nouvelle route majeure, assurée sans escale et d'une durée de 17 heures.",
+      "D'après Simple Flying, cette ouverture s'inscrit dans l'importance croissante que prend le marché nord-américain pour le transporteur philippin."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Philippine Airlines Launches Major New 17-Hour Nonstop US Route: See Map Now",
+        "url": "https://simpleflying.com/philippine-airlines-launches-new-17-hour-us-route-1-day/",
+        "date": "2026-11-08T18:01:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25",
     "created": "2026-11-08T15:10:48Z",
     "updated": "2026-11-08T15:10:48Z",

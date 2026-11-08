@@ -1342,7 +1342,9 @@
     "https://leehamnews.com/2026/10/29/would-an-a330-900f-make-sense-part-4-the-boeing-alternative/": "2026-11-08T15:50:33Z",
     "https://www.aerotime.aero/articles/honeywell-aerospace-q3-2026-results-parts-shortages": "2026-11-08T17:01:00Z",
     "https://www.aerotime.aero/articles/uk-rolls-royce-engine-future-narrowbody-fleet": "2026-11-08T17:01:00Z",
-    "https://simpleflying.com/true-air-force-one-pilots-earn-215k-big-3-widebody-captains-480k/": "2026-11-08T17:20:33Z"
+    "https://simpleflying.com/true-air-force-one-pilots-earn-215k-big-3-widebody-captains-480k/": "2026-11-08T17:20:33Z",
+    "https://simpleflying.com/airbus-a350-cockpit-shares-dna-worlds-largest-passenger-jet/": "2026-11-08T18:10:34Z",
+    "https://simpleflying.com/philippine-airlines-launches-new-17-hour-us-route-1-day/": "2026-11-08T18:10:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5289,10 +5291,31 @@
       ],
       "story_id": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25",
       "written_count": 1
+    },
+    "c5d23a87c26": {
+      "id": "c5d23a87c26",
+      "label": "Philippine Airlines nouvelle liaison long-courrier 17 h vers les États-Unis",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-08T18:10:48Z",
+      "updated": "2026-11-08T18:10:48Z",
+      "items": [
+        {
+          "id": "179e308e715ee761",
+          "feed": "Simple Flying",
+          "title": "Philippine Airlines Launches Major New 17-Hour Nonstop US Route: See Map Now",
+          "url": "https://simpleflying.com/philippine-airlines-launches-new-17-hour-us-route-1-day/",
+          "domain": "simpleflying.com",
+          "summary": "North America is becoming an increasingly important market for the carrier.",
+          "published": "2026-11-08T18:01:18Z"
+        }
+      ],
+      "story_id": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.417029
+    "2026-11": 3.428488
   }
 }
