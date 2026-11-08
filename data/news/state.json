@@ -4820,27 +4820,6 @@
       "story_id": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767",
       "written_count": 2
     },
-    "cc9493b7187": {
-      "id": "cc9493b7187",
-      "label": "Southwest 737 perte moteur n°2 après décollage",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-06T23:31:02Z",
-      "updated": "2026-11-06T23:31:02Z",
-      "items": [
-        {
-          "id": "9ac2c8046ba1ac94",
-          "feed": "Simple Flying",
-          "title": "19-Year-Old Southwest Airlines Boeing 737 Loses #2 Engine After Takeoff, Declares Emergency",
-          "url": "https://simpleflying.com/19-year-old-southwest-airlines-boeing-737-loses-engine-takeoff-emergency/",
-          "domain": "simpleflying.com",
-          "summary": "N281WN the carrier's 500th 737 circled over the South Bay as pilots ran emergency checklists and prepared for a single‑engine return.",
-          "published": "2026-11-06T23:23:01Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cb2f32144a8": {
       "id": "cb2f32144a8",
       "label": "Boeing 777-9 calendrier certification livraison mi-2027",

@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-08T23:30:48Z",
+  "run": "2026-11-08T23:40:36Z",
   "stats": {
     "fetched": 692,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -842,12 +842,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26"
-    },
-    {
-      "dossier": "Southwest 737 perte moteur n°2 après décollage",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Quasi-collision au roulage Miami 787/747-8 Lufthansa",
