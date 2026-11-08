@@ -1410,7 +1410,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=7D9062F9-9A33-4FFC-A6B6-C46C48B556FB": "2026-11-08T10:10:31Z",
     "https://www.air-journal.fr/2026-11-08-turbulences-en-avion-une-application-aide-les-passagers-a-preparer-leur-vol-5278728.html": "2026-11-08T10:10:31Z",
     "https://simpleflying.com/5-degree-rule-that-now-governs-every-737-max-takeoff-boeing-mcas-rewrite/": "2026-11-08T10:20:31Z",
-    "https://www.air-journal.fr/2026-11-08-iag-reduit-ses-ambitions-pour-2026-et-prevoit-une-legere-baisse-de-sa-capacite-5278733.html": "2026-11-08T11:20:32Z"
+    "https://www.air-journal.fr/2026-11-08-iag-reduit-ses-ambitions-pour-2026-et-prevoit-une-legere-baisse-de-sa-capacite-5278733.html": "2026-11-08T11:20:32Z",
+    "https://simpleflying.com/5-airbus-a321xlr-routes-replacing-widebody-aircraft/": "2026-11-08T12:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5433,6 +5434,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.384427
+    "2026-11": 3.385219
   }
 }
