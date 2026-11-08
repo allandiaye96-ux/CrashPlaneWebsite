@@ -1408,7 +1408,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=EAA2A96D-3FE2-4F9C-B0AE-E58B7F8C397C": "2026-11-08T10:10:31Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=1EBCA918-486D-4946-B4DE-7FF4A42D93F2": "2026-11-08T10:10:31Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=7D9062F9-9A33-4FFC-A6B6-C46C48B556FB": "2026-11-08T10:10:31Z",
-    "https://www.air-journal.fr/2026-11-08-turbulences-en-avion-une-application-aide-les-passagers-a-preparer-leur-vol-5278728.html": "2026-11-08T10:10:31Z"
+    "https://www.air-journal.fr/2026-11-08-turbulences-en-avion-une-application-aide-les-passagers-a-preparer-leur-vol-5278728.html": "2026-11-08T10:10:31Z",
+    "https://simpleflying.com/5-degree-rule-that-now-governs-every-737-max-takeoff-boeing-mcas-rewrite/": "2026-11-08T10:20:31Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4573,90 +4574,6 @@
       "story_id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
       "written_count": 3
     },
-    "c4fff5c93c6": {
-      "id": "c4fff5c93c6",
-      "label": "Accident R44 baie de Biscayne",
-      "categorie": "Accident",
-      "importance": 2,
-      "created": "2026-11-06T10:10:54Z",
-      "updated": "2026-11-06T10:10:54Z",
-      "items": [
-        {
-          "id": "92fb851c86e74bdf",
-          "feed": "Aero-News Network",
-          "title": "Helicopter Down In Biscayne Bay, One Dead",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=3A8A12D5-C858-4B76-820D-E1B4A2BB910D",
-          "domain": "aero-news.net",
-          "summary": "Two Injured And Transported To Hospital Two people were injured and one person was killed when a helicopter went down into Biscayne Bay off Key Biscayne on Wednesday morning. The FAA said a Robinson R44 helicopter went down in the water east of Miami Executive Airport in Florida around 11:15 a.m. local time on Wednesday, Nov. 4. Three people were on board. The FAA and the National Transportation Safety Board will investigate. The NTSB will lead the investigation and provide all updates. According to the Miami-Dade County Sheriff's Office, the helicopter went down as the occupants, who have only been identified as three adult males, were taking photos or videos of boats near Bill Baggs State ",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
-    "cff2995016b": {
-      "id": "cff2995016b",
-      "label": "Premier vol prototype HADES",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-06T10:10:54Z",
-      "updated": "2026-11-06T10:10:54Z",
-      "items": [
-        {
-          "id": "59d14f8fa8d50aae",
-          "feed": "Aero-News Network",
-          "title": "HADES Reconnaissance Aircraft Prototype Makes First Flight",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=C4F41C8A-2238-49B7-AE44-8212C0418EC0",
-          "domain": "aero-news.net",
-          "summary": "Supports Army’s Effort To Modernize Aerial Intelligence, Surveillance, And Reconnaissance Capabilities The first HADES reconnaissance aircraft prototype completed its maiden flight as part of the U.S. Army’s effort to modernize its aerial intelligence capabilities. The Army marked a major milestone in its aerial intelligence modernization effort with the High Accuracy Detection and Exploitation System, or HADES, Prototype 1 aircraft’s first flight, Sept. 11. The Fixed Wing Project Office, working with industry partner Sierra Nevada Corporation, led the activities for the flight, following completion of a flight readiness review. The event moves the HADES program to the next phase of mission ",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
-    "ccad1ff78f2": {
-      "id": "ccad1ff78f2",
-      "label": "Alerte NTSB soupapes bloquées moteurs à pistons",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-06T10:10:54Z",
-      "updated": "2026-11-06T10:10:54Z",
-      "items": [
-        {
-          "id": "54b758dc9b05cf87",
-          "feed": "Aero-News Network",
-          "title": "NTSB Safety Alert Warns Of Stuck Valves In Piston Engines",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=EA663800-F733-4698-98A5-BA45619DAFBA",
-          "domain": "aero-news.net",
-          "summary": "Agency Cites 42 Accidents From 2015 To 2025 A safety alert on stuck engine valves in piston aircraft states that, from 2015 to 2025, investigators examined 42 accidents in which a stuck valve led to a loss of power and an accident. Those accidents resulted in five fatalities and 12 serious injuries. The FAA says a sticking (or stuck) valve in reciprocating piston engines can interrupt the combustion cycle, causing severe vibration and a partial loss of engine power. Depending on where the valve sticks within the valve guide, pushrods can also bend. Valves stick due to the accumulation of deposits on the valve stem and/or valve guide. Factors that contribute to this accumulation include local",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
-    "c0b981a03d8": {
-      "id": "c0b981a03d8",
-      "label": "Joby Gets Additional Funding From The Air Force",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-06T10:10:54Z",
-      "updated": "2026-11-06T10:10:54Z",
-      "items": [
-        {
-          "id": "d3aad6a042f19c7b",
-          "feed": "Aero-News Network",
-          "title": "Joby Gets Additional Funding From The Air Force",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=9CF4762C-7E3B-4D90-8093-CC9D2D1A0ADB",
-          "domain": "aero-news.net",
-          "summary": "New Commitment To Nearly $37 Million Joby Aviation has announced that the U.S. Air Force has awarded additional funding to accelerate Joby’s autonomous flight technology, bringing the Air Force’s total commitment to nearly $37 million and raising the ceiling on Joby’s operational testing contract to $50 million. Awarded through AFWERX, the innovation arm of the U.S. Air Force, the funding supports continued development of Joby’s autonomy software and expanded operational testing in the Pacific, as the Air Force moves toward sustained autonomous logistics operations. This additional funding builds on Joby’s long-standing partnership with AFWERX and reflects continued Air Force momentum behind",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c5ca10c2fb8": {
       "id": "c5ca10c2fb8",
       "label": "Bombardier relève prévisions cash flow 2026",
@@ -5515,6 +5432,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.367091
+    "2026-11": 3.367878
   }
 }

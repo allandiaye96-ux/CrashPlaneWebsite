@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T10:10:31Z",
+  "run": "2026-11-08T10:20:31Z",
   "stats": {
     "fetched": 692,
-    "new": 12,
-    "written": 3,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.3671,
+  "spend_month_usd": 3.3679,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -836,30 +836,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970"
-    },
-    {
-      "dossier": "Accident R44 baie de Biscayne",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Premier vol prototype HADES",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Alerte NTSB soupapes bloquées moteurs à pistons",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Joby Gets Additional Funding From The Air Force",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "OTAN marché anti-drones",
