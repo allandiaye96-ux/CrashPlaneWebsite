@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T12:30:49Z",
+  "run": "2026-11-08T12:40:32Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.386,
+  "spend_month_usd": 3.3869,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -844,12 +844,6 @@
       "breve": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5"
     },
     {
-      "dossier": "Menaces à la bombe vols Prague novembre 2026",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Petit avion sur A2 Magdebourg",
       "statut": "signale",
       "editeurs": 1,
@@ -911,6 +905,12 @@
     },
     {
       "dossier": "Quasi-collision LAX Air France A350 American A321",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "DGA commande drone U010 Aliaca VTOL Airbus",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
