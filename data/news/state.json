@@ -4697,27 +4697,6 @@
       "story_id": "2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8",
       "written_count": 1
     },
-    "cb30b68fc6a": {
-      "id": "cb30b68fc6a",
-      "label": "Mi-28 tir de missile de croisière",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-06T17:31:13Z",
-      "updated": "2026-11-06T17:31:13Z",
-      "items": [
-        {
-          "id": "8928f02b87a5f548",
-          "feed": "The War Zone",
-          "title": "Russian Mi-28 Attack Helicopter Fires Cruise Missile",
-          "url": "https://www.twz.com/air/russian-mi-28-attack-helicopter-fires-cruise-missile",
-          "domain": "twz.com",
-          "summary": "New footage highlights Russia’s push to field lower-cost standoff weapons from unconventional platforms. The post Russian Mi-28 Attack Helicopter Fires Cruise Missile appeared first on TWZ .",
-          "published": "2026-11-06T17:30:11Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cdd1b7ed24a": {
       "id": "cdd1b7ed24a",
       "label": "Allegiant levée d'options 737 MAX 8",
