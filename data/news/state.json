@@ -1409,7 +1409,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=1EBCA918-486D-4946-B4DE-7FF4A42D93F2": "2026-11-08T10:10:31Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=7D9062F9-9A33-4FFC-A6B6-C46C48B556FB": "2026-11-08T10:10:31Z",
     "https://www.air-journal.fr/2026-11-08-turbulences-en-avion-une-application-aide-les-passagers-a-preparer-leur-vol-5278728.html": "2026-11-08T10:10:31Z",
-    "https://simpleflying.com/5-degree-rule-that-now-governs-every-737-max-takeoff-boeing-mcas-rewrite/": "2026-11-08T10:20:31Z"
+    "https://simpleflying.com/5-degree-rule-that-now-governs-every-737-max-takeoff-boeing-mcas-rewrite/": "2026-11-08T10:20:31Z",
+    "https://www.air-journal.fr/2026-11-08-iag-reduit-ses-ambitions-pour-2026-et-prevoit-une-legere-baisse-de-sa-capacite-5278733.html": "2026-11-08T11:20:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4616,27 +4617,6 @@
       "story_id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
       "written_count": 1
     },
-    "cf8b8c2de41": {
-      "id": "cf8b8c2de41",
-      "label": "OTAN marché anti-drones",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-06T11:10:49Z",
-      "updated": "2026-11-06T11:10:49Z",
-      "items": [
-        {
-          "id": "7c6a5a93f9ea84d4",
-          "feed": "AeroTime",
-          "title": "NATO opens counter-drone marketplace with 16 systems from five companies",
-          "url": "https://www.aerotime.aero/articles/nato-counter-drone-marketplace-16-systems",
-          "domain": "aerotime.aero",
-          "summary": "NATO launched a counter-drone marketplace on November 5, 2026, enabling allied countries to order from a catalog of 16… The post NATO opens counter-drone marketplace with 16 systems from five companies appeared first on AeroTime .",
-          "published": "2026-11-06T10:55:23Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c9e1d18a454": {
       "id": "c9e1d18a454",
       "label": "Airbus objectif livraisons fin 2026",
@@ -5428,10 +5408,31 @@
       ],
       "story_id": "2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970",
       "written_count": 1
+    },
+    "c1652cb2bb5": {
+      "id": "c1652cb2bb5",
+      "label": "IAG réduit capacité 2026 Moyen-Orient",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-08T11:20:45Z",
+      "updated": "2026-11-08T11:20:45Z",
+      "items": [
+        {
+          "id": "440f689199aaa9e6",
+          "feed": "Air Journal",
+          "title": "IAG réduit ses ambitions pour 2026 et prévoit une légère baisse de sa capacité",
+          "url": "https://www.air-journal.fr/2026-11-08-iag-reduit-ses-ambitions-pour-2026-et-prevoit-une-legere-baisse-de-sa-capacite-5278733.html",
+          "domain": "air-journal.fr",
+          "summary": "IAG, maison mère de British Airways, Iberia, Aer Lingus et Vueling, prévoit désormais une capacité légèrement inférieure à celle de 2025. Le groupe anglo-espagnol invoque les perturbations au Moyen-Orient et des ajustements de son programme hivernal destinés à préserver sa rentabilité. Malgré une hausse de son chiffre d’affaires au troisième trimestre, l’envolée de la facture […]",
+          "published": "2026-11-08T11:00:21Z"
+        }
+      ],
+      "story_id": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.367878
+    "2026-11": 3.384427
   }
 }

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 08 Nov 2026 11:10:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 11:20:51 +0000</lastBuildDate>
+  <item>
+    <title>IAG prévoit une capacité 2026 légèrement inférieure à celle de 2025, selon Air Journal</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5/</guid>
+    <pubDate>Sun, 08 Nov 2026 11:20:51 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Air Journal, le groupe IAG revoit à la baisse ses ambitions et anticipe désormais une offre en sièges un peu en retrait par rapport à 2025.</description>
+  </item>
   <item>
     <title>Eve Air Mobility et FlyBIS signent un accord ferme pour jusqu&#x27;à 12 eVTOL dans le sud du Brésil</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 09:10:56 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>L&#x27;Airbus A320 ATRA, laboratoire volant équipé d&#x27;un nez de Eurofighter, a terminé ses vols de mise en service sur le site d&#x27;Airbus de Manching, en Allemagne, selon Airbus. AeroTime indique que l&#x27;appareil vole avec le nouveau radar du chasseur.</description>
-  </item>
-  <item>
-    <title>IAG : la hausse du prix du kérosène pèse sur le bénéfice du troisième trimestre</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb/</guid>
-    <pubDate>Fri, 06 Nov 2026 09:01:39 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon aero.de et airliners.de, la maison mère de British Airways, IAG, a vu son bénéfice reculer au troisième trimestre, en raison de la forte hausse des prix du kérosène.</description>
   </item>
 </channel>
 </rss>

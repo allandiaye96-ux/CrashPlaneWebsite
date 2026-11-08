@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5",
+    "created": "2026-11-08T11:20:51Z",
+    "updated": "2026-11-08T11:20:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "IAG prévoit une capacité 2026 légèrement inférieure à celle de 2025, selon Air Journal",
+    "chapo": "Selon Air Journal, le groupe IAG revoit à la baisse ses ambitions et anticipe désormais une offre en sièges un peu en retrait par rapport à 2025.",
+    "paragraphes": [
+      "Le groupe anglo-espagnol, qui réunit notamment British Airways, Iberia, Aer Lingus et Vueling, met en avant deux raisons, d'après Air Journal : les perturbations touchant le Moyen-Orient et des modifications de son programme d'hiver, pensées pour protéger sa rentabilité.",
+      "Le média précise que le chiffre d'affaires du groupe a progressé au troisième trimestre. Il évoque aussi l'envolée de la facture, dont l'extrait disponible ne détaille pas la nature."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "IAG réduit ses ambitions pour 2026 et prévoit une légère baisse de sa capacité",
+        "url": "https://www.air-journal.fr/2026-11-08-iag-reduit-ses-ambitions-pour-2026-et-prevoit-une-legere-baisse-de-sa-capacite-5278733.html",
+        "date": "2026-11-08T11:00:21Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970",
     "created": "2026-11-08T10:11:05Z",
     "updated": "2026-11-08T10:11:05Z",

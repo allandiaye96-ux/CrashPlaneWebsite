@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T11:10:33Z",
+  "run": "2026-11-08T11:20:32Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.3679,
+  "spend_month_usd": 3.3844,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -838,10 +838,10 @@
       "breve": "2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970"
     },
     {
-      "dossier": "OTAN marché anti-drones",
-      "statut": "signale",
+      "dossier": "IAG réduit capacité 2026 Moyen-Orient",
+      "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5"
     },
     {
       "dossier": "Menaces à la bombe vols Prague novembre 2026",
