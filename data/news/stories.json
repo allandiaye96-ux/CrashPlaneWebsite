@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25",
+    "created": "2026-11-08T15:10:48Z",
+    "updated": "2026-11-08T15:10:48Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "TUI fly Belgium supprime 17 destinations pour l'été 2027 mais veut augmenter ses capacités",
+    "chapo": "Selon Air Journal, TUI fly Belgium va remanier en profondeur son programme estival 2027 au départ de Bruxelles-Zaventem, avec 17 destinations supprimées et quatre nouvelles.",
+    "paragraphes": [
+      "D'après Air Journal, la compagnie belge retire 17 destinations de son offre pour l'été 2027, tandis que quatre autres viendront s'ajouter à son programme au départ de Brussels Airport.",
+      "Malgré cette réduction du nombre de destinations, la compagnie entend accroître ses capacités. Elle prévoit pour cela de renforcer les fréquences vers les destinations qu'elle conserve."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Moins de destinations, plus de vols : TUI fly Belgium revoit son réseau pour 2027",
+        "url": "https://www.air-journal.fr/2026-11-08-moins-de-destinations-plus-de-vols-tui-fly-belgium-revoit-son-reseau-pour-2027-5278736.html",
+        "date": "2026-11-08T15:00:25Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
     "created": "2026-11-08T14:50:51Z",
     "updated": "2026-11-08T14:50:51Z",

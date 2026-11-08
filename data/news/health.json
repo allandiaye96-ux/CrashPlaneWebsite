@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T15:00:59Z",
+  "run": "2026-11-08T15:10:33Z",
   "stats": {
     "fetched": 692,
-    "new": 2,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.4077,
+  "spend_month_usd": 3.4162,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -844,10 +844,10 @@
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
     },
     {
-      "dossier": "Petit avion sur A2 Magdebourg",
-      "statut": "signale",
+      "dossier": "TUI fly Belgium réseau été 2027",
+      "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25"
     },
     {
       "dossier": "Corée du Sud hélicoptères présidentiels S-92A+",

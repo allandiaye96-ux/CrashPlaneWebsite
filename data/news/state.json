@@ -1381,7 +1381,8 @@
     "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets": "2026-11-08T14:50:33Z",
     "https://www.aerotime.aero/articles/israels-israir-eyes-rival-arkia-acquisition": "2026-11-08T14:50:33Z",
     "https://simpleflying.com/why-some-boeing-787-9-offer-first-class-others-stop-business/": "2026-11-08T15:00:59Z",
-    "https://simpleflying.com/why-the-us-worried-about-canada-europe-aircraft-manufacturing-talks/": "2026-11-08T15:00:59Z"
+    "https://simpleflying.com/why-the-us-worried-about-canada-europe-aircraft-manufacturing-talks/": "2026-11-08T15:00:59Z",
+    "https://www.air-journal.fr/2026-11-08-moins-de-destinations-plus-de-vols-tui-fly-belgium-revoit-son-reseau-pour-2027-5278736.html": "2026-11-08T15:10:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4672,27 +4673,6 @@
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
       "written_count": 2
     },
-    "cad877564d4": {
-      "id": "cad877564d4",
-      "label": "Petit avion sur A2 Magdebourg",
-      "categorie": "Accident",
-      "importance": 2,
-      "created": "2026-11-06T15:01:40Z",
-      "updated": "2026-11-06T15:01:40Z",
-      "items": [
-        {
-          "id": "3ed8431a3487fbbb",
-          "feed": "aero.de",
-          "title": "Kleinflugzeug auf A2 verunglückt",
-          "url": "https://www.aero.de/news-54113/Kleinflugzeug-auf-A2-verunglueckt.html",
-          "domain": "aero.de",
-          "summary": "MAGDEBURG - Ein kleines Flugzeug ist auf der A2 nordöstlich von Magdeburg verunglückt. Wie viele Menschen zu Schaden gekommen sind, ist noch unklar.",
-          "published": "2026-11-06T14:56:41Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c72816b1bb3": {
       "id": "c72816b1bb3",
       "label": "Corée du Sud hélicoptères présidentiels S-92A+",
@@ -5391,10 +5371,31 @@
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
       "written_count": 1
+    },
+    "cad1dd58c25": {
+      "id": "cad1dd58c25",
+      "label": "TUI fly Belgium réseau été 2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-08T15:10:45Z",
+      "updated": "2026-11-08T15:10:45Z",
+      "items": [
+        {
+          "id": "6c39a88b201b9280",
+          "feed": "Air Journal",
+          "title": "Moins de destinations, plus de vols : TUI fly Belgium revoit son réseau pour 2027",
+          "url": "https://www.air-journal.fr/2026-11-08-moins-de-destinations-plus-de-vols-tui-fly-belgium-revoit-son-reseau-pour-2027-5278736.html",
+          "domain": "air-journal.fr",
+          "summary": "TUI fly Belgium va profondément remanier son programme estival 2027 : 17 destinations seront supprimées, tandis que quatre autres rejoindront son offre au départ de Bruxelles-Zaventem (Brussels Airport). La compagnie aérienne entend néanmoins augmenter ses capacités en renforçant les fréquences vers les destinations conservées. Cette réorganisation intervient alors que la maison mère, le groupe allemand […]",
+          "published": "2026-11-08T15:00:25Z"
+        }
+      ],
+      "story_id": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.407667
+    "2026-11": 3.416227
   }
 }

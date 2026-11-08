@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 08 Nov 2026 15:01:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 15:10:49 +0000</lastBuildDate>
+  <item>
+    <title>TUI fly Belgium supprime 17 destinations pour l&#x27;été 2027 mais veut augmenter ses capacités</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25/</guid>
+    <pubDate>Sun, 08 Nov 2026 15:10:48 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Air Journal, TUI fly Belgium va remanier en profondeur son programme estival 2027 au départ de Bruxelles-Zaventem, avec 17 destinations supprimées et quatre nouvelles.</description>
+  </item>
   <item>
     <title>China Eastern choisit CFM International pour motoriser 101 Airbus de la famille A320neo</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 11:01:22 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Qantas met en service une nouvelle route sans escale de 15 heures depuis Sydney, qualifiée d&#x27;historique par le site spécialisé.</description>
-  </item>
-  <item>
-    <title>Bombardier relève sa prévision de flux de trésorerie 2026 après un troisième trimestre solide</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-bombardier-releve-sa-prevision-de-flux-de-tresorerie-2026-ap-2fb8/</guid>
-    <pubDate>Fri, 06 Nov 2026 10:40:54 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon AviTrader, Bombardier a publié un chiffre d&#x27;affaires et une rentabilité en hausse au troisième trimestre 2026, et relève son objectif de flux de trésorerie disponible pour l&#x27;ensemble de l&#x27;année.</description>
   </item>
 </channel>
 </rss>
