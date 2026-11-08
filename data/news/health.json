@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T05:50:32Z",
+  "run": "2026-11-08T06:01:01Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.3188,
+  "spend_month_usd": 3.3196,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -911,6 +911,12 @@
     },
     {
       "dossier": "Pistorius décision avion de combat après fin FCAS",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
