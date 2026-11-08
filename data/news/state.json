@@ -1375,7 +1375,8 @@
     "https://www.airbus.com/en/newsroom/stories/2026-10-the-u010-aliaca-drone-goes-vertical": "2026-11-08T12:40:32Z",
     "https://www.air-journal.fr/2026-11-08-les-couts-de-paiement-augmentent-plus-vite-que-les-ventes-des-compagnies-aeriennes-5278739.html": "2026-11-08T13:01:00Z",
     "https://simpleflying.com/video/us-fines-air-france-klm-for-flying-delta-codeshares-too-low-over-iraqi-conflict-zone/": "2026-11-08T13:30:53Z",
-    "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax": "2026-11-08T13:50:33Z"
+    "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax": "2026-11-08T13:50:33Z",
+    "https://www.air-journal.fr/2026-11-08-paris-orly-le-desistement-de-ryanair-ouvre-la-voie-a-quatre-nouveaux-transporteurs-5278738.html": "2026-11-08T14:01:01Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5389,6 +5390,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.398216
+    "2026-11": 3.399044
   }
 }
