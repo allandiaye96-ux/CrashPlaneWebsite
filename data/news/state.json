@@ -1541,45 +1541,6 @@
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
       "written_count": 4
     },
-    "c28fdb8ecca": {
-      "id": "c28fdb8ecca",
-      "label": "Archer et ITA Airways réseau taxi aérien Italie",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-10-30T10:10:48Z",
-      "updated": "2026-11-01T13:01:07Z",
-      "items": [
-        {
-          "id": "9c6142962cdf501b",
-          "feed": "AviTrader",
-          "title": "Archer and ITA Airways plan Italian air taxi network",
-          "url": "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/",
-          "domain": "avitrader.com",
-          "summary": "Archer Aviation and ITA Airways have signed an agreement to develop an all-electric air taxi network in Italy, targeting major cities across the country. The partnership will use Archer’s Midnight electric vertical take-off and landing (eVTOL) aircraft. ITA Airways, Italy’s flag carrier and a member of the Lufthansa Group, serves more than 70 destinations worldwide […] The post Archer and ITA Airways plan Italian air taxi network appeared first on AviTrader Aviation News .",
-          "published": "2026-10-30T10:06:10Z"
-        },
-        {
-          "id": "19ed0efe488bdf69",
-          "feed": "AeroTime",
-          "title": "Archer Aviation and ITA Airways unveil plan to bring air taxi network to Italy",
-          "url": "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol",
-          "domain": "aerotime.aero",
-          "summary": "Archer Aviation and ITA Airways are teaming up to develop an electric vehicle takeoff and landing (eVTOL) network,… The post Archer Aviation and ITA Airways unveil plan to bring air taxi network to Italy appeared first on AeroTime .",
-          "published": "2026-10-30T11:41:54Z"
-        },
-        {
-          "id": "5d933839a4db7305",
-          "feed": "Air Journal",
-          "title": "Archer et ITA Airways s’allient pour développer les taxis volants électriques en Italie",
-          "url": "https://www.air-journal.fr/2026-11-01-archer-et-ita-airways-sallient-pour-developper-les-taxis-volants-electriques-en-italie-5278615.html",
-          "domain": "air-journal.fr",
-          "summary": "Archer Aviation et ITA Airways ont annoncé un partenariat visant à développer un réseau de taxis aériens électriques dans les grandes villes italiennes. Le projet repose sur le Midnight, l’appareil à décollage et atterrissage verticaux du constructeur américain. Les deux partenaires souhaitent étudier le déploiement de services de mobilité aérienne électrique pour compléter les transports […]",
-          "published": "2026-11-01T13:00:07Z"
-        }
-      ],
-      "story_id": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca",
-      "written_count": 3
-    },
     "ca4d5c1ab5a": {
       "id": "ca4d5c1ab5a",
       "label": "LOT dernier vol Embraer E170",

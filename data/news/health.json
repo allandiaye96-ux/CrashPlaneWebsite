@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-08T13:01:00Z",
+  "run": "2026-11-08T13:10:34Z",
   "stats": {
     "fetched": 692,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -206,12 +206,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
-    },
-    {
-      "dossier": "Archer et ITA Airways réseau taxi aérien Italie",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-30-archer-aviation-et-ita-airways-s-associent-pour-un-reseau-de-ecca"
     },
     {
       "dossier": "LOT dernier vol Embraer E170",
