@@ -1408,7 +1408,8 @@
     "https://www.aero.de/news-53962/United-Airlines-A321XLR.html": "2026-11-08T05:40:33Z",
     "https://simpleflying.com/evolution-airplane-window-design/": "2026-11-08T06:01:01Z",
     "https://www.air-journal.fr/2026-11-08-fausses-alertes-a-la-bombe-paris-enquete-sur-une-eventuelle-implication-etrangere-5278724.html": "2026-11-08T06:01:01Z",
-    "https://www.airliners.de/personal-karriere-condor-tarifkommission-piloten-arbeitskosten-ryanair-nullrunde/91386": "2026-11-08T06:20:33Z"
+    "https://www.airliners.de/personal-karriere-condor-tarifkommission-piloten-arbeitskosten-ryanair-nullrunde/91386": "2026-11-08T06:20:33Z",
+    "https://www.air-journal.fr/2026-11-08-air-arabia-maroc-a-125-metres-au-dessus-de-la-mer-un-airbus-a320-a-frole-la-catastrophe-a-catane-5278726.html": "2026-11-08T07:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5430,10 +5431,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cc2e38be887": {
+      "id": "cc2e38be887",
+      "label": "Rapport ANSV A320 Air Arabia Maroc Catane",
+      "categorie": "Enquête",
+      "importance": 2,
+      "created": "2026-11-08T07:01:15Z",
+      "updated": "2026-11-08T07:01:15Z",
+      "items": [
+        {
+          "id": "226cdf2a32910817",
+          "feed": "Air Journal",
+          "title": "Air Arabia Maroc : à 12,5 mètres au-dessus de la mer, un Airbus A320 a frôlé la catastrophe à Catane",
+          "url": "https://www.air-journal.fr/2026-11-08-air-arabia-maroc-a-125-metres-au-dessus-de-la-mer-un-airbus-a320-a-frole-la-catastrophe-a-catane-5278726.html",
+          "domain": "air-journal.fr",
+          "summary": "Un Airbus A320 d’Air Arabia Maroc est descendu jusqu’à 12,5 mètres au-dessus de la mer, quelques secondes après son décollage de Catane-Fontanarossa, en Italie, le 20 septembre 2025. Selon les conclusions du rapport final de l’ANSV publiées le 6 novembre 2026, une succession d’erreurs de pilotage, la pression liée à la fermeture imminente de la […]",
+          "published": "2026-11-08T07:00:02Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.320385
+    "2026-11": 3.3212
   }
 }
