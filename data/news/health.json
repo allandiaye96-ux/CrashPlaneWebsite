@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T10:00:56Z",
+  "run": "2026-11-08T10:10:31Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 12,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.3245,
+  "spend_month_usd": 3.3671,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -102,7 +102,7 @@
     {
       "dossier": "Avolon commande 140 Boeing 737-10",
       "statut": "corrobore",
-      "editeurs": 7,
+      "editeurs": 8,
       "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
@@ -428,6 +428,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767"
+    },
+    {
+      "dossier": "Rapport ANSV A320 Air Arabia Maroc Catane",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-08-aerfin-acquiert-44-boeing-737ng-aupres-de-qantas-sa-plus-imp-e887"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
@@ -826,6 +832,12 @@
       "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
     },
     {
+      "dossier": "Eve Air Mobility And FlyBIS Sign eVTOL Deal",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970"
+    },
+    {
       "dossier": "Accident R44 baie de Biscayne",
       "statut": "signale",
       "editeurs": 1,
@@ -917,12 +929,6 @@
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Rapport ANSV A320 Air Arabia Maroc Catane",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

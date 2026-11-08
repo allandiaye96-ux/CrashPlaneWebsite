@@ -1,5 +1,158 @@
 [
   {
+    "id": "2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970",
+    "created": "2026-11-08T10:11:05Z",
+    "updated": "2026-11-08T10:11:05Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Eve Air Mobility et FlyBIS signent un accord ferme pour jusqu'à 12 eVTOL dans le sud du Brésil",
+    "chapo": "Selon Aero-News Network, Eve Air Mobility et FlyBIS Aviation Limited ont annoncé un accord contraignant portant sur un maximum de 12 aéronefs eVTOL. Il comprend deux commandes fermes et des droits d'achat pour dix appareils supplémentaires.",
+    "paragraphes": [
+      "D'après Aero-News Network, cet accord fait suite à la lettre d'intention que les deux entreprises avaient annoncée en 2022. Il prolonge leur collaboration visant à mettre en place des opérations de mobilité aérienne électrique au Brésil.",
+      "FlyBIS prévoit de déployer les eVTOL d'Eve dans le sud du pays, en reliant dans un premier temps des destinations de l'État de Santa Catarina et du Rio Grande do Sul. Selon le média, Eve et FlyBIS vont poursuivre leurs travaux sur les exigences nécessaires à l'entrée en service."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Eve Air Mobility And FlyBIS Sign eVTOL Deal",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=3CB40DCF-6EC1-4FEB-B60A-ECB57BC20E92",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-08-aerfin-acquiert-44-boeing-737ng-aupres-de-qantas-sa-plus-imp-e887",
+    "created": "2026-11-08T10:11:02Z",
+    "updated": "2026-11-08T10:11:02Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "AerFin acquiert 44 Boeing 737NG auprès de Qantas, sa plus importante transaction à ce jour",
+    "chapo": "Selon Aero-News Network, le spécialiste du marché secondaire AerFin a convenu de racheter 44 appareils à Qantas. Il s'agit de la plus grande opération de l'histoire de l'entreprise.",
+    "paragraphes": [
+      "L'accord porte sur 44 Boeing 737NG et 88 moteurs CFM56-7B. Le transfert des appareils doit s'échelonner sur sept ans, d'après Aero-News Network.",
+      "AerFin présente l'opération comme une étape majeure de son développement, qui conforte sa position d'acteur mondial de l'aftermarket aéronautique. L'acquisition doit renforcer le soutien aux compagnies aériennes et aux clients de la maintenance, réparation et révision (MRO), avec un accès à des pièces de qualité et à des solutions sur mesure.",
+      "La transaction illustre aussi l'implantation croissante d'AerFin en Asie-Pacifique."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "AerFin Has Agreed To Acquire 44 Aircraft From Qantas",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=CF901330-598B-404D-A1B3-07961FD9E814",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Air Arabia Maroc : à 12,5 mètres au-dessus de la mer, un Airbus A320 a frôlé la catastrophe à Catane",
+        "url": "https://www.air-journal.fr/2026-11-08-air-arabia-maroc-a-125-metres-au-dessus-de-la-mer-un-airbus-a320-a-frole-la-catastrophe-a-catane-5278726.html",
+        "date": "2026-11-08T07:00:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
+    "created": "2026-11-04T08:31:13Z",
+    "updated": "2026-11-08T10:10:55Z",
+    "version": 7,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 3,
+    "titre": "Avolon finalise sa commande de 140 Boeing 737-10, record pour un loueur sur la famille 737 MAX",
+    "chapo": "Boeing et le loueur Avolon ont annoncé la finalisation de l'achat de 140 737-10, selon Aero-News Network. Il s'agit de la plus importante commande de 737 MAX passée par un loueur.",
+    "paragraphes": [
+      "Cette commande porte le carnet d'Avolon à plus de 240 appareils restant à livrer, d'après Aero-News Network. Annoncée au début d'octobre, elle n'avait alors pas précisé la version retenue : Boeing a depuis confirmé qu'il s'agissait du 737-10, la plus grande variante de la famille MAX, rapporte AeroTime.",
+      "Toujours selon Boeing, les loueurs ont passé des commandes fermes pour plus de 230 737-10 en 2026, soit cinq fois plus que le carnet des loueurs pour cette variante à la fin de 2025. Pour Simple Flying, l'annonce intervient peu après l'approbation de l'appareil par la FAA ; Air Journal évoque une certification américaine obtenue deux semaines auparavant."
+    ],
+    "contradictions": "La date de l'annonce par Boeing diffère selon les sources : Le Journal de l'Aviation indique le 3 novembre, tandis qu'Air Journal mentionne le 4 novembre (date de publication du communiqué de Boeing).",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 8,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Aero-News Network",
+        "title": "Avolon Finalizes Order For 140 Boeing 737-10 Jets",
+        "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=EAA2A96D-3FE2-4F9C-B0AE-E58B7F8C397C",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "Boeing – Communiqués",
+        "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
+        "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
+        "date": "2026-11-04T08:30:00Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor",
+        "url": "https://simpleflying.com/avolon-boeing-737-max-10-order/",
+        "date": "2026-11-04T09:18:12Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
+        "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
+        "date": "2026-11-04T09:19:46Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Avolon finalise sa commande pour 140 Boeing",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html",
+        "date": "2026-11-04T11:40:07Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Boeing : Avolon frappe fort avec 140 737 MAX 10",
+        "url": "https://www.air-journal.fr/2026-11-04-boeing-avolon-frappe-fort-avec-140-737-max-10-5278671.html",
+        "date": "2026-11-04T12:00:46Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Avolon macht Auftrag über 140 Boeing 737 Max 10 fest",
+        "url": "https://www.airliners.de/avolon-auftrag-ueber-140-boeing-737-max-10-fest/91314",
+        "date": "2026-11-04T14:09:38Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Avolon finalises 140 Boeing 737-10 order",
+        "url": "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/",
+        "date": "2026-11-05T12:16:46Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
     "created": "2026-11-07T20:01:11Z",
     "updated": "2026-11-07T20:01:11Z",
@@ -1883,80 +2036,6 @@
         "title": "KLM renonce à l’A320neo et réduit encore ses effectifs",
         "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/klm-renonce-a-la320neo-et-reduit-encore-ses-effectifs-20261105.html",
         "date": "2026-11-05T13:20:49Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-    "created": "2026-11-04T08:31:13Z",
-    "updated": "2026-11-05T12:31:20Z",
-    "version": 6,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 3,
-    "titre": "Avolon confirme ferme sa commande de 140 Boeing 737-10, la plus grande variante du MAX",
-    "chapo": "Boeing indique que le loueur Avolon a conclu définitivement sa commande de 140 appareils de type 737-10, déjà évoquée en octobre. Le carnet de commandes du loueur dépasse ainsi 240 avions, selon AviTrader.",
-    "paragraphes": [
-      "Le contrat avait été dévoilé au début d'octobre, sans que la version soit précisée. D'après AeroTime, Boeing a depuis confirmé qu'il s'agissait bien du 737 MAX 10, la déclinaison la plus capacitaire de la famille, selon Le Journal de l'Aviation. Air Journal situe cette étape environ deux semaines après la certification américaine de l'appareil.",
-      "AviTrader présente l'accord comme la plus importante commande de 737 MAX passée par une société de leasing. Le stock de commandes non livrées d'Avolon dépasse désormais 240 appareils. Toujours d'après AviTrader, les loueurs ont passé des commandes fermes pour plus de 230 737-10 en 2026."
-    ],
-    "contradictions": "La date de l'annonce de Boeing diffère : le 3 novembre selon Le Journal de l'Aviation, le 4 novembre selon Air Journal.",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 7,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Boeing – Communiqués",
-        "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
-        "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
-        "date": "2026-11-04T08:30:00Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor",
-        "url": "https://simpleflying.com/avolon-boeing-737-max-10-order/",
-        "date": "2026-11-04T09:18:12Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
-        "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
-        "date": "2026-11-04T09:19:46Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Avolon finalise sa commande pour 140 Boeing",
-        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html",
-        "date": "2026-11-04T11:40:07Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Boeing : Avolon frappe fort avec 140 737 MAX 10",
-        "url": "https://www.air-journal.fr/2026-11-04-boeing-avolon-frappe-fort-avec-140-737-max-10-5278671.html",
-        "date": "2026-11-04T12:00:46Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Avolon macht Auftrag über 140 Boeing 737 Max 10 fest",
-        "url": "https://www.airliners.de/avolon-auftrag-ueber-140-boeing-737-max-10-fest/91314",
-        "date": "2026-11-04T14:09:38Z",
-        "official": false
-      },
-      {
-        "name": "AviTrader",
-        "title": "Avolon finalises 140 Boeing 737-10 order",
-        "url": "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/",
-        "date": "2026-11-05T12:16:46Z",
         "official": false
       }
     ]
