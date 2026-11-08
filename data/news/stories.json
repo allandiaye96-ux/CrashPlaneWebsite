@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754",
+    "created": "2026-11-08T13:50:52Z",
+    "updated": "2026-11-08T13:50:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "LAX : un A350 d'Air France et un A321 d'American Airlines se croisent de près après un écart au départ",
+    "chapo": "Un Airbus A350-900 d'Air France et un A321-200 d'American Airlines ont été impliqués dans un rapprochement dangereux à Los Angeles, selon AeroTime. Simple Flying évoque un virage à gauche non autorisé de l'A350 au départ, vers minuit, qui a croisé la trajectoire de montée de l'A321.",
+    "paragraphes": [
+      "D'après Simple Flying, l'A350 décollait de l'aéroport de Los Angeles (LAX) aux alentours de minuit lorsqu'il a effectué un virage à gauche qui ne lui avait pas été autorisé. Cette trajectoire a coupé celle de l'A321 d'American Airlines, alors en montée.",
+      "AeroTime décrit l'événement comme une quasi-collision en vol impliquant un A350-900 d'Air France et un A321-200 d'American Airlines, liée à un écart de l'A350 par rapport à sa procédure de départ. Les causes de l'incident ne sont pas établies à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX",
+        "url": "https://simpleflying.com/air-france-a350-american-airlines-a321-near-midair-collision-lax/",
+        "date": "2026-11-08T07:35:47Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Air France A350 departure deviation brings it close to American A321 at LAX",
+        "url": "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax",
+        "date": "2026-11-08T13:38:31Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5",
     "created": "2026-11-08T11:20:51Z",
     "updated": "2026-11-08T11:20:51Z",

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 08 Nov 2026 13:40:46 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 13:50:53 +0000</lastBuildDate>
+  <item>
+    <title>LAX : un A350 d&#x27;Air France et un A321 d&#x27;American Airlines se croisent de près après un écart au départ</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754/</guid>
+    <pubDate>Sun, 08 Nov 2026 13:50:52 +0000</pubDate>
+    <category>Incident</category>
+    <description>Un Airbus A350-900 d&#x27;Air France et un A321-200 d&#x27;American Airlines ont été impliqués dans un rapprochement dangereux à Los Angeles, selon AeroTime. Simple Flying évoque un virage à gauche non autorisé de l&#x27;A350 au départ, vers minuit, qui a croisé la trajectoire de montée de l&#x27;A321.</description>
+  </item>
   <item>
     <title>IAG prévoit une capacité 2026 légèrement inférieure à celle de 2025, selon Air Journal</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 10:11:06 +0000</pubDate>
     <category>Défense</category>
     <description>Selon The Aviationist, un F-35B à décollage court et atterrissage vertical a largué un engin d&#x27;essai inerte du missile air-air à longue portée Meteor de MBDA depuis sa soute interne. C&#x27;est une première pour cette combinaison.</description>
-  </item>
-  <item>
-    <title>Un A320 doté d&#x27;un nez de Eurofighter achève ses vols de mise en service à Manching</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e/</guid>
-    <pubDate>Fri, 06 Nov 2026 09:10:56 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>L&#x27;Airbus A320 ATRA, laboratoire volant équipé d&#x27;un nez de Eurofighter, a terminé ses vols de mise en service sur le site d&#x27;Airbus de Manching, en Allemagne, selon Airbus. AeroTime indique que l&#x27;appareil vole avec le nouveau radar du chasseur.</description>
   </item>
 </channel>
 </rss>

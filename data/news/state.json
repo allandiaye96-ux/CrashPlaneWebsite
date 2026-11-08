@@ -1374,7 +1374,8 @@
     "https://www.airbus.com/en/newsroom/stories/2026-10-how-do-power-by-the-hour-services-keep-a220s-flying": "2026-11-08T12:40:32Z",
     "https://www.airbus.com/en/newsroom/stories/2026-10-the-u010-aliaca-drone-goes-vertical": "2026-11-08T12:40:32Z",
     "https://www.air-journal.fr/2026-11-08-les-couts-de-paiement-augmentent-plus-vite-que-les-ventes-des-compagnies-aeriennes-5278739.html": "2026-11-08T13:01:00Z",
-    "https://simpleflying.com/video/us-fines-air-france-klm-for-flying-delta-codeshares-too-low-over-iraqi-conflict-zone/": "2026-11-08T13:30:53Z"
+    "https://simpleflying.com/video/us-fines-air-france-klm-for-flying-delta-codeshares-too-low-over-iraqi-conflict-zone/": "2026-11-08T13:30:53Z",
+    "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax": "2026-11-08T13:50:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5277,7 +5278,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-08T07:40:49Z",
-      "updated": "2026-11-08T07:40:49Z",
+      "updated": "2026-11-08T13:50:49Z",
       "items": [
         {
           "id": "29c7cce9d43637ad",
@@ -5287,10 +5288,19 @@
           "domain": "simpleflying.com",
           "summary": "A midnight LAX departure turned tense when an A350's unauthorized left turn intersected an A321's climb path.",
           "published": "2026-11-08T07:35:47Z"
+        },
+        {
+          "id": "8bcb520ba1823200",
+          "feed": "AeroTime",
+          "title": "Air France A350 departure deviation brings it close to American A321 at LAX",
+          "url": "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax",
+          "domain": "aerotime.aero",
+          "summary": "An Air France Airbus A350-900 and an American Airlines Airbus A321-200 were involved in a near-mid-air collision shortly… The post Air France A350 departure deviation brings it close to American A321 at LAX appeared first on AeroTime .",
+          "published": "2026-11-08T13:38:31Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754",
+      "written_count": 2
     },
     "ca6bda9a970": {
       "id": "ca6bda9a970",
@@ -5379,6 +5389,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.388485
+    "2026-11": 3.398216
   }
 }

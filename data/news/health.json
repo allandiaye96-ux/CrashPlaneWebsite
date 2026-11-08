@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T13:40:34Z",
+  "run": "2026-11-08T13:50:33Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.3885,
+  "spend_month_usd": 3.3982,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -428,6 +428,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-08-aerfin-acquiert-44-boeing-737ng-aupres-de-qantas-sa-plus-imp-e887"
+    },
+    {
+      "dossier": "Quasi-collision LAX Air France A350 American A321",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
@@ -893,12 +899,6 @@
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Quasi-collision LAX Air France A350 American A321",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
