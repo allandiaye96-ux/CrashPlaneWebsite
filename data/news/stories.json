@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
+    "created": "2026-11-06T09:10:56Z",
+    "updated": "2026-11-08T18:40:49Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "L'A320 ATRA à nez de Eurofighter achève ses vols de mise en service avec le radar ECRS Mk1",
+    "chapo": "L'Airbus A320 ATRA a terminé ses vols de mise en service sur le site d'Airbus à Manching, en Allemagne, indique Airbus. Selon The Aviationist, l'avion d'essai du DLR embarque désormais le radar AESA ECRS Mk1 de l'Eurofighter.",
+    "paragraphes": [
+      "D'après The Aviationist, l'A320 ATRA (Advanced Technology Research Aircraft), banc d'essai du Centre aérospatial allemand (DLR), a reçu le radar AESA ECRS Mk1 de l'Eurofighter. L'installation s'est accompagnée de modifications structurelles, de systèmes de refroidissement, de câblage de données et de postes de travail.",
+      "AeroTime décrit un A320 doté du nez pointu d'un Eurofighter, qui vole désormais avec le nouveau radar de chasse. Simple Flying présente pour sa part cet appareil de 30 ans comme un banc d'essai volant pour de nouvelles technologies."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "A320 with a Eurofighter nose: Airbus flying radar lab starts flight operations",
+        "url": "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Airbus A320 with Eurofighter nose now flying with new fighter radar",
+        "url": "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights",
+        "date": "2026-11-06T13:12:32Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "An A320 Like No Other: Airbus Jet Completes Commissioning Flights With Eurofighter Nose",
+        "url": "https://simpleflying.com/airbus-a320-eurofighter-nose-commissioning-flights/",
+        "date": "2026-11-06T14:01:50Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "A320 ATRA Testbed is Now Flying with the Eurofighter’s AESA Radar",
+        "url": "https://theaviationist.com/2026/11/08/a320-atra-flying-eurofighters-aesa-radar/",
+        "date": "2026-11-08T18:31:49Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26",
     "created": "2026-11-08T18:10:54Z",
     "updated": "2026-11-08T18:10:54Z",
@@ -1092,52 +1145,6 @@
         "title": "Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
         "url": "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381",
         "date": "2026-11-06T15:03:34Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
-    "created": "2026-11-06T09:10:56Z",
-    "updated": "2026-11-06T14:51:13Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Un A320 doté d'un nez de Eurofighter achève ses vols de mise en service à Manching",
-    "chapo": "L'Airbus A320 ATRA, laboratoire volant équipé d'un nez de Eurofighter, a terminé ses vols de mise en service sur le site d'Airbus de Manching, en Allemagne, selon Airbus. AeroTime indique que l'appareil vole avec le nouveau radar du chasseur.",
-    "paragraphes": [
-      "Selon Airbus, l'A320 ATRA a mené à terme ses vols de mise en service à Manching. Le constructeur présente l'appareil comme un laboratoire radar volant qui entame ses opérations en vol.",
-      "D'après AeroTime, l'avion porte le nez pointu d'un Eurofighter et effectue ces vols avec le nouveau radar du chasseur. Simple Flying décrit un biréacteur d'une trentaine d'années, qui sert de banc d'essai volant pour de nouvelles technologies."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Airbus – Communiqués",
-        "title": "A320 with a Eurofighter nose: Airbus flying radar lab starts flight operations",
-        "url": "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations",
-        "date": null,
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Airbus A320 with Eurofighter nose now flying with new fighter radar",
-        "url": "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights",
-        "date": "2026-11-06T13:12:32Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "An A320 Like No Other: Airbus Jet Completes Commissioning Flights With Eurofighter Nose",
-        "url": "https://simpleflying.com/airbus-a320-eurofighter-nose-commissioning-flights/",
-        "date": "2026-11-06T14:01:50Z",
         "official": false
       }
     ]

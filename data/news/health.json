@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-08T18:30:49Z",
+  "run": "2026-11-08T18:40:32Z",
   "stats": {
     "fetched": 692,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.4293,
+  "spend_month_usd": 3.4398,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -196,6 +196,12 @@
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
+      "dossier": "Airbus A320 ATRA laboratoire radar Manching",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
+    },
+    {
       "dossier": "Ebola règles CDC déclaration US",
       "statut": "corrobore",
       "editeurs": 3,
@@ -254,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
-    },
-    {
-      "dossier": "Airbus A320 ATRA laboratoire radar Manching",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
     },
     {
       "dossier": "JetBlue créanciers conseillers restructuration",

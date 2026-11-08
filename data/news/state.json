@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/american-airlines-cancels-8-long-haul-nonstop-boeing-787-routes/": "2026-10-29T18:30:52Z",
     "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals": "2026-10-29T19:01:04Z",
     "https://simpleflying.com/why-us-navy-awarding-boeing-80-million-improve-drone-isnt-operational-yet/": "2026-10-29T19:10:32Z",
     "https://www.flightradar24.com/blog/aviation-news/airport-news/ilulissat-inaugurates-new-longer-runway-opening-the-gateway-to-north-greenland/": "2026-10-29T19:10:32Z",
@@ -1343,7 +1342,8 @@
     "https://simpleflying.com/airbus-a350-cockpit-shares-dna-worlds-largest-passenger-jet/": "2026-11-08T18:10:34Z",
     "https://simpleflying.com/philippine-airlines-launches-new-17-hour-us-route-1-day/": "2026-11-08T18:10:34Z",
     "https://www.twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact": "2026-11-08T18:30:49Z",
-    "https://simpleflying.com/us-military-combat-aircraft-manufacturers-in-2026/": "2026-11-08T18:30:49Z"
+    "https://simpleflying.com/us-military-combat-aircraft-manufacturers-in-2026/": "2026-11-08T18:30:49Z",
+    "https://theaviationist.com/2026/11/08/a320-atra-flying-eurofighters-aesa-radar/": "2026-11-08T18:40:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4394,7 +4394,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-06T09:10:53Z",
-      "updated": "2026-11-06T14:51:09Z",
+      "updated": "2026-11-08T18:40:45Z",
       "items": [
         {
           "id": "2fc28e6c04718f17",
@@ -4422,10 +4422,19 @@
           "domain": "aerotime.aero",
           "summary": "An Airbus A320 fitted with the pointed nose of a Eurofighter has completed commissioning flights with the fighter’s… The post Airbus A320 with Eurofighter nose now flying with new fighter radar appeared first on AeroTime .",
           "published": "2026-11-06T13:12:32Z"
+        },
+        {
+          "id": "453a9cdc57274518",
+          "feed": "The Aviationist",
+          "title": "A320 ATRA Testbed is Now Flying with the Eurofighter’s AESA Radar",
+          "url": "https://theaviationist.com/2026/11/08/a320-atra-flying-eurofighters-aesa-radar/",
+          "domain": "theaviationist.com",
+          "summary": "The Airbus A320 ATRA has received the Eurofighter’s ECRS Mk1 AESA radar, together with the necessary structural modifications, cooling systems, data cabling and workstations, and has completed its commissioning flights. The Airbus A320 ATRA (Advanced Technology Research Aircraft), the specialized testbed aircraft of the German Aerospace Center (DLR), has now completed the commissioning flights following […]",
+          "published": "2026-11-08T18:31:49Z"
         }
       ],
       "story_id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
-      "written_count": 3
+      "written_count": 4
     },
     "c5ca10c2fb8": {
       "id": "c5ca10c2fb8",
@@ -5315,6 +5324,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.42929
+    "2026-11": 3.439841
   }
 }
