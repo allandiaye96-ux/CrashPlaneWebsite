@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T19:50:35Z",
+  "run": "2026-11-09T20:01:02Z",
   "stats": {
     "fetched": 688,
-    "new": 1,
-    "written": 1,
+    "new": 6,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7898,
+  "spend_month_usd": 3.8091,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -184,6 +184,12 @@
       "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
+      "dossier": "NASA annonce avion expérimental X-70 Fractal",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f"
+    },
+    {
       "dossier": "Airbus A320 ATRA laboratoire radar Manching",
       "statut": "corrobore",
       "editeurs": 4,
@@ -224,12 +230,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92"
-    },
-    {
-      "dossier": "NASA annonce avion expérimental X-70 Fractal",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f"
     },
     {
       "dossier": "Emirates résultats S1 2026",
@@ -422,6 +422,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe"
+    },
+    {
+      "dossier": "Qantas vol sans escale Sydney-Londres Project Sunrise",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da"
     },
     {
       "dossier": "airBaltic wet-lease Lufthansa A220",
@@ -800,12 +806,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f"
-    },
-    {
-      "dossier": "Qantas vol sans escale Sydney-Londres Project Sunrise",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da"
     },
     {
       "dossier": "Air France 60e A220 livraison",

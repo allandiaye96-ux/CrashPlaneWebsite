@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-usaf-sustains-222-c-17-globemasters-no-new-builds-2026/": "2026-10-30T20:00:59Z",
-    "https://australianaviation.com.au/2026/10/australian-ai-awards-2026-winners-unveiled/": "2026-10-30T20:00:59Z",
-    "https://australianaviation.com.au/2026/10/exclusive-sydney-curfew-could-leave-business-jets-out-in-the-cold/": "2026-10-30T20:00:59Z",
-    "https://australianaviation.com.au/2026/10/qantas-long-haul-pilots-win-25-pay-bump/": "2026-10-30T20:00:59Z",
-    "https://australianaviation.com.au/2026/10/new-independent-domestic-airport-lounges-to-open-in-sydney-cairns/": "2026-10-30T20:00:59Z",
-    "https://australianaviation.com.au/2026/10/no-price-war-vows-boss-of-vietjets-australian-arm/": "2026-10-30T20:00:59Z",
-    "https://www.aero.de/news-54059/Lufthansa-Crewmitglied-in-Indien-toedlich-verletzt.html": "2026-10-30T20:00:59Z",
     "https://simpleflying.com/airline-with-worlds-most-comfortable-premium-economy-seat/": "2026-10-30T20:30:52Z",
     "https://leehamnews.com/2026/10/30/boeings-rough-week-maybe-management-deserves-some-credit/": "2026-10-30T20:40:32Z",
     "https://theaviationist.com/2026/10/30/china-claims-gj-21-ucav-has-flown-from-sichuan/": "2026-10-30T20:40:32Z",
@@ -1353,7 +1346,13 @@
     "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report": "2026-11-09T18:50:34Z",
     "https://www.twz.com/news-features/netting-to-shield-f-35s-at-tyndall-afb-from-drone-attacks-eyed-by-usaf": "2026-11-09T19:20:34Z",
     "https://simpleflying.com/alaska-airlines-cancels-4-routes-from-2nd-busiest-hub/": "2026-11-09T19:30:51Z",
-    "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/": "2026-11-09T19:50:35Z"
+    "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/": "2026-11-09T19:50:35Z",
+    "https://simpleflying.com/striking-differencs-jetblue-mint-delta-one-transcontinental-2026/": "2026-11-09T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/airservices-offers-new-options-to-reduce-brisbane-aircraft-noise/": "2026-11-09T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/new-kangaroo-route-project-sunrise-will-fly-as-qf1-and-qf2/": "2026-11-09T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/council-meeting-fuels-orange-newcastle-flights-speculation/": "2026-11-09T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/nasa-reveals-new-experimental-x-70-fractal-aircraft/": "2026-11-09T20:01:02Z",
+    "https://australianaviation.com.au/2026/11/katherine-bennell-pegg-flies-with-raaf-roulettes/": "2026-11-09T20:01:02Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3159,7 +3158,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-05T02:40:48Z",
-      "updated": "2026-11-06T05:40:57Z",
+      "updated": "2026-11-09T20:01:19Z",
       "items": [
         {
           "id": "c540d314da64c0ad",
@@ -3187,10 +3186,19 @@
           "domain": "aero.de",
           "summary": "ORLANDO - Mit einem neuen X-Flugzeug will die NASA die Entwicklung von Zukunftstechnik vorantreiben. Die X-70 \"Fractal\" wird von einem Piloten geflogen, ist laut NASA modular aufgebaut - und wird neue Grenzen bei der Manövrierfähigkeit ausloten.",
           "published": "2026-11-06T05:39:47Z"
+        },
+        {
+          "id": "18dd99d4351e484e",
+          "feed": "Australian Aviation",
+          "title": "NASA reveals new experimental X-70 Fractal aircraft",
+          "url": "https://australianaviation.com.au/2026/11/nasa-reveals-new-experimental-x-70-fractal-aircraft/",
+          "domain": "australianaviation.com.au",
+          "summary": "The aircraft was announced at the UP.Summit at the agency’s Kennedy Space Center in Florida. The high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+          "published": "2026-11-09T03:32:05Z"
         }
       ],
       "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
-      "written_count": 3
+      "written_count": 4
     },
     "ca173e9d083": {
       "id": "ca173e9d083",
@@ -5106,7 +5114,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-09T15:20:49Z",
-      "updated": "2026-11-09T15:20:49Z",
+      "updated": "2026-11-09T20:01:19Z",
       "items": [
         {
           "id": "e91a8c124351ef28",
@@ -5116,10 +5124,19 @@
           "domain": "airliners.de",
           "summary": "Qantas fliegt ab Oktober 2027 ohne Zwischenstopp zwischen Sydney und London. Die Verbindung im Rahmen von Project Sunrise läuft unter den Flugnummern QF1 und QF2 und verkürzt die Reisezeit nach Angaben der Airline um bis zu vier Stunden. Der Ticketverkauf soll im Februar 2027 beginnen.",
           "published": "2026-11-09T15:14:16Z"
+        },
+        {
+          "id": "d857a8121a075daa",
+          "feed": "Australian Aviation",
+          "title": "New Kangaroo Route: Project Sunrise will fly as QF1 and QF2",
+          "url": "https://australianaviation.com.au/2026/11/new-kangaroo-route-project-sunrise-will-fly-as-qf1-and-qf2/",
+          "domain": "australianaviation.com.au",
+          "summary": "QF1 and QF2, which are currently used for Sydney to London flights via Singapore, will be switched to the non-stop A350-1000ULR flights on their launch in October 2027. It comes as flight tests continue on the first Project Sunrise aircraft.",
+          "published": "2026-11-09T04:20:03Z"
         }
       ],
       "story_id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
-      "written_count": 1
+      "written_count": 2
     },
     "c70eb37c49e": {
       "id": "c70eb37c49e",
@@ -5238,6 +5255,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.789805
+    "2026-11": 3.809126
   }
 }

@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
+    "created": "2026-11-09T15:20:55Z",
+    "updated": "2026-11-09T20:01:27Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas : le vol sans escale Sydney-Londres du Project Sunrise sera opéré sous les numéros QF1 et QF2",
+    "chapo": "Selon Australian Aviation, Qantas basculera les numéros de vol QF1 et QF2 sur ses liaisons sans escale en A350-1000ULR dès leur lancement en octobre 2027. Ces numéros sont aujourd'hui utilisés pour Sydney-Londres via Singapour.",
+    "paragraphes": [
+      "D'après airliners.de, la liaison directe entre Sydney et Londres, menée dans le cadre du Project Sunrise, réduira la durée du voyage de jusqu'à quatre heures par rapport à aujourd'hui, selon la compagnie. La vente des billets doit débuter en février 2027.",
+      "Australian Aviation indique par ailleurs que les essais en vol se poursuivent sur le premier appareil destiné au Project Sunrise."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "New Kangaroo Route: Project Sunrise will fly as QF1 and QF2",
+        "url": "https://australianaviation.com.au/2026/11/new-kangaroo-route-project-sunrise-will-fly-as-qf1-and-qf2/",
+        "date": "2026-11-09T04:20:03Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Qantas fliegt ab Oktober 2027 ohne Zwischenstopp von Sydney nach London",
+        "url": "https://www.airliners.de/qantas-fliegt-oktober-2027-zwischenstopp-sydney-london/91392",
+        "date": "2026-11-09T15:14:16Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
+    "created": "2026-11-05T02:40:51Z",
+    "updated": "2026-11-09T20:01:24Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "La NASA dévoile le X-70 « Fractal », nouvel avion expérimental piloté et modulaire",
+    "chapo": "La NASA a annoncé le 4 novembre 2026 le X-70 « Fractal », un nouvel avion expérimental, selon The Aviationist. Il est présenté comme une plateforme de recherche à équipage, très adaptable et dotée de commandes de vol rapidement reconfigurables.",
+    "paragraphes": [
+      "D'après The Aviationist, l'annonce s'inscrit dans la volonté de l'agence de renouveler son portefeuille de X-planes. Australian Aviation indique qu'elle a eu lieu lors de l'UP.Summit, au Kennedy Space Center, en Floride.",
+      "Le X-70 doit permettre de tester de nouvelles capacités de commandes de vol et de repousser les limites de la manœuvrabilité, selon The War Zone. Aero.de précise que l'appareil sera mené par un pilote et que sa conception est modulaire, d'après la NASA. Australian Aviation ajoute qu'il est conçu pour accélérer le développement et les essais de technologies aéronautiques avancées."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The War Zone",
+        "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+        "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
+        "date": "2026-11-05T02:37:32Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "NASA Announces X-70 Fractal, its Latest Experimental Aircraft",
+        "url": "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/",
+        "date": "2026-11-05T09:43:47Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Neues X-Flugzeug der NASA wird modular und extrem wendig",
+        "url": "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html",
+        "date": "2026-11-06T05:39:47Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "NASA reveals new experimental X-70 Fractal aircraft",
+        "url": "https://australianaviation.com.au/2026/11/nasa-reveals-new-experimental-x-70-fractal-aircraft/",
+        "date": "2026-11-09T03:32:05Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
     "created": "2026-11-09T19:50:52Z",
     "updated": "2026-11-09T19:50:52Z",
@@ -144,38 +236,6 @@
         "title": "United Unveils 14-Gate Concourse at Dulles",
         "url": "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/",
         "date": "2026-11-09T16:15:57Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
-    "created": "2026-11-09T15:20:55Z",
-    "updated": "2026-11-09T15:20:55Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Qantas annonce un vol sans escale Sydney-Londres à partir d'octobre 2027 sous les numéros QF1 et QF2",
-    "chapo": "Selon airliners.de, Qantas exploitera à partir d'octobre 2027 une liaison sans escale entre Sydney et Londres, dans le cadre du Project Sunrise.",
-    "paragraphes": [
-      "La liaison sera opérée sous les numéros de vol QF1 et QF2. D'après les indications de la compagnie rapportées par le média allemand, elle raccourcirait le temps de trajet jusqu'à quatre heures.",
-      "L'ouverture des ventes de billets est prévue en février 2027."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Qantas fliegt ab Oktober 2027 ohne Zwischenstopp von Sydney nach London",
-        "url": "https://www.airliners.de/qantas-fliegt-oktober-2027-zwischenstopp-sydney-london/91392",
-        "date": "2026-11-09T15:14:16Z",
         "official": false
       }
     ]
@@ -2088,52 +2148,6 @@
         "title": "Air France-KLM : le bénéfice grimpe de 22% au troisième trimestre",
         "url": "https://www.air-journal.fr/2026-11-06-air-france-klm-le-benefice-grimpe-de-22-au-troisieme-trimestre-5278697.html",
         "date": "2026-11-06T08:00:42Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
-    "created": "2026-11-05T02:40:51Z",
-    "updated": "2026-11-06T05:41:01Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "La NASA dévoile le X-70 « Fractal », nouvel avion expérimental piloté et modulaire",
-    "chapo": "La NASA a annoncé le X-70 « Fractal », son nouvel avion expérimental, selon The Aviationist. Cet appareil doit servir à tester de nouvelles commandes de vol et à repousser les limites de la manœuvrabilité.",
-    "paragraphes": [
-      "D'après The Aviationist, l'annonce date du 4 novembre 2026 et a eu lieu pendant l'UP.Summit. Le média décrit le X-70 comme une plateforme de recherche habitée, très performante et très adaptable, dotée d'une technologie de commandes de vol rapidement reconfigurable. Il y voit le signe d'une volonté de la NASA de renouveler son portefeuille d'X-planes.",
-      "Selon aero.de, l'appareil sera mené par un pilote et son architecture est modulaire, d'après la NASA. The War Zone indique que le X-70 permettra d'essayer de nouvelles capacités de contrôle en vol."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "The War Zone",
-        "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
-        "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
-        "date": "2026-11-05T02:37:32Z",
-        "official": false
-      },
-      {
-        "name": "The Aviationist",
-        "title": "NASA Announces X-70 Fractal, its Latest Experimental Aircraft",
-        "url": "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/",
-        "date": "2026-11-05T09:43:47Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Neues X-Flugzeug der NASA wird modular und extrem wendig",
-        "url": "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html",
-        "date": "2026-11-06T05:39:47Z",
         "official": false
       }
     ]
