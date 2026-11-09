@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213": "2026-10-30T22:40:32Z",
     "https://simpleflying.com/premium-economy-yesterday-standard-economy-pitch-shrank/": "2026-10-30T23:03:19Z",
     "https://www.air-journal.fr/2026-10-31-le-31-octobre-1909-dans-le-ciel-meeting-de-saint-etienne-le-public-en-colere-face-au-fiasco-5278595.html": "2026-10-30T23:06:48Z",
     "https://simpleflying.com/airbus-a321xlr-parked-jetblue-wizz-air-kept-iberia-qantas/": "2026-10-31T00:01:04Z",
@@ -1355,7 +1354,9 @@
     "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/": "2026-11-09T22:20:35Z",
     "https://simpleflying.com/jetblue-launches-new-6-hour-route-next-week/": "2026-11-09T22:30:50Z",
     "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/": "2026-11-09T22:30:50Z",
-    "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets": "2026-11-09T22:30:50Z"
+    "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets": "2026-11-09T22:30:50Z",
+    "https://airlinegeeks.com/2026/11/09/united-adds-four-domestic-routes/": "2026-11-09T22:40:33Z",
+    "https://www.twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation": "2026-11-09T22:40:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5276,6 +5277,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.839308
+    "2026-11": 3.840157
   }
 }
