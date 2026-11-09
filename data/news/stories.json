@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
+    "created": "2026-11-09T15:31:26Z",
+    "updated": "2026-11-09T16:31:09Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "airBaltic et Lufthansa revoient à la baisse leur accord de wet lease portant sur des A220-300",
+    "chapo": "Selon AeroTime, airBaltic a signé un nouvel accord de wet lease avec le groupe Lufthansa, en vue de réduire sa flotte d'Airbus A220-300. D'après aero.de, la relation entre les deux compagnies se poursuit mais à une échelle nettement moindre.",
+    "paragraphes": [
+      "Aero.de indique que Lufthansa reste ccliente d'airBaltic en wet lease, mais que le périmètre du contrat est fortement réduit. Lufthansa intégrera à son propre réseau au maximum six A220-300 d'airBaltic pendant les mois d'été.",
+      "En hiver, le nombre d'appareils concernés sera limité à quatre au plus, précise le média allemand."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "airBaltic signs Lufthansa wet-lease deal to scale back A220 fleet",
+        "url": "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet",
+        "date": "2026-11-09T15:20:35Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Air Baltic und Lufthansa entflechten Wetlease-Beziehung",
+        "url": "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html",
+        "date": "2026-11-09T16:25:59Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
     "created": "2026-11-07T20:01:11Z",
     "updated": "2026-11-09T16:21:01Z",
@@ -41,37 +80,6 @@
         "title": "United Unveils 14-Gate Concourse at Dulles",
         "url": "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/",
         "date": "2026-11-09T16:15:57Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
-    "created": "2026-11-09T15:31:26Z",
-    "updated": "2026-11-09T15:31:26Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "airBaltic signe un accord de wet lease avec le groupe Lufthansa avant de réduire sa flotte d'A220-300",
-    "chapo": "Selon AeroTime, airBaltic a conclu un nouvel accord de wet lease avec le groupe Lufthansa. Il s'inscrit dans la préparation d'une réduction de sa flotte d'Airbus A220-300.",
-    "paragraphes": [
-      "D'après AeroTime, la compagnie lettone a signé ce contrat de location avec équipage avec Lufthansa Group en vue de diminuer le nombre d'A220-300 qu'elle exploite."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "airBaltic signs Lufthansa wet-lease deal to scale back A220 fleet",
-        "url": "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet",
-        "date": "2026-11-09T15:20:35Z",
         "official": false
       }
     ]

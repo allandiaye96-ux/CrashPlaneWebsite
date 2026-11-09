@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T16:20:35Z",
+  "run": "2026-11-09T16:30:52Z",
   "stats": {
     "fetched": 691,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7592,
+  "spend_month_usd": 3.7683,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -200,12 +200,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
-    },
-    {
-      "dossier": "Alaska Airlines licenciements 200 employés",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6"
     },
     {
       "dossier": "PIA réception premier Boeing 787-9",
@@ -434,6 +428,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe"
+    },
+    {
+      "dossier": "airBaltic wet-lease Lufthansa A220",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
@@ -814,12 +814,6 @@
       "breve": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da"
     },
     {
-      "dossier": "airBaltic wet-lease Lufthansa A220",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e"
-    },
-    {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
       "statut": "signale",
       "editeurs": 1,
@@ -857,6 +851,12 @@
     },
     {
       "dossier": "Royal Navy drones frappe HMS Queen Elizabeth",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Satellites IRIS DGA Airbus",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

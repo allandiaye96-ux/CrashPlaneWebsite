@@ -1350,7 +1350,11 @@
     "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet": "2026-11-09T15:31:01Z",
     "https://simpleflying.com/captain-first-officer-difference/": "2026-11-09T15:40:36Z",
     "https://simpleflying.com/chicago-ohare-midway-windy-city-2-airports-split-flyers/": "2026-11-09T16:01:01Z",
-    "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/": "2026-11-09T16:20:35Z"
+    "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/": "2026-11-09T16:20:35Z",
+    "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings": "2026-11-09T16:30:52Z",
+    "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion": "2026-11-09T16:30:52Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-to-deliver-iris-frances-next-generation-military-earth-observation-satellites": "2026-11-09T16:30:52Z",
+    "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html": "2026-11-09T16:30:52Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1468,45 +1472,6 @@
         }
       ],
       "story_id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
-      "written_count": 3
-    },
-    "cb9a6bb95c6": {
-      "id": "cb9a6bb95c6",
-      "label": "Alaska Airlines licenciements 200 employés",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T22:10:47Z",
-      "updated": "2026-11-02T16:20:50Z",
-      "items": [
-        {
-          "id": "d4f4072e2e7956d9",
-          "feed": "AirlineGeeks",
-          "title": "Report: Alaska to Lay Off 200 Employees",
-          "url": "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/",
-          "domain": "airlinegeeks.com",
-          "summary": "The company cited higher fuel costs and \"geopolitical challenges.\"",
-          "published": "2026-10-30T22:02:36Z"
-        },
-        {
-          "id": "a32f5c06ac679ca1",
-          "feed": "Simple Flying",
-          "title": "Alaska Air Group To Lay Off 200 Roles By Year’s End, Cites Soaring Fuel Prices",
-          "url": "https://simpleflying.com/alaska-air-group-lay-off-200-roles-fuel-prices/",
-          "domain": "simpleflying.com",
-          "summary": "Executives cite disproportionate overhead and geopolitical fuel shocks as they realign post merger operations and roles.",
-          "published": "2026-11-01T01:29:53Z"
-        },
-        {
-          "id": "8972cd84faf2550b",
-          "feed": "airliners.de",
-          "title": "Alaska Airlines streicht wegen hoher Kerosinkosten rund 200 Stellen",
-          "url": "https://www.airliners.de/alaska-airlines-streicht-hoher-kerosinkosten-200-stellen/91246",
-          "domain": "airliners.de",
-          "summary": "Die Alaska Air Group baut rund 200 nicht tarifgebundene Stellen ab. Grund sind die stark gestiegenen Kerosinpreise. Vorstandsvorsitzender Ben Minicucci rechnet im ungünstigsten Fall mit einem Verlust, wie ihn der Konzern außerhalb der Pandemie seit mehr als 20 Jahren nicht verbucht hat.",
-          "published": "2026-11-02T15:12:41Z"
-        }
-      ],
-      "story_id": "2026-10-30-alaska-airlines-supprimerait-200-postes-en-raison-du-cout-du-95c6",
       "written_count": 3
     },
     "cb354155b2d": {
@@ -5193,7 +5158,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-09T15:31:23Z",
-      "updated": "2026-11-09T15:31:23Z",
+      "updated": "2026-11-09T16:31:06Z",
       "items": [
         {
           "id": "abef5fe2d87fd17d",
@@ -5203,14 +5168,44 @@
           "domain": "aerotime.aero",
           "summary": "airBaltic has signed a new wet lease agreement with Lufthansa Group in preparation to reduce its Airbus A220-300… The post airBaltic signs Lufthansa wet-lease deal to scale back A220 fleet appeared first on AeroTime .",
           "published": "2026-11-09T15:20:35Z"
+        },
+        {
+          "id": "c8de1bccf32ed172",
+          "feed": "aero.de",
+          "title": "Air Baltic und Lufthansa entflechten Wetlease-Beziehung",
+          "url": "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html",
+          "domain": "aero.de",
+          "summary": "RIGA - Lufthansa bleibt Wetlease-Kunde von Air Baltic. Die Fluggesellschaften schrauben den bisherigen Umfang der Vertragsbeziehung aber drastisch zurück: Lufthansa wird in den Sommermonaten künftig maximal sechs Airbus A220-300 von Air Baltic ins eigene Netz ziehen, im Winter nur bis zu vier Flugzeuge.",
+          "published": "2026-11-09T16:25:59Z"
         }
       ],
       "story_id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
-      "written_count": 1
+      "written_count": 2
+    },
+    "ce14cf680da": {
+      "id": "ce14cf680da",
+      "label": "Satellites IRIS DGA Airbus",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-09T16:31:06Z",
+      "updated": "2026-11-09T16:31:06Z",
+      "items": [
+        {
+          "id": "d98de5983852e2fb",
+          "feed": "Airbus – Communiqués",
+          "title": "Airbus to deliver IRIS, France’s next generation military Earth observation satellites",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-to-deliver-iris-frances-next-generation-military-earth-observation-satellites",
+          "domain": "airbus.com",
+          "summary": "French defence procurement agency (DGA) has awarded the contract for the IRIS programme to lead-contractor Airbus Defence and Space and co-contractor TAS.",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.759234
+    "2026-11": 3.768251
   }
 }
