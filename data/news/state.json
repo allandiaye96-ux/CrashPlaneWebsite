@@ -1338,7 +1338,8 @@
     "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/": "2026-11-09T08:20:34Z",
     "https://avitrader.com/2026/11/09/ge-aerospace-beta-achieve-hybrid-electric-flight-milestone/": "2026-11-09T08:40:35Z",
     "https://avitrader.com/2026/11/09/sikorsky-wins-south-korean-presidential-helicopter-contract/": "2026-11-09T08:50:32Z",
-    "https://www.air-journal.fr/2026-11-09-un-commandant-de-bord-peut-il-refuser-un-deroutement-militaire-laffaire-aer-lingus-relance-le-debat-5278743.html": "2026-11-09T09:01:03Z"
+    "https://www.air-journal.fr/2026-11-09-un-commandant-de-bord-peut-il-refuser-un-deroutement-militaire-laffaire-aer-lingus-relance-le-debat-5278743.html": "2026-11-09T09:01:03Z",
+    "https://simpleflying.com/klm-replacing-older-widebodies-22-airbus-a350s-cut-fuel-burn-co2-25-percent/": "2026-11-09T09:10:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1505,45 +1506,6 @@
       ],
       "story_id": "2026-10-29-groenland-un-troisieme-aeroport-civil-ouvre-a-ilulissat-avec-62a2",
       "written_count": 4
-    },
-    "ca4d5c1ab5a": {
-      "id": "ca4d5c1ab5a",
-      "label": "LOT dernier vol Embraer E170",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-30T13:31:09Z",
-      "updated": "2026-11-02T09:01:12Z",
-      "items": [
-        {
-          "id": "e910b072126c9a44",
-          "feed": "Flightradar24 – Blog",
-          "title": "Launch customer LOT operates final Embraer E170 flight",
-          "url": "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/",
-          "domain": "flightradar24.com",
-          "summary": "When LOT Polish Airlines flight LO222 touches down in Warsaw from Vienna on the evening of 30 October, it will close a chapter in the airline’s story that began 22 years ago on the very same route. On 17 March 2004, LOT became the first airline in the world to operate an Embraer E170 revenue […] The post Launch customer LOT operates final Embraer E170 flight appeared first on Flightradar24 Blog .",
-          "published": "2026-10-30T13:19:38Z"
-        },
-        {
-          "id": "616ee0d00086c7f9",
-          "feed": "Simple Flying",
-          "title": "The E170's First Customer Is Retiring The Type Today",
-          "url": "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/",
-          "domain": "simpleflying.com",
-          "summary": "LOT Polish will fly its last E170 service between Vienna and Warsaw.",
-          "published": "2026-10-30T15:43:16Z"
-        },
-        {
-          "id": "e5adc4cb1bf95fca",
-          "feed": "Air Journal",
-          "title": "LOT tourne la page de l’Embraer E170 après 22 ans de service",
-          "url": "https://www.air-journal.fr/2026-11-02-lot-tourne-la-page-de-lembraer-e170-apres-22-ans-de-service-5278637.html",
-          "domain": "air-journal.fr",
-          "summary": "La compagnie polonaise a retiré son dernier Embraer E170 le 30 octobre 2026, au terme d’une ultime rotation entre Varsovie et Vienne. Première au monde à avoir mis ce biréacteur en service commercial en mars 2004, LOT referme un chapitre de son histoire régionale, à l’approche de l’arrivée des Airbus A220. Un dernier Varsovie–Vienne en écho au […]",
-          "published": "2026-11-02T09:00:39Z"
-        }
-      ],
-      "story_id": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a",
-      "written_count": 3
     },
     "cb9a6bb95c6": {
       "id": "cb9a6bb95c6",
@@ -4866,27 +4828,6 @@
       "story_id": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2",
       "written_count": 1
     },
-    "c0f97ed5741": {
-      "id": "c0f97ed5741",
-      "label": "CJUE aides Covid KLM Air France contre Commission Ryanair",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-07T09:01:17Z",
-      "updated": "2026-11-07T09:01:17Z",
-      "items": [
-        {
-          "id": "eff62195c42eea9c",
-          "feed": "Air Journal",
-          "title": "Aide publique : KLM remporte une manche face à Ryanair devant la justice européenne",
-          "url": "https://www.air-journal.fr/2026-11-07-aide-publique-klm-remporte-une-manche-face-a-ryanair-devant-la-justice-europeenne-5278707.html",
-          "domain": "air-journal.fr",
-          "summary": "Nouveau rebondissement dans le contentieux des aides publiques accordées au transport aérien pendant la pandémie de Covid. Saisie de pourvois formés par la Commission européenne, KLM, Air France et la holding Air France-KLM, la Cour de justice de l’Union européenne a annulé l’arrêt rendu le 7 février 2024 par le Tribunal de l’Union européenne. Celui-ci […]",
-          "published": "2026-11-07T09:00:05Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 1
-    },
     "c122e09368a": {
       "id": "c122e09368a",
       "label": "FAA audition modernisation contrôle aérien 12,5 Md$",
@@ -5342,10 +5283,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c5c7ea3d762": {
+      "id": "c5c7ea3d762",
+      "label": "KLM reçoit son premier A350 (22 appareils)",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-09T09:10:52Z",
+      "updated": "2026-11-09T09:10:52Z",
+      "items": [
+        {
+          "id": "ef2628d70f3fdf76",
+          "feed": "Simple Flying",
+          "title": "Why KLM Is Replacing Older Widebodies With 22 Airbus A350s That Cut Fuel Burn & CO2 By 25%",
+          "url": "https://simpleflying.com/klm-replacing-older-widebodies-22-airbus-a350s-cut-fuel-burn-co2-25-percent/",
+          "domain": "simpleflying.com",
+          "summary": "KLM has just received its first next-generation Airbus A350.",
+          "published": "2026-11-09T09:01:18Z"
+        }
+      ],
+      "story_id": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.541021
+    "2026-11": 3.549058
   }
 }

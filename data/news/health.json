@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T09:01:03Z",
+  "run": "2026-11-09T09:10:37Z",
   "stats": {
-    "fetched": 692,
+    "fetched": 691,
     "new": 1,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.541,
+  "spend_month_usd": 3.5491,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -51,7 +51,7 @@
     },
     "The Local France – Aviation": {
       "ok": true,
-      "items": 14
+      "items": 13
     },
     "The Local France – Accidents": {
       "ok": true,
@@ -212,12 +212,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
-    },
-    {
-      "dossier": "LOT dernier vol Embraer E170",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-30-lot-polish-airlines-retire-l-embraer-e170-dont-elle-fut-la-p-ab5a"
     },
     {
       "dossier": "Alaska Airlines licenciements 200 employés",
@@ -856,10 +850,10 @@
       "breve": "2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac"
     },
     {
-      "dossier": "CJUE aides Covid KLM Air France contre Commission Ryanair",
+      "dossier": "KLM reçoit son premier A350 (22 appareils)",
       "statut": "source_unique",
       "editeurs": 1,
-      "breve": null
+      "breve": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762"
     },
     {
       "dossier": "FAA audition modernisation contrôle aérien 12,5 Md$",

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762",
+    "created": "2026-11-09T09:10:55Z",
+    "updated": "2026-11-09T09:10:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "KLM reçoit son premier Airbus A350 de nouvelle génération",
+    "chapo": "Selon Simple Flying, KLM vient de recevoir son premier Airbus A350 de nouvelle génération. Le média l'associe au remplacement d'anciens gros-porteurs par 22 A350.",
+    "paragraphes": [
+      "D'après Simple Flying, la compagnie néerlandaise prévoit de remplacer des gros-porteurs plus anciens par 22 Airbus A350. Le titre de l'article avance une réduction de la consommation de carburant et des émissions de CO2 de 25 %.",
+      "Le média présente ce renouvellement de flotte comme la raison d'être de l'arrivée de ce premier appareil."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Why KLM Is Replacing Older Widebodies With 22 Airbus A350s That Cut Fuel Burn & CO2 By 25%",
+        "url": "https://simpleflying.com/klm-replacing-older-widebodies-22-airbus-a350s-cut-fuel-burn-co2-25-percent/",
+        "date": "2026-11-09T09:01:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
     "created": "2026-11-06T13:01:37Z",
     "updated": "2026-11-09T09:01:24Z",
