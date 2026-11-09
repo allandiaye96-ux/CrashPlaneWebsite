@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe",
+    "created": "2026-11-09T13:20:57Z",
+    "updated": "2026-11-09T13:20:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Philippine Airlines commande neuf Airbus A350-1000 supplémentaires et prend cinq options d'achat",
+    "chapo": "Philippine Airlines a ferme commandé neuf Airbus A350-1000 de plus, selon airliners.de, qui cite la compagnie. Celle-ci s'est aussi garanti des droits d'achat sur cinq appareils additionnels.",
+    "paragraphes": [
+      "D'après la compagnie philippine, citée par airliners.de, les contrats avec Airbus et avec le motoriste Rolls-Royce sont signés. La commande ferme porte sur neuf avions, auxquels s'ajoutent des droits d'achat pour cinq autres machines.",
+      "Avec cette commande, Philippine Airlines atteint un total de 18 appareils de ce type, toujours d'après airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Philippine Airlines bestellt neun weitere Airbus A350-1000",
+        "url": "https://www.airliners.de/philippine-airlines-bestellt-airbus-a350-1000/91404",
+        "date": "2026-11-09T13:05:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
     "created": "2026-11-08T14:50:51Z",
     "updated": "2026-11-09T13:10:54Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T13:10:32Z",
+  "run": "2026-11-09T13:20:34Z",
   "stats": {
     "fetched": 691,
-    "new": 3,
+    "new": 5,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.6672,
+  "spend_month_usd": 3.676,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -812,6 +812,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762"
+    },
+    {
+      "dossier": "Philippine Airlines commande A350-1000",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe"
     },
     {
       "dossier": "Pistorius décision avion de combat après fin FCAS",

@@ -1335,7 +1335,12 @@
     "https://simpleflying.com/german-union-demands-disclosure-emirates-berlin-traffic-rights/": "2026-11-09T13:01:01Z",
     "https://www.air-journal.fr/2026-11-09-avec-mimizan-air-france-passe-le-cap-des-60-airbus-a220-5278753.html": "2026-11-09T13:10:32Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/equipements/eaton-fournira-les-systemes-hydrauliques-et-des-equipements-carburant-du-falcon-10x-de-dassault-aviation-20261109.html": "2026-11-09T13:10:32Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html": "2026-11-09T13:10:32Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html": "2026-11-09T13:10:32Z",
+    "https://avitrader.com/2026/11/09/emirates-secures-shariah-compliant-a350-financing/": "2026-11-09T13:20:34Z",
+    "https://www.airliners.de/philippine-airlines-bestellt-airbus-a350-1000/91404": "2026-11-09T13:20:34Z",
+    "https://www.airliners.de/wizz-air-ernennt-chief-technical-officer/91403": "2026-11-09T13:20:34Z",
+    "https://www.airliners.de/ufo-fordert-offenlegung-emirates-rechte-berlin/91400": "2026-11-09T13:20:34Z",
+    "https://www.airliners.de/brussels-airlines-fuehrt-starlink-internet-bord/91402": "2026-11-09T13:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5156,10 +5161,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c7d44cb2dfe": {
+      "id": "c7d44cb2dfe",
+      "label": "Philippine Airlines commande A350-1000",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-09T13:20:54Z",
+      "updated": "2026-11-09T13:20:54Z",
+      "items": [
+        {
+          "id": "5fed844a36330834",
+          "feed": "airliners.de",
+          "title": "Philippine Airlines bestellt neun weitere Airbus A350-1000",
+          "url": "https://www.airliners.de/philippine-airlines-bestellt-airbus-a350-1000/91404",
+          "domain": "airliners.de",
+          "summary": "Philippine Airlines hat neun weitere Airbus A350-1000 fest bestellt und sich Kaufrechte für fünf zusätzliche Maschinen gesichert. Die Verträge mit Airbus und dem Triebwerkshersteller Rolls Royce sind unterzeichnet, wie die Fluggesellschaft mitteilte. Insgesamt kommt die philippinische Airline damit auf 18 Flugzeuge des Typs.",
+          "published": "2026-11-09T13:05:00Z"
+        }
+      ],
+      "story_id": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.667216
+    "2026-11": 3.676022
   }
 }
