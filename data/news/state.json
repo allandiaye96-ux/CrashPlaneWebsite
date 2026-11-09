@@ -1323,7 +1323,9 @@
     "https://www.air-journal.fr/2026-11-09-espagne-la-greve-generale-du-11-novembre-menace-de-perturber-les-vols-et-lacces-aux-aeroports-5278746.html": "2026-11-09T11:01:08Z",
     "https://www.aerotime.aero/articles/us-air-force-anti-drone-nets-f35-shelters-tyndall": "2026-11-09T11:10:34Z",
     "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html": "2026-11-09T11:20:33Z",
-    "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-episode-393-the-pieces-are-worth-more-than-the-whole/": "2026-11-09T11:40:36Z"
+    "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-episode-393-the-pieces-are-worth-more-than-the-whole/": "2026-11-09T11:40:36Z",
+    "https://www.aero.de/news-54125/Drohnen-Flughafen-LeipzigHalle-sperrt-Start--und-Landebahnen.html": "2026-11-09T12:01:03Z",
+    "https://www.air-journal.fr/2026-11-09-brussels-airlines-le-wi-fi-starlink-arrive-a-bord-sans-supplement-5278749.html": "2026-11-09T12:01:03Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4404,7 +4406,7 @@
       "categorie": "Incident",
       "importance": 3,
       "created": "2026-11-06T15:01:40Z",
-      "updated": "2026-11-06T15:20:48Z",
+      "updated": "2026-11-09T12:01:15Z",
       "items": [
         {
           "id": "42df815549fab89d",
@@ -4423,10 +4425,19 @@
           "domain": "airliners.de",
           "summary": "Ein Fahndungsbild des BKA zeigt eine Person mit Kapuze auf einem E-Bike. Hat der oder die Unbekannte mit dem Anschlagsversuch am Leipziger Flughafen zu tun? Die Polizei sucht Zeugen.",
           "published": "2026-11-06T15:03:34Z"
+        },
+        {
+          "id": "2f917c5125749f6a",
+          "feed": "aero.de",
+          "title": "Drohnen: Flughafen Leipzig/Halle sperrt Start- und Landebahnen",
+          "url": "https://www.aero.de/news-54125/Drohnen-Flughafen-LeipzigHalle-sperrt-Start--und-Landebahnen.html",
+          "domain": "aero.de",
+          "summary": "LEIPZIG - In der Nähe eines Flughafens können Drohnen zu einer Gefahr werden. Am Wochenende mussten in Leipzig/Halle zwei Landebahnen zeitweise gesperrt werden.",
+          "published": "2026-11-09T11:55:22Z"
         }
       ],
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
-      "written_count": 2
+      "written_count": 3
     },
     "c4326057676": {
       "id": "c4326057676",
@@ -5211,6 +5222,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.598548
+    "2026-11": 3.613378
   }
 }
