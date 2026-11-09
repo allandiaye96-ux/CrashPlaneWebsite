@@ -1922,27 +1922,6 @@
       "story_id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
       "written_count": 6
     },
-    "cedf40f0714": {
-      "id": "cedf40f0714",
-      "label": "Amadeus fuite données Qantas",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T20:01:19Z",
-      "updated": "2026-11-02T20:01:19Z",
-      "items": [
-        {
-          "id": "a4cddac534d8b249",
-          "feed": "Australian Aviation",
-          "title": "Qantas customer data possibly exposed in Amadeus hack",
-          "url": "https://australianaviation.com.au/2026/11/qantas-customer-data-possibly-exposed-in-amadeus-hack/",
-          "domain": "australianaviation.com.au",
-          "summary": "Amadeus, which services around 141 global airlines, including Korean Air, Asiana, Japan Airlines, ANA and Cathay Pacific, has reportedly advised its clients that no payment or financial data was accessed, though other personal details may have been exposed.",
-          "published": "2026-11-02T05:16:08Z"
-        }
-      ],
-      "story_id": "2026-11-02-piratage-chez-amadeus-des-donnees-clients-de-qantas-possible-0714",
-      "written_count": 1
-    },
     "cb6f6e8e810": {
       "id": "cb6f6e8e810",
       "label": "United CEO Boom Overture retard entrée en service",
