@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux": "2026-10-30T14:10:36Z",
-    "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue": "2026-10-30T14:10:36Z",
-    "https://www.aero.de/news-54054/Lufthansa-D-AIEM-A321neo.html": "2026-10-30T14:20:35Z",
     "https://simpleflying.com/pilots-plan-for-every-emergency-except-life-after-flying/": "2026-10-30T14:40:33Z",
     "https://simpleflying.com/airbus-confirms-first-a380-not-retiring/": "2026-10-30T15:01:04Z",
     "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z",
@@ -1340,7 +1337,11 @@
     "https://simpleflying.com/delta-air-lines-united-airlines-now-sell-business-class-set-without-business-class-deal/": "2026-11-09T14:01:02Z",
     "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/": "2026-11-09T14:01:02Z",
     "https://www.air-journal.fr/2026-11-09-paris-renforce-barcelone-et-le-caire-sky-express-etoffe-son-reseau-autour-dathenes-5278752.html": "2026-11-09T14:01:02Z",
-    "https://leehamnews.com/2026/11/09/embraers-ambitions-in-india-face-test-of-airline-economics/": "2026-11-09T14:10:35Z"
+    "https://leehamnews.com/2026/11/09/embraers-ambitions-in-india-face-test-of-airline-economics/": "2026-11-09T14:10:35Z",
+    "https://www.airliners.de/ben-holert-uebernimmt-fuehrung-lufthansa-technical-training/91408": "2026-11-09T14:20:39Z",
+    "https://www.airliners.de/leav-aviation-fliegt-sommer-2027-paderbornlippstadt-kreta/91412": "2026-11-09T14:20:39Z",
+    "https://www.airliners.de/eurowings-sommer-2027-strecke-uesseldorf-frankreich/91406": "2026-11-09T14:20:39Z",
+    "https://www.airliners.de/luxair-least-winter-a320-dat/91395": "2026-11-09T14:20:39Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1813,27 +1814,6 @@
       ],
       "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
       "written_count": 4
-    },
-    "c1e4142b0c1": {
-      "id": "c1e4142b0c1",
-      "label": "FAA finance étude JetZero moteurs top-mounted",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-02T14:10:46Z",
-      "updated": "2026-11-02T14:10:46Z",
-      "items": [
-        {
-          "id": "e499b8b335181ad4",
-          "feed": "Leeham News",
-          "title": "FAA Funds JetZero Study of Top-Mounted Engine Airflow",
-          "url": "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/",
-          "domain": "leehamnews.com",
-          "summary": "By Hanneke Weitering • AIN Science & Technology Editor November 2, 2026 The FAA has awarded JetZero $5.3 million to study airflow through its top-mounted engines in flight, the company announced last week. Long Beach, California-based JetZero will... Read More The post FAA Funds JetZero Study of Top-Mounted Engine Airflow appeared first on Leeham News .",
-          "published": "2026-11-02T14:00:44Z"
-        }
-      ],
-      "story_id": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1",
-      "written_count": 1
     },
     "cb10cda0c77": {
       "id": "cb10cda0c77",
@@ -5174,6 +5154,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.686829
+    "2026-11": 3.687777
   }
 }

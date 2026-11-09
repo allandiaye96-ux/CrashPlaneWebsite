@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T14:10:35Z",
+  "run": "2026-11-09T14:20:39Z",
   "stats": {
     "fetched": 691,
-    "new": 1,
+    "new": 4,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.6868,
+  "spend_month_usd": 3.6878,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -422,12 +422,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "FAA finance étude JetZero moteurs top-mounted",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-la-faa-attribue-5-3-millions-de-dollars-a-jetzero-pour-etudi-b0c1"
     },
     {
       "dossier": "Chinese Big Three résultats T3 kérosène pertes",
