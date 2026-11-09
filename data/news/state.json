@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airline-with-worlds-most-comfortable-premium-economy-seat/": "2026-10-30T20:30:52Z",
     "https://leehamnews.com/2026/10/30/boeings-rough-week-maybe-management-deserves-some-credit/": "2026-10-30T20:40:32Z",
     "https://theaviationist.com/2026/10/30/china-claims-gj-21-ucav-has-flown-from-sichuan/": "2026-10-30T20:40:32Z",
     "https://www.twz.com/air/highlights-from-north-koreas-drone-a-palooza": "2026-10-30T20:40:32Z",
@@ -1352,7 +1351,8 @@
     "https://australianaviation.com.au/2026/11/new-kangaroo-route-project-sunrise-will-fly-as-qf1-and-qf2/": "2026-11-09T20:01:02Z",
     "https://australianaviation.com.au/2026/11/council-meeting-fuels-orange-newcastle-flights-speculation/": "2026-11-09T20:01:02Z",
     "https://australianaviation.com.au/2026/11/nasa-reveals-new-experimental-x-70-fractal-aircraft/": "2026-11-09T20:01:02Z",
-    "https://australianaviation.com.au/2026/11/katherine-bennell-pegg-flies-with-raaf-roulettes/": "2026-11-09T20:01:02Z"
+    "https://australianaviation.com.au/2026/11/katherine-bennell-pegg-flies-with-raaf-roulettes/": "2026-11-09T20:01:02Z",
+    "https://simpleflying.com/jetblue-launches-3-new-nonstop-routes-in-only-1-day/": "2026-11-09T20:30:53Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5234,6 +5234,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.809126
+    "2026-11": 3.809926
   }
 }
