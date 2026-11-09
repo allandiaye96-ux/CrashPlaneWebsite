@@ -1762,27 +1762,6 @@
       "story_id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
       "written_count": 3
     },
-    "cc2f8482356": {
-      "id": "cc2f8482356",
-      "label": "EES impact retards vols été",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-02T06:20:50Z",
-      "updated": "2026-11-02T06:20:50Z",
-      "items": [
-        {
-          "id": "1b49243819917f93",
-          "feed": "airliners.de",
-          "title": "EES wirkt sich im Sommer nur begrenzt auf Abflugverspätungen aus",
-          "url": "https://www.airliners.de/ees-wirkt-sich-sommer-begrenzt-abflugverspaetungen-aus/91223",
-          "domain": "airliners.de",
-          "summary": "Das Entry-Exit-System (EES) hat im Sommer laut einer Datenanalyse nur begrenzte Auswirkungen auf Abflugverspätungen gehabt. Stärker betroffen waren Flüge in Nicht-Schengen-Staaten und der Vormittag. Zwischen Deutschland, Frankreich und Portugal zeigen sich zudem deutliche Unterschiede.",
-          "published": "2026-11-02T05:25:00Z"
-        }
-      ],
-      "story_id": "2026-11-02-systeme-ees-un-impact-limite-sur-les-retards-au-depart-cet-e-2356",
-      "written_count": 1
-    },
     "c5022e916ae": {
       "id": "c5022e916ae",
       "label": "Ryanair plan d'économies kérosène T2",
