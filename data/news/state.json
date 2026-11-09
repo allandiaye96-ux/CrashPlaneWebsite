@@ -1338,7 +1338,10 @@
     "https://www.aerotime.aero/articles/global-oversight-local-action-value-groups-disruption-care-at-scale-video": "2026-11-09T13:40:34Z",
     "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/": "2026-11-09T13:40:34Z",
     "https://simpleflying.com/video/an-irredeemable-nuisance-why-this-journalist-believes-all-airplanes-shouldn-t-have-windows/": "2026-11-09T13:40:34Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-recoit-son-dernier-airbus-a220-20261109.html": "2026-11-09T13:40:34Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-recoit-son-dernier-airbus-a220-20261109.html": "2026-11-09T13:40:34Z",
+    "https://simpleflying.com/delta-air-lines-united-airlines-now-sell-business-class-set-without-business-class-deal/": "2026-11-09T14:01:02Z",
+    "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/": "2026-11-09T14:01:02Z",
+    "https://www.air-journal.fr/2026-11-09-paris-renforce-barcelone-et-le-caire-sky-express-etoffe-son-reseau-autour-dathenes-5278752.html": "2026-11-09T14:01:02Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4701,7 +4704,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-11-07T20:01:09Z",
-      "updated": "2026-11-07T20:01:09Z",
+      "updated": "2026-11-09T14:01:28Z",
       "items": [
         {
           "id": "c06e6550c9948be5",
@@ -4711,10 +4714,19 @@
           "domain": "simpleflying.com",
           "summary": "Dulles just tripled its modernization budget to more than $20 billion, with Concourse C and D set for replacement.",
           "published": "2026-11-07T20:00:18Z"
+        },
+        {
+          "id": "98605c3503efb152",
+          "feed": "Simple Flying",
+          "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
+          "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
+          "domain": "simpleflying.com",
+          "summary": "Among the most notable additions are 14 gates and a new United Club lounge.",
+          "published": "2026-11-09T13:56:34Z"
         }
       ],
       "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
-      "written_count": 1
+      "written_count": 2
     },
     "ca631425f97": {
       "id": "ca631425f97",
@@ -5163,6 +5175,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.676871
+    "2026-11": 3.686003
   }
 }

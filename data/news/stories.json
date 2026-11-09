@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
+    "created": "2026-11-07T20:01:11Z",
+    "updated": "2026-11-09T14:01:31Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Washington Dulles : nouveau concourse United avec 14 portes, budget de modernisation à plus de 20 milliards de dollars",
+    "chapo": "Selon Simple Flying, United Airlines a ouvert à Washington Dulles son premier nouveau concourse en 20 ans, tandis que le budget de modernisation de l'aéroport dépasserait désormais 20 milliards de dollars.",
+    "paragraphes": [
+      "D'après Simple Flying, le nouveau concourse compte 14 portes d'embarquement et un nouveau salon United Club. Il s'agit du premier concourse inauguré par la compagnie sur cette plateforme depuis 20 ans.",
+      "Le média indique par ailleurs que l'enveloppe consacrée à la modernisation de Dulles a triplé, pour dépasser 20 milliards de dollars. Les concourses C et D doivent être remplacés dans le cadre de ce programme, organisé autour du hub de United à Washington."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
+        "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
+        "date": "2026-11-07T20:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
+        "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
+        "date": "2026-11-09T13:56:34Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe",
     "created": "2026-11-09T13:20:57Z",
     "updated": "2026-11-09T13:20:57Z",
@@ -679,37 +718,6 @@
         "title": "Avolon finalises 140 Boeing 737-10 order",
         "url": "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/",
         "date": "2026-11-05T12:16:46Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
-    "created": "2026-11-07T20:01:11Z",
-    "updated": "2026-11-07T20:01:11Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Dulles : le budget de modernisation triplé à plus de 20 milliards de dollars, avec les concourses C et D remplacés",
-    "chapo": "Selon Simple Flying, l'aéroport de Washington-Dulles, hub de United Airlines, a triplé son budget de modernisation, désormais supérieur à 20 milliards de dollars.",
-    "paragraphes": [
-      "D'après Simple Flying, ce programme prévoit le remplacement des concourses C et D de l'aéroport. Le média présente cette enveloppe comme une transformation d'envergure organisée autour du hub de United à Washington."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
-        "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
-        "date": "2026-11-07T20:00:18Z",
         "official": false
       }
     ]
