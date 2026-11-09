@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/breeze-airways-launches-8-new-international-routes/": "2026-10-30T17:10:33Z",
-    "https://simpleflying.com/united-airlines-wrote-off-airbus-a320-after-refreshing-next-mod/": "2026-10-30T17:10:33Z",
-    "https://airlinegeeks.com/2026/10/30/air-fares-still-quite-low-a4a-ceo-says/": "2026-10-30T17:10:33Z",
     "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/": "2026-10-30T17:50:35Z",
     "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades": "2026-10-30T17:50:35Z",
     "https://simpleflying.com/why-faa-ended-single-pilot-exemptions-cessna-citations-pilots/": "2026-10-30T18:01:03Z",
@@ -1354,7 +1351,10 @@
     "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion": "2026-11-09T16:30:52Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-to-deliver-iris-frances-next-generation-military-earth-observation-satellites": "2026-11-09T16:30:52Z",
     "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html": "2026-11-09T16:30:52Z",
-    "https://www.aerotime.aero/articles/top-aces-a4n-skyhawk-alpha-jet-france-red-air": "2026-11-09T16:50:35Z"
+    "https://www.aerotime.aero/articles/top-aces-a4n-skyhawk-alpha-jet-france-red-air": "2026-11-09T16:50:35Z",
+    "https://simpleflying.com/united-airlines-newest-economy-plus-upsell-empty-middle-seat-covered-table-cupholders/": "2026-11-09T17:10:35Z",
+    "https://simpleflying.com/singapore-airlines-finally-adding-first-class-worlds-longest-flight/": "2026-11-09T17:10:35Z",
+    "https://leehamnews.com/2026/11/09/open-comments-thread-week-of-november-9-2026/": "2026-11-09T17:10:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5206,6 +5206,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.769077
+    "2026-11": 3.769965
   }
 }
