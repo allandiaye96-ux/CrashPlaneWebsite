@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
+    "created": "2026-11-06T13:01:37Z",
+    "updated": "2026-11-09T09:01:24Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Alerte à la bombe sur un A320 d'Aer Lingus : le commandant visé par une enquête en France",
+    "chapo": "Un Airbus A320 d'Aer Lingus assurant la liaison Dublin-Rome a été escorté par des chasseurs dans l'espace aérien français le 5 novembre, après une menace qui s'est révélée infondée, selon Air Journal. Le parquet d'Évreux s'intéresse à l'attitude du commandant de bord.",
+    "paragraphes": [
+      "D'après Air Journal, l'appareil transportait 157 personnes et a atterri sans incident. La justice française cherche à déterminer si le pilote a d'abord refusé de se dérouter vers la base aérienne normande demandée par les autorités. Selon aero.de, le commandant et les autorités divergeaient sur le choix de l'aéroport de déroutement, et la France a fait décoller des avions de combat.",
+      "Aero.de indique que cette alerte fait partie des menaces reçues contre au moins 27 vols dans l'espace aérien européen, toutes ayant tourné à la fausse alerte. L'association belge de pilotes BeCA défend la décision du commandant, d'après Air Journal, et l'affaire relance le débat sur la gestion de ces alertes."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Frankreich ermittelt gegen Pilot von Aer Lingus",
+        "url": "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html",
+        "date": "2026-11-06T07:38:31Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Aer Lingus : deux chasseurs pour escorter le Dublin-Rome, le commandant de bord visé par une enquête",
+        "url": "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html",
+        "date": "2026-11-06T13:00:09Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Un commandant de bord peut-il refuser un déroutement militaire ? L’affaire Aer Lingus relance le débat",
+        "url": "https://www.air-journal.fr/2026-11-09-un-commandant-de-bord-peut-il-refuser-un-deroutement-militaire-laffaire-aer-lingus-relance-le-debat-5278743.html",
+        "date": "2026-11-09T09:00:28Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac",
     "created": "2026-11-09T08:40:55Z",
     "updated": "2026-11-09T08:40:55Z",
@@ -1311,46 +1357,6 @@
         "title": "Stunning: Alaska Airlines Unveils Lie-Flat 737 MAX 10 “Aurora Suites” 787s Get 46% Premium Seating",
         "url": "https://simpleflying.com/video/stunning-alaska-airlines-unveils-lie-flat-737-max-10-aurora-suites-787s-get-46-premium-seating/",
         "date": "2026-11-06T13:32:18Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
-    "created": "2026-11-06T13:01:37Z",
-    "updated": "2026-11-06T13:01:37Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Incident",
-    "importance": 2,
-    "titre": "Alerte à la bombe sur un A320 d'Aer Lingus : enquête ouverte en France, chasseurs en escorte",
-    "chapo": "Selon Air Journal, le parquet d'Évreux enquête après l'alerte à la bombe visant un vol Aer Lingus Dublin-Rome. Le pilote aurait tardé à se dérouter vers la base aérienne désignée par les autorités françaises.",
-    "paragraphes": [
-      "D'après Air Journal, l'Airbus A320 assurant la liaison Dublin-Rome transportait 157 personnes le 5 novembre. L'alerte, finalement sans fondement, a conduit à un accompagnement par deux chasseurs, et l'appareil s'est posé sans incident.",
-      "Le parquet d'Évreux a ouvert une enquête sur le refus présumé du commandant de rallier immédiatement la base aérienne normande, précise Air Journal. Selon aero.de, le capitaine et les autorités se sont opposés sur le choix de l'aéroport de déroutement, et la France a fait décoller des avions de chasse.",
-      "Toujours d'après aero.de, des menaces ont visé au moins 27 vols dans l'espace aérien européen, toutes jugées être de fausses alertes."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Frankreich ermittelt gegen Pilot von Aer Lingus",
-        "url": "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html",
-        "date": "2026-11-06T07:38:31Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Aer Lingus : deux chasseurs pour escorter le Dublin-Rome, le commandant de bord visé par une enquête",
-        "url": "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html",
-        "date": "2026-11-06T13:00:09Z",
         "official": false
       }
     ]
