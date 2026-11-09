@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/10/30/akzonobel-launches-digital-colour-system-mixit/": "2026-10-30T09:30:52Z",
     "https://www.airliners.de/china-eastern-airlines-verdient-dritten-quartal-982-prozent/91215": "2026-10-30T09:40:35Z",
     "https://www.airliners.de/airx-ruestet-a340-schnellem-wlan-plant-liegesitze/91197": "2026-10-30T09:40:35Z",
     "https://www.airliners.de/air-canada-senkt-ergebnisprognose-teurem-kerosin/91204": "2026-10-30T09:40:35Z",
@@ -1339,7 +1338,8 @@
     "https://www.air-journal.fr/2026-11-09-un-commandant-de-bord-peut-il-refuser-un-deroutement-militaire-laffaire-aer-lingus-relance-le-debat-5278743.html": "2026-11-09T09:01:03Z",
     "https://simpleflying.com/klm-replacing-older-widebodies-22-airbus-a350s-cut-fuel-burn-co2-25-percent/": "2026-11-09T09:10:37Z",
     "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak": "2026-11-09T09:30:50Z",
-    "https://www.aero.de/news-54121/Aer-Lingus-baut-Verwaltungsstellen-und-Flugpersonal-ab.html": "2026-11-09T09:30:50Z"
+    "https://www.aero.de/news-54121/Aer-Lingus-baut-Verwaltungsstellen-und-Flugpersonal-ab.html": "2026-11-09T09:30:50Z",
+    "https://simpleflying.com/lufthansa-boeing-747-american-airlines-787-miami-close-accident/": "2026-11-09T09:40:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5304,10 +5304,31 @@
       ],
       "story_id": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762",
       "written_count": 1
+    },
+    "c805bd57fac": {
+      "id": "c805bd57fac",
+      "label": "Quasi-collision Miami Lufthansa 747 et American 787",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-09T09:40:45Z",
+      "updated": "2026-11-09T09:40:45Z",
+      "items": [
+        {
+          "id": "944842613eccbefc",
+          "feed": "Simple Flying",
+          "title": "Lufthansa 747 “Very Close To An Accident” In Miami As American Airlines 787 Turns Into Its Path",
+          "url": "https://simpleflying.com/lufthansa-boeing-747-american-airlines-787-miami-close-accident/",
+          "domain": "simpleflying.com",
+          "summary": "The German quadjet was on its way to take off at the time, while the American Dreamliner had just landed.",
+          "published": "2026-11-09T09:33:18Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.549882
+    "2026-11": 3.5507
   }
 }
