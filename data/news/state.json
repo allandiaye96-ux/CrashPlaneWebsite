@@ -1353,7 +1353,8 @@
     "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings": "2026-11-09T16:30:52Z",
     "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion": "2026-11-09T16:30:52Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-to-deliver-iris-frances-next-generation-military-earth-observation-satellites": "2026-11-09T16:30:52Z",
-    "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html": "2026-11-09T16:30:52Z"
+    "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html": "2026-11-09T16:30:52Z",
+    "https://www.aerotime.aero/articles/top-aces-a4n-skyhawk-alpha-jet-france-red-air": "2026-11-09T16:50:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5205,6 +5206,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.768251
+    "2026-11": 3.769077
   }
 }
