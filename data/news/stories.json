@@ -154,7 +154,7 @@
     "version": 1,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Incident",
     "importance": 2,
     "titre": "LAX : un A350 d'Air France et un A321 d'American Airlines se croisent de près après un écart au départ",

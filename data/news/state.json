@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-10-30-lille-prague-en-1-h-35-easyjet-ouvre-une-nouvelle-porte-sur-leurope-centrale-5278571.html": "2026-10-30T07:00:59Z",
     "https://simpleflying.com/airbus-a320neo-boeing-737-max-backlogged-embraer-e2-13-15-months-build/": "2026-10-30T08:00:59Z",
     "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html": "2026-10-30T08:00:59Z",
     "https://www.air-journal.fr/2026-10-30-dix-heures-en-monocouloir-a321xlr-le-pari-long-courrier-dindigo-entre-mumbai-et-amsterdam-5278570.html": "2026-10-30T08:00:59Z",
@@ -1340,7 +1339,8 @@
     "https://www.aero.de/news-54118/NASA-sucht-neue-Astronauten.html": "2026-11-09T05:50:37Z",
     "https://simpleflying.com/ryanair-boeing-737-fleet-strategy/": "2026-11-09T06:00:59Z",
     "https://www.air-journal.fr/2026-11-09-a-clermont-ferrand-hop-prepare-lentretien-des-airbus-a220-dair-france-5278740.html": "2026-11-09T06:00:59Z",
-    "https://www.airliners.de/vertrieb-marketing-singapore-airlines-kabine-personalkosten-ryanair-kassel/91387": "2026-11-09T06:20:35Z"
+    "https://www.airliners.de/vertrieb-marketing-singapore-airlines-kabine-personalkosten-ryanair-kassel/91387": "2026-11-09T06:20:35Z",
+    "https://www.air-journal.fr/2026-11-09-a-los-angeles-un-virage-inattendu-dun-a350-dair-france-declenche-une-alerte-trafic-5278741.html": "2026-11-09T07:01:02Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5063,7 +5063,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-08T07:40:49Z",
-      "updated": "2026-11-08T13:50:49Z",
+      "updated": "2026-11-09T07:01:20Z",
       "items": [
         {
           "id": "29c7cce9d43637ad",
@@ -5082,10 +5082,19 @@
           "domain": "aerotime.aero",
           "summary": "An Air France Airbus A350-900 and an American Airlines Airbus A321-200 were involved in a near-mid-air collision shortly… The post Air France A350 departure deviation brings it close to American A321 at LAX appeared first on AeroTime .",
           "published": "2026-11-08T13:38:31Z"
+        },
+        {
+          "id": "1295da786b1f038c",
+          "feed": "Air Journal",
+          "title": "À Los Angeles, un virage inattendu d’un A350 d’Air France déclenche une alerte trafic",
+          "url": "https://www.air-journal.fr/2026-11-09-a-los-angeles-un-virage-inattendu-dun-a350-dair-france-declenche-une-alerte-trafic-5278741.html",
+          "domain": "air-journal.fr",
+          "summary": "Un Airbus A350-900 d’Air France à destination de Papeete a engagé un virage à gauche inattendu après son décollage de Los Angeles, le 7 novembre 2026, le rapprochant de la trajectoire d’un A321 d’American Airlines. Le contrôle aérien est intervenu immédiatement. Les deux vols ont poursuivi leur route, mais les circonstances précises de cet écart […]",
+          "published": "2026-11-09T07:00:19Z"
         }
       ],
       "story_id": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754",
-      "written_count": 2
+      "written_count": 3
     },
     "ca6bda9a970": {
       "id": "ca6bda9a970",
@@ -5237,6 +5246,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.456056
+    "2026-11": 3.475214
   }
 }

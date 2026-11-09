@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T06:53:58Z",
+  "run": "2026-11-09T07:01:02Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
+    "new": 1,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 3.4561,
+  "spend_month_usd": 3.4752,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -262,6 +262,12 @@
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
+      "dossier": "Quasi-collision LAX Air France A350 American A321",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754"
+    },
+    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -428,12 +434,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-08-aerfin-acquiert-44-boeing-737ng-aupres-de-qantas-sa-plus-imp-e887"
-    },
-    {
-      "dossier": "Quasi-collision LAX Air France A350 American A321",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",

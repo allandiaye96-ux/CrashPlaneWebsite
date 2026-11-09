@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 06:54:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 07:01:35 +0000</lastBuildDate>
   <item>
     <title>Philippine Airlines lance une nouvelle liaison sans escale de 17 heures vers les États-Unis</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26/</link>
@@ -30,14 +30,6 @@
     <pubDate>Sun, 08 Nov 2026 14:50:51 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AeroTime, China Eastern Airlines a confirmé CFM International comme fournisseur de moteurs pour sa dernière commande d&#x27;Airbus monocouloirs, portant sur 101 appareils de la famille A320neo.</description>
-  </item>
-  <item>
-    <title>LAX : un A350 d&#x27;Air France et un A321 d&#x27;American Airlines se croisent de près après un écart au départ</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754/</guid>
-    <pubDate>Sun, 08 Nov 2026 13:50:52 +0000</pubDate>
-    <category>Incident</category>
-    <description>Un Airbus A350-900 d&#x27;Air France et un A321-200 d&#x27;American Airlines ont été impliqués dans un rapprochement dangereux à Los Angeles, selon AeroTime. Simple Flying évoque un virage à gauche non autorisé de l&#x27;A350 au départ, vers minuit, qui a croisé la trajectoire de montée de l&#x27;A321.</description>
   </item>
   <item>
     <title>IAG prévoit une capacité 2026 légèrement inférieure à celle de 2025, selon Air Journal</title>
@@ -246,6 +238,14 @@
     <pubDate>Fri, 06 Nov 2026 11:10:53 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AeroTime, Airbus vise 259 livraisons d&#x27;avions commerciaux en novembre et décembre 2026 afin d&#x27;atteindre sa cible annuelle. Simple Flying avance un chiffre légèrement différent : 249 appareils.</description>
+  </item>
+  <item>
+    <title>Qantas lance une nouvelle liaison sans escale de 15 heures au départ de Sydney</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9/</guid>
+    <pubDate>Fri, 06 Nov 2026 11:01:22 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Qantas met en service une nouvelle route sans escale de 15 heures depuis Sydney, qualifiée d&#x27;historique par le site spécialisé.</description>
   </item>
 </channel>
 </rss>
