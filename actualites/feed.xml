@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:20:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 15:31:26 +0000</lastBuildDate>
+  <item>
+    <title>airBaltic signe un accord de wet lease avec le groupe Lufthansa avant de réduire sa flotte d&#x27;A220-300</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e/</guid>
+    <pubDate>Mon, 09 Nov 2026 15:31:26 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, airBaltic a conclu un nouvel accord de wet lease avec le groupe Lufthansa. Il s&#x27;inscrit dans la préparation d&#x27;une réduction de sa flotte d&#x27;Airbus A220-300.</description>
+  </item>
   <item>
     <title>Qantas annonce un vol sans escale Sydney-Londres à partir d&#x27;octobre 2027 sous les numéros QF1 et QF2</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 16:40:53 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Singapore Airlines présente de nouvelles cabines haut de gamme pour ses Airbus A350-900ULR, utilisés sur les vols ultra-longue distance. La capacité y est réduite de 18 % et une classe First fait son apparition.</description>
-  </item>
-  <item>
-    <title>Beond suspend l&#x27;ensemble de ses vols réguliers du 30 octobre au 30 novembre</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a/</guid>
-    <pubDate>Fri, 06 Nov 2026 16:21:18 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, la compagnie loisirs de luxe Beond a annulé tous ses vols de ligne programmés entre le 30 octobre et le 30 novembre. Les vols charter ne sont pas concernés.</description>
   </item>
 </channel>
 </rss>

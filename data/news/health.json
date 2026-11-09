@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T15:20:34Z",
+  "run": "2026-11-09T15:31:01Z",
   "stats": {
     "fetched": 691,
-    "new": 7,
-    "written": 2,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7408,
+  "spend_month_usd": 3.7485,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -812,6 +812,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da"
+    },
+    {
+      "dossier": "airBaltic wet-lease Lufthansa A220",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e"
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",

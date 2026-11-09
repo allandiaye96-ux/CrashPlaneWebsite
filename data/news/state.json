@@ -1351,7 +1351,9 @@
     "https://www.airliners.de/ryanair-schliesst-gepaeckaufgabe-ab-dienstag-eine-stunde-vor-abflug/91397": "2026-11-09T15:20:34Z",
     "https://www.airliners.de/wizz-air-plant-maerz-2027-strecke-bosnien-deutschland/91414": "2026-11-09T15:20:34Z",
     "https://www.airliners.de/hainan-airlines-streicht-shenzhen-wien-jahresende/91413": "2026-11-09T15:20:34Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/philippine-airlines-a-finalise-sa-commande-dairbus-a350-1000-supplementaires-20261109.html": "2026-11-09T15:20:34Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/philippine-airlines-a-finalise-sa-commande-dairbus-a350-1000-supplementaires-20261109.html": "2026-11-09T15:20:34Z",
+    "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-11-09T15:31:01Z",
+    "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet": "2026-11-09T15:31:01Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5178,10 +5180,31 @@
       ],
       "story_id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
       "written_count": 1
+    },
+    "c70eb37c49e": {
+      "id": "c70eb37c49e",
+      "label": "airBaltic wet-lease Lufthansa A220",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-09T15:31:23Z",
+      "updated": "2026-11-09T15:31:23Z",
+      "items": [
+        {
+          "id": "abef5fe2d87fd17d",
+          "feed": "AeroTime",
+          "title": "airBaltic signs Lufthansa wet-lease deal to scale back A220 fleet",
+          "url": "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet",
+          "domain": "aerotime.aero",
+          "summary": "airBaltic has signed a new wet lease agreement with Lufthansa Group in preparation to reduce its Airbus A220-300… The post airBaltic signs Lufthansa wet-lease deal to scale back A220 fleet appeared first on AeroTime .",
+          "published": "2026-11-09T15:20:35Z"
+        }
+      ],
+      "story_id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.740757
+    "2026-11": 3.748539
   }
 }
