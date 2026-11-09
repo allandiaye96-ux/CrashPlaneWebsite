@@ -1343,7 +1343,8 @@
     "https://www.airliners.de/luxair-least-winter-a320-dat/91395": "2026-11-09T14:20:39Z",
     "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux": "2026-11-09T14:30:51Z",
     "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue": "2026-11-09T14:30:51Z",
-    "https://www.aerotime.aero/articles/royal-navy-strike-drones-hms-queen-elizabeth": "2026-11-09T14:30:51Z"
+    "https://www.aerotime.aero/articles/royal-navy-strike-drones-hms-queen-elizabeth": "2026-11-09T14:30:51Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record": "2026-11-09T14:50:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5110,10 +5111,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "caba8983790": {
+      "id": "caba8983790",
+      "label": "A350-1000ULR record du monde de distance Qantas",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-09T14:50:45Z",
+      "updated": "2026-11-09T14:50:45Z",
+      "items": [
+        {
+          "id": "cf13344b8de74db0",
+          "feed": "Airbus – Communiqués",
+          "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
+          "domain": "airbus.com",
+          "summary": "The Airbus A350-1000ULR (Ultra-Long Range) has officially broken the Guinness World Record for the longest flight by distance by a commercial airliner.",
+          "published": null
+        }
+      ],
+      "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.688599
+    "2026-11": 3.696598
   }
 }

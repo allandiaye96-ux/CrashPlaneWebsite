@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 14:40:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 14:50:48 +0000</lastBuildDate>
+  <item>
+    <title>L&#x27;Airbus A350-1000ULR, destiné à Qantas, décroche le record Guinness de distance en vol commercial</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790/</guid>
+    <pubDate>Mon, 09 Nov 2026 14:50:48 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon un communiqué d&#x27;Airbus, l&#x27;A350-1000ULR (Ultra-Long Range) a officiellement battu le record Guinness du vol le plus long en distance pour un avion de ligne commercial.</description>
+  </item>
   <item>
     <title>Philippine Airlines commande neuf Airbus A350-1000 supplémentaires et prend cinq options d&#x27;achat</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 14:11:14 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon Leeham News, qui reprend un article de FutureFlight (AIN), Beta Technologies cherche à devenir le premier constructeur d&#x27;avions électriques à obtenir une certification de la FAA.</description>
-  </item>
-  <item>
-    <title>Alaska Airlines dévoile Aurora : suites lie-flat sur 787 et sur certains 737 MAX 10 dès 2028</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165/</guid>
-    <pubDate>Fri, 06 Nov 2026 13:40:51 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, Alaska Airlines a présenté son nouveau produit Aurora, qui apportera des suites avec sièges à plat sur ses Boeing 787 Dreamliner et sur certains 737 MAX 10. Cette offre premium a été annoncée le 29 septembre 2026.</description>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
+    "created": "2026-11-09T14:50:48Z",
+    "updated": "2026-11-09T14:50:48Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "L'Airbus A350-1000ULR, destiné à Qantas, décroche le record Guinness de distance en vol commercial",
+    "chapo": "Selon un communiqué d'Airbus, l'A350-1000ULR (Ultra-Long Range) a officiellement battu le record Guinness du vol le plus long en distance pour un avion de ligne commercial.",
+    "paragraphes": [
+      "D'après Airbus, cet appareil, présenté comme destiné à Qantas, s'est vu attribuer le titre de Guinness World Records pour la plus longue distance parcourue par un avion commercial.",
+      "Le constructeur désigne cette version sous l'appellation ULR, pour Ultra-Long Range."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
     "created": "2026-11-07T20:01:11Z",
     "updated": "2026-11-09T14:01:31Z",
