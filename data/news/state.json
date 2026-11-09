@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/klmslauncheshistoric1stairbusa350flighttodayseeroutenow/": "2026-10-30T06:20:34Z",
     "https://www.airliners.de/lufthansa-systems-collins-aerospace-bauen-zusammenarbeit-navigationsdaten/91188": "2026-10-30T06:40:33Z",
     "https://www.airliners.de/luftfracht-logistik-grossraumfrachter-a321f-umzug-navi-mumbai-cargo-ziele-winterflugplan/91200": "2026-10-30T06:40:33Z",
     "https://www.air-journal.fr/2026-10-30-lille-prague-en-1-h-35-easyjet-ouvre-une-nouvelle-porte-sur-leurope-centrale-5278571.html": "2026-10-30T07:00:59Z",
@@ -1342,7 +1341,8 @@
     "https://www.aero.de/news-54110/Fraport-rechnet-mit-Ende-der-Durststrecke-im-Luftverkehr.html": "2026-11-09T05:20:33Z",
     "https://www.aero.de/news-54118/NASA-sucht-neue-Astronauten.html": "2026-11-09T05:50:37Z",
     "https://simpleflying.com/ryanair-boeing-737-fleet-strategy/": "2026-11-09T06:00:59Z",
-    "https://www.air-journal.fr/2026-11-09-a-clermont-ferrand-hop-prepare-lentretien-des-airbus-a220-dair-france-5278740.html": "2026-11-09T06:00:59Z"
+    "https://www.air-journal.fr/2026-11-09-a-clermont-ferrand-hop-prepare-lentretien-des-airbus-a220-dair-france-5278740.html": "2026-11-09T06:00:59Z",
+    "https://www.airliners.de/vertrieb-marketing-singapore-airlines-kabine-personalkosten-ryanair-kassel/91387": "2026-11-09T06:20:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5260,6 +5260,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.455248
+    "2026-11": 3.456056
   }
 }
