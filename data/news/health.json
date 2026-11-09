@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T12:50:34Z",
+  "run": "2026-11-09T13:01:01Z",
   "stats": {
     "fetched": 691,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.6477,
+  "spend_month_usd": 3.6485,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -428,12 +428,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Air India annulations 8 destinations",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d"
     },
     {
       "dossier": "Leipzig/Halle recours extension cargo Bautzen",

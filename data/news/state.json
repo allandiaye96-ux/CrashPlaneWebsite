@@ -1331,7 +1331,8 @@
     "https://avitrader.com/2026/11/09/ben-holert-takes-the-helm-at-lufthansa-technical-training/": "2026-11-09T12:30:51Z",
     "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives": "2026-11-09T12:40:33Z",
     "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol": "2026-11-09T12:40:33Z",
-    "https://avitrader.com/2026/11/09/bell-delivers-2000th-bell-407-helicopter/": "2026-11-09T12:40:33Z"
+    "https://avitrader.com/2026/11/09/bell-delivers-2000th-bell-407-helicopter/": "2026-11-09T12:40:33Z",
+    "https://simpleflying.com/german-union-demands-disclosure-emirates-berlin-traffic-rights/": "2026-11-09T13:01:01Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1747,27 +1748,6 @@
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
       "written_count": 6
-    },
-    "c87ecf5a27d": {
-      "id": "c87ecf5a27d",
-      "label": "Air India annulations 8 destinations",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T12:50:47Z",
-      "updated": "2026-11-02T12:50:47Z",
-      "items": [
-        {
-          "id": "4c9f2b136dcccfff",
-          "feed": "Simple Flying",
-          "title": "Air India Cancels All Flights To 8 Destinations: See Full List Now",
-          "url": "https://simpleflying.com/air-india-cancels-all-flights-to-8-destinations-see-full-list-now/",
-          "domain": "simpleflying.com",
-          "summary": "Three of these are international long haul routes.",
-          "published": "2026-11-02T12:49:38Z"
-        }
-      ],
-      "story_id": "2026-11-02-air-india-annulerait-tous-ses-vols-vers-huit-destinations-do-a27d",
-      "written_count": 1
     },
     "cf8e9359405": {
       "id": "cf8e9359405",
@@ -5216,6 +5196,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.647708
+    "2026-11": 3.648527
   }
 }
