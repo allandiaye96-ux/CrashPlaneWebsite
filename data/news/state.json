@@ -1341,7 +1341,10 @@
     "https://www.airliners.de/ben-holert-uebernimmt-fuehrung-lufthansa-technical-training/91408": "2026-11-09T14:20:39Z",
     "https://www.airliners.de/leav-aviation-fliegt-sommer-2027-paderbornlippstadt-kreta/91412": "2026-11-09T14:20:39Z",
     "https://www.airliners.de/eurowings-sommer-2027-strecke-uesseldorf-frankreich/91406": "2026-11-09T14:20:39Z",
-    "https://www.airliners.de/luxair-least-winter-a320-dat/91395": "2026-11-09T14:20:39Z"
+    "https://www.airliners.de/luxair-least-winter-a320-dat/91395": "2026-11-09T14:20:39Z",
+    "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux": "2026-11-09T14:30:51Z",
+    "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue": "2026-11-09T14:30:51Z",
+    "https://www.aerotime.aero/articles/royal-navy-strike-drones-hms-queen-elizabeth": "2026-11-09T14:30:51Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1814,48 +1817,6 @@
       ],
       "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
       "written_count": 4
-    },
-    "cb10cda0c77": {
-      "id": "cb10cda0c77",
-      "label": "Chinese Big Three résultats T3 kérosène pertes",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T14:20:49Z",
-      "updated": "2026-11-02T14:20:49Z",
-      "items": [
-        {
-          "id": "d8819f34e6eb48fd",
-          "feed": "airliners.de",
-          "title": "Hohe Kerosinpreise drücken Air China, China Eastern und China Southern ins Minus",
-          "url": "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244",
-          "domain": "airliners.de",
-          "summary": "Die drei größten Fluggesellschaften Chinas haben im traditionell stärksten Quartal des Jahres deutlich schlechter abgeschnitten als im Vorjahr. Analysten erwarten für alle drei Verluste im Gesamtjahr.",
-          "published": "2026-11-02T13:46:39Z"
-        }
-      ],
-      "story_id": "2026-11-02-kerosene-cher-air-china-china-eastern-et-china-southern-en-r-0c77",
-      "written_count": 1
-    },
-    "cfe7437fcbc": {
-      "id": "cfe7437fcbc",
-      "label": "IndiGo capacités internationales espace aérien pakistanais",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T14:20:49Z",
-      "updated": "2026-11-02T14:20:49Z",
-      "items": [
-        {
-          "id": "211cab66f1ebeb92",
-          "feed": "airliners.de",
-          "title": "Wegen Luftraumsperrungen: Indigo verlagert Auslands-Kapazitäten früher als geplant",
-          "url": "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242",
-          "domain": "airliners.de",
-          "summary": "Die Sperrung des pakistanischen Luftraums und die Lage im Nahen Osten behindern die Verbindungen Richtung Westen der größten Fluggesellschaft Indiens. Vorstandschef Willie Walsh deutet an, dass Indigo seine internationale Expansion deshalb anders takten könnte.",
-          "published": "2026-11-02T13:46:25Z"
-        }
-      ],
-      "story_id": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc",
-      "written_count": 1
     },
     "c6f313cf0b0": {
       "id": "c6f313cf0b0",
@@ -5150,10 +5111,31 @@
       ],
       "story_id": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe",
       "written_count": 1
+    },
+    "c6aa541700e": {
+      "id": "c6aa541700e",
+      "label": "Royal Navy drones frappe HMS Queen Elizabeth",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-09T14:31:08Z",
+      "updated": "2026-11-09T14:31:08Z",
+      "items": [
+        {
+          "id": "7616ecfa9b71ca0a",
+          "feed": "AeroTime",
+          "title": "Royal Navy launches strike drones from HMS Queen Elizabeth for first time",
+          "url": "https://www.aerotime.aero/articles/royal-navy-strike-drones-hms-queen-elizabeth",
+          "domain": "aerotime.aero",
+          "summary": "The Royal Navy has launched one-way strike drones from an aircraft carrier for the first time, sending four… The post Royal Navy launches strike drones from HMS Queen Elizabeth for first time appeared first on AeroTime .",
+          "published": "2026-11-09T14:17:04Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.687777
+    "2026-11": 3.688599
   }
 }

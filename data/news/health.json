@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T14:20:39Z",
+  "run": "2026-11-09T14:30:51Z",
   "stats": {
     "fetched": 691,
-    "new": 4,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.6878,
+  "spend_month_usd": 3.6886,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -422,18 +422,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Chinese Big Three résultats T3 kérosène pertes",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-kerosene-cher-air-china-china-eastern-et-china-southern-en-r-0c77"
-    },
-    {
-      "dossier": "IndiGo capacités internationales espace aérien pakistanais",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-indigo-pourrait-ajuster-le-calendrier-de-son-expansion-inter-fcbc"
     },
     {
       "dossier": "Discover Airlines flotte A350-900",
@@ -851,6 +839,12 @@
     },
     {
       "dossier": "EASA capacité A330-900 480 passagers",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Royal Navy drones frappe HMS Queen Elizabeth",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
