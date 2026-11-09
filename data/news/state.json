@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/global-oversight-local-action-value-groups-disruption-care-at-scale-video": "2026-10-30T13:30:53Z",
-    "https://airlinegeeks.com/2026/10/30/tap-air-portugal-launches-new-u-s-route/": "2026-10-30T13:30:53Z",
-    "https://www.flightradar24.com/blog/aviation-news/airline-news/launch-customer-lot-operates-final-embraer-e170-flight/": "2026-10-30T13:30:53Z",
     "https://www.airliners.de/lufthansa-schliesst-jubilaeumsdesign-a321-neo-hamm/91227": "2026-10-30T13:40:20Z",
     "https://www.airliners.de/latam-verbindet-genf-april-2027-sao-paulo/91229": "2026-10-30T13:40:20Z",
     "https://www.airliners.de/air-transat-streicht-toronto-berlin-verbindung-programm/91218": "2026-10-30T13:40:20Z",
@@ -1765,27 +1762,6 @@
       ],
       "story_id": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405",
       "written_count": 5
-    },
-    "c780fa1dfdd": {
-      "id": "c780fa1dfdd",
-      "label": "Leipzig/Halle recours extension cargo Bautzen",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-02T13:21:11Z",
-      "updated": "2026-11-02T13:21:11Z",
-      "items": [
-        {
-          "id": "4ef5967fd573e96c",
-          "feed": "airliners.de",
-          "title": "Zehn Kläger wollen Ausbau am Flughafen Leipzig/Halle stoppen",
-          "url": "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241",
-          "domain": "airliners.de",
-          "summary": "Das Oberverwaltungsgericht Bautzen verhandelt ab Dienstag über die Klagen gegen den Ausbau des Frachtflughafens Leipzig/Halle. Unter den zehn Klägern ist auch eine Kommune. Gebaut wurde bislang nicht, obwohl das längst möglich gewesen wäre.",
-          "published": "2026-11-02T12:50:08Z"
-        }
-      ],
-      "story_id": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd",
-      "written_count": 1
     },
     "c45fa568860": {
       "id": "c45fa568860",

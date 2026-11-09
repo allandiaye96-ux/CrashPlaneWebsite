@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-09T13:20:34Z",
+  "run": "2026-11-09T13:30:53Z",
   "stats": {
     "fetched": 691,
-    "new": 5,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -422,12 +422,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Leipzig/Halle recours extension cargo Bautzen",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-leipzig-halle-dix-plaignants-contestent-l-extension-de-l-aer-dfdd"
     },
     {
       "dossier": "FAA finance étude JetZero moteurs top-mounted",
