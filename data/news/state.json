@@ -1359,7 +1359,8 @@
     "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/": "2026-11-09T22:50:33Z",
     "https://theaviationist.com/2026/11/09/our-best-look-yet-at-chinas-gj-11-ucav/": "2026-11-09T23:01:05Z",
     "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production": "2026-11-09T23:10:36Z",
-    "https://www.air-journal.fr/2026-11-10-le-10-novembre-1927-dans-le-ciel-mackenzie-richards-victime-dun-accident-mortel-5278759.html": "2026-11-09T23:10:36Z"
+    "https://www.air-journal.fr/2026-11-10-le-10-novembre-1927-dans-le-ciel-mackenzie-richards-victime-dun-accident-mortel-5278759.html": "2026-11-09T23:10:36Z",
+    "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/": "2026-11-09T23:30:48Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5262,7 +5263,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T21:01:20Z",
-      "updated": "2026-11-09T23:10:50Z",
+      "updated": "2026-11-09T23:31:02Z",
       "items": [
         {
           "id": "2fae47b1b276bb60",
@@ -5290,10 +5291,19 @@
           "domain": "aerotime.aero",
           "summary": "Boeing will cut about 5% of the jobs in its commercial airplane workforce as it builds jets more… The post Boeing to cut 5% of commercial jet workforce as production ramp-up falters appeared first on AeroTime .",
           "published": "2026-11-09T22:10:54Z"
+        },
+        {
+          "id": "28a7d325a3399010",
+          "feed": "Simple Flying",
+          "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
+          "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
+          "domain": "simpleflying.com",
+          "summary": "Slower wing delivery and factory stability issues reshape output plans while a long backlog cushions near term impact.",
+          "published": "2026-11-09T23:25:34Z"
         }
       ],
       "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-      "written_count": 3
+      "written_count": 4
     },
     "cd33395d38e": {
       "id": "cd33395d38e",
@@ -5319,6 +5329,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.864893
+    "2026-11": 3.874487
   }
 }

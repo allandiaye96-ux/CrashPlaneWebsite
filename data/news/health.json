@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T23:20:37Z",
+  "run": "2026-11-09T23:30:48Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8649,
+  "spend_month_usd": 3.8745,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -196,6 +196,12 @@
       "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
     },
     {
+      "dossier": "Boeing suppression 5% postes BCA",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
+    },
+    {
       "dossier": "Ebola règles CDC déclaration US",
       "statut": "corrobore",
       "editeurs": 3,
@@ -254,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
-    },
-    {
-      "dossier": "Boeing suppression 5% postes BCA",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
     },
     {
       "dossier": "JetBlue créanciers conseillers restructuration",

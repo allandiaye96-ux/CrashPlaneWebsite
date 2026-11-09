@@ -2,23 +2,23 @@
   {
     "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
     "created": "2026-11-09T21:01:23Z",
-    "updated": "2026-11-09T23:10:53Z",
-    "version": 3,
+    "updated": "2026-11-09T23:31:06Z",
+    "version": 4,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Constructeurs et industrie",
     "importance": 2,
-    "titre": "Boeing prévoit de supprimer environ 5 % des postes de sa division avions commerciaux",
-    "chapo": "Boeing veut réduire d'environ 5 % les effectifs de sa division Commercial Airplanes (BCA), selon aero.de et AeroTime, en raison de difficultés dans la montée en cadence de sa production.",
+    "titre": "Boeing va supprimer environ 5 % des postes de sa division avions commerciaux face à une montée en cadence difficile",
+    "chapo": "Boeing prévoit de réduire d'environ 5 % ses effectifs dans la division Boeing Commercial Airplanes (BCA), selon aero.de et AeroTime, en raison de difficultés dans l'augmentation de ses cadences de production.",
     "paragraphes": [
-      "D'après aero.de, ces suppressions de postes sont motivées par les problèmes rencontrés dans l'augmentation des cadences de production. AeroTime évoque lui aussi une montée en cadence qui peine à se concrétiser.",
-      "Leeham News relie ces réductions d'effectifs à un ajustement du rythme de production du 737 Max. Le constructeur américain aurait annoncé cette orientation lors de la présentation de ses résultats du troisième trimestre, à la fin du mois précédent."
+      "D'après Leeham News, ces réductions d'effectifs accompagnent un ajustement du rythme de production du 737 Max. Le constructeur américain l'avait évoqué lors de la présentation de ses résultats du troisième trimestre.",
+      "Simple Flying met en avant une livraison plus lente des ailes et des problèmes de stabilité en usine, qui modifient les plans de production. Le média ajoute qu'un important carnet de commandes limite l'impact à court terme."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 3,
+      "independent_sources": 4,
       "official_source": false
     },
     "sources": [
@@ -41,6 +41,13 @@
         "title": "Boeing Plans to Cut 5% of Commercial Workforce",
         "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
         "date": "2026-11-09T22:29:56Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
+        "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
+        "date": "2026-11-09T23:25:34Z",
         "official": false
       }
     ]
