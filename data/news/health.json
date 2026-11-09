@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-09T08:01:00Z",
+  "run": "2026-11-09T08:10:35Z",
   "stats": {
     "fetched": 692,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.4932,
+  "spend_month_usd": 3.501,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -842,6 +842,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752"
+    },
+    {
+      "dossier": "Airbus rachat d'actions 5 Md€",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6"
     },
     {
       "dossier": "CJUE aides Covid KLM Air France contre Commission Ryanair",

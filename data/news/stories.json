@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6",
+    "created": "2026-11-09T08:10:54Z",
+    "updated": "2026-11-09T08:10:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus lance la première tranche de 800 millions d'euros de son programme de rachat d'actions de 5 milliards",
+    "chapo": "Selon AeroTime, Airbus a lancé le 9 novembre la première tranche de son programme de rachat d'actions de 5 milliards d'euros. Cette tranche initiale s'élève à 800 millions d'euros.",
+    "paragraphes": [
+      "D'après AeroTime, le programme global représente 5 milliards d'euros, soit environ 5,6 milliards de dollars. Le constructeur a démarré l'opération le 9 novembre avec une première tranche de 800 millions d'euros."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Airbus launches €5 billion share buyback with first €800 million tranche",
+        "url": "https://www.aerotime.aero/articles/airbus-5-billion-share-buyback-800-million-tranche",
+        "date": "2026-11-09T07:58:27Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752",
     "created": "2026-11-09T08:01:27Z",
     "updated": "2026-11-09T08:01:27Z",

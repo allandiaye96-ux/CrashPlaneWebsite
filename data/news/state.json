@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html": "2026-10-30T08:10:32Z",
     "https://www.airliners.de/embraer-embraer-195-flotte-austrian-airlines-ersatzteilen/91203": "2026-10-30T08:40:34Z",
     "https://www.airliners.de/embraer-autorisiert-fl-technics-servicebetrieb-e-jets-litauen/91202": "2026-10-30T08:40:34Z",
     "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196": "2026-10-30T08:40:34Z",
@@ -1341,7 +1340,8 @@
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-commences-multi-year-share-buyback-programme-with-launch-of-the-first-tranche": "2026-11-09T07:20:36Z",
     "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028": "2026-11-09T07:50:31Z",
     "https://www.aero.de/news-54119/Fughafen-Nuernberg-sperrt-Start--und-Landebahn.html": "2026-11-09T07:50:31Z",
-    "https://www.air-journal.fr/2026-11-09-troisieme-piste-a-heathrow-les-aeroports-regionaux-veulent-leur-part-des-creneaux-5278742.html": "2026-11-09T08:01:00Z"
+    "https://www.air-journal.fr/2026-11-09-troisieme-piste-a-heathrow-les-aeroports-regionaux-veulent-leur-part-des-creneaux-5278742.html": "2026-11-09T08:01:00Z",
+    "https://www.aerotime.aero/articles/airbus-5-billion-share-buyback-800-million-tranche": "2026-11-09T08:10:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5264,10 +5264,31 @@
       ],
       "story_id": "2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752",
       "written_count": 1
+    },
+    "cc6aeb1aad6": {
+      "id": "cc6aeb1aad6",
+      "label": "Airbus rachat d'actions 5 Md€",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-09T08:10:51Z",
+      "updated": "2026-11-09T08:10:51Z",
+      "items": [
+        {
+          "id": "d13c0bae7063db2d",
+          "feed": "AeroTime",
+          "title": "Airbus launches €5 billion share buyback with first €800 million tranche",
+          "url": "https://www.aerotime.aero/articles/airbus-5-billion-share-buyback-800-million-tranche",
+          "domain": "aerotime.aero",
+          "summary": "Airbus launched the first tranche of its €5 billion (about $5.6 billion) share buyback program on November 9,… The post Airbus launches €5 billion share buyback with first €800 million tranche appeared first on AeroTime .",
+          "published": "2026-11-09T07:58:27Z"
+        }
+      ],
+      "story_id": "2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.493206
+    "2026-11": 3.501049
   }
 }
