@@ -1341,7 +1341,8 @@
     "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028": "2026-11-09T07:50:31Z",
     "https://www.aero.de/news-54119/Fughafen-Nuernberg-sperrt-Start--und-Landebahn.html": "2026-11-09T07:50:31Z",
     "https://www.air-journal.fr/2026-11-09-troisieme-piste-a-heathrow-les-aeroports-regionaux-veulent-leur-part-des-creneaux-5278742.html": "2026-11-09T08:01:00Z",
-    "https://www.aerotime.aero/articles/airbus-5-billion-share-buyback-800-million-tranche": "2026-11-09T08:10:35Z"
+    "https://www.aerotime.aero/articles/airbus-5-billion-share-buyback-800-million-tranche": "2026-11-09T08:10:35Z",
+    "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/": "2026-11-09T08:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5166,7 +5167,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-08T14:50:48Z",
-      "updated": "2026-11-08T14:50:48Z",
+      "updated": "2026-11-09T08:20:49Z",
       "items": [
         {
           "id": "629b0b3b7aae12f8",
@@ -5176,10 +5177,19 @@
           "domain": "aerotime.aero",
           "summary": "China Eastern Airlines has confirmed CFM International as the engine supplier for its latest Airbus narrowbody order, selecting… The post CFM wins engine deal for 101 China Eastern A320neo family jets appeared first on AeroTime .",
           "published": "2026-11-08T14:21:34Z"
+        },
+        {
+          "id": "093157e2b1d0c285",
+          "feed": "AviTrader",
+          "title": "China Eastern selects LEAP engines for 101 Airbus aircraft",
+          "url": "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/",
+          "domain": "avitrader.com",
+          "summary": "China Eastern Airlines has selected CFM International LEAP-1A engines to power 101 new Airbus A320neo-family aircraft, alongside spare engines and a long-term services agreement. The agreement was marked by a signing ceremony at the ninth China International Import Expo (CIIE) in Shanghai. “CFM LEAP engines are helping us build one of the most modern fleets […] The post China Eastern selects LEAP engines for 101 Airbus aircraft appeared first on AviTrader Aviation News .",
+          "published": "2026-11-09T08:12:59Z"
         }
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
-      "written_count": 1
+      "written_count": 2
     },
     "cad1dd58c25": {
       "id": "cad1dd58c25",
@@ -5289,6 +5299,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.501049
+    "2026-11": 3.509893
   }
 }

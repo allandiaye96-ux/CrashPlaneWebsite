@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-09T08:10:35Z",
+  "run": "2026-11-09T08:20:34Z",
   "stats": {
     "fetched": 692,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.501,
+  "spend_month_usd": 3.5099,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -436,6 +436,12 @@
       "breve": "2026-11-08-aerfin-acquiert-44-boeing-737ng-aupres-de-qantas-sa-plus-imp-e887"
     },
     {
+      "dossier": "CFM moteurs China Eastern 101 A320neo",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -818,12 +824,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5"
-    },
-    {
-      "dossier": "CFM moteurs China Eastern 101 A320neo",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
     },
     {
       "dossier": "TUI fly Belgium réseau été 2027",
