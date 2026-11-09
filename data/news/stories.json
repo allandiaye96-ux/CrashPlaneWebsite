@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
+    "created": "2026-11-06T11:01:22Z",
+    "updated": "2026-11-09T12:10:56Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas lance de nouvelles liaisons sans escale de 15 heures au départ de Sydney, selon Simple Flying",
+    "chapo": "Selon Simple Flying, Qantas met en place de nouvelles routes sans escale d'environ 15 heures depuis Sydney. Le site précise qu'il s'agirait de la première fois que la compagnie australienne desservirait ce pays par trois routes.",
+    "paragraphes": [
+      "Dans un article publié le 6 novembre 2026, le média présente une nouvelle liaison sans escale de 15 heures au départ de Sydney comme une étape historique pour Qantas. Avec elle, la compagnie disposerait pour la première fois de trois routes vers le pays concerné.",
+      "Un second article, daté du 9 novembre 2026, évoque deux nouvelles routes ultra-long-courriers de 15 heures lancées par Qantas. Simple Flying s'interroge à cette occasion sur l'annonce possible d'autres nouvelles liaisons."
+    ],
+    "contradictions": "Le premier article de Simple Flying (6 novembre 2026) parle d'une nouvelle route de 15 heures, le second (9 novembre 2026) de deux nouvelles routes de 15 heures ; le nombre exact de routes n'est pas clairement établi.",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Qantas Launches Historic New 15-Hour Nonstop Route From Sydney: See Map Now",
+        "url": "https://simpleflying.com/qantas-launches-historic-new-15-hour-nonstop-route-from-sydney/",
+        "date": "2026-11-06T11:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Qantas Launches 2 New 15-Hour Ultra-Long Nonstop Routes: See Map Now",
+        "url": "https://simpleflying.com/qantas-launches-2-new-15-hour-ultra-long-nonstop-routes/",
+        "date": "2026-11-09T12:01:19Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
     "created": "2026-11-06T15:20:51Z",
     "updated": "2026-11-09T12:01:24Z",
@@ -1460,37 +1499,6 @@
         "title": "Condor hat an Bord Tarifsicherheit",
         "url": "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html",
         "date": "2026-11-06T12:20:35Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
-    "created": "2026-11-06T11:01:22Z",
-    "updated": "2026-11-06T11:01:22Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Qantas lance une nouvelle liaison sans escale de 15 heures au départ de Sydney",
-    "chapo": "Selon Simple Flying, Qantas met en service une nouvelle route sans escale de 15 heures depuis Sydney, qualifiée d'historique par le site spécialisé.",
-    "paragraphes": [
-      "D'après Simple Flying, cette ouverture permettrait à Qantas de proposer pour la première fois trois routes vers le pays desservi. Le média présente cette liaison comme une étape marquante pour la compagnie."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "Qantas Launches Historic New 15-Hour Nonstop Route From Sydney: See Map Now",
-        "url": "https://simpleflying.com/qantas-launches-historic-new-15-hour-nonstop-route-from-sydney/",
-        "date": "2026-11-06T11:00:18Z",
         "official": false
       }
     ]

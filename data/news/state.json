@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-10-30-moteurs-davions-rolls-royce-prepare-son-retour-dans-la-bataille-des-monocouloirs-5278583.html": "2026-10-30T12:01:04Z",
     "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives": "2026-10-30T12:20:37Z",
     "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol": "2026-10-30T12:20:37Z",
     "https://simpleflying.com/video/westjet-captain-calls-out-seattle-airport-after-737-burns-800-lbs-of-fuel-just-to-reach-the-runway/": "2026-10-30T12:30:52Z",
@@ -1325,7 +1324,12 @@
     "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html": "2026-11-09T11:20:33Z",
     "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-episode-393-the-pieces-are-worth-more-than-the-whole/": "2026-11-09T11:40:36Z",
     "https://www.aero.de/news-54125/Drohnen-Flughafen-LeipzigHalle-sperrt-Start--und-Landebahnen.html": "2026-11-09T12:01:03Z",
-    "https://www.air-journal.fr/2026-11-09-brussels-airlines-le-wi-fi-starlink-arrive-a-bord-sans-supplement-5278749.html": "2026-11-09T12:01:03Z"
+    "https://www.air-journal.fr/2026-11-09-brussels-airlines-le-wi-fi-starlink-arrive-a-bord-sans-supplement-5278749.html": "2026-11-09T12:01:03Z",
+    "https://simpleflying.com/qantas-launches-2-new-15-hour-ultra-long-nonstop-routes/": "2026-11-09T12:10:34Z",
+    "https://simpleflying.com/video/rolls-royce-is-developing-an-engine-that-could-shake-up-airbus-and-boeing/": "2026-11-09T12:10:34Z",
+    "https://simpleflying.com/worlds-5-best-worst-airline-mergers-market-value/": "2026-11-09T12:10:34Z",
+    "https://www.aerotime.aero/articles/emirates-airbus-a350-fianancing-shariah": "2026-11-09T12:10:34Z",
+    "https://www.aerotime.aero/articles/emirates-opens-8-million-dubai-cabin-crew-hospitality-hub-to-uae-businesses": "2026-11-09T12:10:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4271,7 +4275,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-06T11:01:17Z",
-      "updated": "2026-11-06T11:01:17Z",
+      "updated": "2026-11-09T12:10:47Z",
       "items": [
         {
           "id": "75baddaa65c296aa",
@@ -4281,10 +4285,19 @@
           "domain": "simpleflying.com",
           "summary": "It'll be the first time that Qantas has three routes to this country. Find out more here!",
           "published": "2026-11-06T11:00:18Z"
+        },
+        {
+          "id": "963d5721330cee92",
+          "feed": "Simple Flying",
+          "title": "Qantas Launches 2 New 15-Hour Ultra-Long Nonstop Routes: See Map Now",
+          "url": "https://simpleflying.com/qantas-launches-2-new-15-hour-ultra-long-nonstop-routes/",
+          "domain": "simpleflying.com",
+          "summary": "Could more new routes be announced? Find out more here!",
+          "published": "2026-11-09T12:01:19Z"
         }
       ],
       "story_id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
-      "written_count": 1
+      "written_count": 2
     },
     "c9e1d18a454": {
       "id": "c9e1d18a454",
@@ -5222,6 +5235,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.613378
+    "2026-11": 3.629466
   }
 }
