@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:10:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 15:20:55 +0000</lastBuildDate>
+  <item>
+    <title>Qantas annonce un vol sans escale Sydney-Londres à partir d&#x27;octobre 2027 sous les numéros QF1 et QF2</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da/</guid>
+    <pubDate>Mon, 09 Nov 2026 15:20:55 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, Qantas exploitera à partir d&#x27;octobre 2027 une liaison sans escale entre Sydney et Londres, dans le cadre du Project Sunrise.</description>
+  </item>
   <item>
     <title>ANA et Vietnam Airlines signent un accord-cadre en vue d&#x27;une coentreprise</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f/</link>
@@ -32,12 +40,12 @@
     <description>Selon un communiqué d&#x27;Airbus, l&#x27;A350-1000ULR (Ultra-Long Range) a officiellement battu le record Guinness du vol le plus long en distance pour un avion de ligne commercial.</description>
   </item>
   <item>
-    <title>Philippine Airlines commande neuf Airbus A350-1000 supplémentaires et prend cinq options d&#x27;achat</title>
+    <title>Philippine Airlines commande neuf Airbus A350-1000 supplémentaires et sécurise cinq options</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe/</guid>
     <pubDate>Mon, 09 Nov 2026 13:20:57 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Philippine Airlines a ferme commandé neuf Airbus A350-1000 de plus, selon airliners.de, qui cite la compagnie. Celle-ci s&#x27;est aussi garanti des droits d&#x27;achat sur cinq appareils additionnels.</description>
+    <description>Philippine Airlines a signé avec Airbus et Rolls-Royce un contrat ferme pour neuf A350-1000 supplémentaires, selon airliners.de. La compagnie philippine s&#x27;est aussi réservé des droits d&#x27;achat sur cinq appareils de plus.</description>
   </item>
   <item>
     <title>KLM reçoit son premier Airbus A350 de nouvelle génération</title>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 16:21:18 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, la compagnie loisirs de luxe Beond a annulé tous ses vols de ligne programmés entre le 30 octobre et le 30 novembre. Les vols charter ne sont pas concernés.</description>
-  </item>
-  <item>
-    <title>Ita Airways s&#x27;accorde avec les syndicats sur jusqu&#x27;à 180 départs volontaires</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-ita-airways-s-accorde-avec-les-syndicats-sur-jusqu-a-180-dep-7676/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-ita-airways-s-accorde-avec-les-syndicats-sur-jusqu-a-180-dep-7676/</guid>
-    <pubDate>Fri, 06 Nov 2026 16:21:14 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Ita Airways a conclu un accord avec les syndicats prévoyant jusqu&#x27;à 180 départs volontaires, alors que la compagnie italienne est concernée par une prise de contrôle majoritaire par Lufthansa.</description>
   </item>
 </channel>
 </rss>

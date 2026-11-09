@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-10-30T15:20:34Z",
-    "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z",
     "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/": "2026-10-30T15:40:39Z",
     "https://www.airliners.de/lot-22-jahren-abschied-embraer-170/91231": "2026-10-30T15:40:39Z",
     "https://simpleflying.com/lot-polish-airlines-retiring-last-e170/": "2026-10-30T15:50:34Z",
@@ -1345,7 +1343,15 @@
     "https://simpleflying.com/air-canada-cancels-7-hour-long-haul-route-europe/": "2026-11-09T15:01:11Z",
     "https://simpleflying.com/5-airlines-operating-boeing-787-dreamliners-airbus-a350s/": "2026-11-09T15:01:11Z",
     "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html": "2026-11-09T15:01:11Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/une-coentreprise-en-preparation-entre-ana-et-vietnam-airlines-20261109.html": "2026-11-09T15:10:36Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/une-coentreprise-en-preparation-entre-ana-et-vietnam-airlines-20261109.html": "2026-11-09T15:10:36Z",
+    "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-11-09T15:20:34Z",
+    "https://www.aero.de/news-54126/Gericht-stellt-Verfahren-gegen-Klimaaktivisten-ein.html": "2026-11-09T15:20:34Z",
+    "https://www.airliners.de/qantas-fliegt-oktober-2027-zwischenstopp-sydney-london/91392": "2026-11-09T15:20:34Z",
+    "https://www.airliners.de/dat-stellt-saarbruecken-hamburg-ein-stockt-berlin-auf/91416": "2026-11-09T15:20:34Z",
+    "https://www.airliners.de/ryanair-schliesst-gepaeckaufgabe-ab-dienstag-eine-stunde-vor-abflug/91397": "2026-11-09T15:20:34Z",
+    "https://www.airliners.de/wizz-air-plant-maerz-2027-strecke-bosnien-deutschland/91414": "2026-11-09T15:20:34Z",
+    "https://www.airliners.de/hainan-airlines-streicht-shenzhen-wien-jahresende/91413": "2026-11-09T15:20:34Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/philippine-airlines-a-finalise-sa-commande-dairbus-a350-1000-supplementaires-20261109.html": "2026-11-09T15:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4597,27 +4603,6 @@
       "story_id": "2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91",
       "written_count": 1
     },
-    "c4e8931c6ca": {
-      "id": "c4e8931c6ca",
-      "label": "Pistorius décision avion de combat après fin FCAS",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-07T15:10:49Z",
-      "updated": "2026-11-07T15:10:49Z",
-      "items": [
-        {
-          "id": "ce1f78c58bda78d9",
-          "feed": "aero.de",
-          "title": "Pistorius: Entscheidung über Fighter-Strategie bis März 2027",
-          "url": "https://www.aero.de/news-54116/Pistorius-Entscheidung-ueber-Fighter-Strategie-bis-Maerz-2027.html",
-          "domain": "aero.de",
-          "summary": "BERLIN - Verteidigungsminister Boris Pistorius erwartet nach dem Aus für das deutsch-französischen Luftkampfsystems FCAS bis Ende März 2027 eine Grundsatzentscheidung über eine Alternative.",
-          "published": "2026-11-07T15:03:14Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c8a2c7b5903": {
       "id": "c8a2c7b5903",
       "label": "Dulles modernisation 20 Md$ hub United",
@@ -5086,7 +5071,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-09T13:20:54Z",
-      "updated": "2026-11-09T13:20:54Z",
+      "updated": "2026-11-09T15:20:49Z",
       "items": [
         {
           "id": "5fed844a36330834",
@@ -5096,10 +5081,19 @@
           "domain": "airliners.de",
           "summary": "Philippine Airlines hat neun weitere Airbus A350-1000 fest bestellt und sich Kaufrechte für fünf zusätzliche Maschinen gesichert. Die Verträge mit Airbus und dem Triebwerkshersteller Rolls Royce sind unterzeichnet, wie die Fluggesellschaft mitteilte. Insgesamt kommt die philippinische Airline damit auf 18 Flugzeuge des Typs.",
           "published": "2026-11-09T13:05:00Z"
+        },
+        {
+          "id": "5f21a3c30af20c45",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Philippine Airlines a finalisé sa commande d’Airbus A350-1000 supplémentaires",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/philippine-airlines-a-finalise-sa-commande-dairbus-a350-1000-supplementaires-20261109.html",
+          "domain": "journal-aviation.com",
+          "summary": "Philippine Airlines, Airbus et Rolls-Royce ont finalisés les accords définitifs portant sur une commande de 9 A350-1000 supplémentaires le 5 novembre à Manille. Ses contrats incluent la fourniture des moteurs […] L’article Philippine Airlines a finalisé sa commande d’Airbus A350-1000 supplémentaires a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-09T15:13:31Z"
         }
       ],
       "story_id": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe",
-      "written_count": 1
+      "written_count": 2
     },
     "c6aa541700e": {
       "id": "c6aa541700e",
@@ -5163,10 +5157,31 @@
       ],
       "story_id": "2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f",
       "written_count": 1
+    },
+    "cae5eddd0da": {
+      "id": "cae5eddd0da",
+      "label": "Qantas vol sans escale Sydney-Londres Project Sunrise",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-09T15:20:49Z",
+      "updated": "2026-11-09T15:20:49Z",
+      "items": [
+        {
+          "id": "e91a8c124351ef28",
+          "feed": "airliners.de",
+          "title": "Qantas fliegt ab Oktober 2027 ohne Zwischenstopp von Sydney nach London",
+          "url": "https://www.airliners.de/qantas-fliegt-oktober-2027-zwischenstopp-sydney-london/91392",
+          "domain": "airliners.de",
+          "summary": "Qantas fliegt ab Oktober 2027 ohne Zwischenstopp zwischen Sydney und London. Die Verbindung im Rahmen von Project Sunrise läuft unter den Flugnummern QF1 und QF2 und verkürzt die Reisezeit nach Angaben der Airline um bis zu vier Stunden. Der Ticketverkauf soll im Februar 2027 beginnen.",
+          "published": "2026-11-09T15:14:16Z"
+        }
+      ],
+      "story_id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.72403
+    "2026-11": 3.740757
   }
 }
