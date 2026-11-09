@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 07:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 08:01:27 +0000</lastBuildDate>
+  <item>
+    <title>Heathrow : un accord avec les aéroports régionaux britanniques autour de la future troisième piste</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752/</guid>
+    <pubDate>Mon, 09 Nov 2026 08:01:27 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Air Journal, Heathrow s&#x27;est entendu par écrit avec le Regional and Business Airports Group pour que son extension profite aux liaisons intérieures du Royaume-Uni.</description>
+  </item>
   <item>
     <title>Philippine Airlines lance une nouvelle liaison sans escale de 17 heures vers les États-Unis</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 11:10:53 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AeroTime, Airbus vise 259 livraisons d&#x27;avions commerciaux en novembre et décembre 2026 afin d&#x27;atteindre sa cible annuelle. Simple Flying avance un chiffre légèrement différent : 249 appareils.</description>
-  </item>
-  <item>
-    <title>Qantas lance une nouvelle liaison sans escale de 15 heures au départ de Sydney</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9/</guid>
-    <pubDate>Fri, 06 Nov 2026 11:01:22 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, Qantas met en service une nouvelle route sans escale de 15 heures depuis Sydney, qualifiée d&#x27;historique par le site spécialisé.</description>
   </item>
 </channel>
 </rss>

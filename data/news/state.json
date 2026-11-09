@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airbus-a320neo-boeing-737-max-backlogged-embraer-e2-13-15-months-build/": "2026-10-30T08:00:59Z",
-    "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html": "2026-10-30T08:00:59Z",
-    "https://www.air-journal.fr/2026-10-30-dix-heures-en-monocouloir-a321xlr-le-pari-long-courrier-dindigo-entre-mumbai-et-amsterdam-5278570.html": "2026-10-30T08:00:59Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/airbus-maintient-ses-objectifs-malgre-un-ralentissement-au-troisieme-trimestre-20261030.html": "2026-10-30T08:10:32Z",
     "https://www.airliners.de/embraer-embraer-195-flotte-austrian-airlines-ersatzteilen/91203": "2026-10-30T08:40:34Z",
     "https://www.airliners.de/embraer-autorisiert-fl-technics-servicebetrieb-e-jets-litauen/91202": "2026-10-30T08:40:34Z",
@@ -1343,7 +1340,8 @@
     "https://www.air-journal.fr/2026-11-09-a-los-angeles-un-virage-inattendu-dun-a350-dair-france-declenche-une-alerte-trafic-5278741.html": "2026-11-09T07:01:02Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-commences-multi-year-share-buyback-programme-with-launch-of-the-first-tranche": "2026-11-09T07:20:36Z",
     "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028": "2026-11-09T07:50:31Z",
-    "https://www.aero.de/news-54119/Fughafen-Nuernberg-sperrt-Start--und-Landebahn.html": "2026-11-09T07:50:31Z"
+    "https://www.aero.de/news-54119/Fughafen-Nuernberg-sperrt-Start--und-Landebahn.html": "2026-11-09T07:50:31Z",
+    "https://www.air-journal.fr/2026-11-09-troisieme-piste-a-heathrow-les-aeroports-regionaux-veulent-leur-part-des-creneaux-5278742.html": "2026-11-09T08:01:00Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5245,10 +5243,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c24e0c5b752": {
+      "id": "c24e0c5b752",
+      "label": "Heathrow troisième piste et aéroports régionaux",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-09T08:01:14Z",
+      "updated": "2026-11-09T08:01:14Z",
+      "items": [
+        {
+          "id": "d08f477c3df8d0a1",
+          "feed": "Air Journal",
+          "title": "Troisième piste à Heathrow : les aéroports régionaux veulent leur part des créneaux",
+          "url": "https://www.air-journal.fr/2026-11-09-troisieme-piste-a-heathrow-les-aeroports-regionaux-veulent-leur-part-des-creneaux-5278742.html",
+          "domain": "air-journal.fr",
+          "summary": "L’aéroport de Londres-Heathrow a signé un protocole d’accord avec le Regional and Business Airports Group pour faire de son agrandissement un levier de développement des liaisons intérieures britanniques. Derrière ce soutien, les petites plateformes réclament toutefois des garanties : des créneaux protégés, des redevances abordables et des dessertes économiquement viables. Pour défendre sa troisième piste, […]",
+          "published": "2026-11-09T08:00:09Z"
+        }
+      ],
+      "story_id": "2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.476898
+    "2026-11": 3.493206
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T07:50:31Z",
+  "run": "2026-11-09T08:01:00Z",
   "stats": {
-    "fetched": 678,
-    "new": 2,
-    "written": 0,
+    "fetched": 692,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.4769,
+  "spend_month_usd": 3.4932,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 14
     },
     "The Local France – Accidents": {
       "ok": true,
@@ -836,6 +836,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26"
+    },
+    {
+      "dossier": "Heathrow troisième piste et aéroports régionaux",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752"
     },
     {
       "dossier": "CJUE aides Covid KLM Air France contre Commission Ryanair",

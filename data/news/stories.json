@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-heathrow-un-accord-avec-les-aeroports-regionaux-britanniques-b752",
+    "created": "2026-11-09T08:01:27Z",
+    "updated": "2026-11-09T08:01:27Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Heathrow : un accord avec les aéroports régionaux britanniques autour de la future troisième piste",
+    "chapo": "Selon Air Journal, Heathrow s'est entendu par écrit avec le Regional and Business Airports Group pour que son extension profite aux liaisons intérieures du Royaume-Uni.",
+    "paragraphes": [
+      "D'après Air Journal, ce texte présente la troisième piste comme un moyen de stimuler les dessertes domestiques britanniques. Les plateformes régionales apportent leur soutien au projet, mais elles posent des conditions.",
+      "Ces aéroports demandent des garanties : des créneaux horaires protégés, des redevances abordables et des lignes viables sur le plan économique."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Troisième piste à Heathrow : les aéroports régionaux veulent leur part des créneaux",
+        "url": "https://www.air-journal.fr/2026-11-09-troisieme-piste-a-heathrow-les-aeroports-regionaux-veulent-leur-part-des-creneaux-5278742.html",
+        "date": "2026-11-09T08:00:09Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e",
     "created": "2026-11-06T09:10:56Z",
     "updated": "2026-11-08T18:40:49Z",
