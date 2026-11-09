@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/alaska-airlines-betting-seatback-screen-fraction-seats-transcon-boeing-737-max-10s/": "2026-10-30T22:01:00Z",
-    "https://airlinegeeks.com/2026/10/30/report-alaska-to-lay-off-200-employees/": "2026-10-30T22:10:33Z",
     "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213": "2026-10-30T22:40:32Z",
     "https://simpleflying.com/premium-economy-yesterday-standard-economy-pitch-shrank/": "2026-10-30T23:03:19Z",
     "https://www.air-journal.fr/2026-10-31-le-31-octobre-1909-dans-le-ciel-meeting-de-saint-etienne-le-public-en-colere-face-au-fiasco-5278595.html": "2026-10-30T23:06:48Z",
@@ -1351,7 +1349,9 @@
     "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html": "2026-11-09T21:01:03Z",
     "https://www.aerotime.aero/articles/vietjet-heads-back-to-uk-court-over-250-million-in-aircraft-debt": "2026-11-09T21:30:50Z",
     "https://theaviationist.com/2026/11/09/northrop-grumman-lake-charles-c-130-maintenance-depot/": "2026-11-09T21:40:33Z",
-    "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims": "2026-11-09T21:50:35Z"
+    "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims": "2026-11-09T21:50:35Z",
+    "https://simpleflying.com/tsa-liquids-rule-really-means-us-airports-2026/": "2026-11-09T22:10:37Z",
+    "https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel": "2026-11-09T22:10:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5254,6 +5254,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.820363
+    "2026-11": 3.821198
   }
 }
