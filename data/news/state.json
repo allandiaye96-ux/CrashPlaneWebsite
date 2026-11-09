@@ -1332,7 +1332,10 @@
     "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives": "2026-11-09T12:40:33Z",
     "https://www.aerotime.aero/articles/archer-aviation-ita-airways-air-taxi-network-italy-evtol": "2026-11-09T12:40:33Z",
     "https://avitrader.com/2026/11/09/bell-delivers-2000th-bell-407-helicopter/": "2026-11-09T12:40:33Z",
-    "https://simpleflying.com/german-union-demands-disclosure-emirates-berlin-traffic-rights/": "2026-11-09T13:01:01Z"
+    "https://simpleflying.com/german-union-demands-disclosure-emirates-berlin-traffic-rights/": "2026-11-09T13:01:01Z",
+    "https://www.air-journal.fr/2026-11-09-avec-mimizan-air-france-passe-le-cap-des-60-airbus-a220-5278753.html": "2026-11-09T13:10:32Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/equipements/eaton-fournira-les-systemes-hydrauliques-et-des-equipements-carburant-du-falcon-10x-de-dassault-aviation-20261109.html": "2026-11-09T13:10:32Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html": "2026-11-09T13:10:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1634,54 +1637,6 @@
       ],
       "story_id": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92",
       "written_count": 3
-    },
-    "c5022e916ae": {
-      "id": "c5022e916ae",
-      "label": "Ryanair plan d'économies kérosène T2",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T08:01:12Z",
-      "updated": "2026-11-02T13:01:18Z",
-      "items": [
-        {
-          "id": "aa1577e3bdc85711",
-          "feed": "aero.de",
-          "title": "Ryanair legt umfassendes Sparprogramm auf",
-          "url": "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html",
-          "domain": "aero.de",
-          "summary": "DUBLIN - Die hohen Kerosinkosten im Zusammenhang mit dem Nahost-Konflikt belasten Ryanair auch im zweiten Geschäftsquartal. Der Gewinn nach Steuern sank um sechs Prozent auf 1,6 Milliarden Euro, wie das Unternehmen am Montag in Dublin mitteilte. Im ersten Halbjahr des Geschäftsjahres 2026/27 summierte sich das Minus auf 15 Prozent.",
-          "published": "2026-11-02T07:56:25Z"
-        },
-        {
-          "id": "25fdd771c7aa0782",
-          "feed": "airliners.de",
-          "title": "Hohe Kerosinkosten: Ryanair schließt Nullrunden für Beschäftigte nicht aus",
-          "url": "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236",
-          "domain": "airliners.de",
-          "summary": "Steigende Treibstoffkosten belasten Ryanair. Im Sommerquartal sank der Nettogewinn um sechs Prozent. Für das kommende Geschäftsjahr rechnet die Airline mit einer um zwei Milliarden Euro höheren Kerosinrechnung. Gespart werden soll an allen Fronten – auch beim Personal.",
-          "published": "2026-11-02T09:54:59Z"
-        },
-        {
-          "id": "6adfde122d5fdc62",
-          "feed": "Simple Flying",
-          "title": "Ryanair Considers Pay Freeze Amid Projected €2B Annual Fuel Bill Increase",
-          "url": "https://simpleflying.com/ryanair-pay-freeze/",
-          "domain": "simpleflying.com",
-          "summary": "This course of action remains under review, with Ryanair considering several other money-saving strategies.",
-          "published": "2026-11-02T12:40:52Z"
-        },
-        {
-          "id": "65838e552c089021",
-          "feed": "Air Journal",
-          "title": "Ryanair : le kérosène plombe les bénéfices, les salaires dans le viseur",
-          "url": "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html",
-          "domain": "air-journal.fr",
-          "summary": "Ryanair transporte davantage de voyageurs, mais gagne moins. Le groupe irlandais a annoncé, lundi 2 novembre, un bénéfice net semestriel de 2,15 milliards d’euros, en recul de 15%, pénalisé par la baisse des tarifs et l’envolée du carburant non couvert. Face à une facture de kérosène qui pourrait encore s’alourdir de 2 milliards d’euros l’an […]",
-          "published": "2026-11-02T13:00:56Z"
-        }
-      ],
-      "story_id": "2026-11-02-ryanair-benefice-net-en-baisse-de-six-pour-cent-au-deuxieme-16ae",
-      "written_count": 4
     },
     "c4f7de42402": {
       "id": "c4f7de42402",
@@ -4959,7 +4914,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-08T14:50:48Z",
-      "updated": "2026-11-09T08:20:49Z",
+      "updated": "2026-11-09T13:10:47Z",
       "items": [
         {
           "id": "629b0b3b7aae12f8",
@@ -4978,10 +4933,19 @@
           "domain": "avitrader.com",
           "summary": "China Eastern Airlines has selected CFM International LEAP-1A engines to power 101 new Airbus A320neo-family aircraft, alongside spare engines and a long-term services agreement. The agreement was marked by a signing ceremony at the ninth China International Import Expo (CIIE) in Shanghai. “CFM LEAP engines are helping us build one of the most modern fleets […] The post China Eastern selects LEAP engines for 101 Airbus aircraft appeared first on AviTrader Aviation News .",
           "published": "2026-11-09T08:12:59Z"
+        },
+        {
+          "id": "b1c8a1cdf2ff6e25",
+          "feed": "Le Journal de l'Aviation",
+          "title": "China Eastern choisit le LEAP-1A pour 101 nouveaux monocouloirs Airbus, dont des A321XLR",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html",
+          "domain": "journal-aviation.com",
+          "summary": "China Eastern Airlines (CEA) a sélectionné le LEAP-1A de CFM International pour motoriser 101 nouveaux appareils de la famille Airbus A320neo, dont des A321XLR. Annoncé le 6 novembre à l’occasion […] L’article China Eastern choisit le LEAP-1A pour 101 nouveaux monocouloirs Airbus, dont des A321XLR a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-09T13:01:51Z"
         }
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
-      "written_count": 2
+      "written_count": 3
     },
     "cad1dd58c25": {
       "id": "cad1dd58c25",
@@ -5196,6 +5160,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.648527
+    "2026-11": 3.667216
   }
 }
