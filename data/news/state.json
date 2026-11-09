@@ -1354,7 +1354,8 @@
     "https://www.aerotime.aero/articles/top-aces-a4n-skyhawk-alpha-jet-france-red-air": "2026-11-09T16:50:35Z",
     "https://simpleflying.com/united-airlines-newest-economy-plus-upsell-empty-middle-seat-covered-table-cupholders/": "2026-11-09T17:10:35Z",
     "https://simpleflying.com/singapore-airlines-finally-adding-first-class-worlds-longest-flight/": "2026-11-09T17:10:35Z",
-    "https://leehamnews.com/2026/11/09/open-comments-thread-week-of-november-9-2026/": "2026-11-09T17:10:35Z"
+    "https://leehamnews.com/2026/11/09/open-comments-thread-week-of-november-9-2026/": "2026-11-09T17:10:35Z",
+    "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed": "2026-11-09T17:30:50Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5202,10 +5203,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c988039c9cf": {
+      "id": "c988039c9cf",
+      "label": "Drones LUCAS micro-usines Machina",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-09T17:31:06Z",
+      "updated": "2026-11-09T17:31:06Z",
+      "items": [
+        {
+          "id": "cd7ae068b7fdff56",
+          "feed": "The War Zone",
+          "title": "LUCAS Drones To Be Built In Containerized Robotic Micro Factories Designed To Be Forward Deployed",
+          "url": "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed",
+          "domain": "twz.com",
+          "summary": "A company called Machina has been awarded a $9 million contract to prove it can build LUCAS drones with its robotic manufacturing system at remote locations. The post LUCAS Drones To Be Built In Containerized Robotic Micro Factories Designed To Be Forward Deployed appeared first on TWZ .",
+          "published": "2026-11-09T17:29:46Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.769965
+    "2026-11": 3.770786
   }
 }
