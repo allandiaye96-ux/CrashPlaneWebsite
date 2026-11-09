@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T21:30:50Z",
+  "run": "2026-11-09T21:40:33Z",
   "stats": {
-    "fetched": 688,
+    "fetched": 687,
     "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8195,
+  "spend_month_usd": 3.8204,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -51,7 +51,7 @@
     },
     "The Local France – Aviation": {
       "ok": true,
-      "items": 13
+      "items": 12
     },
     "The Local France – Accidents": {
       "ok": true,
