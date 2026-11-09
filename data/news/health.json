@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-09T12:40:33Z",
+  "run": "2026-11-09T12:50:34Z",
   "stats": {
     "fetched": 691,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9"
-    },
-    {
-      "dossier": "Rafale M essais INS Vikrant",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-02-un-rafale-m-de-dassault-se-pose-pour-la-premiere-fois-sur-le-4b76"
     },
     {
       "dossier": "Menace à la bombe Wizz Air Londres-Sofia Budapest",
