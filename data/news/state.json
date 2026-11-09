@@ -1356,7 +1356,9 @@
     "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/": "2026-11-09T22:30:50Z",
     "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets": "2026-11-09T22:30:50Z",
     "https://airlinegeeks.com/2026/11/09/united-adds-four-domestic-routes/": "2026-11-09T22:40:33Z",
-    "https://www.twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation": "2026-11-09T22:40:33Z"
+    "https://www.twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation": "2026-11-09T22:40:33Z",
+    "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213": "2026-11-09T22:50:33Z",
+    "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/": "2026-11-09T22:50:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5034,7 +5036,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T14:50:45Z",
-      "updated": "2026-11-09T22:20:51Z",
+      "updated": "2026-11-09T22:50:46Z",
       "items": [
         {
           "id": "cf13344b8de74db0",
@@ -5053,10 +5055,19 @@
           "domain": "simpleflying.com",
           "summary": "Airbus has eclipsed Boeing's legendary Baby Blue 2 record, validating the A350-1000ULR ahead of Qantas' Project Sunrise launch.",
           "published": "2026-11-09T22:17:03Z"
+        },
+        {
+          "id": "b3f33a358ba4ab55",
+          "feed": "Flightradar24 – Blog",
+          "title": "Airbus A350-1000ULR officially sets record for longest commercial airliner flight",
+          "url": "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/",
+          "domain": "flightradar24.com",
+          "summary": "Millions followed the live flight. Now it’s officially in the record books. Airbus’ A350-1000ULR has secured the Guinness World Record for the longest flight by distance by a commercial airliner—and Flightradar24 is proud to have helped support the record’s certification. Airbus announced the recognition on 9 November, confirming a distance of 12,503 nautical miles (23,155 […] The post Airbus A350-1000ULR officially sets record for longest commercial airliner flight appeared first on Flightradar24 Blog .",
+          "published": "2026-11-09T22:42:32Z"
         }
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-      "written_count": 2
+      "written_count": 3
     },
     "c4ee0ae593f": {
       "id": "c4ee0ae593f",
@@ -5277,6 +5288,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.840157
+    "2026-11": 3.855023
   }
 }

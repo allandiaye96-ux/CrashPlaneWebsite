@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
+    "created": "2026-11-09T14:50:48Z",
+    "updated": "2026-11-09T22:50:54Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "L'Airbus A350-1000ULR décroche le record Guinness du plus long vol commercial par la distance",
+    "chapo": "Airbus a annoncé le 9 novembre que son A350-1000ULR, destiné à Qantas, avait obtenu le record Guinness du plus long vol d'un avion de ligne commercial par la distance. Selon Flightradar24, la distance retenue est de 12,503 nautical miles.",
+    "paragraphes": [
+      "L'avionneur indique que l'A350-1000ULR (Ultra-Long Range) a officiellement battu le record du plus long vol par la distance pour un avion de ligne commercial. D'après Flightradar24, la distance confirmée par Airbus est de 12 503 milles nautiques (23 155 […] dans le texte d'origine).",
+      "Flightradar24 explique avoir contribué à la certification du record et souligne que des millions de personnes avaient suivi le vol en direct. Simple Flying, qui évoque un vol d'essai et la distance de 14 388 miles, note que ce résultat dépasse le record établi par le Boeing « Baby Blue 2 » et valide l'appareil avant le lancement du Project Sunrise de Qantas."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "14,388 Miles: Airbus A350-1000ULR Test Flight Officially Breaks The Guinness World Record",
+        "url": "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/",
+        "date": "2026-11-09T22:17:03Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Airbus A350-1000ULR officially sets record for longest commercial airliner flight",
+        "url": "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/",
+        "date": "2026-11-09T22:42:32Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
     "created": "2026-11-09T21:01:23Z",
     "updated": "2026-11-09T22:31:10Z",
@@ -34,45 +80,6 @@
         "title": "Boeing Plans to Cut 5% of Commercial Workforce",
         "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
         "date": "2026-11-09T22:29:56Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-    "created": "2026-11-09T14:50:48Z",
-    "updated": "2026-11-09T22:20:55Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "L'Airbus A350-1000ULR décroche le record Guinness du plus long vol commercial en distance",
-    "chapo": "L'Airbus A350-1000ULR (Ultra-Long Range) a officiellement battu le record Guinness du vol le plus long en distance pour un avion de ligne commercial, selon Airbus. Simple Flying évoque un vol d'essai de 14,388 miles.",
-    "paragraphes": [
-      "D'après Airbus, l'appareil a établi ce record mondial homologué par Guinness pour la plus longue distance parcourue par un avion de ligne commercial. Le constructeur présente cette version à très long rayon d'action dans le cadre de son programme avec Qantas.",
-      "Selon Simple Flying, ce vol d'essai a dépassé le record de Boeing associé à l'appareil surnommé « Baby Blue 2 ». Le média y voit une validation de l'A350-1000ULR avant le lancement par Qantas de son Project Sunrise."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Airbus – Communiqués",
-        "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
-        "date": null,
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "14,388 Miles: Airbus A350-1000ULR Test Flight Officially Breaks The Guinness World Record",
-        "url": "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/",
-        "date": "2026-11-09T22:17:03Z",
         "official": false
       }
     ]

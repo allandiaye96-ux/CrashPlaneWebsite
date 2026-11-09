@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T22:40:33Z",
+  "run": "2026-11-09T22:50:33Z",
   "stats": {
     "fetched": 685,
-    "new": 2,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8402,
+  "spend_month_usd": 3.855,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -250,6 +250,12 @@
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
     },
     {
+      "dossier": "A350-1000ULR record du monde de distance Qantas",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
+    },
+    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -422,12 +428,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe"
-    },
-    {
-      "dossier": "A350-1000ULR record du monde de distance Qantas",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
     },
     {
       "dossier": "Qantas vol sans escale Sydney-Londres Project Sunrise",
