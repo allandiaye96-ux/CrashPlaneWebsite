@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/american-united-airlines-continue-price-hikes-solo-travelers-report/": "2026-10-30T09:50:35Z",
-    "https://avitrader.com/2026/10/30/satair-takes-over-parts-management-for-sabena-technics/": "2026-10-30T09:50:35Z",
-    "https://avitrader.com/2026/10/30/boeing-and-lufthansa-technik-extend-tailored-parts-deal/": "2026-10-30T10:01:03Z",
-    "https://www.air-journal.fr/2026-10-30-tap-renoue-le-lien-entre-lisbonne-et-caracas-5278580.html": "2026-10-30T10:01:03Z",
     "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/": "2026-10-30T10:10:33Z",
     "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-10-30T10:20:33Z",
     "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-10-30T10:20:33Z",
@@ -1330,7 +1326,8 @@
     "https://simpleflying.com/klm-replacing-older-widebodies-22-airbus-a350s-cut-fuel-burn-co2-25-percent/": "2026-11-09T09:10:37Z",
     "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak": "2026-11-09T09:30:50Z",
     "https://www.aero.de/news-54121/Aer-Lingus-baut-Verwaltungsstellen-und-Flugpersonal-ab.html": "2026-11-09T09:30:50Z",
-    "https://simpleflying.com/lufthansa-boeing-747-american-airlines-787-miami-close-accident/": "2026-11-09T09:40:34Z"
+    "https://simpleflying.com/lufthansa-boeing-747-american-airlines-787-miami-close-accident/": "2026-11-09T09:40:34Z",
+    "https://www.air-journal.fr/2026-11-09-zurich-mumbai-swiss-deploie-la350-pour-lhiver-5278744.html": "2026-11-09T10:01:03Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5320,6 +5317,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.5507
+    "2026-11": 3.551513
   }
 }
