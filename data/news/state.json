@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/united-airlines-exit-tulum-less-than-2-years-service/": "2026-10-30T17:50:35Z",
-    "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades": "2026-10-30T17:50:35Z",
-    "https://simpleflying.com/why-faa-ended-single-pilot-exemptions-cessna-citations-pilots/": "2026-10-30T18:01:03Z",
     "https://simpleflying.com/air-transat-launches-5-new-long-haul-routes/": "2026-10-30T18:20:33Z",
     "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report": "2026-10-30T18:40:33Z",
     "https://theaviationist.com/2026/10/30/is-italy-about-to-join-the-a400m-club/": "2026-10-30T18:50:33Z",
@@ -1356,7 +1353,8 @@
     "https://simpleflying.com/singapore-airlines-finally-adding-first-class-worlds-longest-flight/": "2026-11-09T17:10:35Z",
     "https://leehamnews.com/2026/11/09/open-comments-thread-week-of-november-9-2026/": "2026-11-09T17:10:35Z",
     "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed": "2026-11-09T17:30:50Z",
-    "https://simpleflying.com/united-airlines-boeing-787-cabin-odor-diversion/": "2026-11-09T17:50:34Z"
+    "https://simpleflying.com/united-airlines-boeing-787-cabin-odor-diversion/": "2026-11-09T17:50:34Z",
+    "https://airlinegeeks.com/2026/11/09/air-france-takes-its-60th-a220-as-a318s-fly-on/": "2026-11-09T18:01:08Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5195,10 +5193,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c177f6e1c93": {
+      "id": "c177f6e1c93",
+      "label": "Air France 60e A220 livraison",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-09T18:01:27Z",
+      "updated": "2026-11-09T18:01:27Z",
+      "items": [
+        {
+          "id": "eda59896bc1f2e2f",
+          "feed": "AirlineGeeks",
+          "title": "Air France Takes Its 60th A220 as A318s Fly On",
+          "url": "https://airlinegeeks.com/2026/11/09/air-france-takes-its-60th-a220-as-a318s-fly-on/",
+          "domain": "airlinegeeks.com",
+          "summary": "The delivery completes the carrier’s original A220 order, while its smallest Airbus jets remain on the schedule through March.",
+          "published": "2026-11-09T18:00:43Z"
+        }
+      ],
+      "story_id": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.7716
+    "2026-11": 3.779368
   }
 }

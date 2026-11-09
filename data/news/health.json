@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T17:50:34Z",
+  "run": "2026-11-09T18:01:08Z",
   "stats": {
     "fetched": 688,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7716,
+  "spend_month_usd": 3.7794,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -806,6 +806,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da"
+    },
+    {
+      "dossier": "Air France 60e A220 livraison",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93"
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 17:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 18:01:30 +0000</lastBuildDate>
+  <item>
+    <title>Air France reçoit son 60e Airbus A220, dernier de sa commande initiale ; les A318 restent en service jusqu&#x27;en mars</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93/</guid>
+    <pubDate>Mon, 09 Nov 2026 18:01:30 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AirlineGeeks, Air France a pris livraison de son 60e A220, ce qui achève la commande d&#x27;origine de la compagnie pour ce type d&#x27;appareil.</description>
+  </item>
   <item>
     <title>airBaltic et Lufthansa revoient à la baisse leur accord de wet lease portant sur des A220-300</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 17:01:29 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Emirates exploite désormais l&#x27;Airbus A350 sur sa liaison vers Orlando, aux États-Unis, une route présentée comme majeure et longue de 16 heures.</description>
-  </item>
-  <item>
-    <title>Singapore Airlines dévoile de nouvelles cabines pour ses A350-900ULR, limitées à 132 sièges</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03/</guid>
-    <pubDate>Fri, 06 Nov 2026 16:40:53 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, Singapore Airlines présente de nouvelles cabines haut de gamme pour ses Airbus A350-900ULR, utilisés sur les vols ultra-longue distance. La capacité y est réduite de 18 % et une classe First fait son apparition.</description>
   </item>
 </channel>
 </rss>

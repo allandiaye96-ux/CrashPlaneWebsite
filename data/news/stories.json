@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93",
+    "created": "2026-11-09T18:01:30Z",
+    "updated": "2026-11-09T18:01:30Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air France reçoit son 60e Airbus A220, dernier de sa commande initiale ; les A318 restent en service jusqu'en mars",
+    "chapo": "Selon AirlineGeeks, Air France a pris livraison de son 60e A220, ce qui achève la commande d'origine de la compagnie pour ce type d'appareil.",
+    "paragraphes": [
+      "D'après AirlineGeeks, cette livraison referme la commande initiale d'A220 passée par le transporteur français.",
+      "Le média indique par ailleurs que les A318, les plus petits avions d'Airbus exploités par la compagnie, restent au programme des vols jusqu'en mars."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AirlineGeeks",
+        "title": "Air France Takes Its 60th A220 as A318s Fly On",
+        "url": "https://airlinegeeks.com/2026/11/09/air-france-takes-its-60th-a220-as-a318s-fly-on/",
+        "date": "2026-11-09T18:00:43Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
     "created": "2026-11-09T15:31:26Z",
     "updated": "2026-11-09T16:31:09Z",
