@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/10/30/turkish-airlines-will-add-two-b777-300ersfs-to-its-fleet/": "2026-10-30T10:40:35Z",
-    "https://www.airliners.de/tap-air-portugal-kuendigt-sommer-2027-island-verbindung/91190": "2026-10-30T10:40:35Z",
-    "https://www.airliners.de/konzertarena-400-millionen-euro-investition-entsteht-flughafen-muenchen/91211": "2026-10-30T10:40:35Z",
-    "https://www.airliners.de/leav-aviation-erweitert-flotte-airbus-a321-dat-lithuania/91212": "2026-10-30T10:40:35Z",
-    "https://www.airliners.de/emirates-nutzt-im-winter-klm-slots-in-dubai-fuer-fluege-nach-helsinki/91214": "2026-10-30T10:40:35Z",
-    "https://www.airliners.de/luxair-q400-anfang-2029-abschaffen-jets-fliegen/91213": "2026-10-30T10:40:35Z",
-    "https://simpleflying.com/singapore-airlines-launches-new-4-hour-a380-route/": "2026-10-30T10:50:33Z",
-    "https://www.aero.de/news-54052/Boeing-stellt-Airlines-2027-bis-zu-15-777-9-in-Aussicht.html": "2026-10-30T10:50:33Z",
     "https://simpleflying.com/lufthansa-risking-287-seat-boeing-787-9-columbus-1st-ever-nonstop-europe/": "2026-10-30T11:01:01Z",
     "https://simpleflying.com/video/delta-vs-united-the-ultimate-business-class-battle/": "2026-10-30T11:01:01Z",
     "https://simpleflying.com/4-engine-aircraft-production/": "2026-10-30T11:01:01Z",
@@ -1337,7 +1329,8 @@
     "https://www.airliners.de/israir-verhandelt-uebernahme-arkia/91388": "2026-11-09T10:20:34Z",
     "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389": "2026-11-09T10:20:34Z",
     "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-11-09T10:30:53Z",
-    "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-11-09T10:30:53Z"
+    "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-11-09T10:30:53Z",
+    "https://simpleflying.com/airlines-with-worlds-most-high-density-economy-cabins-in-2026/": "2026-11-09T10:50:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5252,6 +5245,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.595281
+    "2026-11": 3.596081
   }
 }
