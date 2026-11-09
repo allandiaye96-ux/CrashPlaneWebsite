@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/premium-economy-yesterday-standard-economy-pitch-shrank/": "2026-10-30T23:03:19Z",
-    "https://www.air-journal.fr/2026-10-31-le-31-octobre-1909-dans-le-ciel-meeting-de-saint-etienne-le-public-en-colere-face-au-fiasco-5278595.html": "2026-10-30T23:06:48Z",
     "https://simpleflying.com/airbus-a321xlr-parked-jetblue-wizz-air-kept-iberia-qantas/": "2026-10-31T00:01:04Z",
     "https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate": "2026-10-31T00:10:31Z",
     "https://simpleflying.com/mid-size-florida-hub-betting-delta-air-lines-international-gateway/": "2026-10-31T00:30:49Z",
@@ -1359,7 +1357,9 @@
     "https://www.twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation": "2026-11-09T22:40:33Z",
     "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213": "2026-11-09T22:50:33Z",
     "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/": "2026-11-09T22:50:33Z",
-    "https://theaviationist.com/2026/11/09/our-best-look-yet-at-chinas-gj-11-ucav/": "2026-11-09T23:01:05Z"
+    "https://theaviationist.com/2026/11/09/our-best-look-yet-at-chinas-gj-11-ucav/": "2026-11-09T23:01:05Z",
+    "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production": "2026-11-09T23:10:36Z",
+    "https://www.air-journal.fr/2026-11-10-le-10-novembre-1927-dans-le-ciel-mackenzie-richards-victime-dun-accident-mortel-5278759.html": "2026-11-09T23:10:36Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5262,7 +5262,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T21:01:20Z",
-      "updated": "2026-11-09T22:31:06Z",
+      "updated": "2026-11-09T23:10:50Z",
       "items": [
         {
           "id": "2fae47b1b276bb60",
@@ -5281,10 +5281,19 @@
           "domain": "leehamnews.com",
           "summary": "By Howard Hardee • Editor November 9, 2026 Boeing is making cuts to its commercial workforce as it resets the pace of 737 Max production. The U.S. airframer disclosed during its third-quarter earnings call late last month that... Read More The post Boeing Plans to Cut 5% of Commercial Workforce appeared first on Leeham News .",
           "published": "2026-11-09T22:29:56Z"
+        },
+        {
+          "id": "995491c912330f3d",
+          "feed": "AeroTime",
+          "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
+          "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
+          "domain": "aerotime.aero",
+          "summary": "Boeing will cut about 5% of the jobs in its commercial airplane workforce as it builds jets more… The post Boeing to cut 5% of commercial jet workforce as production ramp-up falters appeared first on AeroTime .",
+          "published": "2026-11-09T22:10:54Z"
         }
       ],
       "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-      "written_count": 2
+      "written_count": 3
     },
     "cd33395d38e": {
       "id": "cd33395d38e",
@@ -5310,6 +5319,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.85584
+    "2026-11": 3.864893
   }
 }

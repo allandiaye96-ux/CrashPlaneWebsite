@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T23:01:05Z",
+  "run": "2026-11-09T23:10:36Z",
   "stats": {
     "fetched": 685,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8558,
+  "spend_month_usd": 3.8649,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -256,6 +256,12 @@
       "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
     },
     {
+      "dossier": "Boeing suppression 5% postes BCA",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
+    },
+    {
       "dossier": "JetBlue créanciers conseillers restructuration",
       "statut": "corrobore",
       "editeurs": 2,
@@ -440,12 +446,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e"
-    },
-    {
-      "dossier": "Boeing suppression 5% postes BCA",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",

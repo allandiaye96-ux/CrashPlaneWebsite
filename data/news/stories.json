@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
+    "created": "2026-11-09T21:01:23Z",
+    "updated": "2026-11-09T23:10:53Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing prévoit de supprimer environ 5 % des postes de sa division avions commerciaux",
+    "chapo": "Boeing veut réduire d'environ 5 % les effectifs de sa division Commercial Airplanes (BCA), selon aero.de et AeroTime, en raison de difficultés dans la montée en cadence de sa production.",
+    "paragraphes": [
+      "D'après aero.de, ces suppressions de postes sont motivées par les problèmes rencontrés dans l'augmentation des cadences de production. AeroTime évoque lui aussi une montée en cadence qui peine à se concrétiser.",
+      "Leeham News relie ces réductions d'effectifs à un ajustement du rythme de production du 737 Max. Le constructeur américain aurait annoncé cette orientation lors de la présentation de ses résultats du troisième trimestre, à la fin du mois précédent."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Stockender Hochlauf: Boeing baut Personal ab",
+        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
+        "date": "2026-11-09T20:51:23Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
+        "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
+        "date": "2026-11-09T22:10:54Z",
+        "official": false
+      },
+      {
+        "name": "Leeham News",
+        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
+        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
+        "date": "2026-11-09T22:29:56Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
     "created": "2026-11-09T14:50:48Z",
     "updated": "2026-11-09T22:50:54Z",
@@ -41,45 +87,6 @@
         "title": "Airbus A350-1000ULR officially sets record for longest commercial airliner flight",
         "url": "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/",
         "date": "2026-11-09T22:42:32Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-    "created": "2026-11-09T21:01:23Z",
-    "updated": "2026-11-09T22:31:10Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Boeing prévoit de supprimer environ 5 % des postes de sa division avions commerciaux",
-    "chapo": "Boeing veut réduire d'environ cinq pour cent les effectifs de sa division Boeing Commercial Airplanes (BCA), selon aero.de. Leeham News relie ces suppressions à un ajustement du rythme de production du 737 Max.",
-    "paragraphes": [
-      "D'après aero.de, le constructeur américain invoque des difficultés rencontrées dans la montée en cadence de sa production pour justifier ces réductions de postes dans sa branche avions de ligne.",
-      "Leeham News indique que Boeing procède à ces coupes alors qu'il révise le rythme de fabrication du 737 Max. Le média précise que l'avionneur a communiqué cette information lors de la présentation de ses résultats du troisième trimestre."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Stockender Hochlauf: Boeing baut Personal ab",
-        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
-        "date": "2026-11-09T20:51:23Z",
-        "official": false
-      },
-      {
-        "name": "Leeham News",
-        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
-        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
-        "date": "2026-11-09T22:29:56Z",
         "official": false
       }
     ]
