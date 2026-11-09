@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-09T21:01:03Z",
+  "run": "2026-11-09T21:10:35Z",
   "stats": {
     "fetched": 688,
-    "new": 1,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -440,12 +440,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "United CEO Boom Overture retard entrée en service",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-united-son-directeur-general-juge-que-l-overture-de-boom-man-e810"
     },
     {
       "dossier": "Ryanair résultats semestriels S1 2026-2027",
