@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/10/30/archer-and-ita-airways-plan-italian-air-taxi-network/": "2026-10-30T10:10:33Z",
     "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-10-30T10:20:33Z",
     "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-10-30T10:20:33Z",
     "https://avitrader.com/2026/10/30/turkish-airlines-will-add-two-b777-300ersfs-to-its-fleet/": "2026-10-30T10:40:35Z",
@@ -1327,7 +1326,13 @@
     "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak": "2026-11-09T09:30:50Z",
     "https://www.aero.de/news-54121/Aer-Lingus-baut-Verwaltungsstellen-und-Flugpersonal-ab.html": "2026-11-09T09:30:50Z",
     "https://simpleflying.com/lufthansa-boeing-747-american-airlines-787-miami-close-accident/": "2026-11-09T09:40:34Z",
-    "https://www.air-journal.fr/2026-11-09-zurich-mumbai-swiss-deploie-la350-pour-lhiver-5278744.html": "2026-11-09T10:01:03Z"
+    "https://www.air-journal.fr/2026-11-09-zurich-mumbai-swiss-deploie-la350-pour-lhiver-5278744.html": "2026-11-09T10:01:03Z",
+    "https://www.aerotime.aero/articles/air-france-receives-final-airbus-a220-300-2019-order": "2026-11-09T10:10:35Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=116649EA-8421-4C80-A01E-C79237DED705": "2026-11-09T10:10:35Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=AC291906-16A9-4802-A639-BA19B2007E5F": "2026-11-09T10:10:35Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=B54AF50A-3A24-4270-9740-278E203E5B39": "2026-11-09T10:10:35Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=AC36A7B8-DE72-4BA2-B0C7-DF130905CF82": "2026-11-09T10:10:35Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=359995E0-9D3B-4BC8-A812-F8B6378D93E5": "2026-11-09T10:10:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1821,48 +1826,6 @@
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
       "written_count": 6
-    },
-    "c298364e94b": {
-      "id": "c298364e94b",
-      "label": "Electra usine Springfield EL9",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-02T10:06:33Z",
-      "updated": "2026-11-02T10:06:33Z",
-      "items": [
-        {
-          "id": "d0e3ffa2cfb4fef1",
-          "feed": "Aero-News Network",
-          "title": "Electra Picks Springfield Ohio For Aircraft Production",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC84FC3A-10A4-468D-96FE-5D860A0DD9DB",
-          "domain": "aero-news.net",
-          "summary": "Manufacturing Plant For The EL9 Ultra Short 9-Passenger Aircraft Government officials and business leaders gathered Wednesday afternoon to celebrate Electra’s first EL9 Ultra Short Aircraft production facility being placed in Springfield, Ohio. The aircraft is a 9-passenger aircraft that can take off and land in as little as 150 feet, meeting a demand for “direct aviation” allowing accessible point-to-point air mobility. “To make a plane that will land on 150 feet is revolutionary, and there's obviously some great poetic justice here that this is coming from the place in the area where the Wright brothers really learned to fly,\" said Ohio Governor Mike DeWine. Electra selected Springfield ou",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-02-electra-choisit-springfield-dans-l-ohio-pour-produire-son-av-e94b",
-      "written_count": 1
-    },
-    "cc7685d462d": {
-      "id": "cc7685d462d",
-      "label": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-02T10:06:33Z",
-      "updated": "2026-11-02T10:06:33Z",
-      "items": [
-        {
-          "id": "8ff36b039a60c60a",
-          "feed": "Aero-News Network",
-          "title": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=C097A2C3-A477-423E-A95A-D85729049215",
-          "domain": "aero-news.net",
-          "summary": "Third-Quarter Adjusted Earnings Declined 9% From A Year Earlier While Revenue Slipped 2% Airbus logged lower earnings in the third quarter as it works to significantly boost plane deliveries to customers in the last few months of the year. The European plane maker said adjusted earnings before interest and taxes–its most closely watched measure of profitability–declined 9% from a year earlier to 1.77 billion euros, equivalent to $1.97 billion. Statutory net profit increased 20% to 1.34 billion euros. Meanwhile, revenue slipped 2% to 17.47 billion euros. Analysts had forecast adjusted EBIT of 1.78 billion euros, a net profit of 1.30 billion euros and revenue of 17.91 billion euros, according ",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d",
-      "written_count": 1
     },
     "cb944cb3ac2": {
       "id": "cb944cb3ac2",
@@ -5317,6 +5280,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.551513
+    "2026-11": 3.552491
   }
 }

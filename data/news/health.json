@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T10:01:03Z",
+  "run": "2026-11-09T10:10:35Z",
   "stats": {
     "fetched": 691,
-    "new": 1,
+    "new": 6,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.5515,
+  "spend_month_usd": 3.5525,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -440,18 +440,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Electra usine Springfield EL9",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-electra-choisit-springfield-dans-l-ohio-pour-produire-son-av-e94b"
-    },
-    {
-      "dossier": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-airbus-resultat-ajuste-en-baisse-de-9-au-troisieme-trimestre-462d"
     },
     {
       "dossier": "Lufthansa flight attendant décès Bengaluru hôtel",
