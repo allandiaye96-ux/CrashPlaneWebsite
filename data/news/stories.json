@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac",
+    "created": "2026-11-09T08:40:55Z",
+    "updated": "2026-11-09T08:40:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "GE Aerospace et BETA annoncent un décollage assisté hybride-électrique sur un Saab 340B modifié",
+    "chapo": "Selon AviTrader, GE Aerospace et BETA Technologies ont réalisé ce qu'elles présentent comme le premier décollage assisté hybride-électrique au monde avec un appareil conçu pour transporter des passagers à des altitudes d'avion de ligne.",
+    "paragraphes": [
+      "L'annonce a été faite lors de l'événement Up.Summit, après des essais menés avec un Saab 340B modifié. Ces tests se sont déroulés sur le site d'essais en vol de BETA à Plattsburgh, dans l'État de New York, d'après AviTrader.",
+      "Les deux entreprises qualifient elles-mêmes cette étape de première mondiale pour un appareil de ce type."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "GE Aerospace, BETA achieve hybrid-electric flight milestone",
+        "url": "https://avitrader.com/2026/11/09/ge-aerospace-beta-achieve-hybrid-electric-flight-milestone/",
+        "date": "2026-11-09T08:31:14Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
     "created": "2026-11-08T14:50:51Z",
     "updated": "2026-11-09T08:20:52Z",

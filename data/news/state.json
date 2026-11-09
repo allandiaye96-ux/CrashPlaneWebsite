@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/embraer-embraer-195-flotte-austrian-airlines-ersatzteilen/91203": "2026-10-30T08:40:34Z",
-    "https://www.airliners.de/embraer-autorisiert-fl-technics-servicebetrieb-e-jets-litauen/91202": "2026-10-30T08:40:34Z",
-    "https://www.airliners.de/ana-regionalairlines-airdo-solaseed-air-komplett-uebernehmen/91196": "2026-10-30T08:40:34Z",
     "https://avitrader.com/2026/10/30/austrian-airlines-and-embraer-sign-component-support-deal/": "2026-10-30T08:50:32Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/rolls-royce-aura-le-soutien-du-gouvernement-britannique-pour-son-moteur-ultrafan-30-20261030.html": "2026-10-30T08:50:32Z",
     "https://avitrader.com/2026/10/30/boston-medflight-orders-three-airbus-h145-helicopters/": "2026-10-30T09:01:03Z",
@@ -1342,7 +1339,8 @@
     "https://www.aero.de/news-54119/Fughafen-Nuernberg-sperrt-Start--und-Landebahn.html": "2026-11-09T07:50:31Z",
     "https://www.air-journal.fr/2026-11-09-troisieme-piste-a-heathrow-les-aeroports-regionaux-veulent-leur-part-des-creneaux-5278742.html": "2026-11-09T08:01:00Z",
     "https://www.aerotime.aero/articles/airbus-5-billion-share-buyback-800-million-tranche": "2026-11-09T08:10:35Z",
-    "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/": "2026-11-09T08:20:34Z"
+    "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/": "2026-11-09T08:20:34Z",
+    "https://avitrader.com/2026/11/09/ge-aerospace-beta-achieve-hybrid-electric-flight-milestone/": "2026-11-09T08:40:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5295,10 +5293,31 @@
       ],
       "story_id": "2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6",
       "written_count": 1
+    },
+    "c7eaa6bbaac": {
+      "id": "c7eaa6bbaac",
+      "label": "GE Aerospace et BETA vol hybride-électrique",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-09T08:40:52Z",
+      "updated": "2026-11-09T08:40:52Z",
+      "items": [
+        {
+          "id": "76b6c5ae66f53725",
+          "feed": "AviTrader",
+          "title": "GE Aerospace, BETA achieve hybrid-electric flight milestone",
+          "url": "https://avitrader.com/2026/11/09/ge-aerospace-beta-achieve-hybrid-electric-flight-milestone/",
+          "domain": "avitrader.com",
+          "summary": "GE Aerospace and BETA Technologies (BETA) have completed what they described as the world’s first hybrid-electric assisted take-off using an aircraft designed to carry passengers at commercial airliner altitudes. The milestone was announced at the Up.Summit industry event following tests with a modified Saab 340B at BETA’s flight test facility in Plattsburgh, New York. The […] The post GE Aerospace, BETA achieve hybrid-electric flight milestone appeared first on AviTrader Aviation News .",
+          "published": "2026-11-09T08:31:14Z"
+        }
+      ],
+      "story_id": "2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.509893
+    "2026-11": 3.518675
   }
 }

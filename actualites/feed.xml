@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 08:31:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 08:40:55 +0000</lastBuildDate>
+  <item>
+    <title>GE Aerospace et BETA annoncent un décollage assisté hybride-électrique sur un Saab 340B modifié</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac/</guid>
+    <pubDate>Mon, 09 Nov 2026 08:40:55 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon AviTrader, GE Aerospace et BETA Technologies ont réalisé ce qu&#x27;elles présentent comme le premier décollage assisté hybride-électrique au monde avec un appareil conçu pour transporter des passagers à des altitudes d&#x27;avion de ligne.</description>
+  </item>
   <item>
     <title>Airbus lance la première tranche de 800 millions d&#x27;euros de son programme de rachat d&#x27;actions de 5 milliards</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 12:50:54 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Le Journal de l&#x27;Aviation, quatre transporteurs, Lufthansa Cargo, Swiss WorldCargo, All Nippon Airways et Nippon Cargo Airlines, ont conclu un MoU le 6 novembre. Ce document ouvre une réflexion sur un rapprochement de leurs activités de fret entre le Japon et l&#x27;Europe.</description>
-  </item>
-  <item>
-    <title>Condor : accord avec le syndicat Ufo sur les règles de service en cabine</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066/</guid>
-    <pubDate>Fri, 06 Nov 2026 12:20:51 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon aero.de, Condor a conclu avec le syndicat du personnel de cabine Ufo une convention-cadre sur les règles de service en cabine. La compagnie n&#x27;aurait ainsi pas de grève du personnel navigant à redouter pendant deux ans.</description>
   </item>
 </channel>
 </rss>

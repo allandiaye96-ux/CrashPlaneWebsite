@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T08:30:58Z",
+  "run": "2026-11-09T08:40:35Z",
   "stats": {
     "fetched": 692,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.5099,
+  "spend_month_usd": 3.5187,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -848,6 +848,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6"
+    },
+    {
+      "dossier": "GE Aerospace et BETA vol hybride-électrique",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac"
     },
     {
       "dossier": "CJUE aides Covid KLM Air France contre Commission Ryanair",
