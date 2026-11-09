@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
+    "created": "2026-11-09T21:01:23Z",
+    "updated": "2026-11-09T22:31:10Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing prévoit de supprimer environ 5 % des postes de sa division avions commerciaux",
+    "chapo": "Boeing veut réduire d'environ cinq pour cent les effectifs de sa division Boeing Commercial Airplanes (BCA), selon aero.de. Leeham News relie ces suppressions à un ajustement du rythme de production du 737 Max.",
+    "paragraphes": [
+      "D'après aero.de, le constructeur américain invoque des difficultés rencontrées dans la montée en cadence de sa production pour justifier ces réductions de postes dans sa branche avions de ligne.",
+      "Leeham News indique que Boeing procède à ces coupes alors qu'il révise le rythme de fabrication du 737 Max. Le média précise que l'avionneur a communiqué cette information lors de la présentation de ses résultats du troisième trimestre."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Stockender Hochlauf: Boeing baut Personal ab",
+        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
+        "date": "2026-11-09T20:51:23Z",
+        "official": false
+      },
+      {
+        "name": "Leeham News",
+        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
+        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
+        "date": "2026-11-09T22:29:56Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
     "created": "2026-11-09T14:50:48Z",
     "updated": "2026-11-09T22:20:55Z",
@@ -34,38 +73,6 @@
         "title": "14,388 Miles: Airbus A350-1000ULR Test Flight Officially Breaks The Guinness World Record",
         "url": "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/",
         "date": "2026-11-09T22:17:03Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-    "created": "2026-11-09T21:01:23Z",
-    "updated": "2026-11-09T21:01:23Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Boeing prévoit de supprimer environ cinq pour cent des postes de sa division avions commerciaux",
-    "chapo": "Selon aero.de, Boeing envisage de supprimer rund fünf Prozent des postes de sa division BCA (avions commerciaux), en raison de difficultés rencontrées dans la montée en cadence de la production.",
-    "paragraphes": [
-      "D'après aero.de, la mesure concerne la branche Boeing Commercial Airplanes, appelée BCA, dont le constructeur américain souhaite réduire les effectifs d'environ cinq pour cent.",
-      "Le média relie cette décision aux problèmes qui freinent l'augmentation des cadences de production de l'avionneur, dont le siège est à Arlington."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Stockender Hochlauf: Boeing baut Personal ab",
-        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
-        "date": "2026-11-09T20:51:23Z",
         "official": false
       }
     ]

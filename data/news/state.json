@@ -1352,7 +1352,10 @@
     "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims": "2026-11-09T21:50:35Z",
     "https://simpleflying.com/tsa-liquids-rule-really-means-us-airports-2026/": "2026-11-09T22:10:37Z",
     "https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel": "2026-11-09T22:10:37Z",
-    "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/": "2026-11-09T22:20:35Z"
+    "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/": "2026-11-09T22:20:35Z",
+    "https://simpleflying.com/jetblue-launches-new-6-hour-route-next-week/": "2026-11-09T22:30:50Z",
+    "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/": "2026-11-09T22:30:50Z",
+    "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets": "2026-11-09T22:30:50Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5246,7 +5249,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T21:01:20Z",
-      "updated": "2026-11-09T21:01:20Z",
+      "updated": "2026-11-09T22:31:06Z",
       "items": [
         {
           "id": "2fae47b1b276bb60",
@@ -5256,14 +5259,23 @@
           "domain": "aero.de",
           "summary": "ARLINGTON - Der Flugzeughersteller Boeing will angesichts von Problemen beim weiteren Produktionsausbau rund fünf Prozent der Stellen in seiner Verkehrsflugzeugsparte BCA streichen.",
           "published": "2026-11-09T20:51:23Z"
+        },
+        {
+          "id": "4b3ab54bb79c96f9",
+          "feed": "Leeham News",
+          "title": "Boeing Plans to Cut 5% of Commercial Workforce",
+          "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
+          "domain": "leehamnews.com",
+          "summary": "By Howard Hardee • Editor November 9, 2026 Boeing is making cuts to its commercial workforce as it resets the pace of 737 Max production. The U.S. airframer disclosed during its third-quarter earnings call late last month that... Read More The post Boeing Plans to Cut 5% of Commercial Workforce appeared first on Leeham News .",
+          "published": "2026-11-09T22:29:56Z"
         }
       ],
       "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-      "written_count": 1
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.83036
+    "2026-11": 3.839308
   }
 }

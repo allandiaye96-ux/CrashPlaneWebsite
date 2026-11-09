@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T22:20:35Z",
+  "run": "2026-11-09T22:30:50Z",
   "stats": {
     "fetched": 686,
-    "new": 1,
+    "new": 3,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8304,
+  "spend_month_usd": 3.8393,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -442,6 +442,12 @@
       "breve": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e"
     },
     {
+      "dossier": "Boeing suppression 5% postes BCA",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -806,12 +812,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8"
-    },
-    {
-      "dossier": "Boeing suppression 5% postes BCA",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
