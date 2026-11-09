@@ -1341,7 +1341,9 @@
     "https://www.air-journal.fr/2026-11-09-a-clermont-ferrand-hop-prepare-lentretien-des-airbus-a220-dair-france-5278740.html": "2026-11-09T06:00:59Z",
     "https://www.airliners.de/vertrieb-marketing-singapore-airlines-kabine-personalkosten-ryanair-kassel/91387": "2026-11-09T06:20:35Z",
     "https://www.air-journal.fr/2026-11-09-a-los-angeles-un-virage-inattendu-dun-a350-dair-france-declenche-une-alerte-trafic-5278741.html": "2026-11-09T07:01:02Z",
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-commences-multi-year-share-buyback-programme-with-launch-of-the-first-tranche": "2026-11-09T07:20:36Z"
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-commences-multi-year-share-buyback-programme-with-launch-of-the-first-tranche": "2026-11-09T07:20:36Z",
+    "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028": "2026-11-09T07:50:31Z",
+    "https://www.aero.de/news-54119/Fughafen-Nuernberg-sperrt-Start--und-Landebahn.html": "2026-11-09T07:50:31Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4839,27 +4841,6 @@
       "story_id": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6",
       "written_count": 1
     },
-    "c149176e65d": {
-      "id": "c149176e65d",
-      "label": "Quasi-collision au roulage Miami 787/747-8 Lufthansa",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-07T07:40:49Z",
-      "updated": "2026-11-07T07:40:49Z",
-      "items": [
-        {
-          "id": "a72d6a5b1f792300",
-          "feed": "aero.de",
-          "title": "Boeing 787-8 rollt 747-8 von Lufthansa vor die Nase",
-          "url": "https://www.aero.de/news-54115/Boeing-787-8-rollt-747-8-von-Lufthansa-vor-die-Nase.html",
-          "domain": "aero.de",
-          "summary": "MIAMI - \"Die American ist in unseren Weg eingebogen\": Eine Boeing 747-8 von Lufthansa muss in Miami auf dem Weg zur Startbahn hart abbremsen.",
-          "published": "2026-11-07T07:40:04Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c12852d88c2": {
       "id": "c12852d88c2",
       "label": "Grandes compagnies chinoises pertes 2026",
@@ -5243,10 +5224,31 @@
       ],
       "story_id": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26",
       "written_count": 1
+    },
+    "c0b28ab7f96": {
+      "id": "c0b28ab7f96",
+      "label": "Russie avions loués étrangers jusqu'en 2028",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-09T07:51:04Z",
+      "updated": "2026-11-09T07:51:04Z",
+      "items": [
+        {
+          "id": "1f17a2043a201aee",
+          "feed": "AeroTime",
+          "title": "Russia aims to keep disputed leased aircraft flying until 2028",
+          "url": "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028",
+          "domain": "aerotime.aero",
+          "summary": "Russia’s Transport Ministry has drafted a government resolution that would allow domestic airlines to continue operating foreign aircraft… The post Russia aims to keep disputed leased aircraft flying until 2028 appeared first on AeroTime .",
+          "published": "2026-11-09T04:00:00Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.476032
+    "2026-11": 3.476898
   }
 }

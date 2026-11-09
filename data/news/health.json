@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T07:40:33Z",
+  "run": "2026-11-09T07:50:31Z",
   "stats": {
-    "fetched": 692,
-    "new": 0,
+    "fetched": 678,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.476,
+  "spend_month_usd": 3.4769,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 14
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "The Local France – Accidents": {
       "ok": true,
@@ -838,12 +838,6 @@
       "breve": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26"
     },
     {
-      "dossier": "Quasi-collision au roulage Miami 787/747-8 Lufthansa",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "CJUE aides Covid KLM Air France contre Commission Ryanair",
       "statut": "source_unique",
       "editeurs": 1,
@@ -875,6 +869,12 @@
     },
     {
       "dossier": "Amende DOT Air France KLM codeshare Delta espace aérien Irak",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Russie avions loués étrangers jusqu'en 2028",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
