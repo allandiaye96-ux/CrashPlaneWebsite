@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:01:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 15:10:54 +0000</lastBuildDate>
+  <item>
+    <title>ANA et Vietnam Airlines signent un accord-cadre en vue d&#x27;une coentreprise</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f/</guid>
+    <pubDate>Mon, 09 Nov 2026 15:10:54 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Le Journal de l&#x27;Aviation, ANA et Vietnam Airlines ont signé un accord-cadre le 9 novembre, qui envisage la création d&#x27;une coentreprise. Les deux compagnies souhaitent ainsi franchir une nouvelle étape après dix ans de partenariat.</description>
+  </item>
   <item>
     <title>Russie : Moscou veut maintenir en vol jusqu&#x27;en 2028 les avions loués à l&#x27;étranger et objets de litiges</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 16:21:14 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Ita Airways a conclu un accord avec les syndicats prévoyant jusqu&#x27;à 180 départs volontaires, alors que la compagnie italienne est concernée par une prise de contrôle majoritaire par Lufthansa.</description>
-  </item>
-  <item>
-    <title>Leipzig/Halle : appel à témoins après une tentative d&#x27;attaque présumée par drone, puis nouvelles fermetures de pistes</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528/</guid>
-    <pubDate>Fri, 06 Nov 2026 15:20:51 +0000</pubDate>
-    <category>Enquête</category>
-    <description>La police allemande recherche une personne suspecte après une tentative d&#x27;attentat présumée avec un drone chargé d&#x27;explosifs à l&#x27;aéroport de Leipzig/Halle, selon aero.de et airliners.de. Des drones ont par ailleurs perturbé brièvement l&#x27;exploitation de la plateforme.</description>
   </item>
 </channel>
 </rss>

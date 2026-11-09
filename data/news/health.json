@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T15:01:11Z",
+  "run": "2026-11-09T15:10:36Z",
   "stats": {
     "fetched": 691,
-    "new": 3,
+    "new": 1,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7157,
+  "spend_month_usd": 3.724,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -800,6 +800,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
+    },
+    {
+      "dossier": "ANA et Vietnam Airlines coentreprise",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f"
     },
     {
       "dossier": "Pistorius décision avion de combat après fin FCAS",

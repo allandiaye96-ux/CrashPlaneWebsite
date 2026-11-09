@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-10-30T15:10:36Z",
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-10-30T15:20:34Z",
     "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z",
     "https://airlinegeeks.com/2026/10/30/airbaltic-moves-to-cut-around-300-employees/": "2026-10-30T15:40:39Z",
@@ -1345,7 +1344,8 @@
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record": "2026-11-09T14:50:33Z",
     "https://simpleflying.com/air-canada-cancels-7-hour-long-haul-route-europe/": "2026-11-09T15:01:11Z",
     "https://simpleflying.com/5-airlines-operating-boeing-787-dreamliners-airbus-a350s/": "2026-11-09T15:01:11Z",
-    "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html": "2026-11-09T15:01:11Z"
+    "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html": "2026-11-09T15:01:11Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/une-coentreprise-en-preparation-entre-ana-et-vietnam-airlines-20261109.html": "2026-11-09T15:10:36Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5142,10 +5142,31 @@
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
       "written_count": 1
+    },
+    "c4ee0ae593f": {
+      "id": "c4ee0ae593f",
+      "label": "ANA et Vietnam Airlines coentreprise",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-09T15:10:51Z",
+      "updated": "2026-11-09T15:10:51Z",
+      "items": [
+        {
+          "id": "1faddf6d096bea85",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Une coentreprise en préparation entre ANA et Vietnam Airlines",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/une-coentreprise-en-preparation-entre-ana-et-vietnam-airlines-20261109.html",
+          "domain": "journal-aviation.com",
+          "summary": "Après dix ans de partenariat, ANA et Vietnam Airlines souhaitent passer à l’étape suivante. Les deux compagnies ont signé un accord-cadre le 9 novembre, envisageant la création d’une coentreprise couvrant […] L’article Une coentreprise en préparation entre ANA et Vietnam Airlines a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-09T15:09:33Z"
+        }
+      ],
+      "story_id": "2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.715744
+    "2026-11": 3.72403
   }
 }
