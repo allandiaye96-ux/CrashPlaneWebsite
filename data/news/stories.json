@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
+    "created": "2026-11-09T19:50:52Z",
+    "updated": "2026-11-09T19:50:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "United Airlines annonce neuf nouvelles liaisons au départ de San Francisco",
+    "chapo": "Selon Simple Flying, United Airlines ouvre neuf nouvelles routes depuis son hub de San Francisco (SFO), sur le Pacifique, la côte Est, le Midwest et la Floride.",
+    "paragraphes": [
+      "D'après Simple Flying, ces neuf nouvelles connexions élargissent la présence de la compagnie sur le Pacifique. Elles renforcent aussi, toute l'année, l'alimentation du hub depuis la côte Est.",
+      "Le média précise que le programme comprend en outre des dessertes saisonnières vers le Midwest et la Floride."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "United Airlines Launches 9 New Routes From Major West Coast Hub: See Full List Now",
+        "url": "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/",
+        "date": "2026-11-09T19:40:51Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93",
     "created": "2026-11-09T18:01:30Z",
     "updated": "2026-11-09T18:01:30Z",

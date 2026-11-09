@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/southwest-airlines-flight-attendant-hired-arrest-warrant-fraud-turns-himself-in/": "2026-10-30T19:50:32Z",
     "https://simpleflying.com/how-usaf-sustains-222-c-17-globemasters-no-new-builds-2026/": "2026-10-30T20:00:59Z",
     "https://australianaviation.com.au/2026/10/australian-ai-awards-2026-winners-unveiled/": "2026-10-30T20:00:59Z",
     "https://australianaviation.com.au/2026/10/exclusive-sydney-curfew-could-leave-business-jets-out-in-the-cold/": "2026-10-30T20:00:59Z",
@@ -1353,7 +1352,8 @@
     "https://www.twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines": "2026-11-09T18:30:54Z",
     "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report": "2026-11-09T18:50:34Z",
     "https://www.twz.com/news-features/netting-to-shield-f-35s-at-tyndall-afb-from-drone-attacks-eyed-by-usaf": "2026-11-09T19:20:34Z",
-    "https://simpleflying.com/alaska-airlines-cancels-4-routes-from-2nd-busiest-hub/": "2026-11-09T19:30:51Z"
+    "https://simpleflying.com/alaska-airlines-cancels-4-routes-from-2nd-busiest-hub/": "2026-11-09T19:30:51Z",
+    "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/": "2026-11-09T19:50:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5213,10 +5213,31 @@
       ],
       "story_id": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93",
       "written_count": 1
+    },
+    "c2e888f59d8": {
+      "id": "c2e888f59d8",
+      "label": "United 9 nouvelles routes depuis SFO",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-09T19:50:49Z",
+      "updated": "2026-11-09T19:50:49Z",
+      "items": [
+        {
+          "id": "4a5dc5373d5a76a1",
+          "feed": "Simple Flying",
+          "title": "United Airlines Launches 9 New Routes From Major West Coast Hub: See Full List Now",
+          "url": "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/",
+          "domain": "simpleflying.com",
+          "summary": "Nine new SFO connections expand Pacific reach and bolster year round East Coast feeds while adding seasonal Midwest and Florida service.",
+          "published": "2026-11-09T19:40:51Z"
+        }
+      ],
+      "story_id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.781836
+    "2026-11": 3.789805
   }
 }

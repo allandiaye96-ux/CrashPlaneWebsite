@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 19:40:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 19:50:52 +0000</lastBuildDate>
+  <item>
+    <title>United Airlines annonce neuf nouvelles liaisons au départ de San Francisco</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8/</guid>
+    <pubDate>Mon, 09 Nov 2026 19:50:52 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, United Airlines ouvre neuf nouvelles routes depuis son hub de San Francisco (SFO), sur le Pacifique, la côte Est, le Midwest et la Floride.</description>
+  </item>
   <item>
     <title>Air France reçoit son 60e Airbus A220, dernier de sa commande initiale ; les A318 restent en service jusqu&#x27;en mars</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 19:11:00 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Allegiant Air a exercé ses options pour six Boeing 737 MAX 8 d&#x27;une valeur de 720 millions de dollars. Les appareils sont attendus en 2028.</description>
-  </item>
-  <item>
-    <title>Emirates déploie son A350 vers Orlando, sur une nouvelle liaison d&#x27;environ 16 heures</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8/</guid>
-    <pubDate>Fri, 06 Nov 2026 17:01:29 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, Emirates exploite désormais l&#x27;Airbus A350 sur sa liaison vers Orlando, aux États-Unis, une route présentée comme majeure et longue de 16 heures.</description>
   </item>
 </channel>
 </rss>

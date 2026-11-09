@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T19:40:35Z",
+  "run": "2026-11-09T19:50:35Z",
   "stats": {
-    "fetched": 689,
-    "new": 0,
-    "written": 0,
+    "fetched": 688,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7818,
+  "spend_month_usd": 3.7898,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 31
+      "items": 30
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -812,6 +812,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93"
+    },
+    {
+      "dossier": "United 9 nouvelles routes depuis SFO",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8"
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
