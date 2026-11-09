@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
+    "created": "2026-11-09T21:01:23Z",
+    "updated": "2026-11-09T21:01:23Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing prévoit de supprimer environ cinq pour cent des postes de sa division avions commerciaux",
+    "chapo": "Selon aero.de, Boeing envisage de supprimer rund fünf Prozent des postes de sa division BCA (avions commerciaux), en raison de difficultés rencontrées dans la montée en cadence de la production.",
+    "paragraphes": [
+      "D'après aero.de, la mesure concerne la branche Boeing Commercial Airplanes, appelée BCA, dont le constructeur américain souhaite réduire les effectifs d'environ cinq pour cent.",
+      "Le média relie cette décision aux problèmes qui freinent l'augmentation des cadences de production de l'avionneur, dont le siège est à Arlington."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Stockender Hochlauf: Boeing baut Personal ab",
+        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
+        "date": "2026-11-09T20:51:23Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
     "created": "2026-11-09T15:20:55Z",
     "updated": "2026-11-09T20:01:27Z",

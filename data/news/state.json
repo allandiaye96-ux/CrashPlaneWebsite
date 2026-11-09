@@ -1352,7 +1352,8 @@
     "https://simpleflying.com/jetblue-launches-3-new-nonstop-routes-in-only-1-day/": "2026-11-09T20:30:53Z",
     "https://leehamnews.com/2026/10/30/boeings-rough-week-maybe-management-deserves-some-credit/": "2026-11-09T20:50:34Z",
     "https://www.twz.com/air/highlights-from-north-koreas-drone-a-palooza": "2026-11-09T20:50:34Z",
-    "https://www.aero.de/news-54128/Tytan-will-3000-Abfangdrohnen-pro-Monat-herstellen.html": "2026-11-09T20:50:34Z"
+    "https://www.aero.de/news-54128/Tytan-will-3000-Abfangdrohnen-pro-Monat-herstellen.html": "2026-11-09T20:50:34Z",
+    "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html": "2026-11-09T21:01:03Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5251,10 +5252,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c71c60a80f5": {
+      "id": "c71c60a80f5",
+      "label": "Boeing suppression 5% postes BCA",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-09T21:01:20Z",
+      "updated": "2026-11-09T21:01:20Z",
+      "items": [
+        {
+          "id": "2fae47b1b276bb60",
+          "feed": "aero.de",
+          "title": "Stockender Hochlauf: Boeing baut Personal ab",
+          "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
+          "domain": "aero.de",
+          "summary": "ARLINGTON - Der Flugzeughersteller Boeing will angesichts von Problemen beim weiteren Produktionsausbau rund fünf Prozent der Stellen in seiner Verkehrsflugzeugsparte BCA streichen.",
+          "published": "2026-11-09T20:51:23Z"
+        }
+      ],
+      "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.810741
+    "2026-11": 3.818729
   }
 }

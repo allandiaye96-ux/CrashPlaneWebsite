@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 20:50:47 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 21:01:23 +0000</lastBuildDate>
+  <item>
+    <title>Boeing prévoit de supprimer environ cinq pour cent des postes de sa division avions commerciaux</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5/</guid>
+    <pubDate>Mon, 09 Nov 2026 21:01:23 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon aero.de, Boeing envisage de supprimer rund fünf Prozent des postes de sa division BCA (avions commerciaux), en raison de difficultés rencontrées dans la montée en cadence de la production.</description>
+  </item>
   <item>
     <title>United Airlines annonce neuf nouvelles liaisons au départ de San Francisco</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 20:01:43 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Australian Aviation, les salariés de Virgin représentés par l&#x27;Australian Services Union (ASU) maintiennent leur action protégée, alors que les négociations sur un nouvel accord d&#x27;entreprise restent bloquées.</description>
-  </item>
-  <item>
-    <title>Allegiant Air lève ses options pour six Boeing 737 MAX 8 supplémentaires, d&#x27;une valeur de 720 millions de dollars</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a/</guid>
-    <pubDate>Fri, 06 Nov 2026 19:11:00 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, Allegiant Air a exercé ses options pour six Boeing 737 MAX 8 d&#x27;une valeur de 720 millions de dollars. Les appareils sont attendus en 2028.</description>
   </item>
 </channel>
 </rss>

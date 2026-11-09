@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T20:50:34Z",
+  "run": "2026-11-09T21:01:03Z",
   "stats": {
     "fetched": 688,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8107,
+  "spend_month_usd": 3.8187,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -812,6 +812,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8"
+    },
+    {
+      "dossier": "Boeing suppression 5% postes BCA",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
