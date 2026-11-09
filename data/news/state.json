@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/lufthansa-risking-287-seat-boeing-787-9-columbus-1st-ever-nonstop-europe/": "2026-10-30T11:01:01Z",
-    "https://simpleflying.com/video/delta-vs-united-the-ultimate-business-class-battle/": "2026-10-30T11:01:01Z",
-    "https://simpleflying.com/4-engine-aircraft-production/": "2026-10-30T11:01:01Z",
-    "https://simpleflying.com/us-airlines-not-happy-cdc-ebola-rules-passengers/": "2026-10-30T11:01:01Z",
-    "https://www.air-journal.fr/2026-10-30-orlemur-une-pochette-qui-devient-coussin-de-voyage-a-remplir-avec-ses-propres-vetements-5278420.html": "2026-10-30T11:01:01Z",
-    "https://www.air-journal.fr/2026-10-30-avis-google-seuls-deux-aeroports-francais-dans-le-top-100-europeen-dairhelp-5278581.html": "2026-10-30T11:01:01Z",
     "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-episode-393-the-pieces-are-worth-more-than-the-whole/": "2026-10-30T11:20:34Z",
     "https://www.airliners.de/china-southern-airlines-rutscht-dritten-quartal-verlustzone/91222": "2026-10-30T11:40:33Z",
     "https://www.airliners.de/qatar-airways-berlin-doha-dreimal-taeglich-wieder/91221": "2026-10-30T11:40:33Z",
@@ -1330,7 +1324,8 @@
     "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389": "2026-11-09T10:20:34Z",
     "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-11-09T10:30:53Z",
     "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-11-09T10:30:53Z",
-    "https://simpleflying.com/airlines-with-worlds-most-high-density-economy-cabins-in-2026/": "2026-11-09T10:50:37Z"
+    "https://simpleflying.com/airlines-with-worlds-most-high-density-economy-cabins-in-2026/": "2026-11-09T10:50:37Z",
+    "https://www.air-journal.fr/2026-11-09-espagne-la-greve-generale-du-11-novembre-menace-de-perturber-les-vols-et-lacces-aux-aeroports-5278746.html": "2026-11-09T11:01:08Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5245,6 +5240,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.596081
+    "2026-11": 3.596902
   }
 }
