@@ -1326,7 +1326,8 @@
     "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-11-09T10:30:53Z",
     "https://simpleflying.com/airlines-with-worlds-most-high-density-economy-cabins-in-2026/": "2026-11-09T10:50:37Z",
     "https://www.air-journal.fr/2026-11-09-espagne-la-greve-generale-du-11-novembre-menace-de-perturber-les-vols-et-lacces-aux-aeroports-5278746.html": "2026-11-09T11:01:08Z",
-    "https://www.aerotime.aero/articles/us-air-force-anti-drone-nets-f35-shelters-tyndall": "2026-11-09T11:10:34Z"
+    "https://www.aerotime.aero/articles/us-air-force-anti-drone-nets-f35-shelters-tyndall": "2026-11-09T11:10:34Z",
+    "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html": "2026-11-09T11:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5189,10 +5190,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c56ff96fbca": {
+      "id": "c56ff96fbca",
+      "label": "EASA capacité A330-900 480 passagers",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-09T11:20:50Z",
+      "updated": "2026-11-09T11:20:50Z",
+      "items": [
+        {
+          "id": "f43f010b9874475a",
+          "feed": "aero.de",
+          "title": "EASA erlaubt bis zu 480 Passagiere im Airbus A330-900",
+          "url": "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html",
+          "domain": "aero.de",
+          "summary": "TOULOUSE - Einige Fluggesellschaften reizen die Kabine im Airbus A330-900 mit einer Economy-Maximalbestuhlung aus. Bald sind noch mehr Sitze noch mehr möglich. Die EASA hebt die Passagierkapazität des Airbus-Interkontmodells von bislang 465 auf 480 Fluggäste an - unter Bedingungen.",
+          "published": "2026-11-09T11:16:52Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.597721
+    "2026-11": 3.598548
   }
 }
