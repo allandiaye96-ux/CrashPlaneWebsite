@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-09T23:30:48Z",
+  "run": "2026-11-09T23:40:33Z",
   "stats": {
-    "fetched": 684,
-    "new": 1,
-    "written": 1,
+    "fetched": 675,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -51,7 +51,7 @@
     },
     "The Local France – Aviation": {
       "ok": true,
-      "items": 9
+      "items": 0
     },
     "The Local France – Accidents": {
       "ok": true,
