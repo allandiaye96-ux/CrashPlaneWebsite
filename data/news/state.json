@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-10-30T10:20:33Z",
-    "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-10-30T10:20:33Z",
     "https://avitrader.com/2026/10/30/turkish-airlines-will-add-two-b777-300ersfs-to-its-fleet/": "2026-10-30T10:40:35Z",
     "https://www.airliners.de/tap-air-portugal-kuendigt-sommer-2027-island-verbindung/91190": "2026-10-30T10:40:35Z",
     "https://www.airliners.de/konzertarena-400-millionen-euro-investition-entsteht-flughafen-muenchen/91211": "2026-10-30T10:40:35Z",
@@ -1332,7 +1330,12 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=AC291906-16A9-4802-A639-BA19B2007E5F": "2026-11-09T10:10:35Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=B54AF50A-3A24-4270-9740-278E203E5B39": "2026-11-09T10:10:35Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=AC36A7B8-DE72-4BA2-B0C7-DF130905CF82": "2026-11-09T10:10:35Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=359995E0-9D3B-4BC8-A812-F8B6378D93E5": "2026-11-09T10:10:35Z"
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=359995E0-9D3B-4BC8-A812-F8B6378D93E5": "2026-11-09T10:10:35Z",
+    "https://www.airliners.de/feuerwehren-proben-flughafen-braunschweig-wolfsburg-ernstfall/91390": "2026-11-09T10:20:34Z",
+    "https://www.airliners.de/airbus-aktienrueckkauf-milliarden-euro/91391": "2026-11-09T10:20:34Z",
+    "https://www.airliners.de/aegean-bestaetigt-a321-lr-kabine-haelt-trotz-kerosinpreise-indien-fest/91393": "2026-11-09T10:20:34Z",
+    "https://www.airliners.de/israir-verhandelt-uebernahme-arkia/91388": "2026-11-09T10:20:34Z",
+    "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389": "2026-11-09T10:20:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -3789,7 +3792,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-06T17:20:51Z",
+      "updated": "2026-11-09T10:20:51Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -3862,10 +3865,19 @@
           "domain": "airliners.de",
           "summary": "Zum dritten Mal in dieser Woche haben Bombendrohungen den Luftverkehr in Europa beschäftigt. Nun erhielten auch mehrere Fernsehsender Drohungen, samt Bekenntnis zu den Flugdrohungen und der Ankündigung weiterer Angriffe auf Verkehrsmittel. Das Auswärtige Amt sieht Hinweise auf ein koordiniertes Vorgehen.",
           "published": "2026-11-06T12:46:45Z"
+        },
+        {
+          "id": "07d00a8085fd7f2f",
+          "feed": "airliners.de",
+          "title": "Behörden ermitteln nach Serie von Bombendrohungen gegen Flüge in Europa",
+          "url": "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389",
+          "domain": "airliners.de",
+          "summary": "Eine Serie von Bombendrohungen erschüttert den europäischen Luftverkehr. Mehr als 30 Fälle verunsichern die Passagiere, Sprengkörper wurden zunächst nicht gefunden. Ein Sicherheitsexperte hat einen Verdacht, mahnt aber zur Vorsicht.",
+          "published": "2026-11-09T09:31:44Z"
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-      "written_count": 8
+      "written_count": 9
     },
     "ca4dad664c6": {
       "id": "ca4dad664c6",
@@ -4779,27 +4791,6 @@
       "story_id": "2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2",
       "written_count": 1
     },
-    "c122e09368a": {
-      "id": "c122e09368a",
-      "label": "FAA audition modernisation contrôle aérien 12,5 Md$",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-07T10:10:52Z",
-      "updated": "2026-11-07T10:10:52Z",
-      "items": [
-        {
-          "id": "e4d46b912d67c275",
-          "feed": "Aero-News Network",
-          "title": "FAA Administrator To Testify On $12.5 Billion Air Traffic Overhaul",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=23AB77CF-24F1-4F41-BDEB-4F6D21AC6F57",
-          "domain": "aero-news.net",
-          "summary": "Seeking An Additional $30 Billion For Air Traffic Control Towers, Software And Digital Upgrades The ‌head of the FAA will testify next week before the House Transportation and Infrastructure Committee on the ongoing $12.5 billion effort to modernize the aging U.S. air traffic control system, congressional aides said on Friday. FAA Administrator Bryan Bedford will update the committee on Tuesday on progress and ongoing challenges as it works to replace ancient equipment like copper telecom lines, floppy disks and paper strips used to track airplanes. Congress approved $12.5 billion over five years in June 2025 for air traffic control reforms but the Trump administration wants another $30 bill",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c2499c1fe56": {
       "id": "c2499c1fe56",
       "label": "ANA rachat Airdo et Solaseed Air",
@@ -5280,6 +5271,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.552491
+    "2026-11": 3.595281
   }
 }

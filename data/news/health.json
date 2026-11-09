@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T10:10:35Z",
+  "run": "2026-11-09T10:20:34Z",
   "stats": {
     "fetched": 691,
-    "new": 6,
+    "new": 5,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 3.5525,
+  "spend_month_usd": 3.5953,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -842,12 +842,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762"
-    },
-    {
-      "dossier": "FAA audition modernisation contrôle aérien 12,5 Md$",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Pistorius décision avion de combat après fin FCAS",
