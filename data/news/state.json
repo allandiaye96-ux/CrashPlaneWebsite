@@ -1349,7 +1349,10 @@
     "https://australianaviation.com.au/2026/11/council-meeting-fuels-orange-newcastle-flights-speculation/": "2026-11-09T20:01:02Z",
     "https://australianaviation.com.au/2026/11/nasa-reveals-new-experimental-x-70-fractal-aircraft/": "2026-11-09T20:01:02Z",
     "https://australianaviation.com.au/2026/11/katherine-bennell-pegg-flies-with-raaf-roulettes/": "2026-11-09T20:01:02Z",
-    "https://simpleflying.com/jetblue-launches-3-new-nonstop-routes-in-only-1-day/": "2026-11-09T20:30:53Z"
+    "https://simpleflying.com/jetblue-launches-3-new-nonstop-routes-in-only-1-day/": "2026-11-09T20:30:53Z",
+    "https://leehamnews.com/2026/10/30/boeings-rough-week-maybe-management-deserves-some-credit/": "2026-11-09T20:50:34Z",
+    "https://www.twz.com/air/highlights-from-north-koreas-drone-a-palooza": "2026-11-09T20:50:34Z",
+    "https://www.aero.de/news-54128/Tytan-will-3000-Abfangdrohnen-pro-Monat-herstellen.html": "2026-11-09T20:50:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5227,10 +5230,31 @@
       ],
       "story_id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
       "written_count": 1
+    },
+    "cf004f1ea0d": {
+      "id": "cf004f1ea0d",
+      "label": "Tytan production drones intercepteurs Munich",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-09T20:50:47Z",
+      "updated": "2026-11-09T20:50:47Z",
+      "items": [
+        {
+          "id": "90c39dbe184d00c3",
+          "feed": "aero.de",
+          "title": "Tytan will 3.000 Abfangdrohnen pro Monat herstellen",
+          "url": "https://www.aero.de/news-54128/Tytan-will-3000-Abfangdrohnen-pro-Monat-herstellen.html",
+          "domain": "aero.de",
+          "summary": "MÜNCHEN - Das 2023 gegründete Münchner Rüstungsunternehmen Tytan will künftig bis zu 3.000 Abfangdrohnen pro Monat herstellen.",
+          "published": "2026-11-09T20:46:10Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.809926
+    "2026-11": 3.810741
   }
 }
