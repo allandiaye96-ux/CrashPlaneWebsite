@@ -1,10 +1,10 @@
 {
-  "run": "2026-11-09T10:20:34Z",
+  "run": "2026-11-09T10:30:53Z",
   "stats": {
     "fetched": 691,
-    "new": 5,
+    "new": 0,
     "written": 0,
-    "held": 1,
+    "held": 0,
     "errors": 0
   },
   "spend_month_usd": 3.5953,
@@ -440,12 +440,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Lufthansa flight attendant décès Bengaluru hôtel",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2"
     },
     {
       "dossier": "Air India annulations 8 destinations",

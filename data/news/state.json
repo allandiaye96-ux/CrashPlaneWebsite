@@ -1335,7 +1335,9 @@
     "https://www.airliners.de/airbus-aktienrueckkauf-milliarden-euro/91391": "2026-11-09T10:20:34Z",
     "https://www.airliners.de/aegean-bestaetigt-a321-lr-kabine-haelt-trotz-kerosinpreise-indien-fest/91393": "2026-11-09T10:20:34Z",
     "https://www.airliners.de/israir-verhandelt-uebernahme-arkia/91388": "2026-11-09T10:20:34Z",
-    "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389": "2026-11-09T10:20:34Z"
+    "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389": "2026-11-09T10:20:34Z",
+    "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-11-09T10:30:53Z",
+    "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-11-09T10:30:53Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1829,27 +1831,6 @@
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
       "written_count": 6
-    },
-    "cb944cb3ac2": {
-      "id": "cb944cb3ac2",
-      "label": "Lufthansa flight attendant décès Bengaluru hôtel",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T10:20:47Z",
-      "updated": "2026-11-02T10:20:47Z",
-      "items": [
-        {
-          "id": "daea8bda00327b83",
-          "feed": "airliners.de",
-          "title": "Lufthansa-Flugbegleiter stirbt bei Hotelunfall in Indien",
-          "url": "https://www.airliners.de/lufthansa-flugbegleiter-stirbt-hotelunfall-indien/91237",
-          "domain": "airliners.de",
-          "summary": "Ein Flugbegleiter der Lufthansa ist während eines Zwischenstopps im indischen Bengaluru bei einem Unfall in einem Hotel ums Leben gekommen. Auch ein weiterer ausländischer Gast starb. Die Behörden ermitteln zur genauen Ursache.",
-          "published": "2026-11-02T09:57:07Z"
-        }
-      ],
-      "story_id": "2026-11-02-un-steward-de-lufthansa-meurt-dans-un-accident-d-hotel-a-ben-3ac2",
-      "written_count": 1
     },
     "c87ecf5a27d": {
       "id": "c87ecf5a27d",
