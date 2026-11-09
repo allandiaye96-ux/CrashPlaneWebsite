@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96",
+    "created": "2026-11-09T15:01:35Z",
+    "updated": "2026-11-09T15:01:35Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Russie : Moscou veut maintenir en vol jusqu'en 2028 les avions loués à l'étranger et objets de litiges",
+    "chapo": "Selon AeroTime et Air Journal, le ministère russe des Transports a préparé un projet de résolution gouvernementale visant à laisser les compagnies du pays exploiter des appareils étrangers sous régime dérogatoire jusqu'à fin 2028.",
+    "paragraphes": [
+      "D'après Air Journal, le texte prévoit d'étendre jusqu'au 31 décembre 2028 le cadre d'exception applicable aux avions et aux moteurs que des sociétés étrangères avaient loués avant l'invasion de l'Ukraine. Ce dispositif autorise les transporteurs russes à continuer d'utiliser ces équipements en suivant la réglementation russe.",
+      "Les litiges avec les propriétaires de ces appareils restent d'actualité, précise Air Journal : la mesure permet de prolonger l'exploitation sans régler ces différends. Le projet de résolution est encore à l'état de proposition."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Russia aims to keep disputed leased aircraft flying until 2028",
+        "url": "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028",
+        "date": "2026-11-09T04:00:00Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Avions retenus en Russie : deux années de plus pour voler, sans solder les litiges",
+        "url": "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html",
+        "date": "2026-11-09T15:00:25Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
     "created": "2026-11-09T14:50:48Z",
     "updated": "2026-11-09T14:50:48Z",

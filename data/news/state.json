@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airbus-confirms-first-a380-not-retiring/": "2026-10-30T15:01:04Z",
-    "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z",
     "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-10-30T15:10:36Z",
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-10-30T15:20:34Z",
     "https://simpleflying.com/british-airways-targets-secondary-us-cities/": "2026-10-30T15:20:34Z",
@@ -1344,7 +1342,10 @@
     "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux": "2026-11-09T14:30:51Z",
     "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue": "2026-11-09T14:30:51Z",
     "https://www.aerotime.aero/articles/royal-navy-strike-drones-hms-queen-elizabeth": "2026-11-09T14:30:51Z",
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record": "2026-11-09T14:50:33Z"
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record": "2026-11-09T14:50:33Z",
+    "https://simpleflying.com/air-canada-cancels-7-hour-long-haul-route-europe/": "2026-11-09T15:01:11Z",
+    "https://simpleflying.com/5-airlines-operating-boeing-787-dreamliners-airbus-a350s/": "2026-11-09T15:01:11Z",
+    "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html": "2026-11-09T15:01:11Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4908,7 +4909,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-09T07:51:04Z",
-      "updated": "2026-11-09T07:51:04Z",
+      "updated": "2026-11-09T15:01:27Z",
       "items": [
         {
           "id": "1f17a2043a201aee",
@@ -4918,10 +4919,19 @@
           "domain": "aerotime.aero",
           "summary": "Russia’s Transport Ministry has drafted a government resolution that would allow domestic airlines to continue operating foreign aircraft… The post Russia aims to keep disputed leased aircraft flying until 2028 appeared first on AeroTime .",
           "published": "2026-11-09T04:00:00Z"
+        },
+        {
+          "id": "62ddc359636677aa",
+          "feed": "Air Journal",
+          "title": "Avions retenus en Russie : deux années de plus pour voler, sans solder les litiges",
+          "url": "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html",
+          "domain": "air-journal.fr",
+          "summary": "Le ministère russe des Transports propose de prolonger jusqu’au 31 décembre 2028 le régime dérogatoire encadrant l’exploitation d’avions et de moteurs loués à des sociétés étrangères avant l’invasion de l’Ukraine. Ce dispositif permet aux compagnies de continuer à utiliser ces équipements selon les règles russes, malgré les litiges avec leurs propriétaires. Encore à l’état de […]",
+          "published": "2026-11-09T15:00:25Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96",
+      "written_count": 2
     },
     "c24e0c5b752": {
       "id": "c24e0c5b752",
@@ -5136,6 +5146,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.696598
+    "2026-11": 3.715744
   }
 }

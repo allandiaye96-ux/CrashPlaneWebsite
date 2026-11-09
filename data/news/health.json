@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T14:50:33Z",
+  "run": "2026-11-09T15:01:11Z",
   "stats": {
     "fetched": 691,
-    "new": 1,
+    "new": 3,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.6966,
+  "spend_month_usd": 3.7157,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -418,6 +418,12 @@
       "breve": "2026-11-08-aerfin-acquiert-44-boeing-737ng-aupres-de-qantas-sa-plus-imp-e887"
     },
     {
+      "dossier": "Russie avions loués étrangers jusqu'en 2028",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -815,12 +821,6 @@
     },
     {
       "dossier": "Amende DOT Air France KLM codeshare Delta espace aérien Irak",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Russie avions loués étrangers jusqu'en 2028",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

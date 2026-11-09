@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Mon, 09 Nov 2026 14:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 15:01:35 +0000</lastBuildDate>
+  <item>
+    <title>Russie : Moscou veut maintenir en vol jusqu&#x27;en 2028 les avions loués à l&#x27;étranger et objets de litiges</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96/</guid>
+    <pubDate>Mon, 09 Nov 2026 15:01:35 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Selon AeroTime et Air Journal, le ministère russe des Transports a préparé un projet de résolution gouvernementale visant à laisser les compagnies du pays exploiter des appareils étrangers sous régime dérogatoire jusqu&#x27;à fin 2028.</description>
+  </item>
   <item>
     <title>L&#x27;Airbus A350-1000ULR, destiné à Qantas, décroche le record Guinness de distance en vol commercial</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 15:20:51 +0000</pubDate>
     <category>Enquête</category>
     <description>La police allemande recherche une personne suspecte après une tentative d&#x27;attentat présumée avec un drone chargé d&#x27;explosifs à l&#x27;aéroport de Leipzig/Halle, selon aero.de et airliners.de. Des drones ont par ailleurs perturbé brièvement l&#x27;exploitation de la plateforme.</description>
-  </item>
-  <item>
-    <title>Beta Technologies vise la première certification FAA d&#x27;un constructeur d&#x27;avions électriques</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-beta-technologies-vise-la-premiere-certification-faa-d-un-co-c03a/</guid>
-    <pubDate>Fri, 06 Nov 2026 14:11:14 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon Leeham News, qui reprend un article de FutureFlight (AIN), Beta Technologies cherche à devenir le premier constructeur d&#x27;avions électriques à obtenir une certification de la FAA.</description>
   </item>
 </channel>
 </rss>
