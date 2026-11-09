@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
+    "created": "2026-11-06T15:20:51Z",
+    "updated": "2026-11-09T12:20:52Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Enquête",
+    "importance": 3,
+    "titre": "Leipzig/Halle : appel à témoins après une tentative d'attaque présumée par drone, puis nouvelles fermetures de pistes",
+    "chapo": "La police allemande recherche une personne suspecte après une tentative d'attentat présumée avec un drone chargé d'explosifs à l'aéroport de Leipzig/Halle, selon aero.de et airliners.de. Des drones ont par ailleurs perturbé brièvement l'exploitation de la plateforme.",
+    "paragraphes": [
+      "Dans le cadre de l'enquête, la police a lancé un avis de recherche visant une personne jugée suspecte, indique aero.de. Selon airliners.de, la photo diffusée par l'office fédéral de police criminelle (BKA) montre une personne portant une capuche, à bord d'un vélo électrique. Le lien éventuel entre cette personne et la tentative d'attentat présumée n'est pas établi, et les enquêteurs sollicitent des témoins.",
+      "Par ailleurs, deux drones ont temporairement gêné l'activité de l'aéroport, d'après airliners.de. La police a précisé qu'une des deux pistes avait été fermée brièvement lors de chacune de deux journées consécutives. Pour aero.de, deux pistes ont été interdites à l'usage de façon passagère."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Personenfahndung nach Drohnenangriff auf Leipzig/Halle",
+        "url": "https://www.aero.de/news-54114/Personenfahndung-nach-Drohnenangriff-auf-Flughafen-LeipzigHalle.html",
+        "date": "2026-11-06T15:00:09Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
+        "url": "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381",
+        "date": "2026-11-06T15:03:34Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Drohnen: Flughafen Leipzig/Halle sperrt Start- und Landebahnen",
+        "url": "https://www.aero.de/news-54125/Drohnen-Flughafen-LeipzigHalle-sperrt-Start--und-Landebahnen.html",
+        "date": "2026-11-09T11:55:22Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Drohnen beeinträchtigen Betrieb am Flughafen Leipzig/Halle",
+        "url": "https://www.airliners.de/drohnen-beeintraechtigen-betrieb-flughafen-leipzighalle/91398",
+        "date": "2026-11-09T12:04:41Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
     "created": "2026-11-06T11:01:22Z",
     "updated": "2026-11-09T12:10:56Z",
@@ -34,52 +87,6 @@
         "title": "Qantas Launches 2 New 15-Hour Ultra-Long Nonstop Routes: See Map Now",
         "url": "https://simpleflying.com/qantas-launches-2-new-15-hour-ultra-long-nonstop-routes/",
         "date": "2026-11-09T12:01:19Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
-    "created": "2026-11-06T15:20:51Z",
-    "updated": "2026-11-09T12:01:24Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Enquête",
-    "importance": 3,
-    "titre": "Leipzig/Halle : la police recherche une personne après une tentative d'attaque présumée par drone explosif",
-    "chapo": "Selon aero.de, la police recherche une personne suspecte dans le cadre de la tentative d'attaque présumée avec un drone chargé d'explosifs visant l'aéroport de Leipzig. Un avis de recherche avec photo a été diffusé par le BKA.",
-    "paragraphes": [
-      "D'après airliners.de, la photo diffusée par l'office fédéral de police criminelle (BKA) montre une personne portant une capuche et circulant à vélo électrique. Le site précise que l'on ignore si cette personne est liée à la tentative d'attaque, et que la police appelle les témoins à se manifester.",
-      "Par ailleurs, aero.de indique que deux pistes de l'aéroport de Leipzig/Halle ont dû être fermées temporairement en raison de drones. Le média rappelle que ces appareils peuvent constituer un danger à proximité d'un aéroport."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Personenfahndung nach Drohnenangriff auf Leipzig/Halle",
-        "url": "https://www.aero.de/news-54114/Personenfahndung-nach-Drohnenangriff-auf-Flughafen-LeipzigHalle.html",
-        "date": "2026-11-06T15:00:09Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
-        "url": "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381",
-        "date": "2026-11-06T15:03:34Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Drohnen: Flughafen Leipzig/Halle sperrt Start- und Landebahnen",
-        "url": "https://www.aero.de/news-54125/Drohnen-Flughafen-LeipzigHalle-sperrt-Start--und-Landebahnen.html",
-        "date": "2026-11-09T11:55:22Z",
         "official": false
       }
     ]

@@ -1329,7 +1329,10 @@
     "https://simpleflying.com/video/rolls-royce-is-developing-an-engine-that-could-shake-up-airbus-and-boeing/": "2026-11-09T12:10:34Z",
     "https://simpleflying.com/worlds-5-best-worst-airline-mergers-market-value/": "2026-11-09T12:10:34Z",
     "https://www.aerotime.aero/articles/emirates-airbus-a350-fianancing-shariah": "2026-11-09T12:10:34Z",
-    "https://www.aerotime.aero/articles/emirates-opens-8-million-dubai-cabin-crew-hospitality-hub-to-uae-businesses": "2026-11-09T12:10:34Z"
+    "https://www.aerotime.aero/articles/emirates-opens-8-million-dubai-cabin-crew-hospitality-hub-to-uae-businesses": "2026-11-09T12:10:34Z",
+    "https://simpleflying.com/singapore-airlines-cancels-this-14-hour-a380-route/": "2026-11-09T12:20:32Z",
+    "https://www.airliners.de/asien-direktfluege-hamburger-senat-schweigt-gespraechen-routes-world/91394": "2026-11-09T12:20:32Z",
+    "https://www.airliners.de/drohnen-beeintraechtigen-betrieb-flughafen-leipzighalle/91398": "2026-11-09T12:20:32Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4419,7 +4422,7 @@
       "categorie": "Incident",
       "importance": 3,
       "created": "2026-11-06T15:01:40Z",
-      "updated": "2026-11-09T12:01:15Z",
+      "updated": "2026-11-09T12:20:43Z",
       "items": [
         {
           "id": "42df815549fab89d",
@@ -4447,10 +4450,19 @@
           "domain": "aero.de",
           "summary": "LEIPZIG - In der Nähe eines Flughafens können Drohnen zu einer Gefahr werden. Am Wochenende mussten in Leipzig/Halle zwei Landebahnen zeitweise gesperrt werden.",
           "published": "2026-11-09T11:55:22Z"
+        },
+        {
+          "id": "a3f11e826de3752e",
+          "feed": "airliners.de",
+          "title": "Drohnen beeinträchtigen Betrieb am Flughafen Leipzig/Halle",
+          "url": "https://www.airliners.de/drohnen-beeintraechtigen-betrieb-flughafen-leipzighalle/91398",
+          "domain": "airliners.de",
+          "summary": "Zwei Drohnen haben am Wochenende den Betrieb des Flughafens Leipzig/Halle vorübergehend beeinträchtigt. Wie die Polizei mitteilte, wurde am Samstag und am Sonntag jeweils eine der beiden Landebahnen kurzzeitig gesperrt.",
+          "published": "2026-11-09T12:04:41Z"
         }
       ],
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
-      "written_count": 3
+      "written_count": 4
     },
     "c4326057676": {
       "id": "c4326057676",
@@ -5235,6 +5247,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.629466
+    "2026-11": 3.646078
   }
 }
