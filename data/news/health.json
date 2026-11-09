@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T22:10:37Z",
+  "run": "2026-11-09T22:20:35Z",
   "stats": {
     "fetched": 686,
-    "new": 2,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8212,
+  "spend_month_usd": 3.8304,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -424,6 +424,12 @@
       "breve": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe"
     },
     {
+      "dossier": "A350-1000ULR record du monde de distance Qantas",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
+    },
+    {
       "dossier": "Qantas vol sans escale Sydney-Londres Project Sunrise",
       "statut": "corrobore",
       "editeurs": 2,
@@ -782,12 +788,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762"
-    },
-    {
-      "dossier": "A350-1000ULR record du monde de distance Qantas",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
     },
     {
       "dossier": "ANA et Vietnam Airlines coentreprise",

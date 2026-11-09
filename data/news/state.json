@@ -1351,7 +1351,8 @@
     "https://theaviationist.com/2026/11/09/northrop-grumman-lake-charles-c-130-maintenance-depot/": "2026-11-09T21:40:33Z",
     "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims": "2026-11-09T21:50:35Z",
     "https://simpleflying.com/tsa-liquids-rule-really-means-us-airports-2026/": "2026-11-09T22:10:37Z",
-    "https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel": "2026-11-09T22:10:37Z"
+    "https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel": "2026-11-09T22:10:37Z",
+    "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/": "2026-11-09T22:20:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5029,7 +5030,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T14:50:45Z",
-      "updated": "2026-11-09T14:50:45Z",
+      "updated": "2026-11-09T22:20:51Z",
       "items": [
         {
           "id": "cf13344b8de74db0",
@@ -5039,10 +5040,19 @@
           "domain": "airbus.com",
           "summary": "The Airbus A350-1000ULR (Ultra-Long Range) has officially broken the Guinness World Record for the longest flight by distance by a commercial airliner.",
           "published": null
+        },
+        {
+          "id": "845ea4b472dd736f",
+          "feed": "Simple Flying",
+          "title": "14,388 Miles: Airbus A350-1000ULR Test Flight Officially Breaks The Guinness World Record",
+          "url": "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/",
+          "domain": "simpleflying.com",
+          "summary": "Airbus has eclipsed Boeing's legendary Baby Blue 2 record, validating the A350-1000ULR ahead of Qantas' Project Sunrise launch.",
+          "published": "2026-11-09T22:17:03Z"
         }
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-      "written_count": 1
+      "written_count": 2
     },
     "c4ee0ae593f": {
       "id": "c4ee0ae593f",
@@ -5254,6 +5264,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.821198
+    "2026-11": 3.83036
   }
 }
