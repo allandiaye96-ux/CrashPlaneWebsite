@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T17:40:24Z",
+  "run": "2026-11-09T17:50:34Z",
   "stats": {
     "fetched": 688,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7708,
+  "spend_month_usd": 3.7716,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8"
-    },
-    {
-      "dossier": "Ryanair gel des salaires options kérosène",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7"
     },
     {
       "dossier": "NetJets extension siège Columbus",

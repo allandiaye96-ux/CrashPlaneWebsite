@@ -1355,7 +1355,8 @@
     "https://simpleflying.com/united-airlines-newest-economy-plus-upsell-empty-middle-seat-covered-table-cupholders/": "2026-11-09T17:10:35Z",
     "https://simpleflying.com/singapore-airlines-finally-adding-first-class-worlds-longest-flight/": "2026-11-09T17:10:35Z",
     "https://leehamnews.com/2026/11/09/open-comments-thread-week-of-november-9-2026/": "2026-11-09T17:10:35Z",
-    "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed": "2026-11-09T17:30:50Z"
+    "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed": "2026-11-09T17:30:50Z",
+    "https://simpleflying.com/united-airlines-boeing-787-cabin-odor-diversion/": "2026-11-09T17:50:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1828,36 +1829,6 @@
       ],
       "story_id": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8",
       "written_count": 3
-    },
-    "ca25aca21a7": {
-      "id": "ca25aca21a7",
-      "label": "Ryanair gel des salaires options kérosène",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T16:01:20Z",
-      "updated": "2026-11-02T17:40:51Z",
-      "items": [
-        {
-          "id": "fa5d999b13de850f",
-          "feed": "AeroTime",
-          "title": "Ryanair pay freezes among option mix to stem fuel cost bleed",
-          "url": "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result",
-          "domain": "aerotime.aero",
-          "summary": "Ryanair has laid out several options that it could deploy to help address the elevated jet fuel prices… The post Ryanair pay freezes among option mix to stem fuel cost bleed appeared first on AeroTime .",
-          "published": "2026-11-02T15:16:49Z"
-        },
-        {
-          "id": "7f318c8d7617a8d0",
-          "feed": "AirlineGeeks",
-          "title": "Ryanair Weighs Fare Hikes, Pay Freeze As Fuel Prices Soar",
-          "url": "https://airlinegeeks.com/2026/11/02/ryanair-weighs-fare-hikes-pay-freeze-as-fuel-prices-soar/",
-          "domain": "airlinegeeks.com",
-          "summary": "CEO Michael O’Leary predicted ticket prices could rise 10% to 20% across Europe.",
-          "published": "2026-11-02T17:35:20Z"
-        }
-      ],
-      "story_id": "2026-11-02-ryanair-envisage-notamment-des-gels-de-salaires-face-a-la-ha-21a7",
-      "written_count": 2
     },
     "cf74166462a": {
       "id": "cf74166462a",
@@ -5228,6 +5199,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.770786
+    "2026-11": 3.7716
   }
 }
