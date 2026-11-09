@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/pilots-plan-for-every-emergency-except-life-after-flying/": "2026-10-30T14:40:33Z",
     "https://simpleflying.com/airbus-confirms-first-a380-not-retiring/": "2026-10-30T15:01:04Z",
     "https://www.air-journal.fr/2026-10-30-frontier-airlines-des-tarifs-en-hausse-de-71-mais-toujours-des-pertes-5278591.html": "2026-10-30T15:01:04Z",
     "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-10-30T15:10:36Z",
@@ -1817,27 +1816,6 @@
       ],
       "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
       "written_count": 4
-    },
-    "c6f313cf0b0": {
-      "id": "c6f313cf0b0",
-      "label": "Discover Airlines flotte A350-900",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T14:31:07Z",
-      "updated": "2026-11-02T14:31:07Z",
-      "items": [
-        {
-          "id": "dae25318e85338e5",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Airbus A350 : Discover Airlines voit plus grand pour sa future flotte d’avions longs-courriers de nouvelle génération",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html",
-          "domain": "journal-aviation.com",
-          "summary": "Comme annoncé il y a un an, Discover Airlines, la compagnie aérienne loisirs du groupe Lufthansa, doit ajouter 4 premiers Airbus A350-900 à sa flotte de gros-porteurs long-courriers à partir de […] L’article Airbus A350 : Discover Airlines voit plus grand pour sa future flotte d’avions longs-courriers de nouvelle génération a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-02T14:29:14Z"
-        }
-      ],
-      "story_id": "2026-11-02-discover-airlines-prepare-l-arrivee-de-ses-premiers-airbus-a-f0b0",
-      "written_count": 1
     },
     "cebc38051d8": {
       "id": "cebc38051d8",
