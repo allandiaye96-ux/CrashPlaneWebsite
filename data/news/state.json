@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/synapse-aviation-adaptive-tem-flight-risk-briefings": "2026-10-30T16:10:41Z",
-    "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion": "2026-10-30T16:20:34Z",
     "https://simpleflying.com/scott-kirby-united-americas-emirates-singapore-airlines/": "2026-10-30T16:40:31Z",
     "https://simpleflying.com/breeze-airways-launches-8-new-international-routes/": "2026-10-30T17:10:33Z",
     "https://simpleflying.com/united-airlines-wrote-off-airbus-a320-after-refreshing-next-mod/": "2026-10-30T17:10:33Z",
@@ -1351,7 +1349,8 @@
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-11-09T15:31:01Z",
     "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet": "2026-11-09T15:31:01Z",
     "https://simpleflying.com/captain-first-officer-difference/": "2026-11-09T15:40:36Z",
-    "https://simpleflying.com/chicago-ohare-midway-windy-city-2-airports-split-flyers/": "2026-11-09T16:01:01Z"
+    "https://simpleflying.com/chicago-ohare-midway-windy-city-2-airports-split-flyers/": "2026-11-09T16:01:01Z",
+    "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/": "2026-11-09T16:20:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4609,7 +4608,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-11-07T20:01:09Z",
-      "updated": "2026-11-09T14:01:28Z",
+      "updated": "2026-11-09T16:20:58Z",
       "items": [
         {
           "id": "c06e6550c9948be5",
@@ -4628,10 +4627,19 @@
           "domain": "simpleflying.com",
           "summary": "Among the most notable additions are 14 gates and a new United Club lounge.",
           "published": "2026-11-09T13:56:34Z"
+        },
+        {
+          "id": "80f94d1ce05e1427",
+          "feed": "AirlineGeeks",
+          "title": "United Unveils 14-Gate Concourse at Dulles",
+          "url": "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/",
+          "domain": "airlinegeeks.com",
+          "summary": "The airline expects to top 300 daily departures from the hub next summer.",
+          "published": "2026-11-09T16:15:57Z"
         }
       ],
       "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
-      "written_count": 2
+      "written_count": 3
     },
     "ca631425f97": {
       "id": "ca631425f97",
@@ -5203,6 +5211,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.750146
+    "2026-11": 3.759234
   }
 }

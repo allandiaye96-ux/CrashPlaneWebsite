@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T16:10:35Z",
+  "run": "2026-11-09T16:20:35Z",
   "stats": {
     "fetched": 691,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.7501,
+  "spend_month_usd": 3.7592,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -412,6 +412,12 @@
       "breve": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767"
     },
     {
+      "dossier": "Dulles modernisation 20 Md$ hub United",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
+    },
+    {
       "dossier": "Rapport ANSV A320 Air Arabia Maroc Catane",
       "statut": "corrobore",
       "editeurs": 2,
@@ -740,12 +746,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91"
-    },
-    {
-      "dossier": "Dulles modernisation 20 Md$ hub United",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
     },
     {
       "dossier": "Eve Air Mobility And FlyBIS Sign eVTOL Deal",

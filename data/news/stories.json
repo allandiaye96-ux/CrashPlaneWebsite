@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
+    "created": "2026-11-07T20:01:11Z",
+    "updated": "2026-11-09T16:21:01Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "United inaugure à Washington Dulles un nouveau concourse de 14 portes, premier en 20 ans",
+    "chapo": "Selon Simple Flying et AirlineGeeks, United Airlines a ouvert un nouveau concourse de 14 portes à Washington Dulles, le premier du genre sur cette plateforme depuis 20 ans.",
+    "paragraphes": [
+      "D'après Simple Flying, parmi les principales nouveautés figurent les 14 portes d'embarquement et un nouveau salon United Club. AirlineGeeks indique que la compagnie prévoit de dépasser les 300 départs quotidiens depuis ce hub l'été prochain.",
+      "Ce nouveau concourse s'inscrit dans un projet plus large : toujours d'après Simple Flying, le budget de modernisation de l'aéroport a triplé et dépasse désormais 20 milliards de dollars, avec le remplacement prévu des concourses C et D."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
+        "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
+        "date": "2026-11-07T20:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
+        "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
+        "date": "2026-11-09T13:56:34Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "United Unveils 14-Gate Concourse at Dulles",
+        "url": "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/",
+        "date": "2026-11-09T16:15:57Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
     "created": "2026-11-09T15:31:26Z",
     "updated": "2026-11-09T15:31:26Z",
@@ -200,45 +246,6 @@
         "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
         "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
         "date": null,
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
-    "created": "2026-11-07T20:01:11Z",
-    "updated": "2026-11-09T14:01:31Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "Washington Dulles : nouveau concourse United avec 14 portes, budget de modernisation à plus de 20 milliards de dollars",
-    "chapo": "Selon Simple Flying, United Airlines a ouvert à Washington Dulles son premier nouveau concourse en 20 ans, tandis que le budget de modernisation de l'aéroport dépasserait désormais 20 milliards de dollars.",
-    "paragraphes": [
-      "D'après Simple Flying, le nouveau concourse compte 14 portes d'embarquement et un nouveau salon United Club. Il s'agit du premier concourse inauguré par la compagnie sur cette plateforme depuis 20 ans.",
-      "Le média indique par ailleurs que l'enveloppe consacrée à la modernisation de Dulles a triplé, pour dépasser 20 milliards de dollars. Les concourses C et D doivent être remplacés dans le cadre de ce programme, organisé autour du hub de United à Washington."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
-        "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
-        "date": "2026-11-07T20:00:18Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
-        "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
-        "date": "2026-11-09T13:56:34Z",
         "official": false
       }
     ]
