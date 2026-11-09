@@ -1358,7 +1358,8 @@
     "https://airlinegeeks.com/2026/11/09/united-adds-four-domestic-routes/": "2026-11-09T22:40:33Z",
     "https://www.twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation": "2026-11-09T22:40:33Z",
     "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213": "2026-11-09T22:50:33Z",
-    "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/": "2026-11-09T22:50:33Z"
+    "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/": "2026-11-09T22:50:33Z",
+    "https://theaviationist.com/2026/11/09/our-best-look-yet-at-chinas-gj-11-ucav/": "2026-11-09T23:01:05Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5284,10 +5285,31 @@
       ],
       "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
       "written_count": 2
+    },
+    "cd33395d38e": {
+      "id": "cd33395d38e",
+      "label": "Nouvelles images du drone GJ-11 chinois",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-09T23:01:22Z",
+      "updated": "2026-11-09T23:01:22Z",
+      "items": [
+        {
+          "id": "7ee78b922c472dd4",
+          "feed": "The Aviationist",
+          "title": "Our Best Look Yet at China’s GJ-11 UCAV",
+          "url": "https://theaviationist.com/2026/11/09/our-best-look-yet-at-chinas-gj-11-ucav/",
+          "domain": "theaviationist.com",
+          "summary": "New official footage released ahead of the PLA Air Force’s 77th anniversary reveals additional details of the GJ-11’s design and configuration. China released new official footage of the GJ-11 ‘Sharp Sword’ unmanned combat aerial vehicle (UCAV) on Nov. 9, 2026, revealing additional features of its design and configuration. The release came two days before the […]",
+          "published": "2026-11-09T22:48:31Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.855023
+    "2026-11": 3.85584
   }
 }

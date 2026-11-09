@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-09T22:50:33Z",
+  "run": "2026-11-09T23:01:05Z",
   "stats": {
     "fetched": 685,
     "new": 1,
-    "written": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.855,
+  "spend_month_usd": 3.8558,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -869,6 +869,12 @@
     },
     {
       "dossier": "Tytan production drones intercepteurs Munich",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Nouvelles images du drone GJ-11 chinois",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
