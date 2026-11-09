@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-airline-pilots-least-3-horizontal-hours-sleep-longest-flights/": "2026-10-30T00:01:01Z",
     "https://www.gov.uk/aaib-reports/aaib-statement-on-launcherone-launch-failure": "2026-10-30T00:50:33Z",
     "https://simpleflying.com/why-airbus-a350-is-no-longer-the-worlds-widest-widebody-twinjet-anymore/": "2026-10-30T01:50:33Z",
     "https://www.airliners.de/sun-express-schaltet-sommerflugplan-2027-grossbritannien-irland/91194": "2026-10-30T03:40:34Z",
@@ -1343,7 +1342,8 @@
     "https://simpleflying.com/airports-remove-rubber-deposits-runways-keep-jets-braking-safely/": "2026-11-08T23:01:00Z",
     "https://www.air-journal.fr/2026-11-09-le-9-novembre-1913-dans-le-ciel-maurice-chevillard-seduit-avec-ses-vols-5278730.html": "2026-11-08T23:10:31Z",
     "https://simpleflying.com/strong-jet-stream-leads-transatlantic-flights-reporting-overspeed-incidents/": "2026-11-08T23:20:31Z",
-    "https://simpleflying.com/american-airlines-backs-out-650-bumped-passenger-smaller-plane/": "2026-11-08T23:30:48Z"
+    "https://simpleflying.com/american-airlines-backs-out-650-bumped-passenger-smaller-plane/": "2026-11-08T23:30:48Z",
+    "https://simpleflying.com/indigo-worlds-longest-airbus-a321xlr-flight-tracked/": "2026-11-09T00:01:01Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5261,6 +5261,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.449556
+    "2026-11": 3.450356
   }
 }
