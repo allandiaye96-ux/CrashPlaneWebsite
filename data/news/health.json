@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T16:30:55Z",
+  "run": "2026-11-10T16:40:35Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.1811,
+  "spend_month_usd": 4.1974,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -112,6 +112,12 @@
       "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
     },
     {
+      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
+      "statut": "corrobore",
+      "editeurs": 7,
+      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
+    },
+    {
       "dossier": "Lufthansa TAP participation contrat",
       "statut": "corrobore",
       "editeurs": 6,
@@ -134,12 +140,6 @@
       "statut": "corrobore",
       "editeurs": 6,
       "breve": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211"
-    },
-    {
-      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
-      "statut": "corrobore",
-      "editeurs": 6,
-      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
     },
     {
       "dossier": "Boeing autorisée vente Belarus Belavia",

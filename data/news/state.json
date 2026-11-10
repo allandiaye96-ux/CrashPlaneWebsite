@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/trump-international-airport-stinger-missiles-drone-jammers/": "2026-10-31T16:40:33Z",
     "https://simpleflying.com/united-airlines-eyes-flights-to-uzbekistan-kazakhstan/": "2026-10-31T17:01:01Z",
     "https://simpleflying.com/emergency-autoland-changing-single-pilot-flying/": "2026-10-31T17:01:01Z",
     "https://simpleflying.com/the-top-highest-paid-usaf-pilot-ranks-average-salaries-in-2026/": "2026-10-31T17:30:48Z",
@@ -1404,7 +1403,8 @@
     "https://airlinegeeks.com/2026/11/10/jsx-adds-two-nonstop-routes-from-new-city/": "2026-11-10T16:01:09Z",
     "https://www.aerotime.aero/articles/spanish-nh90-helicopters-first-nato-scramble-romania": "2026-11-10T16:20:35Z",
     "https://www.aerotime.aero/articles/pentagon-f35-parts-accountability-gao-report": "2026-11-10T16:20:35Z",
-    "https://www.airliners.de/gewinnausschuettung-muenchen-denkt-ueber-ausstieg-fmg/91441": "2026-11-10T16:20:35Z"
+    "https://www.airliners.de/gewinnausschuettung-muenchen-denkt-ueber-ausstieg-fmg/91441": "2026-11-10T16:20:35Z",
+    "https://www.air-journal.fr/2026-11-10-un-a350-1000-pour-le-centenaire-de-lufthansa-un-700e-airbus-pour-le-groupe-5278775.html": "2026-11-10T16:40:35Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -5121,7 +5121,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:50:53Z",
-      "updated": "2026-11-10T15:20:51Z",
+      "updated": "2026-11-10T16:40:46Z",
       "items": [
         {
           "id": "bd3e2f64b8f737c8",
@@ -5176,10 +5176,19 @@
           "domain": "aerotime.aero",
           "summary": "Lufthansa took delivery of its first Airbus A350-1000 aircraft in Toulouse, France, on November 10, 2026. The A350-1000,… The post Lufthansa receives first A350-1000, its 700th Airbus aircraft appeared first on AeroTime .",
           "published": "2026-11-10T15:05:30Z"
+        },
+        {
+          "id": "2dc743b6492ed98f",
+          "feed": "Air Journal",
+          "title": "Un A350-1000 pour le centenaire de Lufthansa, un 700e Airbus pour le groupe",
+          "url": "https://www.air-journal.fr/2026-11-10-un-a350-1000-pour-le-centenaire-de-lufthansa-un-700e-airbus-pour-le-groupe-5278775.html",
+          "domain": "air-journal.fr",
+          "summary": "Lufthansa a pris livraison, le 10 novembre 2026 à Toulouse, de son premier Airbus A350-1000, également 700e appareil livré par le constructeur européen à l’ensemble du groupe allemand. Habillé d’une livrée célébrant les cent ans de Lufthansa, ce nouveau long-courrier accueillera jusqu’à 300 passagers dans quatre classes de voyage. Son premier vol commercial est prévu […]",
+          "published": "2026-11-10T16:30:37Z"
         }
       ],
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-      "written_count": 6
+      "written_count": 7
     },
     "cbd12c0c2c8": {
       "id": "cbd12c0c2c8",
@@ -5226,6 +5235,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.181087
+    "2026-11": 4.197436
   }
 }
