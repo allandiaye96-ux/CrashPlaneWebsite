@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-10T01:40:33Z",
+  "run": "2026-11-10T01:50:33Z",
   "stats": {
-    "fetched": 674,
+    "fetched": 654,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
     },
     "airliners.de": {
       "ok": true,
