@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-10T06:00:59Z",
+  "run": "2026-11-10T06:10:35Z",
   "stats": {
     "fetched": 674,
-    "new": 3,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -818,12 +818,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9"
-    },
-    {
-      "dossier": "Enquête parquet de Paris fausses alertes à la bombe",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "DGA commande drone U010 Aliaca VTOL Airbus",

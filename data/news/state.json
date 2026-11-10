@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/industrie-technik-zuliefererstreit-legt-777f-lahm-sun-express-hangar-airbus-air-france-klm-planen-a350-support/91216": "2026-10-31T06:10:32Z",
     "https://www.air-journal.fr/2026-10-31-nantes-atlantique-cinq-nouvelles-lignes-prennent-leur-envol-en-six-jours-5278600.html": "2026-10-31T07:00:59Z",
     "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z",
     "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/": "2026-10-31T08:00:56Z",
@@ -4555,27 +4554,6 @@
       ],
       "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
       "written_count": 3
-    },
-    "ca631425f97": {
-      "id": "ca631425f97",
-      "label": "Enquête parquet de Paris fausses alertes à la bombe",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-08T06:01:18Z",
-      "updated": "2026-11-08T06:01:18Z",
-      "items": [
-        {
-          "id": "a12a5aff74d1eac9",
-          "feed": "Air Journal",
-          "title": "Fausses alertes à la bombe : Paris enquête sur une éventuelle implication étrangère",
-          "url": "https://www.air-journal.fr/2026-11-08-fausses-alertes-a-la-bombe-paris-enquete-sur-une-eventuelle-implication-etrangere-5278724.html",
-          "domain": "air-journal.fr",
-          "summary": "Le parquet de Paris a annoncé hier l’ouverture d’une enquête après une série de fausses alertes à la bombe visant des avions survolant la France. Les investigations doivent identifier les auteurs des courriels de menace et rechercher leurs éventuels liens avec des puissances étrangères. Ces incidents s’inscrivent dans une série d’alertes qui ont perturbé des […]",
-          "published": "2026-11-08T06:00:03Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "cc2e38be887": {
       "id": "cc2e38be887",
