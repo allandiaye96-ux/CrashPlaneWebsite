@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T22:40:34Z",
+  "run": "2026-11-10T22:50:34Z",
   "stats": {
     "fetched": 677,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.3322,
+  "spend_month_usd": 4.333,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -863,6 +863,12 @@
     },
     {
       "dossier": "GAO pièces détachées F-35 introuvables",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Royal Navy YFQ-48A CCA porte-avions 2027",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

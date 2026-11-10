@@ -1416,7 +1416,9 @@
     "https://simpleflying.com/united-1st-private-jet-crj-450-december-debut-chicago/": "2026-11-10T21:30:50Z",
     "https://simpleflying.com/sas-boosts-flights-2-major-delta-hubs-summer-2027/": "2026-11-10T22:10:35Z",
     "https://www.aerotime.aero/articles/alpi-aviation-pioneer-800-twin-first-flight": "2026-11-10T22:10:35Z",
-    "https://www.flightradar24.com/blog/aviation-news/airline-news/airline-routes/october-routes-roundup-air-france-to-launch-two-new-routes-to-the-us/": "2026-11-10T22:30:49Z"
+    "https://www.flightradar24.com/blog/aviation-news/airline-news/airline-routes/october-routes-roundup-air-france-to-launch-two-new-routes-to-the-us/": "2026-11-10T22:30:49Z",
+    "https://simpleflying.com/alaska-airlines-launches-invite-only-global-concierge-status-to-rival-us-big-three/": "2026-11-10T22:50:34Z",
+    "https://theaviationist.com/2026/11/10/royal-navy-yfq-48a-aircraft-carrier-2027/": "2026-11-10T22:50:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5330,10 +5332,31 @@
       ],
       "story_id": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21",
       "written_count": 1
+    },
+    "c077aa50f0e": {
+      "id": "c077aa50f0e",
+      "label": "Royal Navy YFQ-48A CCA porte-avions 2027",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-10T22:50:47Z",
+      "updated": "2026-11-10T22:50:47Z",
+      "items": [
+        {
+          "id": "1216e95d6c499650",
+          "feed": "The Aviationist",
+          "title": "Royal Navy to Fly Northrop Grumman’s YFQ-48A from Aircraft Carrier in 2027",
+          "url": "https://theaviationist.com/2026/11/10/royal-navy-yfq-48a-aircraft-carrier-2027/",
+          "domain": "theaviationist.com",
+          "summary": "The Royal Navy plans to demonstrate Northrop Grumman’s YFQ-48A Talon Blue CCA from a Queen Elizabeth-class aircraft carrier in 2027, as part of efforts to develop a future Hybrid Air Wing combining crewed and uncrewed aircraft. The Royal Navy is planning to launch Northrop Grumman’s YFQ-48A Talon Blue Collaborative Combat Aircraft (CCA) from one of […]",
+          "published": "2026-11-10T22:42:39Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.3322
+    "2026-11": 4.333045
   }
 }
