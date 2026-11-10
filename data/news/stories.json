@@ -1,5 +1,72 @@
 [
   {
+    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
+    "created": "2026-11-09T21:01:23Z",
+    "updated": "2026-11-10T11:50:58Z",
+    "version": 6,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing va réduire d'environ 5 % les postes de sa branche avions commerciaux, la montée en cadence peinant",
+    "chapo": "Boeing prévoit de supprimer environ 5 % des emplois de sa division Commercial Airplanes, selon AeroTime et plusieurs médias spécialisés. Le constructeur invoque des difficultés dans l'augmentation de ses cadences de production.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, la réduction d'effectifs passerait à la fois par des départs naturels non remplacés et par des licenciements. Selon airliners.de, les modalités de cette réduction figurent dans une note interne de la dirigeante de la division.",
+      "Leeham News indique que cette décision accompagne un ajustement du rythme de production du 737 Max, annoncé lors de la présentation des résultats du troisième trimestre. Simple Flying évoque pour sa part une livraison plus lente des ailes et des problèmes de stabilité en usine, tandis qu'un important carnet de commandes devrait amortir l'impact à court terme."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 6,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Stockender Hochlauf: Boeing baut Personal ab",
+        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
+        "date": "2026-11-09T20:51:23Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
+        "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
+        "date": "2026-11-09T22:10:54Z",
+        "official": false
+      },
+      {
+        "name": "Leeham News",
+        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
+        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
+        "date": "2026-11-09T22:29:56Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
+        "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
+        "date": "2026-11-09T23:25:34Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Boeing streicht fünf Prozent der Stellen in Verkehrsflugzeugsparte",
+        "url": "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422",
+        "date": "2026-11-10T08:41:39Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/boeing-va-supprimer-5-des-effectifs-de-sa-division-avions-commerciaux-20261110.html",
+        "date": "2026-11-10T11:43:04Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
     "created": "2026-11-10T10:20:57Z",
     "updated": "2026-11-10T10:20:57Z",
@@ -98,66 +165,6 @@
         "title": "Frequentis erhält FAA-Freigabe für Digital Tower",
         "url": "https://www.airliners.de/frequentis-faa-freigabe-digital-tower/91419",
         "date": "2026-11-10T08:30:02Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-    "created": "2026-11-09T21:01:23Z",
-    "updated": "2026-11-10T09:21:02Z",
-    "version": 5,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Boeing va supprimer environ 5 % des postes de sa division avions commerciaux face aux difficultés de la montée en cadence",
-    "chapo": "Boeing prévoit de supprimer environ cinq pour cent des emplois de sa division Boeing Commercial Airplanes (BCA), selon aero.de et AeroTime. En cause : des difficultés dans l'augmentation des cadences de production.",
-    "paragraphes": [
-      "D'après Leeham News, le constructeur ajuste ses effectifs commerciaux alors qu'il redéfinit le rythme de production du 737 Max. Le média indique que Boeing a évoqué le sujet lors de la présentation de ses résultats du troisième trimestre. Simple Flying cite pour sa part des livraisons de voilures plus lentes et des problèmes de stabilité en usine, qui modifient les plans de production.",
-      "Selon airliners.de, les modalités de cette réduction d'effectifs figurent dans une note interne de la dirigeante de la division. Simple Flying souligne par ailleurs qu'un carnet de commandes important devrait amortir l'impact à court terme."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 5,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Stockender Hochlauf: Boeing baut Personal ab",
-        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
-        "date": "2026-11-09T20:51:23Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
-        "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
-        "date": "2026-11-09T22:10:54Z",
-        "official": false
-      },
-      {
-        "name": "Leeham News",
-        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
-        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
-        "date": "2026-11-09T22:29:56Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
-        "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
-        "date": "2026-11-09T23:25:34Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Boeing streicht fünf Prozent der Stellen in Verkehrsflugzeugsparte",
-        "url": "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422",
-        "date": "2026-11-10T08:41:39Z",
         "official": false
       }
     ]

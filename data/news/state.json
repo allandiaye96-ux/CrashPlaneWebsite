@@ -1375,7 +1375,8 @@
     "https://www.airliners.de/emirates-haelt-berlin-start-ueck-sucht-gespraech-verkehrsminister/91423": "2026-11-10T10:20:37Z",
     "https://simpleflying.com/etihad-airways-mclaren-f1-livery/": "2026-11-10T10:30:54Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbaltic-prolonge-sa-cooperation-avec-lufthansa-20261110.html": "2026-11-10T10:50:34Z",
-    "https://www.air-journal.fr/2026-11-10-visas-cartes-darrivee-assurances-la-complexite-des-formalites-freine-le-choix-des-destinations-5278748.html": "2026-11-10T11:01:03Z"
+    "https://www.air-journal.fr/2026-11-10-visas-cartes-darrivee-assurances-la-complexite-des-formalites-freine-le-choix-des-destinations-5278748.html": "2026-11-10T11:01:03Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/boeing-va-supprimer-5-des-effectifs-de-sa-division-avions-commerciaux-20261110.html": "2026-11-10T11:50:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5119,7 +5120,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T21:01:20Z",
-      "updated": "2026-11-10T09:20:51Z",
+      "updated": "2026-11-10T11:50:50Z",
       "items": [
         {
           "id": "2fae47b1b276bb60",
@@ -5165,10 +5166,19 @@
           "domain": "airliners.de",
           "summary": "Boeing will fünf Prozent der Stellen in der Verkehrsflugzeugsparte streichen. Hintergrund sind Probleme beim Hochfahren der Produktion. Wie der Abbau ablaufen soll, geht aus einem internen Memo der Spartenchefin hervor.",
           "published": "2026-11-10T08:41:39Z"
+        },
+        {
+          "id": "38e813d679df6896",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/boeing-va-supprimer-5-des-effectifs-de-sa-division-avions-commerciaux-20261110.html",
+          "domain": "journal-aviation.com",
+          "summary": "Boeing prévoit de réduire d’environ 5% les effectifs de sa division Avions Commerciaux (Commercial Airplanes), par des départs naturels (non remplacés) et des licenciements, conséquence d’une montée en cadence plus […] L’article Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-10T11:43:04Z"
         }
       ],
       "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-      "written_count": 5
+      "written_count": 6
     },
     "cd33395d38e": {
       "id": "cd33395d38e",
@@ -5401,6 +5411,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.014277
+    "2026-11": 4.035789
   }
 }

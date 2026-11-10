@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T11:40:35Z",
+  "run": "2026-11-10T11:50:35Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0143,
+  "spend_month_usd": 4.0358,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -130,6 +130,12 @@
       "breve": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211"
     },
     {
+      "dossier": "Boeing suppression 5% postes BCA",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
@@ -146,12 +152,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
-    },
-    {
-      "dossier": "Boeing suppression 5% postes BCA",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
     },
     {
       "dossier": "Boeing Icelease 767-300 convertis cargo",
