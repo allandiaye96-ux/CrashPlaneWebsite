@@ -1797,54 +1797,6 @@
       "story_id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
       "written_count": 2
     },
-    "cdf76f75cf9": {
-      "id": "cdf76f75cf9",
-      "label": "Lufthansa résultats T3 kérosène",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-03T06:10:52Z",
-      "updated": "2026-11-03T13:01:21Z",
-      "items": [
-        {
-          "id": "f5e772dc014e4ee5",
-          "feed": "aero.de",
-          "title": "Lufthansa steigert Sommer-Gewinn trotz teuren Kerosins",
-          "url": "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Die Lufthansa hat die stark gestiegenen Kerosinpreise dank teurerer Tickets und guter Geschäfte mit Wartung und Fracht gut weggesteckt. Obwohl die Ausgaben für Treibstoff um mehr als eine halbe Milliarde Euro stiegen, verdiente der Luftverkehrskonzern im dritten Quartal unter dem Strich mit knapp 1,3 Milliarden Euro 30 Prozent mehr als ein Jahr zuvor.",
-          "published": "2026-11-03T06:06:03Z"
-        },
-        {
-          "id": "21a105b033ab4fb0",
-          "feed": "airliners.de",
-          "title": "Lufthansa steigert Quartalsgewinn trotz höherer Kerosinkosten – senkt Gewinnprognose erneut",
-          "url": "https://www.airliners.de/lufthansa-steigert-quartalsgewinn-trotz-hoeherer-kerosinkosten-gewinnprognose/91268",
-          "domain": "airliners.de",
-          "summary": "Die Lufthansa verdient im dritten Quartal mehr als von Analysten erwartet, senkt aber ihre Jahresprognose erneut. Die Kerosinrechnung steigt auf 9,3 Milliarden Euro. Ein Konzernteil verdreifachte seinen Betriebsgewinn.",
-          "published": "2026-11-03T09:47:11Z"
-        },
-        {
-          "id": "05a6be45f95c075b",
-          "feed": "aero.de",
-          "title": "Lufthansa-Chef sieht wenig Chancen für Flottenwachstum",
-          "url": "https://www.aero.de/news-54080/Lufthansa-Chef-sieht-wenig-Chancen-fuer-Flottenwachstum.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Eine starke Swiss hält das Netzwerkgeschäft von Lufthansa 2026 über Wasser. Lufthansa Airlines zieht das Ergebnis runter. Lufthansa-Konzernchef Carsten Spohr setzt auf \"langfristige Vereinbarungen\" mit dem Flugpersonal im Kern - um den Schrumpfkurs bei Lufthansa Classic zumindest zu bremsen.",
-          "published": "2026-11-03T10:46:35Z"
-        },
-        {
-          "id": "339373270399ccf8",
-          "feed": "aero.de",
-          "title": "Lufthansa kommt mit Kerosinpreisen immer besser zurecht",
-          "url": "https://www.aero.de/news-54085/Lufthansa-kommt-mit-hohen-Kerosinpreisen-immer-besser-zurecht.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Lufthansa rechnet mit noch höheren Kerosinausgaben, kann die Kosten aber immer besser auf Passagiere umlegen. Hohe Flugnachfrage im Premiumsegment, späte Buchungen und knappe Kapazitäten stabilisieren die Margen. Im Asienverkehr kann Lufthansa das Flugangebot sogar markant ausweiten.",
-          "published": "2026-11-03T12:54:40Z"
-        }
-      ],
-      "story_id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
-      "written_count": 4
-    },
     "c45e860d491": {
       "id": "c45e860d491",
       "label": "Avolon lance la plateforme Constellation Aviation",
@@ -1922,36 +1874,6 @@
       ],
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
       "written_count": 4
-    },
-    "c0438db2c86": {
-      "id": "c0438db2c86",
-      "label": "Lufthansa Group résultats T3 bénéfices efficacité",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-03T11:10:51Z",
-      "updated": "2026-11-03T13:01:21Z",
-      "items": [
-        {
-          "id": "ccef4788178d5f0e",
-          "feed": "AeroTime",
-          "title": "Lufthansa Group’s efficiency measures help boost third-quarter profits",
-          "url": "https://www.aerotime.aero/articles/lufthansa-groups-third-quarter-profits-2026",
-          "domain": "aerotime.aero",
-          "summary": "Lufthansa Group has posted third-quarter profits thanks in part to efficiency measures the company took earlier in the… The post Lufthansa Group’s efficiency measures help boost third-quarter profits appeared first on AeroTime .",
-          "published": "2026-11-03T10:48:25Z"
-        },
-        {
-          "id": "7a6bdcf1bc78823f",
-          "feed": "Air Journal",
-          "title": "Lufthansa Group résiste au choc du kérosène, mais sa compagnie phare décroche",
-          "url": "https://www.air-journal.fr/2026-11-03-lufthansa-group-resiste-au-choc-du-kerosene-mais-sa-compagnie-phare-decroche-5278661.html",
-          "domain": "air-journal.fr",
-          "summary": "Lufthansa Group a dégagé un bénéfice opérationnel ajusté de 1,41 milliard d’euros au troisième trimestre 2026, en hausse de 6%, malgré une facture de carburant alourdie de 543 millions d’euros. La maîtrise des coûts, les recettes des cabines premium et les performances du fret et de la maintenance ont soutenu le groupe allemand. Mais Lufthansa […]",
-          "published": "2026-11-03T13:00:36Z"
-        }
-      ],
-      "story_id": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86",
-      "written_count": 2
     },
     "c74b46cf28e": {
       "id": "c74b46cf28e",

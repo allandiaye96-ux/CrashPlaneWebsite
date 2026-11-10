@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-10T13:01:02Z",
+  "run": "2026-11-10T13:10:37Z",
   "stats": {
     "fetched": 674,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -268,22 +268,10 @@
       "breve": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9"
     },
     {
-      "dossier": "Lufthansa résultats T3 kérosène",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9"
-    },
-    {
       "dossier": "Avolon lance la plateforme Constellation Aviation",
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491"
-    },
-    {
-      "dossier": "Lufthansa Group résultats T3 bénéfices efficacité",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-lufthansa-group-affiche-des-benefices-au-troisieme-trimestre-2c86"
     },
     {
       "dossier": "Airbus Aliaca VTOL qualifié Marine nationale",
