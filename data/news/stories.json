@@ -2,23 +2,24 @@
   {
     "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
     "created": "2026-11-09T21:01:23Z",
-    "updated": "2026-11-10T11:50:58Z",
-    "version": 6,
+    "updated": "2026-11-10T12:01:39Z",
+    "version": 7,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Constructeurs et industrie",
     "importance": 2,
-    "titre": "Boeing va réduire d'environ 5 % les postes de sa branche avions commerciaux, la montée en cadence peinant",
-    "chapo": "Boeing prévoit de supprimer environ 5 % des emplois de sa division Commercial Airplanes, selon AeroTime et plusieurs médias spécialisés. Le constructeur invoque des difficultés dans l'augmentation de ses cadences de production.",
+    "titre": "Boeing va supprimer environ 5 % des postes de sa division avions commerciaux, la montée en cadence patinant",
+    "chapo": "Selon plusieurs médias spécialisés, dont AeroTime et Le Journal de l'Aviation, Boeing s'apprête à tailler dans les effectifs de sa branche Commercial Airplanes, la hausse des cadences de production se révélant plus laborieuse que prévu.",
     "paragraphes": [
-      "D'après Le Journal de l'Aviation, la réduction d'effectifs passerait à la fois par des départs naturels non remplacés et par des licenciements. Selon airliners.de, les modalités de cette réduction figurent dans une note interne de la dirigeante de la division.",
-      "Leeham News indique que cette décision accompagne un ajustement du rythme de production du 737 Max, annoncé lors de la présentation des résultats du troisième trimestre. Simple Flying évoque pour sa part une livraison plus lente des ailes et des problèmes de stabilité en usine, tandis qu'un important carnet de commandes devrait amortir l'impact à court terme."
+      "D'après Air Journal, quelque 2 500 postes pourraient être touchés. La réduction passerait par des départs naturels non remplacés ainsi que par des licenciements, précise Le Journal de l'Aviation. Airliners.de indique que les modalités de ce plan figurent dans une note interne de la dirigeante de la division.",
+      "Leeham News explique que ces coupes accompagnent un ajustement du rythme de production du 737 Max, une orientation évoquée lors de la présentation des résultats du troisième trimestre. Simple Flying cite pour sa part des livraisons de voilures plus lentes et des problèmes de stabilité en usine, tout en soulignant qu'un important carnet de commandes amortirait l'impact à court terme.",
+      "Air Journal ajoute que le constructeur doit repousser au début de 2027 la stabilisation d'une partie de sa production."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 6,
+      "independent_sources": 7,
       "official_source": false
     },
     "sources": [
@@ -62,6 +63,13 @@
         "title": "Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux",
         "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/boeing-va-supprimer-5-des-effectifs-de-sa-division-avions-commerciaux-20261110.html",
         "date": "2026-11-10T11:43:04Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Boeing : la reprise industrielle patine, environ 2 500 postes menacés",
+        "url": "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html",
+        "date": "2026-11-10T12:00:46Z",
         "official": false
       }
     ]
