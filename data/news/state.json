@@ -1411,7 +1411,10 @@
     "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/": "2026-11-10T20:01:01Z",
     "https://australianaviation.com.au/2026/11/qantas-project-sunrise-jet-breaks-guinness-world-record/": "2026-11-10T20:01:01Z",
     "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/": "2026-11-10T20:01:01Z",
-    "https://www.aerotime.aero/articles/frontier-airlines-first-class-bookings-march-2027": "2026-11-10T20:50:35Z"
+    "https://www.aerotime.aero/articles/frontier-airlines-first-class-bookings-march-2027": "2026-11-10T20:50:35Z",
+    "https://simpleflying.com/united-airlines-accepts-222-seat-jet-standard-257-seat-ces-tokyo-route/": "2026-11-10T21:01:04Z",
+    "https://simpleflying.com/southwest-airlines-launches-5-new-international-routes/": "2026-11-10T21:01:04Z",
+    "https://www.twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats": "2026-11-10T21:01:04Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4960,7 +4963,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-10T09:20:51Z",
-      "updated": "2026-11-10T15:40:46Z",
+      "updated": "2026-11-10T21:01:16Z",
       "items": [
         {
           "id": "980ab6692b24bcd3",
@@ -4979,10 +4982,19 @@
           "domain": "theaviationist.com",
           "summary": "A rapid departure of aircraft from RAF Mildenhall to bases across Europe was noted by enthusiasts on Nov. 9, with WSJ then reporting that a threat relating to Iran was responsible for a heightened security posture. RAF Mildenhall based U.S. Air Force KC-135 Stratotankers were mobilised and dispersed across Europe to Prestwick, Spangdahlem, Ramstein, and […]",
           "published": "2026-11-10T15:30:54Z"
+        },
+        {
+          "id": "228162c98863974f",
+          "feed": "The War Zone",
+          "title": "USAF Aircraft Continue To Reposition Away From RAF Mildenhall Amid Reports Of Iranian Threats",
+          "url": "https://www.twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats",
+          "domain": "twz.com",
+          "summary": "At least 12 KC-135s and three CV-22s have evacuated the base in England over the past two days amid an increase in security protocols. The post USAF Aircraft Continue To Reposition Away From RAF Mildenhall Amid Reports Of Iranian Threats appeared first on TWZ .",
+          "published": "2026-11-10T20:53:41Z"
         }
       ],
       "story_id": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a",
-      "written_count": 2
+      "written_count": 3
     },
     "ce1eb17eabb": {
       "id": "ce1eb17eabb",
@@ -5269,6 +5281,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.289518
+    "2026-11": 4.30038
   }
 }

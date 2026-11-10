@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T20:50:35Z",
+  "run": "2026-11-10T21:01:04Z",
   "stats": {
-    "fetched": 676,
-    "new": 1,
-    "written": 0,
+    "fetched": 677,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.2895,
+  "spend_month_usd": 4.3004,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -262,6 +262,12 @@
       "breve": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9"
     },
     {
+      "dossier": "Tankers USAF quittent RAF Mildenhall menace Iran",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a"
+    },
+    {
       "dossier": "Bangkok Suvarnabhumi extension capacité",
       "statut": "corrobore",
       "editeurs": 2,
@@ -404,12 +410,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996"
-    },
-    {
-      "dossier": "Tankers USAF quittent RAF Mildenhall menace Iran",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a"
     },
     {
       "dossier": "Emirates Berlin suspension vol",

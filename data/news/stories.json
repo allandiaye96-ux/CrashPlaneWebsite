@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a",
+    "created": "2026-11-10T15:40:49Z",
+    "updated": "2026-11-10T21:01:21Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "RAF Mildenhall : des ravitailleurs et des CV-22 américains dispersés après une menace liée à l'Iran",
+    "chapo": "Selon AeroTime, l'US Air Force a déplacé le 9 novembre 2026 des avions ravitailleurs basés à RAF Mildenhall, dans l'est de l'Angleterre, à la suite d'une menace attribuée à l'Iran. The War Zone fait état d'au moins 12 KC-135 et trois CV-22 partis de la base.",
+    "paragraphes": [
+      "D'après The Aviationist, des passionnés ont observé le 9 novembre un départ rapide d'appareils de Mildenhall vers d'autres bases européennes. Le Wall Street Journal a ensuite indiqué qu'une menace liée à l'Iran était à l'origine d'un renforcement du dispositif de sécurité. Les KC-135 Stratotanker stationnés sur place ont été dispersés vers plusieurs sites, dont Prestwick, Spangdahlem et Ramstein.",
+      "The War Zone précise qu'au moins 12 KC-135 et trois CV-22 ont quitté la base en deux jours, dans un contexte de hausse des protocoles de sécurité. Les appareils continuaient à être repositionnés."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "US Air Force moves tankers from RAF Mildenhall amid reported Iran-linked threat",
+        "url": "https://www.aerotime.aero/articles/usaf-tankers-raf-mildenhall-iran-threat",
+        "date": "2026-11-10T09:14:27Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "‘Iranian Threat’ Leads to Mass Dispersal of Aircraft Away from RAF Mildenhall",
+        "url": "https://theaviationist.com/2026/11/10/raf-mildenhall-security-threat-dispersal/",
+        "date": "2026-11-10T15:30:54Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "USAF Aircraft Continue To Reposition Away From RAF Mildenhall Amid Reports Of Iranian Threats",
+        "url": "https://www.twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats",
+        "date": "2026-11-10T20:53:41Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
     "created": "2026-11-10T06:01:27Z",
     "updated": "2026-11-10T20:01:27Z",
@@ -314,45 +360,6 @@
         "title": "Un A350-1000 pour le centenaire de Lufthansa, un 700e Airbus pour le groupe",
         "url": "https://www.air-journal.fr/2026-11-10-un-a350-1000-pour-le-centenaire-de-lufthansa-un-700e-airbus-pour-le-groupe-5278775.html",
         "date": "2026-11-10T16:30:37Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a",
-    "created": "2026-11-10T15:40:49Z",
-    "updated": "2026-11-10T15:40:49Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Défense",
-    "importance": 2,
-    "titre": "RAF Mildenhall : des ravitailleurs de l'US Air Force dispersés en Europe après une menace liée à l'Iran",
-    "chapo": "Selon AeroTime, l'armée américaine a déplacé des ravitailleurs depuis la base britannique de RAF Mildenhall, dans l'est de l'Angleterre, le 9 novembre 2026, à la suite d'une menace présentée comme liée à l'Iran.",
-    "paragraphes": [
-      "D'après The Aviationist, des passionnés ont observé le 9 novembre un départ rapide d'appareils de Mildenhall vers plusieurs bases européennes. Le Wall Street Journal a ensuite rapporté qu'une menace en lien avec l'Iran était à l'origine d'un renforcement de la posture de sécurité.",
-      "Toujours d'après The Aviationist, les KC-135 Stratotanker basés à Mildenhall ont été mobilisés et dispersés vers Prestwick, Spangdahlem, Ramstein et d'autres sites en Europe."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "US Air Force moves tankers from RAF Mildenhall amid reported Iran-linked threat",
-        "url": "https://www.aerotime.aero/articles/usaf-tankers-raf-mildenhall-iran-threat",
-        "date": "2026-11-10T09:14:27Z",
-        "official": false
-      },
-      {
-        "name": "The Aviationist",
-        "title": "‘Iranian Threat’ Leads to Mass Dispersal of Aircraft Away from RAF Mildenhall",
-        "url": "https://theaviationist.com/2026/11/10/raf-mildenhall-security-threat-dispersal/",
-        "date": "2026-11-10T15:30:54Z",
         "official": false
       }
     ]
