@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-10T16:01:09Z",
+  "run": "2026-11-10T16:10:34Z",
   "stats": {
     "fetched": 674,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae"
-    },
-    {
-      "dossier": "Delta vs Heathrow séparation Virgin Atlantic terminaux",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b"
     },
     {
       "dossier": "Bangkok Suvarnabhumi extension capacité",

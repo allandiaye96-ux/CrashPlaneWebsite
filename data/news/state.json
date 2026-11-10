@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/atlas-air-boeing-747-miami-smoke-american-airlines/": "2026-10-31T16:10:33Z",
     "https://simpleflying.com/trump-international-airport-stinger-missiles-drone-jammers/": "2026-10-31T16:40:33Z",
     "https://simpleflying.com/united-airlines-eyes-flights-to-uzbekistan-kazakhstan/": "2026-10-31T17:01:01Z",
     "https://simpleflying.com/emergency-autoland-changing-single-pilot-flying/": "2026-10-31T17:01:01Z",
@@ -1682,36 +1681,6 @@
         }
       ],
       "story_id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
-      "written_count": 2
-    },
-    "c20e0f5920b": {
-      "id": "c20e0f5920b",
-      "label": "Delta vs Heathrow séparation Virgin Atlantic terminaux",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-03T04:10:47Z",
-      "updated": "2026-11-03T16:01:24Z",
-      "items": [
-        {
-          "id": "ce8796a1afb2ff12",
-          "feed": "Simple Flying",
-          "title": "\"Short-Sighted\": Delta CEO Vows To Fight Heathrow’s Move To Split It From Virgin Atlantic",
-          "url": "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/",
-          "domain": "simpleflying.com",
-          "summary": "Heathrow reshuffle unsettles partners as airlines face terminal moves that could fragment long standing joint operations.",
-          "published": "2026-11-03T04:02:40Z"
-        },
-        {
-          "id": "6b98f548a292bedf",
-          "feed": "AirlineGeeks",
-          "title": "Delta CEO Calls Heathrow Move ‘Short-Sighted’",
-          "url": "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/",
-          "domain": "airlinegeeks.com",
-          "summary": "Bastian says Delta will challenge a decision that would separate the carrier from partner Virgin Atlantic.",
-          "published": "2026-11-03T15:51:21Z"
-        }
-      ],
-      "story_id": "2026-11-03-heathrow-le-patron-de-delta-veut-combattre-la-separation-d-a-920b",
       "written_count": 2
     },
     "c60a1ad6fc9": {
