@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T19:40:35Z",
+  "run": "2026-11-10T19:50:37Z",
   "stats": {
     "fetched": 676,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.2606,
+  "spend_month_usd": 4.2614,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -845,6 +845,12 @@
     },
     {
       "dossier": "Learjet 60 Floride enregistreur vocal",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "GAO pièces détachées F-35 introuvables",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

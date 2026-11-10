@@ -1406,7 +1406,8 @@
     "https://theaviationist.com/2026/11/10/usaf-using-hondajet-b1-aircrew-training/": "2026-11-10T19:20:33Z",
     "https://simpleflying.com/american-airlines-launches-23-new-routes-from-3-busiest-hubs/": "2026-11-10T19:30:53Z",
     "https://simpleflying.com/air-transat-cancels-this-10-hour-route/": "2026-11-10T19:30:53Z",
-    "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav": "2026-11-10T19:30:53Z"
+    "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav": "2026-11-10T19:30:53Z",
+    "https://theaviationist.com/2026/11/10/pentagon-cannot-account-f-35-spare-parts/": "2026-11-10T19:50:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5212,10 +5213,31 @@
       ],
       "story_id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
       "written_count": 1
+    },
+    "c4b0f715f77": {
+      "id": "c4b0f715f77",
+      "label": "GAO pièces détachées F-35 introuvables",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-10T19:50:53Z",
+      "updated": "2026-11-10T19:50:53Z",
+      "items": [
+        {
+          "id": "2f6519a28b201f7d",
+          "feed": "The Aviationist",
+          "title": "Pentagon Still Cannot Account for Billions of Dollars in F-35 Spare Parts, GAO Finds",
+          "url": "https://theaviationist.com/2026/11/10/pentagon-cannot-account-f-35-spare-parts/",
+          "domain": "theaviationist.com",
+          "summary": "A new GAO report highlights persistent failures to reconcile government and contractor inventories, with more than 17,000 parts worth at least $1.3 billion missing from official records. The U.S. Department of Defense (DoD) is still struggling to properly account for the global inventory of F-35 Lightning II spare parts. According to a new report published […]",
+          "published": "2026-11-10T19:40:01Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.260577
+    "2026-11": 4.261385
   }
 }
