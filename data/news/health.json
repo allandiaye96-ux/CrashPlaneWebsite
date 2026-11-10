@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-10T14:20:38Z",
+  "run": "2026-11-10T14:30:54Z",
   "stats": {
     "fetched": 674,
-    "new": 8,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -446,18 +446,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Bangkok Suvarnabhumi plan extension terminal et quatrième piste",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-bangkok-suvarnabhumi-la-thailande-prevoit-un-nouveau-termina-a095"
-    },
-    {
-      "dossier": "Delta contre déménagement Heathrow T4",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-delta-conteste-son-transfert-force-vers-le-terminal-4-de-lon-666b"
     },
     {
       "dossier": "Condor tarifkommission vs VC-Vorstand Zukunftspaket",

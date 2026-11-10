@@ -1875,48 +1875,6 @@
       "story_id": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1",
       "written_count": 2
     },
-    "ca879b5a095": {
-      "id": "ca879b5a095",
-      "label": "Bangkok Suvarnabhumi plan extension terminal et quatrième piste",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-03T14:20:54Z",
-      "updated": "2026-11-03T14:20:54Z",
-      "items": [
-        {
-          "id": "d4f64b7b3c98207b",
-          "feed": "airliners.de",
-          "title": "Thailand plant neues Terminal und vierte Bahn für Bangkok-Suvarnabhumi",
-          "url": "https://www.airliners.de/thailand-plant-terminal-vierte-bahn-bangkok-suvarnabhumi/91276",
-          "domain": "airliners.de",
-          "summary": "Thailands größter Flughafen soll seine Kapazität innerhalb von sieben Jahren verdoppeln und damit in die Riege der passagierstärksten Flughäfen der Welt aufsteigen. Auch für den zweiten Bangkoker Flughafen steigt das Ausbaubudget deutlich.",
-          "published": "2026-11-03T13:47:14Z"
-        }
-      ],
-      "story_id": "2026-11-03-bangkok-suvarnabhumi-la-thailande-prevoit-un-nouveau-termina-a095",
-      "written_count": 1
-    },
-    "c483146666b": {
-      "id": "c483146666b",
-      "label": "Delta contre déménagement Heathrow T4",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-03T14:20:54Z",
-      "updated": "2026-11-03T14:20:54Z",
-      "items": [
-        {
-          "id": "5fd3b607dcbb4958",
-          "feed": "airliners.de",
-          "title": "Delta wehrt sich gegen erzwungenen Umzug in Heathrows Terminal 4",
-          "url": "https://www.airliners.de/delta-wehrt-erzwungenen-umzug-heathrows-terminal-4/91275",
-          "domain": "airliners.de",
-          "summary": "Delta Air Lines wehrt sich gegen die Entscheidung des Flughafens London-Heathrow, ihren Betrieb aus dem gemeinsam mit Virgin Atlantic genutzten Terminal ins Terminal 4 zu verlegen. Vorstandsvorsitzender Ed Bastian nannte den Schritt \"zutiefst enttäuschend und schlecht für die Kunden der Airlines\".",
-          "published": "2026-11-03T13:46:35Z"
-        }
-      ],
-      "story_id": "2026-11-03-delta-conteste-son-transfert-force-vers-le-terminal-4-de-lon-666b",
-      "written_count": 1
-    },
     "c9c88398f2d": {
       "id": "c9c88398f2d",
       "label": "Air India commande gros-porteurs supplémentaire",
