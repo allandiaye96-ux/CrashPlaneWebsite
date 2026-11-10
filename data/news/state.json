@@ -1728,36 +1728,6 @@
       "story_id": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8",
       "written_count": 3
     },
-    "cf74166462a": {
-      "id": "cf74166462a",
-      "label": "NetJets extension siège Columbus",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-02T20:01:19Z",
-      "updated": "2026-11-03T12:01:20Z",
-      "items": [
-        {
-          "id": "f678616e185999ff",
-          "feed": "AeroTime",
-          "title": "NetJets plans major headquarters expansion, 800 additional jobs",
-          "url": "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs",
-          "domain": "aerotime.aero",
-          "summary": "NetJets plans to expand its global headquarters in Columbus, Ohio, by more than 365,000 square feet and grow… The post NetJets plans major headquarters expansion, 800 additional jobs appeared first on AeroTime .",
-          "published": "2026-11-02T19:40:18Z"
-        },
-        {
-          "id": "50fbaef6a7f1e1c1",
-          "feed": "AviTrader",
-          "title": "Avolon launches US$1.4bn aircraft leasing venture ‘Constellation’",
-          "url": "https://avitrader.com/2026/11/03/avolon-launches-us1-4bn-aircraft-leasing-venture-constellation/",
-          "domain": "avitrader.com",
-          "summary": "Avolon has agreed to establish Constellation Aviation (Constellation), a new aircraft leasing investment platform, through a joint venture with infrastructure investor I Squared Capital and a wholly owned subsidiary of the Abu Dhabi Investment Authority (ADIA). The platform will combine long-term institutional capital with Avolon’s aircraft leasing expertise, providing airlines with access to fleet capacity […] The post Avolon launches US$1.4bn aircraft leasing venture ‘Constellation’ appeared first on AviTrader Aviation News .",
-          "published": "2026-11-03T11:52:33Z"
-        }
-      ],
-      "story_id": "2026-11-02-netjets-prevoit-d-agrandir-son-siege-mondial-de-columbus-ave-462a",
-      "written_count": 2
-    },
     "cf8aca91140": {
       "id": "cf8aca91140",
       "label": "Learjet 60 Palm Beach NTSB rupture en vol",
