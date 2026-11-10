@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T13:10:37Z",
+  "run": "2026-11-10T13:20:35Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0621,
+  "spend_month_usd": 4.0698,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -794,6 +794,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd"
+    },
+    {
+      "dossier": "Embraer relève prévisions 2026 après record trimestriel",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
     },
     {
       "dossier": "Amende DOT Air France KLM codeshare Delta espace aérien Irak",

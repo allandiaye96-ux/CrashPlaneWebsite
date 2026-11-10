@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
+    "created": "2026-11-10T13:20:54Z",
+    "updated": "2026-11-10T13:20:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Embraer relève ses prévisions de chiffre d'affaires et de trésorerie après un trimestre record",
+    "chapo": "Selon airliners.de, Embraer a revu à la hausse ses prévisions de chiffre d'affaires et de flux de trésorerie pour l'année en cours, à la suite d'un trimestre record.",
+    "paragraphes": [
+      "Le constructeur brésilien ajuste ainsi ses objectifs financiers annuels après un trimestre qualifié de record par le média allemand.",
+      "En revanche, Embraer maintient inchangés ses objectifs de livraisons pour l'année."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
+        "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
+        "date": "2026-11-10T13:15:30Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
     "created": "2026-11-09T21:01:23Z",
     "updated": "2026-11-10T12:01:39Z",

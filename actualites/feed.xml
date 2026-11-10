@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 13:10:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 13:20:54 +0000</lastBuildDate>
+  <item>
+    <title>Embraer relève ses prévisions de chiffre d&#x27;affaires et de trésorerie après un trimestre record</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208/</guid>
+    <pubDate>Tue, 10 Nov 2026 13:20:54 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon airliners.de, Embraer a revu à la hausse ses prévisions de chiffre d&#x27;affaires et de flux de trésorerie pour l&#x27;année en cours, à la suite d&#x27;un trimestre record.</description>
+  </item>
   <item>
     <title>Emirates suspend son projet de desserte de Berlin et cherche à dialoguer avec le ministère des Transports</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 07 Nov 2026 08:10:54 +0000</pubDate>
     <category>Compagnies</category>
     <description>D&#x27;après Air Journal, les trois principales compagnies chinoises pourraient boucler l&#x27;exercice 2026 en déficit, en dépit de la taille du marché aérien du pays.</description>
-  </item>
-  <item>
-    <title>Southwest : un 737 MAX a volé 44 fois avec des dégâts de tempête non détectés, selon le NTSB</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767/</guid>
-    <pubDate>Sat, 07 Nov 2026 06:20:49 +0000</pubDate>
-    <category>Enquête</category>
-    <description>Selon AirlineGeeks et Simple Flying, qui rapportent les conclusions du NTSB, un Boeing 737 MAX de Southwest Airlines est retourné en service sans inspection après une tempête. Des dégâts structurels sont restés inaperçus pendant neuf jours.</description>
   </item>
 </channel>
 </rss>

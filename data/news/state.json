@@ -1377,7 +1377,8 @@
     "https://theaviationist.com/2026/11/10/spanish-nh90-helicopters-alpha-scramble/": "2026-11-10T12:40:36Z",
     "https://avitrader.com/2026/11/10/afi-klm-em-names-new-evp-engineering-maintenance-at-klm/": "2026-11-10T12:50:36Z",
     "https://www.air-journal.fr/2026-11-10-cote-amalfitaine-easyjet-ouvre-une-nouvelle-porte-dentree-depuis-paris-orly-5278768.html": "2026-11-10T13:01:02Z",
-    "https://www.journal-aviation.com/actualites-mro-support/mro-marloes-van-laake-va-prendre-la-direction-de-klm-engineering-maintenance-20261110.html": "2026-11-10T13:01:02Z"
+    "https://www.journal-aviation.com/actualites-mro-support/mro-marloes-van-laake-va-prendre-la-direction-de-klm-engineering-maintenance-20261110.html": "2026-11-10T13:01:02Z",
+    "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426": "2026-11-10T13:20:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5222,10 +5223,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c7e5388f208": {
+      "id": "c7e5388f208",
+      "label": "Embraer relève prévisions 2026 après record trimestriel",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-10T13:20:51Z",
+      "updated": "2026-11-10T13:20:51Z",
+      "items": [
+        {
+          "id": "e0529ea12b5d16b1",
+          "feed": "airliners.de",
+          "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
+          "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
+          "domain": "airliners.de",
+          "summary": "Embraer hebt nach einem Rekordquartal die Umsatz- und die Cashflow-Prognose für das laufende Jahr an. Bei den Auslieferungen bleibt der brasilianische Hersteller dagegen bei seinen bisherigen Zielen.",
+          "published": "2026-11-10T13:15:30Z"
+        }
+      ],
+      "story_id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.06205
+    "2026-11": 4.06983
   }
 }
