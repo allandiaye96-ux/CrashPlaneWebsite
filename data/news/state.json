@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-retrofit-avionics-reviving-aging-cessnas-pipers/": "2026-10-31T11:00:59Z",
-    "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html": "2026-10-31T11:00:59Z",
     "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/": "2026-10-31T12:00:58Z",
     "https://simpleflying.com/how-b-52-lost-tail-guns-6th-crew-member/": "2026-10-31T12:00:58Z",
     "https://www.air-journal.fr/2026-10-31-fret-aerien-la-demande-bat-des-records-mais-les-couts-senvolent-5278606.html": "2026-10-31T12:00:58Z",
@@ -1376,7 +1374,8 @@
     "https://www.aero.de/news-54137/Emirates-will-Luftfahrtdeal-wieder-aufschnueren.html": "2026-11-10T10:20:37Z",
     "https://www.airliners.de/emirates-haelt-berlin-start-ueck-sucht-gespraech-verkehrsminister/91423": "2026-11-10T10:20:37Z",
     "https://simpleflying.com/etihad-airways-mclaren-f1-livery/": "2026-11-10T10:30:54Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbaltic-prolonge-sa-cooperation-avec-lufthansa-20261110.html": "2026-11-10T10:50:34Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbaltic-prolonge-sa-cooperation-avec-lufthansa-20261110.html": "2026-11-10T10:50:34Z",
+    "https://www.air-journal.fr/2026-11-10-visas-cartes-darrivee-assurances-la-complexite-des-formalites-freine-le-choix-des-destinations-5278748.html": "2026-11-10T11:01:03Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5402,6 +5401,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.013473
+    "2026-11": 4.014277
   }
 }
