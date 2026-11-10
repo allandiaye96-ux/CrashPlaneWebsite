@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996",
+    "created": "2026-11-10T09:01:35Z",
+    "updated": "2026-11-10T09:01:35Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Crash d'un Learjet 60 en Floride : le NTSB a récupéré l'enregistreur de conversations du poste de pilotage",
+    "chapo": "Les enquêteurs du NTSB ont retrouvé l'enregistreur phonique du Learjet 60 qui s'est écrasé en Floride, faisant neuf morts, selon aero.de. Simple Flying indique que l'enquête sur le site de l'accident est terminée.",
+    "paragraphes": [
+      "D'après aero.de, le Learjet 60 est tombé presque à la verticale sur une route en Floride, et les neuf personnes concernées ont perdu la vie. Le média évoque la possibilité que l'enregistreur apporte des éléments sur les dernières secondes du vol.",
+      "Simple Flying rapporte que des fragments, dont des éléments de la queue, ont été retrouvés à plusieurs miles du cratère d'impact. Les causes de l'accident ne sont pas établies à ce stade."
+    ],
+    "contradictions": "Le lieu est présenté différemment : Simple Flying parle d'un crash à Miami, tandis qu'aero.de situe l'événement à West Palm Beach, en Floride.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "NTSB Recovers Cockpit Voice Recorder From Miami Crash As On-Scene Investigation Ends",
+        "url": "https://simpleflying.com/ntsb-recovers-cockpit-voice-recorder-miami-crash-on-scene-investigation/",
+        "date": "2026-11-10T00:02:59Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "NTSB stellt Flugschreiber sicher",
+        "url": "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html",
+        "date": "2026-11-10T08:59:01Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
     "created": "2026-11-09T14:50:48Z",
     "updated": "2026-11-10T07:01:42Z",

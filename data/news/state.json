@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html": "2026-10-31T09:00:58Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=A83E375E-9CAB-46F2-B946-74CF97BB280B": "2026-10-31T09:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=B3E9BCAE-1B65-44E2-A88C-E92778369A4C": "2026-10-31T09:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=2EA855A1-11FA-44D3-B9BE-156CAA201BB9": "2026-10-31T09:10:34Z",
@@ -1375,7 +1374,9 @@
     "https://www.aero.de/news-54131/Frueher-bei-Lufthansa-jetzt-im-ewigen-Eis.html": "2026-11-10T07:30:51Z",
     "https://www.air-journal.fr/2026-11-10-emirates-marie-finance-islamique-et-leasing-francais-pour-deux-a350-5278760.html": "2026-11-10T08:10:38Z",
     "https://www.airliners.de/smartwings-ernennt-vorstandsvorsitzenden/91411": "2026-11-10T08:20:35Z",
-    "https://www.aero.de/news-54132/Boeing-737-pustet-Cessna-C172-um.html": "2026-11-10T08:30:54Z"
+    "https://www.aero.de/news-54132/Boeing-737-pustet-Cessna-C172-um.html": "2026-11-10T08:30:54Z",
+    "https://simpleflying.com/7-airlines-flying-airbus-a321xlr-both-short-long-haul/": "2026-11-10T09:01:04Z",
+    "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html": "2026-11-10T09:01:04Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5293,7 +5294,7 @@
       "categorie": "Enquête",
       "importance": 3,
       "created": "2026-11-10T00:10:47Z",
-      "updated": "2026-11-10T00:10:47Z",
+      "updated": "2026-11-10T09:01:21Z",
       "items": [
         {
           "id": "66c04eb7203989a6",
@@ -5303,10 +5304,19 @@
           "domain": "simpleflying.com",
           "summary": "Fragments found miles from the impact crater include tail sections, supporting evidence of in flight structural failure.",
           "published": "2026-11-10T00:02:59Z"
+        },
+        {
+          "id": "7df66f86b3eda368",
+          "feed": "aero.de",
+          "title": "NTSB stellt Flugschreiber sicher",
+          "url": "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html",
+          "domain": "aero.de",
+          "summary": "WEST PALM BEACH - Ein Learjet 60 stürzt in Florida fast senkrecht auf eine Straße, neun Menschen sterben. Nun haben US-Ermittler den Stimmenrekorder gefunden. Kann er Aufschluss darüber geben, was in den letzten Sekunden geschah?",
+          "published": "2026-11-10T08:59:01Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996",
+      "written_count": 2
     },
     "c1ec11bff53": {
       "id": "c1ec11bff53",
@@ -5374,6 +5384,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.930083
+    "2026-11": 3.94339
   }
 }

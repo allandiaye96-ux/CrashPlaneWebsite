@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T08:50:34Z",
+  "run": "2026-11-10T09:01:04Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.9301,
+  "spend_month_usd": 3.9434,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -448,6 +448,12 @@
       "breve": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e"
     },
     {
+      "dossier": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -863,12 +869,6 @@
     },
     {
       "dossier": "Nouvelles images du drone GJ-11 chinois",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

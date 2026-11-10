@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 08:50:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 09:01:35 +0000</lastBuildDate>
+  <item>
+    <title>Crash d&#x27;un Learjet 60 en Floride : le NTSB a récupéré l&#x27;enregistreur de conversations du poste de pilotage</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:01:35 +0000</pubDate>
+    <category>Accident</category>
+    <description>Les enquêteurs du NTSB ont retrouvé l&#x27;enregistreur phonique du Learjet 60 qui s&#x27;est écrasé en Floride, faisant neuf morts, selon aero.de. Simple Flying indique que l&#x27;enquête sur le site de l&#x27;accident est terminée.</description>
+  </item>
   <item>
     <title>Qantas s&#x27;associe à Accenture pour moderniser ses systèmes informatiques, environ 850 emplois concernés</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 20:01:51 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Australian Aviation, Qantas lancera les premiers vols sans escale d&#x27;Australie vers Le Cap, au départ de Sydney, avec trois fréquences hebdomadaires en Boeing 787-9 Dreamliner.</description>
-  </item>
-  <item>
-    <title>Qantas relève ses coûts de carburant prévus à 3,75 milliards de dollars et prévoit de réduire sa capacité</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-qantas-releve-ses-couts-de-carburant-prevus-a-3-75-milliards-7f17/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-qantas-releve-ses-couts-de-carburant-prevus-a-3-75-milliards-7f17/</guid>
-    <pubDate>Fri, 06 Nov 2026 20:01:47 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Australian Aviation, Qantas a augmenté d&#x27;environ 150 millions de dollars ses prévisions de dépenses de carburant pour le semestre se terminant le 31 décembre 2026, désormais estimées à 3,75 milliards de dollars. La compagnie envisage aussi de réduire sa capacité.</description>
   </item>
 </channel>
 </rss>
