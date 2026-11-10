@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21",
+    "created": "2026-11-10T22:10:55Z",
+    "updated": "2026-11-10T22:10:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Alpi Aviation : le Pioneer 800 Twin, propulsé par Rotax, a effectué son premier vol le 5 novembre 2026",
+    "chapo": "Selon AeroTime, le Pioneer 800 Twin d'Alpi Aviation a réalisé son premier vol le 5 novembre 2026. Cet appareil à quatre places est équipé de moteurs Rotax.",
+    "paragraphes": [
+      "D'après AeroTime, le Pioneer 800 Twin est un avion quatre places dont la motorisation est assurée par Rotax. Le média indique que son vol inaugural a eu lieu le 5 novembre 2026."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Alpi Aviation’s Rotax-powered Pioneer 800 Twin makes first flight",
+        "url": "https://www.aerotime.aero/articles/alpi-aviation-pioneer-800-twin-first-flight",
+        "date": "2026-11-10T21:12:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-sas-renforce-ses-vols-vers-atlanta-et-seattle-hubs-de-delta-d490",
+    "created": "2026-11-10T22:10:53Z",
+    "updated": "2026-11-10T22:10:53Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "SAS renforce ses vols vers Atlanta et Seattle, hubs de Delta, pour l'été 2027",
+    "chapo": "Selon Simple Flying, SAS augmente ses vols vers Atlanta et Seattle pour l'été 2027, dans le cadre d'un partenariat renforcé avec Delta.",
+    "paragraphes": [
+      "D'après Simple Flying, la compagnie scandinave développe son offre vers deux grands hubs de Delta, Atlanta et Seattle, pour la saison estivale 2027.",
+      "Cette hausse de fréquences s'accompagne, toujours d'après le site, d'un renforcement de la capacité long-courrier de SAS et d'une meilleure connectivité vers l'Europe, en lien avec l'alliance nouée avec Delta."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "SAS Boosts Flights To These 2 Major Delta Hubs For Summer 2027",
+        "url": "https://simpleflying.com/sas-boosts-flights-2-major-delta-hubs-summer-2027/",
+        "date": "2026-11-10T22:02:34Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
     "created": "2026-11-10T13:50:59Z",
     "updated": "2026-11-10T21:11:03Z",

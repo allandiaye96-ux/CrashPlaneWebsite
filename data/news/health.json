@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T22:00:58Z",
+  "run": "2026-11-10T22:10:35Z",
   "stats": {
-    "fetched": 645,
-    "new": 0,
-    "written": 0,
+    "fetched": 677,
+    "new": 2,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.3167,
+  "spend_month_usd": 4.3322,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -70,8 +70,8 @@
       "items": 10
     },
     "The War Zone": {
-      "ok": false,
-      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
+      "ok": true,
+      "items": 32
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -776,6 +776,18 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
+    },
+    {
+      "dossier": "SAS hausse vols Atlanta Seattle été 2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-10-sas-renforce-ses-vols-vers-atlanta-et-seattle-hubs-de-delta-d490"
+    },
+    {
+      "dossier": "Alpi Pioneer 800 Twin premier vol",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21"
     },
     {
       "dossier": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",
