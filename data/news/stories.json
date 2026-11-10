@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
+    "created": "2026-11-10T17:21:05Z",
+    "updated": "2026-11-10T17:21:05Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing : moins de livraisons en octobre, mais des commandes au plus haut pour un mois d'octobre depuis 1997",
+    "chapo": "Selon airliners.de, Boeing a livré moins d'avions en octobre que le mois précédent et qu'en octobre de l'année précédente. Le constructeur américain a en revanche enregistré son meilleur mois d'octobre en commandes depuis 1997.",
+    "paragraphes": [
+      "D'après le média allemand, le recul des livraisons s'observe à la fois par rapport au mois précédent et au même mois de l'année précédente.",
+      "Côté commandes, la majeure partie des contrats enregistrés provient d'un seul client, précise airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Boeing liefert im Oktober weniger Flugzeuge aus",
+        "url": "https://www.airliners.de/boeing-liefert-oktober-weniger-flugzeuge-aus/91453",
+        "date": "2026-11-10T16:49:58Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
+    "created": "2026-11-06T13:01:37Z",
+    "updated": "2026-11-10T17:21:02Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "Alerte à la bombe sur un A320 d'Aer Lingus : le commandant visé par une enquête en France, les pilotes protestent",
+    "chapo": "Un A320 d'Aer Lingus reliant Dublin à Rome a été escorté par deux chasseurs après une alerte à la bombe infondée, le 5 novembre, selon Air Journal. La justice française s'intéresse à l'attitude du commandant de bord, que des associations de pilotes défendent.",
+    "paragraphes": [
+      "D'après Air Journal, l'appareil transportait 157 personnes et s'est posé sans incident, accompagné de deux avions de chasse. Le parquet d'Évreux a lancé une procédure : le commandant aurait d'abord décliné l'ordre de rallier sans délai la base aérienne normande. Selon aero.de, le pilote et les autorités se sont opposés sur le choix de l'aéroport de déroutement, et la France a fait décoller des avions de combat.",
+      "Toujours d'après aero.de, au moins 27 vols dans l'espace aérien européen ont reçu des menaces, toutes révélées être de fausses alertes. L'association belge de pilotes BeCA soutient la décision du commandant, indique Air Journal, et la controverse porte sur la gestion de ces alertes. Selon airliners.de, des associations de pilotes reprochent aux autorités d'avoir imposé des lieux d'atterrissage aux équipages sans suffisamment tenir compte de leurs exigences."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Frankreich ermittelt gegen Pilot von Aer Lingus",
+        "url": "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html",
+        "date": "2026-11-06T07:38:31Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Aer Lingus : deux chasseurs pour escorter le Dublin-Rome, le commandant de bord visé par une enquête",
+        "url": "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html",
+        "date": "2026-11-06T13:00:09Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Un commandant de bord peut-il refuser un déroutement militaire ? L’affaire Aer Lingus relance le débat",
+        "url": "https://www.air-journal.fr/2026-11-09-un-commandant-de-bord-peut-il-refuser-un-deroutement-militaire-laffaire-aer-lingus-relance-le-debat-5278743.html",
+        "date": "2026-11-09T09:00:28Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Pilotenverbände kritisieren Behördenvorgehen nach Bombendrohungen",
+        "url": "https://www.airliners.de/pilotenverbaende-kritisieren-behoerdenvorgehen-bombendrohungen/91435",
+        "date": "2026-11-10T16:21:17Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
     "created": "2026-11-10T13:50:59Z",
     "updated": "2026-11-10T16:40:53Z",
@@ -1038,52 +1123,6 @@
         "title": "Why KLM Is Replacing Older Widebodies With 22 Airbus A350s That Cut Fuel Burn & CO2 By 25%",
         "url": "https://simpleflying.com/klm-replacing-older-widebodies-22-airbus-a350s-cut-fuel-burn-co2-25-percent/",
         "date": "2026-11-09T09:01:18Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
-    "created": "2026-11-06T13:01:37Z",
-    "updated": "2026-11-09T09:01:24Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Incident",
-    "importance": 2,
-    "titre": "Alerte à la bombe sur un A320 d'Aer Lingus : le commandant visé par une enquête en France",
-    "chapo": "Un Airbus A320 d'Aer Lingus assurant la liaison Dublin-Rome a été escorté par des chasseurs dans l'espace aérien français le 5 novembre, après une menace qui s'est révélée infondée, selon Air Journal. Le parquet d'Évreux s'intéresse à l'attitude du commandant de bord.",
-    "paragraphes": [
-      "D'après Air Journal, l'appareil transportait 157 personnes et a atterri sans incident. La justice française cherche à déterminer si le pilote a d'abord refusé de se dérouter vers la base aérienne normande demandée par les autorités. Selon aero.de, le commandant et les autorités divergeaient sur le choix de l'aéroport de déroutement, et la France a fait décoller des avions de combat.",
-      "Aero.de indique que cette alerte fait partie des menaces reçues contre au moins 27 vols dans l'espace aérien européen, toutes ayant tourné à la fausse alerte. L'association belge de pilotes BeCA défend la décision du commandant, d'après Air Journal, et l'affaire relance le débat sur la gestion de ces alertes."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Frankreich ermittelt gegen Pilot von Aer Lingus",
-        "url": "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html",
-        "date": "2026-11-06T07:38:31Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Aer Lingus : deux chasseurs pour escorter le Dublin-Rome, le commandant de bord visé par une enquête",
-        "url": "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html",
-        "date": "2026-11-06T13:00:09Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Un commandant de bord peut-il refuser un déroutement militaire ? L’affaire Aer Lingus relance le débat",
-        "url": "https://www.air-journal.fr/2026-11-09-un-commandant-de-bord-peut-il-refuser-un-deroutement-militaire-laffaire-aer-lingus-relance-le-debat-5278743.html",
-        "date": "2026-11-09T09:00:28Z",
         "official": false
       }
     ]

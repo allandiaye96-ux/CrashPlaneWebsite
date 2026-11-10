@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 17:10:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 17:21:05 +0000</lastBuildDate>
+  <item>
+    <title>Boeing : moins de livraisons en octobre, mais des commandes au plus haut pour un mois d&#x27;octobre depuis 1997</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738/</guid>
+    <pubDate>Tue, 10 Nov 2026 17:21:05 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon airliners.de, Boeing a livré moins d&#x27;avions en octobre que le mois précédent et qu&#x27;en octobre de l&#x27;année précédente. Le constructeur américain a en revanche enregistré son meilleur mois d&#x27;octobre en commandes depuis 1997.</description>
+  </item>
   <item>
     <title>RAF Mildenhall : des ravitailleurs de l&#x27;US Air Force dispersés en Europe après une menace liée à l&#x27;Iran</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 07 Nov 2026 20:01:11 +0000</pubDate>
     <category>Aéroports</category>
     <description>Selon Simple Flying, United Airlines inaugure à Washington Dulles son premier nouveau concourse depuis 20 ans, avec 14 portes et un nouveau salon United Club. AeroTime précise qu&#x27;il s&#x27;agit du concourse E, ouvert avec l&#x27;autorité aéroportuaire de la région de Washington.</description>
-  </item>
-  <item>
-    <title>Sept compagnies aériennes américaines visées par des plaintes pour entente présumée sur les tarifs</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91/</guid>
-    <pubDate>Sat, 07 Nov 2026 14:40:48 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, des plaintes accusent sept compagnies aériennes américaines de s&#x27;être entendues pour faire monter les prix des billets en partageant des données tarifaires.</description>
   </item>
 </channel>
 </rss>

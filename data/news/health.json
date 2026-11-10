@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T17:10:43Z",
+  "run": "2026-11-10T17:20:37Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
-    "written": 0,
+    "new": 4,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.1982,
+  "spend_month_usd": 4.2294,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -232,6 +232,12 @@
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
+      "dossier": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898"
+    },
+    {
       "dossier": "Dulles modernisation 20 Md$ hub United",
       "statut": "corrobore",
       "editeurs": 3,
@@ -332,12 +338,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5"
-    },
-    {
-      "dossier": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898"
     },
     {
       "dossier": "IAG résultats S1 2026 recul bénéfice kérosène",
@@ -776,6 +776,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd"
+    },
+    {
+      "dossier": "Boeing livraisons et commandes octobre",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
     },
     {
       "dossier": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",

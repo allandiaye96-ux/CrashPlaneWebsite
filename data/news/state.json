@@ -1403,7 +1403,11 @@
     "https://www.aerotime.aero/articles/pentagon-f35-parts-accountability-gao-report": "2026-11-10T16:20:35Z",
     "https://www.airliners.de/gewinnausschuettung-muenchen-denkt-ueber-ausstieg-fmg/91441": "2026-11-10T16:20:35Z",
     "https://www.air-journal.fr/2026-11-10-un-a350-1000-pour-le-centenaire-de-lufthansa-un-700e-airbus-pour-le-groupe-5278775.html": "2026-11-10T16:40:35Z",
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-reports-share-buybacks-for-week-starting-2-november-2026": "2026-11-10T16:50:36Z"
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-reports-share-buybacks-for-week-starting-2-november-2026": "2026-11-10T16:50:36Z",
+    "https://www.airliners.de/boeing-liefert-oktober-weniger-flugzeuge-aus/91453": "2026-11-10T17:20:37Z",
+    "https://www.airliners.de/trelleborg-verlagert-dichtungsfertigung-737-max-777x-marokko/91452": "2026-11-10T17:20:37Z",
+    "https://www.airliners.de/pilotenverbaende-kritisieren-behoerdenvorgehen-bombendrohungen/91435": "2026-11-10T17:20:37Z",
+    "https://www.airliners.de/eurowings-premium-biz-seat-drei-weitere-strecken/91444": "2026-11-10T17:20:37Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -3344,7 +3348,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-06T07:40:53Z",
-      "updated": "2026-11-09T09:01:16Z",
+      "updated": "2026-11-10T17:20:53Z",
       "items": [
         {
           "id": "8f5806f6e1ac8df8",
@@ -3372,10 +3376,19 @@
           "domain": "air-journal.fr",
           "summary": "Le déroutement sous escorte militaire d’un Airbus A320 d’Aer Lingus, le 5 novembre, suscite une controverse sur la gestion des alertes à la bombe. Alors que le parquet d’Évreux enquête sur le refus initial présumé du commandant de bord de se poser sur une base militaire, l’association belge de pilotes BeCA défend sa décision de […]",
           "published": "2026-11-09T09:00:28Z"
+        },
+        {
+          "id": "9246bb3ce9a04d97",
+          "feed": "airliners.de",
+          "title": "Pilotenverbände kritisieren Behördenvorgehen nach Bombendrohungen",
+          "url": "https://www.airliners.de/pilotenverbaende-kritisieren-behoerdenvorgehen-bombendrohungen/91435",
+          "domain": "airliners.de",
+          "summary": "Nach einer Serie von Bombendrohungen gegen europäische Verkehrsflugzeuge erheben Pilotenverbände Vorwürfe gegen staatliche Stellen. Militärflugzeuge sollen Besatzungen Landeorte vorgegeben haben, ohne deren Anforderungen ausreichend zu berücksichtigen.",
+          "published": "2026-11-10T16:21:17Z"
         }
       ],
       "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
-      "written_count": 3
+      "written_count": 4
     },
     "c798fc89721": {
       "id": "c798fc89721",
@@ -5230,10 +5243,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c15de394738": {
+      "id": "c15de394738",
+      "label": "Boeing livraisons et commandes octobre",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-10T17:20:53Z",
+      "updated": "2026-11-10T17:20:53Z",
+      "items": [
+        {
+          "id": "c720d0bb96e885cc",
+          "feed": "airliners.de",
+          "title": "Boeing liefert im Oktober weniger Flugzeuge aus",
+          "url": "https://www.airliners.de/boeing-liefert-oktober-weniger-flugzeuge-aus/91453",
+          "domain": "airliners.de",
+          "summary": "Boeing hat im Oktober weniger Flugzeuge ausgeliefert als im Vormonat und im Vorjahresmonat. Bei den Bestellungen verbuchte der US-Hersteller dagegen seinen stärksten Oktober seit 1997. Den Großteil der Aufträge steuerte ein einzelner Kunde bei.",
+          "published": "2026-11-10T16:49:58Z"
+        }
+      ],
+      "story_id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.198235
+    "2026-11": 4.229374
   }
 }
