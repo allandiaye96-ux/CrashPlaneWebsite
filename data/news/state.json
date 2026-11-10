@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-ultra-long-haul-pilots-perfer-uneven-4-6-2-rest-pattern-even-split-14-hour-flight/": "2026-10-31T15:01:00Z",
-    "https://www.air-journal.fr/2026-10-31-lufthansa-group-lenregistrement-en-ligne-via-travel-id-progressivement-obligatoire-5278573.html": "2026-10-31T15:01:00Z",
     "https://simpleflying.com/british-airways-launches-4-major-new-long-haul-routes-see-full-list-now/": "2026-10-31T15:10:34Z",
     "https://www.aero.de/news-54060/Wir-sehen-im-Moment-eine-schwierige-Gemengelage.html": "2026-10-31T15:10:34Z",
     "https://simpleflying.com/hidden-math-unleaded-avgas-reshaping-general-aviation/": "2026-10-31T16:01:00Z",
@@ -1395,7 +1393,8 @@
     "https://www.airliners.de/qantas-streicht-850-stellen-verwaltung-indien/91430": "2026-11-10T14:20:38Z",
     "https://www.airliners.de/slowakische-air-explore-stellt-16-jahren-betrieb/91428": "2026-11-10T14:20:38Z",
     "https://www.airliners.de/deutschland-niederlande-enger-schienenverkehr-zusammenarbeiten/91427": "2026-11-10T14:20:38Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-recoit-son-1er-airbus-a350-1000-20261110.html": "2026-11-10T14:20:38Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-recoit-son-1er-airbus-a350-1000-20261110.html": "2026-11-10T14:20:38Z",
+    "https://airlinegeeks.com/2026/11/10/frontier-begins-first-class-ticket-sales/": "2026-11-10T15:01:08Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -5220,6 +5219,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.130232
+    "2026-11": 4.131022
   }
 }
