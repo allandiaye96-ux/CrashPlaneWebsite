@@ -1372,7 +1372,8 @@
     "https://avitrader.com/2026/11/10/aar-wins-airbus-radome-repair-approval/": "2026-11-10T06:40:44Z",
     "https://www.journal-aviation.com/actualites-mro-support/revima-monte-en-puissance-sur-les-boeing-787-et-airbus-a350-et-vise-une-implantation-aux-etats-unis-20261110.html": "2026-11-10T06:40:44Z",
     "https://avitrader.com/2026/11/10/airbaltic-extends-lufthansa-wet-lease-deal/": "2026-11-10T06:50:33Z",
-    "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html": "2026-11-10T07:01:05Z"
+    "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html": "2026-11-10T07:01:05Z",
+    "https://avitrader.com/2026/11/10/d328eco-landing-gear-passes-flight-tests/": "2026-11-10T07:10:37Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2109,27 +2110,6 @@
       ],
       "story_id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
       "written_count": 2
-    },
-    "cc149c1301d": {
-      "id": "cc149c1301d",
-      "label": "Airbus prêt BEI 3 Md€ menace trêve commerciale US",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-03T07:01:18Z",
-      "updated": "2026-11-03T07:01:18Z",
-      "items": [
-        {
-          "id": "619262af420a997e",
-          "feed": "Air Journal",
-          "title": "Airbus : Washington menace la trêve commerciale pour un prêt européen de 3 milliards d’euros",
-          "url": "https://www.air-journal.fr/2026-11-03-airbus-washington-menace-la-treve-commerciale-pour-un-pret-europeen-de-3-milliards-deuros-5278651.html",
-          "domain": "air-journal.fr",
-          "summary": "Le financement accordé par la Banque européenne d’investissement à Airbus menace-t-il la trêve commerciale entre Washington et Bruxelles ? Les États-Unis réclament des précisions sur cette enveloppe record de 3 milliards d’euros, soupçonnée de fausser la concurrence avec Boeing. L’avionneur européen défend une opération réalisée aux conditions du marché, destinée à soutenir ses investissements de […]",
-          "published": "2026-11-03T07:00:17Z"
-        }
-      ],
-      "story_id": "2026-11-03-airbus-washington-demande-des-precisions-sur-un-pret-de-3-mi-301d",
-      "written_count": 1
     },
     "c33d94ac6de": {
       "id": "c33d94ac6de",
@@ -5371,6 +5351,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.92516
+    "2026-11": 3.925984
   }
 }
