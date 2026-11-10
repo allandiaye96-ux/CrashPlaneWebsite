@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-10-31-espagne-le-trafic-daena-depasse-les-attentes-des-resultats-en-hausse-a-deux-chiffres-5278557.html": "2026-10-31T14:00:56Z",
     "https://simpleflying.com/a350-so-advanced-airbus-built-hidden-room-under-cockpit-house-digital-equipment/": "2026-10-31T14:10:34Z",
     "https://simpleflying.com/why-ultra-long-haul-pilots-perfer-uneven-4-6-2-rest-pattern-even-split-14-hour-flight/": "2026-10-31T15:01:00Z",
     "https://www.air-journal.fr/2026-10-31-lufthansa-group-lenregistrement-en-ligne-via-travel-id-progressivement-obligatoire-5278573.html": "2026-10-31T15:01:00Z",
@@ -1381,7 +1380,9 @@
     "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs": "2026-11-10T13:40:33Z",
     "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville": "2026-11-10T13:40:33Z",
     "https://www.journal-aviation.com/actualites-mro-support/safran-devoile-fleetlife-sa-nouvelle-solution-de-maintenance-predictive-pour-equipements-20261110.html": "2026-11-10T13:40:33Z",
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft": "2026-11-10T13:50:33Z"
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft": "2026-11-10T13:50:33Z",
+    "https://simpleflying.com/lufthansa-cancels-13-hour-nonstop-route/": "2026-11-10T14:01:03Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html": "2026-11-10T14:01:03Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -5173,7 +5174,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:20:51Z",
-      "updated": "2026-11-10T13:20:51Z",
+      "updated": "2026-11-10T14:01:20Z",
       "items": [
         {
           "id": "e0529ea12b5d16b1",
@@ -5183,10 +5184,19 @@
           "domain": "airliners.de",
           "summary": "Embraer hebt nach einem Rekordquartal die Umsatz- und die Cashflow-Prognose für das laufende Jahr an. Bei den Auslieferungen bleibt der brasilianische Hersteller dagegen bei seinen bisherigen Zielen.",
           "published": "2026-11-10T13:15:30Z"
+        },
+        {
+          "id": "bfe863bd839167eb",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Après un 3e trimestre record, Embraer relève ses prévisions",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html",
+          "domain": "journal-aviation.com",
+          "summary": "Après avoir annoncé un nombre record de livraisons au troisième trimestre et un niveau record de son carnet de commandes, Embraer annonce que son chiffre d’affaires sur la période est […] L’article Après un 3e trimestre record, Embraer relève ses prévisions a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-10T13:52:02Z"
         }
       ],
       "story_id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
-      "written_count": 1
+      "written_count": 2
     },
     "cb1cac6cf6d": {
       "id": "cb1cac6cf6d",
@@ -5212,6 +5222,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.086874
+    "2026-11": 4.095505
   }
 }

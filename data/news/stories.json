@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
+    "created": "2026-11-10T13:20:54Z",
+    "updated": "2026-11-10T14:01:27Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Embraer relève ses prévisions de chiffre d'affaires et de trésorerie après un trimestre record",
+    "chapo": "Après un troisième trimestre record, Embraer rehausse ses prévisions de chiffre d'affaires et de flux de trésorerie pour l'année en cours, selon airliners.de. Les objectifs de livraisons restent inchangés.",
+    "paragraphes": [
+      "Le constructeur brésilien maintient en revanche ses cibles initiales pour les livraisons sur l'ensemble de l'année, précise airliners.de.",
+      "Le Journal de l'Aviation rappelle que l'avionneur avait fait état d'un nombre record de livraisons au troisième trimestre, ainsi que d'un niveau record de son carnet de commandes."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
+        "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
+        "date": "2026-11-10T13:15:30Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Après un 3e trimestre record, Embraer relève ses prévisions",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html",
+        "date": "2026-11-10T13:52:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
     "created": "2026-11-10T13:50:59Z",
     "updated": "2026-11-10T13:50:59Z",
@@ -27,38 +66,6 @@
         "title": "Lufthansa takes delivery of its first A350-1000 and 700th Airbus aircraft",
         "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft",
         "date": null,
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
-    "created": "2026-11-10T13:20:54Z",
-    "updated": "2026-11-10T13:20:54Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Embraer relève ses prévisions de chiffre d'affaires et de trésorerie après un trimestre record",
-    "chapo": "Selon airliners.de, Embraer a revu à la hausse ses prévisions de chiffre d'affaires et de flux de trésorerie pour l'année en cours, à la suite d'un trimestre record.",
-    "paragraphes": [
-      "Le constructeur brésilien ajuste ainsi ses objectifs financiers annuels après un trimestre qualifié de record par le média allemand.",
-      "En revanche, Embraer maintient inchangés ses objectifs de livraisons pour l'année."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
-        "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
-        "date": "2026-11-10T13:15:30Z",
         "official": false
       }
     ]

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T13:50:33Z",
+  "run": "2026-11-10T14:01:03Z",
   "stats": {
     "fetched": 674,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0869,
+  "spend_month_usd": 4.0955,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -424,6 +424,12 @@
       "breve": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd"
     },
     {
+      "dossier": "Embraer relève prévisions 2026 après record trimestriel",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -788,12 +794,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd"
-    },
-    {
-      "dossier": "Embraer relève prévisions 2026 après record trimestriel",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
     },
     {
       "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
