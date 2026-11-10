@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/": "2026-10-31T09:20:33Z",
     "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html": "2026-10-31T10:01:02Z",
     "https://simpleflying.com/how-retrofit-avionics-reviving-aging-cessnas-pipers/": "2026-10-31T11:00:59Z",
     "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html": "2026-10-31T11:00:59Z",
@@ -1362,7 +1361,13 @@
     "https://simpleflying.com/7-airlines-flying-airbus-a321xlr-both-short-long-haul/": "2026-11-10T09:01:04Z",
     "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html": "2026-11-10T09:01:04Z",
     "https://simpleflying.com/united-pilots-squawk-hijack-code-passenger-storm-cockpit-bomb/": "2026-11-10T09:10:34Z",
-    "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html": "2026-11-10T09:10:34Z"
+    "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html": "2026-11-10T09:10:34Z",
+    "https://www.aerotime.aero/articles/usaf-tankers-raf-mildenhall-iran-threat": "2026-11-10T09:20:35Z",
+    "https://www.aerotime.aero/articles/france-airbus-thales-iris-military-satellites": "2026-11-10T09:20:35Z",
+    "https://www.airliners.de/dhl-express-tankt-paris-saf-totalenergies/91410": "2026-11-10T09:20:35Z",
+    "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422": "2026-11-10T09:20:35Z",
+    "https://www.airliners.de/frequentis-faa-freigabe-digital-tower/91419": "2026-11-10T09:20:35Z",
+    "https://www.airliners.de/etihad-investiert-insidern-millionen-condor/91417": "2026-11-10T09:20:35Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5178,7 +5183,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-09T19:50:49Z",
-      "updated": "2026-11-09T19:50:49Z",
+      "updated": "2026-11-10T09:20:51Z",
       "items": [
         {
           "id": "4a5dc5373d5a76a1",
@@ -5188,10 +5193,19 @@
           "domain": "simpleflying.com",
           "summary": "Nine new SFO connections expand Pacific reach and bolster year round East Coast feeds while adding seasonal Midwest and Florida service.",
           "published": "2026-11-09T19:40:51Z"
+        },
+        {
+          "id": "3cef1d48b629ad50",
+          "feed": "AeroTime",
+          "title": "France orders two IRIS spy satellites from Airbus and Thales",
+          "url": "https://www.aerotime.aero/articles/france-airbus-thales-iris-military-satellites",
+          "domain": "aerotime.aero",
+          "summary": "France’s defense procurement agency, the Direction générale de l’armement (DGA), has awarded Airbus Defence and Space and Thales… The post France orders two IRIS spy satellites from Airbus and Thales appeared first on AeroTime .",
+          "published": "2026-11-10T08:33:57Z"
         }
       ],
       "story_id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
-      "written_count": 1
+      "written_count": 2
     },
     "cf004f1ea0d": {
       "id": "cf004f1ea0d",
@@ -5220,7 +5234,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T21:01:20Z",
-      "updated": "2026-11-09T23:31:02Z",
+      "updated": "2026-11-10T09:20:51Z",
       "items": [
         {
           "id": "2fae47b1b276bb60",
@@ -5257,10 +5271,19 @@
           "domain": "simpleflying.com",
           "summary": "Slower wing delivery and factory stability issues reshape output plans while a long backlog cushions near term impact.",
           "published": "2026-11-09T23:25:34Z"
+        },
+        {
+          "id": "fa97fe243d1df671",
+          "feed": "airliners.de",
+          "title": "Boeing streicht fünf Prozent der Stellen in Verkehrsflugzeugsparte",
+          "url": "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422",
+          "domain": "airliners.de",
+          "summary": "Boeing will fünf Prozent der Stellen in der Verkehrsflugzeugsparte streichen. Hintergrund sind Probleme beim Hochfahren der Produktion. Wie der Abbau ablaufen soll, geht aus einem internen Memo der Spartenchefin hervor.",
+          "published": "2026-11-10T08:41:39Z"
         }
       ],
       "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-      "written_count": 4
+      "written_count": 5
     },
     "cd33395d38e": {
       "id": "cd33395d38e",
@@ -5396,10 +5419,73 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cdfd299e85a": {
+      "id": "cdfd299e85a",
+      "label": "Tankers USAF quittent RAF Mildenhall menace Iran",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-10T09:20:51Z",
+      "updated": "2026-11-10T09:20:51Z",
+      "items": [
+        {
+          "id": "980ab6692b24bcd3",
+          "feed": "AeroTime",
+          "title": "US Air Force moves tankers from RAF Mildenhall amid reported Iran-linked threat",
+          "url": "https://www.aerotime.aero/articles/usaf-tankers-raf-mildenhall-iran-threat",
+          "domain": "aerotime.aero",
+          "summary": "The US military relocated refueling tankers from RAF Mildenhall in eastern England on November 9, 2026, following an… The post US Air Force moves tankers from RAF Mildenhall amid reported Iran-linked threat appeared first on AeroTime .",
+          "published": "2026-11-10T09:14:27Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
+    },
+    "ce1eb17eabb": {
+      "id": "ce1eb17eabb",
+      "label": "Frequentis Digital Tower FAA",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-10T09:20:51Z",
+      "updated": "2026-11-10T09:20:51Z",
+      "items": [
+        {
+          "id": "b62de050e8e457a7",
+          "feed": "airliners.de",
+          "title": "Frequentis erhält FAA-Freigabe für Digital Tower",
+          "url": "https://www.airliners.de/frequentis-faa-freigabe-digital-tower/91419",
+          "domain": "airliners.de",
+          "summary": "Die US-Luftfahrtbehörde FAA hat dem Digital-Tower-System von Frequentis eine Designzulassung erteilt. Vor allem eine Gruppe von Flughäfen soll davon profitieren.",
+          "published": "2026-11-10T08:30:02Z"
+        }
+      ],
+      "story_id": "2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb",
+      "written_count": 1
+    },
+    "c075cde2bcd": {
+      "id": "c075cde2bcd",
+      "label": "Etihad investit dans Condor",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-10T09:20:51Z",
+      "updated": "2026-11-10T09:20:51Z",
+      "items": [
+        {
+          "id": "eec56711ab510e74",
+          "feed": "airliners.de",
+          "title": "Etihad investiert Insidern zufolge Millionen in Condor",
+          "url": "https://www.airliners.de/etihad-investiert-insidern-millionen-condor/91417",
+          "domain": "airliners.de",
+          "summary": "Etihad Airways hat Insidern zufolge einen hohen zweistelligen Millionenbetrag in Condor investiert. Basis dafür ist offenbar ein Codeshare auf Verbindungen nach Abu Dhabi und darüber hinaus.",
+          "published": "2026-11-10T08:24:13Z"
+        }
+      ],
+      "story_id": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.961703
+    "2026-11": 3.999501
   }
 }

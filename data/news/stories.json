@@ -1,5 +1,168 @@
 [
   {
+    "id": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd",
+    "created": "2026-11-10T09:21:08Z",
+    "updated": "2026-11-10T09:21:08Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Etihad aurait investi un montant à deux chiffres en millions dans Condor",
+    "chapo": "Selon airliners.de, qui cite des sources internes, Etihad Airways aurait investi un montant élevé, de plusieurs dizaines de millions, dans la compagnie allemande Condor.",
+    "paragraphes": [
+      "D'après ces sources, l'investissement reposerait sur un accord de partage de codes (codeshare). Celui-ci porterait sur des liaisons vers Abu Dhabi et au-delà, vers d'autres destinations.",
+      "Le média évoque un « hoher zweistelliger Millionenbetrag », soit une somme située dans le haut de la fourchette des dizaines de millions. Aucune confirmation officielle n'est mentionnée à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Etihad investiert Insidern zufolge Millionen in Condor",
+        "url": "https://www.airliners.de/etihad-investiert-insidern-millionen-condor/91417",
+        "date": "2026-11-10T08:24:13Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb",
+    "created": "2026-11-10T09:21:05Z",
+    "updated": "2026-11-10T09:21:05Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Frequentis obtient une approbation de conception de la FAA pour son système Digital Tower",
+    "chapo": "Selon airliners.de, la FAA américaine a accordé une approbation de conception au système de tour de contrôle numérique de Frequentis.",
+    "paragraphes": [
+      "D'après airliners.de, l'autorité de l'aviation civile des États-Unis a délivré cette autorisation au système Digital Tower développé par Frequentis.",
+      "Le média indique qu'un groupe particulier d'aéroports devrait en tirer un bénéfice avant tout."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Frequentis erhält FAA-Freigabe für Digital Tower",
+        "url": "https://www.airliners.de/frequentis-faa-freigabe-digital-tower/91419",
+        "date": "2026-11-10T08:30:02Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
+    "created": "2026-11-09T21:01:23Z",
+    "updated": "2026-11-10T09:21:02Z",
+    "version": 5,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing va supprimer environ 5 % des postes de sa division avions commerciaux face aux difficultés de la montée en cadence",
+    "chapo": "Boeing prévoit de supprimer environ cinq pour cent des emplois de sa division Boeing Commercial Airplanes (BCA), selon aero.de et AeroTime. En cause : des difficultés dans l'augmentation des cadences de production.",
+    "paragraphes": [
+      "D'après Leeham News, le constructeur ajuste ses effectifs commerciaux alors qu'il redéfinit le rythme de production du 737 Max. Le média indique que Boeing a évoqué le sujet lors de la présentation de ses résultats du troisième trimestre. Simple Flying cite pour sa part des livraisons de voilures plus lentes et des problèmes de stabilité en usine, qui modifient les plans de production.",
+      "Selon airliners.de, les modalités de cette réduction d'effectifs figurent dans une note interne de la dirigeante de la division. Simple Flying souligne par ailleurs qu'un carnet de commandes important devrait amortir l'impact à court terme."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 5,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Stockender Hochlauf: Boeing baut Personal ab",
+        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
+        "date": "2026-11-09T20:51:23Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
+        "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
+        "date": "2026-11-09T22:10:54Z",
+        "official": false
+      },
+      {
+        "name": "Leeham News",
+        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
+        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
+        "date": "2026-11-09T22:29:56Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
+        "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
+        "date": "2026-11-09T23:25:34Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Boeing streicht fünf Prozent der Stellen in Verkehrsflugzeugsparte",
+        "url": "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422",
+        "date": "2026-11-10T08:41:39Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
+    "created": "2026-11-09T19:50:52Z",
+    "updated": "2026-11-10T09:20:58Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "United Airlines annonce neuf nouvelles liaisons au départ de San Francisco",
+    "chapo": "United Airlines ajoute neuf nouvelles liaisons à son programme au départ de San Francisco (SFO), selon Simple Flying. Le dispositif renforce la présence de la compagnie sur le Pacifique et vers la côte Est.",
+    "paragraphes": [
+      "D'après Simple Flying, ces neuf routes élargissent le rayon d'action de la compagnie sur le Pacifique depuis sa plateforme de la côte Ouest américaine.",
+      "Le programme comprend aussi des liaisons vers la côte Est exploitées toute l'année, ainsi que des dessertes saisonnières vers le Midwest et la Floride."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "United Airlines Launches 9 New Routes From Major West Coast Hub: See Full List Now",
+        "url": "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/",
+        "date": "2026-11-09T19:40:51Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "France orders two IRIS spy satellites from Airbus and Thales",
+        "url": "https://www.aerotime.aero/articles/france-airbus-thales-iris-military-satellites",
+        "date": "2026-11-10T08:33:57Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
     "created": "2026-11-10T09:10:55Z",
     "updated": "2026-11-10T09:10:55Z",
@@ -162,59 +325,6 @@
     ]
   },
   {
-    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-    "created": "2026-11-09T21:01:23Z",
-    "updated": "2026-11-09T23:31:06Z",
-    "version": 4,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Boeing va supprimer environ 5 % des postes de sa division avions commerciaux face à une montée en cadence difficile",
-    "chapo": "Boeing prévoit de réduire d'environ 5 % ses effectifs dans la division Boeing Commercial Airplanes (BCA), selon aero.de et AeroTime, en raison de difficultés dans l'augmentation de ses cadences de production.",
-    "paragraphes": [
-      "D'après Leeham News, ces réductions d'effectifs accompagnent un ajustement du rythme de production du 737 Max. Le constructeur américain l'avait évoqué lors de la présentation de ses résultats du troisième trimestre.",
-      "Simple Flying met en avant une livraison plus lente des ailes et des problèmes de stabilité en usine, qui modifient les plans de production. Le média ajoute qu'un important carnet de commandes limite l'impact à court terme."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 4,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Stockender Hochlauf: Boeing baut Personal ab",
-        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
-        "date": "2026-11-09T20:51:23Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
-        "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
-        "date": "2026-11-09T22:10:54Z",
-        "official": false
-      },
-      {
-        "name": "Leeham News",
-        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
-        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
-        "date": "2026-11-09T22:29:56Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
-        "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
-        "date": "2026-11-09T23:25:34Z",
-        "official": false
-      }
-    ]
-  },
-  {
     "id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
     "created": "2026-11-09T15:20:55Z",
     "updated": "2026-11-09T20:01:27Z",
@@ -302,38 +412,6 @@
         "title": "NASA reveals new experimental X-70 Fractal aircraft",
         "url": "https://australianaviation.com.au/2026/11/nasa-reveals-new-experimental-x-70-fractal-aircraft/",
         "date": "2026-11-09T03:32:05Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
-    "created": "2026-11-09T19:50:52Z",
-    "updated": "2026-11-09T19:50:52Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "United Airlines annonce neuf nouvelles liaisons au départ de San Francisco",
-    "chapo": "Selon Simple Flying, United Airlines ouvre neuf nouvelles routes depuis son hub de San Francisco (SFO), sur le Pacifique, la côte Est, le Midwest et la Floride.",
-    "paragraphes": [
-      "D'après Simple Flying, ces neuf nouvelles connexions élargissent la présence de la compagnie sur le Pacifique. Elles renforcent aussi, toute l'année, l'alimentation du hub depuis la côte Est.",
-      "Le média précise que le programme comprend en outre des dessertes saisonnières vers le Midwest et la Floride."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "United Airlines Launches 9 New Routes From Major West Coast Hub: See Full List Now",
-        "url": "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/",
-        "date": "2026-11-09T19:40:51Z",
         "official": false
       }
     ]
