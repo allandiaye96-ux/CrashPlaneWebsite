@@ -1387,7 +1387,15 @@
     "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive": "2026-11-10T14:10:36Z",
     "https://leehamnews.com/2026/11/10/why-did-comac-pursue-the-c919-600-shrink-chinas-high-altitude-demands/": "2026-11-10T14:10:36Z",
     "https://www.aero.de/news-54139/Erster-Airbus-A350-1000-von-Lufthansa-landet-in-Muenchen.html": "2026-11-10T14:10:36Z",
-    "https://www.air-journal.fr/2026-11-10-sas-davantage-de-vols-vers-lasie-et-les-etats-unis-a-lete-2027-5278772.html": "2026-11-10T14:10:36Z"
+    "https://www.air-journal.fr/2026-11-10-sas-davantage-de-vols-vers-lasie-et-les-etats-unis-a-lete-2027-5278772.html": "2026-11-10T14:10:36Z",
+    "https://simpleflying.com/lufthansa-first-a350-1000-delivery-700th-airbus-overall/": "2026-11-10T14:20:38Z",
+    "https://www.airliners.de/lufthansa-uebernimmt-ersten-a350-1000/91433": "2026-11-10T14:20:38Z",
+    "https://www.airliners.de/air-baltic-bis-sechs-a220-lufthansa-group-wet-lease/91432": "2026-11-10T14:20:38Z",
+    "https://www.airliners.de/corsia-pflicht-airlines-droht-mangel-co2-gutschriften/91429": "2026-11-10T14:20:38Z",
+    "https://www.airliners.de/qantas-streicht-850-stellen-verwaltung-indien/91430": "2026-11-10T14:20:38Z",
+    "https://www.airliners.de/slowakische-air-explore-stellt-16-jahren-betrieb/91428": "2026-11-10T14:20:38Z",
+    "https://www.airliners.de/deutschland-niederlande-enger-schienenverkehr-zusammenarbeiten/91427": "2026-11-10T14:20:38Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-recoit-son-1er-airbus-a350-1000-20261110.html": "2026-11-10T14:20:38Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -1427,45 +1435,6 @@
         }
       ],
       "story_id": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1",
-      "written_count": 3
-    },
-    "c41dd1f94f5": {
-      "id": "c41dd1f94f5",
-      "label": "Comac CE-25A avion électrique essais",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-10-29T16:47:37Z",
-      "updated": "2026-11-03T14:10:50Z",
-      "items": [
-        {
-          "id": "fba8048c09b0dd9d",
-          "feed": "airliners.de",
-          "title": "Comac bereitet Elektro-Regionalflugzeug auf Testflüge vor",
-          "url": "https://www.airliners.de/comac-bereitet-elektro-regionalflugzeug-testfluege/91201",
-          "domain": "airliners.de",
-          "summary": "Der chinesische Flugzeughersteller Comac arbeitet daran, einen Demonstrator für ein elektrisch angetriebenes Regionalflugzeug für erste Testflüge startklar zu machen. Das berichtete der chinesische Autoblogger Han Lu auf seiner Webseite und veröffentlichte dazu Bilder des CE-25A genannten Versuchsträgers, die derzeit in chinesischen Onlinenetzwerken kursieren.",
-          "published": "2026-10-29T16:26:26Z"
-        },
-        {
-          "id": "63858fc2c7e32e4d",
-          "feed": "aero.de",
-          "title": "Comac greift mit der CE-25A den Lilium-Antrieb auf",
-          "url": "https://www.aero.de/news-54051/Comac-greift-mit-der-CE-25A-den-Lilium-Antrieb-auf.html",
-          "domain": "aero.de",
-          "summary": "SHANGHAI - CE-25A - hinter dem sperrigen Namen verbirgt sich ein neuer E-Flug-Demonstrator des chinesischen Herstellers Comac. Im Internet kursieren seit dieser Woche erste Aufnahmen des Flugzeugs. Der von Comac verfolgte Ansatz erinnert an das - seinerzeit nicht unumstrittene - Antriebsprinzip des Lilium Jet.",
-          "published": "2026-10-30T07:57:41Z"
-        },
-        {
-          "id": "5a4b8647dacb47ee",
-          "feed": "Leeham News",
-          "title": "China’s Comac May Have Built Electric Aircraft Demonstrator",
-          "url": "https://leehamnews.com/2026/11/03/chinas-comac-may-have-built-electric-aircraft-demonstrator/",
-          "domain": "leehamnews.com",
-          "summary": "By Jennifer Meszaros • Contributing Writer November 3, 2026 Three years after Comac first displayed a model of its CE-25A electric aircraft, the Chinese airframer may have built the first full-scale example. Photos posted on the Weibo social... Read More The post China’s Comac May Have Built Electric Aircraft Demonstrator appeared first on Leeham News .",
-          "published": "2026-11-03T14:00:37Z"
-        }
-      ],
-      "story_id": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5",
       "written_count": 3
     },
     "cb354155b2d": {
@@ -5218,7 +5187,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:50:53Z",
-      "updated": "2026-11-10T14:10:51Z",
+      "updated": "2026-11-10T14:20:54Z",
       "items": [
         {
           "id": "bd3e2f64b8f737c8",
@@ -5237,10 +5206,37 @@
           "domain": "aero.de",
           "summary": "MÜNCHEN - Da ist das Ding: Lufthansa hat ihren ersten Airbus A350-1000 erhalten. Das Flugzeug ist am Dienstag am Drehkreuz München eingetroffen. Lufthansa wird mit der D-AIFA zunächst Ziele in Asien anfliegen. An Bord setzt Lufthansa erkennbar auf die Zugkraft ihrer neuen Premiumangebote.",
           "published": "2026-11-10T14:06:44Z"
+        },
+        {
+          "id": "7f9060ab763d20b9",
+          "feed": "Simple Flying",
+          "title": "New Long-Haul Era: Lufthansa Receives 1st A350-1000 & 700th Airbus Jet Overall",
+          "url": "https://simpleflying.com/lufthansa-first-a350-1000-delivery-700th-airbus-overall/",
+          "domain": "simpleflying.com",
+          "summary": "It's the start of a new widebody era at the German flag carrier.",
+          "published": "2026-11-10T14:13:54Z"
+        },
+        {
+          "id": "97b3d4112ba94e3f",
+          "feed": "airliners.de",
+          "title": "Lufthansa übernimmt ihren ersten A350-1000",
+          "url": "https://www.airliners.de/lufthansa-uebernimmt-ersten-a350-1000/91433",
+          "domain": "airliners.de",
+          "summary": "Die Lufthansa hat ihren ersten Airbus A350-1000 übernommen. Für den Konzern markiert das Großraumflugzeug zugleich eine runde Zahl in der Zusammenarbeit mit dem Hersteller.",
+          "published": "2026-11-10T14:12:40Z"
+        },
+        {
+          "id": "54d62911de29547d",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Lufthansa reçoit son 1er Airbus A350-1000",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-recoit-son-1er-airbus-a350-1000-20261110.html",
+          "domain": "journal-aviation.com",
+          "summary": "Lufthansa a célébré la livraison de son premier A350-1000, qui se trouve être également son 700e Airbus. Il s’agit par ailleurs de son septième appareil revêtant une livrée spéciale commémorant […] L’article Lufthansa reçoit son 1er Airbus A350-1000 a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-10T14:13:36Z"
         }
       ],
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-      "written_count": 2
+      "written_count": 5
     },
     "cbd12c0c2c8": {
       "id": "cbd12c0c2c8",
@@ -5266,6 +5262,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.116446
+    "2026-11": 4.130232
   }
 }

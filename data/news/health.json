@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T14:10:36Z",
+  "run": "2026-11-10T14:20:38Z",
   "stats": {
     "fetched": 674,
-    "new": 6,
-    "written": 2,
+    "new": 8,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.1164,
+  "spend_month_usd": 4.1302,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -154,6 +154,12 @@
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
     },
     {
+      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
+    },
+    {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
       "statut": "corrobore",
       "editeurs": 4,
@@ -194,12 +200,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-10-31-ebola-les-etats-unis-imposeront-des-le-3-novembre-2026-une-d-23c1"
-    },
-    {
-      "dossier": "Comac CE-25A avion électrique essais",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-10-29-comac-prepare-un-demonstrateur-de-avion-regional-electrique-94f5"
     },
     {
       "dossier": "PIA réception premier Boeing 787-9",
@@ -434,12 +434,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
-    },
-    {
-      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
