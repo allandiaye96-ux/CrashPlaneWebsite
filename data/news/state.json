@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=A83E375E-9CAB-46F2-B946-74CF97BB280B": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=B3E9BCAE-1B65-44E2-A88C-E92778369A4C": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=2EA855A1-11FA-44D3-B9BE-156CAA201BB9": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C7D4E898-781C-46F5-A62A-9A68847360B8": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=7583B2A0-01D0-429C-909D-6BBA7B8481D7": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=65664889-D4C1-454B-B973-BD6D4F55EE72": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3DF56D1B-8AD0-4EDC-9123-A8E21737D397": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=585474D1-4472-4D01-99D8-7CE1D83B5E4C": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=082D7B5B-7F50-459C-9FED-1CFD0D7BB0A6": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F496C8BD-B90E-4332-84F2-B900C29CA00B": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=88513640-BF74-4F38-A5CE-6997B511518A": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=1555CC01-A1BF-4064-AD28-CD2DFED9826C": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=24265624-A33B-41FC-ABE2-DBF1983785C0": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=49CD82D4-81FD-431D-A2E1-0706FB244E17": "2026-10-31T09:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=19702E92-EB31-4DF4-8F34-2DC18E3E0C56": "2026-10-31T09:10:34Z",
-    "https://www.airliners.de/podcast/luftfahrt-podcast-70-gate-of-the-future-letzte-flughafen-bulette-urlaubsvertretung-david-91226": "2026-10-31T09:10:34Z",
     "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/": "2026-10-31T09:20:33Z",
     "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html": "2026-10-31T10:01:02Z",
     "https://simpleflying.com/how-retrofit-avionics-reviving-aging-cessnas-pipers/": "2026-10-31T11:00:59Z",
@@ -1376,7 +1360,9 @@
     "https://www.airliners.de/smartwings-ernennt-vorstandsvorsitzenden/91411": "2026-11-10T08:20:35Z",
     "https://www.aero.de/news-54132/Boeing-737-pustet-Cessna-C172-um.html": "2026-11-10T08:30:54Z",
     "https://simpleflying.com/7-airlines-flying-airbus-a321xlr-both-short-long-haul/": "2026-11-10T09:01:04Z",
-    "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html": "2026-11-10T09:01:04Z"
+    "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html": "2026-11-10T09:01:04Z",
+    "https://simpleflying.com/united-pilots-squawk-hijack-code-passenger-storm-cockpit-bomb/": "2026-11-10T09:10:34Z",
+    "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html": "2026-11-10T09:10:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4919,7 +4905,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-09T11:20:50Z",
-      "updated": "2026-11-09T11:20:50Z",
+      "updated": "2026-11-10T09:10:48Z",
       "items": [
         {
           "id": "f43f010b9874475a",
@@ -4929,10 +4915,19 @@
           "domain": "aero.de",
           "summary": "TOULOUSE - Einige Fluggesellschaften reizen die Kabine im Airbus A330-900 mit einer Economy-Maximalbestuhlung aus. Bald sind noch mehr Sitze noch mehr möglich. Die EASA hebt die Passagierkapazität des Airbus-Interkontmodells von bislang 465 auf 480 Fluggäste an - unter Bedingungen.",
           "published": "2026-11-09T11:16:52Z"
+        },
+        {
+          "id": "0cda1494a777a9a8",
+          "feed": "Air Journal",
+          "title": "Quinze sièges de plus : l’Airbus A330-900 repousse sa limite à 480 passagers, sous conditions",
+          "url": "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html",
+          "domain": "air-journal.fr",
+          "summary": "L’Airbus A330-900 peut désormais être certifié pour accueillir jusqu’à 480 passagers, contre 465 auparavant. Cette hausse de quinze places, inscrite dans la dernière révision de la fiche de certification européenne du gros-porteur, reste conditionnée à une modification des équipements d’évacuation et à un aménagement intérieur approuvé. A330-900 : une capacité maximale relevée de 465 à 480 […]",
+          "published": "2026-11-10T09:00:46Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
+      "written_count": 2
     },
     "c7d44cb2dfe": {
       "id": "c7d44cb2dfe",
@@ -5380,10 +5375,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c52b068fd3e": {
+      "id": "c52b068fd3e",
+      "label": "United pilotes code détournement passager cockpit bombe",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-10T09:10:48Z",
+      "updated": "2026-11-10T09:10:48Z",
+      "items": [
+        {
+          "id": "f8486f26e94d8850",
+          "feed": "Simple Flying",
+          "title": "United Pilots Squawk Hijack Code As Passenger Tries To Storm Cockpit, Says He Has A Bomb",
+          "url": "https://simpleflying.com/united-pilots-squawk-hijack-code-passenger-storm-cockpit-bomb/",
+          "domain": "simpleflying.com",
+          "summary": "Despite the alarming incident, the flight was able to continue to its destination as planned.",
+          "published": "2026-11-10T09:01:53Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.94339
+    "2026-11": 3.961703
   }
 }

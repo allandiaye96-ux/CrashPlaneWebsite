@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
+    "created": "2026-11-10T09:10:55Z",
+    "updated": "2026-11-10T09:10:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Airbus A330-900 : l'EASA relève la capacité maximale de 465 à 480 passagers, sous conditions",
+    "chapo": "Selon aero.de et Air Journal, l'Agence européenne de la sécurité aérienne (EASA) autorise désormais l'A330-900 à accueillir jusqu'à 480 passagers, contre 465 jusque-là. Ce plafond est assorti de conditions.",
+    "paragraphes": [
+      "Le relèvement de quinze places figure dans la dernière mise à jour du document de certification européen de l'appareil, indique Air Journal. Il suppose une modification des équipements d'évacuation ainsi qu'un aménagement de cabine validé.",
+      "D'après aero.de, certaines compagnies exploitent déjà la cabine de l'A330-900 avec une configuration économique au maximum de ses possibilités. Ce nouveau seuil ouvre la voie à des aménagements encore plus denses."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "EASA erlaubt bis zu 480 Passagiere im Airbus A330-900",
+        "url": "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html",
+        "date": "2026-11-09T11:16:52Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Quinze sièges de plus : l’Airbus A330-900 repousse sa limite à 480 passagers, sous conditions",
+        "url": "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html",
+        "date": "2026-11-10T09:00:46Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996",
     "created": "2026-11-10T09:01:35Z",
     "updated": "2026-11-10T09:01:35Z",

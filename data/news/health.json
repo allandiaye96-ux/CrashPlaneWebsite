@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-10T09:01:04Z",
+  "run": "2026-11-10T09:10:34Z",
   "stats": {
     "fetched": 674,
     "new": 2,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.9434,
+  "spend_month_usd": 3.9617,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -430,6 +430,12 @@
       "breve": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96"
     },
     {
+      "dossier": "EASA capacité A330-900 480 passagers",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca"
+    },
+    {
       "dossier": "Philippine Airlines commande A350-1000",
       "statut": "corrobore",
       "editeurs": 2,
@@ -838,12 +844,6 @@
       "breve": null
     },
     {
-      "dossier": "EASA capacité A330-900 480 passagers",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Royal Navy drones frappe HMS Queen Elizabeth",
       "statut": "signale",
       "editeurs": 1,
@@ -881,6 +881,12 @@
     },
     {
       "dossier": "Cessna C172 soufflé par un B737 à Anaheim",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "United pilotes code détournement passager cockpit bombe",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 09:01:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 09:10:55 +0000</lastBuildDate>
+  <item>
+    <title>Airbus A330-900 : l&#x27;EASA relève la capacité maximale de 465 à 480 passagers, sous conditions</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:10:55 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Selon aero.de et Air Journal, l&#x27;Agence européenne de la sécurité aérienne (EASA) autorise désormais l&#x27;A330-900 à accueillir jusqu&#x27;à 480 passagers, contre 465 jusque-là. Ce plafond est assorti de conditions.</description>
+  </item>
   <item>
     <title>Crash d&#x27;un Learjet 60 en Floride : le NTSB a récupéré l&#x27;enregistreur de conversations du poste de pilotage</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 20:10:55 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Air Canada annule trois routes long-courriers exploitées avec le Boeing 737 MAX. Le média évoque une réaffectation de liaisons transatlantiques à l&#x27;Airbus A321XLR.</description>
-  </item>
-  <item>
-    <title>Qantas annonce des vols directs Sydney–Le Cap en 787-9, du 19 octobre 2027 au 24 mars 2028</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c/</guid>
-    <pubDate>Fri, 06 Nov 2026 20:01:51 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Australian Aviation, Qantas lancera les premiers vols sans escale d&#x27;Australie vers Le Cap, au départ de Sydney, avec trois fréquences hebdomadaires en Boeing 787-9 Dreamliner.</description>
   </item>
 </channel>
 </rss>
