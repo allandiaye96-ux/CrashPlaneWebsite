@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html": "2026-10-31T10:01:02Z",
     "https://simpleflying.com/how-retrofit-avionics-reviving-aging-cessnas-pipers/": "2026-10-31T11:00:59Z",
     "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html": "2026-10-31T11:00:59Z",
     "https://simpleflying.com/ryanair-cancels-19-more-uk-routes/": "2026-10-31T12:00:58Z",
@@ -1368,7 +1367,8 @@
     "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422": "2026-11-10T09:20:35Z",
     "https://www.airliners.de/frequentis-faa-freigabe-digital-tower/91419": "2026-11-10T09:20:35Z",
     "https://www.airliners.de/etihad-investiert-insidern-millionen-condor/91417": "2026-11-10T09:20:35Z",
-    "https://www.aero.de/news-54135/Hensoldt-peilt-zweistelligen-Milliardenumsatz-an.html": "2026-11-10T09:40:34Z"
+    "https://www.aero.de/news-54135/Hensoldt-peilt-zweistelligen-Milliardenumsatz-an.html": "2026-11-10T09:40:34Z",
+    "https://www.air-journal.fr/2026-11-10-avec-hans-zimmer-qatar-airways-donne-une-bande-originale-au-voyage-2-5278762.html": "2026-11-10T10:01:04Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5487,6 +5487,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.000314
+    "2026-11": 4.001117
   }
 }
