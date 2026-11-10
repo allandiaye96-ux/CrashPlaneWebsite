@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-10T00:01:03Z",
+  "run": "2026-11-10T00:10:33Z",
   "stats": {
     "fetched": 675,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8761,
+  "spend_month_usd": 3.8769,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -875,6 +875,12 @@
     },
     {
       "dossier": "Nouvelles images du drone GJ-11 chinois",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

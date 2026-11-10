@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airbus-a321xlr-parked-jetblue-wizz-air-kept-iberia-qantas/": "2026-10-31T00:01:04Z",
-    "https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate": "2026-10-31T00:10:31Z",
     "https://simpleflying.com/mid-size-florida-hub-betting-delta-air-lines-international-gateway/": "2026-10-31T00:30:49Z",
     "https://simpleflying.com/new-light-sport-rules-opening-up-general-flying/": "2026-10-31T01:00:58Z",
     "https://simpleflying.com/why-worlds-original-boeing-787s-22000-lbs-heavier-ones-built-now/": "2026-10-31T05:01:00Z",
@@ -1362,7 +1360,8 @@
     "https://www.air-journal.fr/2026-11-10-le-10-novembre-1927-dans-le-ciel-mackenzie-richards-victime-dun-accident-mortel-5278759.html": "2026-11-09T23:10:36Z",
     "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/": "2026-11-09T23:30:48Z",
     "https://simpleflying.com/delta-1st-a350-1000-spotted-debut-june-2027/": "2026-11-09T23:50:33Z",
-    "https://simpleflying.com/5-reasons-premium-economy-beat-business-class-value/": "2026-11-10T00:01:03Z"
+    "https://simpleflying.com/5-reasons-premium-economy-beat-business-class-value/": "2026-11-10T00:01:03Z",
+    "https://simpleflying.com/ntsb-recovers-cockpit-voice-recorder-miami-crash-on-scene-investigation/": "2026-11-10T00:10:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5327,10 +5326,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cd406e85996": {
+      "id": "cd406e85996",
+      "label": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
+      "categorie": "Enquête",
+      "importance": 3,
+      "created": "2026-11-10T00:10:47Z",
+      "updated": "2026-11-10T00:10:47Z",
+      "items": [
+        {
+          "id": "66c04eb7203989a6",
+          "feed": "Simple Flying",
+          "title": "NTSB Recovers Cockpit Voice Recorder From Miami Crash As On-Scene Investigation Ends",
+          "url": "https://simpleflying.com/ntsb-recovers-cockpit-voice-recorder-miami-crash-on-scene-investigation/",
+          "domain": "simpleflying.com",
+          "summary": "Fragments found miles from the impact crater include tail sections, supporting evidence of in flight structural failure.",
+          "published": "2026-11-10T00:02:59Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.876099
+    "2026-11": 3.876917
   }
 }
