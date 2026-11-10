@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/the-top-highest-paid-usaf-pilot-ranks-average-salaries-in-2026/": "2026-10-31T17:30:48Z",
-    "https://simpleflying.com/real-reason-why-delta-air-lines-brought-back-the-boeing-747/": "2026-10-31T17:30:48Z",
     "https://www.aerotime.aero/articles/sri-lanka-namal-rajapaksa-airbus-bribery-charges": "2026-10-31T17:40:34Z",
     "https://simpleflying.com/all-3-us-legacy-carriers-fly-boeing-737-max-10-not-airbus-a321xlr/": "2026-10-31T18:00:55Z",
     "https://simpleflying.com/worlds-most-efficient-single-aisle-aircraft-has-airbus-worried-26/": "2026-10-31T18:50:34Z",
@@ -1407,7 +1405,8 @@
     "https://www.airliners.de/boeing-liefert-oktober-weniger-flugzeuge-aus/91453": "2026-11-10T17:20:37Z",
     "https://www.airliners.de/trelleborg-verlagert-dichtungsfertigung-737-max-777x-marokko/91452": "2026-11-10T17:20:37Z",
     "https://www.airliners.de/pilotenverbaende-kritisieren-behoerdenvorgehen-bombendrohungen/91435": "2026-11-10T17:20:37Z",
-    "https://www.airliners.de/eurowings-premium-biz-seat-drei-weitere-strecken/91444": "2026-11-10T17:20:37Z"
+    "https://www.airliners.de/eurowings-premium-biz-seat-drei-weitere-strecken/91444": "2026-11-10T17:20:37Z",
+    "https://airlinegeeks.com/2026/11/10/a350-1000ulr-sets-new-distance-record/": "2026-11-10T17:30:54Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -4518,7 +4517,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T14:50:45Z",
-      "updated": "2026-11-10T07:01:20Z",
+      "updated": "2026-11-10T17:31:09Z",
       "items": [
         {
           "id": "cf13344b8de74db0",
@@ -4555,10 +4554,19 @@
           "domain": "air-journal.fr",
           "summary": "L’Airbus A350-1000ULR développé pour Qantas a parcouru 23 155 kilomètres sans escale entre Melbourne et Toulouse, lors d’un vol d’essai de 24 heures et 24 minutes réalisé en juillet. Annoncée le 9 novembre 2026 par Airbus, cette performance, reconnue selon le constructeur par Guinness World Records, prépare l’arrivée des liaisons sans escale du « Project […]",
           "published": "2026-11-10T07:00:46Z"
+        },
+        {
+          "id": "e54454805c8c2ee3",
+          "feed": "AirlineGeeks",
+          "title": "A350-1000ULR Sets New Distance Record",
+          "url": "https://airlinegeeks.com/2026/11/10/a350-1000ulr-sets-new-distance-record/",
+          "domain": "airlinegeeks.com",
+          "summary": "The aircraft flew nonstop from Melbourne to Toulouse, France.",
+          "published": "2026-11-10T17:30:00Z"
         }
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-      "written_count": 4
+      "written_count": 5
     },
     "c4ee0ae593f": {
       "id": "c4ee0ae593f",
@@ -5268,6 +5276,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.229374
+    "2026-11": 4.245717
   }
 }
