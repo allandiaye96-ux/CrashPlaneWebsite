@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-10T19:10:36Z",
+  "run": "2026-11-10T19:20:33Z",
   "stats": {
     "fetched": 675,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.2474,
+  "spend_month_usd": 4.2482,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
