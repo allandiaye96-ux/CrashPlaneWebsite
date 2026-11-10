@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z",
     "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/": "2026-10-31T08:00:56Z",
     "https://www.air-journal.fr/2026-10-31-air-transat-met-le-cap-sur-geneve-et-birmingham-pour-lete-2027-5278601.html": "2026-10-31T08:00:56Z",
     "https://www.air-journal.fr/2026-10-31-ebola-etats-unis-exigent-une-declaration-sanitaire-obligatoire-pour-les-voyageurs-aeriens-5278554.html": "2026-10-31T09:00:58Z",
@@ -1373,7 +1372,8 @@
     "https://www.journal-aviation.com/actualites-mro-support/revima-monte-en-puissance-sur-les-boeing-787-et-airbus-a350-et-vise-une-implantation-aux-etats-unis-20261110.html": "2026-11-10T06:40:44Z",
     "https://avitrader.com/2026/11/10/airbaltic-extends-lufthansa-wet-lease-deal/": "2026-11-10T06:50:33Z",
     "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html": "2026-11-10T07:01:05Z",
-    "https://avitrader.com/2026/11/10/d328eco-landing-gear-passes-flight-tests/": "2026-11-10T07:10:37Z"
+    "https://avitrader.com/2026/11/10/d328eco-landing-gear-passes-flight-tests/": "2026-11-10T07:10:37Z",
+    "https://www.airliners.de/united-oeffnet-flugsteig-washington-dulles/91409": "2026-11-10T07:20:40Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5351,6 +5351,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.925984
+    "2026-11": 3.926794
   }
 }
