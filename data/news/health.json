@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T05:40:35Z",
+  "run": "2026-11-10T05:50:37Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8818,
+  "spend_month_usd": 3.8826,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -881,6 +881,12 @@
     },
     {
       "dossier": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Budget allemand Eurofighter upgrade 300 M€",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
