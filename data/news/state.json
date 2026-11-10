@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-10-31-un-airbus-a321neo-de-lufthansa-aux-couleurs-de-douze-recits-de-salaries-5278596.html": "2026-10-31T06:00:58Z",
     "https://www.airliners.de/industrie-technik-zuliefererstreit-legt-777f-lahm-sun-express-hangar-airbus-air-france-klm-planen-a350-support/91216": "2026-10-31T06:10:32Z",
     "https://www.air-journal.fr/2026-10-31-nantes-atlantique-cinq-nouvelles-lignes-prennent-leur-envol-en-six-jours-5278600.html": "2026-10-31T07:00:59Z",
     "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z",
@@ -1365,7 +1364,10 @@
     "https://www.airliners.de/jin-air-chef-tritt-fusion-air-busan-air-seoul-ueck/91401": "2026-11-10T03:20:35Z",
     "https://www.airliners.de/thai-airways-kaempft-bangkok-frachtrueckstau/91399": "2026-11-10T04:20:33Z",
     "https://www.aero.de/news-54124/Flughafen-Muenchen-verkauf-Stadt.html": "2026-11-10T05:10:33Z",
-    "https://www.aero.de/news-54130/Bund-300-Millionen-Euro-fuer-Eurofighter-Upgrade.html": "2026-11-10T05:50:37Z"
+    "https://www.aero.de/news-54130/Bund-300-Millionen-Euro-fuer-Eurofighter-Upgrade.html": "2026-11-10T05:50:37Z",
+    "https://simpleflying.com/airbus-build-a340-600-such-long-fuselage/": "2026-11-10T06:00:59Z",
+    "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/": "2026-11-10T06:00:59Z",
+    "https://www.air-journal.fr/2026-11-10-icelandair-remplit-davantage-ses-avions-en-reduisant-la-voilure-5278757.html": "2026-11-10T06:00:59Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5372,10 +5374,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6c40cb11b9": {
+      "id": "c6c40cb11b9",
+      "label": "Qantas suppression 850 postes technologie Accenture",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-10T06:01:16Z",
+      "updated": "2026-11-10T06:01:16Z",
+      "items": [
+        {
+          "id": "c43913e14f2ba6f9",
+          "feed": "AviTrader",
+          "title": "Qantas targets 850 jobs in technology overhaul",
+          "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
+          "domain": "avitrader.com",
+          "summary": "Qantas Group has signed a multi-year strategic partnership with Accenture to modernise its technology infrastructure, simplify operations and accelerate the adoption of artificial intelligence (AI), a move expected to affect around 850 jobs over the coming years. The partnership will address more than 1,000 legacy applications that have accumulated across the airline over several decades, […] The post Qantas targets 850 jobs in technology overhaul appeared first on AviTrader Aviation News .",
+          "published": "2026-11-10T05:56:33Z"
+        }
+      ],
+      "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.882645
+    "2026-11": 3.891031
   }
 }

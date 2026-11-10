@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T05:50:37Z",
+  "run": "2026-11-10T06:00:59Z",
   "stats": {
     "fetched": 674,
-    "new": 1,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8826,
+  "spend_month_usd": 3.891,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -812,6 +812,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8"
+    },
+    {
+      "dossier": "Qantas suppression 850 postes technologie Accenture",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9"
     },
     {
       "dossier": "Enquête parquet de Paris fausses alertes à la bombe",

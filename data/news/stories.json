@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
+    "created": "2026-11-10T06:01:27Z",
+    "updated": "2026-11-10T06:01:27Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas s'associe à Accenture pour moderniser ses systèmes informatiques, environ 850 emplois concernés",
+    "chapo": "Selon AviTrader, le groupe Qantas a signé un partenariat stratégique pluriannuel avec Accenture afin de moderniser son infrastructure technologique et d'accélérer l'adoption de l'intelligence artificielle. Cette évolution devrait toucher environ 850 emplois dans les années à venir.",
+    "paragraphes": [
+      "D'après le média, ce partenariat vise aussi à simplifier les opérations de la compagnie australienne. Il doit traiter plus de 1 000 applications héritées du passé, accumulées au sein de l'entreprise au fil de plusieurs décennies."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Qantas targets 850 jobs in technology overhaul",
+        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
+        "date": "2026-11-10T05:56:33Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
     "created": "2026-11-09T21:01:23Z",
     "updated": "2026-11-09T23:31:06Z",

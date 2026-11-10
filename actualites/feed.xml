@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 05:50:56 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 06:01:27 +0000</lastBuildDate>
+  <item>
+    <title>Qantas s&#x27;associe à Accenture pour moderniser ses systèmes informatiques, environ 850 emplois concernés</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9/</guid>
+    <pubDate>Tue, 10 Nov 2026 06:01:27 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AviTrader, le groupe Qantas a signé un partenariat stratégique pluriannuel avec Accenture afin de moderniser son infrastructure technologique et d&#x27;accélérer l&#x27;adoption de l&#x27;intelligence artificielle. Cette évolution devrait toucher environ 850 emplois dans les années à venir.</description>
+  </item>
   <item>
     <title>Boeing va supprimer environ 5 % des postes de sa division avions commerciaux face à une montée en cadence difficile</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5/</link>
@@ -238,14 +246,6 @@
     <pubDate>Fri, 06 Nov 2026 20:01:47 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Australian Aviation, Qantas a augmenté d&#x27;environ 150 millions de dollars ses prévisions de dépenses de carburant pour le semestre se terminant le 31 décembre 2026, désormais estimées à 3,75 milliards de dollars. La compagnie envisage aussi de réduire sa capacité.</description>
-  </item>
-  <item>
-    <title>Virgin Australia : les employés représentés par l&#x27;ASU poursuivent leur action syndicale et suspendent l&#x27;embarquement prioritaire</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-06-virgin-australia-les-employes-representes-par-l-asu-poursuiv-d77b/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-06-virgin-australia-les-employes-representes-par-l-asu-poursuiv-d77b/</guid>
-    <pubDate>Fri, 06 Nov 2026 20:01:43 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Australian Aviation, les salariés de Virgin représentés par l&#x27;Australian Services Union (ASU) maintiennent leur action protégée, alors que les négociations sur un nouvel accord d&#x27;entreprise restent bloquées.</description>
   </item>
 </channel>
 </rss>
