@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T15:10:34Z",
+  "run": "2026-11-10T15:20:35Z",
   "stats": {
     "fetched": 674,
-    "new": 1,
-    "written": 0,
+    "new": 7,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.1318,
+  "spend_month_usd": 4.1698,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -136,6 +136,12 @@
       "breve": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211"
     },
     {
+      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
@@ -152,12 +158,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
-    },
-    {
-      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
     },
     {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
@@ -232,6 +232,12 @@
       "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
+      "dossier": "Dulles modernisation 20 Md$ hub United",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
+    },
+    {
       "dossier": "Quasi-collision LAX Air France A350 American A321",
       "statut": "corrobore",
       "editeurs": 3,
@@ -242,6 +248,12 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
+    },
+    {
+      "dossier": "EASA capacité A330-900 480 passagers",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca"
     },
     {
       "dossier": "American Airlines reprise Port-au-Prince Haïti",
@@ -260,12 +272,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9"
-    },
-    {
-      "dossier": "Avolon lance la plateforme Constellation Aviation",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491"
     },
     {
       "dossier": "Airbus Aliaca VTOL qualifié Marine nationale",
@@ -364,12 +370,6 @@
       "breve": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767"
     },
     {
-      "dossier": "Dulles modernisation 20 Md$ hub United",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
-    },
-    {
       "dossier": "Rapport ANSV A320 Air Arabia Maroc Catane",
       "statut": "corrobore",
       "editeurs": 2,
@@ -380,12 +380,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96"
-    },
-    {
-      "dossier": "EASA capacité A330-900 480 passagers",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca"
     },
     {
       "dossier": "Philippine Airlines commande A350-1000",
@@ -857,6 +851,12 @@
     },
     {
       "dossier": "Pistorius critique échec FCAS",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Learjet 60 Floride enregistreur vocal",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

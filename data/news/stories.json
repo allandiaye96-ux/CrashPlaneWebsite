@@ -2,23 +2,23 @@
   {
     "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
     "created": "2026-11-10T13:50:59Z",
-    "updated": "2026-11-10T14:21:00Z",
-    "version": 3,
+    "updated": "2026-11-10T15:21:06Z",
+    "version": 4,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Lufthansa reçoit son premier A350-1000, également son 700e appareil Airbus",
-    "chapo": "Lufthansa a pris livraison de son premier Airbus A350-1000, qui est aussi le 700e avion du constructeur dans sa flotte, selon Airbus et Le Journal de l'Aviation.",
+    "titre": "Lufthansa reçoit son premier Airbus A350-1000, aussi son 700e appareil du constructeur",
+    "chapo": "Lufthansa a pris livraison de son premier A350-1000 le 10 novembre 2026, selon AeroTime. L'appareil, immatriculé D-AIFA, est également le 700e Airbus de la compagnie, d'après Le Journal de l'Aviation.",
     "paragraphes": [
-      "D'après aero.de, l'appareil, immatriculé D-AIFA, est arrivé sur la plate-forme de Munich. La compagnie allemande doit l'engager dans un premier temps vers des destinations en Asie.",
-      "Le Journal de l'Aviation précise qu'il s'agit du septième avion de Lufthansa à porter une livrée spéciale commémorative. Selon aero.de, la compagnie compte sur ses nouveaux services premium à bord pour séduire les passagers, tandis que Simple Flying y voit le début d'une nouvelle ère pour les gros-porteurs du transporteur allemand."
+      "La livraison a eu lieu à Toulouse, d'après AeroTime. L'avion a ensuite rejoint le hub de Munich, selon aero.de. Le Journal de l'Aviation précise qu'il s'agit du septième appareil de la compagnie à porter une livrée spéciale commémorative.",
+      "Selon aero.de, Lufthansa va d'abord déployer la D-AIFA sur des destinations en Asie. Le média relève aussi que la compagnie mise à bord sur ses nouvelles offres premium pour séduire les passagers."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 5,
+      "independent_sources": 6,
       "official_source": false
     },
     "sources": [
@@ -55,6 +55,112 @@
         "title": "New Long-Haul Era: Lufthansa Receives 1st A350-1000 & 700th Airbus Jet Overall",
         "url": "https://simpleflying.com/lufthansa-first-a350-1000-delivery-700th-airbus-overall/",
         "date": "2026-11-10T14:13:54Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Lufthansa receives first A350-1000, its 700th Airbus aircraft",
+        "url": "https://www.aerotime.aero/articles/lufthansa-receives-first-a350-1000-its-700th-airbus-aircraft",
+        "date": "2026-11-10T15:05:30Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
+    "created": "2026-11-10T09:10:55Z",
+    "updated": "2026-11-10T15:21:02Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Airbus A330-900 : l'EASA relève la capacité maximale de 465 à 480 passagers, sous conditions",
+    "chapo": "L'Agence européenne de la sécurité aérienne (EASA) autorise désormais jusqu'à 480 passagers à bord de l'Airbus A330-900, contre 465 jusqu'ici, selon Air Journal. Cette hausse est soumise à des conditions techniques.",
+    "paragraphes": [
+      "Le relèvement de quinze places a été intégré à la dernière mise à jour du document de certification européen de l'appareil, d'après Air Journal. Il suppose une modification des équipements d'évacuation ainsi qu'un aménagement de cabine approuvé.",
+      "Selon airliners.de, la validation est liée à une adaptation technique des issues de secours. Aero.de rappelle que certaines compagnies exploitent déjà la cabine de l'A330-900 avec une configuration économique très dense, et que cette évolution permettrait d'installer encore davantage de sièges."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "EASA erlaubt bis zu 480 Passagiere im Airbus A330-900",
+        "url": "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html",
+        "date": "2026-11-09T11:16:52Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Quinze sièges de plus : l’Airbus A330-900 repousse sa limite à 480 passagers, sous conditions",
+        "url": "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html",
+        "date": "2026-11-10T09:00:46Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "EASA hebt Höchstkapazität der A330-900 auf 480 Plätze an",
+        "url": "https://www.airliners.de/easa-hebt-hoechstkapazitaet-a330-900-480-plaetze/91440",
+        "date": "2026-11-10T15:13:24Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
+    "created": "2026-11-07T20:01:11Z",
+    "updated": "2026-11-10T15:20:55Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "United ouvre un nouveau concourse E de 14 portes à Washington Dulles, une première en 20 ans",
+    "chapo": "Selon Simple Flying, United Airlines inaugure à Washington Dulles son premier nouveau concourse depuis 20 ans, avec 14 portes et un nouveau salon United Club. AeroTime précise qu'il s'agit du concourse E, ouvert avec l'autorité aéroportuaire de la région de Washington.",
+    "paragraphes": [
+      "D'après AirlineGeeks, la compagnie prévoit de dépasser les 300 départs quotidiens depuis cette plateforme l'été prochain. Le nouveau bâtiment s'inscrit dans le renforcement de la présence de United sur son hub de Washington.",
+      "Simple Flying évoque par ailleurs un programme de modernisation de l'aéroport dont le budget a triplé pour dépasser les 20 milliards de dollars, avec le remplacement prévu des concourses C et D."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
+        "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
+        "date": "2026-11-07T20:00:18Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
+        "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
+        "date": "2026-11-09T13:56:34Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "United Unveils 14-Gate Concourse at Dulles",
+        "url": "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/",
+        "date": "2026-11-09T16:15:57Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "United Airlines opens new Concourse E at Washington Dulles Airport",
+        "url": "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport",
+        "date": "2026-11-10T14:57:43Z",
         "official": false
       }
     ]
@@ -355,45 +461,6 @@
     ]
   },
   {
-    "id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
-    "created": "2026-11-10T09:10:55Z",
-    "updated": "2026-11-10T09:10:55Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Sécurité et réglementation",
-    "importance": 2,
-    "titre": "Airbus A330-900 : l'EASA relève la capacité maximale de 465 à 480 passagers, sous conditions",
-    "chapo": "Selon aero.de et Air Journal, l'Agence européenne de la sécurité aérienne (EASA) autorise désormais l'A330-900 à accueillir jusqu'à 480 passagers, contre 465 jusque-là. Ce plafond est assorti de conditions.",
-    "paragraphes": [
-      "Le relèvement de quinze places figure dans la dernière mise à jour du document de certification européen de l'appareil, indique Air Journal. Il suppose une modification des équipements d'évacuation ainsi qu'un aménagement de cabine validé.",
-      "D'après aero.de, certaines compagnies exploitent déjà la cabine de l'A330-900 avec une configuration économique au maximum de ses possibilités. Ce nouveau seuil ouvre la voie à des aménagements encore plus denses."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "EASA erlaubt bis zu 480 Passagiere im Airbus A330-900",
-        "url": "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html",
-        "date": "2026-11-09T11:16:52Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Quinze sièges de plus : l’Airbus A330-900 repousse sa limite à 480 passagers, sous conditions",
-        "url": "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html",
-        "date": "2026-11-10T09:00:46Z",
-        "official": false
-      }
-    ]
-  },
-  {
     "id": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996",
     "created": "2026-11-10T09:01:35Z",
     "updated": "2026-11-10T09:01:35Z",
@@ -644,52 +711,6 @@
         "title": "Air Baltic und Lufthansa entflechten Wetlease-Beziehung",
         "url": "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html",
         "date": "2026-11-09T16:25:59Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
-    "created": "2026-11-07T20:01:11Z",
-    "updated": "2026-11-09T16:21:01Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Aéroports",
-    "importance": 2,
-    "titre": "United inaugure à Washington Dulles un nouveau concourse de 14 portes, premier en 20 ans",
-    "chapo": "Selon Simple Flying et AirlineGeeks, United Airlines a ouvert un nouveau concourse de 14 portes à Washington Dulles, le premier du genre sur cette plateforme depuis 20 ans.",
-    "paragraphes": [
-      "D'après Simple Flying, parmi les principales nouveautés figurent les 14 portes d'embarquement et un nouveau salon United Club. AirlineGeeks indique que la compagnie prévoit de dépasser les 300 départs quotidiens depuis ce hub l'été prochain.",
-      "Ce nouveau concourse s'inscrit dans un projet plus large : toujours d'après Simple Flying, le budget de modernisation de l'aéroport a triplé et dépasse désormais 20 milliards de dollars, avec le remplacement prévu des concourses C et D."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
-        "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
-        "date": "2026-11-07T20:00:18Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
-        "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
-        "date": "2026-11-09T13:56:34Z",
-        "official": false
-      },
-      {
-        "name": "AirlineGeeks",
-        "title": "United Unveils 14-Gate Concourse at Dulles",
-        "url": "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/",
-        "date": "2026-11-09T16:15:57Z",
         "official": false
       }
     ]

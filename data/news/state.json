@@ -1393,7 +1393,14 @@
     "https://www.airliners.de/deutschland-niederlande-enger-schienenverkehr-zusammenarbeiten/91427": "2026-11-10T14:20:38Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-recoit-son-1er-airbus-a350-1000-20261110.html": "2026-11-10T14:20:38Z",
     "https://airlinegeeks.com/2026/11/10/frontier-begins-first-class-ticket-sales/": "2026-11-10T15:01:08Z",
-    "https://www.aero.de/news-54140/Syrian-Airlines-fliegt-vom-BER-nach-Damaskus.html": "2026-11-10T15:10:34Z"
+    "https://www.aero.de/news-54140/Syrian-Airlines-fliegt-vom-BER-nach-Damaskus.html": "2026-11-10T15:10:34Z",
+    "https://www.aerotime.aero/articles/lufthansa-receives-first-a350-1000-its-700th-airbus-aircraft": "2026-11-10T15:20:35Z",
+    "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport": "2026-11-10T15:20:35Z",
+    "https://www.airliners.de/easa-hebt-hoechstkapazitaet-a330-900-480-plaetze/91440": "2026-11-10T15:20:35Z",
+    "https://www.airliners.de/flughafen-ber-richtet-shuttle-beschaeftigte-selchow/91439": "2026-11-10T15:20:35Z",
+    "https://www.airliners.de/hensoldt-umsatz-2035-zehn-milliarden-euro/91438": "2026-11-10T15:20:35Z",
+    "https://www.airliners.de/syrian-airlines-strecken-damaskus-deutschland/91437": "2026-11-10T15:20:35Z",
+    "https://www.airliners.de/ermittler-bergen-stimmenrekorder-learjet-absturz-florida/91436": "2026-11-10T15:20:35Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -1733,36 +1740,6 @@
         }
       ],
       "story_id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
-      "written_count": 2
-    },
-    "c45e860d491": {
-      "id": "c45e860d491",
-      "label": "Avolon lance la plateforme Constellation Aviation",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-03T06:20:56Z",
-      "updated": "2026-11-03T15:10:55Z",
-      "items": [
-        {
-          "id": "ed85fb7cb2d793f3",
-          "feed": "airliners.de",
-          "title": "Avolon gründet Leasingplattform Constellation Aviation",
-          "url": "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255",
-          "domain": "airliners.de",
-          "summary": "Avolon hat mit dem Infrastrukturinvestor I Squared Capital und einer Tochter der Abu Dhabi Investment Authority (ADIA) die Leasingplattform Constellation Aviation gegründet. Sie soll von Avolon zum Start 22 Flugzeuge im Marktwert von 1,4 Milliarden US-Dollar (rund 1,25 Milliarden Euro) übernehmen, teilte der Leasinggeber mit.",
-          "published": "2026-11-03T05:21:00Z"
-        },
-        {
-          "id": "3baacef6c1f3711c",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Avolon crée Constellation Aviation",
-          "url": "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html",
-          "domain": "journal-aviation.com",
-          "summary": "Avolon s’est associé à I Squared Capital, une filiale à 100 % du fonds d’investissement d’Abou Dhabi (ADIA), pour créer une nouvelle société de leasing, Constellation Aviation. Lorsque la transaction […] L’article Avolon crée Constellation Aviation a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-03T15:03:50Z"
-        }
-      ],
-      "story_id": "2026-11-03-avolon-lance-avec-i-squared-capital-et-une-filiale-d-adia-la-d491",
       "written_count": 2
     },
     "c33d94ac6de": {
@@ -4069,7 +4046,7 @@
       "categorie": "Aéroports",
       "importance": 2,
       "created": "2026-11-07T20:01:09Z",
-      "updated": "2026-11-09T16:20:58Z",
+      "updated": "2026-11-10T15:20:51Z",
       "items": [
         {
           "id": "c06e6550c9948be5",
@@ -4097,10 +4074,19 @@
           "domain": "airlinegeeks.com",
           "summary": "The airline expects to top 300 daily departures from the hub next summer.",
           "published": "2026-11-09T16:15:57Z"
+        },
+        {
+          "id": "6178a059ac076dde",
+          "feed": "AeroTime",
+          "title": "United Airlines opens new Concourse E at Washington Dulles Airport",
+          "url": "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport",
+          "domain": "aerotime.aero",
+          "summary": "United Airlines and the Metropolitan Washington Airports Authority is set to open a new concourse at Washington Dulles… The post United Airlines opens new Concourse E at Washington Dulles Airport appeared first on AeroTime .",
+          "published": "2026-11-10T14:57:43Z"
         }
       ],
       "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
-      "written_count": 3
+      "written_count": 4
     },
     "cc2e38be887": {
       "id": "cc2e38be887",
@@ -4456,7 +4442,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 2,
       "created": "2026-11-09T11:20:50Z",
-      "updated": "2026-11-10T09:10:48Z",
+      "updated": "2026-11-10T15:20:51Z",
       "items": [
         {
           "id": "f43f010b9874475a",
@@ -4475,10 +4461,19 @@
           "domain": "air-journal.fr",
           "summary": "L’Airbus A330-900 peut désormais être certifié pour accueillir jusqu’à 480 passagers, contre 465 auparavant. Cette hausse de quinze places, inscrite dans la dernière révision de la fiche de certification européenne du gros-porteur, reste conditionnée à une modification des équipements d’évacuation et à un aménagement intérieur approuvé. A330-900 : une capacité maximale relevée de 465 à 480 […]",
           "published": "2026-11-10T09:00:46Z"
+        },
+        {
+          "id": "ff5bbcbe14c8c841",
+          "feed": "airliners.de",
+          "title": "EASA hebt Höchstkapazität der A330-900 auf 480 Plätze an",
+          "url": "https://www.airliners.de/easa-hebt-hoechstkapazitaet-a330-900-480-plaetze/91440",
+          "domain": "airliners.de",
+          "summary": "Die EASA hat die zulässige Höchstzahl an Passagieren für den Airbus A330-900 von 465 auf 480 angehoben. Die Freigabe ist allerdings an eine technische Nachrüstung der Notausgänge geknüpft.",
+          "published": "2026-11-10T15:13:24Z"
         }
       ],
       "story_id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
-      "written_count": 2
+      "written_count": 3
     },
     "c7d44cb2dfe": {
       "id": "c7d44cb2dfe",
@@ -5143,7 +5138,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:50:53Z",
-      "updated": "2026-11-10T14:20:54Z",
+      "updated": "2026-11-10T15:20:51Z",
       "items": [
         {
           "id": "bd3e2f64b8f737c8",
@@ -5189,10 +5184,19 @@
           "domain": "journal-aviation.com",
           "summary": "Lufthansa a célébré la livraison de son premier A350-1000, qui se trouve être également son 700e Airbus. Il s’agit par ailleurs de son septième appareil revêtant une livrée spéciale commémorant […] L’article Lufthansa reçoit son 1er Airbus A350-1000 a été publié sur Le Journal de l’Aviation .",
           "published": "2026-11-10T14:13:36Z"
+        },
+        {
+          "id": "102b34487517778a",
+          "feed": "AeroTime",
+          "title": "Lufthansa receives first A350-1000, its 700th Airbus aircraft",
+          "url": "https://www.aerotime.aero/articles/lufthansa-receives-first-a350-1000-its-700th-airbus-aircraft",
+          "domain": "aerotime.aero",
+          "summary": "Lufthansa took delivery of its first Airbus A350-1000 aircraft in Toulouse, France, on November 10, 2026. The A350-1000,… The post Lufthansa receives first A350-1000, its 700th Airbus aircraft appeared first on AeroTime .",
+          "published": "2026-11-10T15:05:30Z"
         }
       ],
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-      "written_count": 5
+      "written_count": 6
     },
     "cbd12c0c2c8": {
       "id": "cbd12c0c2c8",
@@ -5214,10 +5218,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6df12d70b5": {
+      "id": "c6df12d70b5",
+      "label": "Learjet 60 Floride enregistreur vocal",
+      "categorie": "Enquête",
+      "importance": 3,
+      "created": "2026-11-10T15:20:51Z",
+      "updated": "2026-11-10T15:20:51Z",
+      "items": [
+        {
+          "id": "336a5028786ebcc6",
+          "feed": "airliners.de",
+          "title": "Ermittler bergen Stimmenrekorder nach Learjet-Absturz in Florida",
+          "url": "https://www.airliners.de/ermittler-bergen-stimmenrekorder-learjet-absturz-florida/91436",
+          "domain": "airliners.de",
+          "summary": "Nach dem Absturz eines Learjet 60 auf ein Wohngebiet in Florida haben Ermittler den Stimmenrekorder aus dem Cockpit geborgen. Ob er Tonaufnahmen gespeichert hat, ist noch offen. Bei dem Unglück Anfang November waren alle neun Insassen ums Leben gekommen.",
+          "published": "2026-11-10T14:37:36Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.13183
+    "2026-11": 4.169836
   }
 }
