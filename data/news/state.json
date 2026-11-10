@@ -1374,7 +1374,8 @@
     "https://www.airliners.de/united-oeffnet-flugsteig-washington-dulles/91409": "2026-11-10T07:20:40Z",
     "https://www.aero.de/news-54131/Frueher-bei-Lufthansa-jetzt-im-ewigen-Eis.html": "2026-11-10T07:30:51Z",
     "https://www.air-journal.fr/2026-11-10-emirates-marie-finance-islamique-et-leasing-francais-pour-deux-a350-5278760.html": "2026-11-10T08:10:38Z",
-    "https://www.airliners.de/smartwings-ernennt-vorstandsvorsitzenden/91411": "2026-11-10T08:20:35Z"
+    "https://www.airliners.de/smartwings-ernennt-vorstandsvorsitzenden/91411": "2026-11-10T08:20:35Z",
+    "https://www.aero.de/news-54132/Boeing-737-pustet-Cessna-C172-um.html": "2026-11-10T08:30:54Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5348,10 +5349,31 @@
       ],
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
       "written_count": 1
+    },
+    "c741b1381b9": {
+      "id": "c741b1381b9",
+      "label": "Cessna C172 soufflé par un B737 à Anaheim",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-10T08:31:13Z",
+      "updated": "2026-11-10T08:31:13Z",
+      "items": [
+        {
+          "id": "3734d4b040242941",
+          "feed": "aero.de",
+          "title": "Boeing 737 pustet Cessna C172 um",
+          "url": "https://www.aero.de/news-54132/Boeing-737-pustet-Cessna-C172-um.html",
+          "domain": "aero.de",
+          "summary": "ANAHEIM - In Kalifornien rollt eine Cessna C172 in den Triebwerksstrahl einer Boeing 737. Das Kleinflugzeug wird umgepustet, die Insassen bleiben unverletzt.",
+          "published": "2026-11-10T08:28:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.929264
+    "2026-11": 3.930083
   }
 }

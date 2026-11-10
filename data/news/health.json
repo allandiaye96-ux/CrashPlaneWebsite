@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-10T08:20:35Z",
+  "run": "2026-11-10T08:30:54Z",
   "stats": {
     "fetched": 674,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.9293,
+  "spend_month_usd": 3.9301,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -875,6 +875,12 @@
     },
     {
       "dossier": "Budget allemand Eurofighter upgrade 300 M€",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Cessna C172 soufflé par un B737 à Anaheim",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
