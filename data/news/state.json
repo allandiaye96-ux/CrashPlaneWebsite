@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/hidden-math-unleaded-avgas-reshaping-general-aviation/": "2026-10-31T16:01:00Z",
     "https://simpleflying.com/atlas-air-boeing-747-miami-smoke-american-airlines/": "2026-10-31T16:10:33Z",
     "https://simpleflying.com/trump-international-airport-stinger-missiles-drone-jammers/": "2026-10-31T16:40:33Z",
     "https://simpleflying.com/united-airlines-eyes-flights-to-uzbekistan-kazakhstan/": "2026-10-31T17:01:01Z",
@@ -1401,7 +1400,9 @@
     "https://www.airliners.de/hensoldt-umsatz-2035-zehn-milliarden-euro/91438": "2026-11-10T15:20:35Z",
     "https://www.airliners.de/syrian-airlines-strecken-damaskus-deutschland/91437": "2026-11-10T15:20:35Z",
     "https://www.airliners.de/ermittler-bergen-stimmenrekorder-learjet-absturz-florida/91436": "2026-11-10T15:20:35Z",
-    "https://theaviationist.com/2026/11/10/raf-mildenhall-security-threat-dispersal/": "2026-11-10T15:40:35Z"
+    "https://theaviationist.com/2026/11/10/raf-mildenhall-security-threat-dispersal/": "2026-11-10T15:40:35Z",
+    "https://simpleflying.com/why-qantas-taking-airbus-a321xlr-international-brisbane/": "2026-11-10T16:01:09Z",
+    "https://airlinegeeks.com/2026/11/10/jsx-adds-two-nonstop-routes-from-new-city/": "2026-11-10T16:01:09Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -5253,6 +5254,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.179419
+    "2026-11": 4.180258
   }
 }
