@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/delta-air-lines-grow-austin-footprint-new-flights-bentonville-2027/": "2026-10-31T19:20:34Z",
     "https://theaviationist.com/2026/10/31/u-s-armys-hades-prototype-completes-first-flight/": "2026-10-31T19:35:52Z",
     "https://simpleflying.com/airbus-hidden-airspace-design-tricks-make-narrowbody-cabins-bigger/": "2026-10-31T20:00:56Z",
     "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/": "2026-10-31T20:00:56Z",
@@ -1405,7 +1404,10 @@
     "https://simpleflying.com/frontier-airlines-first-class-launching-march-2027/": "2026-11-10T18:10:43Z",
     "https://simpleflying.com/only-73-miles-southwest-airlines-drops-very-short-route-as-flights-50pc-empty/": "2026-11-10T18:10:43Z",
     "https://www.twz.com/sea/aim-174b-long-range-missile-packed-with-glide-munitions-teased-new-details-shared": "2026-11-10T19:10:36Z",
-    "https://theaviationist.com/2026/11/10/usaf-using-hondajet-b1-aircrew-training/": "2026-11-10T19:20:33Z"
+    "https://theaviationist.com/2026/11/10/usaf-using-hondajet-b1-aircrew-training/": "2026-11-10T19:20:33Z",
+    "https://simpleflying.com/american-airlines-launches-23-new-routes-from-3-busiest-hubs/": "2026-11-10T19:30:53Z",
+    "https://simpleflying.com/air-transat-cancels-this-10-hour-route/": "2026-11-10T19:30:53Z",
+    "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav": "2026-11-10T19:30:53Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4774,7 +4776,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-09T23:01:22Z",
-      "updated": "2026-11-09T23:01:22Z",
+      "updated": "2026-11-10T19:31:11Z",
       "items": [
         {
           "id": "7ee78b922c472dd4",
@@ -4784,10 +4786,19 @@
           "domain": "theaviationist.com",
           "summary": "New official footage released ahead of the PLA Air Force’s 77th anniversary reveals additional details of the GJ-11’s design and configuration. China released new official footage of the GJ-11 ‘Sharp Sword’ unmanned combat aerial vehicle (UCAV) on Nov. 9, 2026, revealing additional features of its design and configuration. The release came two days before the […]",
           "published": "2026-11-09T22:48:31Z"
+        },
+        {
+          "id": "c5040e5d9a32b033",
+          "feed": "The War Zone",
+          "title": "China Lifts The Veil On Its GJ-11 Mysterious Dragon Stealth UCAV",
+          "url": "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav",
+          "domain": "twz.com",
+          "summary": "Beijing openly showcases the GJ-11 flying-wing combat drone and its strike and manned-unmanned teaming capabilities. The post China Lifts The Veil On Its GJ-11 Mysterious Dragon Stealth UCAV appeared first on TWZ .",
+          "published": "2026-11-10T19:27:30Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e",
+      "written_count": 2
     },
     "cd406e85996": {
       "id": "cd406e85996",
@@ -5206,6 +5217,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.248173
+    "2026-11": 4.260577
   }
 }

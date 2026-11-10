@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 19:20:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 19:31:17 +0000</lastBuildDate>
+  <item>
+    <title>Chine : de nouvelles images officielles dévoilent le drone de combat furtif GJ-11</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e/</guid>
+    <pubDate>Tue, 10 Nov 2026 19:31:17 +0000</pubDate>
+    <category>Défense</category>
+    <description>La Chine a diffusé le 9 novembre 2026 de nouvelles images officielles de son drone de combat GJ-11 « Sharp Sword », selon The Aviationist. Elles révèlent des détails supplémentaires sur sa conception et sa configuration.</description>
+  </item>
   <item>
     <title>Boeing : moins de livraisons en octobre, mais des commandes au plus haut pour un mois d&#x27;octobre depuis 1997</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sun, 08 Nov 2026 10:11:02 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon Aero-News Network, le spécialiste du marché secondaire AerFin a convenu de racheter 44 appareils à Qantas. Il s&#x27;agit de la plus grande opération de l&#x27;histoire de l&#x27;entreprise.</description>
-  </item>
-  <item>
-    <title>United ouvre un nouveau concourse E de 14 portes à Washington Dulles, une première en 20 ans</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903/</guid>
-    <pubDate>Sat, 07 Nov 2026 20:01:11 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Selon Simple Flying, United Airlines inaugure à Washington Dulles son premier nouveau concourse depuis 20 ans, avec 14 portes et un nouveau salon United Club. AeroTime précise qu&#x27;il s&#x27;agit du concourse E, ouvert avec l&#x27;autorité aéroportuaire de la région de Washington.</description>
   </item>
 </channel>
 </rss>

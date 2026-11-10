@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e",
+    "created": "2026-11-10T19:31:17Z",
+    "updated": "2026-11-10T19:31:17Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Chine : de nouvelles images officielles dévoilent le drone de combat furtif GJ-11",
+    "chapo": "La Chine a diffusé le 9 novembre 2026 de nouvelles images officielles de son drone de combat GJ-11 « Sharp Sword », selon The Aviationist. Elles révèlent des détails supplémentaires sur sa conception et sa configuration.",
+    "paragraphes": [
+      "D'après The Aviationist, cette diffusion intervient à l'approche du 77e anniversaire de l'armée de l'air de l'Armée populaire de libération. Le média y voit le meilleur aperçu à ce jour de l'appareil.",
+      "The War Zone décrit pour sa part un drone de combat furtif à aile volante, que Pékin met désormais en avant ouvertement. Selon le site, les images illustrent ses capacités de frappe ainsi que son emploi en coopération avec des appareils pilotés (manned-unmanned teaming)."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "Our Best Look Yet at China’s GJ-11 UCAV",
+        "url": "https://theaviationist.com/2026/11/09/our-best-look-yet-at-chinas-gj-11-ucav/",
+        "date": "2026-11-09T22:48:31Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "China Lifts The Veil On Its GJ-11 Mysterious Dragon Stealth UCAV",
+        "url": "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav",
+        "date": "2026-11-10T19:27:30Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
     "created": "2026-11-09T14:50:48Z",
     "updated": "2026-11-10T17:31:16Z",

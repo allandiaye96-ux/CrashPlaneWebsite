@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T19:20:33Z",
+  "run": "2026-11-10T19:30:53Z",
   "stats": {
-    "fetched": 675,
-    "new": 1,
-    "written": 0,
+    "fetched": 676,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.2482,
+  "spend_month_usd": 4.2606,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 30
+      "items": 31
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -386,6 +386,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8"
+    },
+    {
+      "dossier": "Nouvelles images du drone GJ-11 chinois",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e"
     },
     {
       "dossier": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
@@ -803,12 +809,6 @@
     },
     {
       "dossier": "Tytan production drones intercepteurs Munich",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Nouvelles images du drone GJ-11 chinois",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
