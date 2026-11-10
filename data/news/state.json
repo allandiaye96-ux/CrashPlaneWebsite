@@ -1380,48 +1380,10 @@
     "https://simpleflying.com/video/southwest-airlines-boeing-737-max-7s-to-debut-in-march-2027-with-7-more-seats-than-its-700s/": "2026-11-10T13:30:57Z",
     "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs": "2026-11-10T13:40:33Z",
     "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville": "2026-11-10T13:40:33Z",
-    "https://www.journal-aviation.com/actualites-mro-support/safran-devoile-fleetlife-sa-nouvelle-solution-de-maintenance-predictive-pour-equipements-20261110.html": "2026-11-10T13:40:33Z"
+    "https://www.journal-aviation.com/actualites-mro-support/safran-devoile-fleetlife-sa-nouvelle-solution-de-maintenance-predictive-pour-equipements-20261110.html": "2026-11-10T13:40:33Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft": "2026-11-10T13:50:33Z"
   },
   "clusters": {
-    "c4d06ce9da9": {
-      "id": "c4d06ce9da9",
-      "label": "JetBlue créanciers conseillers restructuration",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-10-28T21:16:42Z",
-      "updated": "2026-11-03T13:40:50Z",
-      "items": [
-        {
-          "id": "00f128e2750b0a0c",
-          "feed": "AeroTime",
-          "title": "JetBlue defends its finances as creditors hire restructuring advisers",
-          "url": "https://www.aerotime.aero/articles/jetblue-finances-creditors-restructuring-advisers",
-          "domain": "aerotime.aero",
-          "summary": "JetBlue is trying to reassure investors it can turn its business around after a group of creditors hired… The post JetBlue defends its finances as creditors hire restructuring advisers appeared first on AeroTime .",
-          "published": "2026-10-28T02:52:58Z"
-        },
-        {
-          "id": "dc86c1fe99fe2372",
-          "feed": "Simple Flying",
-          "title": "JetBlue’s Loan Companies Hire Special Advisors Over Repayment Concerns Of $8.4 Million Debt",
-          "url": "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/",
-          "domain": "simpleflying.com",
-          "summary": "JetBlue leadership remains set on no restructuring plans.",
-          "published": "2026-10-31T18:52:28Z"
-        },
-        {
-          "id": "d14c49623c73b843",
-          "feed": "Simple Flying",
-          "title": "JetBlue Creditors Call In Restructuring Experts As Shares Plummet To All-Time Low",
-          "url": "https://simpleflying.com/video/jetblue-creditors-call-in-restructuring-experts-as-shares-plummet-to-all-time-low/",
-          "domain": "simpleflying.com",
-          "summary": "First it was Spirit Airlines to cease operations but is JetBlue next!?Maybe the airline’s situation isn’t as extreme but a group of JetBlue's major creditors have hired restructuring advisers after the airline's shares hit record lows, raising questions about how the carrier will manage its debt while trying to return to profitability. According to The Wall Street Journal, financial adviser PJT Partners and law firm Akin Gump Strauss Hauer & Feld have been hired by creditors to help turn things around.",
-          "published": "2026-11-03T13:36:18Z"
-        }
-      ],
-      "story_id": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9",
-      "written_count": 3
-    },
     "c153f9923c1": {
       "id": "c153f9923c1",
       "label": "Ebola règles CDC déclaration US",
@@ -5225,10 +5187,31 @@
       ],
       "story_id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
       "written_count": 1
+    },
+    "cb1cac6cf6d": {
+      "id": "cb1cac6cf6d",
+      "label": "Lufthansa premier A350-1000 et 700e Airbus livré",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-10T13:50:53Z",
+      "updated": "2026-11-10T13:50:53Z",
+      "items": [
+        {
+          "id": "bd3e2f64b8f737c8",
+          "feed": "Airbus – Communiqués",
+          "title": "Lufthansa takes delivery of its first A350-1000 and 700th Airbus aircraft",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft",
+          "domain": "airbus.com",
+          "summary": "Read more about Lufthansa first A350-1000 delivery and the 700th Airbus aircraft delivered",
+          "published": null
+        }
+      ],
+      "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.071472
+    "2026-11": 4.086874
   }
 }

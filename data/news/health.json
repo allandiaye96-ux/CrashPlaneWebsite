@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T13:40:33Z",
+  "run": "2026-11-10T13:50:33Z",
   "stats": {
     "fetched": 674,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0715,
+  "spend_month_usd": 4.0869,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -242,12 +242,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
-    },
-    {
-      "dossier": "JetBlue créanciers conseillers restructuration",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-10-28-jetblue-defend-sa-situation-financiere-alors-que-des-creanci-9da9"
     },
     {
       "dossier": "American Airlines reprise Port-au-Prince Haïti",
@@ -800,6 +794,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
+    },
+    {
+      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
     },
     {
       "dossier": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",

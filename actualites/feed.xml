@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 13:40:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 13:50:59 +0000</lastBuildDate>
+  <item>
+    <title>Airbus livre à Lufthansa son premier A350-1000, 700e appareil de la compagnie</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d/</guid>
+    <pubDate>Tue, 10 Nov 2026 13:50:59 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon un communiqué d&#x27;Airbus, Lufthansa a reçu son premier A350-1000. Le constructeur associe cette remise à une livraison portant sur le 700e avion Airbus.</description>
+  </item>
   <item>
     <title>Embraer relève ses prévisions de chiffre d&#x27;affaires et de trésorerie après un trimestre record</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 07 Nov 2026 14:01:36 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Air Journal, ANA Holdings a signé un protocole d&#x27;accord pour acquérir l&#x27;intégralité de RegionalPlus Wings, structure regroupant les transporteurs Airdo et Solaseed Air.</description>
-  </item>
-  <item>
-    <title>Chine : les trois grands transporteurs pourraient afficher des pertes en 2026, selon Air Journal</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-chine-les-trois-grands-transporteurs-pourraient-afficher-des-88c2/</guid>
-    <pubDate>Sat, 07 Nov 2026 08:10:54 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>D&#x27;après Air Journal, les trois principales compagnies chinoises pourraient boucler l&#x27;exercice 2026 en déficit, en dépit de la taille du marché aérien du pays.</description>
   </item>
 </channel>
 </rss>

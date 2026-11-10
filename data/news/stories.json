@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
+    "created": "2026-11-10T13:50:59Z",
+    "updated": "2026-11-10T13:50:59Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Airbus livre à Lufthansa son premier A350-1000, 700e appareil de la compagnie",
+    "chapo": "Selon un communiqué d'Airbus, Lufthansa a reçu son premier A350-1000. Le constructeur associe cette remise à une livraison portant sur le 700e avion Airbus.",
+    "paragraphes": [
+      "D'après Airbus, la compagnie allemande devient ainsi destinataire de la toute première variante A350-1000 de sa flotte.",
+      "Le constructeur européen indique que cet appareil représente le 700e avion Airbus livré. Le communiqué renvoie vers une page dédiée pour en savoir plus sur cette livraison."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "Lufthansa takes delivery of its first A350-1000 and 700th Airbus aircraft",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
     "created": "2026-11-10T13:20:54Z",
     "updated": "2026-11-10T13:20:54Z",
