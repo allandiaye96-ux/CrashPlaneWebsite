@@ -1367,7 +1367,8 @@
     "https://www.airliners.de/dhl-express-tankt-paris-saf-totalenergies/91410": "2026-11-10T09:20:35Z",
     "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422": "2026-11-10T09:20:35Z",
     "https://www.airliners.de/frequentis-faa-freigabe-digital-tower/91419": "2026-11-10T09:20:35Z",
-    "https://www.airliners.de/etihad-investiert-insidern-millionen-condor/91417": "2026-11-10T09:20:35Z"
+    "https://www.airliners.de/etihad-investiert-insidern-millionen-condor/91417": "2026-11-10T09:20:35Z",
+    "https://www.aero.de/news-54135/Hensoldt-peilt-zweistelligen-Milliardenumsatz-an.html": "2026-11-10T09:40:34Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5486,6 +5487,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.999501
+    "2026-11": 4.000314
   }
 }
