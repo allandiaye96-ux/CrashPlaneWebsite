@@ -1,21 +1,21 @@
 {
-  "run": "2026-11-10T06:30:49Z",
+  "run": "2026-11-10T06:40:44Z",
   "stats": {
-    "fetched": 674,
-    "new": 0,
+    "fetched": 624,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8919,
+  "spend_month_usd": 3.8928,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
       "items": 50
     },
     "EASA – Communiqués": {
-      "ok": true,
-      "items": 50
+      "ok": false,
+      "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     "EASA – Actualités": {
       "ok": true,
