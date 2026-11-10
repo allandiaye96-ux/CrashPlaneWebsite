@@ -1366,7 +1366,10 @@
     "https://www.aero.de/news-54130/Bund-300-Millionen-Euro-fuer-Eurofighter-Upgrade.html": "2026-11-10T05:50:37Z",
     "https://simpleflying.com/airbus-build-a340-600-such-long-fuselage/": "2026-11-10T06:00:59Z",
     "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/": "2026-11-10T06:00:59Z",
-    "https://www.air-journal.fr/2026-11-10-icelandair-remplit-davantage-ses-avions-en-reduisant-la-voilure-5278757.html": "2026-11-10T06:00:59Z"
+    "https://www.air-journal.fr/2026-11-10-icelandair-remplit-davantage-ses-avions-en-reduisant-la-voilure-5278757.html": "2026-11-10T06:00:59Z",
+    "https://avitrader.com/2026/11/10/pem-air-secures-as9110-certification/": "2026-11-10T06:20:33Z",
+    "https://www.airliners.de/wirtschaft-finanzen-lufthansa-quartalszahlen-luftfahrt-arbeitskosten-spitzenreiter-flugzeuge-europa-netz/91418": "2026-11-10T06:20:33Z",
+    "https://www.airliners.de/hans-zimmer-komponiert-bordmusik-qatar-airways/91405": "2026-11-10T06:20:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -2073,27 +2076,6 @@
       ],
       "story_id": "2026-11-03-lufthansa-benefice-net-en-hausse-de-30-au-troisieme-trimestr-5cf9",
       "written_count": 4
-    },
-    "c426c1411ae": {
-      "id": "c426c1411ae",
-      "label": "Ryanair résultats semestriels S1 2026-2027",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-03T06:10:52Z",
-      "updated": "2026-11-03T06:10:52Z",
-      "items": [
-        {
-          "id": "6a5db81eeaee2f76",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Ryanair : le bénéfice net semestriel recule de 15%, impacté par le doublement du prix du carburant non couvert",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html",
-          "domain": "journal-aviation.com",
-          "summary": "Ryanair a annoncé le 2 novembre avoir réalisé un bénéfice net de 2,15 milliards d’euros au premier semestre de son exercice 2026-2027, en baisse de 15%, malgré un trafic en […] L’article Ryanair : le bénéfice net semestriel recule de 15%, impacté par le doublement du prix du carburant non couvert a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-03T06:02:48Z"
-        }
-      ],
-      "story_id": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae",
-      "written_count": 1
     },
     "c45e860d491": {
       "id": "c45e860d491",
@@ -5377,6 +5359,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.891031
+    "2026-11": 3.891911
   }
 }

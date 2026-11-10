@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T06:10:35Z",
+  "run": "2026-11-10T06:20:33Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.891,
+  "spend_month_usd": 3.8919,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -452,12 +452,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Ryanair résultats semestriels S1 2026-2027",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-03-ryanair-le-benefice-net-du-premier-semestre-2026-2027-recule-11ae"
     },
     {
       "dossier": "Airbus prêt BEI 3 Md€ menace trêve commerciale US",
