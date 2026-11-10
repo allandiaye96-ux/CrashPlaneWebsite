@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-10T18:20:38Z",
+  "run": "2026-11-10T18:30:54Z",
   "stats": {
     "fetched": 674,
     "new": 0,
@@ -254,12 +254,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca"
-    },
-    {
-      "dossier": "American Airlines reprise Port-au-Prince Haïti",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae"
     },
     {
       "dossier": "Bangkok Suvarnabhumi extension capacité",

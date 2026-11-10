@@ -1620,36 +1620,6 @@
       "story_id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
       "written_count": 6
     },
-    "cd37aa894ae": {
-      "id": "cd37aa894ae",
-      "label": "American Airlines reprise Port-au-Prince Haïti",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-03T00:40:47Z",
-      "updated": "2026-11-03T18:20:50Z",
-      "items": [
-        {
-          "id": "04d8ae578e66fa0b",
-          "feed": "Simple Flying",
-          "title": "Not Port-au-Prince: American Airlines Returns To Haiti After 2+ Years With All-Haitian Crew",
-          "url": "https://simpleflying.com/american-airlines-returns-haiti-2-hears-haitian-crew/",
-          "domain": "simpleflying.com",
-          "summary": "Flights from the US to the country's capital are still restricted.",
-          "published": "2026-11-03T00:31:33Z"
-        },
-        {
-          "id": "976dfb20065db6d9",
-          "feed": "AeroTime",
-          "title": "American Airlines resumes Haiti flights two years after aircraft shootings",
-          "url": "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026",
-          "domain": "aerotime.aero",
-          "summary": "American Airlines has resumed flights to Haiti for the first time in nearly two years, becoming the first… The post American Airlines resumes Haiti flights two years after aircraft shootings appeared first on AeroTime .",
-          "published": "2026-11-03T18:12:14Z"
-        }
-      ],
-      "story_id": "2026-11-03-american-airlines-reprend-ses-vols-vers-haiti-apres-plus-de-94ae",
-      "written_count": 2
-    },
     "c60a1ad6fc9": {
       "id": "c60a1ad6fc9",
       "label": "Bangkok Suvarnabhumi extension capacité",
