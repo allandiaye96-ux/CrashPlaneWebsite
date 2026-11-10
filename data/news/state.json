@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airlines-offering-stopover-packages-for-a-fraction-of-the-cost-of-a-separate-trip/": "2026-10-31T23:00:59Z",
     "https://simpleflying.com/lufthansa-crew-member-dies-electrocution-hotel-swimming-pool-layover/": "2026-10-31T23:10:38Z",
     "https://www.air-journal.fr/2026-11-01-le-1er-novembre-1908-dans-le-ciel-3e-vol-pour-le-clement-bayard-5278609.html": "2026-10-31T23:10:38Z",
     "https://simpleflying.com/cargolux-first-boeing-747-8f-tracked-one-week/": "2026-11-01T00:01:04Z",
@@ -1418,7 +1417,8 @@
     "https://www.aerotime.aero/articles/alpi-aviation-pioneer-800-twin-first-flight": "2026-11-10T22:10:35Z",
     "https://www.flightradar24.com/blog/aviation-news/airline-news/airline-routes/october-routes-roundup-air-france-to-launch-two-new-routes-to-the-us/": "2026-11-10T22:30:49Z",
     "https://simpleflying.com/alaska-airlines-launches-invite-only-global-concierge-status-to-rival-us-big-three/": "2026-11-10T22:50:34Z",
-    "https://theaviationist.com/2026/11/10/royal-navy-yfq-48a-aircraft-carrier-2027/": "2026-11-10T22:50:34Z"
+    "https://theaviationist.com/2026/11/10/royal-navy-yfq-48a-aircraft-carrier-2027/": "2026-11-10T22:50:34Z",
+    "https://simpleflying.com/premium-economy-us-airlines-big-3-compare/": "2026-11-10T23:01:02Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5357,6 +5357,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.333045
+    "2026-11": 4.33384
   }
 }
