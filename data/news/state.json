@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/a350-so-advanced-airbus-built-hidden-room-under-cockpit-house-digital-equipment/": "2026-10-31T14:10:34Z",
     "https://simpleflying.com/why-ultra-long-haul-pilots-perfer-uneven-4-6-2-rest-pattern-even-split-14-hour-flight/": "2026-10-31T15:01:00Z",
     "https://www.air-journal.fr/2026-10-31-lufthansa-group-lenregistrement-en-ligne-via-travel-id-progressivement-obligatoire-5278573.html": "2026-10-31T15:01:00Z",
     "https://simpleflying.com/british-airways-launches-4-major-new-long-haul-routes-see-full-list-now/": "2026-10-31T15:10:34Z",
@@ -1382,7 +1381,13 @@
     "https://www.journal-aviation.com/actualites-mro-support/safran-devoile-fleetlife-sa-nouvelle-solution-de-maintenance-predictive-pour-equipements-20261110.html": "2026-11-10T13:40:33Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft": "2026-11-10T13:50:33Z",
     "https://simpleflying.com/lufthansa-cancels-13-hour-nonstop-route/": "2026-11-10T14:01:03Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html": "2026-11-10T14:01:03Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html": "2026-11-10T14:01:03Z",
+    "https://simpleflying.com/tap-unveils-new-longest-a321lr-route/": "2026-11-10T14:10:36Z",
+    "https://www.aerotime.aero/articles/pistorius-fcas-collapse-ideology-contracts": "2026-11-10T14:10:36Z",
+    "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive": "2026-11-10T14:10:36Z",
+    "https://leehamnews.com/2026/11/10/why-did-comac-pursue-the-c919-600-shrink-chinas-high-altitude-demands/": "2026-11-10T14:10:36Z",
+    "https://www.aero.de/news-54139/Erster-Airbus-A350-1000-von-Lufthansa-landet-in-Muenchen.html": "2026-11-10T14:10:36Z",
+    "https://www.air-journal.fr/2026-11-10-sas-davantage-de-vols-vers-lasie-et-les-etats-unis-a-lete-2027-5278772.html": "2026-11-10T14:10:36Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -4997,7 +5002,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-10T06:01:16Z",
-      "updated": "2026-11-10T06:01:16Z",
+      "updated": "2026-11-10T14:10:51Z",
       "items": [
         {
           "id": "c43913e14f2ba6f9",
@@ -5007,10 +5012,19 @@
           "domain": "avitrader.com",
           "summary": "Qantas Group has signed a multi-year strategic partnership with Accenture to modernise its technology infrastructure, simplify operations and accelerate the adoption of artificial intelligence (AI), a move expected to affect around 850 jobs over the coming years. The partnership will address more than 1,000 legacy applications that have accumulated across the airline over several decades, […] The post Qantas targets 850 jobs in technology overhaul appeared first on AviTrader Aviation News .",
           "published": "2026-11-10T05:56:33Z"
+        },
+        {
+          "id": "1c49c3dbdf2da575",
+          "feed": "AeroTime",
+          "title": "Qantas to outsource 850 roles to India as part of major AI drive",
+          "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
+          "domain": "aerotime.aero",
+          "summary": "Qantas is planning to cut around 850 jobs which are currently being performed at its Mascot HQ near… The post Qantas to outsource 850 roles to India as part of major AI drive appeared first on AeroTime .",
+          "published": "2026-11-10T13:25:46Z"
         }
       ],
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
-      "written_count": 1
+      "written_count": 2
     },
     "c741b1381b9": {
       "id": "c741b1381b9",
@@ -5204,7 +5218,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:50:53Z",
-      "updated": "2026-11-10T13:50:53Z",
+      "updated": "2026-11-10T14:10:51Z",
       "items": [
         {
           "id": "bd3e2f64b8f737c8",
@@ -5214,14 +5228,44 @@
           "domain": "airbus.com",
           "summary": "Read more about Lufthansa first A350-1000 delivery and the 700th Airbus aircraft delivered",
           "published": null
+        },
+        {
+          "id": "5f06e24e9283b084",
+          "feed": "aero.de",
+          "title": "Erster Airbus A350-1000 von Lufthansa landet in München",
+          "url": "https://www.aero.de/news-54139/Erster-Airbus-A350-1000-von-Lufthansa-landet-in-Muenchen.html",
+          "domain": "aero.de",
+          "summary": "MÜNCHEN - Da ist das Ding: Lufthansa hat ihren ersten Airbus A350-1000 erhalten. Das Flugzeug ist am Dienstag am Drehkreuz München eingetroffen. Lufthansa wird mit der D-AIFA zunächst Ziele in Asien anfliegen. An Bord setzt Lufthansa erkennbar auf die Zugkraft ihrer neuen Premiumangebote.",
+          "published": "2026-11-10T14:06:44Z"
         }
       ],
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-      "written_count": 1
+      "written_count": 2
+    },
+    "cbd12c0c2c8": {
+      "id": "cbd12c0c2c8",
+      "label": "Pistorius critique échec FCAS",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-10T14:10:51Z",
+      "updated": "2026-11-10T14:10:51Z",
+      "items": [
+        {
+          "id": "b3b2a8b71ecc71bc",
+          "feed": "AeroTime",
+          "title": "Pistorius blames FCAS collapse on industry, ‘too much ideology",
+          "url": "https://www.aerotime.aero/articles/pistorius-fcas-collapse-ideology-contracts",
+          "domain": "aerotime.aero",
+          "summary": "France and Germany launched their flagship FCAS fighter project with too much ideology and too little attention to… The post Pistorius blames FCAS collapse on industry, ‘too much ideology appeared first on AeroTime .",
+          "published": "2026-11-10T14:00:44Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.095505
+    "2026-11": 4.116446
   }
 }

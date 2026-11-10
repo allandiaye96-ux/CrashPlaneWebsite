@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T14:01:03Z",
+  "run": "2026-11-10T14:10:36Z",
   "stats": {
     "fetched": 674,
-    "new": 2,
-    "written": 1,
+    "new": 6,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0955,
+  "spend_month_usd": 4.1164,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -418,6 +418,12 @@
       "breve": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996"
     },
     {
+      "dossier": "Qantas suppression 850 postes technologie Accenture",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9"
+    },
+    {
       "dossier": "Emirates Berlin suspension vol",
       "statut": "corrobore",
       "editeurs": 2,
@@ -428,6 +434,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
+    },
+    {
+      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
@@ -778,12 +790,6 @@
       "breve": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93"
     },
     {
-      "dossier": "Qantas suppression 850 postes technologie Accenture",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9"
-    },
-    {
       "dossier": "Frequentis Digital Tower FAA",
       "statut": "source_unique",
       "editeurs": 1,
@@ -794,12 +800,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd"
-    },
-    {
-      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
     },
     {
       "dossier": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",
@@ -869,6 +869,12 @@
     },
     {
       "dossier": "NH90 espagnols Alpha Scramble Roumanie drones",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Pistorius critique échec FCAS",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

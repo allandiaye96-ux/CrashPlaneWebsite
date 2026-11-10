@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
+    "created": "2026-11-10T13:50:59Z",
+    "updated": "2026-11-10T14:11:01Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa reçoit son premier Airbus A350-1000, livré à Munich sous l'immatriculation D-AIFA",
+    "chapo": "Lufthansa a pris livraison de son premier Airbus A350-1000, arrivé à son hub de Munich, selon aero.de. Airbus évoque dans un communiqué cette livraison, qui correspond aussi à son 700e appareil livré.",
+    "paragraphes": [
+      "L'appareil, immatriculé D-AIFA, a rejoint la plateforme de correspondance munichoise de la compagnie allemande. D'après aero.de, il desservira dans un premier temps des destinations en Asie.",
+      "Toujours d'après aero.de, la compagnie mise visiblement sur l'attrait de ses nouvelles offres premium à bord. Airbus associe pour sa part cette livraison à celle de son 700e avion."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "Lufthansa takes delivery of its first A350-1000 and 700th Airbus aircraft",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Erster Airbus A350-1000 von Lufthansa landet in München",
+        "url": "https://www.aero.de/news-54139/Erster-Airbus-A350-1000-von-Lufthansa-landet-in-Muenchen.html",
+        "date": "2026-11-10T14:06:44Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
+    "created": "2026-11-10T06:01:27Z",
+    "updated": "2026-11-10T14:10:58Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas s'associe à Accenture pour moderniser ses systèmes : environ 850 emplois concernés",
+    "chapo": "Qantas Group a conclu un partenariat stratégique pluriannuel avec Accenture afin de moderniser son infrastructure technologique et d'accélérer l'usage de l'intelligence artificielle, selon AviTrader. Environ 850 emplois devraient être touchés au cours des prochaines années.",
+    "paragraphes": [
+      "Ce partenariat vise à simplifier les opérations du groupe et à traiter plus de 1 000 applications héritées du passé, accumulées au sein de la compagnie au fil de plusieurs décennies, d'après AviTrader.",
+      "De son côté, AeroTime indique que Qantas prévoit de supprimer environ 850 postes actuellement occupés à son siège de Mascot, et présente la démarche comme un transfert de ces fonctions vers l'Inde dans le cadre d'un vaste programme axé sur l'IA."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Qantas targets 850 jobs in technology overhaul",
+        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
+        "date": "2026-11-10T05:56:33Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Qantas to outsource 850 roles to India as part of major AI drive",
+        "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
+        "date": "2026-11-10T13:25:46Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
     "created": "2026-11-10T13:20:54Z",
     "updated": "2026-11-10T14:01:27Z",
@@ -34,38 +112,6 @@
         "title": "Après un 3e trimestre record, Embraer relève ses prévisions",
         "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html",
         "date": "2026-11-10T13:52:02Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-    "created": "2026-11-10T13:50:59Z",
-    "updated": "2026-11-10T13:50:59Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Airbus livre à Lufthansa son premier A350-1000, 700e appareil de la compagnie",
-    "chapo": "Selon un communiqué d'Airbus, Lufthansa a reçu son premier A350-1000. Le constructeur associe cette remise à une livraison portant sur le 700e avion Airbus.",
-    "paragraphes": [
-      "D'après Airbus, la compagnie allemande devient ainsi destinataire de la toute première variante A350-1000 de sa flotte.",
-      "Le constructeur européen indique que cet appareil représente le 700e avion Airbus livré. Le communiqué renvoie vers une page dédiée pour en savoir plus sur cette livraison."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Airbus – Communiqués",
-        "title": "Lufthansa takes delivery of its first A350-1000 and 700th Airbus aircraft",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft",
-        "date": null,
         "official": false
       }
     ]
@@ -414,37 +460,6 @@
         "title": "Plus de 23 000 kilomètres et 24 heures sans escale : l’A350-1000ULR s’offre un record mondial",
         "url": "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html",
         "date": "2026-11-10T07:00:46Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
-    "created": "2026-11-10T06:01:27Z",
-    "updated": "2026-11-10T06:01:27Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Qantas s'associe à Accenture pour moderniser ses systèmes informatiques, environ 850 emplois concernés",
-    "chapo": "Selon AviTrader, le groupe Qantas a signé un partenariat stratégique pluriannuel avec Accenture afin de moderniser son infrastructure technologique et d'accélérer l'adoption de l'intelligence artificielle. Cette évolution devrait toucher environ 850 emplois dans les années à venir.",
-    "paragraphes": [
-      "D'après le média, ce partenariat vise aussi à simplifier les opérations de la compagnie australienne. Il doit traiter plus de 1 000 applications héritées du passé, accumulées au sein de l'entreprise au fil de plusieurs décennies."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "Qantas targets 850 jobs in technology overhaul",
-        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
-        "date": "2026-11-10T05:56:33Z",
         "official": false
       }
     ]
