@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs": "2026-10-31T13:30:47Z",
-    "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville": "2026-10-31T13:30:47Z",
     "https://www.air-journal.fr/2026-10-31-espagne-le-trafic-daena-depasse-les-attentes-des-resultats-en-hausse-a-deux-chiffres-5278557.html": "2026-10-31T14:00:56Z",
     "https://simpleflying.com/a350-so-advanced-airbus-built-hidden-room-under-cockpit-house-digital-equipment/": "2026-10-31T14:10:34Z",
     "https://simpleflying.com/why-ultra-long-haul-pilots-perfer-uneven-4-6-2-rest-pattern-even-split-14-hour-flight/": "2026-10-31T15:01:00Z",
@@ -1378,7 +1376,8 @@
     "https://avitrader.com/2026/11/10/afi-klm-em-names-new-evp-engineering-maintenance-at-klm/": "2026-11-10T12:50:36Z",
     "https://www.air-journal.fr/2026-11-10-cote-amalfitaine-easyjet-ouvre-une-nouvelle-porte-dentree-depuis-paris-orly-5278768.html": "2026-11-10T13:01:02Z",
     "https://www.journal-aviation.com/actualites-mro-support/mro-marloes-van-laake-va-prendre-la-direction-de-klm-engineering-maintenance-20261110.html": "2026-11-10T13:01:02Z",
-    "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426": "2026-11-10T13:20:35Z"
+    "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426": "2026-11-10T13:20:35Z",
+    "https://simpleflying.com/video/southwest-airlines-boeing-737-max-7s-to-debut-in-march-2027-with-7-more-seats-than-its-700s/": "2026-11-10T13:30:57Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5248,6 +5247,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.06983
+    "2026-11": 4.07065
   }
 }
