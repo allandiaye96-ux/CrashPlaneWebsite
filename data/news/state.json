@@ -1689,45 +1689,6 @@
       "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
       "written_count": 4
     },
-    "cebc38051d8": {
-      "id": "cebc38051d8",
-      "label": "Menace à la bombe Wizz Air Londres-Sofia Budapest",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-02T14:50:49Z",
-      "updated": "2026-11-03T12:20:44Z",
-      "items": [
-        {
-          "id": "c5803e460aee3b90",
-          "feed": "aero.de",
-          "title": "Bombendrohnung gegen Wizz-Air-Flug",
-          "url": "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html",
-          "domain": "aero.de",
-          "summary": "BUDAPEST - Ein Wizz Air-Flieger ist von London nach Sofia über Bosnien unterwegs. Dann erreicht eine Bombendrohung das Cockpit. Zwei Kampfjets eskortieren die Maschine daraufhin nach Budapest.",
-          "published": "2026-11-02T14:46:02Z"
-        },
-        {
-          "id": "5f3365101141d2c4",
-          "feed": "aero.de",
-          "title": "Warschau-Modlin nach Drohung gegen LOT-Flug gesperrt",
-          "url": "https://www.aero.de/news-54081/Warschau-Modlin-nach-Drohung-gegen-LOT-Flug-gesperrt.html",
-          "domain": "aero.de",
-          "summary": "WARSCHAU - Eine Maschine aus London mit 181 Menschen an Bord muss wegen eines Bombenalarms auf einen kleineren Flughafen ausweichen. Nun rücken Spezialisten an.",
-          "published": "2026-11-03T10:57:10Z"
-        },
-        {
-          "id": "5b169aecc47ebfba",
-          "feed": "airliners.de",
-          "title": "Bombendrohungen treffen gleich mehrere Flüge",
-          "url": "https://www.airliners.de/bombendrohungen-treffen-fluege/91272",
-          "domain": "airliners.de",
-          "summary": "Nach Bombendrohungen mussten in Warschau und Budapest drei Passagierflugzeuge überprüft werden. Der Flughafen Warschau-Modlin schloss zeitweise und nahm den Betrieb wieder auf. Was die Prüfungen ergaben, ist bisher nur teilweise bekannt.",
-          "published": "2026-11-03T11:30:04Z"
-        }
-      ],
-      "story_id": "2026-11-03-alertes-a-la-bombe-un-vol-wizz-air-escorte-vers-budapest-un-51d8",
-      "written_count": 3
-    },
     "cf8aca91140": {
       "id": "cf8aca91140",
       "label": "Learjet 60 Palm Beach NTSB rupture en vol",
