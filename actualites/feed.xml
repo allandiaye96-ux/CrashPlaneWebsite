@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 15:31:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 15:40:49 +0000</lastBuildDate>
+  <item>
+    <title>RAF Mildenhall : des ravitailleurs de l&#x27;US Air Force dispersés en Europe après une menace liée à l&#x27;Iran</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a/</guid>
+    <pubDate>Tue, 10 Nov 2026 15:40:49 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon AeroTime, l&#x27;armée américaine a déplacé des ravitailleurs depuis la base britannique de RAF Mildenhall, dans l&#x27;est de l&#x27;Angleterre, le 9 novembre 2026, à la suite d&#x27;une menace présentée comme liée à l&#x27;Iran.</description>
+  </item>
   <item>
     <title>Lufthansa reçoit son premier Airbus A350-1000, aussi son 700e appareil du constructeur</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 07 Nov 2026 14:40:48 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, des plaintes accusent sept compagnies aériennes américaines de s&#x27;être entendues pour faire monter les prix des billets en partageant des données tarifaires.</description>
-  </item>
-  <item>
-    <title>Japon : ANA Holdings vise le contrôle total de RegionalPlus Wings, qui détient Airdo et Solaseed Air</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56/</guid>
-    <pubDate>Sat, 07 Nov 2026 14:01:36 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, ANA Holdings a signé un protocole d&#x27;accord pour acquérir l&#x27;intégralité de RegionalPlus Wings, structure regroupant les transporteurs Airdo et Solaseed Air.</description>
   </item>
 </channel>
 </rss>

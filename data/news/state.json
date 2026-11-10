@@ -1400,7 +1400,8 @@
     "https://www.airliners.de/flughafen-ber-richtet-shuttle-beschaeftigte-selchow/91439": "2026-11-10T15:20:35Z",
     "https://www.airliners.de/hensoldt-umsatz-2035-zehn-milliarden-euro/91438": "2026-11-10T15:20:35Z",
     "https://www.airliners.de/syrian-airlines-strecken-damaskus-deutschland/91437": "2026-11-10T15:20:35Z",
-    "https://www.airliners.de/ermittler-bergen-stimmenrekorder-learjet-absturz-florida/91436": "2026-11-10T15:20:35Z"
+    "https://www.airliners.de/ermittler-bergen-stimmenrekorder-learjet-absturz-florida/91436": "2026-11-10T15:20:35Z",
+    "https://theaviationist.com/2026/11/10/raf-mildenhall-security-threat-dispersal/": "2026-11-10T15:40:35Z"
   },
   "clusters": {
     "c153f9923c1": {
@@ -4994,7 +4995,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-10T09:20:51Z",
-      "updated": "2026-11-10T09:20:51Z",
+      "updated": "2026-11-10T15:40:46Z",
       "items": [
         {
           "id": "980ab6692b24bcd3",
@@ -5004,10 +5005,19 @@
           "domain": "aerotime.aero",
           "summary": "The US military relocated refueling tankers from RAF Mildenhall in eastern England on November 9, 2026, following an… The post US Air Force moves tankers from RAF Mildenhall amid reported Iran-linked threat appeared first on AeroTime .",
           "published": "2026-11-10T09:14:27Z"
+        },
+        {
+          "id": "4a78832a9d9cf232",
+          "feed": "The Aviationist",
+          "title": "‘Iranian Threat’ Leads to Mass Dispersal of Aircraft Away from RAF Mildenhall",
+          "url": "https://theaviationist.com/2026/11/10/raf-mildenhall-security-threat-dispersal/",
+          "domain": "theaviationist.com",
+          "summary": "A rapid departure of aircraft from RAF Mildenhall to bases across Europe was noted by enthusiasts on Nov. 9, with WSJ then reporting that a threat relating to Iran was responsible for a heightened security posture. RAF Mildenhall based U.S. Air Force KC-135 Stratotankers were mobilised and dispersed across Europe to Prestwick, Spangdahlem, Ramstein, and […]",
+          "published": "2026-11-10T15:30:54Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a",
+      "written_count": 2
     },
     "ce1eb17eabb": {
       "id": "ce1eb17eabb",
@@ -5243,6 +5253,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.169836
+    "2026-11": 4.179419
   }
 }
