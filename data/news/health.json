@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T10:01:04Z",
+  "run": "2026-11-10T10:10:36Z",
   "stats": {
     "fetched": 674,
-    "new": 1,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0011,
+  "spend_month_usd": 4.002,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -106,12 +106,6 @@
       "breve": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076"
     },
     {
-      "dossier": "Learjet 60 accident Palm Beach Floride",
-      "statut": "corrobore",
-      "editeurs": 6,
-      "breve": "2026-11-01-floride-un-learjet-60-s-ecrase-pres-d-une-route-a-greenacres-53fb"
-    },
-    {
       "dossier": "Lufthansa TAP participation contrat",
       "statut": "corrobore",
       "editeurs": 6,
@@ -140,12 +134,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
-    },
-    {
-      "dossier": "Grèce KC-390 Embraer",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-02-la-grece-signe-pour-trois-kc-390-millennium-d-embraer-avec-o-9405"
     },
     {
       "dossier": "Learjet 60 Palm Beach NTSB rupture en vol",
