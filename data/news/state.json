@@ -1377,7 +1377,8 @@
     "https://simpleflying.com/southwest-airlines-jetblue-compare-2026/": "2026-11-10T12:01:03Z",
     "https://www.aerotime.aero/articles/how-wroclaw-airport-is-seeking-to-continue-powering-polands-economic-boom": "2026-11-10T12:01:03Z",
     "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html": "2026-11-10T12:01:03Z",
-    "https://theaviationist.com/2026/11/10/spanish-nh90-helicopters-alpha-scramble/": "2026-11-10T12:40:36Z"
+    "https://theaviationist.com/2026/11/10/spanish-nh90-helicopters-alpha-scramble/": "2026-11-10T12:40:36Z",
+    "https://avitrader.com/2026/11/10/afi-klm-em-names-new-evp-engineering-maintenance-at-klm/": "2026-11-10T12:50:36Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -1640,54 +1641,6 @@
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
       "written_count": 6
-    },
-    "c45fa568860": {
-      "id": "c45fa568860",
-      "label": "Boeing Icelease 767-300 convertis cargo",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-02T14:01:38Z",
-      "updated": "2026-11-03T12:40:45Z",
-      "items": [
-        {
-          "id": "ff471e76bfc48c67",
-          "feed": "Boeing – Communiqués",
-          "title": "Boeing and Icelease Sign Agreement for up to Three 767-300 Boeing Converted Freighters",
-          "url": "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters",
-          "domain": "boeing.mediaroom.com",
-          "summary": "",
-          "published": "2026-11-02T14:00:00Z"
-        },
-        {
-          "id": "c6b7319dacd7d0de",
-          "feed": "Air Journal",
-          "title": "Icelease mise sur une seconde vie cargo pour jusqu’à trois Boeing 767",
-          "url": "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html",
-          "domain": "air-journal.fr",
-          "summary": "Le loueur islandais Icelease a conclu avec Boeing un accord portant sur la conversion d’un 767-300 en avion-cargo, assorti de deux options supplémentaires. Le premier appareil doit entrer en chantier à Singapour début 2027, avant une livraison attendue au deuxième trimestre. Il rejoindra le portefeuille de fret géré par IAT Leasing, société sœur d’Icelease établie […]",
-          "published": "2026-11-03T08:00:47Z"
-        },
-        {
-          "id": "790c56e94a84a93a",
-          "feed": "AviTrader",
-          "title": "Icelease orders Boeing 767 freighter",
-          "url": "https://avitrader.com/2026/11/03/icelease-orders-boeing-767-freighter/",
-          "domain": "avitrader.com",
-          "summary": "Boeing and aircraft leasing company Icelease have agreed an order for one 767-300 Boeing Converted Freighter (BCF), with options for up to two additional aircraft, as the lessor expands its freighter portfolio. Induction of the first aircraft is scheduled for the first quarter of 2027, with delivery of the converted freighter expected in the second […] The post Icelease orders Boeing 767 freighter appeared first on AviTrader Aviation News .",
-          "published": "2026-11-03T12:31:12Z"
-        },
-        {
-          "id": "07ed17291608ddf0",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Icelease acquiert jusqu’à 3 Boeing 767-300BCF",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/icelease-acquiert-jusqua-3-boeing-767-300bcf-20261103.html",
-          "domain": "journal-aviation.com",
-          "summary": "La société islandaise de leasing Icelease a conclu un accord avec Boeing, en vue de convertir jusqu’à trois 767-300 en BCF (Boeing converted freighter). La commande porte initialement sur un […] L’article Icelease acquiert jusqu’à 3 Boeing 767-300BCF a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-03T12:38:00Z"
-        }
-      ],
-      "story_id": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860",
-      "written_count": 4
     },
     "cf8aca91140": {
       "id": "cf8aca91140",
@@ -4443,27 +4396,6 @@
       "story_id": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5",
       "written_count": 1
     },
-    "cf4d1790fe5": {
-      "id": "cf4d1790fe5",
-      "label": "DGA commande drone U010 Aliaca VTOL Airbus",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-08T12:40:44Z",
-      "updated": "2026-11-08T12:40:44Z",
-      "items": [
-        {
-          "id": "7995b60e077f392e",
-          "feed": "Airbus – Communiqués",
-          "title": "The U010 Aliaca drone goes vertical",
-          "url": "https://www.airbus.com/en/newsroom/stories/2026-10-the-u010-aliaca-drone-goes-vertical",
-          "domain": "airbus.com",
-          "summary": "The French DGA orders the new VTOL version of the U010 Aliaca drone from Airbus, expanding surveillance capabilities across French Navy support vessels.",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c1ed46d56f6": {
       "id": "c1ed46d56f6",
       "label": "Amende DOT Air France KLM codeshare Delta espace aérien Irak",
@@ -5373,6 +5305,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.06037
+    "2026-11": 4.061185
   }
 }

@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-10T12:40:36Z",
+  "run": "2026-11-10T12:50:36Z",
   "stats": {
     "fetched": 674,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0604,
+  "spend_month_usd": 4.0612,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -152,12 +152,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
-    },
-    {
-      "dossier": "Boeing Icelease 767-300 convertis cargo",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-02-boeing-et-icelease-signent-un-accord-pour-jusqu-a-trois-767-8860"
     },
     {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
@@ -812,12 +806,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd"
-    },
-    {
-      "dossier": "DGA commande drone U010 Aliaca VTOL Airbus",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Amende DOT Air France KLM codeshare Delta espace aérien Irak",
