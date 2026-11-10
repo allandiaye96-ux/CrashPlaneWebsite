@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-10T09:40:34Z",
+  "run": "2026-11-10T09:50:34Z",
   "stats": {
-    "fetched": 574,
-    "new": 1,
+    "fetched": 674,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
