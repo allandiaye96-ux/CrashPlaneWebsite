@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-10T21:59:32Z",
+  "run": "2026-11-10T22:00:58Z",
   "stats": {
-    "fetched": 677,
+    "fetched": 645,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -70,8 +70,8 @@
       "items": 10
     },
     "The War Zone": {
-      "ok": true,
-      "items": 32
+      "ok": false,
+      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
     },
     "Airbus – Communiqués": {
       "ok": true,
