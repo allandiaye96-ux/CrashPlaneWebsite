@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
+    "created": "2026-11-10T10:20:57Z",
+    "updated": "2026-11-10T10:20:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Emirates suspend son projet de desserte de Berlin et cherche à dialoguer avec le ministère des Transports",
+    "chapo": "Selon airliners.de et aero.de, le président d'Emirates, Tim Clark, indique que la compagnie met pour l'instant son projet de vol vers Berlin en suspens. Elle attend des clarifications sur l'accord aérien avec les Émirats arabes unis.",
+    "paragraphes": [
+      "D'après airliners.de, Tim Clark affirme qu'Emirates serait prête à lancer Berlin au 1er avril 2027. La compagnie attend toutefois d'y voir plus clair sur l'accord de transport aérien conclu avec les Émirats arabes unis.",
+      "Airliners.de relève qu'une question demeure : Emirates devrait-elle renoncer à une croissance sur ses quatre autres destinations allemandes pour pouvoir desservir Berlin ? Selon aero.de, Tim Clark a déclaré à la presse à Berlin espérer reprendre contact avec le ministère des Transports pour clarifier certains points."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Emirates hält Berlin-Start zurück und sucht Gespräch mit Verkehrsminister",
+        "url": "https://www.airliners.de/emirates-haelt-berlin-start-ueck-sucht-gespraech-verkehrsminister/91423",
+        "date": "2026-11-10T09:38:58Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Emirates will Luftfahrtdeal wieder aufschnüren",
+        "url": "https://www.aero.de/news-54137/Emirates-will-Luftfahrtdeal-wieder-aufschnueren.html",
+        "date": "2026-11-10T10:18:22Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd",
     "created": "2026-11-10T09:21:08Z",
     "updated": "2026-11-10T09:21:08Z",

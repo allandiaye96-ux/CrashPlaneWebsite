@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T10:10:36Z",
+  "run": "2026-11-10T10:20:37Z",
   "stats": {
     "fetched": 674,
     "new": 3,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.002,
+  "spend_month_usd": 4.0119,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -452,6 +452,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996"
+    },
+    {
+      "dossier": "Emirates Berlin suspension vol",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",

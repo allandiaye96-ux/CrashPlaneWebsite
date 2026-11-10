@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Tue, 10 Nov 2026 10:10:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 10:20:57 +0000</lastBuildDate>
+  <item>
+    <title>Emirates suspend son projet de desserte de Berlin et cherche à dialoguer avec le ministère des Transports</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd/</guid>
+    <pubDate>Tue, 10 Nov 2026 10:20:57 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de et aero.de, le président d&#x27;Emirates, Tim Clark, indique que la compagnie met pour l&#x27;instant son projet de vol vers Berlin en suspens. Elle attend des clarifications sur l&#x27;accord aérien avec les Émirats arabes unis.</description>
+  </item>
   <item>
     <title>Etihad aurait investi un montant à deux chiffres en millions dans Condor</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sat, 07 Nov 2026 06:20:49 +0000</pubDate>
     <category>Enquête</category>
     <description>Selon AirlineGeeks et Simple Flying, qui rapportent les conclusions du NTSB, un Boeing 737 MAX de Southwest Airlines est retourné en service sans inspection après une tempête. Des dégâts structurels sont restés inaperçus pendant neuf jours.</description>
-  </item>
-  <item>
-    <title>Singapore Airlines révèle ses futures cabines long-courrier, avec lits doubles et suites fermées</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6/</guid>
-    <pubDate>Sat, 07 Nov 2026 06:01:22 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>D&#x27;après Air Journal, la compagnie singapourienne a dévoilé à Singapour, le 6 novembre, la nouvelle génération de cabines de ses vols long-courriers, un programme d&#x27;investissement supérieur à 2 milliards de dollars singapouriens.</description>
   </item>
 </channel>
 </rss>
