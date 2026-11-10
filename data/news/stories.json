@@ -1,5 +1,125 @@
 [
   {
+    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
+    "created": "2026-11-10T06:01:27Z",
+    "updated": "2026-11-10T20:01:27Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas confie à Accenture un partenariat technologique touchant environ 850 emplois de son siège",
+    "chapo": "Qantas Group a conclu un partenariat stratégique pluriannuel avec Accenture pour moderniser son informatique et accélérer l'adoption de l'IA, selon AviTrader. Environ 850 emplois seraient concernés au cours des prochaines années.",
+    "paragraphes": [
+      "D'après Australian Aviation, certains postes seront transférés vers les équipes d'Accenture en Inde, d'autres resteront en Australie, et d'autres encore seront à terme transformés par l'automatisation et l'IA. AeroTime situe les postes visés au siège de Qantas à Mascot. Le partenariat doit aussi traiter plus de 1 000 applications héritées accumulées au sein de la compagnie depuis plusieurs décennies, selon AviTrader.",
+      "Le syndicat a réagi avec virulence, selon Australian Aviation. Il demande à Qantas de tenir ses engagements, affirmant que les salariés avaient reçu en août l'assurance qu'aucun plan de délocalisation d'emplois australiens n'existait. Il réclame une explication honnête sur ce qui a changé depuis."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas HQ to outsource 850 jobs to Accenture",
+        "url": "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/",
+        "date": "2026-11-10T00:15:19Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "‘Keep your word’: Union slams Qantas HQ outsourcing plans",
+        "url": "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/",
+        "date": "2026-11-10T03:13:42Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Qantas targets 850 jobs in technology overhaul",
+        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
+        "date": "2026-11-10T05:56:33Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Qantas to outsource 850 roles to India as part of major AI drive",
+        "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
+        "date": "2026-11-10T13:25:46Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
+    "created": "2026-11-09T14:50:48Z",
+    "updated": "2026-11-10T20:01:23Z",
+    "version": 6,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "L'Airbus A350-1000ULR de Qantas décroche le record Guinness du plus long vol commercial",
+    "chapo": "Airbus a annoncé le 9 novembre 2026 que l'A350-1000ULR a obtenu le record Guinness du plus long vol par distance pour un avion de ligne, selon le constructeur relayé par Air Journal.",
+    "paragraphes": [
+      "Le vol d'essai, effectué en juillet entre Melbourne et Toulouse sans escale, a duré 24 heures et 24 minutes, d'après Air Journal. La distance retenue est de 12 503 milles nautiques, selon Flightradar24, qui indique avoir contribué à la certification du record. Air Journal parle de 23 155 kilomètres, et Simple Flying de 14,388 miles.",
+      "Selon Simple Flying, ce résultat dépasse le record du Boeing « Baby Blue 2 » et valide l'appareil avant le lancement du Project Sunrise de Qantas. L'A350-1000ULR a été conçu pour cette initiative et poursuit ses essais en vol, d'après Australian Aviation, qui évoque une première livraison en Australie prévue en avril 2027."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 6,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "14,388 Miles: Airbus A350-1000ULR Test Flight Officially Breaks The Guinness World Record",
+        "url": "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/",
+        "date": "2026-11-09T22:17:03Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "Airbus A350-1000ULR officially sets record for longest commercial airliner flight",
+        "url": "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/",
+        "date": "2026-11-09T22:42:32Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas’ Project Sunrise jet breaks Guinness World Record",
+        "url": "https://australianaviation.com.au/2026/11/qantas-project-sunrise-jet-breaks-guinness-world-record/",
+        "date": "2026-11-10T02:42:56Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Plus de 23 000 kilomètres et 24 heures sans escale : l’A350-1000ULR s’offre un record mondial",
+        "url": "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html",
+        "date": "2026-11-10T07:00:46Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "A350-1000ULR Sets New Distance Record",
+        "url": "https://airlinegeeks.com/2026/11/10/a350-1000ulr-sets-new-distance-record/",
+        "date": "2026-11-10T17:30:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e",
     "created": "2026-11-10T19:31:17Z",
     "updated": "2026-11-10T19:31:17Z",
@@ -34,67 +154,6 @@
         "title": "China Lifts The Veil On Its GJ-11 Mysterious Dragon Stealth UCAV",
         "url": "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav",
         "date": "2026-11-10T19:27:30Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-    "created": "2026-11-09T14:50:48Z",
-    "updated": "2026-11-10T17:31:16Z",
-    "version": 5,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "L'Airbus A350-1000ULR décroche le record Guinness du plus long vol commercial, Melbourne-Toulouse",
-    "chapo": "Airbus a annoncé le 9 novembre 2026 que son A350-1000ULR, développé pour Qantas, détient désormais le record Guinness de la plus longue distance parcourue par un avion de ligne commercial, selon Air Journal et Flightradar24.",
-    "paragraphes": [
-      "Le vol d'essai, réalisé en juillet entre Melbourne et Toulouse, s'est déroulé sans escale. D'après Air Journal, il a duré 24 heures et 24 minutes pour 23 155 kilomètres. Flightradar24 évoque pour sa part 12 503 milles nautiques, tandis que Simple Flying titre sur 14,388 miles.",
-      "Selon Simple Flying, cette performance dépasse le record du Boeing « Baby Blue 2 » et valide l'appareil avant le lancement du « Project Sunrise » de Qantas, consacré aux liaisons sans escale ultra-long-courriers.",
-      "Flightradar24 indique avoir contribué à la certification du record et précise que des millions de personnes avaient suivi le vol en direct."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 5,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Airbus – Communiqués",
-        "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
-        "date": null,
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "14,388 Miles: Airbus A350-1000ULR Test Flight Officially Breaks The Guinness World Record",
-        "url": "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/",
-        "date": "2026-11-09T22:17:03Z",
-        "official": false
-      },
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "Airbus A350-1000ULR officially sets record for longest commercial airliner flight",
-        "url": "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/",
-        "date": "2026-11-09T22:42:32Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Plus de 23 000 kilomètres et 24 heures sans escale : l’A350-1000ULR s’offre un record mondial",
-        "url": "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html",
-        "date": "2026-11-10T07:00:46Z",
-        "official": false
-      },
-      {
-        "name": "AirlineGeeks",
-        "title": "A350-1000ULR Sets New Distance Record",
-        "url": "https://airlinegeeks.com/2026/11/10/a350-1000ulr-sets-new-distance-record/",
-        "date": "2026-11-10T17:30:00Z",
         "official": false
       }
     ]
@@ -393,45 +452,6 @@
         "title": "United Airlines opens new Concourse E at Washington Dulles Airport",
         "url": "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport",
         "date": "2026-11-10T14:57:43Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
-    "created": "2026-11-10T06:01:27Z",
-    "updated": "2026-11-10T14:10:58Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Qantas s'associe à Accenture pour moderniser ses systèmes : environ 850 emplois concernés",
-    "chapo": "Qantas Group a conclu un partenariat stratégique pluriannuel avec Accenture afin de moderniser son infrastructure technologique et d'accélérer l'usage de l'intelligence artificielle, selon AviTrader. Environ 850 emplois devraient être touchés au cours des prochaines années.",
-    "paragraphes": [
-      "Ce partenariat vise à simplifier les opérations du groupe et à traiter plus de 1 000 applications héritées du passé, accumulées au sein de la compagnie au fil de plusieurs décennies, d'après AviTrader.",
-      "De son côté, AeroTime indique que Qantas prévoit de supprimer environ 850 postes actuellement occupés à son siège de Mascot, et présente la démarche comme un transfert de ces fonctions vers l'Inde dans le cadre d'un vaste programme axé sur l'IA."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "Qantas targets 850 jobs in technology overhaul",
-        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
-        "date": "2026-11-10T05:56:33Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Qantas to outsource 850 roles to India as part of major AI drive",
-        "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
-        "date": "2026-11-10T13:25:46Z",
         "official": false
       }
     ]

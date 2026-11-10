@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airbus-hidden-airspace-design-tricks-make-narrowbody-cabins-bigger/": "2026-10-31T20:00:56Z",
-    "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/": "2026-10-31T20:00:56Z",
     "https://simpleflying.com/heres-why-dassault-scrapped-the-falcon-5x-before-it-ever-entered-service/": "2026-10-31T21:01:06Z",
     "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-a-c-5-galaxy/": "2026-10-31T22:00:57Z",
     "https://www.flightradar24.com/blog/aviation-news/airline-news/airline-routes/october-routes-roundup-air-france-to-launch-two-new-routes-to-the-us/": "2026-10-31T22:20:34Z",
@@ -1407,7 +1405,12 @@
     "https://simpleflying.com/american-airlines-launches-23-new-routes-from-3-busiest-hubs/": "2026-11-10T19:30:53Z",
     "https://simpleflying.com/air-transat-cancels-this-10-hour-route/": "2026-11-10T19:30:53Z",
     "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav": "2026-11-10T19:30:53Z",
-    "https://theaviationist.com/2026/11/10/pentagon-cannot-account-f-35-spare-parts/": "2026-11-10T19:50:37Z"
+    "https://theaviationist.com/2026/11/10/pentagon-cannot-account-f-35-spare-parts/": "2026-11-10T19:50:37Z",
+    "https://australianaviation.com.au/2026/11/virgin-revises-737-max-10-deliveries-to-mid-2028/": "2026-11-10T20:01:01Z",
+    "https://australianaviation.com.au/2026/11/virgin-eyes-profitability-amid-capacity-cuts-and-fare-increases/": "2026-11-10T20:01:01Z",
+    "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/": "2026-11-10T20:01:01Z",
+    "https://australianaviation.com.au/2026/11/qantas-project-sunrise-jet-breaks-guinness-world-record/": "2026-11-10T20:01:01Z",
+    "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/": "2026-11-10T20:01:01Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4449,7 +4452,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T14:50:45Z",
-      "updated": "2026-11-10T17:31:09Z",
+      "updated": "2026-11-10T20:01:15Z",
       "items": [
         {
           "id": "cf13344b8de74db0",
@@ -4495,10 +4498,19 @@
           "domain": "airlinegeeks.com",
           "summary": "The aircraft flew nonstop from Melbourne to Toulouse, France.",
           "published": "2026-11-10T17:30:00Z"
+        },
+        {
+          "id": "42c8ec4c950cf4f2",
+          "feed": "Australian Aviation",
+          "title": "Qantas’ Project Sunrise jet breaks Guinness World Record",
+          "url": "https://australianaviation.com.au/2026/11/qantas-project-sunrise-jet-breaks-guinness-world-record/",
+          "domain": "australianaviation.com.au",
+          "summary": "The Airbus A350-1000ULR, custom-designed and built for Qantas’ Project Sunrise initiative, is undergoing test flights ahead of the first planned aircraft delivery Down Under in April 2027.",
+          "published": "2026-11-10T02:42:56Z"
         }
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-      "written_count": 5
+      "written_count": 6
     },
     "c4ee0ae593f": {
       "id": "c4ee0ae593f",
@@ -4857,7 +4869,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-10T06:01:16Z",
-      "updated": "2026-11-10T14:10:51Z",
+      "updated": "2026-11-10T20:01:15Z",
       "items": [
         {
           "id": "c43913e14f2ba6f9",
@@ -4876,10 +4888,28 @@
           "domain": "aerotime.aero",
           "summary": "Qantas is planning to cut around 850 jobs which are currently being performed at its Mascot HQ near… The post Qantas to outsource 850 roles to India as part of major AI drive appeared first on AeroTime .",
           "published": "2026-11-10T13:25:46Z"
+        },
+        {
+          "id": "68bbf8167b46da3d",
+          "feed": "Australian Aviation",
+          "title": "‘Keep your word’: Union slams Qantas HQ outsourcing plans",
+          "url": "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/",
+          "domain": "australianaviation.com.au",
+          "summary": "In a fiery statement, the union demanded Qantas “keep its commitment” over assurances it said employees had received in August that there were “no plan to offshore any Australian jobs”, and said workers “deserved an honest explanation of what had changed since then”.",
+          "published": "2026-11-10T03:13:42Z"
+        },
+        {
+          "id": "3ecec8522766b9c4",
+          "feed": "Australian Aviation",
+          "title": "Qantas HQ to outsource 850 jobs to Accenture",
+          "url": "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/",
+          "domain": "australianaviation.com.au",
+          "summary": "Under the partnership, some roles will be offshored to Accenture’s teams in India, some will remain based in Australia, and others will “in time be transformed further with automation and AI”.",
+          "published": "2026-11-10T00:15:19Z"
         }
       ],
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
-      "written_count": 2
+      "written_count": 4
     },
     "c741b1381b9": {
       "id": "c741b1381b9",
@@ -5238,6 +5268,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.261385
+    "2026-11": 4.28871
   }
 }
