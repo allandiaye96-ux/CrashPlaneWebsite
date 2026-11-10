@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/video/just-10-minutes-of-fuel-left-united-737-declares-double-emergency-after-landing-gear-fail/": "2026-10-31T12:40:35Z",
     "https://simpleflying.com/airlines-selling-main-cabin-beds-fraction-business-class-fares/": "2026-10-31T13:00:56Z",
     "https://simpleflying.com/8-airlines-drop-17-a380-routes-this-winter/": "2026-10-31T13:00:56Z",
     "https://www.air-journal.fr/2026-10-31-geneve-reliee-sao-paulo-par-latam-en-2027-une-premiere-liaison-directe-avec-lamerique-du-sud-5278603.html": "2026-10-31T13:00:56Z",
@@ -1377,7 +1376,8 @@
     "https://simpleflying.com/easyjet-ryanair-wizz-air-cancel-25-routes-from-london/": "2026-11-10T12:01:03Z",
     "https://simpleflying.com/southwest-airlines-jetblue-compare-2026/": "2026-11-10T12:01:03Z",
     "https://www.aerotime.aero/articles/how-wroclaw-airport-is-seeking-to-continue-powering-polands-economic-boom": "2026-11-10T12:01:03Z",
-    "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html": "2026-11-10T12:01:03Z"
+    "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html": "2026-11-10T12:01:03Z",
+    "https://theaviationist.com/2026/11/10/spanish-nh90-helicopters-alpha-scramble/": "2026-11-10T12:40:36Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5348,10 +5348,31 @@
       ],
       "story_id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
       "written_count": 2
+    },
+    "c2974b8742c": {
+      "id": "c2974b8742c",
+      "label": "NH90 espagnols Alpha Scramble Roumanie drones",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-10T12:40:53Z",
+      "updated": "2026-11-10T12:40:53Z",
+      "items": [
+        {
+          "id": "a0e146855be15683",
+          "feed": "The Aviationist",
+          "title": "Spanish NH90 Helicopters Conduct First Alpha Scramble in Romania Against Drone Threat",
+          "url": "https://theaviationist.com/2026/11/10/spanish-nh90-helicopters-alpha-scramble/",
+          "domain": "theaviationist.com",
+          "summary": "Two NH90 helicopters were launched after unidentified drones were detected near Romania’s Black Sea coast, marking the first Alpha Scramble of a Spanish helicopter deployed on a NATO mission. Two Spanish NH90 helicopters deployed to Romania have conducted their first Alpha Scramble after unidentified drones were detected on the Black Sea coast. The NH90s are […]",
+          "published": "2026-11-10T12:39:13Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.05955
+    "2026-11": 4.06037
   }
 }

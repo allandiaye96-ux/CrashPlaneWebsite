@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T12:30:51Z",
+  "run": "2026-11-10T12:40:36Z",
   "stats": {
     "fetched": 674,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.0595,
+  "spend_month_usd": 4.0604,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -887,6 +887,12 @@
     },
     {
       "dossier": "Tankers USAF quittent RAF Mildenhall menace Iran",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "NH90 espagnols Alpha Scramble Roumanie drones",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
