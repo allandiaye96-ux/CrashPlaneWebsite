@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/heres-why-dassault-scrapped-the-falcon-5x-before-it-ever-entered-service/": "2026-10-31T21:01:06Z",
     "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-a-c-5-galaxy/": "2026-10-31T22:00:57Z",
     "https://www.flightradar24.com/blog/aviation-news/airline-news/airline-routes/october-routes-roundup-air-france-to-launch-two-new-routes-to-the-us/": "2026-10-31T22:20:34Z",
     "https://theaviationist.com/2026/10/31/rafale-m-conducts-trials-aboard-ins-vikrant/": "2026-10-31T22:30:44Z",
@@ -1414,7 +1413,9 @@
     "https://www.aerotime.aero/articles/frontier-airlines-first-class-bookings-march-2027": "2026-11-10T20:50:35Z",
     "https://simpleflying.com/united-airlines-accepts-222-seat-jet-standard-257-seat-ces-tokyo-route/": "2026-11-10T21:01:04Z",
     "https://simpleflying.com/southwest-airlines-launches-5-new-international-routes/": "2026-11-10T21:01:04Z",
-    "https://www.twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats": "2026-11-10T21:01:04Z"
+    "https://www.twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats": "2026-11-10T21:01:04Z",
+    "https://www.aerotime.aero/articles/beijing-airlink-belyn-100hf-hybrid-electric-business-jet": "2026-11-10T21:10:35Z",
+    "https://airlinegeeks.com/2026/11/10/lufthansa-takes-delivery-of-its-first-a350-1000/": "2026-11-10T21:10:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5125,7 +5126,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:50:53Z",
-      "updated": "2026-11-10T16:40:46Z",
+      "updated": "2026-11-10T21:10:56Z",
       "items": [
         {
           "id": "bd3e2f64b8f737c8",
@@ -5189,10 +5190,19 @@
           "domain": "air-journal.fr",
           "summary": "Lufthansa a pris livraison, le 10 novembre 2026 à Toulouse, de son premier Airbus A350-1000, également 700e appareil livré par le constructeur européen à l’ensemble du groupe allemand. Habillé d’une livrée célébrant les cent ans de Lufthansa, ce nouveau long-courrier accueillera jusqu’à 300 passagers dans quatre classes de voyage. Son premier vol commercial est prévu […]",
           "published": "2026-11-10T16:30:37Z"
+        },
+        {
+          "id": "2e01afc7d35795c8",
+          "feed": "AirlineGeeks",
+          "title": "Lufthansa Takes Delivery of Its First A350-1000",
+          "url": "https://airlinegeeks.com/2026/11/10/lufthansa-takes-delivery-of-its-first-a350-1000/",
+          "domain": "airlinegeeks.com",
+          "summary": "The aircraft is the carrier’s 700th from Airbus.",
+          "published": "2026-11-10T21:08:08Z"
         }
       ],
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-      "written_count": 7
+      "written_count": 8
     },
     "cbd12c0c2c8": {
       "id": "cbd12c0c2c8",
@@ -5281,6 +5291,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.30038
+    "2026-11": 4.315933
   }
 }
