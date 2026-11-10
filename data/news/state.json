@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-10-31-nantes-atlantique-cinq-nouvelles-lignes-prennent-leur-envol-en-six-jours-5278600.html": "2026-10-31T07:00:59Z",
     "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/": "2026-10-31T07:20:31Z",
     "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/": "2026-10-31T08:00:56Z",
     "https://www.air-journal.fr/2026-10-31-air-transat-met-le-cap-sur-geneve-et-birmingham-pour-lete-2027-5278601.html": "2026-10-31T08:00:56Z",
@@ -1372,7 +1371,8 @@
     "https://www.airliners.de/hans-zimmer-komponiert-bordmusik-qatar-airways/91405": "2026-11-10T06:20:33Z",
     "https://avitrader.com/2026/11/10/aar-wins-airbus-radome-repair-approval/": "2026-11-10T06:40:44Z",
     "https://www.journal-aviation.com/actualites-mro-support/revima-monte-en-puissance-sur-les-boeing-787-et-airbus-a350-et-vise-une-implantation-aux-etats-unis-20261110.html": "2026-11-10T06:40:44Z",
-    "https://avitrader.com/2026/11/10/airbaltic-extends-lufthansa-wet-lease-deal/": "2026-11-10T06:50:33Z"
+    "https://avitrader.com/2026/11/10/airbaltic-extends-lufthansa-wet-lease-deal/": "2026-11-10T06:50:33Z",
+    "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html": "2026-11-10T07:01:05Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -5008,7 +5008,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T14:50:45Z",
-      "updated": "2026-11-09T22:50:46Z",
+      "updated": "2026-11-10T07:01:20Z",
       "items": [
         {
           "id": "cf13344b8de74db0",
@@ -5036,10 +5036,19 @@
           "domain": "flightradar24.com",
           "summary": "Millions followed the live flight. Now it’s officially in the record books. Airbus’ A350-1000ULR has secured the Guinness World Record for the longest flight by distance by a commercial airliner—and Flightradar24 is proud to have helped support the record’s certification. Airbus announced the recognition on 9 November, confirming a distance of 12,503 nautical miles (23,155 […] The post Airbus A350-1000ULR officially sets record for longest commercial airliner flight appeared first on Flightradar24 Blog .",
           "published": "2026-11-09T22:42:32Z"
+        },
+        {
+          "id": "4184ffcbe4a4356d",
+          "feed": "Air Journal",
+          "title": "Plus de 23 000 kilomètres et 24 heures sans escale : l’A350-1000ULR s’offre un record mondial",
+          "url": "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html",
+          "domain": "air-journal.fr",
+          "summary": "L’Airbus A350-1000ULR développé pour Qantas a parcouru 23 155 kilomètres sans escale entre Melbourne et Toulouse, lors d’un vol d’essai de 24 heures et 24 minutes réalisé en juillet. Annoncée le 9 novembre 2026 par Airbus, cette performance, reconnue selon le constructeur par Guinness World Records, prépare l’arrivée des liaisons sans escale du « Project […]",
+          "published": "2026-11-10T07:00:46Z"
         }
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-      "written_count": 3
+      "written_count": 4
     },
     "c4ee0ae593f": {
       "id": "c4ee0ae593f",
@@ -5362,6 +5371,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 3.893587
+    "2026-11": 3.92516
   }
 }

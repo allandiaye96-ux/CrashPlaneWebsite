@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-10T06:50:33Z",
+  "run": "2026-11-10T07:01:05Z",
   "stats": {
     "fetched": 674,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 3.8936,
+  "spend_month_usd": 3.9252,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -196,6 +196,12 @@
       "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
     },
     {
+      "dossier": "A350-1000ULR record du monde de distance Qantas",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
+    },
+    {
       "dossier": "Boeing suppression 5% postes BCA",
       "statut": "corrobore",
       "editeurs": 4,
@@ -254,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
-    },
-    {
-      "dossier": "A350-1000ULR record du monde de distance Qantas",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
     },
     {
       "dossier": "JetBlue créanciers conseillers restructuration",
