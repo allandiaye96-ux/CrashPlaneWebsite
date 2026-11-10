@@ -1377,7 +1377,10 @@
     "https://www.air-journal.fr/2026-11-10-cote-amalfitaine-easyjet-ouvre-une-nouvelle-porte-dentree-depuis-paris-orly-5278768.html": "2026-11-10T13:01:02Z",
     "https://www.journal-aviation.com/actualites-mro-support/mro-marloes-van-laake-va-prendre-la-direction-de-klm-engineering-maintenance-20261110.html": "2026-11-10T13:01:02Z",
     "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426": "2026-11-10T13:20:35Z",
-    "https://simpleflying.com/video/southwest-airlines-boeing-737-max-7s-to-debut-in-march-2027-with-7-more-seats-than-its-700s/": "2026-11-10T13:30:57Z"
+    "https://simpleflying.com/video/southwest-airlines-boeing-737-max-7s-to-debut-in-march-2027-with-7-more-seats-than-its-700s/": "2026-11-10T13:30:57Z",
+    "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs": "2026-11-10T13:40:33Z",
+    "https://www.aerotime.aero/articles/oregon-helicopter-midair-collision-mcminnville": "2026-11-10T13:40:33Z",
+    "https://www.journal-aviation.com/actualites-mro-support/safran-devoile-fleetlife-sa-nouvelle-solution-de-maintenance-predictive-pour-equipements-20261110.html": "2026-11-10T13:40:33Z"
   },
   "clusters": {
     "c4d06ce9da9": {
@@ -4317,27 +4320,6 @@
       "story_id": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5",
       "written_count": 1
     },
-    "c1ed46d56f6": {
-      "id": "c1ed46d56f6",
-      "label": "Amende DOT Air France KLM codeshare Delta espace aérien Irak",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-08T13:31:07Z",
-      "updated": "2026-11-08T13:31:07Z",
-      "items": [
-        {
-          "id": "22fef07605ab3f30",
-          "feed": "Simple Flying",
-          "title": "US Fines Air France & KLM For Flying Delta Codeshares Too Low Over Iraqi Conflict Zone",
-          "url": "https://simpleflying.com/video/us-fines-air-france-klm-for-flying-delta-codeshares-too-low-over-iraqi-conflict-zone/",
-          "domain": "simpleflying.com",
-          "summary": "Air France and KLM have been issued fines by the US Department Of Transportation after it was revealed that both European carriers operated Delta Air Lines codeshare flights below 32,000 feet above Iraq. The fines were issued due to the Federal Aviation Administration (FAA) prohibiting flights by US operators in foreign-managed airspace where conflict or heightened tensions threaten safety.",
-          "published": "2026-11-08T13:25:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cadb14a8d19": {
       "id": "cadb14a8d19",
       "label": "CFM moteurs China Eastern 101 A320neo",
@@ -5247,6 +5229,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.07065
+    "2026-11": 4.071472
   }
 }
