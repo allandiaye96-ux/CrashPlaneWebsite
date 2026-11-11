@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/": "2026-11-01T22:01:00Z",
     "https://simpleflying.com/flagship-of-worlds-elite-airlines-is-no-longer-in-production-why/": "2026-11-01T22:30:46Z",
     "https://simpleflying.com/cirrus-built-the-sr22-with-airplane-parachute/": "2026-11-01T23:01:03Z",
     "https://www.air-journal.fr/2026-11-02-le-2-novembre-1909-dans-le-ciel-le-zodiac-iii-realise-une-ascension-en-belgique-5278628.html": "2026-11-01T23:09:01Z",
@@ -1495,7 +1494,8 @@
     "https://www.twz.com/news-features/ukraine-regretting-white-house-brokered-temporary-ceasefire-in-strategic-riverside-town-of-oleshky": "2026-11-11T21:30:50Z",
     "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover": "2026-11-11T21:40:33Z",
     "https://simpleflying.com/things-passengers-never-realize-airlines-decides-who-premium-economy-upgrade/": "2026-11-11T22:00:58Z",
-    "https://www.aerotime.aero/articles/faa-smart-air-traffic-tool-22-en-route-centers": "2026-11-11T22:00:58Z"
+    "https://www.aerotime.aero/articles/faa-smart-air-traffic-tool-22-en-route-centers": "2026-11-11T22:00:58Z",
+    "https://theaviationist.com/2026/11/11/f-16v-vs-f-16c-block-70-72/": "2026-11-11T22:10:38Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5311,6 +5311,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.760696
+    "2026-11": 4.76149
   }
 }
