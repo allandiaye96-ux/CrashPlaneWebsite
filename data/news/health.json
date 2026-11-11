@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T17:50:34Z",
+  "run": "2026-11-11T18:01:01Z",
   "stats": {
     "fetched": 679,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.6883,
+  "spend_month_usd": 4.6975,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -388,6 +388,12 @@
       "breve": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a"
     },
     {
+      "dossier": "Apollo rachat easyJet vote actionnaires",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
+    },
+    {
       "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
       "statut": "corrobore",
       "editeurs": 2,
@@ -734,12 +740,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438"
-    },
-    {
-      "dossier": "Apollo rachat easyJet vote actionnaires",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
     },
     {
       "dossier": "Etihad retire A380 vols Amérique du Nord",

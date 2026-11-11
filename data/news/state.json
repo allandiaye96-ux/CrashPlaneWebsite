@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-jetblue-airbus-a321lr-24-mint-suites-only-sells-23/": "2026-11-01T18:00:58Z",
     "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z",
     "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z",
     "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-v-22-osprey/": "2026-11-01T20:00:58Z",
@@ -1482,7 +1481,9 @@
     "https://simpleflying.com/5-airlines-premium-economy-boeing-777-300er-flights/": "2026-11-11T17:01:07Z",
     "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/": "2026-11-11T17:01:07Z",
     "https://www.airliners.de/lufthansa-empfaengt-airbus-a350-1000-muenchen/91479": "2026-11-11T17:20:36Z",
-    "https://www.twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military": "2026-11-11T17:50:34Z"
+    "https://www.twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military": "2026-11-11T17:50:34Z",
+    "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/": "2026-11-11T18:01:01Z",
+    "https://airlinegeeks.com/2026/11/11/american-projects-busiest-thanksgiving-period-in-years/": "2026-11-11T18:01:01Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5140,9 +5141,9 @@
       "id": "c1d863f44f7",
       "label": "Apollo rachat easyJet vote actionnaires",
       "categorie": "Compagnies",
-      "importance": 2,
+      "importance": 3,
       "created": "2026-11-11T14:20:52Z",
-      "updated": "2026-11-11T14:20:52Z",
+      "updated": "2026-11-11T18:01:16Z",
       "items": [
         {
           "id": "6e189edcdfa80c62",
@@ -5152,10 +5153,19 @@
           "domain": "airliners.de",
           "summary": "Die Aktionäre der Easyjet haben mit großer Mehrheit den Weg für die Übernahme durch den Finanzinvestor Apollo freigemacht. Damit rückt der Rückzug der Airline von der Börse näher. Eine entscheidende Hürde steht allerdings noch aus.",
           "published": "2026-11-11T13:41:21Z"
+        },
+        {
+          "id": "ff76efd30689e838",
+          "feed": "Simple Flying",
+          "title": "$7.6 Billion Takeover: easyJet Shareholders Back Apollo Deal That Will Take The Airline Private",
+          "url": "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/",
+          "domain": "simpleflying.com",
+          "summary": "An American private equity firm now has easyJet shareholder approval to take over the budget airline.",
+          "published": "2026-11-11T17:55:22Z"
         }
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-      "written_count": 1
+      "written_count": 2
     },
     "c26b775d3a4": {
       "id": "c26b775d3a4",
@@ -5274,6 +5284,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.688257
+    "2026-11": 4.697521
   }
 }

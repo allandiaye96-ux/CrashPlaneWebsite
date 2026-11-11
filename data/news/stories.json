@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
+    "created": "2026-11-11T14:21:01Z",
+    "updated": "2026-11-11T18:01:20Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 3,
+    "titre": "easyJet : les actionnaires approuvent le rachat par Apollo, valorisé à 7,6 milliards de dollars",
+    "chapo": "Selon airliners.de, les actionnaires d'easyJet ont validé à une large majorité l'offre de rachat du fonds Apollo, ce qui rapproche la compagnie d'un retrait de la Bourse. Simple Flying évoque une opération de 7,6 milliards de dollars.",
+    "paragraphes": [
+      "D'après airliners.de, le vote des actionnaires ouvre la voie à une prise de contrôle de la compagnie low cost par l'investisseur financier Apollo. Le média précise qu'un obstacle décisif reste toutefois à franchir avant la finalisation de l'opération.",
+      "Simple Flying décrit Apollo comme une société américaine de capital-investissement, qui dispose désormais de l'aval des actionnaires d'easyJet. Si l'opération aboutit, la compagnie deviendrait une entreprise privée."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Easyjet-Aktionäre stimmen Übernahme durch Apollo zu",
+        "url": "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459",
+        "date": "2026-11-11T13:41:21Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "$7.6 Billion Takeover: easyJet Shareholders Back Apollo Deal That Will Take The Airline Private",
+        "url": "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/",
+        "date": "2026-11-11T17:55:22Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
     "created": "2026-11-10T13:50:59Z",
     "updated": "2026-11-11T17:20:58Z",
@@ -233,38 +272,6 @@
         "title": "Chine : les contrats records de GE pour 12,9 milliards de dollars soulignent la dépendance du C919 aux moteurs occidentaux",
         "url": "https://www.air-journal.fr/2026-11-11-chine-les-contrats-records-de-ge-pour-129-milliards-de-dollars-soulignent-la-dependance-du-c919-aux-moteurs-occidentaux-5278799.html",
         "date": "2026-11-11T15:00:55Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-    "created": "2026-11-11T14:21:01Z",
-    "updated": "2026-11-11T14:21:01Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "EasyJet : les actionnaires approuvent à une large majorité le rachat par le fonds Apollo",
-    "chapo": "Selon airliners.de, les actionnaires d'EasyJet ont ouvert la voie, à une large majorité, à une prise de contrôle de la compagnie par le fonds d'investissement Apollo.",
-    "paragraphes": [
-      "Ce vote rapproche la compagnie aérienne d'un retrait de la cote en Bourse, rapporte le média allemand.",
-      "Un obstacle décisif reste toutefois à franchir avant la finalisation de l'opération, d'après airliners.de."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Easyjet-Aktionäre stimmen Übernahme durch Apollo zu",
-        "url": "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459",
-        "date": "2026-11-11T13:41:21Z",
         "official": false
       }
     ]
