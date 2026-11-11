@@ -1,5 +1,122 @@
 [
   {
+    "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
+    "created": "2026-11-11T14:21:01Z",
+    "updated": "2026-11-11T14:21:01Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "EasyJet : les actionnaires approuvent à une large majorité le rachat par le fonds Apollo",
+    "chapo": "Selon airliners.de, les actionnaires d'EasyJet ont ouvert la voie, à une large majorité, à une prise de contrôle de la compagnie par le fonds d'investissement Apollo.",
+    "paragraphes": [
+      "Ce vote rapproche la compagnie aérienne d'un retrait de la cote en Bourse, rapporte le média allemand.",
+      "Un obstacle décisif reste toutefois à franchir avant la finalisation de l'opération, d'après airliners.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Easyjet-Aktionäre stimmen Übernahme durch Apollo zu",
+        "url": "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459",
+        "date": "2026-11-11T13:41:21Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
+    "created": "2026-11-11T13:01:22Z",
+    "updated": "2026-11-11T14:20:59Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Magnifica Air confirme une commande ferme de dix Airbus ACJ220-300 et choisit des solutions Skywise",
+    "chapo": "La compagnie privée américaine Magnifica Air a confirmé une commande ferme de dix ACJ220-300, selon AviTrader. Cette commande figurait jusqu'ici comme non divulguée dans le carnet de commandes d'Airbus.",
+    "paragraphes": [
+      "D'après AviTrader, la compagnie constitue une flotte ultra-premium. Elle a également retenu plusieurs solutions numériques Airbus Skywise, dont la plateforme de données Skywise Core X1, ainsi que des outils de planification de vol, d'exploitation et de gestion des équipages.",
+      "Selon AeroTime, Magnifica Air est une compagnie en démarrage basée en Floride, qui prévoit de proposer des vols réguliers exclusivement premium à partir de 2027."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Magnifica Air confirms order for ten ACJ220s",
+        "url": "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/",
+        "date": "2026-11-11T12:55:27Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Magnifica Air confirms order for 10 A220 ACJ jets",
+        "url": "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets",
+        "date": "2026-11-11T13:53:53Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
+    "created": "2026-11-10T13:20:54Z",
+    "updated": "2026-11-11T14:20:55Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Embraer relève ses prévisions 2026 de chiffre d'affaires et de cash-flow après un troisième trimestre record",
+    "chapo": "Après un troisième trimestre record, Embraer rehausse ses objectifs de chiffre d'affaires et de flux de trésorerie pour 2026, selon airliners.de et AeroTime. Les objectifs de livraisons restent inchangés.",
+    "paragraphes": [
+      "D'après AeroTime, le constructeur brésilien a enregistré un chiffre d'affaires de 2,35 milliards de dollars au troisième trimestre, un niveau record. Il a relevé en conséquence ses prévisions de chiffre d'affaires et de free cash flow pour 2026.",
+      "Le Journal de l'Aviation indique qu'Embraer avait auparavant annoncé un nombre record de livraisons sur le trimestre, ainsi qu'un carnet de commandes à un niveau record. Selon airliners.de, l'avionneur maintient en revanche ses objectifs de livraisons pour l'année."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
+        "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
+        "date": "2026-11-10T13:15:30Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Après un 3e trimestre record, Embraer relève ses prévisions",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html",
+        "date": "2026-11-10T13:52:02Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Embraer raises 2026 outlook after record third-quarter revenue",
+        "url": "https://www.aerotime.aero/articles/embraer-raises-2026-outlook-record-q3-revenue",
+        "date": "2026-11-11T13:56:37Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438",
     "created": "2026-11-11T13:31:09Z",
     "updated": "2026-11-11T13:31:09Z",
@@ -27,38 +144,6 @@
         "title": "Alaska Airlines To Launch 8-Hour Flights From Anchorage To Tokyo",
         "url": "https://simpleflying.com/video/alaska-airlines-to-launch-8-hour-flights-from-anchorage-to-tokyo/",
         "date": "2026-11-11T13:28:18Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
-    "created": "2026-11-11T13:01:22Z",
-    "updated": "2026-11-11T13:01:22Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Magnifica Air confirme une commande ferme de dix Airbus ACJ220-300",
-    "chapo": "Selon AviTrader, la compagnie privée américaine Magnifica Air a confirmé une commande ferme portant sur dix ACJ220-300 d'Airbus, jusque-là inscrits comme non divulgués au carnet de commandes du constructeur.",
-    "paragraphes": [
-      "Cette commande s'inscrit dans la constitution de la flotte ultra-premium de la compagnie, basée aux États-Unis. Les appareils figuraient auparavant sous une mention anonyme dans le carnet de commandes d'Airbus.",
-      "Magnifica Air a par ailleurs retenu plusieurs solutions numériques Airbus Skywise, dont la plateforme de données Skywise Core X1, ainsi que des outils de planification des vols, d'exploitation et de gestion des équipages, d'après AviTrader."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "Magnifica Air confirms order for ten ACJ220s",
-        "url": "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/",
-        "date": "2026-11-11T12:55:27Z",
         "official": false
       }
     ]
@@ -820,45 +905,6 @@
         "title": "United Airlines opens new Concourse E at Washington Dulles Airport",
         "url": "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport",
         "date": "2026-11-10T14:57:43Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
-    "created": "2026-11-10T13:20:54Z",
-    "updated": "2026-11-10T14:01:27Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Embraer relève ses prévisions de chiffre d'affaires et de trésorerie après un trimestre record",
-    "chapo": "Après un troisième trimestre record, Embraer rehausse ses prévisions de chiffre d'affaires et de flux de trésorerie pour l'année en cours, selon airliners.de. Les objectifs de livraisons restent inchangés.",
-    "paragraphes": [
-      "Le constructeur brésilien maintient en revanche ses cibles initiales pour les livraisons sur l'ensemble de l'année, précise airliners.de.",
-      "Le Journal de l'Aviation rappelle que l'avionneur avait fait état d'un nombre record de livraisons au troisième trimestre, ainsi que d'un niveau record de son carnet de commandes."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
-        "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
-        "date": "2026-11-10T13:15:30Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Après un 3e trimestre record, Embraer relève ses prévisions",
-        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html",
-        "date": "2026-11-10T13:52:02Z",
         "official": false
       }
     ]

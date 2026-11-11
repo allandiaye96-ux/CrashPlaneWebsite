@@ -1456,7 +1456,14 @@
     "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-11T13:50:35Z",
     "https://simpleflying.com/british-airways-cancels-5-routes-from-this-london-airport/": "2026-11-11T14:01:07Z",
     "https://www.air-journal.fr/2026-11-11-avec-easyjet-plus-a-prix-reduit-easyjet-cible-les-habitues-dorly-5278798.html": "2026-11-11T14:01:07Z",
-    "https://leehamnews.com/2026/11/11/lessors-playing-increasing-ownership-role-in-global-fleet/": "2026-11-11T14:10:37Z"
+    "https://leehamnews.com/2026/11/11/lessors-playing-increasing-ownership-role-in-global-fleet/": "2026-11-11T14:10:37Z",
+    "https://www.aerotime.aero/articles/embraer-raises-2026-outlook-record-q3-revenue": "2026-11-11T14:20:37Z",
+    "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets": "2026-11-11T14:20:37Z",
+    "https://www.airliners.de/boeing-sicherheitschef-beschaeftigte-melden-bedenken-schuetzen/91461": "2026-11-11T14:20:37Z",
+    "https://www.airliners.de/bahn-entschaedigung-personen-gleis/91460": "2026-11-11T14:20:37Z",
+    "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459": "2026-11-11T14:20:37Z",
+    "https://www.airliners.de/baltische-staaten-loesen-drohnenalarm-finnland-beschraenkt-luftraum/91458": "2026-11-11T14:20:37Z",
+    "https://www.airliners.de/google-spirit-airlines-daten-datenschutz-beschaeftigte/91457": "2026-11-11T14:20:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4783,7 +4790,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:20:51Z",
-      "updated": "2026-11-10T14:01:20Z",
+      "updated": "2026-11-11T14:20:52Z",
       "items": [
         {
           "id": "e0529ea12b5d16b1",
@@ -4802,10 +4809,19 @@
           "domain": "journal-aviation.com",
           "summary": "Après avoir annoncé un nombre record de livraisons au troisième trimestre et un niveau record de son carnet de commandes, Embraer annonce que son chiffre d’affaires sur la période est […] L’article Après un 3e trimestre record, Embraer relève ses prévisions a été publié sur Le Journal de l’Aviation .",
           "published": "2026-11-10T13:52:02Z"
+        },
+        {
+          "id": "1db97411a64cb6e0",
+          "feed": "AeroTime",
+          "title": "Embraer raises 2026 outlook after record third-quarter revenue",
+          "url": "https://www.aerotime.aero/articles/embraer-raises-2026-outlook-record-q3-revenue",
+          "domain": "aerotime.aero",
+          "summary": "Embraer has raised its 2026 revenue and free cash flow guidance after posting third-quarter revenue of $2.35 billion,… The post Embraer raises 2026 outlook after record third-quarter revenue appeared first on AeroTime .",
+          "published": "2026-11-11T13:56:37Z"
         }
       ],
       "story_id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
-      "written_count": 2
+      "written_count": 3
     },
     "cb1cac6cf6d": {
       "id": "cb1cac6cf6d",
@@ -5299,7 +5315,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-11T13:01:19Z",
-      "updated": "2026-11-11T13:01:19Z",
+      "updated": "2026-11-11T14:20:52Z",
       "items": [
         {
           "id": "c6cae82c3bbccecb",
@@ -5309,10 +5325,19 @@
           "domain": "avitrader.com",
           "summary": "US-based private airline Magnifica Air has confirmed a firm order for ten Airbus ACJ220-300 aircraft, previously listed as undisclosed in the manufacturer’s order book, as it builds its ultra-premium fleet. The airline has also selected a range of Airbus Skywise digital solutions, including the Skywise Core X1 data platform, flight planning, operations and crew management […] The post Magnifica Air confirms order for ten ACJ220s appeared first on AviTrader Aviation News .",
           "published": "2026-11-11T12:55:27Z"
+        },
+        {
+          "id": "d9bb4bc19f3ce8c6",
+          "feed": "AeroTime",
+          "title": "Magnifica Air confirms order for 10 A220 ACJ jets",
+          "url": "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets",
+          "domain": "aerotime.aero",
+          "summary": "Magnifica Air, a Florida-based startup airline which plans to offer premium-only scheduled flights from 2027, has disclosed an… The post Magnifica Air confirms order for 10 A220 ACJ jets appeared first on AeroTime .",
+          "published": "2026-11-11T13:53:53Z"
         }
       ],
       "story_id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
-      "written_count": 1
+      "written_count": 2
     },
     "c88a266a438": {
       "id": "c88a266a438",
@@ -5334,10 +5359,52 @@
       ],
       "story_id": "2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438",
       "written_count": 1
+    },
+    "c1d863f44f7": {
+      "id": "c1d863f44f7",
+      "label": "Apollo rachat easyJet vote actionnaires",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-11T14:20:52Z",
+      "updated": "2026-11-11T14:20:52Z",
+      "items": [
+        {
+          "id": "6e189edcdfa80c62",
+          "feed": "airliners.de",
+          "title": "Easyjet-Aktionäre stimmen Übernahme durch Apollo zu",
+          "url": "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459",
+          "domain": "airliners.de",
+          "summary": "Die Aktionäre der Easyjet haben mit großer Mehrheit den Weg für die Übernahme durch den Finanzinvestor Apollo freigemacht. Damit rückt der Rückzug der Airline von der Börse näher. Eine entscheidende Hürde steht allerdings noch aus.",
+          "published": "2026-11-11T13:41:21Z"
+        }
+      ],
+      "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
+      "written_count": 1
+    },
+    "c26b775d3a4": {
+      "id": "c26b775d3a4",
+      "label": "Alerte drones Pays baltes Finlande espace aérien",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-11T14:20:52Z",
+      "updated": "2026-11-11T14:20:52Z",
+      "items": [
+        {
+          "id": "49aaa430826be991",
+          "feed": "airliners.de",
+          "title": "Baltische Staaten lösen Drohnenalarm aus – Finnland beschränkt Luftraum",
+          "url": "https://www.airliners.de/baltische-staaten-loesen-drohnenalarm-finnland-beschraenkt-luftraum/91458",
+          "domain": "airliners.de",
+          "summary": "Litauen, Lettland und Estland haben am frühen Mittwochmorgen ihre Einwohner aufgerufen, wegen nicht identifizierter Drohnen Schutzräume aufzusuchen. Auch Finnland reagierte und schränkte vorübergehend den Luftraum ein.",
+          "published": "2026-11-11T13:40:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.563797
+    "2026-11": 4.589255
   }
 }

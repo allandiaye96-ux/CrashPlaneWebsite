@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 14:10:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 14:21:01 +0000</lastBuildDate>
+  <item>
+    <title>EasyJet : les actionnaires approuvent à une large majorité le rachat par le fonds Apollo</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</guid>
+    <pubDate>Wed, 11 Nov 2026 14:21:01 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, les actionnaires d&#x27;EasyJet ont ouvert la voie, à une large majorité, à une prise de contrôle de la compagnie par le fonds d&#x27;investissement Apollo.</description>
+  </item>
   <item>
     <title>Alaska Airlines prépare un vol Anchorage–Tokyo Narita en Boeing 737 MAX 8 dès le 13 mai 2027</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438/</link>
@@ -16,12 +24,12 @@
     <description>Selon Simple Flying, Alaska Airlines s&#x27;apprête à lancer une liaison sans escale entre Anchorage et Tokyo Narita le 13 mai 2027. Le projet reste soumis à l&#x27;approbation des autorités.</description>
   </item>
   <item>
-    <title>Magnifica Air confirme une commande ferme de dix Airbus ACJ220-300</title>
+    <title>Magnifica Air confirme une commande ferme de dix Airbus ACJ220-300 et choisit des solutions Skywise</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a/</guid>
     <pubDate>Wed, 11 Nov 2026 13:01:22 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon AviTrader, la compagnie privée américaine Magnifica Air a confirmé une commande ferme portant sur dix ACJ220-300 d&#x27;Airbus, jusque-là inscrits comme non divulgués au carnet de commandes du constructeur.</description>
+    <description>La compagnie privée américaine Magnifica Air a confirmé une commande ferme de dix ACJ220-300, selon AviTrader. Cette commande figurait jusqu&#x27;ici comme non divulguée dans le carnet de commandes d&#x27;Airbus.</description>
   </item>
   <item>
     <title>Lesha Bank cède six Airbus A380 à Emirates, dont deux déjà livrés</title>
@@ -104,12 +112,12 @@
     <description>Lufthansa a reçu son premier Airbus A350-1000 le 10 novembre 2026 à Toulouse, selon AeroTime. L&#x27;appareil est aussi le 700e Airbus livré au groupe allemand.</description>
   </item>
   <item>
-    <title>Embraer relève ses prévisions de chiffre d&#x27;affaires et de trésorerie après un trimestre record</title>
+    <title>Embraer relève ses prévisions 2026 de chiffre d&#x27;affaires et de cash-flow après un troisième trimestre record</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208/</guid>
     <pubDate>Tue, 10 Nov 2026 13:20:54 +0000</pubDate>
     <category>Constructeurs et industrie</category>
-    <description>Après un troisième trimestre record, Embraer rehausse ses prévisions de chiffre d&#x27;affaires et de flux de trésorerie pour l&#x27;année en cours, selon airliners.de. Les objectifs de livraisons restent inchangés.</description>
+    <description>Après un troisième trimestre record, Embraer rehausse ses objectifs de chiffre d&#x27;affaires et de flux de trésorerie pour 2026, selon airliners.de et AeroTime. Les objectifs de livraisons restent inchangés.</description>
   </item>
   <item>
     <title>Emirates suspend ses plans pour Berlin et veut clarifier l&#x27;accord aérien avec le ministère des Transports</title>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 09:10:55 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, KLM vient de recevoir son premier Airbus A350 de nouvelle génération. Le média l&#x27;associe au remplacement d&#x27;anciens gros-porteurs par 22 A350.</description>
-  </item>
-  <item>
-    <title>GE Aerospace et BETA annoncent un décollage assisté hybride-électrique sur un Saab 340B modifié</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac/</guid>
-    <pubDate>Mon, 09 Nov 2026 08:40:55 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon AviTrader, GE Aerospace et BETA Technologies ont réalisé ce qu&#x27;elles présentent comme le premier décollage assisté hybride-électrique au monde avec un appareil conçu pour transporter des passagers à des altitudes d&#x27;avion de ligne.</description>
   </item>
 </channel>
 </rss>
