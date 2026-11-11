@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T21:30:50Z",
+  "run": "2026-11-11T21:40:33Z",
   "stats": {
     "fetched": 682,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7498,
+  "spend_month_usd": 4.7591,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -250,6 +250,12 @@
       "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
     },
     {
+      "dossier": "Apollo rachat easyJet vote actionnaires",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
+    },
+    {
       "dossier": "Air India commande gros-porteurs supplémentaire",
       "statut": "corrobore",
       "editeurs": 2,
@@ -392,12 +398,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a"
-    },
-    {
-      "dossier": "Apollo rachat easyJet vote actionnaires",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
     },
     {
       "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",

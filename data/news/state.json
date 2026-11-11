@@ -1492,7 +1492,8 @@
     "https://simpleflying.com/5-boeing-737-max-10-customers-largest-orders/": "2026-11-11T21:01:06Z",
     "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman": "2026-11-11T21:01:06Z",
     "https://airlinegeeks.com/2026/11/11/united-bans-ai-agents-from-booking-flights-for-customers/": "2026-11-11T21:10:33Z",
-    "https://www.twz.com/news-features/ukraine-regretting-white-house-brokered-temporary-ceasefire-in-strategic-riverside-town-of-oleshky": "2026-11-11T21:30:50Z"
+    "https://www.twz.com/news-features/ukraine-regretting-white-house-brokered-temporary-ceasefire-in-strategic-riverside-town-of-oleshky": "2026-11-11T21:30:50Z",
+    "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover": "2026-11-11T21:40:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5137,7 +5138,7 @@
       "categorie": "Compagnies",
       "importance": 3,
       "created": "2026-11-11T14:20:52Z",
-      "updated": "2026-11-11T18:01:16Z",
+      "updated": "2026-11-11T21:40:47Z",
       "items": [
         {
           "id": "6e189edcdfa80c62",
@@ -5156,10 +5157,19 @@
           "domain": "simpleflying.com",
           "summary": "An American private equity firm now has easyJet shareholder approval to take over the budget airline.",
           "published": "2026-11-11T17:55:22Z"
+        },
+        {
+          "id": "de61ebc303b3fad5",
+          "feed": "AeroTime",
+          "title": "easyJet shareholders approve Apollo’s £5.7 billion takeover bid",
+          "url": "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover",
+          "domain": "aerotime.aero",
+          "summary": "easyJet shareholders approved Apollo’s proposed £5.7 billion ($7.6 billion) takeover on November 11, 2026. The UK low-cost carrier… The post easyJet shareholders approve Apollo’s £5.7 billion takeover bid appeared first on AeroTime .",
+          "published": "2026-11-11T21:18:22Z"
         }
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-      "written_count": 2
+      "written_count": 3
     },
     "c26b775d3a4": {
       "id": "c26b775d3a4",
@@ -5278,6 +5288,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.74981
+    "2026-11": 4.759138
   }
 }

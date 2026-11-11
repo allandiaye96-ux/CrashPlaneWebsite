@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
+    "created": "2026-11-11T14:21:01Z",
+    "updated": "2026-11-11T21:40:51Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 3,
+    "titre": "easyJet : les actionnaires approuvent le rachat par Apollo pour 5,7 milliards de livres",
+    "chapo": "Selon AeroTime, les actionnaires d'easyJet ont approuvé le 11 novembre 2026 l'offre de rachat d'Apollo, valorisée 5,7 milliards de livres (7,6 milliards de dollars). L'opération doit mener au retrait de la compagnie de la Bourse.",
+    "paragraphes": [
+      "D'après airliners.de, le vote a été acquis à une large majorité et rapproche le retrait de cotation de la compagnie low-cost britannique. Le fonds d'investissement américain Apollo prendrait ainsi le contrôle d'easyJet, qui deviendrait une entreprise privée, précise Simple Flying.",
+      "Airliners.de indique toutefois qu'un obstacle décisif reste à franchir avant la finalisation de l'opération."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Easyjet-Aktionäre stimmen Übernahme durch Apollo zu",
+        "url": "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459",
+        "date": "2026-11-11T13:41:21Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "$7.6 Billion Takeover: easyJet Shareholders Back Apollo Deal That Will Take The Airline Private",
+        "url": "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/",
+        "date": "2026-11-11T17:55:22Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "easyJet shareholders approve Apollo’s £5.7 billion takeover bid",
+        "url": "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover",
+        "date": "2026-11-11T21:18:22Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e",
     "created": "2026-11-11T21:01:25Z",
     "updated": "2026-11-11T21:01:25Z",
@@ -176,45 +222,6 @@
         "title": "Boeing cuts commercial airplanes workforce amid slow production",
         "url": "https://australianaviation.com.au/2026/11/boeing-cuts-commercial-airplanes-workforce-amid-slow-production/",
         "date": "2026-11-11T00:28:12Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-    "created": "2026-11-11T14:21:01Z",
-    "updated": "2026-11-11T18:01:20Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 3,
-    "titre": "easyJet : les actionnaires approuvent le rachat par Apollo, valorisé à 7,6 milliards de dollars",
-    "chapo": "Selon airliners.de, les actionnaires d'easyJet ont validé à une large majorité l'offre de rachat du fonds Apollo, ce qui rapproche la compagnie d'un retrait de la Bourse. Simple Flying évoque une opération de 7,6 milliards de dollars.",
-    "paragraphes": [
-      "D'après airliners.de, le vote des actionnaires ouvre la voie à une prise de contrôle de la compagnie low cost par l'investisseur financier Apollo. Le média précise qu'un obstacle décisif reste toutefois à franchir avant la finalisation de l'opération.",
-      "Simple Flying décrit Apollo comme une société américaine de capital-investissement, qui dispose désormais de l'aval des actionnaires d'easyJet. Si l'opération aboutit, la compagnie deviendrait une entreprise privée."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Easyjet-Aktionäre stimmen Übernahme durch Apollo zu",
-        "url": "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459",
-        "date": "2026-11-11T13:41:21Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "$7.6 Billion Takeover: easyJet Shareholders Back Apollo Deal That Will Take The Airline Private",
-        "url": "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/",
-        "date": "2026-11-11T17:55:22Z",
         "official": false
       }
     ]
