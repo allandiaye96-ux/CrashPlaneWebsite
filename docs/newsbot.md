@@ -1,7 +1,7 @@
 # Robot d'actualités
 
 Le robot publie des brèves d'actualité aéronautique sur la page `/actualites/`.
-Il tourne tout seul sur GitHub (GitHub Actions), sans serveur. Un service gratuit externe (cron-job.org) le déclenche toutes les 10 minutes ; une exécution planifiée par GitHub toutes les 30 minutes sert de filet de sécurité, car GitHub retarde ou saute souvent les tâches planifiées fréquentes.
+Il tourne tout seul sur GitHub (GitHub Actions), sans serveur. Un service gratuit externe (cron-job.org) le déclenche toutes les 2 heures (l’actualité aéronautique ne justifie pas plus) ; une exécution planifiée par GitHub toutes les 6 heures sert de filet de sécurité, car GitHub retarde ou saute souvent les tâches planifiées.
 
 ## Fonctionnement
 
