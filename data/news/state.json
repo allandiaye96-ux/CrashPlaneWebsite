@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/personal-karriere-fortschritt-ermuedungsmanagement-befristete-nullrunden-condor-piloten-tarifvertrag-flugdisponenten/91217": "2026-11-01T06:20:33Z",
     "https://www.air-journal.fr/2026-11-01-air-france-renforce-son-offre-vers-les-ameriques-lasie-et-la-peninsule-iberique-pour-lhiver-2026-2027-5278613.html": "2026-11-01T07:00:59Z",
     "https://www.aero.de/news-54061/Bekennerschreiben-zu-Brand-auf-Rheinmetall-Baustelle.html": "2026-11-01T07:30:53Z",
     "https://www.aero.de/news-54062/Eurofighter-trainieren-am-Flughafen-Weeze.html": "2026-11-01T07:40:33Z",
@@ -1417,7 +1416,10 @@
     "https://www.aero.de/news-54136/Emirates-Verkehrsrechte-BER.html": "2026-11-11T05:20:32Z",
     "https://www.airliners.de/zweiter-tankdienstleister-prag-afuel/91415": "2026-11-11T05:20:32Z",
     "https://simpleflying.com/singapore-airlines-saving-new-premium-economy-seat-boeing-777-9/": "2026-11-11T06:01:04Z",
-    "https://www.air-journal.fr/2026-11-11-boeing-49-avions-livres-et-165-commandes-enregistrees-en-octobre-2026-5278778.html": "2026-11-11T06:01:04Z"
+    "https://www.air-journal.fr/2026-11-11-boeing-49-avions-livres-et-165-commandes-enregistrees-en-octobre-2026-5278778.html": "2026-11-11T06:01:04Z",
+    "https://www.airliners.de/politik-gesellschaft-hamburg-schweigt-asien-zielen-bombendrohungen-europa-fluege-linke-fragt-katar-abkommen/91445": "2026-11-11T06:20:35Z",
+    "https://www.airliners.de/emirates-baut-premium-economy-angebot-europa/91449": "2026-11-11T06:20:35Z",
+    "https://www.airliners.de/etihad-airways-stellt-boeing-787-mclaren-sonderbemalung/91443": "2026-11-11T06:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5395,6 +5397,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.376758
+    "2026-11": 4.377659
   }
 }
