@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
+    "created": "2026-11-10T17:21:05Z",
+    "updated": "2026-11-11T06:01:31Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing : 49 livraisons en octobre 2026, mais 165 commandes portées par Avolon",
+    "chapo": "Selon Air Journal, Boeing a remis 49 appareils à ses clients en octobre 2026, un volume en recul par rapport à septembre. Les commandes ont en revanche atteint 165 unités, sans annulation.",
+    "paragraphes": [
+      "D'après Air Journal, le constructeur américain avait livré 57 avions le mois précédent. Airliners.de indique de son côté que les livraisons d'octobre sont aussi inférieures à celles d'octobre de l'année précédente.",
+      "Côté ventes, Boeing signe son meilleur mois d'octobre depuis 1997, d'après airliners.de. Un seul client concentre l'essentiel des commandes : le loueur irlandais Avolon, qui a acheté 140 Boeing 737 MAX, précise Air Journal.",
+      "Sur les dix premiers mois de l'année, Air Journal fait état d'une progression d'environ 6 % des livraisons de l'avionneur."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Boeing liefert im Oktober weniger Flugzeuge aus",
+        "url": "https://www.airliners.de/boeing-liefert-oktober-weniger-flugzeuge-aus/91453",
+        "date": "2026-11-10T16:49:58Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Boeing : 49 avions livrés et 165 commandes enregistrées en octobre 2026",
+        "url": "https://www.air-journal.fr/2026-11-11-boeing-49-avions-livres-et-165-commandes-enregistrees-en-octobre-2026-5278778.html",
+        "date": "2026-11-11T06:00:39Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
     "created": "2026-11-11T05:20:57Z",
     "updated": "2026-11-11T05:20:57Z",
@@ -423,38 +463,6 @@
         "title": "China Lifts The Veil On Its GJ-11 Mysterious Dragon Stealth UCAV",
         "url": "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav",
         "date": "2026-11-10T19:27:30Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
-    "created": "2026-11-10T17:21:05Z",
-    "updated": "2026-11-10T17:21:05Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Boeing : moins de livraisons en octobre, mais des commandes au plus haut pour un mois d'octobre depuis 1997",
-    "chapo": "Selon airliners.de, Boeing a livré moins d'avions en octobre que le mois précédent et qu'en octobre de l'année précédente. Le constructeur américain a en revanche enregistré son meilleur mois d'octobre en commandes depuis 1997.",
-    "paragraphes": [
-      "D'après le média allemand, le recul des livraisons s'observe à la fois par rapport au mois précédent et au même mois de l'année précédente.",
-      "Côté commandes, la majeure partie des contrats enregistrés provient d'un seul client, précise airliners.de."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Boeing liefert im Oktober weniger Flugzeuge aus",
-        "url": "https://www.airliners.de/boeing-liefert-oktober-weniger-flugzeuge-aus/91453",
-        "date": "2026-11-10T16:49:58Z",
         "official": false
       }
     ]

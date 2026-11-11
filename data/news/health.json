@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T05:50:34Z",
+  "run": "2026-11-11T06:01:04Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.3578,
+  "spend_month_usd": 4.3768,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -424,6 +424,12 @@
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
     },
     {
+      "dossier": "Boeing livraisons et commandes octobre",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -770,12 +776,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd"
-    },
-    {
-      "dossier": "Boeing livraisons et commandes octobre",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
     },
     {
       "dossier": "SAS hausse vols Atlanta Seattle été 2027",
