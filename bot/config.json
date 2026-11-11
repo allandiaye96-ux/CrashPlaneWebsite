@@ -12,7 +12,7 @@
       "output": 10.0
     }
   },
-  "monthly_budget_usd": 10.0,
+  "monthly_budget_usd": 5.0,
   "max_writes_per_run": 8,
   "max_items_per_triage": 120,
   "window_hours": 48,

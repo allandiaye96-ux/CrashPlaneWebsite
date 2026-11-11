@@ -41,7 +41,7 @@ La brève disparaît du site en une à deux minutes, et le robot ne la réaffich
 ## Coûts et garde-fous
 
 - Tri : `claude-haiku-5-5` (0,10 $ / 0,50 $ par million de jetons). Rédaction : `claude-sonnet-5-5` (2 $ / 10 $), avec repli automatique sur Haiku dès que 70 % du budget mensuel est consommé (`writer_fallback_ratio`).
-- Le plafond est fixé par `monthly_budget_usd` (10 $). Une fois ce plafond atteint, le robot ne fait plus aucun appel jusqu'au mois suivant.
+- Le plafond est fixé par `monthly_budget_usd` (5 $, aligné sur la limite de dépense du compte Anthropic ; repli sur Haiku dès 3,50 $). Une fois ce plafond atteint, le robot ne fait plus aucun appel jusqu'au mois suivant.
 - La dépense estimée est suivie dans `data/news/state.json`, rubrique `spend`. Fixe aussi une limite de dépense dans la console Anthropic : c'est le garde-fou réel.
 
 ## Limites connues
