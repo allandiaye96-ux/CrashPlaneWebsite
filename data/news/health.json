@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-11T12:20:35Z",
+  "run": "2026-11-11T12:30:53Z",
   "stats": {
     "fetched": 678,
-    "new": 8,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -422,12 +422,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Discover A350 et Air Transat Toronto-Berlin",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-discover-emirates-air-transat-flotte-berlin-et-liaison-toron-8f8b"
     },
     {
       "dossier": "Latam baisse prévisions Ebitda carburant",
