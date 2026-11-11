@@ -1480,7 +1480,8 @@
     "https://www.aerotime.aero/articles/immfly-digitalizes-klms-onboard-catering-and-retail-offering": "2026-11-11T16:20:34Z",
     "https://www.airliners.de/swiss-verschiebt-rueckkehr-dubai-maerz/91474": "2026-11-11T16:20:34Z",
     "https://simpleflying.com/5-airlines-premium-economy-boeing-777-300er-flights/": "2026-11-11T17:01:07Z",
-    "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/": "2026-11-11T17:01:07Z"
+    "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/": "2026-11-11T17:01:07Z",
+    "https://www.airliners.de/lufthansa-empfaengt-airbus-a350-1000-muenchen/91479": "2026-11-11T17:20:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4654,7 +4655,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:50:53Z",
-      "updated": "2026-11-10T21:10:56Z",
+      "updated": "2026-11-11T17:20:49Z",
       "items": [
         {
           "id": "bd3e2f64b8f737c8",
@@ -4727,10 +4728,19 @@
           "domain": "airlinegeeks.com",
           "summary": "The aircraft is the carrier’s 700th from Airbus.",
           "published": "2026-11-10T21:08:08Z"
+        },
+        {
+          "id": "51411a10e02d5632",
+          "feed": "airliners.de",
+          "title": "Lufthansa empfängt ersten Airbus A350-1000 in München",
+          "url": "https://www.airliners.de/lufthansa-empfaengt-airbus-a350-1000-muenchen/91479",
+          "domain": "airliners.de",
+          "summary": "Die Lufthansa hat ihren ersten Airbus A350-1000 übernommen, wie der Konzern bekannt gab. Die Maschine mit dem Taufnamen \"Deutschland\" landete am Mittwoch in München. Sie ist das 700. Airbus-Flugzeug für die Lufthansa Group. Der Konzern hat insgesamt 15 Exemplare bestellt, die bis 2030 kommen sollen.",
+          "published": "2026-11-11T17:06:00Z"
         }
       ],
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-      "written_count": 8
+      "written_count": 9
     },
     "cbd12c0c2c8": {
       "id": "cbd12c0c2c8",
@@ -5323,6 +5333,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.667845
+    "2026-11": 4.687447
   }
 }

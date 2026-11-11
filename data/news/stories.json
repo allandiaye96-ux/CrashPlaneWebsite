@@ -1,5 +1,87 @@
 [
   {
+    "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
+    "created": "2026-11-10T13:50:59Z",
+    "updated": "2026-11-11T17:20:58Z",
+    "version": 7,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa reçoit son premier Airbus A350-1000, 700e appareil Airbus du groupe",
+    "chapo": "Lufthansa a pris livraison de son premier A350-1000 à Toulouse le 10 novembre 2026, selon AeroTime. L'appareil est aussi le 700e Airbus livré au groupe allemand.",
+    "paragraphes": [
+      "L'avion porte une livrée spéciale célébrant les cent ans de la compagnie, d'après Air Journal. Il peut accueillir jusqu'à 300 passagers répartis en quatre classes de voyage. Selon airliners.de, il a reçu le nom de baptême « Deutschland ».",
+      "L'appareil, immatriculé D-AIFA, doit d'abord desservir des destinations en Asie, indique aero.de, qui souligne l'accent mis par Lufthansa sur ses nouvelles offres premium à bord. Il a rejoint le hub de Munich, où son arrivée est datée du 10 novembre par aero.de et du 11 novembre par airliners.de.",
+      "Lufthansa Group a commandé 15 exemplaires de l'A350-1000, dont la livraison est attendue d'ici 2030, précise airliners.de."
+    ],
+    "contradictions": "Date d'arrivée à Munich : aero.de la situe le mardi 10 novembre, airliners.de (article du 11 novembre) indique que l'avion a atterri le mercredi à Munich. Par ailleurs, le 700e Airbus est attribué à Lufthansa par certaines sources et au groupe Lufthansa par d'autres (Air Journal, airliners.de).",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 8,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Erster Airbus A350-1000 von Lufthansa landet in München",
+        "url": "https://www.aero.de/news-54139/Erster-Airbus-A350-1000-von-Lufthansa-landet-in-Muenchen.html",
+        "date": "2026-11-10T14:06:44Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa übernimmt ihren ersten A350-1000",
+        "url": "https://www.airliners.de/lufthansa-uebernimmt-ersten-a350-1000/91433",
+        "date": "2026-11-10T14:12:40Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Lufthansa reçoit son 1er Airbus A350-1000",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-recoit-son-1er-airbus-a350-1000-20261110.html",
+        "date": "2026-11-10T14:13:36Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "New Long-Haul Era: Lufthansa Receives 1st A350-1000 & 700th Airbus Jet Overall",
+        "url": "https://simpleflying.com/lufthansa-first-a350-1000-delivery-700th-airbus-overall/",
+        "date": "2026-11-10T14:13:54Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Lufthansa receives first A350-1000, its 700th Airbus aircraft",
+        "url": "https://www.aerotime.aero/articles/lufthansa-receives-first-a350-1000-its-700th-airbus-aircraft",
+        "date": "2026-11-10T15:05:30Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Un A350-1000 pour le centenaire de Lufthansa, un 700e Airbus pour le groupe",
+        "url": "https://www.air-journal.fr/2026-11-10-un-a350-1000-pour-le-centenaire-de-lufthansa-un-700e-airbus-pour-le-groupe-5278775.html",
+        "date": "2026-11-10T16:30:37Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "Lufthansa Takes Delivery of Its First A350-1000",
+        "url": "https://airlinegeeks.com/2026/11/10/lufthansa-takes-delivery-of-its-first-a350-1000/",
+        "date": "2026-11-10T21:08:08Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa empfängt ersten Airbus A350-1000 in München",
+        "url": "https://www.airliners.de/lufthansa-empfaengt-airbus-a350-1000-muenchen/91479",
+        "date": "2026-11-11T17:06:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb",
     "created": "2026-11-11T15:20:54Z",
     "updated": "2026-11-11T17:01:40Z",
@@ -623,87 +705,6 @@
         "title": "SAS Boosts Flights To These 2 Major Delta Hubs For Summer 2027",
         "url": "https://simpleflying.com/sas-boosts-flights-2-major-delta-hubs-summer-2027/",
         "date": "2026-11-10T22:02:34Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
-    "created": "2026-11-10T13:50:59Z",
-    "updated": "2026-11-10T21:11:03Z",
-    "version": 6,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Lufthansa prend livraison de son premier A350-1000, son 700e Airbus",
-    "chapo": "Lufthansa a reçu son premier Airbus A350-1000 le 10 novembre 2026 à Toulouse, selon AeroTime. L'appareil est aussi le 700e Airbus livré au groupe allemand.",
-    "paragraphes": [
-      "D'après Air Journal, le long-courrier porte une livrée célébrant les cent ans de la compagnie et peut accueillir jusqu'à 300 passagers répartis en quatre classes de voyage. Le Journal de l'Aviation précise qu'il s'agit du septième appareil de Lufthansa arborant une livrée spéciale.",
-      "Selon aero.de, l'avion, immatriculé D-AIFA, est arrivé à Munich, sur le hub de la compagnie. Il desservira d'abord des destinations en Asie. Le média relève que Lufthansa mise sur ses nouvelles offres premium à bord."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 8,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Airbus – Communiqués",
-        "title": "Lufthansa takes delivery of its first A350-1000 and 700th Airbus aircraft",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-lufthansa-takes-delivery-of-its-first-a350-1000-and-700th-airbus-aircraft",
-        "date": null,
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Erster Airbus A350-1000 von Lufthansa landet in München",
-        "url": "https://www.aero.de/news-54139/Erster-Airbus-A350-1000-von-Lufthansa-landet-in-Muenchen.html",
-        "date": "2026-11-10T14:06:44Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Lufthansa übernimmt ihren ersten A350-1000",
-        "url": "https://www.airliners.de/lufthansa-uebernimmt-ersten-a350-1000/91433",
-        "date": "2026-11-10T14:12:40Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Lufthansa reçoit son 1er Airbus A350-1000",
-        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-recoit-son-1er-airbus-a350-1000-20261110.html",
-        "date": "2026-11-10T14:13:36Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "New Long-Haul Era: Lufthansa Receives 1st A350-1000 & 700th Airbus Jet Overall",
-        "url": "https://simpleflying.com/lufthansa-first-a350-1000-delivery-700th-airbus-overall/",
-        "date": "2026-11-10T14:13:54Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Lufthansa receives first A350-1000, its 700th Airbus aircraft",
-        "url": "https://www.aerotime.aero/articles/lufthansa-receives-first-a350-1000-its-700th-airbus-aircraft",
-        "date": "2026-11-10T15:05:30Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Un A350-1000 pour le centenaire de Lufthansa, un 700e Airbus pour le groupe",
-        "url": "https://www.air-journal.fr/2026-11-10-un-a350-1000-pour-le-centenaire-de-lufthansa-un-700e-airbus-pour-le-groupe-5278775.html",
-        "date": "2026-11-10T16:30:37Z",
-        "official": false
-      },
-      {
-        "name": "AirlineGeeks",
-        "title": "Lufthansa Takes Delivery of Its First A350-1000",
-        "url": "https://airlinegeeks.com/2026/11/10/lufthansa-takes-delivery-of-its-first-a350-1000/",
-        "date": "2026-11-10T21:08:08Z",
         "official": false
       }
     ]
