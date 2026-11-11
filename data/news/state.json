@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-many-miles-business-class-with-united-mileageplus-2026/": "2026-11-01T11:00:57Z",
-    "https://www.air-journal.fr/2026-11-01-italie-un-ete-record-pour-les-aeroports-avec-988-millions-de-passagers-5278614.html": "2026-11-01T11:00:57Z",
     "https://simpleflying.com/how-1970s-aircraft-still-power-america-private-fleet/": "2026-11-01T12:00:59Z",
     "https://www.air-journal.fr/2026-11-01-air-france-le-chef-martiniquais-louis-philippe-vigilant-signe-les-menus-business-au-depart-des-antilles-guyane-5278623.html": "2026-11-01T12:00:59Z",
     "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine": "2026-11-01T12:40:35Z",
@@ -1438,7 +1436,8 @@
     "https://www.airliners.de/flydubai-dezember-verbindung-oesterreich/91447": "2026-11-11T10:20:33Z",
     "https://www.airliners.de/hensec-ergaenzt-drohnenerkennung-akustik-ki-kameras/91446": "2026-11-11T10:20:33Z",
     "https://www.aero.de/news-54142/Etihad-Airways-soll-neue-Condor-Fluege-massiv-bezuschussen.html": "2026-11-11T10:30:49Z",
-    "https://avitrader.com/2026/11/11/cathay-orders-14-more-airbus-aircraft/": "2026-11-11T10:40:33Z"
+    "https://avitrader.com/2026/11/11/cathay-orders-14-more-airbus-aircraft/": "2026-11-11T10:40:33Z",
+    "https://avitrader.com/2026/11/11/cyprus-airways-selects-swiss-as-amos-platform/": "2026-11-11T11:01:02Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1650,36 +1649,6 @@
       ],
       "story_id": "2026-11-03-learjet-60-en-floride-le-ntsb-releve-des-indices-d-une-perte-1140",
       "written_count": 6
-    },
-    "c60a1ad6fc9": {
-      "id": "c60a1ad6fc9",
-      "label": "Bangkok Suvarnabhumi extension capacité",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-03T05:31:01Z",
-      "updated": "2026-11-04T10:50:51Z",
-      "items": [
-        {
-          "id": "963f032ed94db55f",
-          "feed": "aero.de",
-          "title": "Bangkok plant Mega-Ausbau seines Flughafens",
-          "url": "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html",
-          "domain": "aero.de",
-          "summary": "BANGKOK - Thailands größter Flughafen Suvarnabhumi in Bangkok soll seine jährliche Passagierkapazität in den kommenden sieben Jahren verdoppeln.",
-          "published": "2026-11-03T05:26:27Z"
-        },
-        {
-          "id": "fa44d9d25445dc2d",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Bangkok-Suvarnabhumi : AOT prévoit de doubler la capacité de l’aéroport d’ici 6 à 7 ans",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/bangkok-suvarnabhumi-aot-prevoit-de-doubler-la-capacite-de-laeroport-dici-6-a-7-ans-20261104.html",
-          "domain": "journal-aviation.com",
-          "summary": "Le gestionnaire aéroportuaire Airports of Thailand (AOT) prévoit de doubler la capacité annuelle de l’aéroport de Bangkok-Suvarnabhumi dans le cadre de son cinquième plan de développement, avec un horizon envisagé […] L’article Bangkok-Suvarnabhumi : AOT prévoit de doubler la capacité de l’aéroport d’ici 6 à 7 ans a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-04T10:42:02Z"
-        }
-      ],
-      "story_id": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9",
-      "written_count": 2
     },
     "c33d94ac6de": {
       "id": "c33d94ac6de",
@@ -5293,6 +5262,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.477579
+    "2026-11": 4.478397
   }
 }

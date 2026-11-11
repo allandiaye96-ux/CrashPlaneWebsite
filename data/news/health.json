@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T10:50:34Z",
+  "run": "2026-11-11T11:01:02Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.4776,
+  "spend_month_usd": 4.4784,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a"
-    },
-    {
-      "dossier": "Bangkok Suvarnabhumi extension capacité",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-03-bangkok-l-aeroport-de-suvarnabhumi-vise-un-doublement-de-sa-6fc9"
     },
     {
       "dossier": "Air India commande gros-porteurs supplémentaire",
