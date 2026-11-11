@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T08:01:00Z",
+  "run": "2026-11-11T08:10:35Z",
   "stats": {
     "fetched": 678,
     "new": 1,
-    "written": 0,
-    "held": 1,
+    "written": 1,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.427,
+  "spend_month_usd": 4.4364,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -424,6 +424,12 @@
       "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
     },
     {
+      "dossier": "Cathay Pacific commande A330-900 et A321neo",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -782,12 +788,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34"
-    },
-    {
-      "dossier": "Cathay Pacific commande A330-900 et A321neo",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f"
     },
     {
       "dossier": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",

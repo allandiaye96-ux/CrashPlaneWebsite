@@ -2,23 +2,23 @@
   {
     "id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
     "created": "2026-11-11T07:31:07Z",
-    "updated": "2026-11-11T07:31:07Z",
-    "version": 1,
+    "updated": "2026-11-11T08:10:54Z",
+    "version": 2,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Cathay Pacific commande onze A330-900 et trois A321neo supplémentaires pour densifier son réseau asiatique",
-    "chapo": "Selon aero.de, Cathay Pacific passe une nouvelle commande auprès d'Airbus portant sur onze A330-900 et trois A321neo. La compagnie, basée à Hong Kong, prévoit désormais 41 A330-900.",
+    "titre": "Cathay Pacific commande 11 Airbus A330-900 supplémentaires et porte son total à 41 appareils",
+    "chapo": "Cathay Pacific a levé des droits d'achat pour 11 Airbus A330-900 de plus, ce qui porte son carnet de commandes fermes à 41 exemplaires, selon AeroTime. D'après aero.de, la commande comprend aussi trois A321neo.",
     "paragraphes": [
-      "D'après aero.de, la commande représente plusieurs milliards en valeur. La compagnie, dont le hub est à Hong Kong, souhaite ainsi renforcer son réseau en Asie.",
-      "Toujours d'après le média allemand, l'A330-900 joue un rôle clé dans la stratégie régionale de Cathay Pacific."
+      "La compagnie de Hong Kong a exercé ses droits d'achat sur 11 appareils additionnels de type A330-900, rapporte AeroTime, qui évoque un total de 41 commandes fermes pour ce modèle.",
+      "Selon aero.de, la commande représente une valeur de plusieurs milliards et inclut trois A321neo en plus des onze A330-900. La compagnie, dont le hub est à Hong Kong, entend ainsi densifier son réseau en Asie. Le média allemand indique que l'A330-900 joue un rôle clé dans la stratégie régionale du transporteur."
     ],
     "contradictions": "",
     "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
+      "status": "corrobore",
+      "independent_sources": 2,
       "official_source": false
     },
     "sources": [
@@ -27,6 +27,13 @@
         "title": "Cathay Pacific plant jetzt mit 41 Airbus A330-900",
         "url": "https://www.aero.de/news-54141/Cathay-Pacific-plant-jetzt-mit-41-Airbus-A330-900.html",
         "date": "2026-11-11T07:29:27Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Cathay Pacific orders 11 more Airbus A330neos, raising total to 41",
+        "url": "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos",
+        "date": "2026-11-11T07:57:07Z",
         "official": false
       }
     ]
