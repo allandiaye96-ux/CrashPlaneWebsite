@@ -1740,36 +1740,6 @@
       "story_id": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e",
       "written_count": 2
     },
-    "cc0fb2d5fe1": {
-      "id": "cc0fb2d5fe1",
-      "label": "Airbus Aliaca VTOL qualifié Marine nationale",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-03T14:20:54Z",
-      "updated": "2026-11-04T06:40:48Z",
-      "items": [
-        {
-          "id": "ebf7e43344dc87a6",
-          "feed": "AeroTime",
-          "title": "French Navy clears Airbus Aliaca VTOL drone for shipboard service",
-          "url": "https://www.aerotime.aero/articles/french-navy-airbus-aliaca-vtol-drone-qualified",
-          "domain": "aerotime.aero",
-          "summary": "France’s defense procurement agency (DGA) has qualified the vertical takeoff and landing (VTOL) version of Airbus Helicopters’ U010… The post French Navy clears Airbus Aliaca VTOL drone for shipboard service appeared first on AeroTime .",
-          "published": "2026-11-03T13:58:54Z"
-        },
-        {
-          "id": "f468628303b69466",
-          "feed": "AviTrader",
-          "title": "Airbus Aliaca VTOL drone cleared for French Navy",
-          "url": "https://avitrader.com/2026/11/04/airbus-aliaca-vtol-drone-cleared-for-french-navy/",
-          "domain": "avitrader.com",
-          "summary": "Airbus Helicopters‘ U010 Aliaca vertical take-off and landing (VTOL) uncrewed aerial system has been qualified by France’s Armament General Directorate (DGA), clearing the system to enter service with the French Navy. The qualification follows an extensive test campaign conducted on land and at sea during May and June 2026 in collaboration with the French Navy. […] The post Airbus Aliaca VTOL drone cleared for French Navy appeared first on AviTrader Aviation News .",
-          "published": "2026-11-04T06:40:04Z"
-        }
-      ],
-      "story_id": "2026-11-04-le-drone-vtol-aliaca-d-airbus-helicopters-qualifie-par-la-dg-5fe1",
-      "written_count": 2
-    },
     "c9c88398f2d": {
       "id": "c9c88398f2d",
       "label": "Air India commande gros-porteurs supplémentaire",
