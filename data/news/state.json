@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-singapore-airlines-returned-ultra-long-haul-nonstop/": "2026-11-01T14:00:56Z",
-    "https://www.air-journal.fr/2026-11-01-le-groenland-inaugure-laeroport-international-dilulissat-aux-portes-du-fjord-et-des-icebergs-5278624.html": "2026-11-01T14:00:56Z",
     "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night": "2026-11-01T14:40:35Z",
     "https://simpleflying.com/6-longest-nonstop-flights-north-america/": "2026-11-01T15:00:57Z",
     "https://www.air-journal.fr/2026-11-01-maroc-ryanair-lance-un-programme-hivernal-record-avec-53-millions-de-sieges-et-17-nouvelles-lignes-5278627.html": "2026-11-01T15:10:35Z",
@@ -1455,7 +1453,9 @@
     "https://www.air-journal.fr/2026-11-11-milan-new-york-emirates-ajoute-un-777f-en-attendant-le-feu-vert-pour-lima-5278787.html": "2026-11-11T13:01:04Z",
     "https://simpleflying.com/video/alaska-airlines-to-launch-8-hour-flights-from-anchorage-to-tokyo/": "2026-11-11T13:30:53Z",
     "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata": "2026-11-11T13:50:35Z",
-    "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-11T13:50:35Z"
+    "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-11T13:50:35Z",
+    "https://simpleflying.com/british-airways-cancels-5-routes-from-this-london-airport/": "2026-11-11T14:01:07Z",
+    "https://www.air-journal.fr/2026-11-11-avec-easyjet-plus-a-prix-reduit-easyjet-cible-les-habitues-dorly-5278798.html": "2026-11-11T14:01:07Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5337,6 +5337,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.562165
+    "2026-11": 4.563005
   }
 }
