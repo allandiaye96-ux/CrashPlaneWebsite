@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
+    "created": "2026-11-11T07:31:07Z",
+    "updated": "2026-11-11T07:31:07Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Cathay Pacific commande onze A330-900 et trois A321neo supplémentaires pour densifier son réseau asiatique",
+    "chapo": "Selon aero.de, Cathay Pacific passe une nouvelle commande auprès d'Airbus portant sur onze A330-900 et trois A321neo. La compagnie, basée à Hong Kong, prévoit désormais 41 A330-900.",
+    "paragraphes": [
+      "D'après aero.de, la commande représente plusieurs milliards en valeur. La compagnie, dont le hub est à Hong Kong, souhaite ainsi renforcer son réseau en Asie.",
+      "Toujours d'après le média allemand, l'A330-900 joue un rôle clé dans la stratégie régionale de Cathay Pacific."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Cathay Pacific plant jetzt mit 41 Airbus A330-900",
+        "url": "https://www.aero.de/news-54141/Cathay-Pacific-plant-jetzt-mit-41-Airbus-A330-900.html",
+        "date": "2026-11-11T07:29:27Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34",
     "created": "2026-11-11T07:20:56Z",
     "updated": "2026-11-11T07:20:56Z",

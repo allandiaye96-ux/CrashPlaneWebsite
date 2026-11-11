@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 07:20:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 07:31:07 +0000</lastBuildDate>
+  <item>
+    <title>Cathay Pacific commande onze A330-900 et trois A321neo supplémentaires pour densifier son réseau asiatique</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f/</guid>
+    <pubDate>Wed, 11 Nov 2026 07:31:07 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, Cathay Pacific passe une nouvelle commande auprès d&#x27;Airbus portant sur onze A330-900 et trois A321neo. La compagnie, basée à Hong Kong, prévoit désormais 41 A330-900.</description>
+  </item>
   <item>
     <title>Emirates attend ses premiers Boeing 777X vers fin 2027 et tranchera bientôt sur ses 787</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sun, 08 Nov 2026 18:10:54 +0000</pubDate>
     <category>Compagnies</category>
     <description>Philippine Airlines ouvre une nouvelle route directe vers les États-Unis, d&#x27;une durée de 17 heures, selon Simple Flying. Le site présente l&#x27;Amérique du Nord comme un marché de plus en plus important pour la compagnie.</description>
-  </item>
-  <item>
-    <title>TUI fly Belgium supprime 17 destinations pour l&#x27;été 2027 mais veut augmenter ses capacités</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25/</guid>
-    <pubDate>Sun, 08 Nov 2026 15:10:48 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, TUI fly Belgium va remanier en profondeur son programme estival 2027 au départ de Bruxelles-Zaventem, avec 17 destinations supprimées et quatre nouvelles.</description>
   </item>
 </channel>
 </rss>

@@ -1420,7 +1420,8 @@
     "https://www.airliners.de/emirates-baut-premium-economy-angebot-europa/91449": "2026-11-11T06:20:35Z",
     "https://www.airliners.de/etihad-airways-stellt-boeing-787-mclaren-sonderbemalung/91443": "2026-11-11T06:20:35Z",
     "https://www.air-journal.fr/2026-11-11-journee-mondiale-du-passager-aerien-une-quatrieme-edition-le-17-novembre-2026-5278781.html": "2026-11-11T07:01:10Z",
-    "https://www.airliners.de/emirates-erwartet-777x-2027-entscheidet-ueber-787/91424": "2026-11-11T07:20:34Z"
+    "https://www.airliners.de/emirates-erwartet-777x-2027-entscheidet-ueber-787/91424": "2026-11-11T07:20:34Z",
+    "https://www.aero.de/news-54141/Cathay-Pacific-plant-jetzt-mit-41-Airbus-A330-900.html": "2026-11-11T07:30:49Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5343,10 +5344,31 @@
       ],
       "story_id": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34",
       "written_count": 1
+    },
+    "c75c493664f": {
+      "id": "c75c493664f",
+      "label": "Cathay Pacific commande A330-900 et A321neo",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-11T07:31:04Z",
+      "updated": "2026-11-11T07:31:04Z",
+      "items": [
+        {
+          "id": "a812657a7624864b",
+          "feed": "aero.de",
+          "title": "Cathay Pacific plant jetzt mit 41 Airbus A330-900",
+          "url": "https://www.aero.de/news-54141/Cathay-Pacific-plant-jetzt-mit-41-Airbus-A330-900.html",
+          "domain": "aero.de",
+          "summary": "HONGKONG - Elf A330-900, drei A321neo: Cathay Pacific bestellt Airbus-Flugzeuge in Milliardenwert nach. Die Airline mit Drehkreuz in Hongkong will mit den Maschinen ihr Asiennetz verdichten. Der Airbus A330-900 nimmt in der Regionalstrategie von Cathay Pacific eine Schlüsselrolle ein.",
+          "published": "2026-11-11T07:29:27Z"
+        }
+      ],
+      "story_id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.40144
+    "2026-11": 4.40984
   }
 }
