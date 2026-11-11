@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-01-royal-air-maroc-un-reseau-en-expansion-et-93-millions-de-passagers-attendus-en-2026-5278620.html": "2026-11-01T10:00:55Z",
     "https://simpleflying.com/why-delta-air-lines-doesnt-want-blended-winglets-on-most-aircraft-anymore/": "2026-11-01T10:20:34Z",
     "https://simpleflying.com/how-many-miles-business-class-with-united-mileageplus-2026/": "2026-11-01T11:00:57Z",
     "https://www.air-journal.fr/2026-11-01-italie-un-ete-record-pour-les-aeroports-avec-988-millions-de-passagers-5278614.html": "2026-11-01T11:00:57Z",
@@ -1426,7 +1425,10 @@
     "https://www.aerotime.aero/articles/world-aviation-festival-2026-how-ai-is-transforming-work-behind-the-scenes": "2026-11-11T09:10:36Z",
     "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts": "2026-11-11T09:10:36Z",
     "https://www.airliners.de/sas-stockt-sommerflugplan-zusaetzliche-frequenzen-kopenhagen/91448": "2026-11-11T09:20:32Z",
-    "https://www.aero.de/news-54143/Flugausfaelle-in-Spanien-und-Portugal.html": "2026-11-11T09:30:50Z"
+    "https://www.aero.de/news-54143/Flugausfaelle-in-Spanien-und-Portugal.html": "2026-11-11T09:30:50Z",
+    "https://simpleflying.com/united-ceo-scott-kirby-blames-faa-ohare-taxi-times/": "2026-11-11T10:01:00Z",
+    "https://avitrader.com/2026/11/11/dae-nine-month-profit-falls-43/": "2026-11-11T10:01:00Z",
+    "https://www.air-journal.fr/2026-11-11-aer-lingus-deroute-a-evreux-les-syndicats-de-pilotes-contestent-les-conditions-de-linterception-5278783.html": "2026-11-11T10:01:00Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -3154,7 +3156,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-06T07:40:53Z",
-      "updated": "2026-11-10T17:20:53Z",
+      "updated": "2026-11-11T10:01:12Z",
       "items": [
         {
           "id": "8f5806f6e1ac8df8",
@@ -3191,10 +3193,19 @@
           "domain": "airliners.de",
           "summary": "Nach einer Serie von Bombendrohungen gegen europäische Verkehrsflugzeuge erheben Pilotenverbände Vorwürfe gegen staatliche Stellen. Militärflugzeuge sollen Besatzungen Landeorte vorgegeben haben, ohne deren Anforderungen ausreichend zu berücksichtigen.",
           "published": "2026-11-10T16:21:17Z"
+        },
+        {
+          "id": "9ce948a6c67890ec",
+          "feed": "Air Journal",
+          "title": "Aer Lingus dérouté à Évreux : les syndicats de pilotes contestent les conditions de l’interception",
+          "url": "https://www.air-journal.fr/2026-11-11-aer-lingus-deroute-a-evreux-les-syndicats-de-pilotes-contestent-les-conditions-de-linterception-5278783.html",
+          "domain": "air-journal.fr",
+          "summary": "Après plusieurs fausses alertes à la bombe visant des vols européens, les organisations de pilotes s’inquiètent des conditions dans lesquelles certains avions de ligne ont été interceptés et déroutés par les autorités militaires. Dans un communiqué publié le 10 novembre, l’European Cockpit Association, l’IALPA irlandaise et le SNPL français demandent que les impératifs de sûreté […]",
+          "published": "2026-11-11T10:00:24Z"
         }
       ],
       "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
-      "written_count": 4
+      "written_count": 5
     },
     "c798fc89721": {
       "id": "c798fc89721",
@@ -5311,6 +5322,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.440545
+    "2026-11": 4.465961
   }
 }

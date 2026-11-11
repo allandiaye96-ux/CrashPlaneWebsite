@@ -545,7 +545,7 @@
     "version": 3,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Incident",
     "importance": 2,
     "titre": "Alerte à la bombe sur un A320 d'Aer Lingus : le commandant visé par une enquête en France, les pilotes protestent",
