@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-11T17:30:51Z",
+  "run": "2026-11-11T17:40:35Z",
   "stats": {
     "fetched": 678,
     "new": 0,
@@ -757,12 +757,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Drones LUCAS micro-usines Machina",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {
