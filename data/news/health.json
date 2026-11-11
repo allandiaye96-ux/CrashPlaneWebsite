@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-11T16:20:34Z",
+  "run": "2026-11-11T16:30:52Z",
   "stats": {
     "fetched": 678,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
-    },
-    {
-      "dossier": "Air Baltic retour de six A220-300",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-air-baltic-restitue-six-airbus-a220-300-et-prevoit-une-flott-5393"
     },
     {
       "dossier": "SNC se retire du programme UJTS de la US Navy",
