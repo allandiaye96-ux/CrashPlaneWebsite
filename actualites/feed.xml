@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 20:10:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 21:01:25 +0000</lastBuildDate>
+  <item>
+    <title>Royal Navy : le drone YFQ-48A Talon Blue de Northrop Grumman devrait opérer depuis un porte-avions en 2027</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e/</guid>
+    <pubDate>Wed, 11 Nov 2026 21:01:25 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon The Aviationist, la Royal Navy prévoit de faire voler le YFQ-48A Talon Blue de Northrop Grumman depuis un porte-avions de classe Queen Elizabeth en 2027. Northrop Grumman a confirmé ce projet, rapporte The War Zone.</description>
+  </item>
   <item>
     <title>Cathay Group commande 14 Airbus supplémentaires : l&#x27;engagement sur l&#x27;A330-900 passe à 41 appareils</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 15:10:54 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Le Journal de l&#x27;Aviation, ANA et Vietnam Airlines ont signé un accord-cadre le 9 novembre, qui envisage la création d&#x27;une coentreprise. Les deux compagnies souhaitent ainsi franchir une nouvelle étape après dix ans de partenariat.</description>
-  </item>
-  <item>
-    <title>Russie : Moscou veut maintenir en vol jusqu&#x27;en 2028 les avions loués à l&#x27;étranger et objets de litiges</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96/</guid>
-    <pubDate>Mon, 09 Nov 2026 15:01:35 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>Selon AeroTime et Air Journal, le ministère russe des Transports a préparé un projet de résolution gouvernementale visant à laisser les compagnies du pays exploiter des appareils étrangers sous régime dérogatoire jusqu&#x27;à fin 2028.</description>
   </item>
 </channel>
 </rss>

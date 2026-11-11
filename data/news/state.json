@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html": "2026-11-01T20:40:35Z",
-    "https://simpleflying.com/untold-truth-airlines-use-basic-economy-upsell-passengers/": "2026-11-01T21:01:00Z",
     "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/": "2026-11-01T22:01:00Z",
     "https://simpleflying.com/flagship-of-worlds-elite-airlines-is-no-longer-in-production-why/": "2026-11-01T22:30:46Z",
     "https://simpleflying.com/cirrus-built-the-sr22-with-airplane-parachute/": "2026-11-01T23:01:03Z",
@@ -1488,7 +1486,11 @@
     "https://australianaviation.com.au/2026/11/video-podcast-alls-fare-in-iran-war/": "2026-11-11T20:01:01Z",
     "https://australianaviation.com.au/2026/11/minister-concerned-about-qantas-cybersecurity-in-accenture-move/": "2026-11-11T20:01:01Z",
     "https://australianaviation.com.au/2026/11/boeing-cuts-commercial-airplanes-workforce-amid-slow-production/": "2026-11-11T20:01:01Z",
-    "https://leehamnews.com/2026/11/11/editors-note-socar-2027-to-explore-future-of-commercial-aerospace/": "2026-11-11T20:10:34Z"
+    "https://leehamnews.com/2026/11/11/editors-note-socar-2027-to-explore-future-of-commercial-aerospace/": "2026-11-11T20:10:34Z",
+    "https://simpleflying.com/united-airlines-finally-bring-next-cabin-retrofits-21-boeing-757-300s/": "2026-11-11T21:01:06Z",
+    "https://simpleflying.com/breeze-airways-launches-15-new-routes-from-this-airport/": "2026-11-11T21:01:06Z",
+    "https://simpleflying.com/5-boeing-737-max-10-customers-largest-orders/": "2026-11-11T21:01:06Z",
+    "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman": "2026-11-11T21:01:06Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4128,27 +4130,6 @@
       "story_id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
       "written_count": 2
     },
-    "cf004f1ea0d": {
-      "id": "cf004f1ea0d",
-      "label": "Tytan production drones intercepteurs Munich",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-09T20:50:47Z",
-      "updated": "2026-11-09T20:50:47Z",
-      "items": [
-        {
-          "id": "90c39dbe184d00c3",
-          "feed": "aero.de",
-          "title": "Tytan will 3.000 Abfangdrohnen pro Monat herstellen",
-          "url": "https://www.aero.de/news-54128/Tytan-will-3000-Abfangdrohnen-pro-Monat-herstellen.html",
-          "domain": "aero.de",
-          "summary": "MÜNCHEN - Das 2023 gegründete Münchner Rüstungsunternehmen Tytan will künftig bis zu 3.000 Abfangdrohnen pro Monat herstellen.",
-          "published": "2026-11-09T20:46:10Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c71c60a80f5": {
       "id": "c71c60a80f5",
       "label": "Boeing suppression 5% postes BCA",
@@ -4827,7 +4808,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-10T22:50:47Z",
-      "updated": "2026-11-10T22:50:47Z",
+      "updated": "2026-11-11T21:01:22Z",
       "items": [
         {
           "id": "1216e95d6c499650",
@@ -4837,10 +4818,19 @@
           "domain": "theaviationist.com",
           "summary": "The Royal Navy plans to demonstrate Northrop Grumman’s YFQ-48A Talon Blue CCA from a Queen Elizabeth-class aircraft carrier in 2027, as part of efforts to develop a future Hybrid Air Wing combining crewed and uncrewed aircraft. The Royal Navy is planning to launch Northrop Grumman’s YFQ-48A Talon Blue Collaborative Combat Aircraft (CCA) from one of […]",
           "published": "2026-11-10T22:42:39Z"
+        },
+        {
+          "id": "675acb05238f9c1b",
+          "feed": "The War Zone",
+          "title": "Plans To Fly Talon Blue CCA Drone From British Carrier Confirmed By Northrop Grumman",
+          "url": "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman",
+          "domain": "twz.com",
+          "summary": "The Royal Navy wants to infuse drone capabilities into its air wings and Talon Blue would be far more advanced than anything that has flown off the carriers yet. The post Plans To Fly Talon Blue CCA Drone From British Carrier Confirmed By Northrop Grumman appeared first on TWZ .",
+          "published": "2026-11-11T20:30:40Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e",
+      "written_count": 2
     },
     "c6ab2ac1093": {
       "id": "c6ab2ac1093",
@@ -5286,6 +5276,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.738303
+    "2026-11": 4.748211
   }
 }

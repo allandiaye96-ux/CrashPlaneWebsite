@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T20:10:34Z",
+  "run": "2026-11-11T21:01:06Z",
   "stats": {
-    "fetched": 680,
-    "new": 1,
-    "written": 0,
+    "fetched": 681,
+    "new": 4,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7383,
+  "spend_month_usd": 4.7482,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 35
+      "items": 36
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -374,6 +374,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
+    },
+    {
+      "dossier": "Royal Navy YFQ-48A CCA porte-avions 2027",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e"
     },
     {
       "dossier": "Cathay Pacific commande A330-900 et A321neo",
@@ -754,12 +760,6 @@
       "breve": null
     },
     {
-      "dossier": "Tytan production drones intercepteurs Munich",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "Budget allemand Eurofighter upgrade 300 M€",
       "statut": "signale",
       "editeurs": 1,
@@ -797,12 +797,6 @@
     },
     {
       "dossier": "GAO pièces détachées F-35 introuvables",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Royal Navy YFQ-48A CCA porte-avions 2027",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

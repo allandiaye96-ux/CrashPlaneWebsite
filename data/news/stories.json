@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e",
+    "created": "2026-11-11T21:01:25Z",
+    "updated": "2026-11-11T21:01:25Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Royal Navy : le drone YFQ-48A Talon Blue de Northrop Grumman devrait opérer depuis un porte-avions en 2027",
+    "chapo": "Selon The Aviationist, la Royal Navy prévoit de faire voler le YFQ-48A Talon Blue de Northrop Grumman depuis un porte-avions de classe Queen Elizabeth en 2027. Northrop Grumman a confirmé ce projet, rapporte The War Zone.",
+    "paragraphes": [
+      "Le YFQ-48A Talon Blue est un drone de combat collaboratif (CCA). D'après The Aviationist, la démonstration s'inscrit dans les efforts de la marine britannique pour constituer un futur « Hybrid Air Wing », associant aéronefs pilotés et non habités.",
+      "The War Zone indique que la Royal Navy souhaite intégrer des capacités de drones à ses groupes aériens embarqués. Selon le média, Talon Blue serait nettement plus avancé que tous les appareils ayant déjà opéré depuis les porte-avions britanniques."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The Aviationist",
+        "title": "Royal Navy to Fly Northrop Grumman’s YFQ-48A from Aircraft Carrier in 2027",
+        "url": "https://theaviationist.com/2026/11/10/royal-navy-yfq-48a-aircraft-carrier-2027/",
+        "date": "2026-11-10T22:42:39Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "Plans To Fly Talon Blue CCA Drone From British Carrier Confirmed By Northrop Grumman",
+        "url": "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman",
+        "date": "2026-11-11T20:30:40Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
     "created": "2026-11-10T06:01:27Z",
     "updated": "2026-11-11T20:01:32Z",
