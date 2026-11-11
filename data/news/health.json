@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T12:50:32Z",
+  "run": "2026-11-11T13:01:04Z",
   "stats": {
     "fetched": 678,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.5441,
+  "spend_month_usd": 4.5531,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -758,6 +758,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37"
+    },
+    {
+      "dossier": "Magnifica Air commande dix ACJ220",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
+    "created": "2026-11-11T13:01:22Z",
+    "updated": "2026-11-11T13:01:22Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Magnifica Air confirme une commande ferme de dix Airbus ACJ220-300",
+    "chapo": "Selon AviTrader, la compagnie privée américaine Magnifica Air a confirmé une commande ferme portant sur dix ACJ220-300 d'Airbus, jusque-là inscrits comme non divulgués au carnet de commandes du constructeur.",
+    "paragraphes": [
+      "Cette commande s'inscrit dans la constitution de la flotte ultra-premium de la compagnie, basée aux États-Unis. Les appareils figuraient auparavant sous une mention anonyme dans le carnet de commandes d'Airbus.",
+      "Magnifica Air a par ailleurs retenu plusieurs solutions numériques Airbus Skywise, dont la plateforme de données Skywise Core X1, ainsi que des outils de planification des vols, d'exploitation et de gestion des équipages, d'après AviTrader."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Magnifica Air confirms order for ten ACJ220s",
+        "url": "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/",
+        "date": "2026-11-11T12:55:27Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
     "created": "2026-11-11T12:10:58Z",
     "updated": "2026-11-11T12:10:58Z",

@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/f-22-what-takes-fly-americas-top-stealth-fighter/": "2026-11-01T13:00:56Z",
-    "https://www.air-journal.fr/2026-11-01-archer-et-ita-airways-sallient-pour-developper-les-taxis-volants-electriques-en-italie-5278615.html": "2026-11-01T13:00:56Z",
     "https://www.airliners.de/air-transat-bestaetigt-aus-toronto-berlin-sommer-2027/91232": "2026-11-01T13:20:34Z",
     "https://simpleflying.com/video/united-airlines-ceo-defends-charging-non-frequent-flyers-70-to-avoid-the-middle-seat/": "2026-11-01T13:40:32Z",
     "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata": "2026-11-01T13:40:32Z",
@@ -1455,7 +1453,10 @@
     "https://www.airliners.de/gedankenfluege-denkpause-ber-aufwind-kassel/91396": "2026-11-11T12:20:35Z",
     "https://www.airliners.de/hintergrund-eu-fluggastrechte-reform-verstaendlich-erklaert/91342": "2026-11-11T12:20:35Z",
     "https://www.airliners.de/ground-handling-9-turnaround-human-factors-resource-management/91233": "2026-11-11T12:20:35Z",
-    "https://avitrader.com/2026/11/11/werner-aero-acquires-boeing-737-700/": "2026-11-11T12:50:32Z"
+    "https://avitrader.com/2026/11/11/werner-aero-acquires-boeing-737-700/": "2026-11-11T12:50:32Z",
+    "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine": "2026-11-11T13:01:04Z",
+    "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/": "2026-11-11T13:01:04Z",
+    "https://www.air-journal.fr/2026-11-11-milan-new-york-emirates-ajoute-un-777f-en-attendant-le-feu-vert-pour-lima-5278787.html": "2026-11-11T13:01:04Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5357,10 +5358,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cc487650d0a": {
+      "id": "cc487650d0a",
+      "label": "Magnifica Air commande dix ACJ220",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-11T13:01:19Z",
+      "updated": "2026-11-11T13:01:19Z",
+      "items": [
+        {
+          "id": "c6cae82c3bbccecb",
+          "feed": "AviTrader",
+          "title": "Magnifica Air confirms order for ten ACJ220s",
+          "url": "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/",
+          "domain": "avitrader.com",
+          "summary": "US-based private airline Magnifica Air has confirmed a firm order for ten Airbus ACJ220-300 aircraft, previously listed as undisclosed in the manufacturer’s order book, as it builds its ultra-premium fleet. The airline has also selected a range of Airbus Skywise digital solutions, including the Skywise Core X1 data platform, flight planning, operations and crew management […] The post Magnifica Air confirms order for ten ACJ220s appeared first on AviTrader Aviation News .",
+          "published": "2026-11-11T12:55:27Z"
+        }
+      ],
+      "story_id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.544085
+    "2026-11": 4.553091
   }
 }
