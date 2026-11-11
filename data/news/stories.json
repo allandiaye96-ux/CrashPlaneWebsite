@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34",
+    "created": "2026-11-11T07:20:56Z",
+    "updated": "2026-11-11T07:20:56Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Emirates attend ses premiers Boeing 777X vers fin 2027 et tranchera bientôt sur ses 787",
+    "chapo": "Selon airliners.de, le président d'Emirates, Tim Clark, ne s'attend à recevoir les premiers Boeing 777X que vers la fin de 2027. La compagnie doit par ailleurs décider si elle prend livraison de ses Boeing 787 commandés.",
+    "paragraphes": [
+      "D'après le média allemand, dans un article daté du 11 novembre 2026, la décision d'Emirates sur la réception des 35 Boeing 787 commandés doit intervenir dans environ un mois.",
+      "Tim Clark s'est également exprimé sur l'Airbus A350-2000, sur les moteurs de l'A380 et sur la transformation d'appareils en cargos, trois sujets évoqués dans l'article."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Emirates erwartet erste 777X erst Ende 2027 und entscheidet bald über 787",
+        "url": "https://www.airliners.de/emirates-erwartet-777x-2027-entscheidet-ueber-787/91424",
+        "date": "2026-11-11T06:39:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
     "created": "2026-11-10T17:21:05Z",
     "updated": "2026-11-11T06:01:31Z",

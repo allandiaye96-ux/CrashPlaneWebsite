@@ -1419,7 +1419,8 @@
     "https://www.airliners.de/politik-gesellschaft-hamburg-schweigt-asien-zielen-bombendrohungen-europa-fluege-linke-fragt-katar-abkommen/91445": "2026-11-11T06:20:35Z",
     "https://www.airliners.de/emirates-baut-premium-economy-angebot-europa/91449": "2026-11-11T06:20:35Z",
     "https://www.airliners.de/etihad-airways-stellt-boeing-787-mclaren-sonderbemalung/91443": "2026-11-11T06:20:35Z",
-    "https://www.air-journal.fr/2026-11-11-journee-mondiale-du-passager-aerien-une-quatrieme-edition-le-17-novembre-2026-5278781.html": "2026-11-11T07:01:10Z"
+    "https://www.air-journal.fr/2026-11-11-journee-mondiale-du-passager-aerien-une-quatrieme-edition-le-17-novembre-2026-5278781.html": "2026-11-11T07:01:10Z",
+    "https://www.airliners.de/emirates-erwartet-777x-2027-entscheidet-ueber-787/91424": "2026-11-11T07:20:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5321,10 +5322,31 @@
       ],
       "story_id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
       "written_count": 1
+    },
+    "cc19284ad34": {
+      "id": "cc19284ad34",
+      "label": "Emirates 777X calendrier et commande 787",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-11T07:20:44Z",
+      "updated": "2026-11-11T07:20:44Z",
+      "items": [
+        {
+          "id": "58fd78c281261b80",
+          "feed": "airliners.de",
+          "title": "Emirates erwartet erste 777X erst Ende 2027 und entscheidet bald über 787",
+          "url": "https://www.airliners.de/emirates-erwartet-777x-2027-entscheidet-ueber-787/91424",
+          "domain": "airliners.de",
+          "summary": "Emirates-Präsident Tim Clark rechnet erst gegen Ende 2027 mit den ersten Boeing 777X. Ob die Airline ihre 35 bestellten Boeing 787 abnimmt, entscheidet sich in etwa einem Monat. Dazu äußert er sich zur A350-2000, zu den A380-Triebwerken und zum Frachterumbau.",
+          "published": "2026-11-11T06:39:00Z"
+        }
+      ],
+      "story_id": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.378463
+    "2026-11": 4.40144
   }
 }

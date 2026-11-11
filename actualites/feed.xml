@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 07:10:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 07:20:56 +0000</lastBuildDate>
+  <item>
+    <title>Emirates attend ses premiers Boeing 777X vers fin 2027 et tranchera bientôt sur ses 787</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34/</guid>
+    <pubDate>Wed, 11 Nov 2026 07:20:56 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, le président d&#x27;Emirates, Tim Clark, ne s&#x27;attend à recevoir les premiers Boeing 777X que vers la fin de 2027. La compagnie doit par ailleurs décider si elle prend livraison de ses Boeing 787 commandés.</description>
+  </item>
   <item>
     <title>Le groupe Cathay commande 14 appareils Airbus supplémentaires</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093/</link>
@@ -238,14 +246,6 @@
     <pubDate>Sun, 08 Nov 2026 15:10:48 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Air Journal, TUI fly Belgium va remanier en profondeur son programme estival 2027 au départ de Bruxelles-Zaventem, avec 17 destinations supprimées et quatre nouvelles.</description>
-  </item>
-  <item>
-    <title>China Eastern retient les moteurs LEAP-1A de CFM pour 101 Airbus de la famille A320neo</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19/</guid>
-    <pubDate>Sun, 08 Nov 2026 14:50:51 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>China Eastern Airlines a confirmé CFM International comme fournisseur des moteurs de sa dernière commande de monocouloirs Airbus, selon AeroTime. Le contrat porte sur 101 appareils de la famille A320neo.</description>
   </item>
 </channel>
 </rss>
