@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z",
     "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z",
     "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-v-22-osprey/": "2026-11-01T20:00:58Z",
     "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html": "2026-11-01T20:40:35Z",
@@ -1484,7 +1483,8 @@
     "https://www.twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military": "2026-11-11T17:50:34Z",
     "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/": "2026-11-11T18:01:01Z",
     "https://airlinegeeks.com/2026/11/11/american-projects-busiest-thanksgiving-period-in-years/": "2026-11-11T18:01:01Z",
-    "https://www.twz.com/air/f-35s-train-in-india-for-red-flag-of-the-east": "2026-11-11T18:40:36Z"
+    "https://www.twz.com/air/f-35s-train-in-india-for-red-flag-of-the-east": "2026-11-11T18:40:36Z",
+    "https://simpleflying.com/review-beechcraft-super-king-air-200-pacific-island-hopping/": "2026-11-11T19:00:59Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5264,6 +5264,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.698325
+    "2026-11": 4.699119
   }
 }
