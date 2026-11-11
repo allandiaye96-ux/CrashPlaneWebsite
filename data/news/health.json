@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T08:50:34Z",
+  "run": "2026-11-11T09:01:02Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.4372,
+  "spend_month_usd": 4.4381,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -770,12 +770,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34"
-    },
-    {
-      "dossier": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Quasi-collision Miami Lufthansa 747 et American 787",

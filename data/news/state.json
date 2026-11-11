@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-01-passagers-refoules-facture-salee-liata-reclame-un-partage-plus-equitable-des-couts-5278612.html": "2026-11-01T09:00:57Z",
     "https://www.air-journal.fr/2026-11-01-royal-air-maroc-un-reseau-en-expansion-et-93-millions-de-passagers-attendus-en-2026-5278620.html": "2026-11-01T10:00:55Z",
     "https://simpleflying.com/why-delta-air-lines-doesnt-want-blended-winglets-on-most-aircraft-anymore/": "2026-11-01T10:20:34Z",
     "https://simpleflying.com/how-many-miles-business-class-with-united-mileageplus-2026/": "2026-11-01T11:00:57Z",
@@ -1420,7 +1419,10 @@
     "https://www.air-journal.fr/2026-11-11-pres-de-toulouse-airbus-veut-investir-jusqua-900-millions-deuros-dans-les-mats-reacteurs-5278779.html": "2026-11-11T08:01:00Z",
     "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos": "2026-11-11T08:10:35Z",
     "https://www.airliners.de/facc-verbessert-ebit-machtlinger-drohnen-hoehere-margen/91059": "2026-11-11T08:20:35Z",
-    "https://www.airliners.de/flightpath3d-bringt-gamification-moving-map/91451": "2026-11-11T08:20:35Z"
+    "https://www.airliners.de/flightpath3d-bringt-gamification-moving-map/91451": "2026-11-11T08:20:35Z",
+    "https://simpleflying.com/true-airlines-intentionally-use-cabin-lighting-meal-timing-fight-long-haul-jet-lag/": "2026-11-11T09:01:02Z",
+    "https://simpleflying.com/singapore-airlines-1st-boeing-777x-seat-map/": "2026-11-11T09:01:02Z",
+    "https://www.air-journal.fr/2026-11-11-volotea-mise-sur-madrid-pour-rebondir-malgre-ses-difficultes-financieres-5278782.html": "2026-11-11T09:01:02Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4159,27 +4161,6 @@
       "story_id": "2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac",
       "written_count": 1
     },
-    "c30a4bc954f": {
-      "id": "c30a4bc954f",
-      "label": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-09T08:50:46Z",
-      "updated": "2026-11-09T08:50:46Z",
-      "items": [
-        {
-          "id": "a0e4086c8adf0441",
-          "feed": "AviTrader",
-          "title": "Sikorsky wins South Korean presidential helicopter contract",
-          "url": "https://avitrader.com/2026/11/09/sikorsky-wins-south-korean-presidential-helicopter-contract/",
-          "domain": "avitrader.com",
-          "summary": "Sikorsky, a Lockheed Martin company, has been selected to supply its next-generation S-92A+ helicopter to the Republic of Korea Air Force (ROKAF) under the Presidential Helicopter II programme. Lockheed Martin and Sikorsky have maintained a partnership with South Korea for more than 70 years, covering Black Hawk, Seahawk and S-92 helicopter programmes. The ROKAF has […] The post Sikorsky wins South Korean presidential helicopter contract appeared first on AviTrader Aviation News .",
-          "published": "2026-11-09T08:45:26Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c5c7ea3d762": {
       "id": "c5c7ea3d762",
       "label": "KLM reçoit son premier A350 (22 appareils)",
@@ -5326,6 +5307,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.437203
+    "2026-11": 4.438081
   }
 }
