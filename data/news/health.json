@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-11T18:01:01Z",
+  "run": "2026-11-11T18:10:37Z",
   "stats": {
     "fetched": 679,
-    "new": 2,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Qatar Airways nouvelles destinations Amérique du Sud",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-qatar-airways-lance-deux-nouvelles-destinations-sud-americai-9a1c"
     },
     {
       "dossier": "Qantas retrait anticipé A380",
