@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-11T13:30:53Z",
+  "run": "2026-11-11T13:40:36Z",
   "stats": {
-    "fetched": 678,
-    "new": 1,
-    "written": 1,
+    "fetched": 668,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -58,8 +58,8 @@
       "items": 0
     },
     "The Air Current": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "AirlineGeeks": {
       "ok": true,
