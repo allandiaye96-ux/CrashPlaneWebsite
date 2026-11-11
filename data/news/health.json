@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-11T08:20:35Z",
+  "run": "2026-11-11T08:30:52Z",
   "stats": {
     "fetched": 678,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -286,12 +286,6 @@
       "breve": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac"
     },
     {
-      "dossier": "Fraport résultats et prévisions 2026",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e"
-    },
-    {
       "dossier": "Air Baltic retour de six A220-300",
       "statut": "corrobore",
       "editeurs": 2,
@@ -440,12 +434,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Swiss flotte A220 retrait",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-swiss-prevoit-de-retirer-ses-neuf-a220-100-d-ici-fin-2027-et-7170"
     },
     {
       "dossier": "Discover A350 et Air Transat Toronto-Berlin",
