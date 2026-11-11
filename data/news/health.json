@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T08:10:35Z",
+  "run": "2026-11-11T08:20:35Z",
   "stats": {
     "fetched": 678,
-    "new": 1,
-    "written": 1,
+    "new": 2,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.4364,
+  "spend_month_usd": 4.4372,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -440,12 +440,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Naples-Capodichino fermeture novembre 2026",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d"
     },
     {
       "dossier": "Swiss flotte A220 retrait",

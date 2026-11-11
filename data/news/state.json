@@ -1418,7 +1418,9 @@
     "https://www.airliners.de/emirates-erwartet-777x-2027-entscheidet-ueber-787/91424": "2026-11-11T07:20:34Z",
     "https://www.aero.de/news-54141/Cathay-Pacific-plant-jetzt-mit-41-Airbus-A330-900.html": "2026-11-11T07:30:49Z",
     "https://www.air-journal.fr/2026-11-11-pres-de-toulouse-airbus-veut-investir-jusqua-900-millions-deuros-dans-les-mats-reacteurs-5278779.html": "2026-11-11T08:01:00Z",
-    "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos": "2026-11-11T08:10:35Z"
+    "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos": "2026-11-11T08:10:35Z",
+    "https://www.airliners.de/facc-verbessert-ebit-machtlinger-drohnen-hoehere-margen/91059": "2026-11-11T08:20:35Z",
+    "https://www.airliners.de/flightpath3d-bringt-gamification-moving-map/91451": "2026-11-11T08:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1981,27 +1983,6 @@
       ],
       "story_id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
       "written_count": 2
-    },
-    "c454ade945d": {
-      "id": "c454ade945d",
-      "label": "Naples-Capodichino fermeture novembre 2026",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-04T08:10:47Z",
-      "updated": "2026-11-04T08:10:47Z",
-      "items": [
-        {
-          "id": "84992e91d8b11c8c",
-          "feed": "Air Journal",
-          "title": "Naples ferme son aéroport pendant un mois, Salerne prend le relais",
-          "url": "https://www.air-journal.fr/2026-11-04-naples-ferme-son-aeroport-pendant-un-mois-salerne-prend-le-relais-5278668.html",
-          "domain": "air-journal.fr",
-          "summary": "L’aéroport de Naples-Capodichino est fermé au trafic aérien du 1er au 30 novembre 2026 pour une rénovation en profondeur de sa piste et de ses voies de circulation. D’un montant de 30 millions d’euros, le chantier mobilise environ 500 personnes, jour et nuit. Une partie des vols est transférée à Salerne, où quinze destinations nationales […]",
-          "published": "2026-11-04T08:00:46Z"
-        }
-      ],
-      "story_id": "2026-11-04-naples-capodichino-ferme-en-novembre-2026-pour-des-travaux-d-945d",
-      "written_count": 1
     },
     "ce07b1a7170": {
       "id": "ce07b1a7170",
@@ -5396,6 +5377,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.436363
+    "2026-11": 4.437203
   }
 }
