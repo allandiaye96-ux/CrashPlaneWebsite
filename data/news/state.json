@@ -1464,7 +1464,8 @@
     "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459": "2026-11-11T14:20:37Z",
     "https://www.airliners.de/baltische-staaten-loesen-drohnenalarm-finnland-beschraenkt-luftraum/91458": "2026-11-11T14:20:37Z",
     "https://www.airliners.de/google-spirit-airlines-daten-datenschutz-beschaeftigte/91457": "2026-11-11T14:20:37Z",
-    "https://airlinegeeks.com/2026/11/11/aeromexico-adds-new-u-s-routes-flights/": "2026-11-11T14:30:51Z"
+    "https://airlinegeeks.com/2026/11/11/aeromexico-adds-new-u-s-routes-flights/": "2026-11-11T14:30:51Z",
+    "https://theaviationist.com/2026/11/11/daircm-for-usmc-uh-1y-and-ah-1z/": "2026-11-11T14:40:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4095,27 +4096,6 @@
       "story_id": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe",
       "written_count": 2
     },
-    "c6aa541700e": {
-      "id": "c6aa541700e",
-      "label": "Royal Navy drones frappe HMS Queen Elizabeth",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-09T14:31:08Z",
-      "updated": "2026-11-09T14:31:08Z",
-      "items": [
-        {
-          "id": "7616ecfa9b71ca0a",
-          "feed": "AeroTime",
-          "title": "Royal Navy launches strike drones from HMS Queen Elizabeth for first time",
-          "url": "https://www.aerotime.aero/articles/royal-navy-strike-drones-hms-queen-elizabeth",
-          "domain": "aerotime.aero",
-          "summary": "The Royal Navy has launched one-way strike drones from an aircraft carrier for the first time, sending four… The post Royal Navy launches strike drones from HMS Queen Elizabeth for first time appeared first on AeroTime .",
-          "published": "2026-11-09T14:17:04Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "caba8983790": {
       "id": "caba8983790",
       "label": "A350-1000ULR record du monde de distance Qantas",
@@ -5381,10 +5361,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c066e08149a": {
+      "id": "c066e08149a",
+      "label": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-11T14:40:50Z",
+      "updated": "2026-11-11T14:40:50Z",
+      "items": [
+        {
+          "id": "d630cf83b0ab512b",
+          "feed": "The Aviationist",
+          "title": "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z",
+          "url": "https://theaviationist.com/2026/11/11/daircm-for-usmc-uh-1y-and-ah-1z/",
+          "domain": "theaviationist.com",
+          "summary": "The NAVAIR contract will support low-rate initial production of the AN/AAQ-45 system, which will equip the UH-1Y and AH-1Z with missile warning, laser warning, hostile-fire indication and DIRCM. Leonardo DRS, the U.S.-based subsidiary of the Italian firm, has been awarded a three-year contract by the U.S. Naval Air Systems Command (NAVAIR) to begin low-rate initial […]",
+          "published": "2026-11-11T14:36:31Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.590054
+    "2026-11": 4.590867
   }
 }
