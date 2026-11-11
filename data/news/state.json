@@ -4150,27 +4150,6 @@
       "story_id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
       "written_count": 2
     },
-    "ce14cf680da": {
-      "id": "ce14cf680da",
-      "label": "Satellites IRIS DGA Airbus",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-09T16:31:06Z",
-      "updated": "2026-11-09T16:31:06Z",
-      "items": [
-        {
-          "id": "d98de5983852e2fb",
-          "feed": "Airbus – Communiqués",
-          "title": "Airbus to deliver IRIS, France’s next generation military Earth observation satellites",
-          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-to-deliver-iris-frances-next-generation-military-earth-observation-satellites",
-          "domain": "airbus.com",
-          "summary": "French defence procurement agency (DGA) has awarded the contract for the IRIS programme to lead-contractor Airbus Defence and Space and co-contractor TAS.",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c988039c9cf": {
       "id": "c988039c9cf",
       "label": "Drones LUCAS micro-usines Machina",
