@@ -1445,7 +1445,9 @@
     "https://www.aero.de/news-54145/Die-Dubai-Euphorie-von-Lufthansa-ist-verflogen.html": "2026-11-11T11:50:32Z",
     "https://simpleflying.com/british-airways-unveils-7-new-international-routes-see-full-list-now/": "2026-11-11T12:01:04Z",
     "https://simpleflying.com/runway-grooves-help-commercial-jets-stop-heavy-rain/": "2026-11-11T12:01:04Z",
-    "https://www.air-journal.fr/2026-11-11-cathay-renforce-sa-flotte-regionale-avec-11-a330neo-et-trois-a321neo-5278789.html": "2026-11-11T12:01:04Z"
+    "https://www.air-journal.fr/2026-11-11-cathay-renforce-sa-flotte-regionale-avec-11-a330neo-et-trois-a321neo-5278789.html": "2026-11-11T12:01:04Z",
+    "https://avitrader.com/2026/11/11/lesha-bank-sells-six-a380s-to-emirates/": "2026-11-11T12:10:38Z",
+    "https://www.aero.de/news-54146/Tarifabschluss-verhindert-Streiks-an-Fluggastkontrollen-.html": "2026-11-11T12:10:38Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5305,10 +5307,31 @@
       ],
       "story_id": "2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316",
       "written_count": 1
+    },
+    "cd49071bd37": {
+      "id": "cd49071bd37",
+      "label": "Lesha Bank vend six A380 à Emirates",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-11T12:10:52Z",
+      "updated": "2026-11-11T12:10:52Z",
+      "items": [
+        {
+          "id": "cccf7e78953bcc91",
+          "feed": "AviTrader",
+          "title": "Lesha Bank sells six A380s to Emirates",
+          "url": "https://avitrader.com/2026/11/11/lesha-bank-sells-six-a380s-to-emirates/",
+          "domain": "avitrader.com",
+          "summary": "Lesha Bank, acting on behalf of the Lesha Aviation Fund, has agreed to sell six Airbus A380 aircraft to Emirates, the world’s largest operator of the type. Two aircraft have already been delivered, with the remaining four scheduled for transfer in stages through April 2028 as their existing leases expire. The transaction will secure Emirates’ […] The post Lesha Bank sells six A380s to Emirates appeared first on AviTrader Aviation News .",
+          "published": "2026-11-11T12:06:19Z"
+        }
+      ],
+      "story_id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.526538
+    "2026-11": 4.542222
   }
 }

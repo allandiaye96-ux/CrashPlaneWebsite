@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T12:01:04Z",
+  "run": "2026-11-11T12:10:38Z",
   "stats": {
     "fetched": 678,
-    "new": 3,
-    "written": 0,
-    "held": 1,
+    "new": 2,
+    "written": 1,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.5265,
+  "spend_month_usd": 4.5422,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -758,6 +758,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316"
+    },
+    {
+      "dossier": "Lesha Bank vend six A380 à Emirates",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
