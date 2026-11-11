@@ -1470,7 +1470,16 @@
     "https://www.airbus.com/en/newsroom/stories/2026-11-airbus-partnerships-propel-veterans-into-civilian-careers": "2026-11-11T15:01:04Z",
     "https://www.aero.de/news-54150/SpaceX-bestellt-Anlagen-bei-Singulus.html": "2026-11-11T15:01:04Z",
     "https://www.air-journal.fr/2026-11-11-chine-les-contrats-records-de-ge-pour-129-milliards-de-dollars-soulignent-la-dependance-du-c919-aux-moteurs-occidentaux-5278799.html": "2026-11-11T15:01:04Z",
-    "https://simpleflying.com/american-cancels-8-international-routes/": "2026-11-11T15:10:41Z"
+    "https://simpleflying.com/american-cancels-8-international-routes/": "2026-11-11T15:10:41Z",
+    "https://www.aerotime.aero/articles/natilus-kona-blended-wing-freighter-wing-contract": "2026-11-11T15:20:35Z",
+    "https://www.aerotime.aero/articles/cebu-pacific-dreamer-plane-a321neo-showcases-cebuano-art-for-30th-anniversary": "2026-11-11T15:20:35Z",
+    "https://www.airliners.de/verkehrsausschuss-hoert-sachverstaendige-bussgeldern-airlines-nachtflugverstoessen/91466": "2026-11-11T15:20:35Z",
+    "https://www.airliners.de/general-atomics-baut-wartungsstandort-marineflieger-nordholz/91470": "2026-11-11T15:20:35Z",
+    "https://www.airliners.de/albastar-stellt-flugbetrieb-uebergehend-beantragt-insolvenz/91469": "2026-11-11T15:20:35Z",
+    "https://www.airliners.de/cathay-group-bestellt-14-airbus-flugzeuge/91468": "2026-11-11T15:20:35Z",
+    "https://www.airliners.de/singapore-airlines-halbjahr-rekordumsatz-gewinnrueckgang-kerosin/91462": "2026-11-11T15:20:35Z",
+    "https://www.airliners.de/streiks-verdi-luftsicherheitsfirmen-tarifvertrag/91463": "2026-11-11T15:20:35Z",
+    "https://www.airliners.de/airlines-streichen-sturm-charles-200-fluege-portugal/91465": "2026-11-11T15:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5417,10 +5426,52 @@
       ],
       "story_id": "2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5",
       "written_count": 1
+    },
+    "c8ce687a6b1": {
+      "id": "c8ce687a6b1",
+      "label": "Albastar arrêt vols insolvence",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-11T15:20:48Z",
+      "updated": "2026-11-11T15:20:48Z",
+      "items": [
+        {
+          "id": "40f1eedcd3a012a8",
+          "feed": "airliners.de",
+          "title": "Albastar stellt Flugbetrieb vorübergehend ein und beantragt Insolvenz",
+          "url": "https://www.airliners.de/albastar-stellt-flugbetrieb-uebergehend-beantragt-insolvenz/91469",
+          "domain": "airliners.de",
+          "summary": "Die auf Mallorca ansässige Fluggesellschaft Albastar hat ihren Flugbetrieb vorübergehend ausgesetzt und ein Insolvenzverfahren beantragt. Geschäftsführer Oriol Hernández begründete den Schritt in einem Schreiben an Mitarbeiter und Partner mit finanziellen Schwierigkeiten, wie das spanische Reiseportal \"Preferente\" berichtete.",
+          "published": "2026-11-11T14:54:30Z"
+        }
+      ],
+      "story_id": "2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1",
+      "written_count": 1
+    },
+    "c76e1232abb": {
+      "id": "c76e1232abb",
+      "label": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-11T15:20:48Z",
+      "updated": "2026-11-11T15:20:48Z",
+      "items": [
+        {
+          "id": "2fa3509cae19a3a3",
+          "feed": "airliners.de",
+          "title": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
+          "url": "https://www.airliners.de/cathay-group-bestellt-14-airbus-flugzeuge/91468",
+          "domain": "airliners.de",
+          "summary": "Die Cathay Group hat bei Airbus elf weitere A330-900 und drei A321 Neo fest bestellt, wie der Hersteller mitteilte. Damit steigt die Zahl der fest georderten A330-900 bei der Airline-Gruppe auf 41. Die drei Schmalrumpfjets kommen zu einem Auftrag über 32 A321 Neo und A320 Neo aus dem Jahr 2023 hinzu.",
+          "published": "2026-11-11T14:53:52Z"
+        }
+      ],
+      "story_id": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.625744
+    "2026-11": 4.641418
   }
 }

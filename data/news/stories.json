@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb",
+    "created": "2026-11-11T15:20:54Z",
+    "updated": "2026-11-11T15:20:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Cathay Group commande onze A330-900 et trois A321neo supplémentaires auprès d'Airbus",
+    "chapo": "Selon airliners.de, qui cite une communication d'Airbus, le groupe Cathay a passé commande ferme de onze A330-900 et de trois A321 Neo supplémentaires.",
+    "paragraphes": [
+      "Avec cette commande, le nombre d'A330-900 fermement commandés par le groupe aérien s'établit à 41, d'après airliners.de.",
+      "Les trois monocouloirs A321 Neo s'ajoutent à une commande de 32 A321 Neo et A320 Neo passée en 2023."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
+        "url": "https://www.airliners.de/cathay-group-bestellt-14-airbus-flugzeuge/91468",
+        "date": "2026-11-11T14:53:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1",
+    "created": "2026-11-11T15:20:51Z",
+    "updated": "2026-11-11T15:20:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Albastar suspend temporairement ses vols et demande l'ouverture d'une procédure d'insolvabilité",
+    "chapo": "Selon airliners.de, la compagnie aérienne Albastar, basée à Majorque, a suspendu temporairement ses opérations aériennes et déposé une demande de procédure d'insolvabilité.",
+    "paragraphes": [
+      "D'après airliners.de, le directeur général Oriol Hernández a justifié cette décision par des difficultés financières. Il s'est exprimé dans un courrier adressé aux salariés et aux partenaires de la compagnie.",
+      "Le média allemand indique que ce courrier a été rapporté par le portail touristique espagnol Preferente."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Albastar stellt Flugbetrieb vorübergehend ein und beantragt Insolvenz",
+        "url": "https://www.airliners.de/albastar-stellt-flugbetrieb-uebergehend-beantragt-insolvenz/91469",
+        "date": "2026-11-11T14:54:30Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5",
     "created": "2026-11-11T15:01:31Z",
     "updated": "2026-11-11T15:01:31Z",

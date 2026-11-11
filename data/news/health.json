@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T15:10:41Z",
+  "run": "2026-11-11T15:20:35Z",
   "stats": {
     "fetched": 678,
-    "new": 1,
-    "written": 0,
+    "new": 9,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.6257,
+  "spend_month_usd": 4.6414,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -770,6 +770,18 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5"
+    },
+    {
+      "dossier": "Albastar arrêt vols insolvence",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1"
+    },
+    {
+      "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

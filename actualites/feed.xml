@@ -6,7 +6,23 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 15:10:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 15:20:54 +0000</lastBuildDate>
+  <item>
+    <title>Cathay Group commande onze A330-900 et trois A321neo supplémentaires auprès d&#x27;Airbus</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:20:54 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, qui cite une communication d&#x27;Airbus, le groupe Cathay a passé commande ferme de onze A330-900 et de trois A321 Neo supplémentaires.</description>
+  </item>
+  <item>
+    <title>Albastar suspend temporairement ses vols et demande l&#x27;ouverture d&#x27;une procédure d&#x27;insolvabilité</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:20:51 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, la compagnie aérienne Albastar, basée à Majorque, a suspendu temporairement ses opérations aériennes et déposé une demande de procédure d&#x27;insolvabilité.</description>
+  </item>
   <item>
     <title>Etihad : fin des vols en Airbus A380 vers l&#x27;Amérique du Nord, selon Simple Flying</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5/</link>
@@ -230,22 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 15:01:35 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>Selon AeroTime et Air Journal, le ministère russe des Transports a préparé un projet de résolution gouvernementale visant à laisser les compagnies du pays exploiter des appareils étrangers sous régime dérogatoire jusqu&#x27;à fin 2028.</description>
-  </item>
-  <item>
-    <title>L&#x27;Airbus A350-1000ULR de Qantas décroche le record Guinness du plus long vol commercial</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790/</guid>
-    <pubDate>Mon, 09 Nov 2026 14:50:48 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Airbus a annoncé le 9 novembre 2026 que l&#x27;A350-1000ULR a obtenu le record Guinness du plus long vol par distance pour un avion de ligne, selon le constructeur relayé par Air Journal.</description>
-  </item>
-  <item>
-    <title>Philippine Airlines commande neuf Airbus A350-1000 supplémentaires et sécurise cinq options</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe/</guid>
-    <pubDate>Mon, 09 Nov 2026 13:20:57 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Philippine Airlines a signé avec Airbus et Rolls-Royce un contrat ferme pour neuf A350-1000 supplémentaires, selon airliners.de. La compagnie philippine s&#x27;est aussi réservé des droits d&#x27;achat sur cinq appareils de plus.</description>
   </item>
 </channel>
 </rss>
