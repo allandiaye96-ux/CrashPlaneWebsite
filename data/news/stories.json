@@ -2,23 +2,23 @@
   {
     "id": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb",
     "created": "2026-11-11T15:20:54Z",
-    "updated": "2026-11-11T15:20:54Z",
-    "version": 1,
+    "updated": "2026-11-11T17:01:40Z",
+    "version": 2,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Compagnies",
     "importance": 2,
-    "titre": "Cathay Group commande onze A330-900 et trois A321neo supplémentaires auprès d'Airbus",
-    "chapo": "Selon airliners.de, qui cite une communication d'Airbus, le groupe Cathay a passé commande ferme de onze A330-900 et de trois A321 Neo supplémentaires.",
+    "titre": "Cathay Group commande 14 Airbus supplémentaires : l'engagement sur l'A330-900 passe à 41 appareils",
+    "chapo": "Selon airliners.de, le groupe Cathay a passé commande ferme auprès d'Airbus pour onze A330-900 et trois A321 Neo supplémentaires, ce qui porte à 41 le nombre d'A330-900 commandés.",
     "paragraphes": [
-      "Avec cette commande, le nombre d'A330-900 fermement commandés par le groupe aérien s'établit à 41, d'après airliners.de.",
-      "Les trois monocouloirs A321 Neo s'ajoutent à une commande de 32 A321 Neo et A320 Neo passée en 2023."
+      "Cette annonce a été faite par le constructeur, d'après airliners.de. Les trois monocouloirs viennent s'ajouter à une commande de 32 A321 Neo et A320 Neo passée en 2023.",
+      "D'après Simple Flying, ces appareils doivent permettre à la compagnie de moderniser sa flotte, en remplaçant les A330-300 plus anciens, et de répartir la capacité sur le réseau asiatique."
     ],
     "contradictions": "",
     "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
+      "status": "corrobore",
+      "independent_sources": 2,
       "official_source": false
     },
     "sources": [
@@ -27,6 +27,13 @@
         "title": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
         "url": "https://www.airliners.de/cathay-group-bestellt-14-airbus-flugzeuge/91468",
         "date": "2026-11-11T14:53:52Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Cathay Orders 14 More Airbus Jets As Its A330-900 Commitment Grows To 41",
+        "url": "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/",
+        "date": "2026-11-11T16:58:42Z",
         "official": false
       }
     ]

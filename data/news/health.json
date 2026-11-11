@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T16:50:34Z",
+  "run": "2026-11-11T17:01:07Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.6431,
+  "spend_month_usd": 4.6678,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -394,6 +394,12 @@
       "breve": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a"
     },
     {
+      "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -758,12 +764,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1"
-    },
-    {
-      "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

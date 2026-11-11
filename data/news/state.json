@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/boeing-737-max-10-land-some-airports-cant-leave-fully-loaded/": "2026-11-01T17:00:58Z",
-    "https://simpleflying.com/air-transat-cancels-all-flights-7-international-destinations/": "2026-11-01T17:00:58Z",
     "https://simpleflying.com/why-jetblue-airbus-a321lr-24-mint-suites-only-sells-23/": "2026-11-01T18:00:58Z",
     "https://simpleflying.com/hawaiian-airlines-overhauling-premium-experience-24-airbus-a330s-isnt-touching-narrowbodies/": "2026-11-01T19:00:58Z",
     "https://simpleflying.com/southwest-airlines-boeing-737-max-7-debut-march-2027-13-more-seats-700s/": "2026-11-01T19:30:49Z",
@@ -1480,7 +1478,9 @@
     "https://www.airliners.de/airlines-streichen-sturm-charles-200-fluege-portugal/91465": "2026-11-11T15:20:35Z",
     "https://airlinegeeks.com/2026/11/11/alaska-hawaiian-pilot-mecs-approve-tentative-joint-contract/": "2026-11-11T15:50:39Z",
     "https://www.aerotime.aero/articles/immfly-digitalizes-klms-onboard-catering-and-retail-offering": "2026-11-11T16:20:34Z",
-    "https://www.airliners.de/swiss-verschiebt-rueckkehr-dubai-maerz/91474": "2026-11-11T16:20:34Z"
+    "https://www.airliners.de/swiss-verschiebt-rueckkehr-dubai-maerz/91474": "2026-11-11T16:20:34Z",
+    "https://simpleflying.com/5-airlines-premium-economy-boeing-777-300er-flights/": "2026-11-11T17:01:07Z",
+    "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/": "2026-11-11T17:01:07Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5317,7 +5317,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-11T15:20:48Z",
-      "updated": "2026-11-11T15:20:48Z",
+      "updated": "2026-11-11T17:01:26Z",
       "items": [
         {
           "id": "2fa3509cae19a3a3",
@@ -5327,14 +5327,23 @@
           "domain": "airliners.de",
           "summary": "Die Cathay Group hat bei Airbus elf weitere A330-900 und drei A321 Neo fest bestellt, wie der Hersteller mitteilte. Damit steigt die Zahl der fest georderten A330-900 bei der Airline-Gruppe auf 41. Die drei Schmalrumpfjets kommen zu einem Auftrag über 32 A321 Neo und A320 Neo aus dem Jahr 2023 hinzu.",
           "published": "2026-11-11T14:53:52Z"
+        },
+        {
+          "id": "bdcc2875a5dd484f",
+          "feed": "Simple Flying",
+          "title": "Cathay Orders 14 More Airbus Jets As Its A330-900 Commitment Grows To 41",
+          "url": "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/",
+          "domain": "simpleflying.com",
+          "summary": "Cathay adds A330-900s and A321neos to modernize its fleet, retiring older A330-300s and spreading capacity across Asia.",
+          "published": "2026-11-11T16:58:42Z"
         }
       ],
       "story_id": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb",
-      "written_count": 1
+      "written_count": 2
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.643051
+    "2026-11": 4.667845
   }
 }
