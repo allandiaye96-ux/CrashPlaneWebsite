@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T11:40:34Z",
+  "run": "2026-11-11T11:50:32Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.4983,
+  "spend_month_usd": 4.5074,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -752,6 +752,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34"
+    },
+    {
+      "dossier": "Lufthansa Group réduit vols Dubai hiver 2026/2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 11:40:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 11:50:47 +0000</lastBuildDate>
+  <item>
+    <title>Dubaï : Swiss, Austrian et ITA Airways retirent la destination de leur programme jusqu&#x27;à fin mars 2027</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316/</guid>
+    <pubDate>Wed, 11 Nov 2026 11:50:47 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, l&#x27;enthousiasme de Lufthansa pour Dubaï est retombé : Swiss, Austrian Airlines et ITA Airways suppriment entièrement la destination jusqu&#x27;à fin mars 2027, et Lufthansa ne la maintient qu&#x27;au départ de Munich.</description>
+  </item>
   <item>
     <title>Cathay Pacific commande 11 Airbus A330-900 supplémentaires et porte son total à 41 appareils</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 08:01:27 +0000</pubDate>
     <category>Aéroports</category>
     <description>Selon Air Journal, Heathrow s&#x27;est entendu par écrit avec le Regional and Business Airports Group pour que son extension profite aux liaisons intérieures du Royaume-Uni.</description>
-  </item>
-  <item>
-    <title>Philippine Airlines lance une nouvelle liaison sans escale de 17 heures vers les États-Unis</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26/</guid>
-    <pubDate>Sun, 08 Nov 2026 18:10:54 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Philippine Airlines ouvre une nouvelle route directe vers les États-Unis, d&#x27;une durée de 17 heures, selon Simple Flying. Le site présente l&#x27;Amérique du Nord comme un marché de plus en plus important pour la compagnie.</description>
   </item>
 </channel>
 </rss>

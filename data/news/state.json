@@ -1443,7 +1443,8 @@
     "https://www.aero.de/news-54144/Auch-Luftwaffen-Personal-berichtet-ueber-Grenzueberschreitungen.html": "2026-11-11T11:10:34Z",
     "https://www.air-journal.fr/2026-11-11-bon-plan-marrakech-essaouira-et-agadir-a-moins-de-100-euros-aller-retour-cet-hiver-5278773.html": "2026-11-11T11:10:34Z",
     "https://simpleflying.com/190-airbus-a380s-airlines-valuable-asset-2026/": "2026-11-11T11:20:35Z",
-    "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse": "2026-11-11T11:20:35Z"
+    "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse": "2026-11-11T11:20:35Z",
+    "https://www.aero.de/news-54145/Die-Dubai-Euphorie-von-Lufthansa-ist-verflogen.html": "2026-11-11T11:50:32Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5273,10 +5274,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6dd42dc316": {
+      "id": "c6dd42dc316",
+      "label": "Lufthansa Group réduit vols Dubai hiver 2026/2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-11T11:50:43Z",
+      "updated": "2026-11-11T11:50:43Z",
+      "items": [
+        {
+          "id": "a7876cdd90c3c0f1",
+          "feed": "aero.de",
+          "title": "Die Dubai-Euphorie von Lufthansa ist verflogen",
+          "url": "https://www.aero.de/news-54145/Die-Dubai-Euphorie-von-Lufthansa-ist-verflogen.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Lufthansa hatte im Winterflugplan 2026/2027 zwischenzeitlich bis zu 36 wöchentliche Flüge nach Dubai hinterlegt. Davon ist nicht mehr viel übrig - Swiss, Austrian Airlines und ITA Airways streichen Dubai bis Ende März 2027 komplett aus dem Programm, Lufthansa beschränkt sich auf Flüge aus München.",
+          "published": "2026-11-11T11:43:01Z"
+        }
+      ],
+      "story_id": "2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.498263
+    "2026-11": 4.507391
   }
 }

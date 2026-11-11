@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316",
+    "created": "2026-11-11T11:50:47Z",
+    "updated": "2026-11-11T11:50:47Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Dubaï : Swiss, Austrian et ITA Airways retirent la destination de leur programme jusqu'à fin mars 2027",
+    "chapo": "Selon aero.de, l'enthousiasme de Lufthansa pour Dubaï est retombé : Swiss, Austrian Airlines et ITA Airways suppriment entièrement la destination jusqu'à fin mars 2027, et Lufthansa ne la maintient qu'au départ de Munich.",
+    "paragraphes": [
+      "D'après aero.de, Lufthansa avait à un moment donné inscrit jusqu'à 36 vols hebdomadaires vers Dubaï dans son programme d'hiver 2026/2027. Il n'en reste désormais plus grand-chose, d'après le média.",
+      "Toujours d'après cette publication, Swiss, Austrian Airlines et ITA Airways retirent complètement Dubaï de leur offre jusqu'à fin mars 2027. Lufthansa, de son côté, limite ses liaisons à celles opérées depuis Munich."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Die Dubai-Euphorie von Lufthansa ist verflogen",
+        "url": "https://www.aero.de/news-54145/Die-Dubai-Euphorie-von-Lufthansa-ist-verflogen.html",
+        "date": "2026-11-11T11:43:01Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
     "created": "2026-11-11T05:20:57Z",
     "updated": "2026-11-11T10:40:52Z",
