@@ -1422,7 +1422,9 @@
     "https://www.airliners.de/flightpath3d-bringt-gamification-moving-map/91451": "2026-11-11T08:20:35Z",
     "https://simpleflying.com/true-airlines-intentionally-use-cabin-lighting-meal-timing-fight-long-haul-jet-lag/": "2026-11-11T09:01:02Z",
     "https://simpleflying.com/singapore-airlines-1st-boeing-777x-seat-map/": "2026-11-11T09:01:02Z",
-    "https://www.air-journal.fr/2026-11-11-volotea-mise-sur-madrid-pour-rebondir-malgre-ses-difficultes-financieres-5278782.html": "2026-11-11T09:01:02Z"
+    "https://www.air-journal.fr/2026-11-11-volotea-mise-sur-madrid-pour-rebondir-malgre-ses-difficultes-financieres-5278782.html": "2026-11-11T09:01:02Z",
+    "https://www.aerotime.aero/articles/world-aviation-festival-2026-how-ai-is-transforming-work-behind-the-scenes": "2026-11-11T09:10:36Z",
+    "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts": "2026-11-11T09:10:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5303,10 +5305,31 @@
       ],
       "story_id": null,
       "written_count": 1
+    },
+    "ce02caf13a4": {
+      "id": "ce02caf13a4",
+      "label": "Drone non abattu Lituanie alertes Baltes",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-11T09:10:54Z",
+      "updated": "2026-11-11T09:10:54Z",
+      "items": [
+        {
+          "id": "54720351a5504475",
+          "feed": "AeroTime",
+          "title": "NATO fighter jets miss drone as air-threat alerts sweep Baltic states",
+          "url": "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts",
+          "domain": "aerotime.aero",
+          "summary": "NATO fighter jets made two unsuccessful attempts to shoot down a drone that entered Lithuanian airspace from Belarus… The post NATO fighter jets miss drone as air-threat alerts sweep Baltic states appeared first on AeroTime .",
+          "published": "2026-11-11T08:56:41Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.438081
+    "2026-11": 4.438926
   }
 }

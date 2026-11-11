@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T09:01:02Z",
+  "run": "2026-11-11T09:10:36Z",
   "stats": {
     "fetched": 678,
-    "new": 3,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.4381,
+  "spend_month_usd": 4.4389,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -852,6 +852,12 @@
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Drone non abattu Lituanie alertes Baltes",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }
