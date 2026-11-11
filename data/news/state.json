@@ -1428,7 +1428,10 @@
     "https://www.aero.de/news-54143/Flugausfaelle-in-Spanien-und-Portugal.html": "2026-11-11T09:30:50Z",
     "https://simpleflying.com/united-ceo-scott-kirby-blames-faa-ohare-taxi-times/": "2026-11-11T10:01:00Z",
     "https://avitrader.com/2026/11/11/dae-nine-month-profit-falls-43/": "2026-11-11T10:01:00Z",
-    "https://www.air-journal.fr/2026-11-11-aer-lingus-deroute-a-evreux-les-syndicats-de-pilotes-contestent-les-conditions-de-linterception-5278783.html": "2026-11-11T10:01:00Z"
+    "https://www.air-journal.fr/2026-11-11-aer-lingus-deroute-a-evreux-les-syndicats-de-pilotes-contestent-les-conditions-de-linterception-5278783.html": "2026-11-11T10:01:00Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=DF410FFD-F626-4B20-BAE5-D1DEFD6722CA": "2026-11-11T10:10:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=BBB030DF-1011-4C9A-ABBE-12DBC75DBC6E": "2026-11-11T10:10:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=52A4A81A-C2B1-4C02-895A-3B18B23D1ABA": "2026-11-11T10:10:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1844,45 +1847,6 @@
       ],
       "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
       "written_count": 6
-    },
-    "c5a0cf1fbb6": {
-      "id": "c5a0cf1fbb6",
-      "label": "FAA inspections réservoirs carburant 787 foudre",
-      "categorie": "Sécurité et réglementation",
-      "importance": 3,
-      "created": "2026-11-03T19:20:59Z",
-      "updated": "2026-11-04T10:01:16Z",
-      "items": [
-        {
-          "id": "3913ed5d39a5199f",
-          "feed": "AeroTime",
-          "title": "FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk",
-          "url": "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk",
-          "domain": "aerotime.aero",
-          "summary": "The Federal Aviation Administration (FAA) has ordered inspections of certain Boeing 787 Dreamliners after discovering that required manufacturing… The post FAA orders Boeing 787 fuel tank inspections over lightning strike explosion risk appeared first on AeroTime .",
-          "published": "2026-11-03T19:03:33Z"
-        },
-        {
-          "id": "cdad1f988b3a1ca1",
-          "feed": "Air Journal",
-          "title": "Réservoirs du Boeing 787 : des contrôles de fabrication non vérifiés déclenchent une directive de la FAA",
-          "url": "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html",
-          "domain": "air-journal.fr",
-          "summary": "La Federal Aviation Administration (FAA) impose des inspections de certains Boeing 787-8, 787-9 et 787-10 après avoir constaté l’absence de preuves attestant la réalisation de contrôles obligatoires de mastics dans le réservoir central de voilure, lors de leur fabrication. L’enjeu : prévenir l’apparition d’une source d’inflammation en cas de foudroiement. La mesure, qui concerne selon […]",
-          "published": "2026-11-04T09:00:48Z"
-        },
-        {
-          "id": "d3a3591bf3ceac2a",
-          "feed": "Simple Flying",
-          "title": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
-          "url": "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/",
-          "domain": "simpleflying.com",
-          "summary": "The FAA's directive covers 60 US-registered jets, with an unknown number of foreign-registered aircraft potentially affected.",
-          "published": "2026-11-04T09:54:09Z"
-        }
-      ],
-      "story_id": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6",
-      "written_count": 3
     },
     "c446f5897cf": {
       "id": "c446f5897cf",
@@ -5322,6 +5286,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.465961
+    "2026-11": 4.466829
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T10:01:00Z",
+  "run": "2026-11-11T10:10:33Z",
   "stats": {
     "fetched": 678,
     "new": 3,
     "written": 0,
-    "held": 1,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.466,
+  "spend_month_usd": 4.4668,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -200,12 +200,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-02-pakistan-international-airlines-recoit-son-premier-boeing-78-8e92"
-    },
-    {
-      "dossier": "FAA inspections réservoirs carburant 787 foudre",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-04-boeing-787-la-faa-impose-des-inspections-des-reservoirs-apre-fbb6"
     },
     {
       "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
