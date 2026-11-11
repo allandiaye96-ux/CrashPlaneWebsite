@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T10:20:33Z",
+  "run": "2026-11-11T10:30:49Z",
   "stats": {
     "fetched": 678,
-    "new": 6,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.4678,
+  "spend_month_usd": 4.4686,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -272,12 +272,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
-    },
-    {
-      "dossier": "ITA Airways Milan-Malpensa Lima projet",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac"
     },
     {
       "dossier": "Air Baltic retour de six A220-300",

@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-delta-air-lines-doesnt-want-blended-winglets-on-most-aircraft-anymore/": "2026-11-01T10:20:34Z",
     "https://simpleflying.com/how-many-miles-business-class-with-united-mileageplus-2026/": "2026-11-01T11:00:57Z",
     "https://www.air-journal.fr/2026-11-01-italie-un-ete-record-pour-les-aeroports-avec-988-millions-de-passagers-5278614.html": "2026-11-01T11:00:57Z",
     "https://simpleflying.com/how-1970s-aircraft-still-power-america-private-fleet/": "2026-11-01T12:00:59Z",
@@ -1437,7 +1436,8 @@
     "https://www.aerotime.aero/articles/rafael-super-ice-cruise-missile-warhead": "2026-11-11T10:20:33Z",
     "https://www.airliners.de/merz-haelt-eu-emissionshandel-fest-kommission-will-luftverkehr-2029-einbeziehen/91455": "2026-11-11T10:20:33Z",
     "https://www.airliners.de/flydubai-dezember-verbindung-oesterreich/91447": "2026-11-11T10:20:33Z",
-    "https://www.airliners.de/hensec-ergaenzt-drohnenerkennung-akustik-ki-kameras/91446": "2026-11-11T10:20:33Z"
+    "https://www.airliners.de/hensec-ergaenzt-drohnenerkennung-akustik-ki-kameras/91446": "2026-11-11T10:20:33Z",
+    "https://www.aero.de/news-54142/Etihad-Airways-soll-neue-Condor-Fluege-massiv-bezuschussen.html": "2026-11-11T10:30:49Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1901,36 +1901,6 @@
       ],
       "story_id": "2026-11-03-air-india-envisage-de-nouvelles-commandes-de-gros-porteurs-a-97cf",
       "written_count": 4
-    },
-    "c9f1c7518ac": {
-      "id": "c9f1c7518ac",
-      "label": "ITA Airways Milan-Malpensa Lima projet",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-04T06:01:17Z",
-      "updated": "2026-11-04T10:20:52Z",
-      "items": [
-        {
-          "id": "7d58b06143b57e20",
-          "feed": "Air Journal",
-          "title": "ITA Airways prépare son retour à Milan-Malpensa pour couper la route à Emirates vers Lima",
-          "url": "https://www.air-journal.fr/2026-11-04-ita-airways-prepare-son-retour-a-milan-malpensa-pour-couper-la-route-a-emirates-vers-lima-5278664.html",
-          "domain": "air-journal.fr",
-          "summary": "ITA Airways envisage de relier Milan-Malpensa à Lima au Pérou, en complément d’une desserte depuis Rome-Fiumicino. Révélé le 3 novembre par le Corriere della Sera, ce projet reposerait sur une rotation en Airbus A350 sans ouverture de base en Lombardie. Une manière de renforcer son réseau latino-américain, mais aussi de contrer Emirates, qui demande à […]",
-          "published": "2026-11-04T06:00:43Z"
-        },
-        {
-          "id": "3a198768e87904f8",
-          "feed": "Simple Flying",
-          "title": "ITA Airways Plots Malpensa U-Turn To Fly Milan-Lima Route Before Emirates Can",
-          "url": "https://simpleflying.com/ita-airways-milan-malpensa-u-turn-lima-route/",
-          "domain": "simpleflying.com",
-          "summary": "It has been almost three years since ITA Airways operated scheduled long-haul flights from Milan Malpensa.",
-          "published": "2026-11-04T10:07:16Z"
-        }
-      ],
-      "story_id": "2026-11-04-ita-airways-etudierait-une-liaison-milan-malpensalima-en-plu-18ac",
-      "written_count": 2
     },
     "c2569f72076": {
       "id": "c2569f72076",
@@ -5313,6 +5283,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.467846
+    "2026-11": 4.468624
   }
 }
