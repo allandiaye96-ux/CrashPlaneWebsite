@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-11T00:20:35Z",
+  "run": "2026-11-11T00:30:48Z",
   "stats": {
-    "fetched": 678,
+    "fetched": 668,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -66,8 +66,8 @@
       "items": 10
     },
     "Flightradar24 – Blog": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "IncompleteRead: IncompleteRead(211575 bytes read)"
     },
     "The War Zone": {
       "ok": true,
