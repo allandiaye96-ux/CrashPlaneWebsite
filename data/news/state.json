@@ -1441,7 +1441,9 @@
     "https://simpleflying.com/alaska-airlines-yakima-diversion-red-cross-cots-no-hotels/": "2026-11-11T11:10:34Z",
     "https://avitrader.com/2026/11/11/atsg-completes-omni-air-sale/": "2026-11-11T11:10:34Z",
     "https://www.aero.de/news-54144/Auch-Luftwaffen-Personal-berichtet-ueber-Grenzueberschreitungen.html": "2026-11-11T11:10:34Z",
-    "https://www.air-journal.fr/2026-11-11-bon-plan-marrakech-essaouira-et-agadir-a-moins-de-100-euros-aller-retour-cet-hiver-5278773.html": "2026-11-11T11:10:34Z"
+    "https://www.air-journal.fr/2026-11-11-bon-plan-marrakech-essaouira-et-agadir-a-moins-de-100-euros-aller-retour-cet-hiver-5278773.html": "2026-11-11T11:10:34Z",
+    "https://simpleflying.com/190-airbus-a380s-airlines-valuable-asset-2026/": "2026-11-11T11:20:35Z",
+    "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse": "2026-11-11T11:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5206,7 +5208,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-11T08:01:22Z",
-      "updated": "2026-11-11T08:01:22Z",
+      "updated": "2026-11-11T11:20:49Z",
       "items": [
         {
           "id": "c653e8b290c3aa7f",
@@ -5216,10 +5218,19 @@
           "domain": "air-journal.fr",
           "summary": "Airbus prépare à Cornebarrieu, près de l’aéroport de Toulouse-Blagnac, une nouvelle usine destinée à accompagner la croissance de sa production au-delà de 2030. Baptisé « Saint-Éloi du futur », le projet représente un investissement estimatif pouvant atteindre 900 millions d’euros et pourrait accueillir jusqu’à 3 500 salariés à l’horizon 2037. Une concertation préalable s’ouvrira le […]",
           "published": "2026-11-11T08:00:33Z"
+        },
+        {
+          "id": "1ac19f58934e3789",
+          "feed": "AeroTime",
+          "title": "Airbus announces plans to build new greenfield factory in Toulouse",
+          "url": "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse",
+          "domain": "aerotime.aero",
+          "summary": "Airbus has announced plans to build a new factory in Toulouse to produce engine pylons for its jets. … The post Airbus announces plans to build new greenfield factory in Toulouse appeared first on AeroTime .",
+          "published": "2026-11-11T10:31:41Z"
         }
       ],
       "story_id": null,
-      "written_count": 1
+      "written_count": 2
     },
     "ce02caf13a4": {
       "id": "ce02caf13a4",
@@ -5266,6 +5277,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.479318
+    "2026-11": 4.498263
   }
 }

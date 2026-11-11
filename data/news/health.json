@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T11:10:34Z",
+  "run": "2026-11-11T11:20:35Z",
   "stats": {
     "fetched": 678,
-    "new": 4,
+    "new": 2,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.4793,
+  "spend_month_usd": 4.4983,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -754,6 +754,12 @@
       "breve": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34"
     },
     {
+      "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": null
+    },
+    {
       "dossier": "Royal Navy drones frappe HMS Queen Elizabeth",
       "statut": "signale",
       "editeurs": 1,
@@ -822,12 +828,6 @@
     {
       "dossier": "Royal Navy YFQ-48A CCA porte-avions 2027",
       "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
-      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     },
