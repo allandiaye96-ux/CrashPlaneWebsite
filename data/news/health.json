@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T11:50:32Z",
+  "run": "2026-11-11T12:01:04Z",
   "stats": {
     "fetched": 678,
-    "new": 1,
-    "written": 1,
-    "held": 0,
+    "new": 3,
+    "written": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.5074,
+  "spend_month_usd": 4.5265,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -262,6 +262,12 @@
       "breve": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a"
     },
     {
+      "dossier": "Cathay commande 14 Airbus supplémentaires",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
+    },
+    {
       "dossier": "Air India commande gros-porteurs supplémentaire",
       "statut": "corrobore",
       "editeurs": 2,
@@ -398,12 +404,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
-    },
-    {
-      "dossier": "Cathay commande 14 Airbus supplémentaires",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
     },
     {
       "dossier": "Cathay Pacific commande A330-900 et A321neo",

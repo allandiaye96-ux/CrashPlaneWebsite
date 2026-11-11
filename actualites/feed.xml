@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 11:50:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 12:01:34 +0000</lastBuildDate>
   <item>
     <title>Dubaï : Swiss, Austrian et ITA Airways retirent la destination de leur programme jusqu&#x27;à fin mars 2027</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316/</link>
@@ -30,14 +30,6 @@
     <pubDate>Wed, 11 Nov 2026 07:20:56 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, le président d&#x27;Emirates, Tim Clark, ne s&#x27;attend à recevoir les premiers Boeing 777X que vers la fin de 2027. La compagnie doit par ailleurs décider si elle prend livraison de ses Boeing 787 commandés.</description>
-  </item>
-  <item>
-    <title>Cathay Group commande 14 Airbus supplémentaires : 11 A330-900 et trois A321neo</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093/</guid>
-    <pubDate>Wed, 11 Nov 2026 05:20:57 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Le groupe hongkongais Cathay a passé une commande ferme portant sur 14 appareils Airbus supplémentaires, selon AviTrader. Elle comprend 11 A330-900 et trois A321neo.</description>
   </item>
   <item>
     <title>Alpi Aviation : le Pioneer 800 Twin, propulsé par Rotax, a effectué son premier vol le 5 novembre 2026</title>
@@ -246,6 +238,14 @@
     <pubDate>Mon, 09 Nov 2026 08:01:27 +0000</pubDate>
     <category>Aéroports</category>
     <description>Selon Air Journal, Heathrow s&#x27;est entendu par écrit avec le Regional and Business Airports Group pour que son extension profite aux liaisons intérieures du Royaume-Uni.</description>
+  </item>
+  <item>
+    <title>Philippine Airlines lance une nouvelle liaison sans escale de 17 heures vers les États-Unis</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26/</guid>
+    <pubDate>Sun, 08 Nov 2026 18:10:54 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Philippine Airlines ouvre une nouvelle route directe vers les États-Unis, d&#x27;une durée de 17 heures, selon Simple Flying. Le site présente l&#x27;Amérique du Nord comme un marché de plus en plus important pour la compagnie.</description>
   </item>
 </channel>
 </rss>

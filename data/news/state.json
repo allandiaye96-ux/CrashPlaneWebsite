@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-1970s-aircraft-still-power-america-private-fleet/": "2026-11-01T12:00:59Z",
-    "https://www.air-journal.fr/2026-11-01-air-france-le-chef-martiniquais-louis-philippe-vigilant-signe-les-menus-business-au-depart-des-antilles-guyane-5278623.html": "2026-11-01T12:00:59Z",
     "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine": "2026-11-01T12:40:35Z",
     "https://simpleflying.com/f-22-what-takes-fly-americas-top-stealth-fighter/": "2026-11-01T13:00:56Z",
     "https://www.air-journal.fr/2026-11-01-archer-et-ita-airways-sallient-pour-developper-les-taxis-volants-electriques-en-italie-5278615.html": "2026-11-01T13:00:56Z",
@@ -1444,7 +1442,10 @@
     "https://www.air-journal.fr/2026-11-11-bon-plan-marrakech-essaouira-et-agadir-a-moins-de-100-euros-aller-retour-cet-hiver-5278773.html": "2026-11-11T11:10:34Z",
     "https://simpleflying.com/190-airbus-a380s-airlines-valuable-asset-2026/": "2026-11-11T11:20:35Z",
     "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse": "2026-11-11T11:20:35Z",
-    "https://www.aero.de/news-54145/Die-Dubai-Euphorie-von-Lufthansa-ist-verflogen.html": "2026-11-11T11:50:32Z"
+    "https://www.aero.de/news-54145/Die-Dubai-Euphorie-von-Lufthansa-ist-verflogen.html": "2026-11-11T11:50:32Z",
+    "https://simpleflying.com/british-airways-unveils-7-new-international-routes-see-full-list-now/": "2026-11-11T12:01:04Z",
+    "https://simpleflying.com/runway-grooves-help-commercial-jets-stop-heavy-rain/": "2026-11-11T12:01:04Z",
+    "https://www.air-journal.fr/2026-11-11-cathay-renforce-sa-flotte-regionale-avec-11-a330neo-et-trois-a321neo-5278789.html": "2026-11-11T12:01:04Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5128,7 +5129,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-11T05:20:48Z",
-      "updated": "2026-11-11T10:40:48Z",
+      "updated": "2026-11-11T12:01:20Z",
       "items": [
         {
           "id": "f816c0f1eb1c12f0",
@@ -5147,10 +5148,19 @@
           "domain": "avitrader.com",
           "summary": "Hong Kong’s Cathay Group (Cathay) has placed a firm order for 14 additional Airbus aircraft, comprising 11 A330-900s and three A321neos, as it continues to modernise and expand its fleet. The latest order brings Cathay’s total commitment for the A330-900 to 41 aircraft, following an order for 30 in 2024. The three additional A321neos add […] The post Cathay orders 14 more Airbus aircraft appeared first on AviTrader Aviation News .",
           "published": "2026-11-11T10:38:53Z"
+        },
+        {
+          "id": "fbc6e60526d80067",
+          "feed": "Air Journal",
+          "title": "Cathay renforce sa flotte régionale avec 11 A330neo et trois A321neo",
+          "url": "https://www.air-journal.fr/2026-11-11-cathay-renforce-sa-flotte-regionale-avec-11-a330neo-et-trois-a321neo-5278789.html",
+          "domain": "air-journal.fr",
+          "summary": "Le groupe hongkongais Cathay a annoncé, le 11 novembre 2026, une commande ferme de 14 Airbus supplémentaires : 11 A330-900 pour Cathay Pacific et trois A321neo pour sa filiale à bas coûts HK Express. Issus de l’exercice de droits d’achat, ces nouveaux engagements accompagneront le renouvellement des flottes et le développement du réseau au départ de […]",
+          "published": "2026-11-11T12:00:19Z"
         }
       ],
       "story_id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
-      "written_count": 2
+      "written_count": 3
     },
     "cc19284ad34": {
       "id": "cc19284ad34",
@@ -5299,6 +5309,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.507391
+    "2026-11": 4.526538
   }
 }
