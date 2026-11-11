@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T05:10:33Z",
+  "run": "2026-11-11T05:20:32Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.3371,
+  "spend_month_usd": 4.3578,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -788,6 +788,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21"
+    },
+    {
+      "dossier": "Cathay commande 14 Airbus supplémentaires",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
     },
     {
       "dossier": "Sikorsky S-92A+ hélicoptère présidentiel Corée du Sud",

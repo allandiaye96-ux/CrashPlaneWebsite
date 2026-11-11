@@ -1,5 +1,84 @@
 [
   {
+    "id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
+    "created": "2026-11-11T05:20:57Z",
+    "updated": "2026-11-11T05:20:57Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Le groupe Cathay commande 14 appareils Airbus supplémentaires",
+    "chapo": "Selon un communiqué publié par Airbus, le groupe Cathay a passé commande de 14 avions additionnels auprès du constructeur européen.",
+    "paragraphes": [
+      "D'après l'intitulé du communiqué d'Airbus, cette commande porte sur 14 appareils venant s'ajouter à ceux que le groupe Cathay a déjà commandés au constructeur.",
+      "Le communiqué est consultable sur le site d'Airbus."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "The Cathay Group orders 14 additional Airbus aircraft",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft",
+        "date": null,
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
+    "created": "2026-11-10T10:20:57Z",
+    "updated": "2026-11-11T05:20:54Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Emirates suspend ses plans pour Berlin et veut clarifier l'accord aérien avec le ministère des Transports",
+    "chapo": "Selon airliners.de et aero.de, le président d'Emirates, Tim Clark, indique que la compagnie met en pause son projet de desserte de Berlin, en attendant des précisions sur l'accord aérien entre l'Allemagne et les Émirats arabes unis.",
+    "paragraphes": [
+      "D'après airliners.de, Tim Clark affirme qu'Emirates serait prête à lancer Berlin au 1er avril 2027. La compagnie attend toutefois des éclaircissements sur l'accord de transport aérien avec les Émirats. Reste à savoir si elle devrait renoncer à augmenter son offre sur les quatre autres destinations allemandes qu'elle dessert.",
+      "Selon aero.de, Tim Clark a dit à Berlin devant la presse espérer reprendre contact avec le ministère fédéral des Transports pour clarifier plusieurs points. Il a des questions sur l'extension de l'accord convenue entre l'Allemagne et les Émirats arabes unis, et évoque des marges d'interprétation.",
+      "Le gouvernement fédéral, lui, qualifie le texte d'accord « très clair », rapporte aero.de."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Emirates hält Berlin-Start zurück und sucht Gespräch mit Verkehrsminister",
+        "url": "https://www.airliners.de/emirates-haelt-berlin-start-ueck-sucht-gespraech-verkehrsminister/91423",
+        "date": "2026-11-10T09:38:58Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Emirates will Luftfahrtdeal wieder aufschnüren",
+        "url": "https://www.aero.de/news-54137/Emirates-will-Luftfahrtdeal-wieder-aufschnueren.html",
+        "date": "2026-11-10T10:18:22Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Bundesregierung: \"Sehr klares Abkommen\"",
+        "url": "https://www.aero.de/news-54136/Emirates-Verkehrsrechte-BER.html",
+        "date": "2026-11-11T05:12:52Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21",
     "created": "2026-11-10T22:10:55Z",
     "updated": "2026-11-10T22:10:55Z",
@@ -642,45 +721,6 @@
         "title": "Boeing : la reprise industrielle patine, environ 2 500 postes menacés",
         "url": "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html",
         "date": "2026-11-10T12:00:46Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
-    "created": "2026-11-10T10:20:57Z",
-    "updated": "2026-11-10T10:20:57Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Emirates suspend son projet de desserte de Berlin et cherche à dialoguer avec le ministère des Transports",
-    "chapo": "Selon airliners.de et aero.de, le président d'Emirates, Tim Clark, indique que la compagnie met pour l'instant son projet de vol vers Berlin en suspens. Elle attend des clarifications sur l'accord aérien avec les Émirats arabes unis.",
-    "paragraphes": [
-      "D'après airliners.de, Tim Clark affirme qu'Emirates serait prête à lancer Berlin au 1er avril 2027. La compagnie attend toutefois d'y voir plus clair sur l'accord de transport aérien conclu avec les Émirats arabes unis.",
-      "Airliners.de relève qu'une question demeure : Emirates devrait-elle renoncer à une croissance sur ses quatre autres destinations allemandes pour pouvoir desservir Berlin ? Selon aero.de, Tim Clark a déclaré à la presse à Berlin espérer reprendre contact avec le ministère des Transports pour clarifier certains points."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Emirates hält Berlin-Start zurück und sucht Gespräch mit Verkehrsminister",
-        "url": "https://www.airliners.de/emirates-haelt-berlin-start-ueck-sucht-gespraech-verkehrsminister/91423",
-        "date": "2026-11-10T09:38:58Z",
-        "official": false
-      },
-      {
-        "name": "aero.de",
-        "title": "Emirates will Luftfahrtdeal wieder aufschnüren",
-        "url": "https://www.aero.de/news-54137/Emirates-will-Luftfahrtdeal-wieder-aufschnueren.html",
-        "date": "2026-11-10T10:18:22Z",
         "official": false
       }
     ]

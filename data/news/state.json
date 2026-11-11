@@ -1414,7 +1414,10 @@
     "https://www.air-journal.fr/2026-11-11-le-11-novembre-1906-dans-le-ciel-le-vol-du-ballon-la-ville-de-paris-compromis-par-la-meteo-5278777.html": "2026-11-10T23:10:36Z",
     "https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029": "2026-11-10T23:50:35Z",
     "https://simpleflying.com/boeing-jet-already-sitting-american-airlines-fleet-quietly-replace-its-47-oldest-widebodies/": "2026-11-11T02:50:31Z",
-    "https://www.airliners.de/qatar-airways-vereinbart-codeshare-porter-airlines/91442": "2026-11-11T03:20:35Z"
+    "https://www.airliners.de/qatar-airways-vereinbart-codeshare-porter-airlines/91442": "2026-11-11T03:20:35Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft": "2026-11-11T05:20:32Z",
+    "https://www.aero.de/news-54136/Emirates-Verkehrsrechte-BER.html": "2026-11-11T05:20:32Z",
+    "https://www.airliners.de/zweiter-tankdienstleister-prag-afuel/91415": "2026-11-11T05:20:32Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5044,7 +5047,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-10T10:20:53Z",
-      "updated": "2026-11-10T10:20:53Z",
+      "updated": "2026-11-11T05:20:48Z",
       "items": [
         {
           "id": "2c30986dd8bb6feb",
@@ -5063,10 +5066,19 @@
           "domain": "airliners.de",
           "summary": "Emirates-Präsident Tim Clark sagt, die Airline sei zum 1. April 2027 startbereit für Berlin. Nun wartet die Airline auf Klarheit im Luftverkehrsabkommen mit den VAE. Offen ist, ob sie dafür auf Wachstum an den vier anderen deutschen Zielen verzichten müsste.",
           "published": "2026-11-10T09:38:58Z"
+        },
+        {
+          "id": "e4e7985522d837c5",
+          "feed": "aero.de",
+          "title": "Bundesregierung: \"Sehr klares Abkommen\"",
+          "url": "https://www.aero.de/news-54136/Emirates-Verkehrsrechte-BER.html",
+          "domain": "aero.de",
+          "summary": "BERLIN - Emirates stoppt ihre BER-Pläne: Emirates-Chef Tim Clark hat noch Fragen zu der zwischen Deutschland und den VAE vereinbarten Erweiterung des Luftverkehrsabkommens - und raunt über Interpretationsmöglichkeiten. Die Bundesregierung spricht hingegen von einem \"sehr klaren Abkommen\".",
+          "published": "2026-11-11T05:12:52Z"
         }
       ],
       "story_id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
-      "written_count": 2
+      "written_count": 3
     },
     "c2974b8742c": {
       "id": "c2974b8742c",
@@ -5349,10 +5361,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6ab2ac1093": {
+      "id": "c6ab2ac1093",
+      "label": "Cathay commande 14 Airbus supplémentaires",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-11T05:20:48Z",
+      "updated": "2026-11-11T05:20:48Z",
+      "items": [
+        {
+          "id": "f816c0f1eb1c12f0",
+          "feed": "Airbus – Communiqués",
+          "title": "The Cathay Group orders 14 additional Airbus aircraft",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft",
+          "domain": "airbus.com",
+          "summary": "Read more about The Cathay Group orders 14 additional Airbus aircraft",
+          "published": null
+        }
+      ],
+      "story_id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.337081
+    "2026-11": 4.35783
   }
 }

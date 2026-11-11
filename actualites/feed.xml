@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 05:10:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 05:20:57 +0000</lastBuildDate>
+  <item>
+    <title>Le groupe Cathay commande 14 appareils Airbus supplémentaires</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093/</guid>
+    <pubDate>Wed, 11 Nov 2026 05:20:57 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon un communiqué publié par Airbus, le groupe Cathay a passé commande de 14 avions additionnels auprès du constructeur européen.</description>
+  </item>
   <item>
     <title>Alpi Aviation : le Pioneer 800 Twin, propulsé par Rotax, a effectué son premier vol le 5 novembre 2026</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21/</link>
@@ -64,12 +72,12 @@
     <description>Après un troisième trimestre record, Embraer rehausse ses prévisions de chiffre d&#x27;affaires et de flux de trésorerie pour l&#x27;année en cours, selon airliners.de. Les objectifs de livraisons restent inchangés.</description>
   </item>
   <item>
-    <title>Emirates suspend son projet de desserte de Berlin et cherche à dialoguer avec le ministère des Transports</title>
+    <title>Emirates suspend ses plans pour Berlin et veut clarifier l&#x27;accord aérien avec le ministère des Transports</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd/</guid>
     <pubDate>Tue, 10 Nov 2026 10:20:57 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon airliners.de et aero.de, le président d&#x27;Emirates, Tim Clark, indique que la compagnie met pour l&#x27;instant son projet de vol vers Berlin en suspens. Elle attend des clarifications sur l&#x27;accord aérien avec les Émirats arabes unis.</description>
+    <description>Selon airliners.de et aero.de, le président d&#x27;Emirates, Tim Clark, indique que la compagnie met en pause son projet de desserte de Berlin, en attendant des précisions sur l&#x27;accord aérien entre l&#x27;Allemagne et les Émirats arabes unis.</description>
   </item>
   <item>
     <title>Etihad aurait investi un montant à deux chiffres en millions dans Condor</title>
@@ -238,14 +246,6 @@
     <pubDate>Sun, 08 Nov 2026 14:50:51 +0000</pubDate>
     <category>Compagnies</category>
     <description>China Eastern Airlines a confirmé CFM International comme fournisseur des moteurs de sa dernière commande de monocouloirs Airbus, selon AeroTime. Le contrat porte sur 101 appareils de la famille A320neo.</description>
-  </item>
-  <item>
-    <title>IAG prévoit une capacité 2026 légèrement inférieure à celle de 2025, selon Air Journal</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5/</guid>
-    <pubDate>Sun, 08 Nov 2026 11:20:51 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Air Journal, le groupe IAG revoit à la baisse ses ambitions et anticipe désormais une offre en sièges un peu en retrait par rapport à 2025.</description>
   </item>
 </channel>
 </rss>
