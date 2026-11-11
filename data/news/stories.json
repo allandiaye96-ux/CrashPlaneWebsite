@@ -1,5 +1,147 @@
 [
   {
+    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
+    "created": "2026-11-10T06:01:27Z",
+    "updated": "2026-11-11T20:01:32Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas confie à Accenture la modernisation de sa technologie, environ 850 postes du siège concernés",
+    "chapo": "Qantas Group a signé un partenariat stratégique pluriannuel avec Accenture pour moderniser ses systèmes informatiques et accélérer l'usage de l'intelligence artificielle, selon AviTrader. Environ 850 emplois du siège sont concernés, d'après Australian Aviation.",
+    "paragraphes": [
+      "Selon AviTrader, l'accord doit traiter plus de 1 000 applications héritées, accumulées au sein de la compagnie depuis plusieurs décennies. D'après Australian Aviation, certains postes seront délocalisés vers les équipes d'Accenture en Inde, d'autres resteront en Australie, et d'autres encore seront à terme transformés par l'automatisation et l'IA. AeroTime précise que les postes visés sont actuellement tenus au siège de Mascot.",
+      "Le syndicat a réagi avec virulence, d'après Australian Aviation. Il demande à Qantas de tenir ses engagements : en août, les salariés auraient reçu l'assurance qu'aucune délocalisation d'emplois australiens n'était prévue. Il réclame une explication honnête sur ce qui a changé depuis.",
+      "La ministre des Transports, Catherine King, s'est dite préoccupée par la cybersécurité, selon Australian Aviation. Sur ABC Radio National, elle a évoqué des violations de données récentes chez des prestataires tiers, dont l'attaque visant Amadeus, et a estimé que la compagnie pourrait perdre en partie le contrôle de ses données."
+    ],
+    "contradictions": "Les sources ne concordent pas sur le sort des postes : AeroTime parle de suppression d'environ 850 emplois et d'externalisation vers l'Inde, tandis qu'Australian Aviation indique qu'une partie des rôles restera en Australie.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas HQ to outsource 850 jobs to Accenture",
+        "url": "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/",
+        "date": "2026-11-10T00:15:19Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "‘Keep your word’: Union slams Qantas HQ outsourcing plans",
+        "url": "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/",
+        "date": "2026-11-10T03:13:42Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Qantas targets 850 jobs in technology overhaul",
+        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
+        "date": "2026-11-10T05:56:33Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Qantas to outsource 850 roles to India as part of major AI drive",
+        "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
+        "date": "2026-11-10T13:25:46Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "Minister ‘concerned’ about Qantas cyber security in Accenture move",
+        "url": "https://australianaviation.com.au/2026/11/minister-concerned-about-qantas-cybersecurity-in-accenture-move/",
+        "date": "2026-11-11T02:45:39Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
+    "created": "2026-11-09T21:01:23Z",
+    "updated": "2026-11-11T20:01:27Z",
+    "version": 8,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Boeing va supprimer environ 5 % des postes de sa division avions commerciaux, la montée en cadence peinant",
+    "chapo": "Boeing prévoit de tailler dans les effectifs de Commercial Airplanes, à hauteur d'environ 5 %, car l'augmentation des cadences de production se révèle plus lente qu'espéré, selon AeroTime et plusieurs autres médias.",
+    "paragraphes": [
+      "D'après Le Journal de l'Aviation, la réduction passerait par des départs naturels non remplacés et par des licenciements. Air Journal avance environ 2 500 postes concernés, et précise que la stabilisation de certaines usines est repoussée au début de 2027. Selon airliners.de, les modalités de l'opération figurent dans une note interne de la dirigeante de la division.",
+      "Australian Aviation indique que les réductions débuteraient en décembre, le projet de hausse de la production du 737 MAX étant freiné par une fabrication des ailes plus lente que prévu à l'usine de Renton. Leeham News rappelle que le constructeur avait évoqué ce réajustement du rythme du 737 Max lors de la présentation de ses résultats du troisième trimestre. Simple Flying souligne de son côté que le carnet de commandes, très fourni, devrait amortir l'impact à court terme."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 8,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Stockender Hochlauf: Boeing baut Personal ab",
+        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
+        "date": "2026-11-09T20:51:23Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
+        "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
+        "date": "2026-11-09T22:10:54Z",
+        "official": false
+      },
+      {
+        "name": "Leeham News",
+        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
+        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
+        "date": "2026-11-09T22:29:56Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
+        "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
+        "date": "2026-11-09T23:25:34Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Boeing streicht fünf Prozent der Stellen in Verkehrsflugzeugsparte",
+        "url": "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422",
+        "date": "2026-11-10T08:41:39Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/boeing-va-supprimer-5-des-effectifs-de-sa-division-avions-commerciaux-20261110.html",
+        "date": "2026-11-10T11:43:04Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Boeing : la reprise industrielle patine, environ 2 500 postes menacés",
+        "url": "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html",
+        "date": "2026-11-10T12:00:46Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "Boeing cuts commercial airplanes workforce amid slow production",
+        "url": "https://australianaviation.com.au/2026/11/boeing-cuts-commercial-airplanes-workforce-amid-slow-production/",
+        "date": "2026-11-11T00:28:12Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
     "created": "2026-11-11T14:21:01Z",
     "updated": "2026-11-11T18:01:20Z",
@@ -763,59 +905,6 @@
     ]
   },
   {
-    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
-    "created": "2026-11-10T06:01:27Z",
-    "updated": "2026-11-10T20:01:27Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Qantas confie à Accenture un partenariat technologique touchant environ 850 emplois de son siège",
-    "chapo": "Qantas Group a conclu un partenariat stratégique pluriannuel avec Accenture pour moderniser son informatique et accélérer l'adoption de l'IA, selon AviTrader. Environ 850 emplois seraient concernés au cours des prochaines années.",
-    "paragraphes": [
-      "D'après Australian Aviation, certains postes seront transférés vers les équipes d'Accenture en Inde, d'autres resteront en Australie, et d'autres encore seront à terme transformés par l'automatisation et l'IA. AeroTime situe les postes visés au siège de Qantas à Mascot. Le partenariat doit aussi traiter plus de 1 000 applications héritées accumulées au sein de la compagnie depuis plusieurs décennies, selon AviTrader.",
-      "Le syndicat a réagi avec virulence, selon Australian Aviation. Il demande à Qantas de tenir ses engagements, affirmant que les salariés avaient reçu en août l'assurance qu'aucun plan de délocalisation d'emplois australiens n'existait. Il réclame une explication honnête sur ce qui a changé depuis."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Australian Aviation",
-        "title": "Qantas HQ to outsource 850 jobs to Accenture",
-        "url": "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/",
-        "date": "2026-11-10T00:15:19Z",
-        "official": false
-      },
-      {
-        "name": "Australian Aviation",
-        "title": "‘Keep your word’: Union slams Qantas HQ outsourcing plans",
-        "url": "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/",
-        "date": "2026-11-10T03:13:42Z",
-        "official": false
-      },
-      {
-        "name": "AviTrader",
-        "title": "Qantas targets 850 jobs in technology overhaul",
-        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
-        "date": "2026-11-10T05:56:33Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Qantas to outsource 850 roles to India as part of major AI drive",
-        "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
-        "date": "2026-11-10T13:25:46Z",
-        "official": false
-      }
-    ]
-  },
-  {
     "id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
     "created": "2026-11-09T14:50:48Z",
     "updated": "2026-11-10T20:01:23Z",
@@ -1069,81 +1158,6 @@
         "title": "United Airlines opens new Concourse E at Washington Dulles Airport",
         "url": "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport",
         "date": "2026-11-10T14:57:43Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-    "created": "2026-11-09T21:01:23Z",
-    "updated": "2026-11-10T12:01:39Z",
-    "version": 7,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Boeing va supprimer environ 5 % des postes de sa division avions commerciaux, la montée en cadence patinant",
-    "chapo": "Selon plusieurs médias spécialisés, dont AeroTime et Le Journal de l'Aviation, Boeing s'apprête à tailler dans les effectifs de sa branche Commercial Airplanes, la hausse des cadences de production se révélant plus laborieuse que prévu.",
-    "paragraphes": [
-      "D'après Air Journal, quelque 2 500 postes pourraient être touchés. La réduction passerait par des départs naturels non remplacés ainsi que par des licenciements, précise Le Journal de l'Aviation. Airliners.de indique que les modalités de ce plan figurent dans une note interne de la dirigeante de la division.",
-      "Leeham News explique que ces coupes accompagnent un ajustement du rythme de production du 737 Max, une orientation évoquée lors de la présentation des résultats du troisième trimestre. Simple Flying cite pour sa part des livraisons de voilures plus lentes et des problèmes de stabilité en usine, tout en soulignant qu'un important carnet de commandes amortirait l'impact à court terme.",
-      "Air Journal ajoute que le constructeur doit repousser au début de 2027 la stabilisation d'une partie de sa production."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 7,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Stockender Hochlauf: Boeing baut Personal ab",
-        "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
-        "date": "2026-11-09T20:51:23Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
-        "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
-        "date": "2026-11-09T22:10:54Z",
-        "official": false
-      },
-      {
-        "name": "Leeham News",
-        "title": "Boeing Plans to Cut 5% of Commercial Workforce",
-        "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
-        "date": "2026-11-09T22:29:56Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
-        "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
-        "date": "2026-11-09T23:25:34Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Boeing streicht fünf Prozent der Stellen in Verkehrsflugzeugsparte",
-        "url": "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422",
-        "date": "2026-11-10T08:41:39Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux",
-        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/boeing-va-supprimer-5-des-effectifs-de-sa-division-avions-commerciaux-20261110.html",
-        "date": "2026-11-10T11:43:04Z",
-        "official": false
-      },
-      {
-        "name": "Air Journal",
-        "title": "Boeing : la reprise industrielle patine, environ 2 500 postes menacés",
-        "url": "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html",
-        "date": "2026-11-10T12:00:46Z",
         "official": false
       }
     ]

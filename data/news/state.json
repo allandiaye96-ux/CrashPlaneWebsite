@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-v-22-osprey/": "2026-11-01T20:00:58Z",
     "https://www.aero.de/news-54063/Tote-bei-Learjet-Absturz-in-Florida.html": "2026-11-01T20:40:35Z",
     "https://simpleflying.com/untold-truth-airlines-use-basic-economy-upsell-passengers/": "2026-11-01T21:01:00Z",
     "https://simpleflying.com/learjet-60-fatally-crashes-missile-like-crash-mar-a-lago/": "2026-11-01T22:01:00Z",
@@ -1484,7 +1483,11 @@
     "https://airlinegeeks.com/2026/11/11/american-projects-busiest-thanksgiving-period-in-years/": "2026-11-11T18:01:01Z",
     "https://www.twz.com/air/f-35s-train-in-india-for-red-flag-of-the-east": "2026-11-11T18:40:36Z",
     "https://simpleflying.com/review-beechcraft-super-king-air-200-pacific-island-hopping/": "2026-11-11T19:00:59Z",
-    "https://airlinegeeks.com/2026/11/11/avelo-brings-first-commercial-flights-to-mckinney/": "2026-11-11T19:20:36Z"
+    "https://airlinegeeks.com/2026/11/11/avelo-brings-first-commercial-flights-to-mckinney/": "2026-11-11T19:20:36Z",
+    "https://australianaviation.com.au/2026/11/another-2-army-apaches-touch-down-in-queensland/": "2026-11-11T20:01:01Z",
+    "https://australianaviation.com.au/2026/11/video-podcast-alls-fare-in-iran-war/": "2026-11-11T20:01:01Z",
+    "https://australianaviation.com.au/2026/11/minister-concerned-about-qantas-cybersecurity-in-accenture-move/": "2026-11-11T20:01:01Z",
+    "https://australianaviation.com.au/2026/11/boeing-cuts-commercial-airplanes-workforce-amid-slow-production/": "2026-11-11T20:01:01Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4151,7 +4154,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-09T21:01:20Z",
-      "updated": "2026-11-10T12:01:26Z",
+      "updated": "2026-11-11T20:01:18Z",
       "items": [
         {
           "id": "2fae47b1b276bb60",
@@ -4215,10 +4218,19 @@
           "domain": "air-journal.fr",
           "summary": "Boeing prévoit de réduire de 5% les effectifs de sa division avions commerciaux, alors que la montée en cadence de ses usines prend davantage de temps que prévu. Environ 2 500 postes pourraient être concernés, entre départs naturels non remplacés et licenciements. Le constructeur doit notamment repousser au début de 2027 la stabilisation de sa […]",
           "published": "2026-11-10T12:00:46Z"
+        },
+        {
+          "id": "8476f4216eaa6408",
+          "feed": "Australian Aviation",
+          "title": "Boeing cuts commercial airplanes workforce amid slow production",
+          "url": "https://australianaviation.com.au/2026/11/boeing-cuts-commercial-airplanes-workforce-amid-slow-production/",
+          "domain": "australianaviation.com.au",
+          "summary": "The planemaker is set to reduce its commercial airplanes workforce by around 5 per cent starting in December, with its plan to ramp up manufacturing of 737 MAX aircraft hampered by “slower than expected” wing production at its Renton factory.",
+          "published": "2026-11-11T00:28:12Z"
         }
       ],
       "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-      "written_count": 7
+      "written_count": 8
     },
     "cd33395d38e": {
       "id": "cd33395d38e",
@@ -4307,7 +4319,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-10T06:01:16Z",
-      "updated": "2026-11-10T20:01:15Z",
+      "updated": "2026-11-11T20:01:18Z",
       "items": [
         {
           "id": "c43913e14f2ba6f9",
@@ -4344,10 +4356,19 @@
           "domain": "australianaviation.com.au",
           "summary": "Under the partnership, some roles will be offshored to Accenture’s teams in India, some will remain based in Australia, and others will “in time be transformed further with automation and AI”.",
           "published": "2026-11-10T00:15:19Z"
+        },
+        {
+          "id": "5bafa27cb09e55d9",
+          "feed": "Australian Aviation",
+          "title": "Minister ‘concerned’ about Qantas cyber security in Accenture move",
+          "url": "https://australianaviation.com.au/2026/11/minister-concerned-about-qantas-cybersecurity-in-accenture-move/",
+          "domain": "australianaviation.com.au",
+          "summary": "Speaking to ABC Radio National, Transport Minister Catherine King alluded to recent third-party data breaches such as the attack on Amadeus, saying the Flying Kangaroo may “lose some control” over its data amid its plan to outsource 850 head-office jobs to Accenture.",
+          "published": "2026-11-11T02:45:39Z"
         }
       ],
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
-      "written_count": 4
+      "written_count": 5
     },
     "c741b1381b9": {
       "id": "c741b1381b9",
@@ -5264,6 +5285,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.699922
+    "2026-11": 4.737506
   }
 }
