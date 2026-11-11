@@ -2030,45 +2030,6 @@
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7",
       "written_count": 3
     },
-    "c532f85ef92": {
-      "id": "c532f85ef92",
-      "label": "Air Serbia vol Moscou retour à Belgrade",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-04T13:31:05Z",
-      "updated": "2026-11-04T17:20:53Z",
-      "items": [
-        {
-          "id": "b822ab8bca709bad",
-          "feed": "aero.de",
-          "title": "Flughafen beordert Flug von Air Serbia zurück",
-          "url": "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html",
-          "domain": "aero.de",
-          "summary": "BELGRAD - Der jüngste planmäßige Abendflug der serbischen Fluggesellschaft Air Serbia nach Moskau musste eine Stunde vor Erreichens seines Ziels nach Belgrad umkehren.",
-          "published": "2026-11-04T13:27:29Z"
-        },
-        {
-          "id": "1bdfc12f08da7a7b",
-          "feed": "Simple Flying",
-          "title": "Politician Bypasses Preflight Security Checkpoint, Prompting Moscow-Bound Jet To Divert",
-          "url": "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/",
-          "domain": "simpleflying.com",
-          "summary": "A pro-Russian Serbian politician has allegedly caused a jet to return to Belgrade after dodging security",
-          "published": "2026-11-04T16:42:01Z"
-        },
-        {
-          "id": "1e49212dd18dbc89",
-          "feed": "airliners.de",
-          "title": "Umgangene Sicherheitskontrolle: Air-Serbia-Flug nach Moskau kehrt nach Belgrad zurück",
-          "url": "https://www.airliners.de/umgangene-sicherheitskontrolle-air-serbia-flug-moskau-kehrt-belgrad-ueck/91333",
-          "domain": "airliners.de",
-          "summary": "Eine Maschine der Air Serbia hat auf dem Weg nach Moskau rund eine Stunde vor dem Ziel umgedreht und ist nach Belgrad zurückgeflogen. Grund war ein Passagier, der die Sicherheitskontrolle umgangen haben soll.",
-          "published": "2026-11-04T16:37:36Z"
-        }
-      ],
-      "story_id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
-      "written_count": 3
-    },
     "cbe879bf2ac": {
       "id": "cbe879bf2ac",
       "label": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
