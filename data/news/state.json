@@ -1431,7 +1431,13 @@
     "https://www.air-journal.fr/2026-11-11-aer-lingus-deroute-a-evreux-les-syndicats-de-pilotes-contestent-les-conditions-de-linterception-5278783.html": "2026-11-11T10:01:00Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=DF410FFD-F626-4B20-BAE5-D1DEFD6722CA": "2026-11-11T10:10:33Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=BBB030DF-1011-4C9A-ABBE-12DBC75DBC6E": "2026-11-11T10:10:33Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=52A4A81A-C2B1-4C02-895A-3B18B23D1ABA": "2026-11-11T10:10:33Z"
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=52A4A81A-C2B1-4C02-895A-3B18B23D1ABA": "2026-11-11T10:10:33Z",
+    "https://simpleflying.com/highest-paid-international-flight-attendants-ranks-and-average-salaries/": "2026-11-11T10:20:33Z",
+    "https://www.aerotime.aero/articles/develop-once-deploy-everywhere-honeywell-aerospaces-anthony-florian-on-apac": "2026-11-11T10:20:33Z",
+    "https://www.aerotime.aero/articles/rafael-super-ice-cruise-missile-warhead": "2026-11-11T10:20:33Z",
+    "https://www.airliners.de/merz-haelt-eu-emissionshandel-fest-kommission-will-luftverkehr-2029-einbeziehen/91455": "2026-11-11T10:20:33Z",
+    "https://www.airliners.de/flydubai-dezember-verbindung-oesterreich/91447": "2026-11-11T10:20:33Z",
+    "https://www.airliners.de/hensec-ergaenzt-drohnenerkennung-akustik-ki-kameras/91446": "2026-11-11T10:20:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5282,10 +5288,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c297567b095": {
+      "id": "c297567b095",
+      "label": "Merz EU ETS aviation 2029",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-11T10:20:49Z",
+      "updated": "2026-11-11T10:20:49Z",
+      "items": [
+        {
+          "id": "4db67c158877743f",
+          "feed": "airliners.de",
+          "title": "Merz hält am EU-Emissionshandel fest, Kommission will Luftverkehr ab 2029 stärker einbeziehen",
+          "url": "https://www.airliners.de/merz-haelt-eu-emissionshandel-fest-kommission-will-luftverkehr-2029-einbeziehen/91455",
+          "domain": "airliners.de",
+          "summary": "Bundeskanzler Friedrich Merz (CDU) spricht sich in einem Schreiben an die EU-Kommission für den Erhalt des Emissionshandels aus. Die Grünen begrüßen das Bekenntnis. Für die Luftfahrt steht im Dezember ein Termin an.",
+          "published": "2026-11-11T09:51:47Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.466829
+    "2026-11": 4.467846
   }
 }
