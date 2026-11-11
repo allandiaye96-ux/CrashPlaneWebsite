@@ -1493,7 +1493,9 @@
     "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman": "2026-11-11T21:01:06Z",
     "https://airlinegeeks.com/2026/11/11/united-bans-ai-agents-from-booking-flights-for-customers/": "2026-11-11T21:10:33Z",
     "https://www.twz.com/news-features/ukraine-regretting-white-house-brokered-temporary-ceasefire-in-strategic-riverside-town-of-oleshky": "2026-11-11T21:30:50Z",
-    "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover": "2026-11-11T21:40:33Z"
+    "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover": "2026-11-11T21:40:33Z",
+    "https://simpleflying.com/things-passengers-never-realize-airlines-decides-who-premium-economy-upgrade/": "2026-11-11T22:00:58Z",
+    "https://www.aerotime.aero/articles/faa-smart-air-traffic-tool-22-en-route-centers": "2026-11-11T22:00:58Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5284,10 +5286,31 @@
       ],
       "story_id": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb",
       "written_count": 2
+    },
+    "cd6552b0b1d": {
+      "id": "cd6552b0b1d",
+      "label": "FAA outil IA planification trafic centres",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-11T22:01:12Z",
+      "updated": "2026-11-11T22:01:12Z",
+      "items": [
+        {
+          "id": "d5c6f65eb51483a2",
+          "feed": "AeroTime",
+          "title": "FAA expands AI traffic planning tool to all 22 US en route centers",
+          "url": "https://www.aerotime.aero/articles/faa-smart-air-traffic-tool-22-en-route-centers",
+          "domain": "aerotime.aero",
+          "summary": "The Federal Aviation Administration (FAA) said it is expanding the use of its AI-assisted traffic planning tool to… The post FAA expands AI traffic planning tool to all 22 US en route centers appeared first on AeroTime .",
+          "published": "2026-11-11T21:43:59Z"
+        }
+      ],
+      "story_id": "2026-11-11-la-faa-etend-a-l-ensemble-de-ses-22-centres-en-route-son-out-0b1d",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.759138
+    "2026-11": 4.760696
   }
 }
