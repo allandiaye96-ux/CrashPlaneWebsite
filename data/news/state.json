@@ -1437,7 +1437,8 @@
     "https://www.airliners.de/merz-haelt-eu-emissionshandel-fest-kommission-will-luftverkehr-2029-einbeziehen/91455": "2026-11-11T10:20:33Z",
     "https://www.airliners.de/flydubai-dezember-verbindung-oesterreich/91447": "2026-11-11T10:20:33Z",
     "https://www.airliners.de/hensec-ergaenzt-drohnenerkennung-akustik-ki-kameras/91446": "2026-11-11T10:20:33Z",
-    "https://www.aero.de/news-54142/Etihad-Airways-soll-neue-Condor-Fluege-massiv-bezuschussen.html": "2026-11-11T10:30:49Z"
+    "https://www.aero.de/news-54142/Etihad-Airways-soll-neue-Condor-Fluege-massiv-bezuschussen.html": "2026-11-11T10:30:49Z",
+    "https://avitrader.com/2026/11/11/cathay-orders-14-more-airbus-aircraft/": "2026-11-11T10:40:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5151,7 +5152,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-11T05:20:48Z",
-      "updated": "2026-11-11T05:20:48Z",
+      "updated": "2026-11-11T10:40:48Z",
       "items": [
         {
           "id": "f816c0f1eb1c12f0",
@@ -5161,10 +5162,19 @@
           "domain": "airbus.com",
           "summary": "Read more about The Cathay Group orders 14 additional Airbus aircraft",
           "published": null
+        },
+        {
+          "id": "68891514cbe88482",
+          "feed": "AviTrader",
+          "title": "Cathay orders 14 more Airbus aircraft",
+          "url": "https://avitrader.com/2026/11/11/cathay-orders-14-more-airbus-aircraft/",
+          "domain": "avitrader.com",
+          "summary": "Hong Kong’s Cathay Group (Cathay) has placed a firm order for 14 additional Airbus aircraft, comprising 11 A330-900s and three A321neos, as it continues to modernise and expand its fleet. The latest order brings Cathay’s total commitment for the A330-900 to 41 aircraft, following an order for 30 in 2024. The three additional A321neos add […] The post Cathay orders 14 more Airbus aircraft appeared first on AviTrader Aviation News .",
+          "published": "2026-11-11T10:38:53Z"
         }
       ],
       "story_id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
-      "written_count": 1
+      "written_count": 2
     },
     "cc19284ad34": {
       "id": "cc19284ad34",
@@ -5283,6 +5293,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.468624
+    "2026-11": 4.477579
   }
 }

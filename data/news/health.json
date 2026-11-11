@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T10:30:49Z",
+  "run": "2026-11-11T10:40:33Z",
   "stats": {
     "fetched": 678,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.4686,
+  "spend_month_usd": 4.4776,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -406,6 +406,12 @@
       "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
     },
     {
+      "dossier": "Cathay commande 14 Airbus supplémentaires",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
+    },
+    {
       "dossier": "Cathay Pacific commande A330-900 et A321neo",
       "statut": "corrobore",
       "editeurs": 2,
@@ -746,12 +752,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21"
-    },
-    {
-      "dossier": "Cathay commande 14 Airbus supplémentaires",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
     },
     {
       "dossier": "Emirates 777X calendrier et commande 787",

@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
+    "created": "2026-11-11T05:20:57Z",
+    "updated": "2026-11-11T10:40:52Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Cathay Group commande 14 Airbus supplémentaires : 11 A330-900 et trois A321neo",
+    "chapo": "Le groupe hongkongais Cathay a passé une commande ferme portant sur 14 appareils Airbus supplémentaires, selon AviTrader. Elle comprend 11 A330-900 et trois A321neo.",
+    "paragraphes": [
+      "D'après AviTrader, cette commande s'inscrit dans la poursuite de la modernisation et de l'expansion de la flotte de Cathay. Airbus a également publié un communiqué sur cette commande.",
+      "Avec ces 11 appareils, l'engagement total de Cathay pour l'A330-900 atteint 41 exemplaires, à la suite d'une commande de 30 appareils passée en 2024, précise AviTrader. Les trois A321neo viennent s'ajouter à la flotte de ce type du groupe."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Airbus – Communiqués",
+        "title": "The Cathay Group orders 14 additional Airbus aircraft",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft",
+        "date": null,
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Cathay orders 14 more Airbus aircraft",
+        "url": "https://avitrader.com/2026/11/11/cathay-orders-14-more-airbus-aircraft/",
+        "date": "2026-11-11T10:38:53Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
     "created": "2026-11-11T07:31:07Z",
     "updated": "2026-11-11T08:10:54Z",
@@ -106,38 +145,6 @@
         "title": "Boeing : 49 avions livrés et 165 commandes enregistrées en octobre 2026",
         "url": "https://www.air-journal.fr/2026-11-11-boeing-49-avions-livres-et-165-commandes-enregistrees-en-octobre-2026-5278778.html",
         "date": "2026-11-11T06:00:39Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
-    "created": "2026-11-11T05:20:57Z",
-    "updated": "2026-11-11T05:20:57Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Le groupe Cathay commande 14 appareils Airbus supplémentaires",
-    "chapo": "Selon un communiqué publié par Airbus, le groupe Cathay a passé commande de 14 avions additionnels auprès du constructeur européen.",
-    "paragraphes": [
-      "D'après l'intitulé du communiqué d'Airbus, cette commande porte sur 14 appareils venant s'ajouter à ceux que le groupe Cathay a déjà commandés au constructeur.",
-      "Le communiqué est consultable sur le site d'Airbus."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Airbus – Communiqués",
-        "title": "The Cathay Group orders 14 additional Airbus aircraft",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft",
-        "date": null,
         "official": false
       }
     ]
