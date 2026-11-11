@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-11T09:40:36Z",
+  "run": "2026-11-11T09:50:33Z",
   "stats": {
     "fetched": 678,
     "new": 0,
@@ -770,12 +770,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34"
-    },
-    {
-      "dossier": "Quasi-collision Miami Lufthansa 747 et American 787",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Royal Navy drones frappe HMS Queen Elizabeth",

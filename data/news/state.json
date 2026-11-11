@@ -4186,27 +4186,6 @@
       "story_id": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762",
       "written_count": 1
     },
-    "c805bd57fac": {
-      "id": "c805bd57fac",
-      "label": "Quasi-collision Miami Lufthansa 747 et American 787",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-09T09:40:45Z",
-      "updated": "2026-11-09T09:40:45Z",
-      "items": [
-        {
-          "id": "944842613eccbefc",
-          "feed": "Simple Flying",
-          "title": "Lufthansa 747 “Very Close To An Accident” In Miami As American Airlines 787 Turns Into Its Path",
-          "url": "https://simpleflying.com/lufthansa-boeing-747-american-airlines-787-miami-close-accident/",
-          "domain": "simpleflying.com",
-          "summary": "The German quadjet was on its way to take off at the time, while the American Dreamliner had just landed.",
-          "published": "2026-11-09T09:33:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c56ff96fbca": {
       "id": "c56ff96fbca",
       "label": "EASA capacité A330-900 480 passagers",
