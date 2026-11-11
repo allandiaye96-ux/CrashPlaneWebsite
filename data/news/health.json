@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-11T17:01:07Z",
+  "run": "2026-11-11T17:10:35Z",
   "stats": {
     "fetched": 678,
-    "new": 2,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Atlas Air commande Airbus gros-porteurs",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-atlas-air-passe-une-commande-a-airbus-une-premiere-apres-tro-1507"
     },
     {
       "dossier": "Qatar Airways nouvelles destinations Amérique du Sud",
