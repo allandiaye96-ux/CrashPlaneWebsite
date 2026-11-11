@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T13:20:32Z",
+  "run": "2026-11-11T13:30:53Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.5531,
+  "spend_month_usd": 4.5622,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -116,12 +116,6 @@
       "statut": "corrobore",
       "editeurs": 7,
       "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
-    },
-    {
-      "dossier": "Lufthansa TAP participation contrat",
-      "statut": "corrobore",
-      "editeurs": 6,
-      "breve": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0"
     },
     {
       "dossier": "AerFin rachat 44 737NG Qantas",
@@ -764,6 +758,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a"
+    },
+    {
+      "dossier": "Alaska Airlines nouvelle ligne Anchorage-Tokyo Narita 2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

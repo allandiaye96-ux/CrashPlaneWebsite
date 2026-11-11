@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 13:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 13:31:09 +0000</lastBuildDate>
+  <item>
+    <title>Alaska Airlines prépare un vol Anchorage–Tokyo Narita en Boeing 737 MAX 8 dès le 13 mai 2027</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438/</guid>
+    <pubDate>Wed, 11 Nov 2026 13:31:09 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Alaska Airlines s&#x27;apprête à lancer une liaison sans escale entre Anchorage et Tokyo Narita le 13 mai 2027. Le projet reste soumis à l&#x27;approbation des autorités.</description>
+  </item>
   <item>
     <title>Magnifica Air confirme une commande ferme de dix Airbus ACJ220-300</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 08:40:55 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AviTrader, GE Aerospace et BETA Technologies ont réalisé ce qu&#x27;elles présentent comme le premier décollage assisté hybride-électrique au monde avec un appareil conçu pour transporter des passagers à des altitudes d&#x27;avion de ligne.</description>
-  </item>
-  <item>
-    <title>Airbus lance la première tranche de 800 millions d&#x27;euros de son programme de rachat d&#x27;actions de 5 milliards</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6/</guid>
-    <pubDate>Mon, 09 Nov 2026 08:10:54 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon AeroTime, Airbus a lancé le 9 novembre la première tranche de son programme de rachat d&#x27;actions de 5 milliards d&#x27;euros. Cette tranche initiale s&#x27;élève à 800 millions d&#x27;euros.</description>
   </item>
 </channel>
 </rss>

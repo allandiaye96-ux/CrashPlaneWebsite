@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/air-transat-bestaetigt-aus-toronto-berlin-sommer-2027/91232": "2026-11-01T13:20:34Z",
     "https://simpleflying.com/video/united-airlines-ceo-defends-charging-non-frequent-flyers-70-to-avoid-the-middle-seat/": "2026-11-01T13:40:32Z",
     "https://www.aerotime.aero/articles/akasa-air-b737-max-strikes-runway-during-go-around-in-kolkata": "2026-11-01T13:40:32Z",
     "https://www.aerotime.aero/articles/flyerbil-breaks-away-from-virtual-airline-model-with-new-iraqi-aoc": "2026-11-01T13:40:32Z",
@@ -1456,7 +1455,8 @@
     "https://avitrader.com/2026/11/11/werner-aero-acquires-boeing-737-700/": "2026-11-11T12:50:32Z",
     "https://www.aerotime.aero/articles/us-approves-potential-2-1-billion-sale-of-500-patriot-missiles-to-ukraine": "2026-11-11T13:01:04Z",
     "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/": "2026-11-11T13:01:04Z",
-    "https://www.air-journal.fr/2026-11-11-milan-new-york-emirates-ajoute-un-777f-en-attendant-le-feu-vert-pour-lima-5278787.html": "2026-11-11T13:01:04Z"
+    "https://www.air-journal.fr/2026-11-11-milan-new-york-emirates-ajoute-un-777f-en-attendant-le-feu-vert-pour-lima-5278787.html": "2026-11-11T13:01:04Z",
+    "https://simpleflying.com/video/alaska-airlines-to-launch-8-hour-flights-from-anchorage-to-tokyo/": "2026-11-11T13:30:53Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1776,72 +1776,6 @@
       ],
       "story_id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
       "written_count": 2
-    },
-    "ce9f17c97e0": {
-      "id": "ce9f17c97e0",
-      "label": "Lufthansa TAP participation contrat",
-      "categorie": "Compagnies",
-      "importance": 3,
-      "created": "2026-11-03T17:41:01Z",
-      "updated": "2026-11-04T13:20:53Z",
-      "items": [
-        {
-          "id": "8366b0f13e50f104",
-          "feed": "aero.de",
-          "title": "Lufthansa unterzeichnet Vertrag über TAP-Einstieg",
-          "url": "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Die Lufthansa und die Regierung Portugals haben den Einstieg des deutschen Luftverkehrskonzerns bei der portugiesischen Staatsfluglinie TAP vertraglich unter Dach und Fach gebracht. \"Damit ist ein entscheidender Meilenstein im Privatisierungsverfahren von TAP erreicht\", heißt es in einer Lufthansa-Mitteilung.",
-          "published": "2026-11-03T17:36:05Z"
-        },
-        {
-          "id": "b00edd5c25ff95fa",
-          "feed": "airliners.de",
-          "title": "Lufthansa Group unterzeichnet Vertrag über Einstieg bei Tap Air Portugal",
-          "url": "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304",
-          "domain": "airliners.de",
-          "summary": "Die Lufthansa Group unterzeichnent den Vertrag zum Einstieg bei Tap Air Portugal. Für die ersten 44,9 Prozent sind 1,025 Milliarden Euro fällig. Lissabon soll langfristig das siebte Drehkreuz des Konzerns werden.",
-          "published": "2026-11-03T17:24:00Z"
-        },
-        {
-          "id": "7d88968be9385963",
-          "feed": "Simple Flying",
-          "title": "It's Official: Lufthansa Signs $1.2 Billion Deal To Purchase 44.9% Of TAP Air Portugal",
-          "url": "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/",
-          "domain": "simpleflying.com",
-          "summary": "Lufthansa officially signs its TAP acquisition agreement, positioning Lisbon as its seventh hub and targeting Latin American growth.",
-          "published": "2026-11-03T20:52:16Z"
-        },
-        {
-          "id": "c5c5d7c8f0e6d1ff",
-          "feed": "AviTrader",
-          "title": "Lufthansa seals €1.025bn deal for TAP stake",
-          "url": "https://avitrader.com/2026/11/04/lufthansa-seals-e1-025bn-deal-for-tap-stake/",
-          "domain": "avitrader.com",
-          "summary": "Lufthansa Group and the Portuguese government have signed the agreement for the German airline group to acquire an initial 44.9% stake in TAP Air Portugal (TAP) for €1.025 billion, marking a major milestone in the airline’s privatisation. The agreement was signed at Lisbon’s Humberto Delgado Airport. Completion of the transaction remains subject to regulatory approval, […] The post Lufthansa seals €1.025bn deal for TAP stake appeared first on AviTrader Aviation News .",
-          "published": "2026-11-04T06:14:02Z"
-        },
-        {
-          "id": "d592cdb20cc7d10b",
-          "feed": "Air Journal",
-          "title": "Lufthansa signe pour 44,9% de TAP Air Portugal à 1,025 milliard d’euros",
-          "url": "https://www.air-journal.fr/2026-11-04-lufthansa-signe-pour-449-de-tap-air-portugal-a-1025-milliard-deuros-5278667.html",
-          "domain": "air-journal.fr",
-          "summary": "Lufthansa Group et le gouvernement portugais ont signé, le 3 novembre 2026 à Lisbonne, un accord prévoyant l’acquisition de 44,9% de TAP Air Portugal pour 1,025 milliard d’euros. Encore soumise aux autorisations réglementaires, notamment celle de la Commission européenne, cette opération doit renforcer sensiblement le groupe allemand entre l’Europe et l’Amérique latine. Lisbonne est appelée […]",
-          "published": "2026-11-04T07:00:59Z"
-        },
-        {
-          "id": "ff99f9b33011ced7",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Lufthansa signe l’accord pour la prise de participation dans TAP Air Portugal",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-signe-laccord-pour-la-prise-de-participation-dans-tap-air-portugal-20261104.html",
-          "domain": "journal-aviation.com",
-          "summary": "La main de Lufthansa se rapproche un petit peu plus du capital de TAP Air Portugal. Le groupe a signé le 3 novembre avec le gouvernement portugais l’accord portant sur […] L’article Lufthansa signe l’accord pour la prise de participation dans TAP Air Portugal a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-04T13:14:19Z"
-        }
-      ],
-      "story_id": "2026-11-03-lufthansa-et-le-portugal-signent-le-contrat-d-entree-du-grou-97e0",
-      "written_count": 6
     },
     "c446f5897cf": {
       "id": "c446f5897cf",
@@ -5379,10 +5313,31 @@
       ],
       "story_id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
       "written_count": 1
+    },
+    "c88a266a438": {
+      "id": "c88a266a438",
+      "label": "Alaska Airlines nouvelle ligne Anchorage-Tokyo Narita 2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-11T13:31:05Z",
+      "updated": "2026-11-11T13:31:05Z",
+      "items": [
+        {
+          "id": "4c76ae010a3e2573",
+          "feed": "Simple Flying",
+          "title": "Alaska Airlines To Launch 8-Hour Flights From Anchorage To Tokyo",
+          "url": "https://simpleflying.com/video/alaska-airlines-to-launch-8-hour-flights-from-anchorage-to-tokyo/",
+          "domain": "simpleflying.com",
+          "summary": "Alaska Airlines is preparing to launch a new nonstop route between Ted Stevens Anchorage International and Tokyo Narita on May 13th, 2027.With flight schedule information reported by aviation analyst Enilria, the seasonal service is scheduled to operate once daily using the Boeing 737 MAX 8, with the flight expected to take approximately eight hours and 15 minutes, although the route remains subject to government approval.",
+          "published": "2026-11-11T13:28:18Z"
+        }
+      ],
+      "story_id": "2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.553091
+    "2026-11": 4.562165
   }
 }

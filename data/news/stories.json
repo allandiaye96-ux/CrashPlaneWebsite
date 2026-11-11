@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438",
+    "created": "2026-11-11T13:31:09Z",
+    "updated": "2026-11-11T13:31:09Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Alaska Airlines prépare un vol Anchorage–Tokyo Narita en Boeing 737 MAX 8 dès le 13 mai 2027",
+    "chapo": "Selon Simple Flying, Alaska Airlines s'apprête à lancer une liaison sans escale entre Anchorage et Tokyo Narita le 13 mai 2027. Le projet reste soumis à l'approbation des autorités.",
+    "paragraphes": [
+      "D'après Simple Flying, qui s'appuie sur les horaires relevés par l'analyste aéronautique Enilria, cette ligne saisonnière relierait l'aéroport international Ted Stevens d'Anchorage à Tokyo Narita. Elle serait exploitée une fois par jour.",
+      "L'appareil prévu est un Boeing 737 MAX 8. La durée de vol est estimée à environ huit heures et quinze minutes. La mise en service dépend encore de l'accord des autorités gouvernementales."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Alaska Airlines To Launch 8-Hour Flights From Anchorage To Tokyo",
+        "url": "https://simpleflying.com/video/alaska-airlines-to-launch-8-hour-flights-from-anchorage-to-tokyo/",
+        "date": "2026-11-11T13:28:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
     "created": "2026-11-11T13:01:22Z",
     "updated": "2026-11-11T13:01:22Z",
