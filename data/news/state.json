@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-01-air-france-renforce-son-offre-vers-les-ameriques-lasie-et-la-peninsule-iberique-pour-lhiver-2026-2027-5278613.html": "2026-11-01T07:00:59Z",
     "https://www.aero.de/news-54061/Bekennerschreiben-zu-Brand-auf-Rheinmetall-Baustelle.html": "2026-11-01T07:30:53Z",
     "https://www.aero.de/news-54062/Eurofighter-trainieren-am-Flughafen-Weeze.html": "2026-11-01T07:40:33Z",
     "https://simpleflying.com/how-much-do-helicopter-pilots-earn-compared-to-airline-pilots-in-2026/": "2026-11-01T08:00:55Z",
@@ -1419,7 +1418,8 @@
     "https://www.air-journal.fr/2026-11-11-boeing-49-avions-livres-et-165-commandes-enregistrees-en-octobre-2026-5278778.html": "2026-11-11T06:01:04Z",
     "https://www.airliners.de/politik-gesellschaft-hamburg-schweigt-asien-zielen-bombendrohungen-europa-fluege-linke-fragt-katar-abkommen/91445": "2026-11-11T06:20:35Z",
     "https://www.airliners.de/emirates-baut-premium-economy-angebot-europa/91449": "2026-11-11T06:20:35Z",
-    "https://www.airliners.de/etihad-airways-stellt-boeing-787-mclaren-sonderbemalung/91443": "2026-11-11T06:20:35Z"
+    "https://www.airliners.de/etihad-airways-stellt-boeing-787-mclaren-sonderbemalung/91443": "2026-11-11T06:20:35Z",
+    "https://www.air-journal.fr/2026-11-11-journee-mondiale-du-passager-aerien-une-quatrieme-edition-le-17-novembre-2026-5278781.html": "2026-11-11T07:01:10Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1982,27 +1982,6 @@
       ],
       "story_id": "2026-11-04-fraport-maintient-ses-previsions-2026-malgre-la-guerre-en-ir-3c7e",
       "written_count": 2
-    },
-    "c17d3424441": {
-      "id": "c17d3424441",
-      "label": "Virgin Galactic Apeiron dévoilé",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-04T06:50:52Z",
-      "updated": "2026-11-04T06:50:52Z",
-      "items": [
-        {
-          "id": "f9a51d0ff52cd5d3",
-          "feed": "Australian Aviation",
-          "title": "Virgin Galactic unveils lead spacecraft ahead of 2027 flights",
-          "url": "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/",
-          "domain": "australianaviation.com.au",
-          "summary": "Apeiron was named and revealed in its completed livery for the first time at Virgin Galactic’s Spaceship Factory in Mesa, Arizona, before flying to Spaceport America in New Mexico for future flight test preparations.",
-          "published": "2026-11-03T23:48:53Z"
-        }
-      ],
-      "story_id": "2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441",
-      "written_count": 1
     },
     "c454ade945d": {
       "id": "c454ade945d",
@@ -5346,6 +5325,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.377659
+    "2026-11": 4.378463
   }
 }

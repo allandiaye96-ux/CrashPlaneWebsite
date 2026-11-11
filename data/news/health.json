@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T06:50:36Z",
+  "run": "2026-11-11T07:01:10Z",
   "stats": {
     "fetched": 678,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.3777,
+  "spend_month_usd": 4.3785,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -434,12 +434,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Virgin Galactic Apeiron dévoilé",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-virgin-galactic-devoile-apeiron-son-vaisseau-de-tete-avant-l-4441"
     },
     {
       "dossier": "Naples-Capodichino fermeture novembre 2026",
