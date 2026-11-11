@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T14:20:37Z",
+  "run": "2026-11-11T14:30:51Z",
   "stats": {
     "fetched": 678,
-    "new": 7,
-    "written": 3,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.5893,
+  "spend_month_usd": 4.5901,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -422,12 +422,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Latam baisse prévisions Ebitda carburant",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b"
     },
     {
       "dossier": "Atlas Air commande Airbus gros-porteurs",

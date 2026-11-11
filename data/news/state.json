@@ -1463,7 +1463,8 @@
     "https://www.airliners.de/bahn-entschaedigung-personen-gleis/91460": "2026-11-11T14:20:37Z",
     "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459": "2026-11-11T14:20:37Z",
     "https://www.airliners.de/baltische-staaten-loesen-drohnenalarm-finnland-beschraenkt-luftraum/91458": "2026-11-11T14:20:37Z",
-    "https://www.airliners.de/google-spirit-airlines-daten-datenschutz-beschaeftigte/91457": "2026-11-11T14:20:37Z"
+    "https://www.airliners.de/google-spirit-airlines-daten-datenschutz-beschaeftigte/91457": "2026-11-11T14:20:37Z",
+    "https://airlinegeeks.com/2026/11/11/aeromexico-adds-new-u-s-routes-flights/": "2026-11-11T14:30:51Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2167,27 +2168,6 @@
       ],
       "story_id": "2026-11-04-air-serbia-un-vol-belgrade-moscou-fait-demi-tour-un-politici-ef92",
       "written_count": 3
-    },
-    "c404429904b": {
-      "id": "c404429904b",
-      "label": "Latam baisse prévisions Ebitda carburant",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-04T14:20:51Z",
-      "updated": "2026-11-04T14:20:51Z",
-      "items": [
-        {
-          "id": "9a006c27a496448e",
-          "feed": "airliners.de",
-          "title": "Latam senkt Ergebnisprognose wegen hoher Treibstoffkosten",
-          "url": "https://www.airliners.de/latam-ergebnisprognose-hoher-treibstoffkosten/91311",
-          "domain": "airliners.de",
-          "summary": "Latam Airlines hat ihre Prognose für das bereinigte Ebitda gesenkt, weil stark gestiegene Treibstoffpreise die Margen belasten. Die Umsatzprognose hob Lateinamerikas größte Airline-Gruppe dagegen an.",
-          "published": "2026-11-04T14:08:39Z"
-        }
-      ],
-      "story_id": "2026-11-04-latam-abaisse-sa-prevision-d-ebitda-ajuste-a-cause-du-carbur-904b",
-      "written_count": 1
     },
     "ce14d531507": {
       "id": "ce14d531507",
@@ -5405,6 +5385,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.589255
+    "2026-11": 4.590054
   }
 }
