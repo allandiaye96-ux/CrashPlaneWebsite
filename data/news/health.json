@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-11T17:40:35Z",
+  "run": "2026-11-11T17:50:34Z",
   "stats": {
-    "fetched": 678,
-    "new": 0,
+    "fetched": 679,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.6874,
+  "spend_month_usd": 4.6883,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "Airbus – Communiqués": {
       "ok": true,
