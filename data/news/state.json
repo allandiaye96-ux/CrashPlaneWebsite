@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/6-longest-nonstop-flights-north-america/": "2026-11-01T15:00:57Z",
     "https://www.air-journal.fr/2026-11-01-maroc-ryanair-lance-un-programme-hivernal-record-avec-53-millions-de-sieges-et-17-nouvelles-lignes-5278627.html": "2026-11-01T15:10:35Z",
     "https://simpleflying.com/impressive-weight-cargo-maxed-out-boeing-747-8f-carry/": "2026-11-01T16:00:58Z",
     "https://theaviationist.com/2026/11/01/radomes-why-their-colors-often-didnt-match-the-aircraft/": "2026-11-01T16:00:58Z",
@@ -1465,7 +1464,13 @@
     "https://www.airliners.de/google-spirit-airlines-daten-datenschutz-beschaeftigte/91457": "2026-11-11T14:20:37Z",
     "https://airlinegeeks.com/2026/11/11/aeromexico-adds-new-u-s-routes-flights/": "2026-11-11T14:30:51Z",
     "https://theaviationist.com/2026/11/11/daircm-for-usmc-uh-1y-and-ah-1z/": "2026-11-11T14:40:34Z",
-    "https://www.aero.de/news-54149/Flughafen-Nordholz-wird-zu-Wartungsstandort-ausgebaut.html": "2026-11-11T14:50:35Z"
+    "https://www.aero.de/news-54149/Flughafen-Nordholz-wird-zu-Wartungsstandort-ausgebaut.html": "2026-11-11T14:50:35Z",
+    "https://www.aerotime.aero/articles/jersey-airport-hit-by-drone-disruption-for-second-consecutive-night": "2026-11-11T15:01:04Z",
+    "https://simpleflying.com/etihad-airways-scraps-all-airbus-a380-flights-to-north-america/": "2026-11-11T15:01:04Z",
+    "https://simpleflying.com/aircraft-beat-a350-airbus-best-value-most-operationally-practical-incremental-upgrade/": "2026-11-11T15:01:04Z",
+    "https://www.airbus.com/en/newsroom/stories/2026-11-airbus-partnerships-propel-veterans-into-civilian-careers": "2026-11-11T15:01:04Z",
+    "https://www.aero.de/news-54150/SpaceX-bestellt-Anlagen-bei-Singulus.html": "2026-11-11T15:01:04Z",
+    "https://www.air-journal.fr/2026-11-11-chine-les-contrats-records-de-ge-pour-129-milliards-de-dollars-soulignent-la-dependance-du-c919-aux-moteurs-occidentaux-5278799.html": "2026-11-11T15:01:04Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -3838,7 +3843,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-08T14:50:48Z",
-      "updated": "2026-11-09T13:10:47Z",
+      "updated": "2026-11-11T15:01:16Z",
       "items": [
         {
           "id": "629b0b3b7aae12f8",
@@ -3866,10 +3871,19 @@
           "domain": "journal-aviation.com",
           "summary": "China Eastern Airlines (CEA) a sélectionné le LEAP-1A de CFM International pour motoriser 101 nouveaux appareils de la famille Airbus A320neo, dont des A321XLR. Annoncé le 6 novembre à l’occasion […] L’article China Eastern choisit le LEAP-1A pour 101 nouveaux monocouloirs Airbus, dont des A321XLR a été publié sur Le Journal de l’Aviation .",
           "published": "2026-11-09T13:01:51Z"
+        },
+        {
+          "id": "391e2d2e3c01f39e",
+          "feed": "Air Journal",
+          "title": "Chine : les contrats records de GE pour 12,9 milliards de dollars soulignent la dépendance du C919 aux moteurs occidentaux",
+          "url": "https://www.air-journal.fr/2026-11-11-chine-les-contrats-records-de-ge-pour-129-milliards-de-dollars-soulignent-la-dependance-du-c919-aux-moteurs-occidentaux-5278799.html",
+          "domain": "air-journal.fr",
+          "summary": "GE Aerospace a annoncé plus de 12,9 milliards de dollars d’accords commerciaux au salon des importations de Shanghai. China Eastern Airlines renforce notamment ses approvisionnements en moteurs CFM, pour ses futurs Airbus comme pour sa flotte actuelle, dont les C919. Une nouvelle illustration des liens industriels avec l’Occident, alors que l’avionneur chinois Comac peine à […]",
+          "published": "2026-11-11T15:00:55Z"
         }
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
-      "written_count": 3
+      "written_count": 4
     },
     "cad1dd58c25": {
       "id": "cad1dd58c25",
@@ -5382,10 +5396,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c8a4083b4f5": {
+      "id": "c8a4083b4f5",
+      "label": "Etihad retire A380 vols Amérique du Nord",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-11T15:01:16Z",
+      "updated": "2026-11-11T15:01:16Z",
+      "items": [
+        {
+          "id": "8d5c8743b377eee7",
+          "feed": "Simple Flying",
+          "title": "Etihad Airways Scraps All Airbus A380 Flights To North America: See Map Now",
+          "url": "https://simpleflying.com/etihad-airways-scraps-all-airbus-a380-flights-to-north-america/",
+          "domain": "simpleflying.com",
+          "summary": "Another route will also stop seeing the type. Find out more here!",
+          "published": "2026-11-11T15:00:18Z"
+        }
+      ],
+      "story_id": "2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.591675
+    "2026-11": 4.624945
   }
 }

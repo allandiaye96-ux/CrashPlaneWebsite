@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5",
+    "created": "2026-11-11T15:01:31Z",
+    "updated": "2026-11-11T15:01:31Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Etihad : fin des vols en Airbus A380 vers l'Amérique du Nord, selon Simple Flying",
+    "chapo": "Etihad Airways retirerait l'Airbus A380 de l'ensemble de ses liaisons vers l'Amérique du Nord, d'après Simple Flying. Le site spécialisé évoque aussi une autre route qui ne verra plus l'appareil.",
+    "paragraphes": [
+      "Le média indique que la compagnie d'Abu Dhabi met fin à l'exploitation de son quadriréacteur géant sur toutes ses lignes nord-américaines. Il précise qu'une autre liaison, non nord-américaine d'après sa formulation, sera elle aussi privée de ce type d'avion.",
+      "Simple Flying accompagne son article d'une carte du réseau concerné par ce changement."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Etihad Airways Scraps All Airbus A380 Flights To North America: See Map Now",
+        "url": "https://simpleflying.com/etihad-airways-scraps-all-airbus-a380-flights-to-north-america/",
+        "date": "2026-11-11T15:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
+    "created": "2026-11-08T14:50:51Z",
+    "updated": "2026-11-11T15:01:25Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "China Eastern choisit les moteurs LEAP-1A de CFM pour 101 Airbus de la famille A320neo",
+    "chapo": "China Eastern Airlines a retenu CFM International pour motoriser sa nouvelle commande de 101 monocouloirs Airbus, selon AviTrader. L'accord a été officialisé lors de la neuvième China International Import Expo (CIIE) à Shanghai.",
+    "paragraphes": [
+      "Le contrat porte sur des moteurs LEAP-1A destinés à des appareils de la famille A320neo, ainsi que sur des moteurs de rechange et un accord de services de long terme, d'après AviTrader. Le Journal de l'Aviation précise que la commande comprend des A321XLR et situe l'annonce au 6 novembre.",
+      "Air Journal rattache cette sélection à une série d'accords annoncés par GE Aerospace à Shanghai, pour un montant dépassant 12,9 milliards de dollars. Selon ce média, China Eastern renforce aussi ses approvisionnements en moteurs CFM pour sa flotte actuelle, C919 compris."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "CFM wins engine deal for 101 China Eastern A320neo family jets",
+        "url": "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets",
+        "date": "2026-11-08T14:21:34Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "China Eastern selects LEAP engines for 101 Airbus aircraft",
+        "url": "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/",
+        "date": "2026-11-09T08:12:59Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "China Eastern choisit le LEAP-1A pour 101 nouveaux monocouloirs Airbus, dont des A321XLR",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html",
+        "date": "2026-11-09T13:01:51Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Chine : les contrats records de GE pour 12,9 milliards de dollars soulignent la dépendance du C919 aux moteurs occidentaux",
+        "url": "https://www.air-journal.fr/2026-11-11-chine-les-contrats-records-de-ge-pour-129-milliards-de-dollars-soulignent-la-dependance-du-c919-aux-moteurs-occidentaux-5278799.html",
+        "date": "2026-11-11T15:00:55Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
     "created": "2026-11-11T14:21:01Z",
     "updated": "2026-11-11T14:21:01Z",
@@ -1395,52 +1480,6 @@
         "title": "Avions retenus en Russie : deux années de plus pour voler, sans solder les litiges",
         "url": "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html",
         "date": "2026-11-09T15:00:25Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
-    "created": "2026-11-08T14:50:51Z",
-    "updated": "2026-11-09T13:10:54Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "China Eastern retient les moteurs LEAP-1A de CFM pour 101 Airbus de la famille A320neo",
-    "chapo": "China Eastern Airlines a confirmé CFM International comme fournisseur des moteurs de sa dernière commande de monocouloirs Airbus, selon AeroTime. Le contrat porte sur 101 appareils de la famille A320neo.",
-    "paragraphes": [
-      "D'après AviTrader, l'accord concerne des LEAP-1A, auxquels s'ajoutent des moteurs de rechange et un contrat de services de long terme. Sa signature a été célébrée lors d'une cérémonie à la neuvième China International Import Expo (CIIE), à Shanghai.",
-      "Le Journal de l'Aviation précise que la commande englobe des A321XLR et situe l'annonce au 6 novembre."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "CFM wins engine deal for 101 China Eastern A320neo family jets",
-        "url": "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets",
-        "date": "2026-11-08T14:21:34Z",
-        "official": false
-      },
-      {
-        "name": "AviTrader",
-        "title": "China Eastern selects LEAP engines for 101 Airbus aircraft",
-        "url": "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/",
-        "date": "2026-11-09T08:12:59Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "China Eastern choisit le LEAP-1A pour 101 nouveaux monocouloirs Airbus, dont des A321XLR",
-        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html",
-        "date": "2026-11-09T13:01:51Z",
         "official": false
       }
     ]

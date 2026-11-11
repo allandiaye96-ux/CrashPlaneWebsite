@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Wed, 11 Nov 2026 14:50:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 15:01:31 +0000</lastBuildDate>
+  <item>
+    <title>Etihad : fin des vols en Airbus A380 vers l&#x27;Amérique du Nord, selon Simple Flying</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:01:31 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Etihad Airways retirerait l&#x27;Airbus A380 de l&#x27;ensemble de ses liaisons vers l&#x27;Amérique du Nord, d&#x27;après Simple Flying. Le site spécialisé évoque aussi une autre route qui ne verra plus l&#x27;appareil.</description>
+  </item>
   <item>
     <title>EasyJet : les actionnaires approuvent à une large majorité le rachat par le fonds Apollo</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 13:20:57 +0000</pubDate>
     <category>Compagnies</category>
     <description>Philippine Airlines a signé avec Airbus et Rolls-Royce un contrat ferme pour neuf A350-1000 supplémentaires, selon airliners.de. La compagnie philippine s&#x27;est aussi réservé des droits d&#x27;achat sur cinq appareils de plus.</description>
-  </item>
-  <item>
-    <title>KLM reçoit son premier Airbus A350 de nouvelle génération</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762/</guid>
-    <pubDate>Mon, 09 Nov 2026 09:10:55 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, KLM vient de recevoir son premier Airbus A350 de nouvelle génération. Le média l&#x27;associe au remplacement d&#x27;anciens gros-porteurs par 22 A350.</description>
   </item>
 </channel>
 </rss>
