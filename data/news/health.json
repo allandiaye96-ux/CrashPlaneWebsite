@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T22:00:55Z",
+  "run": "2026-11-12T22:10:34Z",
   "stats": {
     "fetched": 682,
-    "new": 3,
+    "new": 1,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8335,
+  "spend_month_usd": 4.8348,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -256,6 +256,12 @@
       "breve": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc"
     },
     {
+      "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
+    },
+    {
       "dossier": "Air India commande gros-porteurs supplémentaire",
       "statut": "corrobore",
       "editeurs": 2,
@@ -374,12 +380,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
-    },
-    {
-      "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
     },
     {
       "dossier": "Crash hélicoptère Malatya Turquie",

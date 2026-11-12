@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/wideroe-dash-8-tracked-24-hours/": "2026-11-02T22:01:04Z",
     "https://simpleflying.com/jetblue-3-destinations-1-city-launches-today/": "2026-11-02T22:30:49Z",
     "https://simpleflying.com/boeing-admits-future-freighters-twin-engine-jets/": "2026-11-02T23:01:01Z",
     "https://www.air-journal.fr/2026-11-03-le-3-novembre-1912-dans-le-ciel-roland-garros-a-la-guigne-5278650.html": "2026-11-02T23:10:34Z",
@@ -1511,7 +1510,8 @@
     "https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate": "2026-11-12T21:50:34Z",
     "https://simpleflying.com/boeing-737-ng-years-flying-left-largest-operator-doesnt-want-anymore/": "2026-11-12T22:00:55Z",
     "https://www.aerotime.aero/articles/google-spirit-airlines-data-sale-privacy": "2026-11-12T22:00:55Z",
-    "https://www.aerotime.aero/articles/turkish-military-s70-helicopter-crash-malatya": "2026-11-12T22:00:55Z"
+    "https://www.aerotime.aero/articles/turkish-military-s70-helicopter-crash-malatya": "2026-11-12T22:00:55Z",
+    "https://theaviationist.com/2026/11/12/ukraine-eyes-up-to-16-l-39ng-skyfox-trainers/": "2026-11-12T22:10:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4790,7 +4790,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-12T13:50:50Z",
-      "updated": "2026-11-12T19:20:50Z",
+      "updated": "2026-11-12T22:10:48Z",
       "items": [
         {
           "id": "f0e756a39f86c5a6",
@@ -4809,10 +4809,19 @@
           "domain": "twz.com",
           "summary": "The aircraft would offer a far cheaper alternative to using frontline fighters against Moscow’s expanding arsenal of one-way attack drones. The post L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone Hunting Capability appeared first on TWZ .",
           "published": "2026-11-12T19:13:31Z"
+        },
+        {
+          "id": "946d728d96012b2a",
+          "feed": "The Aviationist",
+          "title": "Ukraine Eyes Up to 16 L-39NG Skyfox Trainers as First Gripens Near Arrival in 2027",
+          "url": "https://theaviationist.com/2026/11/12/ukraine-eyes-up-to-16-l-39ng-skyfox-trainers/",
+          "domain": "theaviationist.com",
+          "summary": "Ukraine could get up to 16 L-39NG Skyfox aircraft, potentially adapted for counter-drone missions, while the first JAS 39 Gripen C/D fighters are expected to arrive in January or February 2027. Ukraine could acquire up to 16 L-39NG Skyfox jet trainers, as the country also prepares to receive its first JAS 39 C/D Gripen fighters […]",
+          "published": "2026-11-12T22:08:40Z"
         }
       ],
       "story_id": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9",
-      "written_count": 2
+      "written_count": 3
     },
     "ca048025735": {
       "id": "ca048025735",
@@ -4931,6 +4940,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.833461
+    "2026-11": 4.834768
   }
 }
