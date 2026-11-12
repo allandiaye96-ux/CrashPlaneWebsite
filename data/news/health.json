@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T10:10:36Z",
+  "run": "2026-11-12T10:20:34Z",
   "stats": {
     "fetched": 682,
-    "new": 15,
-    "written": 3,
+    "new": 7,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7898,
+  "spend_month_usd": 4.7912,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -244,6 +244,12 @@
       "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
     },
     {
+      "dossier": "United interdit les agents IA pour réservations",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc"
+    },
+    {
       "dossier": "Air India commande gros-porteurs supplémentaire",
       "statut": "corrobore",
       "editeurs": 2,
@@ -254,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd"
-    },
-    {
-      "dossier": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac"
     },
     {
       "dossier": "Saisie jet privé chinois G550 Iran",
@@ -400,12 +400,6 @@
       "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
     },
     {
-      "dossier": "United interdit les agents IA pour réservations",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc"
-    },
-    {
       "dossier": "Air Baltic retour A220 et sanierung insolvence",
       "statut": "corrobore",
       "editeurs": 2,
@@ -422,12 +416,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Joby vols de démonstration en Floride",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654"
     },
     {
       "dossier": "Dronamics introduction Nasdaq fusion GP-Act III",

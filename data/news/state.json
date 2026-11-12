@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54065/Indigo-Airbus-A350-900-kommt-mit-Business-Class.html": "2026-11-02T10:10:38Z",
-    "https://www.airliners.de/luftwaffe-verlegt-eurofighter-uebung-flughafen-weeze/91238": "2026-11-02T10:20:33Z",
-    "https://www.airliners.de/lufthansa-flugbegleiter-stirbt-hotelunfall-indien/91237": "2026-11-02T10:20:33Z",
-    "https://www.airliners.de/ryanair-kerosinkosten-nullrunden-beschaeftigte/91236": "2026-11-02T10:20:33Z",
-    "https://www.airliners.de/lufthansa-verlaesst-e-fuel-alliance-beklagt-fehlenden-e-kerosin-markt/91234": "2026-11-02T10:20:33Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lot-a-retire-son-dernier-embraer-e170-apres-22-ans-de-service-20261102.html": "2026-11-02T10:30:48Z",
     "https://simpleflying.com/5-things-that-passengers-dont-know-about-premium-economy/": "2026-11-02T10:50:35Z",
     "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo": "2026-11-02T11:01:01Z",
@@ -1514,7 +1509,14 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=76137FAD-032B-4BA7-B8B9-82758A0D9A1D": "2026-11-12T10:10:36Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=844B8A88-D9FA-41FB-85C5-71171813E256": "2026-11-12T10:10:36Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=F2289B93-8436-4DB7-9301-2778862D77F0": "2026-11-12T10:10:36Z",
-    "https://www.air-journal.fr/2026-11-12-frontier-soffre-une-premiere-classe-le-grand-ecart-de-lultra-low-cost-5278800.html": "2026-11-12T10:10:36Z"
+    "https://www.air-journal.fr/2026-11-12-frontier-soffre-une-premiere-classe-le-grand-ecart-de-lultra-low-cost-5278800.html": "2026-11-12T10:10:36Z",
+    "https://simpleflying.com/the-most-likely-aircraft-to-replace-airbus-a380-on-high-capacity-routes/": "2026-11-12T10:20:34Z",
+    "https://www.airliners.de/jetblue-blue-first-premium-rueckkehr-profitabilitaet/91486": "2026-11-12T10:20:34Z",
+    "https://www.airliners.de/wizz-air-kuendigt-steigende-stueckkosten-halbjahresgewinn-sinkt/91485": "2026-11-12T10:20:34Z",
+    "https://www.airliners.de/united-schraenkt-zugang-ki-agenten-ein-jetblue-fuerchtet-kosten-vermittler/91481": "2026-11-12T10:20:34Z",
+    "https://www.airliners.de/air-astana-verlagert-kapazitaet-nahost-asien-china/91487": "2026-11-12T10:20:34Z",
+    "https://www.airliners.de/frankfurt-haelt-passagierniveau-vorjahr-cargo-volumen-oktober/91491": "2026-11-12T10:20:34Z",
+    "https://www.airliners.de/flugbereitschaft-fruehestens-2036-koeln-wahn-ber/91489": "2026-11-12T10:20:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1976,36 +1978,6 @@
       "story_id": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd",
       "written_count": 2
     },
-    "cbe879bf2ac": {
-      "id": "cbe879bf2ac",
-      "label": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-04T17:40:53Z",
-      "updated": "2026-11-05T10:10:54Z",
-      "items": [
-        {
-          "id": "2a4e853bee892c52",
-          "feed": "The War Zone",
-          "title": "The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition",
-          "url": "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition",
-          "domain": "twz.com",
-          "summary": "Sierra Nevada Corp decided not to bid to replace the Navy's T-45s with its Freedom Jet, one of two known contenders left in the running. The post The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition appeared first on TWZ .",
-          "published": "2026-11-04T17:36:13Z"
-        },
-        {
-          "id": "4e409414fe0deba3",
-          "feed": "Aero-News Network",
-          "title": "SNC Drops Out Of Navy's Jet Trainer Competition",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC8FE091-C291-4B40-ACF2-F885846113DC",
-          "domain": "aero-news.net",
-          "summary": "Leaves Textron Aviation Defense As Only Competitor Sierra Nevada Corporation (SNC) is no longer competing for the Navy’s new training jet, Breaking Defense reported. The decision not to compete may leave the Navy with only one true competitor, Textron Aviation Defense’s M-346N trainer. “With great respect for the Navy and PMA-273, SNC could not responsibly bid the UJTS (Undergraduate Jet Training System) program under the current contract structure,” SNC said in a statement to Breaking Defense. “We do remain committed to naval jet training and stand ready to re-engage if the approach is revisited.” Textron Aviation Defense, the only known major competitor to SNC, confirmed the firm submitted",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac",
-      "written_count": 2
-    },
     "c00a49a8b4f": {
       "id": "c00a49a8b4f",
       "label": "NASA annonce avion expérimental X-70 Fractal",
@@ -2188,27 +2160,6 @@
       ],
       "story_id": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47",
       "written_count": 2
-    },
-    "c19640f4654": {
-      "id": "c19640f4654",
-      "label": "Joby vols de démonstration en Floride",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T10:10:54Z",
-      "updated": "2026-11-05T10:10:54Z",
-      "items": [
-        {
-          "id": "9e038dc148ec2058",
-          "feed": "Aero-News Network",
-          "title": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=F449A919-F404-4F42-BE5F-2304E6FC9E58",
-          "domain": "aero-news.net",
-          "summary": "Flight From St. Petersburg To Tampa International Airport Joby Aviation has launched a week of piloted electric air taxi flights across Florida, taking its aircraft from Tampa to Orlando and on to the Space Coast. The aircraft will fly at Orlando International Airport and Kennedy Space Center, helping map the first phase of Florida’s planned Aerial Highway Network. These are Florida’s first flights under the White House-backed eIPP program, announced by the U.S. Department of Transportation in March 2026. The program brings government and industry together to accelerate the safe introduction of electric air taxis into U.S. airspace. Florida is where commercial aviation began more than a cent",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-05-joby-aviation-lance-une-semaine-de-vols-de-taxi-aerien-elect-4654",
-      "written_count": 1
     },
     "c5418299a7d": {
       "id": "c5418299a7d",
@@ -5138,7 +5089,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T07:01:09Z",
-      "updated": "2026-11-12T10:01:11Z",
+      "updated": "2026-11-12T10:20:45Z",
       "items": [
         {
           "id": "5f2229d7844537a5",
@@ -5157,10 +5108,19 @@
           "domain": "aerotime.aero",
           "summary": "In an industry first, United Airlines announced on November 11, 2026, that it is restricting unauthorized third-party artificial… The post United Airlines to block third-party AI agents from accessing digital platforms appeared first on AeroTime .",
           "published": "2026-11-12T09:32:51Z"
+        },
+        {
+          "id": "4260e8bd80bc0eb5",
+          "feed": "airliners.de",
+          "title": "United schränkt Zugang für KI-Agenten ein, Jetblue fürchtet Kosten durch Vermittler",
+          "url": "https://www.airliners.de/united-schraenkt-zugang-ki-agenten-ein-jetblue-fuerchtet-kosten-vermittler/91481",
+          "domain": "airliners.de",
+          "summary": "Die United Airlines will den Zugang von KI-Agenten zu ihren digitalen Plattformen beschränken und verweist auf Datensicherheit. Jetblue-President Marty St. George kann die Skepsis nachvollziehen und nennt die Kosten, die er auf die Branche zukommen sieht.",
+          "published": "2026-11-12T09:26:47Z"
         }
       ],
       "story_id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
-      "written_count": 2
+      "written_count": 3
     },
     "cf74760ce9c": {
       "id": "cf74760ce9c",
@@ -5300,6 +5260,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.789784
+    "2026-11": 4.791224
   }
 }
