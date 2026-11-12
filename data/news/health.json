@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-12T18:10:35Z",
+  "run": "2026-11-12T18:20:37Z",
   "stats": {
-    "fetched": 682,
+    "fetched": 662,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "ParseError: no element found: line 13, column 46"
     },
     "airliners.de": {
       "ok": true,
@@ -122,12 +122,6 @@
       "statut": "corrobore",
       "editeurs": 6,
       "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
-    },
-    {
-      "dossier": "Air France-KLM recentre KLM sur Schiphol",
-      "statut": "corrobore",
-      "editeurs": 6,
-      "breve": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",

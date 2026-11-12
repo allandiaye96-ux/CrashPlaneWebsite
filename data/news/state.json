@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman": "2026-11-02T18:20:36Z",
     "https://simpleflying.com/southwest-launches-5-new-nonstop-routes/": "2026-11-02T18:30:54Z",
     "https://www.aero.de/news-54071/Pistorius-fordert-schnelle-Entscheidung-ueber-neuen-Kampfjet.html": "2026-11-02T18:30:54Z",
     "https://simpleflying.com/air-canada-launches-11-long-haul-787-routes/": "2026-11-02T19:01:04Z",
@@ -1956,72 +1955,6 @@
       ],
       "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
       "written_count": 4
-    },
-    "cf6cf3faedc": {
-      "id": "cf6cf3faedc",
-      "label": "Air France-KLM recentre KLM sur Schiphol",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-05T08:40:53Z",
-      "updated": "2026-11-05T18:10:53Z",
-      "items": [
-        {
-          "id": "60b45e9de6eed274",
-          "feed": "aero.de",
-          "title": "Air France-KLM kürzt bei niederländischer Tochter",
-          "url": "https://www.aero.de/news-54097/Air-France-KLM-kuerzt-bei-niederlaendischer-Tochter.html",
-          "domain": "aero.de",
-          "summary": "PARIS - Der Flugkonzern Air France-KLM richtet angesichts der hohen Kerosinpreise seeine niederländische Sparte KLM neu aus. Künftig sollen sich die weiß-blauen Maschinen voll und ganz auf ihre 160 Direktverbindungen an Amsterdams Flughafen Schiphol fokussieren. Auf den Airbus A320neo verzichtet KLM ganz.",
-          "published": "2026-11-05T08:34:47Z"
-        },
-        {
-          "id": "734dc929079e2ca2",
-          "feed": "Simple Flying",
-          "title": "KLM Forced Into 'Painful' €1B Financial Overhaul",
-          "url": "https://simpleflying.com/klm-trims-workforce-to-strengthen-amsterdam-hub/",
-          "domain": "simpleflying.com",
-          "summary": "The Dutch flag carrier will cut its staff by around 15% as it looks to improve its earnings.",
-          "published": "2026-11-05T08:53:27Z"
-        },
-        {
-          "id": "9101aec7c2927442",
-          "feed": "airliners.de",
-          "title": "Air France-KLM übertrifft Gewinnerwartungen – streicht bei KLM 1000 Stellen",
-          "url": "https://www.airliners.de/air-france-klm-uebertrifft-gewinnerwartungen-streicht-klm-1000-stellen/91338",
-          "domain": "airliners.de",
-          "summary": "Air France-KLM übertrifft im dritten Quartal die Erwartungen von Analysten und rechnet für das Gesamtjahr mit höheren Treibstoffkosten. Bei der Tochter KLM fallen zudem rund 1000 Stellen weg.",
-          "published": "2026-11-05T09:10:58Z"
-        },
-        {
-          "id": "eac025c2cb2b8314",
-          "feed": "AeroTime",
-          "title": "Air France-KLM beats profit forecasts, but KLM plans 1,000 job cuts",
-          "url": "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts",
-          "domain": "aerotime.aero",
-          "summary": "Air France-KLM’s adjusted operating profit rose by €126 million ($142 million) year-on-year to €1.35 billion ($1.52 billion) in… The post Air France-KLM beats profit forecasts, but KLM plans 1,000 job cuts appeared first on AeroTime .",
-          "published": "2026-11-05T10:38:06Z"
-        },
-        {
-          "id": "7f9e8e8a74e4ff76",
-          "feed": "Air Journal",
-          "title": "KLM se restructure : 1 000 postes en moins et un virage vers les Embraer E195-E2",
-          "url": "https://www.air-journal.fr/2026-11-05-klm-se-restructure-1-000-postes-en-moins-et-un-virage-vers-les-embraer-e195-e2-5278687.html",
-          "domain": "air-journal.fr",
-          "summary": "KLM engage une nouvelle restructuration pour renforcer sa compétitivité et financer ses investissements. Annoncé le 5 novembre 2026, le projet prévoit environ 1 000 suppressions de postes liées aux gains de productivité, des externalisations et des transferts d’activités vers Air France-KLM. Sur le réseau européen, la compagnie conservera l’Airbus A321neo mais privilégiera les Embraer E195-E2 […]",
-          "published": "2026-11-05T12:00:14Z"
-        },
-        {
-          "id": "2483d2cdd43e9865",
-          "feed": "AirlineGeeks",
-          "title": "KLM Plans 1,000 More Job Cuts",
-          "url": "https://airlinegeeks.com/2026/11/05/klm-plans-1000-more-job-cuts/",
-          "domain": "airlinegeeks.com",
-          "summary": "The airline will outsource work and transfer other positions to Air France-KLM as it seeks lower costs.",
-          "published": "2026-11-05T18:01:55Z"
-        }
-      ],
-      "story_id": "2026-11-05-air-france-klm-recentre-klm-sur-ses-160-liaisons-directes-de-aedc",
-      "written_count": 6
     },
     "ca8afd9b6c4": {
       "id": "ca8afd9b6c4",
