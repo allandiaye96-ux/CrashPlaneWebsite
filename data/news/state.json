@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/5-things-that-passengers-dont-know-about-premium-economy/": "2026-11-02T10:50:35Z",
-    "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo": "2026-11-02T11:01:01Z",
-    "https://avitrader.com/2026/11/02/bell-textron-secures-further-gmr-helicopter-order/": "2026-11-02T11:01:01Z",
-    "https://www.journal-aviation.com/actualite-en-bref/le-groenland-ouvre-son-nouvel-aeroport-international-dilulissat-avec-une-liaison-directe-vers-copenhague-20261102.html": "2026-11-02T11:01:01Z",
     "https://www.air-journal.fr/2026-11-02-voyage-aux-baleares-une-destination-mediterraneenne-qui-seduit-bien-au-dela-de-lete-5278399.html": "2026-11-02T11:10:36Z",
     "https://avitrader.com/2026/11/02/eirtech-wins-easa-approval-for-a320-data-link-upgrade/": "2026-11-02T11:20:53Z",
     "https://www.aero.de/news-54066/Bericht-US-Regierung-hebt-Sanktionen-gegen-Belavia-auf.html": "2026-11-02T11:20:53Z",
@@ -1516,7 +1512,8 @@
     "https://www.airliners.de/air-astana-verlagert-kapazitaet-nahost-asien-china/91487": "2026-11-12T10:20:34Z",
     "https://www.airliners.de/frankfurt-haelt-passagierniveau-vorjahr-cargo-volumen-oktober/91491": "2026-11-12T10:20:34Z",
     "https://www.airliners.de/flugbereitschaft-fruehestens-2036-koeln-wahn-ber/91489": "2026-11-12T10:20:34Z",
-    "https://avitrader.com/2026/11/12/easyjet-shareholders-back-5-7bn-apollo-takeover/": "2026-11-12T10:30:51Z"
+    "https://avitrader.com/2026/11/12/easyjet-shareholders-back-5-7bn-apollo-takeover/": "2026-11-12T10:30:51Z",
+    "https://avitrader.com/2026/11/12/general-atomics-breaks-ground-on-nordholz-mro-facility/": "2026-11-12T11:01:03Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5248,6 +5245,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.79305
+    "2026-11": 4.793854
   }
 }
