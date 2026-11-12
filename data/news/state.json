@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/boeing-747-400-vs-747-8-last-2-jumbo-generations-compare/": "2026-11-02T14:01:21Z",
-    "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters": "2026-11-02T14:01:21Z",
-    "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html": "2026-11-02T14:01:21Z",
-    "https://leehamnews.com/2026/11/02/faa-funds-jetzero-study-of-top-mounted-engine-airflow/": "2026-11-02T14:10:33Z",
     "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244": "2026-11-02T14:20:34Z",
     "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242": "2026-11-02T14:20:34Z",
     "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243": "2026-11-02T14:20:34Z",
@@ -2222,27 +2218,6 @@
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 9
-    },
-    "c7fcbbf182d": {
-      "id": "c7fcbbf182d",
-      "label": "Air Canada commande 8 A350-1000",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T14:01:24Z",
-      "updated": "2026-11-05T14:01:24Z",
-      "items": [
-        {
-          "id": "99e10fc1528fed85",
-          "feed": "Simple Flying",
-          "title": "Air Canada Ordered 8 Airbus A350-1000s To Fly Nonstop Where Its Boeing 777-300ERs Cannot",
-          "url": "https://simpleflying.com/air-canada-ordered-8-airbus-a350-1000s-fly-nonstop-boeing-777-300ers-cannot/",
-          "domain": "simpleflying.com",
-          "summary": "A closer look at how geopolitics and industry bottlenecks are driving the flag carrier’s fleet overhaul.",
-          "published": "2026-11-05T14:00:18Z"
-        }
-      ],
-      "story_id": "2026-11-05-air-canada-commande-huit-airbus-a350-1000-pour-des-vols-sans-182d",
-      "written_count": 1
     },
     "c0476c72283": {
       "id": "c0476c72283",
