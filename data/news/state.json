@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft": "2026-11-02T13:01:05Z",
-    "https://avitrader.com/2026/11/02/the-hellenic-ministry-of-national-defense-signs-kc-390-order/": "2026-11-02T13:01:05Z",
-    "https://www.air-journal.fr/2026-11-02-ryanair-le-kerosene-plombe-les-benefices-les-salaires-dans-le-viseur-5278646.html": "2026-11-02T13:01:05Z",
-    "https://avitrader.com/2026/11/02/epcor-wins-a330-mrtt-global-apu-support-contract/": "2026-11-02T13:10:33Z",
     "https://www.airliners.de/zehn-klaeger-ausbau-flughafen-leipzig-halle-stoppen/91241": "2026-11-02T13:20:56Z",
     "https://www.airliners.de/flughafen-stuttgart-erwartet-rote-zahlen/91240": "2026-11-02T13:20:56Z",
     "https://simpleflying.com/video/nearly-2-000-boeing-737s-must-get-tail-inspections-after-jets-pitched-up-and-down-mid-flight/": "2026-11-02T13:30:51Z",
@@ -1513,7 +1509,10 @@
     "https://www.air-journal.fr/2026-11-12-animawings-en-insolvabilite-la-suspension-des-vols-prolongee-jusquau-31-decembre-5278812.html": "2026-11-12T12:01:01Z",
     "https://www.aerotime.aero/articles/airasia-appoints-bahrain-board-hub-launch-by-march-2027": "2026-11-12T12:20:34Z",
     "https://avitrader.com/2026/11/12/charlotte-airport-secures-us2bn-investment-deal/": "2026-11-12T12:20:34Z",
-    "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026": "2026-11-12T12:50:34Z"
+    "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026": "2026-11-12T12:50:34Z",
+    "https://simpleflying.com/aaib-airbus-a300-heathrow-tail-strike-reverse-thrust-go-around/": "2026-11-12T13:10:36Z",
+    "https://simpleflying.com/unpexpected-upgrade-tell-us-what-happened/": "2026-11-12T13:10:36Z",
+    "https://www.air-journal.fr/2026-11-12-united-airlines-ferme-la-porte-aux-ia-qui-reservent-des-billets-a-votre-place-5278813.html": "2026-11-12T13:10:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5233,6 +5232,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.802089
+    "2026-11": 4.802938
   }
 }
