@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-12T13:30:48Z",
+  "run": "2026-11-12T13:40:38Z",
   "stats": {
     "fetched": 682,
     "new": 0,
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "KLM renonce A320neo et réduction effectifs",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-klm-renonce-a-l-a320neo-et-prevoit-de-nouvelles-reductions-d-64c6"
     },
     {
       "dossier": "Air Canada commande 8 A350-1000",
