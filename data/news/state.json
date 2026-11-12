@@ -1510,7 +1510,12 @@
     "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft": "2026-11-12T13:20:37Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/cathay-pacific-commande-11-airbus-a330no-et-3-a321neo-supplementaires-20261112.html": "2026-11-12T13:20:37Z",
     "https://www.aerotime.aero/articles/vertical-quality-certification-matches-airbus-boeing-standards": "2026-11-12T13:50:36Z",
-    "https://www.aerotime.aero/articles/czechia-ukraine-16-l39-skyfox-jets": "2026-11-12T13:50:36Z"
+    "https://www.aerotime.aero/articles/czechia-ukraine-16-l39-skyfox-jets": "2026-11-12T13:50:36Z",
+    "https://simpleflying.com/air-india-cancels-8-international-routes/": "2026-11-12T14:01:00Z",
+    "https://simpleflying.com/airbus-a350-stacks-up-against-boeing-777x-next-decade-long-haul-flying/": "2026-11-12T14:01:00Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-skywise-expands-its-portfolio-with-the-launch-of-enhanced-digital-flight-training-solutions": "2026-11-12T14:01:00Z",
+    "https://www.aero.de/news-54159/Esa-Grundstein-fuer-groesste-3D-Karte-des-Kosmos-gelegt-.html": "2026-11-12T14:01:00Z",
+    "https://www.air-journal.fr/2026-11-12-drones-cyberattaques-fausses-alertes-les-aeroports-europeens-reclament-un-sursaut-5278816.html": "2026-11-12T14:01:00Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5235,10 +5240,52 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ca048025735": {
+      "id": "ca048025735",
+      "label": "Air India annule 8 routes internationales",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-12T14:01:14Z",
+      "updated": "2026-11-12T14:01:14Z",
+      "items": [
+        {
+          "id": "7b5bfbe31cbd10df",
+          "feed": "Simple Flying",
+          "title": "Air India Cancels 8 Major International Routes: See Full List Now",
+          "url": "https://simpleflying.com/air-india-cancels-8-international-routes/",
+          "domain": "simpleflying.com",
+          "summary": "Three of the cancelled routes are to Europe, while others have been transferred to its low-cost subsidiary, Air India Express.",
+          "published": "2026-11-12T14:00:18Z"
+        }
+      ],
+      "story_id": "2026-11-12-air-india-annule-huit-lignes-internationales-trois-vers-l-eu-5735",
+      "written_count": 1
+    },
+    "c9b6bbba3d8": {
+      "id": "c9b6bbba3d8",
+      "label": "ACI Europe appel sursaut menaces aéroports",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-12T14:01:14Z",
+      "updated": "2026-11-12T14:01:14Z",
+      "items": [
+        {
+          "id": "60ac3dc0af5a6f06",
+          "feed": "Air Journal",
+          "title": "Drones, cyberattaques, fausses alertes : les aéroports européens réclament un sursaut",
+          "url": "https://www.air-journal.fr/2026-11-12-drones-cyberattaques-fausses-alertes-les-aeroports-europeens-reclament-un-sursaut-5278816.html",
+          "domain": "air-journal.fr",
+          "summary": "Alertes à la bombe, incursions de drones, attaques informatiques : face à des perturbations susceptibles de désorganiser tout le réseau aérien, ACI Europe demande de revoir la coopération entre aéroports, compagnies et pouvoirs publics. Présentée le 12 novembre, sa nouvelle stratégie réclame un meilleur partage du renseignement, des responsabilités clairement établies et des financements dédiés. […]",
+          "published": "2026-11-12T14:00:10Z"
+        }
+      ],
+      "story_id": "2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.805132
+    "2026-11": 4.807185
   }
 }

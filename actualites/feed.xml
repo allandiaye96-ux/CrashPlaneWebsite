@@ -6,7 +6,23 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:50:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 14:01:21 +0000</lastBuildDate>
+  <item>
+    <title>Européens : ACI Europe appelle à mieux coordonner aéroports, compagnies et pouvoirs publics face aux menaces</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8/</guid>
+    <pubDate>Thu, 12 Nov 2026 14:01:20 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Air Journal, l&#x27;association ACI Europe souhaite renforcer la coopération entre aéroports, compagnies aériennes et autorités publiques face aux drones, cyberattaques et fausses alertes.</description>
+  </item>
+  <item>
+    <title>Air India annule huit lignes internationales, trois vers l&#x27;Europe</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-air-india-annule-huit-lignes-internationales-trois-vers-l-eu-5735/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-air-india-annule-huit-lignes-internationales-trois-vers-l-eu-5735/</guid>
+    <pubDate>Thu, 12 Nov 2026 14:01:16 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, Air India a annulé huit grandes lignes internationales, dont trois à destination de l&#x27;Europe.</description>
+  </item>
   <item>
     <title>Charlotte : un accord de 2 milliards de dollars pour moderniser l&#x27;aéroport CLT</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-charlotte-un-accord-de-2-milliards-de-dollars-pour-modernise-bfb9/</link>
@@ -230,22 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 10:20:57 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de et aero.de, le président d&#x27;Emirates, Tim Clark, indique que la compagnie met en pause son projet de desserte de Berlin, en attendant des précisions sur l&#x27;accord aérien entre l&#x27;Allemagne et les Émirats arabes unis.</description>
-  </item>
-  <item>
-    <title>Etihad aurait investi un montant à deux chiffres en millions dans Condor</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:21:08 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, qui cite des sources internes, Etihad Airways aurait investi un montant élevé, de plusieurs dizaines de millions, dans la compagnie allemande Condor.</description>
-  </item>
-  <item>
-    <title>Frequentis obtient une approbation de conception de la FAA pour son système Digital Tower</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:21:05 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>Selon airliners.de, la FAA américaine a accordé une approbation de conception au système de tour de contrôle numérique de Frequentis.</description>
   </item>
 </channel>
 </rss>

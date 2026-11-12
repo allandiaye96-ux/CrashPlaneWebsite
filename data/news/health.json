@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T13:50:36Z",
+  "run": "2026-11-12T14:01:00Z",
   "stats": {
     "fetched": 682,
-    "new": 2,
-    "written": 0,
+    "new": 5,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8051,
+  "spend_month_usd": 4.8072,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -746,6 +746,18 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-charlotte-un-accord-de-2-milliards-de-dollars-pour-modernise-bfb9"
+    },
+    {
+      "dossier": "Air India annule 8 routes internationales",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-air-india-annule-huit-lignes-internationales-trois-vers-l-eu-5735"
+    },
+    {
+      "dossier": "ACI Europe appel sursaut menaces aéroports",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

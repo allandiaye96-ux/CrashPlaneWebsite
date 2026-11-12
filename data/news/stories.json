@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8",
+    "created": "2026-11-12T14:01:20Z",
+    "updated": "2026-11-12T14:01:20Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Européens : ACI Europe appelle à mieux coordonner aéroports, compagnies et pouvoirs publics face aux menaces",
+    "chapo": "Selon Air Journal, l'association ACI Europe souhaite renforcer la coopération entre aéroports, compagnies aériennes et autorités publiques face aux drones, cyberattaques et fausses alertes.",
+    "paragraphes": [
+      "D'après le média, ces perturbations, qui incluent alertes à la bombe, intrusions de drones et attaques informatiques, sont susceptibles de désorganiser l'ensemble du réseau aérien. L'organisation juge nécessaire de revoir la manière dont les acteurs du secteur travaillent ensemble.",
+      "La nouvelle stratégie, présentée le 12 novembre, prévoit notamment de mieux partager les informations de renseignement, de définir plus nettement qui doit assumer quelles responsabilités, et de sécuriser des financements dédiés."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Drones, cyberattaques, fausses alertes : les aéroports européens réclament un sursaut",
+        "url": "https://www.air-journal.fr/2026-11-12-drones-cyberattaques-fausses-alertes-les-aeroports-europeens-reclament-un-sursaut-5278816.html",
+        "date": "2026-11-12T14:00:10Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-air-india-annule-huit-lignes-internationales-trois-vers-l-eu-5735",
+    "created": "2026-11-12T14:01:16Z",
+    "updated": "2026-11-12T14:01:16Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air India annule huit lignes internationales, trois vers l'Europe",
+    "chapo": "Selon Simple Flying, Air India a annulé huit grandes lignes internationales, dont trois à destination de l'Europe.",
+    "paragraphes": [
+      "D'après cet article, les liaisons non maintenues ne sont pas toutes supprimées de la même manière : certaines ont été transférées à sa filiale low-cost, Air India Express.",
+      "La liste complète des routes concernées figure dans l'article source, que nous ne reprenons pas ici faute de détails vérifiés par ailleurs."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Air India Cancels 8 Major International Routes: See Full List Now",
+        "url": "https://simpleflying.com/air-india-cancels-8-international-routes/",
+        "date": "2026-11-12T14:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
     "created": "2026-11-11T07:31:07Z",
     "updated": "2026-11-12T13:21:12Z",
