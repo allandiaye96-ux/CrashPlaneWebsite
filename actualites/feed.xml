@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 14:31:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 14:40:58 +0000</lastBuildDate>
   <item>
     <title>Européens : ACI Europe appelle à mieux coordonner aéroports, compagnies et pouvoirs publics face aux menaces</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8/</link>
@@ -144,6 +144,14 @@
     <description>Etihad Airways retirerait l&#x27;Airbus A380 de l&#x27;ensemble de ses liaisons vers l&#x27;Amérique du Nord, d&#x27;après Simple Flying. Le site spécialisé évoque aussi une autre route qui ne verra plus l&#x27;appareil.</description>
   </item>
   <item>
+    <title>easyJet : les actionnaires approuvent le rachat par le fonds Apollo, valorisé 5,7 milliards de livres</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</guid>
+    <pubDate>Wed, 11 Nov 2026 14:21:01 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Les actionnaires d&#x27;easyJet ont donné leur feu vert, le 11 novembre 2026, à l&#x27;offre de reprise par le fonds américain Apollo, selon AeroTime. La transaction doit encore franchir un obstacle majeur en Europe.</description>
+  </item>
+  <item>
     <title>Alaska Airlines prépare un vol Anchorage–Tokyo Narita en Boeing 737 MAX 8 dès le 13 mai 2027</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438/</guid>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 13:20:54 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AeroTime, Embraer a relevé ses objectifs de chiffre d&#x27;affaires et de flux de trésorerie disponible pour 2026 après un troisième trimestre historique. Le constructeur brésilien maintient en revanche ses cibles de livraisons.</description>
-  </item>
-  <item>
-    <title>Emirates suspend ses plans pour Berlin et veut clarifier l&#x27;accord aérien avec le ministère des Transports</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd/</guid>
-    <pubDate>Tue, 10 Nov 2026 10:20:57 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de et aero.de, le président d&#x27;Emirates, Tim Clark, indique que la compagnie met en pause son projet de desserte de Berlin, en attendant des précisions sur l&#x27;accord aérien entre l&#x27;Allemagne et les Émirats arabes unis.</description>
   </item>
 </channel>
 </rss>

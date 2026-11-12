@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T14:30:50Z",
+  "run": "2026-11-12T14:40:37Z",
   "stats": {
     "fetched": 682,
-    "new": 2,
+    "new": 3,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8105,
+  "spend_month_usd": 4.8126,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -142,6 +142,12 @@
       "breve": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790"
     },
     {
+      "dossier": "Apollo rachat easyJet vote actionnaires",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
@@ -158,12 +164,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
-    },
-    {
-      "dossier": "Apollo rachat easyJet vote actionnaires",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
     },
     {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",

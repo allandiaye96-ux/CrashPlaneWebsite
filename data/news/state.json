@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html": "2026-11-02T14:30:54Z",
     "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html": "2026-11-02T14:50:33Z",
     "https://simpleflying.com/emirates-airbus-a380s-finally-return-to-17-hour-route/": "2026-11-02T15:01:11Z",
     "https://airlinegeeks.com/2026/11/02/american-resumes-service-to-haiti-after-two-year-pause/": "2026-11-02T15:01:11Z",
@@ -1514,7 +1513,10 @@
     "https://www.airliners.de/stellwerksausfall-legt-s-bahn-flughafen-hannover-lahm/91495": "2026-11-12T14:20:36Z",
     "https://www.airliners.de/flughaefen-fordern-mehr-innovationen-dienstleistern/91493": "2026-11-12T14:20:36Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/operateurs-daffaires/magnifica-air-confirme-une-commande-de-dix-acj220-300-aupres-dairbus-20261112.html": "2026-11-12T14:30:50Z",
-    "https://www.journal-aviation.com/avions-daffaires/aviation-daffaires-ed-bolen-president-historique-de-la-nbaa-sest-eteint-20261112.html": "2026-11-12T14:30:50Z"
+    "https://www.journal-aviation.com/avions-daffaires/aviation-daffaires-ed-bolen-president-historique-de-la-nbaa-sest-eteint-20261112.html": "2026-11-12T14:30:50Z",
+    "https://leehamnews.com/2026/11/12/will-airbus-stretch-the-a350-part-3/": "2026-11-12T14:40:37Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/les-actionnaires-deasyjet-approuvent-loffre-de-rachat-de-57-milliards-de-livres-sterling-du-fonds-americain-apollo-20261112.html": "2026-11-12T14:40:37Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/les-livraisons-davions-commerciaux-de-boeing-en-baisse-consequente-en-octobre-20261112.html": "2026-11-12T14:40:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4763,7 +4765,7 @@
       "categorie": "Compagnies",
       "importance": 3,
       "created": "2026-11-11T14:20:52Z",
-      "updated": "2026-11-12T10:31:04Z",
+      "updated": "2026-11-12T14:40:53Z",
       "items": [
         {
           "id": "6e189edcdfa80c62",
@@ -4809,10 +4811,19 @@
           "domain": "avitrader.com",
           "summary": "EasyJet shareholders have approved the airline’s £5.7bn (US$7.61bn) takeover by US private equity group Apollo Global Management, clearing a major hurdle for the deal, according to the BBC. The Luton-based airline said 97.07% of shareholders voted in favour of the acquisition at a meeting on Wednesday, November 11. The transaction is expected to be completed […] The post EasyJet shareholders back £5.7bn Apollo takeover appeared first on AviTrader Aviation News .",
           "published": "2026-11-12T10:24:08Z"
+        },
+        {
+          "id": "5c0165a3b1dbf223",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Les actionnaires d’easyJet approuvent l’offre de rachat de 5,7 milliards de livres sterling du fonds américain Apollo",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/les-actionnaires-deasyjet-approuvent-loffre-de-rachat-de-57-milliards-de-livres-sterling-du-fonds-americain-apollo-20261112.html",
+          "domain": "journal-aviation.com",
+          "summary": "Les actionnaires d’easyJet ont approuvé l’offre de rachat du fonds américain Apollo, qui valorise compagnie aérienne britannique à bas coûts à 5,7 milliards de livres sterling (environ 6,8 milliards d’euros). […] L’article Les actionnaires d’easyJet approuvent l’offre de rachat de 5,7 milliards de livres sterling du fonds américain Apollo a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-12T14:35:22Z"
         }
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-      "written_count": 5
+      "written_count": 6
     },
     "c26b775d3a4": {
       "id": "c26b775d3a4",
@@ -5261,6 +5272,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.81053
+    "2026-11": 4.812575
   }
 }
