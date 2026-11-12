@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T08:10:36Z",
+  "run": "2026-11-12T08:20:32Z",
   "stats": {
     "fetched": 682,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7803,
+  "spend_month_usd": 4.7815,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -770,6 +770,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
+    },
+    {
+      "dossier": "Etihad réduit son offre vers l'Allemagne 2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

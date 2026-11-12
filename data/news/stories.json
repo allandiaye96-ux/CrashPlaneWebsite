@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65",
+    "created": "2026-11-12T08:20:49Z",
+    "updated": "2026-11-12T08:20:49Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Etihad réduit son offre vers l'Allemagne à partir de janvier 2027",
+    "chapo": "Selon airliners.de, Etihad Airways va réduire à partir de janvier 2027 son offre sur de nombreuses lignes au départ d'Abu Dhabi, notamment vers Francfort et Düsseldorf.",
+    "paragraphes": [
+      "D'après le même média, la compagnie émiratie adopte ainsi une stratégie différente de celle de sa concurrente de Dubaï, Emirates, qui souhaite au contraire renforcer sa présence en Allemagne."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Etihad reduziert ab Januar 2027 Angebot nach Deutschland",
+        "url": "https://www.airliners.de/etihad-reduziert-januar-2027-angebot-deutschland/91476",
+        "date": "2026-11-12T07:47:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
     "created": "2026-11-12T08:01:17Z",
     "updated": "2026-11-12T08:01:17Z",

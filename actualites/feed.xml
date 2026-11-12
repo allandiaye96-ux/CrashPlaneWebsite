@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 08:10:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 08:20:49 +0000</lastBuildDate>
+  <item>
+    <title>Etihad réduit son offre vers l&#x27;Allemagne à partir de janvier 2027</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65/</guid>
+    <pubDate>Thu, 12 Nov 2026 08:20:49 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, Etihad Airways va réduire à partir de janvier 2027 son offre sur de nombreuses lignes au départ d&#x27;Abu Dhabi, notamment vers Francfort et Düsseldorf.</description>
+  </item>
   <item>
     <title>Air Baltic rend 18 Airbus A220-300 à des bailleurs dans le cadre de sa restructuration</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 09:01:35 +0000</pubDate>
     <category>Accident</category>
     <description>Les enquêteurs du NTSB ont retrouvé l&#x27;enregistreur phonique du Learjet 60 qui s&#x27;est écrasé en Floride, faisant neuf morts, selon aero.de. Simple Flying indique que l&#x27;enquête sur le site de l&#x27;accident est terminée.</description>
-  </item>
-  <item>
-    <title>Qantas confie à Accenture la modernisation de sa technologie, environ 850 postes du siège concernés</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9/</guid>
-    <pubDate>Tue, 10 Nov 2026 06:01:27 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Qantas Group a signé un partenariat stratégique pluriannuel avec Accenture pour moderniser ses systèmes informatiques et accélérer l&#x27;usage de l&#x27;intelligence artificielle, selon AviTrader. Environ 850 emplois du siège sont concernés, d&#x27;après Australian Aviation.</description>
   </item>
 </channel>
 </rss>

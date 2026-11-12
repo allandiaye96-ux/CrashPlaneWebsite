@@ -1503,7 +1503,8 @@
     "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html": "2026-11-12T07:30:46Z",
     "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html": "2026-11-12T08:00:58Z",
     "https://www.air-journal.fr/2026-11-12-magnifica-air-commande-dix-airbus-acj220-300-et-vise-une-flotte-de-17-appareils-5278805.html": "2026-11-12T08:00:58Z",
-    "https://www.aero.de/news-54155/OHB-baut-Umsatz-weiter-aus.html": "2026-11-12T08:10:36Z"
+    "https://www.aero.de/news-54155/OHB-baut-Umsatz-weiter-aus.html": "2026-11-12T08:10:36Z",
+    "https://www.airliners.de/etihad-reduziert-januar-2027-angebot-deutschland/91476": "2026-11-12T08:20:32Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5318,10 +5319,31 @@
       ],
       "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
       "written_count": 1
+    },
+    "cc027c9fe65": {
+      "id": "cc027c9fe65",
+      "label": "Etihad réduit son offre vers l'Allemagne 2027",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-12T08:20:47Z",
+      "updated": "2026-11-12T08:20:47Z",
+      "items": [
+        {
+          "id": "5dace2a4b961f2e0",
+          "feed": "airliners.de",
+          "title": "Etihad reduziert ab Januar 2027 Angebot nach Deutschland",
+          "url": "https://www.airliners.de/etihad-reduziert-januar-2027-angebot-deutschland/91476",
+          "domain": "airliners.de",
+          "summary": "Etihad Airways reduziert ab Januar 2027 ihr Angebot auf zahlreichen Strecken ab Abu Dhabi, darunter nach Frankfurt und Düsseldorf. Damit geht die Airline einen anderen Weg als ihre Konkurrentin aus Dubai, die in Deutschland eigentlich zulegen will.",
+          "published": "2026-11-12T07:47:00Z"
+        }
+      ],
+      "story_id": "2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.780322
+    "2026-11": 4.78148
   }
 }
