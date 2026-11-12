@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://airlinegeeks.com/2026/11/02/bermudair-completes-move-to-new-florida-airport/": "2026-11-02T15:50:32Z",
-    "https://www.aero.de/news-54070/Easyjet-nimmt-Fluege-nach-Nuernberg-auf.html": "2026-11-02T15:50:32Z",
     "https://simpleflying.com/frontier-airlines-phishing-scam/": "2026-11-02T16:01:04Z",
     "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result": "2026-11-02T16:01:04Z",
     "https://www.journal-aviation.com/actualites-defense-espace/industrie-de-defense/la-dga-livre-un-rafale-destine-aux-essais-du-futur-standard-f5-20261102.html": "2026-11-02T16:10:35Z",
@@ -1514,7 +1512,8 @@
     "https://www.air-journal.fr/2026-11-12-emirates-mise-sur-la-duree-et-rachete-six-airbus-a380-5278817.html": "2026-11-12T15:10:35Z",
     "https://airlinegeeks.com/2026/11/12/philippine-airlines-launches-new-u-s-route/": "2026-11-12T15:20:35Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/le-futur-airbus-a320neo-dair-greenland-porte-ses-couleurs-20261112.html": "2026-11-12T15:20:35Z",
-    "https://www.journal-aviation.com/actualites-mro-support/oman-air-et-gmf-aeroasia-lancent-une-coentreprise-de-maintenance-a-mascate-20261112.html": "2026-11-12T15:40:37Z"
+    "https://www.journal-aviation.com/actualites-mro-support/oman-air-et-gmf-aeroasia-lancent-une-coentreprise-de-maintenance-a-mascate-20261112.html": "2026-11-12T15:40:37Z",
+    "https://www.aerotime.aero/articles/bae-systems-cash-flow-outlook-gcap-missile-orders": "2026-11-12T15:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5216,6 +5215,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.816726
+    "2026-11": 4.817529
   }
 }
