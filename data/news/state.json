@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54053/Wie-die-EU-Kommission-den-CATA-Skandal-aussitzen-will.html": "2026-11-02T05:20:36Z",
     "https://simpleflying.com/airlines-offering-lifetime-elite-status-without-flying-million-miles/": "2026-11-02T06:01:00Z",
     "https://www.air-journal.fr/2026-11-02-vol-annule-ou-retarde-quelles-compagnies-indemnisent-le-plus-facilement-leurs-passagers-5278634.html": "2026-11-02T06:01:00Z",
     "https://www.airliners.de/vertrieb-marketing-discover-a350-ziele-air-uniqon-erweitert-netz-flughafenchef-saniert-airport-computerspiel/91219": "2026-11-02T06:20:36Z",
@@ -1496,7 +1495,9 @@
     "https://simpleflying.com/review-guam-international-airport/": "2026-11-12T02:01:00Z",
     "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence": "2026-11-12T02:40:35Z",
     "https://simpleflying.com/the-last-lockheed-tristar-still-airworthy/": "2026-11-12T02:50:33Z",
-    "https://www.airliners.de/british-airways-erweitert-europanetz-sommer-2027-ziele/91471": "2026-11-12T03:20:34Z"
+    "https://www.airliners.de/british-airways-erweitert-europanetz-sommer-2027-ziele/91471": "2026-11-12T03:20:34Z",
+    "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner": "2026-11-12T05:20:36Z",
+    "https://www.airliners.de/marabu-iata-sicherheitsaudit-iosa/91473": "2026-11-12T05:20:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5291,6 +5292,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.767855
+    "2026-11": 4.768666
   }
 }
