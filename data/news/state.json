@@ -1497,7 +1497,8 @@
     "https://simpleflying.com/the-last-lockheed-tristar-still-airworthy/": "2026-11-12T02:50:33Z",
     "https://www.airliners.de/british-airways-erweitert-europanetz-sommer-2027-ziele/91471": "2026-11-12T03:20:34Z",
     "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner": "2026-11-12T05:20:36Z",
-    "https://www.airliners.de/marabu-iata-sicherheitsaudit-iosa/91473": "2026-11-12T05:20:36Z"
+    "https://www.airliners.de/marabu-iata-sicherheitsaudit-iosa/91473": "2026-11-12T05:20:36Z",
+    "https://www.aero.de/news-54120/Harte-Verhandlungen-zwischen-Fraport-und-Lufthansa.html": "2026-11-12T05:30:50Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2123,27 +2124,6 @@
       ],
       "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
       "written_count": 4
-    },
-    "ca173e9d083": {
-      "id": "ca173e9d083",
-      "label": "Lufthansa résultats T3 deuxième trimestre 2026 kérosène",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-05T05:20:49Z",
-      "updated": "2026-11-05T05:20:49Z",
-      "items": [
-        {
-          "id": "f20f1bc49badd1a0",
-          "feed": "aero.de",
-          "title": "\"Da ist keine Schwäche zu erkennen\"",
-          "url": "https://www.aero.de/news-54088/Wie-kurzfristige-Buchungen-Lufthansa-helfen.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Lufthansa hat im Sommerquartal 2026 weniger Fluggäste als im Vorjahr befördert - und liefert gleichwohl einen Rekordumsatz ab. Der Konzern hat Instrumente gegen die rekordhohen Kerosinpreise gefunden - zahlungswillige Kunden und geschickte Netzsteuerung halten Lufthansa in der Spur.",
-          "published": "2026-11-05T05:18:10Z"
-        }
-      ],
-      "story_id": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083",
-      "written_count": 1
     },
     "c1cf5019c1a": {
       "id": "c1cf5019c1a",
@@ -5288,10 +5268,31 @@
       ],
       "story_id": "2026-11-11-la-faa-etend-a-l-ensemble-de-ses-22-centres-en-route-son-out-0b1d",
       "written_count": 1
+    },
+    "c765c1154ac": {
+      "id": "c765c1154ac",
+      "label": "Fraport Lufthansa négociations bodenabfertigung",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-12T05:31:03Z",
+      "updated": "2026-11-12T05:31:03Z",
+      "items": [
+        {
+          "id": "26685695342d82ee",
+          "feed": "aero.de",
+          "title": "Harte Verhandlungen zwischen Fraport und Lufthansa",
+          "url": "https://www.aero.de/news-54120/Harte-Verhandlungen-zwischen-Fraport-und-Lufthansa.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Die Bodenabfertigung von Lufthansa-Flügen in Frankfurt ist für Fraport ein herbes Verlustgeschäft. Flughafenbetreiber und Hauptkunde verhandeln seit Monaten intensiv über neue Konditionen ab 2027. Laut Fraport-Chef Stefan Schulte gehen die Gespräche \"in die richtige Richtung\".",
+          "published": "2026-11-12T05:22:49Z"
+        }
+      ],
+      "story_id": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.768666
+    "2026-11": 4.769859
   }
 }

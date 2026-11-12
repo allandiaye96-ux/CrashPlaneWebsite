@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T05:20:36Z",
+  "run": "2026-11-12T05:30:50Z",
   "stats": {
     "fetched": 682,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7687,
+  "spend_month_usd": 4.7699,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -418,12 +418,6 @@
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
     },
     {
-      "dossier": "Lufthansa résultats T3 deuxième trimestre 2026 kérosène",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-lufthansa-moins-de-passagers-au-troisieme-trimestre-2026-mai-d083"
-    },
-    {
       "dossier": "AutoFlight vol en formation de 5 eVTOL",
       "statut": "source_unique",
       "editeurs": 1,
@@ -752,6 +746,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-11-la-faa-etend-a-l-ensemble-de-ses-22-centres-en-route-son-out-0b1d"
+    },
+    {
+      "dossier": "Fraport Lufthansa négociations bodenabfertigung",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

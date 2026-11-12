@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac",
+    "created": "2026-11-12T05:31:05Z",
+    "updated": "2026-11-12T05:31:05Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Fraport et Lufthansa négocient les conditions de l'assistance au sol à Francfort à partir de 2027",
+    "chapo": "Selon aero.de, l'exploitant de l'aéroport de Francfort et son principal client, Lufthansa, discutent depuis plusieurs mois de nouvelles conditions applicables à partir de 2027.",
+    "paragraphes": [
+      "D'après le même média, la prise en charge au sol des vols Lufthansa à Francfort représente une activité déficitaire pour Fraport. Les deux parties négocient de manière soutenue depuis plusieurs mois.",
+      "Le directeur général de Fraport, Stefan Schulte, juge que les discussions vont dans la bonne direction. Aucun accord n'est mentionné à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Harte Verhandlungen zwischen Fraport und Lufthansa",
+        "url": "https://www.aero.de/news-54120/Harte-Verhandlungen-zwischen-Fraport-und-Lufthansa.html",
+        "date": "2026-11-12T05:22:49Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-la-faa-etend-a-l-ensemble-de-ses-22-centres-en-route-son-out-0b1d",
     "created": "2026-11-11T22:01:16Z",
     "updated": "2026-11-11T22:01:16Z",
