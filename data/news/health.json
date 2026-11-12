@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T11:30:46Z",
+  "run": "2026-11-12T11:40:34Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7955,
+  "spend_month_usd": 4.7975,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -190,6 +190,12 @@
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
     },
     {
+      "dossier": "Embraer relève prévisions 2026 après record trimestriel",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
+    },
+    {
       "dossier": "Emirates résultats S1 2026",
       "statut": "corrobore",
       "editeurs": 3,
@@ -230,12 +236,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a"
-    },
-    {
-      "dossier": "Embraer relève prévisions 2026 après record trimestriel",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
     },
     {
       "dossier": "Cathay commande 14 Airbus supplémentaires",

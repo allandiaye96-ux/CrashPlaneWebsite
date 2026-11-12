@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
+    "created": "2026-11-10T13:20:54Z",
+    "updated": "2026-11-12T11:41:14Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Embraer relève ses prévisions 2026 après un troisième trimestre record",
+    "chapo": "Selon AeroTime, Embraer a relevé ses objectifs de chiffre d'affaires et de flux de trésorerie disponible pour 2026 après un troisième trimestre historique. Le constructeur brésilien maintient en revanche ses cibles de livraisons.",
+    "paragraphes": [
+      "D'après AviTrader, le groupe brésilien a enregistré un chiffre d'affaires trimestriel record de 2,3 milliards de dollars américains, en hausse de 17 % sur un an, toutes les unités commerciales ayant contribué davantage. Son EBIT ajusté atteint 254,8 millions de dollars, soit une marge de 10,9 %, contre 8,6 % à la même période de l'année précédente.",
+      "Le flux de trésorerie disponible ajusté, hors Eve, s'établit à 627,7 millions de dollars selon la même source. Le Journal de l'Aviation souligne par ailleurs que le carnet de commandes a atteint lui aussi un niveau record."
+    ],
+    "contradictions": "Les sources donnent deux montants différents pour le chiffre d'affaires du troisième trimestre : 2,35 milliards de dollars selon AeroTime, 2,3 milliards de dollars selon AviTrader.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
+        "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
+        "date": "2026-11-10T13:15:30Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Après un 3e trimestre record, Embraer relève ses prévisions",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html",
+        "date": "2026-11-10T13:52:02Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Embraer raises 2026 outlook after record third-quarter revenue",
+        "url": "https://www.aerotime.aero/articles/embraer-raises-2026-outlook-record-q3-revenue",
+        "date": "2026-11-11T13:56:37Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Embraer raises guidance after record US$2.3bn quarter",
+        "url": "https://avitrader.com/2026/11/12/embraer-raises-guidance-after-record-us2-3bn-quarter/",
+        "date": "2026-11-12T11:35:25Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
     "created": "2026-11-12T07:01:17Z",
     "updated": "2026-11-12T10:20:47Z",
@@ -892,52 +945,6 @@
         "title": "Magnifica Air confirms order for 10 A220 ACJ jets",
         "url": "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets",
         "date": "2026-11-11T13:53:53Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
-    "created": "2026-11-10T13:20:54Z",
-    "updated": "2026-11-11T14:20:55Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "Embraer relève ses prévisions 2026 de chiffre d'affaires et de cash-flow après un troisième trimestre record",
-    "chapo": "Après un troisième trimestre record, Embraer rehausse ses objectifs de chiffre d'affaires et de flux de trésorerie pour 2026, selon airliners.de et AeroTime. Les objectifs de livraisons restent inchangés.",
-    "paragraphes": [
-      "D'après AeroTime, le constructeur brésilien a enregistré un chiffre d'affaires de 2,35 milliards de dollars au troisième trimestre, un niveau record. Il a relevé en conséquence ses prévisions de chiffre d'affaires et de free cash flow pour 2026.",
-      "Le Journal de l'Aviation indique qu'Embraer avait auparavant annoncé un nombre record de livraisons sur le trimestre, ainsi qu'un carnet de commandes à un niveau record. Selon airliners.de, l'avionneur maintient en revanche ses objectifs de livraisons pour l'année."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "airliners.de",
-        "title": "Nach Rekordquartal: Embraer hebt Jahresprognose an",
-        "url": "https://www.airliners.de/rekordquartal-embraer-hebt-jahresprognose/91426",
-        "date": "2026-11-10T13:15:30Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "Après un 3e trimestre record, Embraer relève ses prévisions",
-        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/apres-un-3e-trimestre-record-embraer-releve-ses-previsions-20261110.html",
-        "date": "2026-11-10T13:52:02Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Embraer raises 2026 outlook after record third-quarter revenue",
-        "url": "https://www.aerotime.aero/articles/embraer-raises-2026-outlook-record-q3-revenue",
-        "date": "2026-11-11T13:56:37Z",
         "official": false
       }
     ]

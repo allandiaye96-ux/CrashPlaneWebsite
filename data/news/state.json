@@ -1514,7 +1514,10 @@
     "https://www.air-journal.fr/2026-11-12-prix-confort-temps-de-trajet-comment-le-voyageur-daffaires-choisit-son-vol-5278811.html": "2026-11-12T11:10:35Z",
     "https://avitrader.com/2026/11/12/itochu-completes-investment-in-acg/": "2026-11-12T11:20:34Z",
     "https://www.aero.de/news-54158/Ukrainischer-Drohnenhersteller-wirbt-Millionen-ein.html": "2026-11-12T11:20:34Z",
-    "https://www.airliners.de/video/airlinersde-spieleabend-4-pilotentraum-flughafenchef-ueber-air-berlin-koelnbonn-91492": "2026-11-12T11:20:34Z"
+    "https://www.airliners.de/video/airlinersde-spieleabend-4-pilotentraum-flughafenchef-ueber-air-berlin-koelnbonn-91492": "2026-11-12T11:20:34Z",
+    "https://www.aerotime.aero/articles/us-military-autonomous-cessna-caravan-casevac-morocco": "2026-11-12T11:40:34Z",
+    "https://avitrader.com/2026/11/12/embraer-raises-guidance-after-record-us2-3bn-quarter/": "2026-11-12T11:40:34Z",
+    "https://www.aero.de/news-54160/Hohes-Privatjet-Aufkommen-vor-Klimagipfel.html": "2026-11-12T11:40:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4229,7 +4232,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T13:20:51Z",
-      "updated": "2026-11-11T14:20:52Z",
+      "updated": "2026-11-12T11:41:09Z",
       "items": [
         {
           "id": "e0529ea12b5d16b1",
@@ -4257,10 +4260,19 @@
           "domain": "aerotime.aero",
           "summary": "Embraer has raised its 2026 revenue and free cash flow guidance after posting third-quarter revenue of $2.35 billion,… The post Embraer raises 2026 outlook after record third-quarter revenue appeared first on AeroTime .",
           "published": "2026-11-11T13:56:37Z"
+        },
+        {
+          "id": "48f06826baa2428b",
+          "feed": "AviTrader",
+          "title": "Embraer raises guidance after record US$2.3bn quarter",
+          "url": "https://avitrader.com/2026/11/12/embraer-raises-guidance-after-record-us2-3bn-quarter/",
+          "domain": "avitrader.com",
+          "summary": "Brazilian aircraft manufacturer Embraer reported record third-quarter revenue of US$2.3 billion, up 17% year on year, with all business units delivering higher contributions. Adjusted earnings before interest and tax (EBIT) reached US$254.8 million, representing a margin of 10.9%, compared with 8.6% in the same period last year. Adjusted free cash flow, excluding Eve, totalled US$627.7 […] The post Embraer raises guidance after record US$2.3bn quarter appeared first on AviTrader Aviation News .",
+          "published": "2026-11-12T11:35:25Z"
         }
       ],
       "story_id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
-      "written_count": 3
+      "written_count": 4
     },
     "cb1cac6cf6d": {
       "id": "cb1cac6cf6d",
@@ -5246,6 +5258,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.795522
+    "2026-11": 4.797479
   }
 }
