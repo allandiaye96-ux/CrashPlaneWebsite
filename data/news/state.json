@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-v22-osprey-conversion-speed-is-limited/": "2026-11-02T02:50:32Z",
     "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner": "2026-11-02T05:01:00Z",
     "https://www.aero.de/news-54053/Wie-die-EU-Kommission-den-CATA-Skandal-aussitzen-will.html": "2026-11-02T05:20:36Z",
     "https://simpleflying.com/airlines-offering-lifetime-elite-status-without-flying-million-miles/": "2026-11-02T06:01:00Z",
@@ -1496,7 +1495,8 @@
     "https://simpleflying.com/5-notable-airports-night-flight-curfews-shape-airline-schedules/": "2026-11-12T00:01:03Z",
     "https://simpleflying.com/how-much-qantas-business-class-cost-perth-london-boeing-787-9/": "2026-11-12T01:00:55Z",
     "https://simpleflying.com/review-guam-international-airport/": "2026-11-12T02:01:00Z",
-    "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence": "2026-11-12T02:40:35Z"
+    "https://www.aerotime.aero/articles/florida-learjet-crash-nine-killed-icing-turbulence": "2026-11-12T02:40:35Z",
+    "https://simpleflying.com/the-last-lockheed-tristar-still-airworthy/": "2026-11-12T02:50:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5291,6 +5291,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.766254
+    "2026-11": 4.767041
   }
 }
