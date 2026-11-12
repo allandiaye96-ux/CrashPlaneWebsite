@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-02-a-hong-kong-delta-defie-cathay-pacific-sur-le-terrain-du-haut-de-gamme-5278635.html": "2026-11-02T07:01:02Z",
     "https://www.airliners.de/swedavia-stellt-airline-entgelte-gewaehrt-rabatte/91228": "2026-11-02T07:20:34Z",
     "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html": "2026-11-02T08:00:59Z",
     "https://www.air-journal.fr/2026-11-02-lufthansa-un-membre-dequipage-meurt-dans-une-piscine-dhotel-en-inde-5278636.html": "2026-11-02T08:00:59Z",
@@ -1963,54 +1962,6 @@
       ],
       "story_id": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd",
       "written_count": 2
-    },
-    "c6e1fa7b766": {
-      "id": "c6e1fa7b766",
-      "label": "IndiGo commande jets régionaux Embraer",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-04T11:50:52Z",
-      "updated": "2026-11-05T07:01:14Z",
-      "items": [
-        {
-          "id": "b2eeb92af4c1281b",
-          "feed": "AeroTime",
-          "title": "IndiGo explores large regional jet order with Embraer: Reuters",
-          "url": "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters",
-          "domain": "aerotime.aero",
-          "summary": "India’s largest airline IndiGo is in talks with Embraer over a potential order for 100 regional jets with… The post IndiGo explores large regional jet order with Embraer: Reuters appeared first on AeroTime .",
-          "published": "2026-11-04T11:39:14Z"
-        },
-        {
-          "id": "0179ba9a5e224f2c",
-          "feed": "Le Journal de l'Aviation",
-          "title": "IndiGo discuterait d’une potentielle commande d’Embraer",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/indigo-discuterait-dune-potentielle-commande-dembraer-20261104.html",
-          "domain": "journal-aviation.com",
-          "summary": "Selon les informations de l’agence Reuters, IndiGo serait en discussion préliminaire avec Embraer et envisagerait d’acquérir une centaine d’E-Jets. A ces appareils pourraient s’ajouter cinquante options. De telles discussions avaient […] L’article IndiGo discuterait d’une potentielle commande d’Embraer a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-04T14:53:05Z"
-        },
-        {
-          "id": "03f5f6a7743ef2b9",
-          "feed": "airliners.de",
-          "title": "Indigo verhandelt über Kauf von 100 Embraer-Jets",
-          "url": "https://www.airliners.de/indigo-verhandelt-kauf-100-embraer-jets/91321",
-          "domain": "airliners.de",
-          "summary": "Die größte Fluggesellschaft Indiens spricht mit Embraer über einen der größten Aufträge in der Geschichte des brasilianischen Herstellers. Welches Flugzeugmuster es werden soll, ist allerdings noch offen.",
-          "published": "2026-11-04T14:57:02Z"
-        },
-        {
-          "id": "db726d37b665243f",
-          "feed": "Air Journal",
-          "title": "IndiGo lorgne jusqu’à 150 Embraer pour muscler son réseau régional",
-          "url": "https://www.air-journal.fr/2026-11-05-indigo-lorgne-jusqua-150-embraer-pour-muscler-son-reseau-regional-5278678.html",
-          "domain": "air-journal.fr",
-          "summary": "La première compagnie aérienne indienne discute avec Embraer d’une acquisition de 100 avions régionaux, assortie d’options sur une cinquantaine d’appareils supplémentaires, selon Reuters. Encore préliminaires, ces échanges pourraient ouvrir un nouveau chapitre dans le développement de son réseau intérieur, aujourd’hui assuré principalement en Airbus et en ATR. Une commande potentielle, sans modèle arrêté IndiGo pourrait offrir […]",
-          "published": "2026-11-05T07:00:15Z"
-        }
-      ],
-      "story_id": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766",
-      "written_count": 4
     },
     "c1504d3ead7": {
       "id": "c1504d3ead7",

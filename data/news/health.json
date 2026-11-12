@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-12T07:00:58Z",
+  "run": "2026-11-12T07:10:36Z",
   "stats": {
     "fetched": 682,
-    "new": 2,
-    "written": 2,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -164,12 +164,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
-    },
-    {
-      "dossier": "IndiGo commande jets régionaux Embraer",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-04-indigo-en-discussion-avec-embraer-pour-une-possible-commande-b766"
     },
     {
       "dossier": "NASA annonce avion expérimental X-70 Fractal",
