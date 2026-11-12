@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T07:20:36Z",
+  "run": "2026-11-12T07:30:46Z",
   "stats": {
     "fetched": 682,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7771,
+  "spend_month_usd": 4.7783,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -758,6 +758,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc"
+    },
+    {
+      "dossier": "Air Explore arrêt AOC Avia Solutions",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

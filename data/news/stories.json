@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
+    "created": "2026-11-12T07:31:05Z",
+    "updated": "2026-11-12T07:31:05Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Explore renonce à son certificat de transporteur aérien et cesse son activité",
+    "chapo": "Selon aero.de, la compagnie slovaque Air Explore a abandonné son certificat AOC et mis fin à son exploitation aérienne. Ce changement annule une fusion prévue avec sa compagnie sœur Klasjet.",
+    "paragraphes": [
+      "Air Explore est une compagnie ACMI basée à Bratislava et rattachée au groupe Avia Solutions Group, d'après le même éditeur. Elle a restitué sa licence d'exploitation, ce qui signifie l'arrêt définitif de ses vols.",
+      "La fusion envisagée avec Klasjet, autre filiale de la même famille de sociétés, n'aura donc pas lieu."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air Explore gibt ihre Betriebslizenz zurück",
+        "url": "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html",
+        "date": "2026-11-12T07:22:30Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
     "created": "2026-11-12T07:01:17Z",
     "updated": "2026-11-12T07:01:17Z",

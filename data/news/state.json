@@ -1501,7 +1501,8 @@
     "https://www.airliners.de/auslaendische-gaeste-sorgen-september-uebernachtungen/91464": "2026-11-12T06:20:35Z",
     "https://simpleflying.com/united-airlines-bans-ai-agents-booking-flights-check-in/": "2026-11-12T07:00:58Z",
     "https://www.air-journal.fr/2026-11-12-easyjet-les-actionnaires-disent-oui-a-apollo-leurope-reste-a-convaincre-5278810.html": "2026-11-12T07:00:58Z",
-    "https://www.airliners.de/flughafen-nuernberg-verlaengert-partnerschaft-1-fc-nuernberg/91472": "2026-11-12T07:20:36Z"
+    "https://www.airliners.de/flughafen-nuernberg-verlaengert-partnerschaft-1-fc-nuernberg/91472": "2026-11-12T07:20:36Z",
+    "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html": "2026-11-12T07:30:46Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5274,10 +5275,31 @@
       ],
       "story_id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
       "written_count": 1
+    },
+    "cf74760ce9c": {
+      "id": "cf74760ce9c",
+      "label": "Air Explore arrêt AOC Avia Solutions",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-12T07:31:02Z",
+      "updated": "2026-11-12T07:31:02Z",
+      "items": [
+        {
+          "id": "0e3f7974009890e7",
+          "feed": "aero.de",
+          "title": "Air Explore gibt ihre Betriebslizenz zurück",
+          "url": "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html",
+          "domain": "aero.de",
+          "summary": "BRATISLAVA - Air Explore meldet ihr AOC ab - die slowakische ACMI-Airline aus der Avia Solutions Group hat den Flugbetrieb eingestellt. Eine geplante Fusion mit der Schwesterairline Klasjet ist damit hinfällig.",
+          "published": "2026-11-12T07:22:30Z"
+        }
+      ],
+      "story_id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.777121
+    "2026-11": 4.778305
   }
 }
