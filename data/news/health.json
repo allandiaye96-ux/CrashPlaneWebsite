@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T06:50:34Z",
+  "run": "2026-11-12T07:00:58Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7742,
+  "spend_month_usd": 4.7763,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -190,6 +190,12 @@
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
     },
     {
+      "dossier": "Apollo rachat easyJet vote actionnaires",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
+    },
+    {
       "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
       "statut": "corrobore",
       "editeurs": 3,
@@ -248,12 +254,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
-    },
-    {
-      "dossier": "Apollo rachat easyJet vote actionnaires",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
     },
     {
       "dossier": "Air India commande gros-porteurs supplémentaire",
@@ -758,6 +758,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
+    },
+    {
+      "dossier": "United interdit les agents IA pour réservations",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

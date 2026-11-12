@@ -1500,7 +1500,9 @@
     "https://simpleflying.com/why-modern-airliners-have-single-engine-suppliers/": "2026-11-12T06:01:00Z",
     "https://www.air-journal.fr/2026-11-12-syrian-airlines-se-pose-a-berlin-nouvelle-etape-du-retour-des-vols-vers-la-syrie-5278802.html": "2026-11-12T06:10:35Z",
     "https://www.airliners.de/netz-strecken-hamburg-schweigt-asien-zielen-helvetic-swiss-aegean-indien-start/91477": "2026-11-12T06:20:35Z",
-    "https://www.airliners.de/auslaendische-gaeste-sorgen-september-uebernachtungen/91464": "2026-11-12T06:20:35Z"
+    "https://www.airliners.de/auslaendische-gaeste-sorgen-september-uebernachtungen/91464": "2026-11-12T06:20:35Z",
+    "https://simpleflying.com/united-airlines-bans-ai-agents-booking-flights-check-in/": "2026-11-12T07:00:58Z",
+    "https://www.air-journal.fr/2026-11-12-easyjet-les-actionnaires-disent-oui-a-apollo-leurope-reste-a-convaincre-5278810.html": "2026-11-12T07:00:58Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5082,7 +5084,7 @@
       "categorie": "Compagnies",
       "importance": 3,
       "created": "2026-11-11T14:20:52Z",
-      "updated": "2026-11-11T21:40:47Z",
+      "updated": "2026-11-12T07:01:09Z",
       "items": [
         {
           "id": "6e189edcdfa80c62",
@@ -5110,10 +5112,19 @@
           "domain": "aerotime.aero",
           "summary": "easyJet shareholders approved Apollo’s proposed £5.7 billion ($7.6 billion) takeover on November 11, 2026. The UK low-cost carrier… The post easyJet shareholders approve Apollo’s £5.7 billion takeover bid appeared first on AeroTime .",
           "published": "2026-11-11T21:18:22Z"
+        },
+        {
+          "id": "b8bddfdd1d3bfd44",
+          "feed": "Air Journal",
+          "title": "EasyJet : les actionnaires disent oui à Apollo, l’Europe reste à convaincre",
+          "url": "https://www.air-journal.fr/2026-11-12-easyjet-les-actionnaires-disent-oui-a-apollo-leurope-reste-a-convaincre-5278810.html",
+          "domain": "air-journal.fr",
+          "summary": "Les actionnaires d’easyJet ont approuvé, mercredi 11 novembre, le rachat de la compagnie britannique par le fonds d’investissement américain Apollo pour 5,7 milliards de livres sterling. L’opération, qui pourrait entraîner son retrait de la Bourse de Londres au premier trimestre 2027, doit encore franchir un obstacle majeur : démontrer que les activités aériennes européennes du […]",
+          "published": "2026-11-12T07:00:21Z"
         }
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-      "written_count": 3
+      "written_count": 4
     },
     "c26b775d3a4": {
       "id": "c26b775d3a4",
@@ -5291,10 +5302,31 @@
       ],
       "story_id": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764",
       "written_count": 1
+    },
+    "ca8a95cf5dc": {
+      "id": "ca8a95cf5dc",
+      "label": "United interdit les agents IA pour réservations",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-12T07:01:09Z",
+      "updated": "2026-11-12T07:01:09Z",
+      "items": [
+        {
+          "id": "5f2229d7844537a5",
+          "feed": "Simple Flying",
+          "title": "United Airlines Officially Bans AI Agents From Booking Your Flights And Checking You In",
+          "url": "https://simpleflying.com/united-airlines-bans-ai-agents-booking-flights-check-in/",
+          "domain": "simpleflying.com",
+          "summary": "United’s new contract of carriage lets it cancel any reservation made or changed by an AI agent",
+          "published": "2026-11-12T07:00:12Z"
+        }
+      ],
+      "story_id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.774221
+    "2026-11": 4.776325
   }
 }

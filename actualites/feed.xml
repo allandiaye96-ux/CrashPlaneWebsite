@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 06:50:43 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 07:01:18 +0000</lastBuildDate>
+  <item>
+    <title>United Airlines interdit aux agents IA de réserver des vols et d&#x27;enregistrer les passagers</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc/</guid>
+    <pubDate>Thu, 12 Nov 2026 07:01:17 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, le nouveau contrat de transport de United Airlines permettrait à la compagnie d&#x27;annuler toute réservation effectuée ou modifiée par un agent d&#x27;intelligence artificielle.</description>
+  </item>
   <item>
     <title>Fly4 Airlines : le tribunal de Dublin nomme des administrateurs provisoires</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764/</link>
@@ -64,12 +72,12 @@
     <description>Etihad Airways retirerait l&#x27;Airbus A380 de l&#x27;ensemble de ses liaisons vers l&#x27;Amérique du Nord, d&#x27;après Simple Flying. Le site spécialisé évoque aussi une autre route qui ne verra plus l&#x27;appareil.</description>
   </item>
   <item>
-    <title>easyJet : les actionnaires approuvent le rachat par Apollo pour 5,7 milliards de livres</title>
+    <title>easyJet : les actionnaires approuvent le rachat par le fonds Apollo</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</guid>
     <pubDate>Wed, 11 Nov 2026 14:21:01 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon AeroTime, les actionnaires d&#x27;easyJet ont approuvé le 11 novembre 2026 l&#x27;offre de rachat d&#x27;Apollo, valorisée 5,7 milliards de livres (7,6 milliards de dollars). L&#x27;opération doit mener au retrait de la compagnie de la Bourse.</description>
+    <description>Selon AeroTime, les actionnaires d&#x27;easyJet ont validé le 11 novembre 2026 le projet de reprise de la compagnie à bas coûts britannique par Apollo. L&#x27;opération doit encore franchir un obstacle important en Europe.</description>
   </item>
   <item>
     <title>Alaska Airlines prépare un vol Anchorage–Tokyo Narita en Boeing 737 MAX 8 dès le 13 mai 2027</title>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 19:50:52 +0000</pubDate>
     <category>Compagnies</category>
     <description>United Airlines ajoute neuf nouvelles liaisons à son programme au départ de San Francisco (SFO), selon Simple Flying. Le dispositif renforce la présence de la compagnie sur le Pacifique et vers la côte Est.</description>
-  </item>
-  <item>
-    <title>Air France reçoit son 60e Airbus A220, dernier de sa commande initiale ; les A318 restent en service jusqu&#x27;en mars</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93/</guid>
-    <pubDate>Mon, 09 Nov 2026 18:01:30 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AirlineGeeks, Air France a pris livraison de son 60e A220, ce qui achève la commande d&#x27;origine de la compagnie pour ce type d&#x27;appareil.</description>
   </item>
 </channel>
 </rss>
