@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
+    "created": "2026-11-11T12:10:58Z",
+    "updated": "2026-11-12T15:10:53Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Emirates devient propriétaire de six Airbus A380 loués, auprès de Lesha Bank",
+    "chapo": "Selon AviTrader, la banque Lesha agit pour le compte du Lesha Aviation Fund et cède six A380 à Emirates, premier exploitant du type. D'après Air Journal, l'opération a été annoncée le 10 novembre 2026.",
+    "paragraphes": [
+      "Deux appareils ont déjà été transférés à la compagnie émiratie, qui les exploitait jusqu'ici dans le cadre de contrats de location. Les quatre autres doivent changer de propriétaire par étapes, jusqu'en avril 2028, à mesure que ces baux arrivent à échéance.",
+      "AeroTime indique de son côté qu'Emirates prendra la propriété des six A380-800 actuellement intégrés à sa flotte. Selon AviTrader, cette transaction doit permettre à la compagnie de sécuriser l'exploitation de ces appareils."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Lesha Bank sells six A380s to Emirates",
+        "url": "https://avitrader.com/2026/11/11/lesha-bank-sells-six-a380s-to-emirates/",
+        "date": "2026-11-11T12:06:19Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Emirates strikes deal to take ownership of six Airbus A380 aircraft",
+        "url": "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank",
+        "date": "2026-11-12T09:42:37Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Emirates mise sur la durée et rachète six Airbus A380",
+        "url": "https://www.air-journal.fr/2026-11-12-emirates-mise-sur-la-duree-et-rachete-six-airbus-a380-5278817.html",
+        "date": "2026-11-12T15:00:53Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
     "created": "2026-11-11T14:21:01Z",
     "updated": "2026-11-12T14:40:58Z",
@@ -526,45 +572,6 @@
         "url": "https://www.gov.uk/aaib-reports/aaib-investigation-to-leonardo-aw169-g-hhem",
         "date": "2026-11-12T10:01:46Z",
         "official": true
-      }
-    ]
-  },
-  {
-    "id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
-    "created": "2026-11-11T12:10:58Z",
-    "updated": "2026-11-12T10:01:13Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Emirates va acquérir six Airbus A380 auprès de Lesha Bank",
-    "chapo": "Selon AviTrader, Lesha Bank, agissant pour le compte du Lesha Aviation Fund, a accepté de céder six Airbus A380 à Emirates. D'après AeroTime, la compagnie en prendra la propriété, ces appareils étant actuellement exploités dans sa flotte.",
-    "paragraphes": [
-      "Deux appareils ont déjà été livrés. Les quatre autres doivent être transférés par étapes jusqu'en avril 2028, à mesure que leurs contrats de location actuels arrivent à échéance.",
-      "L'accord doit permettre à Emirates, premier exploitant mondial de l'A380 selon AviTrader, de sécuriser la suite de sa flotte de ce type."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "Lesha Bank sells six A380s to Emirates",
-        "url": "https://avitrader.com/2026/11/11/lesha-bank-sells-six-a380s-to-emirates/",
-        "date": "2026-11-11T12:06:19Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Emirates strikes deal to take ownership of six Airbus A380 aircraft",
-        "url": "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank",
-        "date": "2026-11-12T09:42:37Z",
-        "official": false
       }
     ]
   },

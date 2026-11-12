@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/emirates-airbus-a380s-finally-return-to-17-hour-route/": "2026-11-02T15:01:11Z",
-    "https://airlinegeeks.com/2026/11/02/american-resumes-service-to-haiti-after-two-year-pause/": "2026-11-02T15:01:11Z",
-    "https://www.air-journal.fr/2026-11-02-un-premier-boeing-787-9-pour-pakistan-international-airlines-avec-norse-aux-commandes-5278647.html": "2026-11-02T15:01:11Z",
-    "https://theaviationist.com/2026/11/02/greece-orders-kc390-millennium/": "2026-11-02T15:10:34Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/belavia-washington-autorise-boeing-a-reprendre-sa-cooperation-directe-avec-la-compagnie-bielorusse-20261102.html": "2026-11-02T15:10:34Z",
     "https://www.airliners.de/flughafen-stuttgart-uebernimmt-steuerung-luftsicherheitskontrollen/91245": "2026-11-02T15:20:37Z",
     "https://www.aero.de/news-54068/Mehr-los-am-Hamburger-Flughafen.html": "2026-11-02T15:30:53Z",
     "https://airlinegeeks.com/2026/11/02/bermudair-completes-move-to-new-florida-airport/": "2026-11-02T15:50:32Z",
@@ -1516,7 +1511,9 @@
     "https://leehamnews.com/2026/11/12/will-airbus-stretch-the-a350-part-3/": "2026-11-12T14:40:37Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/les-actionnaires-deasyjet-approuvent-loffre-de-rachat-de-57-milliards-de-livres-sterling-du-fonds-americain-apollo-20261112.html": "2026-11-12T14:40:37Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/les-livraisons-davions-commerciaux-de-boeing-en-baisse-consequente-en-octobre-20261112.html": "2026-11-12T14:40:37Z",
-    "https://www.aerotime.aero/articles/korean-air-returns-to-newark-with-daily-seoul-service-from-may-2027": "2026-11-12T14:50:35Z"
+    "https://www.aerotime.aero/articles/korean-air-returns-to-newark-with-daily-seoul-service-from-may-2027": "2026-11-12T14:50:35Z",
+    "https://simpleflying.com/delta-cancels-18-boeing-757-routes/": "2026-11-12T15:10:35Z",
+    "https://www.air-journal.fr/2026-11-12-emirates-mise-sur-la-duree-et-rachete-six-airbus-a380-5278817.html": "2026-11-12T15:10:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4633,7 +4630,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-11T12:10:52Z",
-      "updated": "2026-11-12T10:01:11Z",
+      "updated": "2026-11-12T15:10:49Z",
       "items": [
         {
           "id": "cccf7e78953bcc91",
@@ -4652,10 +4649,19 @@
           "domain": "aerotime.aero",
           "summary": "Emirates will take ownership of six Airbus A380-800 aircraft currently operated as part of its fleet under a… The post Emirates strikes deal to take ownership of six Airbus A380 aircraft appeared first on AeroTime .",
           "published": "2026-11-12T09:42:37Z"
+        },
+        {
+          "id": "6cd28b1c79a7304f",
+          "feed": "Air Journal",
+          "title": "Emirates mise sur la durée et rachète six Airbus A380",
+          "url": "https://www.air-journal.fr/2026-11-12-emirates-mise-sur-la-duree-et-rachete-six-airbus-a380-5278817.html",
+          "domain": "air-journal.fr",
+          "summary": "Emirates a conclu un accord pour devenir propriétaire de six Airbus A380 qu’elle exploite déjà en location. Annoncée le 10 novembre 2026 par la banque qatarienne Lesha Bank, l’opération est déjà réalisée pour deux appareils ; les quatre autres changeront de propriétaire progressivement, jusqu’en avril 2028. Six Airbus A380 rachetés à l’échéance de leurs contrats […]",
+          "published": "2026-11-12T15:00:53Z"
         }
       ],
       "story_id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
-      "written_count": 2
+      "written_count": 3
     },
     "ce706b09bd9": {
       "id": "ce706b09bd9",
@@ -5272,6 +5278,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.813374
+    "2026-11": 4.81509
   }
 }

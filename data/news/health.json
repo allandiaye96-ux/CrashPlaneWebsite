@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T15:01:01Z",
+  "run": "2026-11-12T15:10:35Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8134,
+  "spend_month_usd": 4.8151,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -256,6 +256,12 @@
       "breve": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f"
     },
     {
+      "dossier": "Lesha Bank vend six A380 à Emirates",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37"
+    },
+    {
       "dossier": "Magnifica Air commande dix ACJ220",
       "statut": "corrobore",
       "editeurs": 3,
@@ -380,12 +386,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e"
-    },
-    {
-      "dossier": "Lesha Bank vend six A380 à Emirates",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37"
     },
     {
       "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
