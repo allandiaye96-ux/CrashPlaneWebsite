@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 05:40:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 05:50:45 +0000</lastBuildDate>
+  <item>
+    <title>Fly4 Airlines : le tribunal de Dublin nomme des administrateurs provisoires</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764/</guid>
+    <pubDate>Thu, 12 Nov 2026 05:50:45 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, la compagnie irlandaise spécialisée dans le wet lease (ACMI) Fly4 Airlines doit disparaître du marché. Le High Court de Dublin a désigné des administrateurs provisoires.</description>
+  </item>
   <item>
     <title>Fraport et Lufthansa négocient les conditions de l&#x27;assistance au sol à Francfort à partir de 2027</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac/</link>
@@ -238,14 +246,6 @@
     <pubDate>Mon, 09 Nov 2026 18:01:30 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AirlineGeeks, Air France a pris livraison de son 60e A220, ce qui achève la commande d&#x27;origine de la compagnie pour ce type d&#x27;appareil.</description>
-  </item>
-  <item>
-    <title>airBaltic et Lufthansa revoient à la baisse leur accord de wet lease portant sur des A220-300</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e/</guid>
-    <pubDate>Mon, 09 Nov 2026 15:31:26 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, airBaltic a signé un nouvel accord de wet lease avec le groupe Lufthansa, en vue de réduire sa flotte d&#x27;Airbus A220-300. D&#x27;après aero.de, la relation entre les deux compagnies se poursuit mais à une échelle nettement moindre.</description>
   </item>
 </channel>
 </rss>

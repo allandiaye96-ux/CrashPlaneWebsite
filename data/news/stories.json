@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764",
+    "created": "2026-11-12T05:50:45Z",
+    "updated": "2026-11-12T05:50:45Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Fly4 Airlines : le tribunal de Dublin nomme des administrateurs provisoires",
+    "chapo": "Selon aero.de, la compagnie irlandaise spécialisée dans le wet lease (ACMI) Fly4 Airlines doit disparaître du marché. Le High Court de Dublin a désigné des administrateurs provisoires.",
+    "paragraphes": [
+      "D'après le même média, la décision du tribunal irlandais concerne une dissolution de la société, qui n'a pas encore été actée à ce stade par les sources disponibles."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Fly4 Airlines soll aufgelöst werden",
+        "url": "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html",
+        "date": "2026-11-12T05:44:22Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac",
     "created": "2026-11-12T05:31:05Z",
     "updated": "2026-11-12T05:31:05Z",

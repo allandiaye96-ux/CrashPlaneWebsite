@@ -1499,7 +1499,8 @@
     "https://www.aerotime.aero/articles/pakistan-international-airlines-receives-first-boeing-787-9-dreamliner": "2026-11-12T05:20:36Z",
     "https://www.airliners.de/marabu-iata-sicherheitsaudit-iosa/91473": "2026-11-12T05:20:36Z",
     "https://www.aero.de/news-54120/Harte-Verhandlungen-zwischen-Fraport-und-Lufthansa.html": "2026-11-12T05:30:50Z",
-    "https://www.aero.de/news-54151/Helsing-stellt-Palantir-Alternative-vor.html": "2026-11-12T05:40:37Z"
+    "https://www.aero.de/news-54151/Helsing-stellt-Palantir-Alternative-vor.html": "2026-11-12T05:40:37Z",
+    "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html": "2026-11-12T05:50:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5290,10 +5291,31 @@
       ],
       "story_id": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac",
       "written_count": 1
+    },
+    "c655319e764": {
+      "id": "c655319e764",
+      "label": "Fly4 Airlines dissolution High Court Dublin",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-12T05:50:43Z",
+      "updated": "2026-11-12T05:50:43Z",
+      "items": [
+        {
+          "id": "09863ccd9fccbbc3",
+          "feed": "aero.de",
+          "title": "Fly4 Airlines soll aufgelöst werden",
+          "url": "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html",
+          "domain": "aero.de",
+          "summary": "DUBLIN - Der irische ACMI-Spezialist Fly4 Airlines verschwindet vom Markt. Der zuständige High Court in Dublin hat vorläufige Verwalter bestellt.",
+          "published": "2026-11-12T05:44:22Z"
+        }
+      ],
+      "story_id": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.770649
+    "2026-11": 4.771789
   }
 }

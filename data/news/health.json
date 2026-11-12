@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T05:40:37Z",
+  "run": "2026-11-12T05:50:33Z",
   "stats": {
     "fetched": 682,
     "new": 1,
-    "written": 0,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7706,
+  "spend_month_usd": 4.7718,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -752,6 +752,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac"
+    },
+    {
+      "dossier": "Fly4 Airlines dissolution High Court Dublin",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
