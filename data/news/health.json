@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T19:50:37Z",
+  "run": "2026-11-12T20:00:57Z",
   "stats": {
     "fetched": 681,
-    "new": 0,
-    "written": 0,
+    "new": 5,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8277,
+  "spend_month_usd": 4.829,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -718,15 +718,15 @@
       "breve": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471"
     },
     {
+      "dossier": "Virgin Australia grève PNC vote",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-virgin-australia-le-personnel-de-cabine-vote-massivement-en-c044"
+    },
+    {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "GAO pièces détachées F-35 introuvables",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

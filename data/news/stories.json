@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-12-virgin-australia-le-personnel-de-cabine-vote-massivement-en-c044",
+    "created": "2026-11-12T20:01:14Z",
+    "updated": "2026-11-12T20:01:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Virgin Australia : le personnel de cabine vote massivement en faveur d'une action industrielle",
+    "chapo": "Selon Australian Aviation, les personnels de cabine de Virgin ont largement approuvé le principe d'une action industrielle lors d'un scrutin organisé par le Transport Workers' Union.",
+    "paragraphes": [
+      "D'après le même média, 98 % du personnel navigant commercial ayant voté se sont prononcés en faveur d'une action. Le scrutin avait été déposé par le syndicat le mois précédent.",
+      "Le personnel au sol prévoit également de organiser son propre vote dans les prochains jours. Ce mouvement intervient après que la compagnie a dû réduire fortement ses vols en raison d'un manque de personnel de cabine plus tôt dans l'année."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Virgin cabin crew vote for industrial action in landslide",
+        "url": "https://australianaviation.com.au/2026/11/virgin-cabin-crew-vote-for-industrial-action-in-landslide/",
+        "date": "2026-11-12T00:26:43Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9",
     "created": "2026-11-12T19:20:55Z",
     "updated": "2026-11-12T19:20:55Z",
