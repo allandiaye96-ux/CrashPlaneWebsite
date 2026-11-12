@@ -1507,7 +1507,8 @@
     "https://www.airliners.de/fly-4-airlines-vorlaeufige-liquidation/91483": "2026-11-12T09:20:38Z",
     "https://www.airliners.de/sun-phuquoc-airways-prueft-frankfurt-ziel-boeing-787-9/91484": "2026-11-12T09:20:38Z",
     "https://www.airliners.de/flughafen-zuerich-haelt-passagierzahlen-oktober-stabil/91480": "2026-11-12T09:20:38Z",
-    "https://www.airliners.de/emirates-bewirbt-meilensammeln-abseits-fliegens/91478": "2026-11-12T09:20:38Z"
+    "https://www.airliners.de/emirates-bewirbt-meilensammeln-abseits-fliegens/91478": "2026-11-12T09:20:38Z",
+    "https://www.aero.de/news-54157/Flugbereitschaft-wechselt-nicht-vor-2036-an-den-BER.html": "2026-11-12T09:50:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1969,45 +1970,6 @@
       "story_id": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd",
       "written_count": 2
     },
-    "c1504d3ead7": {
-      "id": "c1504d3ead7",
-      "label": "Alertes à la bombe vols Europe 3 novembre 2026",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-04T13:01:40Z",
-      "updated": "2026-11-05T09:40:58Z",
-      "items": [
-        {
-          "id": "2812e262ab995040",
-          "feed": "Air Journal",
-          "title": "Déroutements, avions de chasse, fouilles : des alertes à la bombe perturbent plusieurs vols en Europe",
-          "url": "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html",
-          "domain": "air-journal.fr",
-          "summary": "Au moins sept vols à destination de la Pologne, de la Bulgarie, de l’Italie et de l’Espagne ont été visés par des menaces à la bombe mardi 3 novembre 2026. Déroutement d’un appareil de LOT, fermeture temporaire de Varsovie-Modlin, escorte militaire en Italie : les alertes ont mobilisé les services de sûreté, sans qu’aucun explosif […]",
-          "published": "2026-11-04T13:00:09Z"
-        },
-        {
-          "id": "66118a5b4672e00c",
-          "feed": "airliners.de",
-          "title": "Serie von Bombendrohungen stört Flugverkehr in Europa",
-          "url": "https://www.airliners.de/serie-bombendrohungen-stoert-flugverkehr-europa/91318",
-          "domain": "airliners.de",
-          "summary": "Eine Serie von Bombendrohungen hat in den vergangenen Tagen Passagierflüge in ganz Europa gestört. Mehrere Flugzeuge mussten umgeleitet und durchsucht werden. Sprengstoff wurde bislang nicht gefunden.",
-          "published": "2026-11-05T04:13:00Z"
-        },
-        {
-          "id": "543c5db0280faf05",
-          "feed": "aero.de",
-          "title": "Erneut Bombendrohung gegen Linienflug",
-          "url": "https://www.aero.de/news-54098/Erneut-Bombendrohung-gegen-Linienflug.html",
-          "domain": "aero.de",
-          "summary": "PARIS - Erneut gibt es einen Hinweis auf eine mögliche Bombe an Bord eines Flugzeuges in Europa. Statt nach Italien geht es für die Maschine deshalb nach Frankreich.",
-          "published": "2026-11-05T09:31:07Z"
-        }
-      ],
-      "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7",
-      "written_count": 3
-    },
     "cbe879bf2ac": {
       "id": "cbe879bf2ac",
       "label": "US Navy UJTS concours entraîneur T-45 Beechcraft M-346N",
@@ -2190,48 +2152,6 @@
       ],
       "story_id": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4",
       "written_count": 3
-    },
-    "cca158d7d97": {
-      "id": "cca158d7d97",
-      "label": "AutoFlight vol en formation de 5 eVTOL",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T09:40:58Z",
-      "updated": "2026-11-05T09:40:58Z",
-      "items": [
-        {
-          "id": "1d7d27f13ef6eee8",
-          "feed": "AeroTime",
-          "title": "AutoFlight stages world’s first formation flight with 5 unmanned eVTOLs: video",
-          "url": "https://www.aerotime.aero/articles/autoflight-worlds-first-formation-flight-five-unmanned-evtols-video",
-          "domain": "aerotime.aero",
-          "summary": "China’s AutoFlight has staged the world’s first formation flight involving five autonomous electric vehicle takeoff and landing (eVTOL)… The post AutoFlight stages world’s first formation flight with 5 unmanned eVTOLs: video appeared first on AeroTime .",
-          "published": "2026-11-05T08:50:57Z"
-        }
-      ],
-      "story_id": "2026-11-05-autoflight-realise-un-vol-en-formation-avec-cinq-evtol-auton-7d97",
-      "written_count": 1
-    },
-    "cb76fc563f6": {
-      "id": "cb76fc563f6",
-      "label": "Eve commande FlyBIS eVTOL Brésil",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T09:40:58Z",
-      "updated": "2026-11-05T09:40:58Z",
-      "items": [
-        {
-          "id": "efe10ec785456579",
-          "feed": "AviTrader",
-          "title": "FlyBIS orders up to 12 Eve eVTOLs",
-          "url": "https://avitrader.com/2026/11/05/flybis-orders-up-to-12-eve-evtols/",
-          "domain": "avitrader.com",
-          "summary": "Eve Air Mobility has signed a binding agreement with Brazil’s FlyBIS Aviation for up to 12 electric vertical take-off and landing (eVTOL) aircraft, comprising two firm orders and purchase rights for a further ten. The agreement builds on a letter of intent signed by the companies in 2022 and advances their collaboration to establish electric […] The post FlyBIS orders up to 12 Eve eVTOLs appeared first on AviTrader Aviation News .",
-          "published": "2026-11-05T09:35:02Z"
-        }
-      ],
-      "story_id": "2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6",
-      "written_count": 1
     },
     "c92163e0b47": {
       "id": "c92163e0b47",
@@ -5293,6 +5213,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.784233
+    "2026-11": 4.785043
   }
 }

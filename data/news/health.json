@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T09:40:40Z",
+  "run": "2026-11-12T09:50:34Z",
   "stats": {
-    "fetched": 682,
-    "new": 0,
+    "fetched": 582,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7842,
+  "spend_month_usd": 4.785,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "Leeham News": {
       "ok": true,
@@ -188,12 +188,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
-    },
-    {
-      "dossier": "Alertes à la bombe vols Europe 3 novembre 2026",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-05-alertes-a-la-bombe-en-europe-vols-deroutes-fouilles-et-escor-ead7"
     },
     {
       "dossier": "Emirates résultats S1 2026",
@@ -416,18 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "AutoFlight vol en formation de 5 eVTOL",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-autoflight-realise-un-vol-en-formation-avec-cinq-evtol-auton-7d97"
-    },
-    {
-      "dossier": "Eve commande FlyBIS eVTOL Brésil",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-eve-air-mobility-signe-un-accord-ferme-avec-flybis-aviation-63f6"
     },
     {
       "dossier": "Joby vols de démonstration en Floride",
