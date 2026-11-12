@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-12T07:44:58Z",
+  "run": "2026-11-12T07:50:34Z",
   "stats": {
-    "fetched": 667,
+    "fetched": 682,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
