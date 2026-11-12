@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T14:10:36Z",
+  "run": "2026-11-12T14:20:36Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8072,
+  "spend_month_usd": 4.8087,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -757,12 +757,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Pistorius critique échec FCAS",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

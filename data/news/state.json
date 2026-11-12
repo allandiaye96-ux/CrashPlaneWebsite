@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/hohe-kerosinpreise-druecken-air-china-china-eastern-china-southern-minus/91244": "2026-11-02T14:20:34Z",
-    "https://www.airliners.de/luftraumsperrungen-indigo-verlagert-auslands-kapazitaeten-frueher-geplant/91242": "2026-11-02T14:20:34Z",
-    "https://www.airliners.de/neun-tote-absturz-learjet-60-florida/91243": "2026-11-02T14:20:34Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbus-a350-discover-airlines-voit-plus-grand-pour-sa-future-flotte-davions-longs-courriers-de-nouvelle-generation-20261102.html": "2026-11-02T14:30:54Z",
     "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html": "2026-11-02T14:50:33Z",
     "https://simpleflying.com/emirates-airbus-a380s-finally-return-to-17-hour-route/": "2026-11-02T15:01:11Z",
@@ -1511,7 +1508,11 @@
     "https://simpleflying.com/airbus-a350-stacks-up-against-boeing-777x-next-decade-long-haul-flying/": "2026-11-12T14:01:00Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-skywise-expands-its-portfolio-with-the-launch-of-enhanced-digital-flight-training-solutions": "2026-11-12T14:01:00Z",
     "https://www.aero.de/news-54159/Esa-Grundstein-fuer-groesste-3D-Karte-des-Kosmos-gelegt-.html": "2026-11-12T14:01:00Z",
-    "https://www.air-journal.fr/2026-11-12-drones-cyberattaques-fausses-alertes-les-aeroports-europeens-reclament-un-sursaut-5278816.html": "2026-11-12T14:01:00Z"
+    "https://www.air-journal.fr/2026-11-12-drones-cyberattaques-fausses-alertes-les-aeroports-europeens-reclament-un-sursaut-5278816.html": "2026-11-12T14:01:00Z",
+    "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters": "2026-11-12T14:20:36Z",
+    "https://www.airliners.de/macron-haelt-urheber-bombendrohungen-europa-benennbar/91498": "2026-11-12T14:20:36Z",
+    "https://www.airliners.de/stellwerksausfall-legt-s-bahn-flughafen-hannover-lahm/91495": "2026-11-12T14:20:36Z",
+    "https://www.airliners.de/flughaefen-fordern-mehr-innovationen-dienstleistern/91493": "2026-11-12T14:20:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2132,7 +2133,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-09T10:20:51Z",
+      "updated": "2026-11-12T14:20:48Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -2214,10 +2215,19 @@
           "domain": "airliners.de",
           "summary": "Eine Serie von Bombendrohungen erschüttert den europäischen Luftverkehr. Mehr als 30 Fälle verunsichern die Passagiere, Sprengkörper wurden zunächst nicht gefunden. Ein Sicherheitsexperte hat einen Verdacht, mahnt aber zur Vorsicht.",
           "published": "2026-11-09T09:31:44Z"
+        },
+        {
+          "id": "a112dc84116d1eb2",
+          "feed": "airliners.de",
+          "title": "Macron hält Urheber der Bombendrohungen in Europa noch nicht für benennbar",
+          "url": "https://www.airliners.de/macron-haelt-urheber-bombendrohungen-europa-benennbar/91498",
+          "domain": "airliners.de",
+          "summary": "Bei den jüngsten Bombendrohungen in Europa ist es nach den Worten des französischen Präsidenten Emmanuel Macron noch zu früh, um einen bestimmten Urheber zu benennen. Das sagte er bei einem Gipfel der Europäischen Politischen Gemeinschaft in Dublin.",
+          "published": "2026-11-12T14:07:54Z"
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-      "written_count": 9
+      "written_count": 10
     },
     "c0476c72283": {
       "id": "c0476c72283",
@@ -4268,27 +4278,6 @@
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
       "written_count": 9
     },
-    "cbd12c0c2c8": {
-      "id": "cbd12c0c2c8",
-      "label": "Pistorius critique échec FCAS",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-10T14:10:51Z",
-      "updated": "2026-11-10T14:10:51Z",
-      "items": [
-        {
-          "id": "b3b2a8b71ecc71bc",
-          "feed": "AeroTime",
-          "title": "Pistorius blames FCAS collapse on industry, ‘too much ideology",
-          "url": "https://www.aerotime.aero/articles/pistorius-fcas-collapse-ideology-contracts",
-          "domain": "aerotime.aero",
-          "summary": "France and Germany launched their flagship FCAS fighter project with too much ideology and too little attention to… The post Pistorius blames FCAS collapse on industry, ‘too much ideology appeared first on AeroTime .",
-          "published": "2026-11-10T14:00:44Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c6df12d70b5": {
       "id": "c6df12d70b5",
       "label": "Learjet 60 Floride enregistreur vocal",
@@ -5261,6 +5250,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.807185
+    "2026-11": 4.808744
   }
 }
