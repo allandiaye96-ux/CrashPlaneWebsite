@@ -1500,7 +1500,9 @@
     "https://www.aero.de/news-54151/Helsing-stellt-Palantir-Alternative-vor.html": "2026-11-12T05:40:37Z",
     "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html": "2026-11-12T05:50:33Z",
     "https://simpleflying.com/why-modern-airliners-have-single-engine-suppliers/": "2026-11-12T06:01:00Z",
-    "https://www.air-journal.fr/2026-11-12-syrian-airlines-se-pose-a-berlin-nouvelle-etape-du-retour-des-vols-vers-la-syrie-5278802.html": "2026-11-12T06:10:35Z"
+    "https://www.air-journal.fr/2026-11-12-syrian-airlines-se-pose-a-berlin-nouvelle-etape-du-retour-des-vols-vers-la-syrie-5278802.html": "2026-11-12T06:10:35Z",
+    "https://www.airliners.de/netz-strecken-hamburg-schweigt-asien-zielen-helvetic-swiss-aegean-indien-start/91477": "2026-11-12T06:20:35Z",
+    "https://www.airliners.de/auslaendische-gaeste-sorgen-september-uebernachtungen/91464": "2026-11-12T06:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5295,6 +5297,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.773388
+    "2026-11": 4.774221
   }
 }
