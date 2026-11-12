@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T16:40:38Z",
+  "run": "2026-11-12T16:50:34Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8204,
+  "spend_month_usd": 4.8212,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Wheels Up commande 6 Embraer Phenom 300E",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e"
     },
     {
       "dossier": "Air Tahiti Nui Starlink connectivité 787",

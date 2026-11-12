@@ -1507,7 +1507,10 @@
     "https://www.aero.de/news-54156/Kreise-Annaeherung-von-Lufthansa-und-Piloten-moeglich.html": "2026-11-12T16:01:01Z",
     "https://www.aerotime.aero/articles/ryanair-pay-freezes-fuel-price-financial-result": "2026-11-12T16:20:37Z",
     "https://www.airliners.de/bdls-waehlt-borgschulze-einstimmig-zweite-amtszeit/91500": "2026-11-12T16:20:37Z",
-    "https://www.aero.de/news-54161/Elbit-Systems-kommt-nicht-nach-Sangerhausen.html": "2026-11-12T16:30:49Z"
+    "https://www.aero.de/news-54161/Elbit-Systems-kommt-nicht-nach-Sangerhausen.html": "2026-11-12T16:30:49Z",
+    "https://www.twz.com/news-features/these-are-the-u-s-weapons-most-at-risk-in-the-looming-rare-earths-supply-crisis": "2026-11-12T16:50:34Z",
+    "https://www.aerotime.aero/articles/archer-aviation-formular-1-evtol-air-taxi-motor-sport": "2026-11-12T16:50:34Z",
+    "https://airlinegeeks.com/2026/11/12/report-google-accepts-privacy-safeguards-for-spirit-data/": "2026-11-12T16:50:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2223,27 +2226,6 @@
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 10
-    },
-    "c205bc2a70e": {
-      "id": "c205bc2a70e",
-      "label": "Wheels Up commande 6 Embraer Phenom 300E",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T16:40:48Z",
-      "updated": "2026-11-05T16:40:48Z",
-      "items": [
-        {
-          "id": "9c4061f51cfdb282",
-          "feed": "AeroTime",
-          "title": "Delta Air Lines partner Wheels Up orders six new Embraer Phenom 300Es",
-          "url": "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es",
-          "domain": "aerotime.aero",
-          "summary": "Delta Air Lines’ private jet partner Wheels Up has ordered six new Embraer Phenom 300E aircraft with deliveries… The post Delta Air Lines partner Wheels Up orders six new Embraer Phenom 300Es appeared first on AeroTime .",
-          "published": "2026-11-05T15:41:29Z"
-        }
-      ],
-      "story_id": "2026-11-05-wheels-up-partenaire-de-delta-air-lines-commande-six-embraer-a70e",
-      "written_count": 1
     },
     "c6312a4d415": {
       "id": "c6312a4d415",
@@ -5209,6 +5191,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.820403
+    "2026-11": 4.821234
   }
 }
