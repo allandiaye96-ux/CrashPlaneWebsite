@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lot-a-retire-son-dernier-embraer-e170-apres-22-ans-de-service-20261102.html": "2026-11-02T10:30:48Z",
     "https://simpleflying.com/5-things-that-passengers-dont-know-about-premium-economy/": "2026-11-02T10:50:35Z",
     "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo": "2026-11-02T11:01:01Z",
     "https://avitrader.com/2026/11/02/bell-textron-secures-further-gmr-helicopter-order/": "2026-11-02T11:01:01Z",
@@ -1516,7 +1515,8 @@
     "https://www.airliners.de/united-schraenkt-zugang-ki-agenten-ein-jetblue-fuerchtet-kosten-vermittler/91481": "2026-11-12T10:20:34Z",
     "https://www.airliners.de/air-astana-verlagert-kapazitaet-nahost-asien-china/91487": "2026-11-12T10:20:34Z",
     "https://www.airliners.de/frankfurt-haelt-passagierniveau-vorjahr-cargo-volumen-oktober/91491": "2026-11-12T10:20:34Z",
-    "https://www.airliners.de/flugbereitschaft-fruehestens-2036-koeln-wahn-ber/91489": "2026-11-12T10:20:34Z"
+    "https://www.airliners.de/flugbereitschaft-fruehestens-2036-koeln-wahn-ber/91489": "2026-11-12T10:20:34Z",
+    "https://avitrader.com/2026/11/12/easyjet-shareholders-back-5-7bn-apollo-takeover/": "2026-11-12T10:30:51Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2160,27 +2160,6 @@
       ],
       "story_id": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47",
       "written_count": 2
-    },
-    "c5418299a7d": {
-      "id": "c5418299a7d",
-      "label": "Dronamics introduction Nasdaq fusion GP-Act III",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T10:20:46Z",
-      "updated": "2026-11-05T10:20:46Z",
-      "items": [
-        {
-          "id": "e4e4e1eafe3af9bd",
-          "feed": "airliners.de",
-          "title": "Frachtdrohnen-Unternehmen Dronamics plant Börsengang an der Nasdaq",
-          "url": "https://www.airliners.de/frachtdrohnen-unternehmen-dronamics-plant-boersengang-nasdaq/91330",
-          "domain": "airliners.de",
-          "summary": "Das Frachtdrohnen-Unternehmen Dronamics plant den Börsengang an der Nasdaq über eine Fusion mit \"GP-Act III Acquisition\". Der Deal bewertet Dronamics mit 400 Millionen US-Dollar (rund 355 Millionen Euro) und soll netto rund 100 Millionen US-Dollar einbringen, teilten beide Unternehmen mit. Der Abschluss ist für das erste Halbjahr 2027 geplant.",
-          "published": "2026-11-05T09:41:00Z"
-        }
-      ],
-      "story_id": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d",
-      "written_count": 1
     },
     "c73fa996211": {
       "id": "c73fa996211",
@@ -4855,7 +4834,7 @@
       "categorie": "Compagnies",
       "importance": 3,
       "created": "2026-11-11T14:20:52Z",
-      "updated": "2026-11-12T07:01:09Z",
+      "updated": "2026-11-12T10:31:04Z",
       "items": [
         {
           "id": "6e189edcdfa80c62",
@@ -4892,10 +4871,19 @@
           "domain": "air-journal.fr",
           "summary": "Les actionnaires d’easyJet ont approuvé, mercredi 11 novembre, le rachat de la compagnie britannique par le fonds d’investissement américain Apollo pour 5,7 milliards de livres sterling. L’opération, qui pourrait entraîner son retrait de la Bourse de Londres au premier trimestre 2027, doit encore franchir un obstacle majeur : démontrer que les activités aériennes européennes du […]",
           "published": "2026-11-12T07:00:21Z"
+        },
+        {
+          "id": "b0534f34c59230da",
+          "feed": "AviTrader",
+          "title": "EasyJet shareholders back £5.7bn Apollo takeover",
+          "url": "https://avitrader.com/2026/11/12/easyjet-shareholders-back-5-7bn-apollo-takeover/",
+          "domain": "avitrader.com",
+          "summary": "EasyJet shareholders have approved the airline’s £5.7bn (US$7.61bn) takeover by US private equity group Apollo Global Management, clearing a major hurdle for the deal, according to the BBC. The Luton-based airline said 97.07% of shareholders voted in favour of the acquisition at a meeting on Wednesday, November 11. The transaction is expected to be completed […] The post EasyJet shareholders back £5.7bn Apollo takeover appeared first on AviTrader Aviation News .",
+          "published": "2026-11-12T10:24:08Z"
         }
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-      "written_count": 4
+      "written_count": 5
     },
     "c26b775d3a4": {
       "id": "c26b775d3a4",
@@ -5260,6 +5248,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.791224
+    "2026-11": 4.79305
   }
 }

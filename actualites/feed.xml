@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 10:20:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 10:31:09 +0000</lastBuildDate>
   <item>
     <title>Frontier Airlines ouvre les réservations de sa cabine premium sur A320 et A321</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c/</link>
@@ -118,14 +118,6 @@
     <pubDate>Wed, 11 Nov 2026 15:01:31 +0000</pubDate>
     <category>Compagnies</category>
     <description>Etihad Airways retirerait l&#x27;Airbus A380 de l&#x27;ensemble de ses liaisons vers l&#x27;Amérique du Nord, d&#x27;après Simple Flying. Le site spécialisé évoque aussi une autre route qui ne verra plus l&#x27;appareil.</description>
-  </item>
-  <item>
-    <title>easyJet : les actionnaires approuvent le rachat par le fonds Apollo</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7/</guid>
-    <pubDate>Wed, 11 Nov 2026 14:21:01 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, les actionnaires d&#x27;easyJet ont validé le 11 novembre 2026 le projet de reprise de la compagnie à bas coûts britannique par Apollo. L&#x27;opération doit encore franchir un obstacle important en Europe.</description>
   </item>
   <item>
     <title>Alaska Airlines prépare un vol Anchorage–Tokyo Narita en Boeing 737 MAX 8 dès le 13 mai 2027</title>
@@ -246,6 +238,14 @@
     <pubDate>Tue, 10 Nov 2026 09:21:08 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, qui cite des sources internes, Etihad Airways aurait investi un montant élevé, de plusieurs dizaines de millions, dans la compagnie allemande Condor.</description>
+  </item>
+  <item>
+    <title>Frequentis obtient une approbation de conception de la FAA pour son système Digital Tower</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:21:05 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Selon airliners.de, la FAA américaine a accordé une approbation de conception au système de tour de contrôle numérique de Frequentis.</description>
   </item>
 </channel>
 </rss>

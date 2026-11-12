@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T10:20:34Z",
+  "run": "2026-11-12T10:30:51Z",
   "stats": {
     "fetched": 682,
-    "new": 7,
-    "written": 1,
-    "held": 0,
+    "new": 1,
+    "written": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.7912,
+  "spend_month_usd": 4.7931,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -160,6 +160,12 @@
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
     },
     {
+      "dossier": "Apollo rachat easyJet vote actionnaires",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
+    },
+    {
       "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
       "statut": "corrobore",
       "editeurs": 4,
@@ -182,12 +188,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
-    },
-    {
-      "dossier": "Apollo rachat easyJet vote actionnaires",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
     },
     {
       "dossier": "Emirates résultats S1 2026",
@@ -416,12 +416,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Dronamics introduction Nasdaq fusion GP-Act III",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-dronamics-prevoit-une-entree-au-nasdaq-via-une-fusion-avec-g-9a7d"
     },
     {
       "dossier": "KLM renonce A320neo et réduction effectifs",
