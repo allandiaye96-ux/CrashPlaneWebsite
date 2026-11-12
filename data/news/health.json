@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T20:00:57Z",
+  "run": "2026-11-12T20:10:34Z",
   "stats": {
     "fetched": 681,
-    "new": 5,
-    "written": 1,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.829,
+  "spend_month_usd": 4.8298,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -116,12 +116,6 @@
       "statut": "corrobore",
       "editeurs": 8,
       "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
-    },
-    {
-      "dossier": "AerFin rachat 44 737NG Qantas",
-      "statut": "corrobore",
-      "editeurs": 6,
-      "breve": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
@@ -398,12 +392,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Shield AI X-BAT prototype grandeur réelle",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04"
     },
     {
       "dossier": "Avolon résultats T3 et commande 250 avions Boeing Airbus",

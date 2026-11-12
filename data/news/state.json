@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/united-airlines-launches-2-new-6-hour-boeing-737-max-nonstop-routes/": "2026-11-02T20:01:02Z",
-    "https://simpleflying.com/why-boeing-made-747-400-compatible-3-distinct-powerplants/": "2026-11-02T20:01:02Z",
-    "https://simpleflying.com/alaska-airlines-unveils-surprising-new-6-hour-route/": "2026-11-02T20:01:02Z",
-    "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs": "2026-11-02T20:01:02Z",
-    "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup": "2026-11-02T20:01:02Z",
-    "https://australianaviation.com.au/2026/11/qantas-customer-data-possibly-exposed-in-amadeus-hack/": "2026-11-02T20:01:02Z",
-    "https://australianaviation.com.au/2026/11/nasa-high-altitude-research-aircraft-makes-rare-visit-to-australia/": "2026-11-02T20:01:02Z",
-    "https://australianaviation.com.au/2026/11/exclusive-alliance-could-look-at-737s-and-a320s-new-ceo-says/": "2026-11-02T20:01:02Z",
-    "https://australianaviation.com.au/2026/11/nsw-government-reveals-new-ambulance-helicopter-bases/": "2026-11-02T20:01:02Z",
-    "https://australianaviation.com.au/2026/11/avalon-airshow-locked-in-until-2031/": "2026-11-02T20:01:02Z",
     "https://www.aerotime.aero/articles/united-ceo-boom-overture-supersonic-jet-delay": "2026-11-02T21:01:05Z",
     "https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate": "2026-11-02T21:40:33Z",
     "https://simpleflying.com/wideroe-dash-8-tracked-24-hours/": "2026-11-02T22:01:04Z",
@@ -1511,7 +1501,8 @@
     "https://simpleflying.com/southwest-launches-new-6-hour-florida-route-1-week/": "2026-11-12T20:00:57Z",
     "https://australianaviation.com.au/2026/11/high-operating-costs-push-up-regional-airfares-report-says/": "2026-11-12T20:00:57Z",
     "https://australianaviation.com.au/2026/11/remote-queensland-airport-reopens-after-flood-repairs/": "2026-11-12T20:00:57Z",
-    "https://australianaviation.com.au/2026/11/virgin-cabin-crew-vote-for-industrial-action-in-landslide/": "2026-11-12T20:00:57Z"
+    "https://australianaviation.com.au/2026/11/virgin-cabin-crew-vote-for-industrial-action-in-landslide/": "2026-11-12T20:00:57Z",
+    "https://simpleflying.com/air-canada-cancels-10-nonstop-routes/": "2026-11-12T20:10:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1781,72 +1772,6 @@
       "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
       "written_count": 8
     },
-    "ccef4cb072b": {
-      "id": "ccef4cb072b",
-      "label": "AerFin rachat 44 737NG Qantas",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-04T11:20:49Z",
-      "updated": "2026-11-05T20:01:22Z",
-      "items": [
-        {
-          "id": "d135e258a03db088",
-          "feed": "AviTrader",
-          "title": "AerFin seals landmark 737NG aircraft acquisition from Qantas",
-          "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
-          "domain": "avitrader.com",
-          "summary": "AerFin has agreed to acquire 44 aircraft from Qantas in the largest transaction in the company’s history. The acquisition comprises 44 Boeing 737NG aircraft and 88 CFM56-7B engines, marking a major milestone in AerFin’s continued expansion and further cementing its position as a leading global aviation aftermarket specialist. The transaction will strengthen support for airline […] The post AerFin seals landmark 737NG aircraft acquisition from Qantas appeared first on AviTrader Aviation News .",
-          "published": "2026-11-04T11:01:21Z"
-        },
-        {
-          "id": "464114e80af534c4",
-          "feed": "AeroTime",
-          "title": "Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans",
-          "url": "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans",
-          "domain": "aerotime.aero",
-          "summary": "Qantas has sold 44 Boeing 737 Next Generation aircraft to aftermarket specialist AerFin as part of plans to… The post Qantas sells 44 Boeing 737NGs to AerFin as part of fleet retirement plans appeared first on AeroTime .",
-          "published": "2026-11-04T15:44:03Z"
-        },
-        {
-          "id": "990d180400cf93ad",
-          "feed": "AirlineGeeks",
-          "title": "Qantas Reaches Deal to Sell 44 Boeing 737s",
-          "url": "https://airlinegeeks.com/2026/11/04/qantas-reaches-deal-to-sell-44-boeing-737s/",
-          "domain": "airlinegeeks.com",
-          "summary": "The airline will hand over the jets over seven years as Airbus A321XLRs join its fleet.",
-          "published": "2026-11-04T22:38:42Z"
-        },
-        {
-          "id": "a716d9e391ba320d",
-          "feed": "Air Journal",
-          "title": "Qantas cède 44 Boeing 737 à AerFin et prépare la relève en Airbus A321XLR",
-          "url": "https://www.air-journal.fr/2026-11-05-qantas-cede-44-boeing-737-a-aerfin-et-prepare-la-releve-en-airbus-a321xlr-5278681.html",
-          "domain": "air-journal.fr",
-          "summary": "La compagnie australienne a conclu un accord portant sur la vente de 44 Boeing 737NG et de leurs 88 moteurs au spécialiste britannique des actifs aéronautiques AerFin. Les transferts s’échelonneront sur sept ans, à mesure du renouvellement de la flotte de Qantas. Qantas prépare la fin de carrière d’une grande partie de ses Boeing 737, […]",
-          "published": "2026-11-05T09:00:37Z"
-        },
-        {
-          "id": "5a7fbc0792395e1c",
-          "feed": "airliners.de",
-          "title": "Aerfin übernimmt 44 Boeing 737 NG von Qantas",
-          "url": "https://www.airliners.de/aerfin-uebernimmt-44-boeing-737-ng-qantas/91326",
-          "domain": "airliners.de",
-          "summary": "Der Aftermarket-Spezialist Aerfin übernimmt nach eigenen Angaben in der größten Transaktion seiner Firmengeschichte 44 Boeing 737 NG samt 88 Triebwerken vom Typ CFM56-7B von Qantas. Die Flugzeuge gehen über sieben Jahre an den Käufer, die ersten noch in diesem Jahr. Qantas bereitet damit die Ausmusterung des Großteils ihrer 737-Flotte vor.",
-          "published": "2026-11-05T09:18:00Z"
-        },
-        {
-          "id": "510eecb7ad112756",
-          "feed": "Australian Aviation",
-          "title": "Qantas offloads 44 737-800s in huge fleet sale",
-          "url": "https://australianaviation.com.au/2026/11/qantas-offloads-44-737-800s-in-huge-fleet-sale/",
-          "domain": "australianaviation.com.au",
-          "summary": "The Flying Kangaroo currently operates 73 of the narrow-body aircraft, with another three parked. Its first 737-800, VH-VXA, was retired this month after almost 25 years in service, having operated its first flight in February 2002, and will be part of the AerFin deal.",
-          "published": "2026-11-05T02:12:28Z"
-        }
-      ],
-      "story_id": "2026-11-04-aerfin-acquiert-44-boeing-737ng-et-88-moteurs-cfm56-7b-aupre-072b",
-      "written_count": 6
-    },
     "c00a49a8b4f": {
       "id": "c00a49a8b4f",
       "label": "NASA annonce avion expérimental X-70 Fractal",
@@ -2095,27 +2020,6 @@
       ],
       "story_id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
       "written_count": 2
-    },
-    "ca2d91f6f04": {
-      "id": "ca2d91f6f04",
-      "label": "Shield AI X-BAT prototype grandeur réelle",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T20:01:22Z",
-      "updated": "2026-11-05T20:01:22Z",
-      "items": [
-        {
-          "id": "6204bbabfeb9c7cf",
-          "feed": "The Aviationist",
-          "title": "Shield AI Reveals First Full-Scale Prototype X-BAT VTOL Fighter Drone",
-          "url": "https://theaviationist.com/2026/11/05/shield-xbat-prototype-revealed/",
-          "domain": "theaviationist.com",
-          "summary": "Around half the size of an F-35, and powered by an afterburning GE F110 engine with thrust vectoring capabilities, the X-BAT is billed as the world’s first autonomous VTOL strike fighter. Unveiled at Shield AI’s Frisco, Texas plant, the prototype will now make its way by road to the company’s flight testing base in Newton, […]",
-          "published": "2026-11-05T19:56:43Z"
-        }
-      ],
-      "story_id": "2026-11-05-shield-ai-devoile-le-premier-prototype-grandeur-nature-de-so-6f04",
-      "written_count": 1
     },
     "c95c3af7cd5": {
       "id": "c95c3af7cd5",
@@ -5039,6 +4943,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.829
+    "2026-11": 4.829788
   }
 }
