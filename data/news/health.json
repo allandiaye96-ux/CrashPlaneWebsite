@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T05:50:33Z",
+  "run": "2026-11-12T06:01:00Z",
   "stats": {
     "fetched": 682,
     "new": 1,
-    "written": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7718,
+  "spend_month_usd": 4.7726,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -763,12 +763,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Budget allemand Eurofighter upgrade 300 M€",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

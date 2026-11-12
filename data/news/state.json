@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airlines-offering-lifetime-elite-status-without-flying-million-miles/": "2026-11-02T06:01:00Z",
-    "https://www.air-journal.fr/2026-11-02-vol-annule-ou-retarde-quelles-compagnies-indemnisent-le-plus-facilement-leurs-passagers-5278634.html": "2026-11-02T06:01:00Z",
     "https://www.airliners.de/vertrieb-marketing-discover-a350-ziele-air-uniqon-erweitert-netz-flughafenchef-saniert-airport-computerspiel/91219": "2026-11-02T06:20:36Z",
     "https://www.airliners.de/ees-wirkt-sich-sommer-begrenzt-abflugverspaetungen-aus/91223": "2026-11-02T06:20:36Z",
     "https://www.air-journal.fr/2026-11-02-a-hong-kong-delta-defie-cathay-pacific-sur-le-terrain-du-haut-de-gamme-5278635.html": "2026-11-02T07:01:02Z",
@@ -1500,7 +1498,8 @@
     "https://www.airliners.de/marabu-iata-sicherheitsaudit-iosa/91473": "2026-11-12T05:20:36Z",
     "https://www.aero.de/news-54120/Harte-Verhandlungen-zwischen-Fraport-und-Lufthansa.html": "2026-11-12T05:30:50Z",
     "https://www.aero.de/news-54151/Helsing-stellt-Palantir-Alternative-vor.html": "2026-11-12T05:40:37Z",
-    "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html": "2026-11-12T05:50:33Z"
+    "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html": "2026-11-12T05:50:33Z",
+    "https://simpleflying.com/why-modern-airliners-have-single-engine-suppliers/": "2026-11-12T06:01:00Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4242,27 +4241,6 @@
       "story_id": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996",
       "written_count": 2
     },
-    "c1ec11bff53": {
-      "id": "c1ec11bff53",
-      "label": "Budget allemand Eurofighter upgrade 300 M€",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-10T05:50:55Z",
-      "updated": "2026-11-10T05:50:55Z",
-      "items": [
-        {
-          "id": "91c1051465601cee",
-          "feed": "aero.de",
-          "title": "Bund: 300 Millionen Euro für Eurofighter-Upgrade",
-          "url": "https://www.aero.de/news-54130/Bund-300-Millionen-Euro-fuer-Eurofighter-Upgrade.html",
-          "domain": "aero.de",
-          "summary": "BERLIN - Die Bundesregierung plant Haushaltsmittel in dreistelliger Millionenhöhe für eine Weiterentwicklung des Eurofighter ein.",
-          "published": "2026-11-10T05:48:57Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c6c40cb11b9": {
       "id": "c6c40cb11b9",
       "label": "Qantas suppression 850 postes technologie Accenture",
@@ -5316,6 +5294,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.771789
+    "2026-11": 4.772577
   }
 }
