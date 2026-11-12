@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-12T08:30:46Z",
+  "run": "2026-11-12T08:40:36Z",
   "stats": {
     "fetched": 682,
     "new": 0,
@@ -781,12 +781,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Cessna C172 soufflé par un B737 à Anaheim",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

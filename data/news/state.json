@@ -4254,27 +4254,6 @@
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
       "written_count": 5
     },
-    "c741b1381b9": {
-      "id": "c741b1381b9",
-      "label": "Cessna C172 soufflé par un B737 à Anaheim",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-10T08:31:13Z",
-      "updated": "2026-11-10T08:31:13Z",
-      "items": [
-        {
-          "id": "3734d4b040242941",
-          "feed": "aero.de",
-          "title": "Boeing 737 pustet Cessna C172 um",
-          "url": "https://www.aero.de/news-54132/Boeing-737-pustet-Cessna-C172-um.html",
-          "domain": "aero.de",
-          "summary": "ANAHEIM - In Kalifornien rollt eine Cessna C172 in den Triebwerksstrahl einer Boeing 737. Das Kleinflugzeug wird umgepustet, die Insassen bleiben unverletzt.",
-          "published": "2026-11-10T08:28:19Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c52b068fd3e": {
       "id": "c52b068fd3e",
       "label": "United pilotes code détournement passager cockpit bombe",
