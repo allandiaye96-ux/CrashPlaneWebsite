@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 12:10:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 12:20:48 +0000</lastBuildDate>
+  <item>
+    <title>Charlotte : un accord de 2 milliards de dollars pour moderniser l&#x27;aéroport CLT</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-charlotte-un-accord-de-2-milliards-de-dollars-pour-modernise-bfb9/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-charlotte-un-accord-de-2-milliards-de-dollars-pour-modernise-bfb9/</guid>
+    <pubDate>Thu, 12 Nov 2026 12:20:48 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon AviTrader, American Airlines et les autres compagnies signataires ont obtenu un nouveau contrat d&#x27;utilisation et de location de 10,5 ans avec l&#x27;aéroport Charlotte Douglas International (CLT).</description>
+  </item>
   <item>
     <title>Frontier Airlines ouvre les réservations de sa cabine premium sur A320 et A321</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 09:21:08 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, qui cite des sources internes, Etihad Airways aurait investi un montant élevé, de plusieurs dizaines de millions, dans la compagnie allemande Condor.</description>
-  </item>
-  <item>
-    <title>Frequentis obtient une approbation de conception de la FAA pour son système Digital Tower</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:21:05 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>Selon airliners.de, la FAA américaine a accordé une approbation de conception au système de tour de contrôle numérique de Frequentis.</description>
   </item>
 </channel>
 </rss>

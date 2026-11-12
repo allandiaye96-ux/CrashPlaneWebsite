@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-12-charlotte-un-accord-de-2-milliards-de-dollars-pour-modernise-bfb9",
+    "created": "2026-11-12T12:20:48Z",
+    "updated": "2026-11-12T12:20:48Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Charlotte : un accord de 2 milliards de dollars pour moderniser l'aéroport CLT",
+    "chapo": "Selon AviTrader, American Airlines et les autres compagnies signataires ont obtenu un nouveau contrat d'utilisation et de location de 10,5 ans avec l'aéroport Charlotte Douglas International (CLT).",
+    "paragraphes": [
+      "D'après le même média, cet accord, approuvé par le conseil municipal de Charlotte, ouvre la voie à un investissement d'environ 2 milliards de dollars en infrastructures. Le programme, baptisé CLT Beyond, doit financer des travaux sur le terminal, les pistes et plusieurs installations clés de l'aéroport."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Charlotte airport secures US$2bn investment deal",
+        "url": "https://avitrader.com/2026/11/12/charlotte-airport-secures-us2bn-investment-deal/",
+        "date": "2026-11-12T12:12:54Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208",
     "created": "2026-11-10T13:20:54Z",
     "updated": "2026-11-12T11:41:14Z",
