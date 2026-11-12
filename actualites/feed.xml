@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 09:50:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 10:01:16 +0000</lastBuildDate>
   <item>
     <title>Etihad réduit son offre vers l&#x27;Allemagne à partir de janvier 2027</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65/</link>
@@ -32,12 +32,12 @@
     <description>Selon aero.de, la compagnie slovaque Air Explore a abandonné son certificat AOC et mis fin à son exploitation aérienne. Ce changement annule une fusion prévue avec sa compagnie sœur Klasjet.</description>
   </item>
   <item>
-    <title>United Airlines interdit aux agents IA de réserver des vols et d&#x27;enregistrer les passagers</title>
+    <title>United Airlines interdit aux agents IA non autorisés de réserver et d&#x27;enregistrer les passagers</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc/</guid>
     <pubDate>Thu, 12 Nov 2026 07:01:17 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon Simple Flying, le nouveau contrat de transport de United Airlines permettrait à la compagnie d&#x27;annuler toute réservation effectuée ou modifiée par un agent d&#x27;intelligence artificielle.</description>
+    <description>Selon AeroTime, United Airlines restreint l&#x27;accès de tiers agents d&#x27;intelligence artificielle à ses plateformes numériques. Simple Flying indique que la nouvelle clause de son contrat de transport permet à la compagnie d&#x27;annuler toute réservation effectuée ou modifiée par un agent IA.</description>
   </item>
   <item>
     <title>Fly4 Airlines : le High Court de Dublin nomme des administrateurs provisoires</title>
@@ -120,12 +120,12 @@
     <description>La compagnie privée américaine Magnifica Air a confirmé une commande ferme de dix ACJ220-300, selon AviTrader. Cette commande figurait jusqu&#x27;ici comme non divulguée dans le carnet de commandes d&#x27;Airbus.</description>
   </item>
   <item>
-    <title>Lesha Bank cède six Airbus A380 à Emirates, dont deux déjà livrés</title>
+    <title>Emirates va acquérir six Airbus A380 auprès de Lesha Bank</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37/</guid>
     <pubDate>Wed, 11 Nov 2026 12:10:58 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon AviTrader, Lesha Bank, agissant pour le compte du Lesha Aviation Fund, a convenu de vendre six Airbus A380 à Emirates, premier exploitant mondial du type.</description>
+    <description>Selon AviTrader, Lesha Bank, agissant pour le compte du Lesha Aviation Fund, a accepté de céder six Airbus A380 à Emirates. D&#x27;après AeroTime, la compagnie en prendra la propriété, ces appareils étant actuellement exploités dans sa flotte.</description>
   </item>
   <item>
     <title>Dubaï : Swiss, Austrian et ITA Airways retirent la destination de leur programme jusqu&#x27;à fin mars 2027</title>

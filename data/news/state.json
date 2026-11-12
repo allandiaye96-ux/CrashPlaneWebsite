@@ -1508,7 +1508,14 @@
     "https://www.airliners.de/sun-phuquoc-airways-prueft-frankfurt-ziel-boeing-787-9/91484": "2026-11-12T09:20:38Z",
     "https://www.airliners.de/flughafen-zuerich-haelt-passagierzahlen-oktober-stabil/91480": "2026-11-12T09:20:38Z",
     "https://www.airliners.de/emirates-bewirbt-meilensammeln-abseits-fliegens/91478": "2026-11-12T09:20:38Z",
-    "https://www.aero.de/news-54157/Flugbereitschaft-wechselt-nicht-vor-2036-an-den-BER.html": "2026-11-12T09:50:34Z"
+    "https://www.aero.de/news-54157/Flugbereitschaft-wechselt-nicht-vor-2036-an-den-BER.html": "2026-11-12T09:50:34Z",
+    "https://www.gov.uk/aaib-reports/aaib-investigation-to-sikorsky-s-92a-g-cijc": "2026-11-12T10:00:56Z",
+    "https://www.gov.uk/aaib-reports/aaib-investigation-to-cameron-z-133-g-clzi": "2026-11-12T10:00:56Z",
+    "https://www.gov.uk/aaib-reports/aaib-investigation-to-airbus-a300-600f-d-aeag": "2026-11-12T10:00:56Z",
+    "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank": "2026-11-12T10:00:56Z",
+    "https://www.aerotime.aero/articles/united-airlines-to-block-third-party-ai-agents-from-accessing-digital-platforms": "2026-11-12T10:00:56Z",
+    "https://www.aerotime.aero/articles/zelenskyy-says-starshield-speed-cap-returns-hindering-russian-drone-interceptions": "2026-11-12T10:00:56Z",
+    "https://avitrader.com/2026/11/12/cdb-aviation-leases-two-a321s-to-freebird-airlines/": "2026-11-12T10:00:56Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4775,7 +4782,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-11T12:10:52Z",
-      "updated": "2026-11-11T12:10:52Z",
+      "updated": "2026-11-12T10:01:11Z",
       "items": [
         {
           "id": "cccf7e78953bcc91",
@@ -4785,10 +4792,19 @@
           "domain": "avitrader.com",
           "summary": "Lesha Bank, acting on behalf of the Lesha Aviation Fund, has agreed to sell six Airbus A380 aircraft to Emirates, the world’s largest operator of the type. Two aircraft have already been delivered, with the remaining four scheduled for transfer in stages through April 2028 as their existing leases expire. The transaction will secure Emirates’ […] The post Lesha Bank sells six A380s to Emirates appeared first on AviTrader Aviation News .",
           "published": "2026-11-11T12:06:19Z"
+        },
+        {
+          "id": "cc99afae640f5570",
+          "feed": "AeroTime",
+          "title": "Emirates strikes deal to take ownership of six Airbus A380 aircraft",
+          "url": "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank",
+          "domain": "aerotime.aero",
+          "summary": "Emirates will take ownership of six Airbus A380-800 aircraft currently operated as part of its fleet under a… The post Emirates strikes deal to take ownership of six Airbus A380 aircraft appeared first on AeroTime .",
+          "published": "2026-11-12T09:42:37Z"
         }
       ],
       "story_id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
-      "written_count": 1
+      "written_count": 2
     },
     "ce706b09bd9": {
       "id": "ce706b09bd9",
@@ -5123,7 +5139,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T07:01:09Z",
-      "updated": "2026-11-12T07:01:09Z",
+      "updated": "2026-11-12T10:01:11Z",
       "items": [
         {
           "id": "5f2229d7844537a5",
@@ -5133,10 +5149,19 @@
           "domain": "simpleflying.com",
           "summary": "United’s new contract of carriage lets it cancel any reservation made or changed by an AI agent",
           "published": "2026-11-12T07:00:12Z"
+        },
+        {
+          "id": "d1ee96141d1652a1",
+          "feed": "AeroTime",
+          "title": "United Airlines to block third-party AI agents from accessing digital platforms",
+          "url": "https://www.aerotime.aero/articles/united-airlines-to-block-third-party-ai-agents-from-accessing-digital-platforms",
+          "domain": "aerotime.aero",
+          "summary": "In an industry first, United Airlines announced on November 11, 2026, that it is restricting unauthorized third-party artificial… The post United Airlines to block third-party AI agents from accessing digital platforms appeared first on AeroTime .",
+          "published": "2026-11-12T09:32:51Z"
         }
       ],
       "story_id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
-      "written_count": 1
+      "written_count": 2
     },
     "cf74760ce9c": {
       "id": "cf74760ce9c",
@@ -5213,6 +5238,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.785043
+    "2026-11": 4.786922
   }
 }
