@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e",
+    "created": "2026-11-12T22:01:09Z",
+    "updated": "2026-11-12T22:01:09Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 3,
+    "titre": "Turquie : quatre morts dans la chute d'un hélicoptère militaire près de Malatya",
+    "chapo": "Selon AeroTime, quatre militaires turcs ont trouvé la mort dans l'accident d'un hélicoptère Sikorsky S-70 à la périphérie de Malatya. Le ministère turc de la Défense avait annoncé le bilan d'un crash d'hélicoptère, d'après aero.de.",
+    "paragraphes": [
+      "Aero.de indique que le ministère turc de la Défense a fait état, en soirée, d'une chute d'hélicoptère ayant causé quatre décès. Les opérations de récupération se poursuivaient à ce moment-là. Les causes de l'accident ne sont pas établies.",
+      "Le média AeroTime précise qu'il s'agissait d'un appareil militaire de type Sikorsky S-70, écrasé à la périphérie de la ville de Malatya, dans le sud-est de la Turquie."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Tote bei Hubschrauber-Absturz in der Türkei",
+        "url": "https://www.aero.de/news-54162/Tote-bei-Hubschrauber-Absturz-in-der-Tuerkei.html",
+        "date": "2026-11-12T17:44:19Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Four killed in Turkish military S-70 helicopter crash",
+        "url": "https://www.aerotime.aero/articles/turkish-military-s70-helicopter-crash-malatya",
+        "date": "2026-11-12T20:56:53Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-virgin-australia-le-personnel-de-cabine-vote-massivement-en-c044",
     "created": "2026-11-12T20:01:14Z",
     "updated": "2026-11-12T20:01:14Z",

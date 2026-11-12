@@ -1508,7 +1508,10 @@
     "https://simpleflying.com/8-things-frequent-flyers-do-survive-long-haul-flights/": "2026-11-12T21:00:58Z",
     "https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin": "2026-11-12T21:00:58Z",
     "https://www.aerotime.aero/articles/united-ceo-boom-overture-supersonic-jet-delay": "2026-11-12T21:20:34Z",
-    "https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate": "2026-11-12T21:50:34Z"
+    "https://www.twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate": "2026-11-12T21:50:34Z",
+    "https://simpleflying.com/boeing-737-ng-years-flying-left-largest-operator-doesnt-want-anymore/": "2026-11-12T22:00:55Z",
+    "https://www.aerotime.aero/articles/google-spirit-airlines-data-sale-privacy": "2026-11-12T22:00:55Z",
+    "https://www.aerotime.aero/articles/turkish-military-s70-helicopter-crash-malatya": "2026-11-12T22:00:55Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4880,7 +4883,7 @@
       "categorie": "Accident",
       "importance": 3,
       "created": "2026-11-12T17:50:48Z",
-      "updated": "2026-11-12T17:50:48Z",
+      "updated": "2026-11-12T22:01:07Z",
       "items": [
         {
           "id": "62c3be4bd130cb6b",
@@ -4890,10 +4893,19 @@
           "domain": "aero.de",
           "summary": "MALATYA - Am Abend meldete das türkische Verteidigungsministerium einen Helikopterabsturz mit vier Toten. Die Ursache ist unklar, die Bergungsarbeiten dauern an.",
           "published": "2026-11-12T17:44:19Z"
+        },
+        {
+          "id": "a0da5a558631db60",
+          "feed": "AeroTime",
+          "title": "Four killed in Turkish military S-70 helicopter crash",
+          "url": "https://www.aerotime.aero/articles/turkish-military-s70-helicopter-crash-malatya",
+          "domain": "aerotime.aero",
+          "summary": "Four Turkish service members died when a military Sikorsky S-70 helicopter crashed on the outskirts of Malatya in… The post Four killed in Turkish military S-70 helicopter crash appeared first on AeroTime .",
+          "published": "2026-11-12T20:56:53Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e",
+      "written_count": 2
     },
     "c846fd4c044": {
       "id": "c846fd4c044",
@@ -4919,6 +4931,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.832189
+    "2026-11": 4.833461
   }
 }

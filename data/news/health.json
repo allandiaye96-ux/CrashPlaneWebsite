@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T21:50:34Z",
+  "run": "2026-11-12T22:00:55Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8322,
+  "spend_month_usd": 4.8335,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -382,6 +382,12 @@
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
     },
     {
+      "dossier": "Crash hélicoptère Malatya Turquie",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -743,12 +749,6 @@
     },
     {
       "dossier": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Crash hélicoptère Malatya Turquie",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
