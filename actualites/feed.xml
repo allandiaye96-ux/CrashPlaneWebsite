@@ -6,7 +6,31 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 10:01:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 10:10:58 +0000</lastBuildDate>
+  <item>
+    <title>Frontier Airlines ouvre les réservations de sa cabine premium sur A320 et A321</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c/</guid>
+    <pubDate>Thu, 12 Nov 2026 10:10:58 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Air Journal, la compagnie américaine Frontier Airlines a lancé la vente de places dans une nouvelle cabine haut de gamme, dont le début d&#x27;exploitation est annoncé pour le 5 mars 2027.</description>
+  </item>
+  <item>
+    <title>Aero L-159E G-DKNA : enquête de l&#x27;AAIB sur une descente rapide liée à des défaillances d&#x27;oxygène</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-aero-l-159e-g-dkna-enquete-de-l-aaib-sur-une-descente-rapide-e70c/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-aero-l-159e-g-dkna-enquete-de-l-aaib-sur-une-descente-rapide-e70c/</guid>
+    <pubDate>Thu, 12 Nov 2026 10:10:54 +0000</pubDate>
+    <category>Enquête</category>
+    <description>Selon l&#x27;AAIB, le Royaume-Uni, l&#x27;autorité britannique ouvre une enquête sur un incident concernant le Aero L-159E immatriculé G-DKNA. Les défaillances des systèmes d&#x27;oxygène principal et de secours sont à l&#x27;origine d&#x27;une descente rapide.</description>
+  </item>
+  <item>
+    <title>Hélicoptère Leonardo AW169 G-HHEM : blessure grave d&#x27;un passant par le souffle des rotors à Southend</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33/</guid>
+    <pubDate>Thu, 12 Nov 2026 10:10:52 +0000</pubDate>
+    <category>Enquête</category>
+    <description>Selon l&#x27;AAIB, l&#x27;enquête britannique sur l&#x27;hélicoptère Leonardo AW169 immatriculé G-HHEM porte sur une personne grièvement blessée par le souffle de ses rotors (downwash) à Southend, dans l&#x27;Essex, le 28 février 2026.</description>
+  </item>
   <item>
     <title>Etihad réduit son offre vers l&#x27;Allemagne à partir de janvier 2027</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65/</link>
@@ -222,30 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 09:21:08 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, qui cite des sources internes, Etihad Airways aurait investi un montant élevé, de plusieurs dizaines de millions, dans la compagnie allemande Condor.</description>
-  </item>
-  <item>
-    <title>Frequentis obtient une approbation de conception de la FAA pour son système Digital Tower</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:21:05 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>Selon airliners.de, la FAA américaine a accordé une approbation de conception au système de tour de contrôle numérique de Frequentis.</description>
-  </item>
-  <item>
-    <title>Airbus A330-900 : l&#x27;EASA relève la capacité maximale de 465 à 480 passagers, sous conditions</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:10:55 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>L&#x27;Agence européenne de la sécurité aérienne (EASA) autorise désormais jusqu&#x27;à 480 passagers à bord de l&#x27;Airbus A330-900, contre 465 jusqu&#x27;ici, selon Air Journal. Cette hausse est soumise à des conditions techniques.</description>
-  </item>
-  <item>
-    <title>Crash d&#x27;un Learjet 60 en Floride : le NTSB a récupéré l&#x27;enregistreur de conversations du poste de pilotage</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996/</guid>
-    <pubDate>Tue, 10 Nov 2026 09:01:35 +0000</pubDate>
-    <category>Accident</category>
-    <description>Les enquêteurs du NTSB ont retrouvé l&#x27;enregistreur phonique du Learjet 60 qui s&#x27;est écrasé en Floride, faisant neuf morts, selon aero.de. Simple Flying indique que l&#x27;enquête sur le site de l&#x27;accident est terminée.</description>
   </item>
 </channel>
 </rss>

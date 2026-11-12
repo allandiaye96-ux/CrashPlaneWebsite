@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T10:00:56Z",
+  "run": "2026-11-12T10:10:36Z",
   "stats": {
     "fetched": 682,
-    "new": 7,
-    "written": 2,
+    "new": 15,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7869,
+  "spend_month_usd": 4.7898,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -752,6 +752,24 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65"
+    },
+    {
+      "dossier": "AAIB Leonardo AW169 G-HHEM Southend downwash",
+      "statut": "officiel",
+      "editeurs": 1,
+      "breve": "2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33"
+    },
+    {
+      "dossier": "AAIB Aero L-159E G-DKNA oxygène mer du Nord",
+      "statut": "officiel",
+      "editeurs": 1,
+      "breve": "2026-11-12-aero-l-159e-g-dkna-enquete-de-l-aaib-sur-une-descente-rapide-e70c"
+    },
+    {
+      "dossier": "Frontier première classe A320 2027",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

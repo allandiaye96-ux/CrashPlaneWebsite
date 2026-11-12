@@ -1,5 +1,101 @@
 [
   {
+    "id": "2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c",
+    "created": "2026-11-12T10:10:58Z",
+    "updated": "2026-11-12T10:10:58Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Frontier Airlines ouvre les réservations de sa cabine premium sur A320 et A321",
+    "chapo": "Selon Air Journal, la compagnie américaine Frontier Airlines a lancé la vente de places dans une nouvelle cabine haut de gamme, dont le début d'exploitation est annoncé pour le 5 mars 2027.",
+    "paragraphes": [
+      "Les réservations ont été ouvertes le 10 novembre. Cette offre premium concernera la flotte d'Airbus A320 et A321 de la compagnie, avec huit sièges à l'avant de l'appareil.",
+      "D'après le même titre, les passagers de ce compartiment disposeraient d'un espace accru pour les jambes, et une connectivité est annoncée pour 2027."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Frontier s’offre une première classe : le grand écart de l’ultra-low-cost",
+        "url": "https://www.air-journal.fr/2026-11-12-frontier-soffre-une-premiere-classe-le-grand-ecart-de-lultra-low-cost-5278800.html",
+        "date": "2026-11-12T10:00:32Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-aero-l-159e-g-dkna-enquete-de-l-aaib-sur-une-descente-rapide-e70c",
+    "created": "2026-11-12T10:10:54Z",
+    "updated": "2026-11-12T10:10:54Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Enquête",
+    "importance": 2,
+    "titre": "Aero L-159E G-DKNA : enquête de l'AAIB sur une descente rapide liée à des défaillances d'oxygène",
+    "chapo": "Selon l'AAIB, le Royaume-Uni, l'autorité britannique ouvre une enquête sur un incident concernant le Aero L-159E immatriculé G-DKNA. Les défaillances des systèmes d'oxygène principal et de secours sont à l'origine d'une descente rapide.",
+    "paragraphes": [
+      "L'événement s'est produit le 27 octobre 2025 dans la zone dangereuse de la mer du Nord désignée D323 D, d'après le titre du rapport publié par l'AAIB.",
+      "Les causes de l'événement ne sont pas établies à ce stade de l'enquête."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "officiel",
+      "independent_sources": 1,
+      "official_source": true
+    },
+    "sources": [
+      {
+        "name": "AAIB (Royaume-Uni) – Rapports",
+        "title": "AAIB investigation to Aero L-159E, G-DKNA",
+        "url": "https://www.gov.uk/aaib-reports/aaib-investigation-to-aero-l-159e-g-dkna",
+        "date": "2026-11-12T10:01:19Z",
+        "official": true
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33",
+    "created": "2026-11-12T10:10:52Z",
+    "updated": "2026-11-12T10:10:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Enquête",
+    "importance": 2,
+    "titre": "Hélicoptère Leonardo AW169 G-HHEM : blessure grave d'un passant par le souffle des rotors à Southend",
+    "chapo": "Selon l'AAIB, l'enquête britannique sur l'hélicoptère Leonardo AW169 immatriculé G-HHEM porte sur une personne grièvement blessée par le souffle de ses rotors (downwash) à Southend, dans l'Essex, le 28 février 2026.",
+    "paragraphes": [
+      "Le rapport publié par l'AAIB, l'organisme d'enquête aéronautique du Royaume-Uni, décrit un accident de type « downwash » ayant entraîné une blessure grave pour un membre du public. Les causes de l'événement ne sont pas établies à ce stade.",
+      "L'AAIB a ouvert une enquête sur cet événement, dont la publication date du 12 novembre 2026 selon la source."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "officiel",
+      "independent_sources": 1,
+      "official_source": true
+    },
+    "sources": [
+      {
+        "name": "AAIB (Royaume-Uni) – Rapports",
+        "title": "AAIB investigation to Leonardo AW169, G-HHEM",
+        "url": "https://www.gov.uk/aaib-reports/aaib-investigation-to-leonardo-aw169-g-hhem",
+        "date": "2026-11-12T10:01:46Z",
+        "official": true
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
     "created": "2026-11-12T07:01:17Z",
     "updated": "2026-11-12T10:01:16Z",
