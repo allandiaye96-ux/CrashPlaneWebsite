@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54064/Ryanair-legt-umfassendes-Sparprogramm-auf.html": "2026-11-02T08:00:59Z",
-    "https://www.air-journal.fr/2026-11-02-lufthansa-un-membre-dequipage-meurt-dans-une-piscine-dhotel-en-inde-5278636.html": "2026-11-02T08:00:59Z",
     "https://www.airliners.de/fallende-preise-us-start-ups-holen-flugreisenden-ki-geld-ueck/91224": "2026-11-02T08:20:43Z",
     "https://simpleflying.com/boeing-747-cockpit-flying-queen-skies-differs-modern-jets/": "2026-11-02T09:01:00Z",
     "https://www.air-journal.fr/2026-11-02-lot-tourne-la-page-de-lembraer-e170-apres-22-ans-de-service-5278637.html": "2026-11-02T09:01:00Z",
@@ -1504,7 +1502,8 @@
     "https://www.airliners.de/flughafen-nuernberg-verlaengert-partnerschaft-1-fc-nuernberg/91472": "2026-11-12T07:20:36Z",
     "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html": "2026-11-12T07:30:46Z",
     "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html": "2026-11-12T08:00:58Z",
-    "https://www.air-journal.fr/2026-11-12-magnifica-air-commande-dix-airbus-acj220-300-et-vise-une-flotte-de-17-appareils-5278805.html": "2026-11-12T08:00:58Z"
+    "https://www.air-journal.fr/2026-11-12-magnifica-air-commande-dix-airbus-acj220-300-et-vise-une-flotte-de-17-appareils-5278805.html": "2026-11-12T08:00:58Z",
+    "https://www.aero.de/news-54155/OHB-baut-Umsatz-weiter-aus.html": "2026-11-12T08:10:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5323,6 +5322,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.779535
+    "2026-11": 4.780322
   }
 }
