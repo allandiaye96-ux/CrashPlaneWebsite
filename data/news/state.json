@@ -1505,7 +1505,8 @@
     "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman": "2026-11-12T18:30:50Z",
     "https://airlinegeeks.com/2026/11/12/alaska-adds-service-to-four-new-u-s-cities/": "2026-11-12T18:50:35Z",
     "https://simpleflying.com/business-class-suites-doors-need-additional-aircraft-safety-certification/": "2026-11-12T19:01:06Z",
-    "https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat": "2026-11-12T19:10:39Z"
+    "https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat": "2026-11-12T19:10:39Z",
+    "https://www.twz.com/air/l-39ng-skyfox-jets-could-give-ukraine-a-critical-new-russian-drone-hunting-capability": "2026-11-12T19:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4988,7 +4989,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-12T13:50:50Z",
-      "updated": "2026-11-12T13:50:50Z",
+      "updated": "2026-11-12T19:20:50Z",
       "items": [
         {
           "id": "f0e756a39f86c5a6",
@@ -4998,10 +4999,19 @@
           "domain": "aerotime.aero",
           "summary": "Czechia could supply Ukraine with up to 16 Aero Vodochody L-39 Skyfox jets, First Deputy Prime Minister and… The post Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets appeared first on AeroTime .",
           "published": "2026-11-12T13:17:39Z"
+        },
+        {
+          "id": "afd428a893f62396",
+          "feed": "The War Zone",
+          "title": "L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone Hunting Capability",
+          "url": "https://www.twz.com/air/l-39ng-skyfox-jets-could-give-ukraine-a-critical-new-russian-drone-hunting-capability",
+          "domain": "twz.com",
+          "summary": "The aircraft would offer a far cheaper alternative to using frontline fighters against Moscow’s expanding arsenal of one-way attack drones. The post L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone Hunting Capability appeared first on TWZ .",
+          "published": "2026-11-12T19:13:31Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9",
+      "written_count": 2
     },
     "ca048025735": {
       "id": "ca048025735",
@@ -5090,6 +5100,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.826031
+    "2026-11": 4.827684
   }
 }

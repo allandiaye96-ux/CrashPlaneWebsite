@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9",
+    "created": "2026-11-12T19:20:55Z",
+    "updated": "2026-11-12T19:20:55Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "La Tchéquie envisage de fournir jusqu'à 16 avions L-39 Skyfox à l'Ukraine",
+    "chapo": "Selon AeroTime, la Tchéquie pourrait fournir à l'Ukraine jusqu'à 16 appareils L-39 Skyfox d'Aero Vodochody. Le projet est évoqué par le premier vice-Premier ministre tchèque.",
+    "paragraphes": [
+      "Le constructeur Aero Vodochody est mentionné comme fabricant de ces avions de combat légers. D'après TWZ, le L-39NG Skyfox pourrait offrir à l'Ukraine une nouvelle capacité de chasse aux drones d'attaque unidirectionnels russes.",
+      "Selon TWZ, cette option serait nettement moins coûteuse que l'emploi d'avions de combat de première ligne contre l'arsenal croissant de drones de Moscou."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets",
+        "url": "https://www.aerotime.aero/articles/czechia-ukraine-16-l39-skyfox-jets",
+        "date": "2026-11-12T13:17:39Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone Hunting Capability",
+        "url": "https://www.twz.com/air/l-39ng-skyfox-jets-could-give-ukraine-a-critical-new-russian-drone-hunting-capability",
+        "date": "2026-11-12T19:13:31Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
     "created": "2026-11-12T16:01:21Z",
     "updated": "2026-11-12T16:01:21Z",

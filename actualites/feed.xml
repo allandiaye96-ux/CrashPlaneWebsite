@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 19:10:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 19:20:55 +0000</lastBuildDate>
+  <item>
+    <title>La Tchéquie envisage de fournir jusqu&#x27;à 16 avions L-39 Skyfox à l&#x27;Ukraine</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9/</guid>
+    <pubDate>Thu, 12 Nov 2026 19:20:55 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon AeroTime, la Tchéquie pourrait fournir à l&#x27;Ukraine jusqu&#x27;à 16 appareils L-39 Skyfox d&#x27;Aero Vodochody. Le projet est évoqué par le premier vice-Premier ministre tchèque.</description>
+  </item>
   <item>
     <title>Lufthansa et Vereinigung Cockpit en médiation, un résultat se dessinerait selon aero.de</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 15:40:49 +0000</pubDate>
     <category>Défense</category>
     <description>Selon AeroTime, l&#x27;US Air Force a déplacé le 9 novembre 2026 des avions ravitailleurs basés à RAF Mildenhall, dans l&#x27;est de l&#x27;Angleterre, à la suite d&#x27;une menace attribuée à l&#x27;Iran. The War Zone fait état d&#x27;au moins 12 KC-135 et trois CV-22 partis de la base.</description>
-  </item>
-  <item>
-    <title>Lufthansa reçoit son premier Airbus A350-1000, 700e appareil Airbus du groupe</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d/</guid>
-    <pubDate>Tue, 10 Nov 2026 13:50:59 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Lufthansa a pris livraison de son premier A350-1000 à Toulouse le 10 novembre 2026, selon AeroTime. L&#x27;appareil est aussi le 700e Airbus livré au groupe allemand.</description>
   </item>
 </channel>
 </rss>

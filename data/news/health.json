@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T19:10:39Z",
+  "run": "2026-11-12T19:20:35Z",
   "stats": {
-    "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "fetched": 681,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.826,
+  "spend_month_usd": 4.8277,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 37
+      "items": 36
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -392,6 +392,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
+    },
+    {
+      "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
@@ -761,12 +767,6 @@
     },
     {
       "dossier": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
