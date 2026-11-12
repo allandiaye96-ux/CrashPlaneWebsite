@@ -1161,7 +1161,7 @@
     "version": 2,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Constructeurs et industrie",
     "importance": 2,
     "titre": "Boeing : 49 livraisons en octobre 2026, mais 165 commandes portées par Avolon",

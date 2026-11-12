@@ -1514,7 +1514,8 @@
     "https://simpleflying.com/video/the-airbus-a321xlr-s-premium-economy-problem/": "2026-11-12T12:01:01Z",
     "https://www.air-journal.fr/2026-11-12-animawings-en-insolvabilite-la-suspension-des-vols-prolongee-jusquau-31-decembre-5278812.html": "2026-11-12T12:01:01Z",
     "https://www.aerotime.aero/articles/airasia-appoints-bahrain-board-hub-launch-by-march-2027": "2026-11-12T12:20:34Z",
-    "https://avitrader.com/2026/11/12/charlotte-airport-secures-us2bn-investment-deal/": "2026-11-12T12:20:34Z"
+    "https://avitrader.com/2026/11/12/charlotte-airport-secures-us2bn-investment-deal/": "2026-11-12T12:20:34Z",
+    "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026": "2026-11-12T12:50:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4172,27 +4173,6 @@
       "story_id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
       "written_count": 3
     },
-    "c2974b8742c": {
-      "id": "c2974b8742c",
-      "label": "NH90 espagnols Alpha Scramble Roumanie drones",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-10T12:40:53Z",
-      "updated": "2026-11-10T12:40:53Z",
-      "items": [
-        {
-          "id": "a0e146855be15683",
-          "feed": "The Aviationist",
-          "title": "Spanish NH90 Helicopters Conduct First Alpha Scramble in Romania Against Drone Threat",
-          "url": "https://theaviationist.com/2026/11/10/spanish-nh90-helicopters-alpha-scramble/",
-          "domain": "theaviationist.com",
-          "summary": "Two NH90 helicopters were launched after unidentified drones were detected near Romania’s Black Sea coast, marking the first Alpha Scramble of a Spanish helicopter deployed on a NATO mission. Two Spanish NH90 helicopters deployed to Romania have conducted their first Alpha Scramble after unidentified drones were detected on the Black Sea coast. The NH90s are […]",
-          "published": "2026-11-10T12:39:13Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c7e5388f208": {
       "id": "c7e5388f208",
       "label": "Embraer relève prévisions 2026 après record trimestriel",
@@ -4382,7 +4362,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-10T17:20:53Z",
-      "updated": "2026-11-11T06:01:15Z",
+      "updated": "2026-11-12T12:50:51Z",
       "items": [
         {
           "id": "c720d0bb96e885cc",
@@ -4401,10 +4381,19 @@
           "domain": "air-journal.fr",
           "summary": "Boeing a livré 49 avions en octobre 2026, contre 57 en septembre, mais enregistré 165 commandes sans aucune annulation. Un bilan contrasté, dominé par l’achat de 140 Boeing 737 MAX par le loueur irlandais Avolon. Sur les dix premiers mois de l’année, l’avionneur américain affiche une progression d’environ 6% de ses livraisons, tout en restant […]",
           "published": "2026-11-11T06:00:39Z"
+        },
+        {
+          "id": "30e40c8d044ff159",
+          "feed": "AeroTime",
+          "title": "Boeing slide in 737 MAX deliveries hampers recent progress",
+          "url": "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026",
+          "domain": "aerotime.aero",
+          "summary": "Boeing saw a slide in its 737 MAX deliveries in October 2026, hampering recent progress made by the… The post Boeing slide in 737 MAX deliveries hampers recent progress appeared first on AeroTime .",
+          "published": "2026-11-12T11:48:00Z"
         }
       ],
       "story_id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
-      "written_count": 2
+      "written_count": 3
     },
     "c4b0f715f77": {
       "id": "c4b0f715f77",
@@ -5246,6 +5235,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.800341
+    "2026-11": 4.802089
   }
 }

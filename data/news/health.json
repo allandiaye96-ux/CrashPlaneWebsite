@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T12:40:34Z",
+  "run": "2026-11-12T12:50:34Z",
   "stats": {
-    "fetched": 662,
-    "new": 0,
+    "fetched": 682,
+    "new": 1,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.8003,
+  "spend_month_usd": 4.8021,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": false,
-      "error": "ParseError: no element found: line 13, column 46"
+      "ok": true,
+      "items": 20
     },
     "airliners.de": {
       "ok": true,
@@ -238,6 +238,12 @@
       "breve": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a"
     },
     {
+      "dossier": "Boeing livraisons et commandes octobre",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
+    },
+    {
       "dossier": "Cathay commande 14 Airbus supplémentaires",
       "statut": "corrobore",
       "editeurs": 3,
@@ -356,12 +362,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd"
-    },
-    {
-      "dossier": "Boeing livraisons et commandes octobre",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
     },
     {
       "dossier": "Royal Navy YFQ-48A CCA porte-avions 2027",
@@ -757,12 +757,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "NH90 espagnols Alpha Scramble Roumanie drones",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {
