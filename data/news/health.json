@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T13:10:36Z",
+  "run": "2026-11-12T13:20:37Z",
   "stats": {
-    "fetched": 682,
-    "new": 3,
-    "written": 0,
+    "fetched": 667,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8029,
+  "spend_month_usd": 4.8043,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": true,
-      "items": 15
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Australian Aviation": {
       "ok": true,
@@ -250,6 +250,12 @@
       "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
     },
     {
+      "dossier": "Cathay Pacific commande A330-900 et A321neo",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f"
+    },
+    {
       "dossier": "United interdit les agents IA pour réservations",
       "statut": "corrobore",
       "editeurs": 3,
@@ -368,12 +374,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e"
-    },
-    {
-      "dossier": "Cathay Pacific commande A330-900 et A321neo",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f"
     },
     {
       "dossier": "Lesha Bank vend six A380 à Emirates",

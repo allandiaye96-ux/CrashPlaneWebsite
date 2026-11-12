@@ -1512,7 +1512,9 @@
     "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026": "2026-11-12T12:50:34Z",
     "https://simpleflying.com/aaib-airbus-a300-heathrow-tail-strike-reverse-thrust-go-around/": "2026-11-12T13:10:36Z",
     "https://simpleflying.com/unpexpected-upgrade-tell-us-what-happened/": "2026-11-12T13:10:36Z",
-    "https://www.air-journal.fr/2026-11-12-united-airlines-ferme-la-porte-aux-ia-qui-reservent-des-billets-a-votre-place-5278813.html": "2026-11-12T13:10:36Z"
+    "https://www.air-journal.fr/2026-11-12-united-airlines-ferme-la-porte-aux-ia-qui-reservent-des-billets-a-votre-place-5278813.html": "2026-11-12T13:10:36Z",
+    "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft": "2026-11-12T13:20:37Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/cathay-pacific-commande-11-airbus-a330no-et-3-a321neo-supplementaires-20261112.html": "2026-11-12T13:20:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4551,7 +4553,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-11T07:31:04Z",
-      "updated": "2026-11-11T08:10:50Z",
+      "updated": "2026-11-12T13:21:09Z",
       "items": [
         {
           "id": "a812657a7624864b",
@@ -4570,10 +4572,19 @@
           "domain": "aerotime.aero",
           "summary": "Cathay Pacific has exercised purchase rights for 11 additional Airbus A330-900 aircraft, bringing its firm orders for the… The post Cathay Pacific orders 11 more Airbus A330neos, raising total to 41 appeared first on AeroTime .",
           "published": "2026-11-11T07:57:07Z"
+        },
+        {
+          "id": "abe616eb2179e4db",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Cathay Pacific commande 11 Airbus A330no et 3 A321neo supplémentaires",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/cathay-pacific-commande-11-airbus-a330no-et-3-a321neo-supplementaires-20261112.html",
+          "domain": "journal-aviation.com",
+          "summary": "Cathay Pacific n’a pas encore reçu ses A330neo qu’elle en commande davantage. Le groupe hongkongais a placé une commande ferme auprès d’Airbus pour acquérir quatorze appareils, répartis entre onze A330-900 […] L’article Cathay Pacific commande 11 Airbus A330no et 3 A321neo supplémentaires a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-12T13:15:43Z"
         }
       ],
       "story_id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
-      "written_count": 2
+      "written_count": 3
     },
     "c29cbb8f05e": {
       "id": "c29cbb8f05e",
@@ -5232,6 +5243,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.802938
+    "2026-11": 4.804284
   }
 }
