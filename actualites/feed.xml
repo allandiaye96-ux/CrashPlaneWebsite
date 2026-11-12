@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:01:21 +0000</lastBuildDate>
+  <item>
+    <title>Lufthansa et Vereinigung Cockpit en médiation, un résultat se dessinerait selon aero.de</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471/</guid>
+    <pubDate>Thu, 12 Nov 2026 16:01:21 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, les négociations entre Lufthansa et le syndicat de pilotes Vereinigung Cockpit se poursuivent en médiation après l&#x27;échec des arbitrages d&#x27;octobre 2026, et un résultat se dessinerait.</description>
+  </item>
   <item>
     <title>Européens : ACI Europe appelle à mieux coordonner aéroports, compagnies et pouvoirs publics face aux menaces</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 13:50:59 +0000</pubDate>
     <category>Compagnies</category>
     <description>Lufthansa a pris livraison de son premier A350-1000 à Toulouse le 10 novembre 2026, selon AeroTime. L&#x27;appareil est aussi le 700e Airbus livré au groupe allemand.</description>
-  </item>
-  <item>
-    <title>Embraer relève ses prévisions 2026 après un troisième trimestre record</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208/</guid>
-    <pubDate>Tue, 10 Nov 2026 13:20:54 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon AeroTime, Embraer a relevé ses objectifs de chiffre d&#x27;affaires et de flux de trésorerie disponible pour 2026 après un troisième trimestre historique. Le constructeur brésilien maintient en revanche ses cibles de livraisons.</description>
   </item>
 </channel>
 </rss>

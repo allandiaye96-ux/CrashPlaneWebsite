@@ -1513,7 +1513,10 @@
     "https://airlinegeeks.com/2026/11/12/philippine-airlines-launches-new-u-s-route/": "2026-11-12T15:20:35Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/le-futur-airbus-a320neo-dair-greenland-porte-ses-couleurs-20261112.html": "2026-11-12T15:20:35Z",
     "https://www.journal-aviation.com/actualites-mro-support/oman-air-et-gmf-aeroasia-lancent-une-coentreprise-de-maintenance-a-mascate-20261112.html": "2026-11-12T15:40:37Z",
-    "https://www.aerotime.aero/articles/bae-systems-cash-flow-outlook-gcap-missile-orders": "2026-11-12T15:50:36Z"
+    "https://www.aerotime.aero/articles/bae-systems-cash-flow-outlook-gcap-missile-orders": "2026-11-12T15:50:36Z",
+    "https://simpleflying.com/virgin-atlantic-cancels-all-flights-on-10-hour-us-route-see-map-now/": "2026-11-12T16:01:01Z",
+    "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/": "2026-11-12T16:01:01Z",
+    "https://www.aero.de/news-54156/Kreise-Annaeherung-von-Lufthansa-und-Piloten-moeglich.html": "2026-11-12T16:01:01Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5211,10 +5214,31 @@
       ],
       "story_id": "2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8",
       "written_count": 1
+    },
+    "c046061c471": {
+      "id": "c046061c471",
+      "label": "Lufthansa médiation pilotes Vereinigung Cockpit",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-12T16:01:19Z",
+      "updated": "2026-11-12T16:01:19Z",
+      "items": [
+        {
+          "id": "995e6dc61bad8534",
+          "feed": "aero.de",
+          "title": "Kreise: Mediationsergebnis für Lufthansa und Piloten",
+          "url": "https://www.aero.de/news-54156/Kreise-Annaeherung-von-Lufthansa-und-Piloten-moeglich.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Schlichtungen bei Lufthansa endeten im Oktober 2026 ergebnislos. Doch hinter verschlossenen Türen wird weiter um eine Gesamtlösung gerungen: Lufthansa und Vereinigung Cockpit loten in einer Mediation Schmerzgrenzen aus. Nach Informationen von aero.de zeichnet sich ein Resultat ab.",
+          "published": "2026-11-12T16:00:03Z"
+        }
+      ],
+      "story_id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.817529
+    "2026-11": 4.818796
   }
 }

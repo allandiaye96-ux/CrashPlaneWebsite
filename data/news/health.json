@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T15:50:36Z",
+  "run": "2026-11-12T16:01:01Z",
   "stats": {
     "fetched": 682,
-    "new": 1,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8175,
+  "spend_month_usd": 4.8188,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -740,6 +740,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8"
+    },
+    {
+      "dossier": "Lufthansa médiation pilotes Vereinigung Cockpit",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

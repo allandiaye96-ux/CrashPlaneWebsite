@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
+    "created": "2026-11-12T16:01:21Z",
+    "updated": "2026-11-12T16:01:21Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa et Vereinigung Cockpit en médiation, un résultat se dessinerait selon aero.de",
+    "chapo": "Selon aero.de, les négociations entre Lufthansa et le syndicat de pilotes Vereinigung Cockpit se poursuivent en médiation après l'échec des arbitrages d'octobre 2026, et un résultat se dessinerait.",
+    "paragraphes": [
+      "D'après aero.de, les arbitrages engagés chez Lufthansa ont pris fin en octobre 2026 sans accord. Les discussions se poursuivent à huis clos dans le cadre d'une médiation, où les deux parties cherchent une solution globale.",
+      "Toujours d'après ce média, les deux parties testent leurs limites respectives dans ce cadre. Aucun détail sur les termes d'un éventuel accord n'a été communiqué à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Kreise: Mediationsergebnis für Lufthansa und Piloten",
+        "url": "https://www.aero.de/news-54156/Kreise-Annaeherung-von-Lufthansa-und-Piloten-moeglich.html",
+        "date": "2026-11-12T16:00:03Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
     "created": "2026-11-11T12:10:58Z",
     "updated": "2026-11-12T15:10:53Z",
