@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-12T02:01:00Z",
+  "run": "2026-11-12T02:10:37Z",
   "stats": {
-    "fetched": 667,
-    "new": 1,
+    "fetched": 682,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
@@ -416,12 +416,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-03-british-airways-supprime-six-routes-en-boeing-787-au-depart-f28e"
-    },
-    {
-      "dossier": "Qantas retrait anticipé A380",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-05-qantas-retirerait-ses-airbus-a380-quatre-ans-plus-tot-en-mis-6765"
     },
     {
       "dossier": "Lufthansa résultats T3 deuxième trimestre 2026 kérosène",
