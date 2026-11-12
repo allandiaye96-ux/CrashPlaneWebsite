@@ -1496,7 +1496,8 @@
     "https://www.aerotime.aero/articles/faa-skyways-shell-offshore-drone-deliveries": "2026-11-11T23:00:59Z",
     "https://www.air-journal.fr/2026-11-12-le-12-novembre-1906-dans-le-ciel-santos-dumont-signe-un-vol-remarquable-5278804.html": "2026-11-11T23:10:34Z",
     "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/learjet-60-crashes-near-west-palm-beach-florida/": "2026-11-11T23:50:35Z",
-    "https://simpleflying.com/5-notable-airports-night-flight-curfews-shape-airline-schedules/": "2026-11-12T00:01:03Z"
+    "https://simpleflying.com/5-notable-airports-night-flight-curfews-shape-airline-schedules/": "2026-11-12T00:01:03Z",
+    "https://simpleflying.com/how-much-qantas-business-class-cost-perth-london-boeing-787-9/": "2026-11-12T01:00:55Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5312,6 +5313,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.764677
+    "2026-11": 4.765465
   }
 }
