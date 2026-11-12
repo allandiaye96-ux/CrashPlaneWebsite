@@ -1505,7 +1505,8 @@
     "https://simpleflying.com/air-canada-cancels-10-nonstop-routes/": "2026-11-12T20:10:34Z",
     "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs": "2026-11-12T20:20:36Z",
     "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup": "2026-11-12T20:20:36Z",
-    "https://www.aero.de/news-54163/Cyberangriff-auf-Quantum-Systems.html": "2026-11-12T20:20:36Z"
+    "https://www.aero.de/news-54163/Cyberangriff-auf-Quantum-Systems.html": "2026-11-12T20:20:36Z",
+    "https://simpleflying.com/worlds-busiest-airport-has-no-flights-to-2-us-states/": "2026-11-12T20:27:49Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4946,6 +4947,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.830582
+    "2026-11": 4.831364
   }
 }
