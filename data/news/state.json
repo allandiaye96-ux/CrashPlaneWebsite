@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/flughafen-stuttgart-uebernimmt-steuerung-luftsicherheitskontrollen/91245": "2026-11-02T15:20:37Z",
-    "https://www.aero.de/news-54068/Mehr-los-am-Hamburger-Flughafen.html": "2026-11-02T15:30:53Z",
     "https://airlinegeeks.com/2026/11/02/bermudair-completes-move-to-new-florida-airport/": "2026-11-02T15:50:32Z",
     "https://www.aero.de/news-54070/Easyjet-nimmt-Fluege-nach-Nuernberg-auf.html": "2026-11-02T15:50:32Z",
     "https://simpleflying.com/frontier-airlines-phishing-scam/": "2026-11-02T16:01:04Z",
@@ -2232,48 +2230,6 @@
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 10
     },
-    "c0476c72283": {
-      "id": "c0476c72283",
-      "label": "Nesma Airlines devient Flyplus",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-05T15:20:50Z",
-      "updated": "2026-11-05T15:20:50Z",
-      "items": [
-        {
-          "id": "1f1e18ae8b8f680d",
-          "feed": "airliners.de",
-          "title": "Nesma Airlines wird zu Flyplus und plant Business Class",
-          "url": "https://www.airliners.de/nesma-airlines-flyplus-business-class/91348",
-          "domain": "airliners.de",
-          "summary": "Die ägyptische Nesma Airlines fliegt ab sofort unter der neuen Marke Flyplus. Wie die Fluggesellschaft mitteilte, soll nach dem Rebranding die Flotte wachsen. Zudem plant der Zielgebietscarrier eine Business Class und eine Premium Economy.",
-          "published": "2026-11-05T15:08:35Z"
-        }
-      ],
-      "story_id": "2026-11-05-nesma-airlines-devient-flyplus-et-prevoit-d-agrandir-sa-flot-2283",
-      "written_count": 1
-    },
-    "cbb14cb9886": {
-      "id": "cbb14cb9886",
-      "label": "Airbus livraisons octobre 2026",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T15:20:50Z",
-      "updated": "2026-11-05T15:20:50Z",
-      "items": [
-        {
-          "id": "48771704151f0631",
-          "feed": "airliners.de",
-          "title": "Bericht: Airbus steigert Auslieferungen im Oktober",
-          "url": "https://www.airliners.de/bericht-airbus-steigert-auslieferungen-oktober/91347",
-          "domain": "airliners.de",
-          "summary": "Airbus hat im Oktober nach einem Medienbericht 74 Flugzeuge ausgeliefert. Die offiziellen Zahlen will der Hersteller am Freitag vorlegen. Für sein Jahresziel braucht der Konzern ein Schlussquartal, wie es das in seiner Geschichte noch nicht gab.",
-          "published": "2026-11-05T15:03:28Z"
-        }
-      ],
-      "story_id": "2026-11-05-airbus-aurait-livre-74-avions-en-octobre-selon-un-media-cite-9886",
-      "written_count": 1
-    },
     "c959891e75c": {
       "id": "c959891e75c",
       "label": "Swiss A350 vers Mumbai",
@@ -4280,27 +4236,6 @@
       ],
       "story_id": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d",
       "written_count": 9
-    },
-    "c6df12d70b5": {
-      "id": "c6df12d70b5",
-      "label": "Learjet 60 Floride enregistreur vocal",
-      "categorie": "Enquête",
-      "importance": 3,
-      "created": "2026-11-10T15:20:51Z",
-      "updated": "2026-11-10T15:20:51Z",
-      "items": [
-        {
-          "id": "336a5028786ebcc6",
-          "feed": "airliners.de",
-          "title": "Ermittler bergen Stimmenrekorder nach Learjet-Absturz in Florida",
-          "url": "https://www.airliners.de/ermittler-bergen-stimmenrekorder-learjet-absturz-florida/91436",
-          "domain": "airliners.de",
-          "summary": "Nach dem Absturz eines Learjet 60 auf ein Wohngebiet in Florida haben Ermittler den Stimmenrekorder aus dem Cockpit geborgen. Ob er Tonaufnahmen gespeichert hat, ist noch offen. Bei dem Unglück Anfang November waren alle neun Insassen ums Leben gekommen.",
-          "published": "2026-11-10T14:37:36Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c15de394738": {
       "id": "c15de394738",
