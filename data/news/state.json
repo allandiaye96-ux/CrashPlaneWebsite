@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54069/Bombendrohnung-gegen-Wizz-Air-Flug.html": "2026-11-02T14:50:33Z",
     "https://simpleflying.com/emirates-airbus-a380s-finally-return-to-17-hour-route/": "2026-11-02T15:01:11Z",
     "https://airlinegeeks.com/2026/11/02/american-resumes-service-to-haiti-after-two-year-pause/": "2026-11-02T15:01:11Z",
     "https://www.air-journal.fr/2026-11-02-un-premier-boeing-787-9-pour-pakistan-international-airlines-avec-norse-aux-commandes-5278647.html": "2026-11-02T15:01:11Z",
@@ -1516,7 +1515,8 @@
     "https://www.journal-aviation.com/avions-daffaires/aviation-daffaires-ed-bolen-president-historique-de-la-nbaa-sest-eteint-20261112.html": "2026-11-12T14:30:50Z",
     "https://leehamnews.com/2026/11/12/will-airbus-stretch-the-a350-part-3/": "2026-11-12T14:40:37Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/les-actionnaires-deasyjet-approuvent-loffre-de-rachat-de-57-milliards-de-livres-sterling-du-fonds-americain-apollo-20261112.html": "2026-11-12T14:40:37Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/les-livraisons-davions-commerciaux-de-boeing-en-baisse-consequente-en-octobre-20261112.html": "2026-11-12T14:40:37Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/les-livraisons-davions-commerciaux-de-boeing-en-baisse-consequente-en-octobre-20261112.html": "2026-11-12T14:40:37Z",
+    "https://www.aerotime.aero/articles/korean-air-returns-to-newark-with-daily-seoul-service-from-may-2027": "2026-11-12T14:50:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5272,6 +5272,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.812575
+    "2026-11": 4.813374
   }
 }
