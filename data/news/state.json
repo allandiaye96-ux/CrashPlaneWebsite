@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-skywise-expands-its-portfolio-with-the-launch-of-enhanced-digital-flight-training-solutions": "2026-11-02T13:50:33Z",
-    "https://www.aero.de/news-54067/Airbus-H145M-kann-fliegen-aber-noch-nicht-kaempfen.html": "2026-11-02T13:50:33Z",
     "https://simpleflying.com/boeing-747-400-vs-747-8-last-2-jumbo-generations-compare/": "2026-11-02T14:01:21Z",
     "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters": "2026-11-02T14:01:21Z",
     "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html": "2026-11-02T14:01:21Z",
@@ -1510,7 +1508,9 @@
     "https://simpleflying.com/unpexpected-upgrade-tell-us-what-happened/": "2026-11-12T13:10:36Z",
     "https://www.air-journal.fr/2026-11-12-united-airlines-ferme-la-porte-aux-ia-qui-reservent-des-billets-a-votre-place-5278813.html": "2026-11-12T13:10:36Z",
     "https://www.aerotime.aero/articles/embraer-greek-defense-acquisition-up-to-six-kc-390-millennium-aircraft": "2026-11-12T13:20:37Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/cathay-pacific-commande-11-airbus-a330no-et-3-a321neo-supplementaires-20261112.html": "2026-11-12T13:20:37Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/cathay-pacific-commande-11-airbus-a330no-et-3-a321neo-supplementaires-20261112.html": "2026-11-12T13:20:37Z",
+    "https://www.aerotime.aero/articles/vertical-quality-certification-matches-airbus-boeing-standards": "2026-11-12T13:50:36Z",
+    "https://www.aerotime.aero/articles/czechia-ukraine-16-l39-skyfox-jets": "2026-11-12T13:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5214,10 +5214,31 @@
       ],
       "story_id": "2026-11-12-charlotte-un-accord-de-2-milliards-de-dollars-pour-modernise-bfb9",
       "written_count": 1
+    },
+    "cd353bfa8a9": {
+      "id": "cd353bfa8a9",
+      "label": "Tchéquie L-39 Skyfox pour Ukraine",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-12T13:50:50Z",
+      "updated": "2026-11-12T13:50:50Z",
+      "items": [
+        {
+          "id": "f0e756a39f86c5a6",
+          "feed": "AeroTime",
+          "title": "Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets",
+          "url": "https://www.aerotime.aero/articles/czechia-ukraine-16-l39-skyfox-jets",
+          "domain": "aerotime.aero",
+          "summary": "Czechia could supply Ukraine with up to 16 Aero Vodochody L-39 Skyfox jets, First Deputy Prime Minister and… The post Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets appeared first on AeroTime .",
+          "published": "2026-11-12T13:17:39Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.804284
+    "2026-11": 4.805132
   }
 }

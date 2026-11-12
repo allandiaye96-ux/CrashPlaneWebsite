@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T13:40:38Z",
+  "run": "2026-11-12T13:50:36Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8043,
+  "spend_month_usd": 4.8051,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -803,6 +803,12 @@
     },
     {
       "dossier": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
