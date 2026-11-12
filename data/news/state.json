@@ -1512,7 +1512,9 @@
     "https://boeing.mediaroom.com/2026-11-02-Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters": "2026-11-12T14:20:36Z",
     "https://www.airliners.de/macron-haelt-urheber-bombendrohungen-europa-benennbar/91498": "2026-11-12T14:20:36Z",
     "https://www.airliners.de/stellwerksausfall-legt-s-bahn-flughafen-hannover-lahm/91495": "2026-11-12T14:20:36Z",
-    "https://www.airliners.de/flughaefen-fordern-mehr-innovationen-dienstleistern/91493": "2026-11-12T14:20:36Z"
+    "https://www.airliners.de/flughaefen-fordern-mehr-innovationen-dienstleistern/91493": "2026-11-12T14:20:36Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/operateurs-daffaires/magnifica-air-confirme-une-commande-de-dix-acj220-300-aupres-dairbus-20261112.html": "2026-11-12T14:30:50Z",
+    "https://www.journal-aviation.com/avions-daffaires/aviation-daffaires-ed-bolen-president-historique-de-la-nbaa-sest-eteint-20261112.html": "2026-11-12T14:30:50Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4701,7 +4703,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-11T13:01:19Z",
-      "updated": "2026-11-11T14:20:52Z",
+      "updated": "2026-11-12T14:31:05Z",
       "items": [
         {
           "id": "c6cae82c3bbccecb",
@@ -4720,10 +4722,19 @@
           "domain": "aerotime.aero",
           "summary": "Magnifica Air, a Florida-based startup airline which plans to offer premium-only scheduled flights from 2027, has disclosed an… The post Magnifica Air confirms order for 10 A220 ACJ jets appeared first on AeroTime .",
           "published": "2026-11-11T13:53:53Z"
+        },
+        {
+          "id": "787373d316bcb8e3",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Magnifica Air confirme une commande de dix ACJ220-300 auprès d’Airbus",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/operateurs-daffaires/magnifica-air-confirme-une-commande-de-dix-acj220-300-aupres-dairbus-20261112.html",
+          "domain": "journal-aviation.com",
+          "summary": "La future compagnie privée américaine Magnifica Air, basée en Floride, a confirmé une commande ferme de dix ACJ220-300 auprès d’Airbus. Ces appareils figuraient déjà au carnet de commandes de l’avionneur […] L’article Magnifica Air confirme une commande de dix ACJ220-300 auprès d’Airbus a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-12T14:29:38Z"
         }
       ],
       "story_id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
-      "written_count": 2
+      "written_count": 3
     },
     "c88a266a438": {
       "id": "c88a266a438",
@@ -5250,6 +5261,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.808744
+    "2026-11": 4.81053
   }
 }

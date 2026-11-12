@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T14:20:36Z",
+  "run": "2026-11-12T14:30:50Z",
   "stats": {
     "fetched": 682,
-    "new": 3,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8087,
+  "spend_month_usd": 4.8105,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -256,6 +256,12 @@
       "breve": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f"
     },
     {
+      "dossier": "Magnifica Air commande dix ACJ220",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a"
+    },
+    {
       "dossier": "United interdit les agents IA pour réservations",
       "statut": "corrobore",
       "editeurs": 3,
@@ -380,12 +386,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37"
-    },
-    {
-      "dossier": "Magnifica Air commande dix ACJ220",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a"
     },
     {
       "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
+    "created": "2026-11-11T13:01:22Z",
+    "updated": "2026-11-12T14:31:09Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Magnifica Air officialise la commande de dix ACJ220-300 auprès d'Airbus",
+    "chapo": "Selon AviTrader, la compagnie privée américaine Magnifica Air a validé l'achat ferme de dix appareils Airbus ACJ220-300. Ces avions figuraient déjà dans le carnet de commandes de l'avionneur sans que leur acheteur soit identifié.",
+    "paragraphes": [
+      "Basée en Floride, la jeune compagnie prévoit d'exploiter des vols réguliers réservés à la classe premium à partir de 2027, d'après AeroTime. Elle souhaite ainsi bâtir une flotte haut de gamme.",
+      "Parallèlement, Magnifica Air a retenu plusieurs solutions numériques d'Airbus, parmi lesquelles la plateforme de données Skywise Core X1, ainsi que des outils de planification de vols, d'exploitation et de gestion des équipages."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AviTrader",
+        "title": "Magnifica Air confirms order for ten ACJ220s",
+        "url": "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/",
+        "date": "2026-11-11T12:55:27Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Magnifica Air confirms order for 10 A220 ACJ jets",
+        "url": "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets",
+        "date": "2026-11-11T13:53:53Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "Magnifica Air confirme une commande de dix ACJ220-300 auprès d’Airbus",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/operateurs-daffaires/magnifica-air-confirme-une-commande-de-dix-acj220-300-aupres-dairbus-20261112.html",
+        "date": "2026-11-12T14:29:38Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
     "created": "2026-11-05T14:31:25Z",
     "updated": "2026-11-12T14:20:51Z",
@@ -1128,45 +1174,6 @@
         "title": "Chine : les contrats records de GE pour 12,9 milliards de dollars soulignent la dépendance du C919 aux moteurs occidentaux",
         "url": "https://www.air-journal.fr/2026-11-11-chine-les-contrats-records-de-ge-pour-129-milliards-de-dollars-soulignent-la-dependance-du-c919-aux-moteurs-occidentaux-5278799.html",
         "date": "2026-11-11T15:00:55Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a",
-    "created": "2026-11-11T13:01:22Z",
-    "updated": "2026-11-11T14:20:59Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Magnifica Air confirme une commande ferme de dix Airbus ACJ220-300 et choisit des solutions Skywise",
-    "chapo": "La compagnie privée américaine Magnifica Air a confirmé une commande ferme de dix ACJ220-300, selon AviTrader. Cette commande figurait jusqu'ici comme non divulguée dans le carnet de commandes d'Airbus.",
-    "paragraphes": [
-      "D'après AviTrader, la compagnie constitue une flotte ultra-premium. Elle a également retenu plusieurs solutions numériques Airbus Skywise, dont la plateforme de données Skywise Core X1, ainsi que des outils de planification de vol, d'exploitation et de gestion des équipages.",
-      "Selon AeroTime, Magnifica Air est une compagnie en démarrage basée en Floride, qui prévoit de proposer des vols réguliers exclusivement premium à partir de 2027."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AviTrader",
-        "title": "Magnifica Air confirms order for ten ACJ220s",
-        "url": "https://avitrader.com/2026/11/11/magnifica-air-confirms-order-for-ten-acj220s/",
-        "date": "2026-11-11T12:55:27Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Magnifica Air confirms order for 10 A220 ACJ jets",
-        "url": "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets",
-        "date": "2026-11-11T13:53:53Z",
         "official": false
       }
     ]
