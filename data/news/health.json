@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-12T09:20:38Z",
+  "run": "2026-11-12T09:30:47Z",
   "stats": {
-    "fetched": 582,
-    "new": 6,
-    "written": 2,
+    "fetched": 682,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -266,12 +266,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-05-entraineur-a-reaction-de-l-us-navy-snc-renonce-le-m-346n-res-f2ac"
-    },
-    {
-      "dossier": "Vaeridion financement avion électrique UE",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a"
     },
     {
       "dossier": "Saisie jet privé chinois G550 Iran",

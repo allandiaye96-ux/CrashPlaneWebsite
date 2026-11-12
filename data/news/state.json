@@ -2086,36 +2086,6 @@
       "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
       "written_count": 4
     },
-    "c1cf5019c1a": {
-      "id": "c1cf5019c1a",
-      "label": "Vaeridion financement avion électrique UE",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T08:31:06Z",
-      "updated": "2026-11-05T09:20:49Z",
-      "items": [
-        {
-          "id": "f78fa4fb5e6cf5c2",
-          "feed": "aero.de",
-          "title": "EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion",
-          "url": "https://www.aero.de/news-54096/EU-Millionen-und-Kaufzusagen-fuer-Flugzeug-Startup-Vaeridion.html",
-          "domain": "aero.de",
-          "summary": "MÜNCHEN - Die EU und Investoren geben über 120 Millionen Euro für die Entwicklung eines Elektroflugzeugs an das fünf Jahre alte Münchner Start-Up Vaeridion. Bei der jüngsten Finanzierungsrunde hat das Unternehmen 30 Millionen Euro von Risikokapitalgebern eingeworben, wie Vaeridion mitteilte.",
-          "published": "2026-11-05T08:26:42Z"
-        },
-        {
-          "id": "de36fa24f4c3d335",
-          "feed": "airliners.de",
-          "title": "Vaeridion erhält 94,5 Millionen Euro EU-Fördermittel für Microliner",
-          "url": "https://www.airliners.de/vaeridion-945-millionen-euro-eu-foerdermittel-microliner/91337",
-          "domain": "airliners.de",
-          "summary": "Vaeridion sichert sich 94,5 Millionen Euro an EU-Fördermitteln und zusätzlich frisches Kapital von Investoren. Mit dem Geld soll der neunsitzige Microliner in die Serie gehen. Ein Betreiber aus Belgien steht bereits als Erstkunde fest.",
-          "published": "2026-11-05T09:12:42Z"
-        }
-      ],
-      "story_id": "2026-11-05-vaeridion-plus-de-120-millions-d-euros-de-l-ue-et-d-investis-9c1a",
-      "written_count": 2
-    },
     "cf6cf3faedc": {
       "id": "cf6cf3faedc",
       "label": "Air France-KLM recentre KLM sur Schiphol",
