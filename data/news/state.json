@@ -1506,7 +1506,8 @@
     "https://www.journal-aviation.com/tous-les-editos/ledito-donald-trump-veut-son-salon-aeronautique-plus-grand-que-le-bourget-20261112.html": "2026-11-12T17:01:02Z",
     "https://www.aerotime.aero/articles/boeing-icelease-order-767-300bcfs-conversion-singapore": "2026-11-12T17:20:49Z",
     "https://simpleflying.com/united-passenger-refused-alcohol-exit-row-5000-miles/": "2026-11-12T17:30:48Z",
-    "https://www.twz.com/air/new-facilities-to-pump-out-upgraded-f-a-18e-f-super-hornets-eyed-by-navy": "2026-11-12T17:30:48Z"
+    "https://www.twz.com/air/new-facilities-to-pump-out-upgraded-f-a-18e-f-super-hornets-eyed-by-navy": "2026-11-12T17:30:48Z",
+    "https://www.aero.de/news-54162/Tote-bei-Hubschrauber-Absturz-in-der-Tuerkei.html": "2026-11-12T17:50:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5162,10 +5163,31 @@
       ],
       "story_id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
       "written_count": 1
+    },
+    "c8b79e9cf9e": {
+      "id": "c8b79e9cf9e",
+      "label": "Crash hélicoptère Malatya Turquie",
+      "categorie": "Accident",
+      "importance": 3,
+      "created": "2026-11-12T17:50:48Z",
+      "updated": "2026-11-12T17:50:48Z",
+      "items": [
+        {
+          "id": "62c3be4bd130cb6b",
+          "feed": "aero.de",
+          "title": "Tote bei Hubschrauber-Absturz in der Türkei",
+          "url": "https://www.aero.de/news-54162/Tote-bei-Hubschrauber-Absturz-in-der-Tuerkei.html",
+          "domain": "aero.de",
+          "summary": "MALATYA - Am Abend meldete das türkische Verteidigungsministerium einen Helikopterabsturz mit vier Toten. Die Ursache ist unklar, die Bergungsarbeiten dauern an.",
+          "published": "2026-11-12T17:44:19Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.822855
+    "2026-11": 4.823653
   }
 }

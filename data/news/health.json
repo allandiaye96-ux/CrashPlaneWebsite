@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T17:40:35Z",
+  "run": "2026-11-12T17:50:37Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8229,
+  "spend_month_usd": 4.8237,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -779,6 +779,12 @@
     },
     {
       "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Crash hélicoptère Malatya Turquie",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
