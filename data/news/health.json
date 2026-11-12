@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-12T21:00:58Z",
+  "run": "2026-11-12T21:10:34Z",
   "stats": {
     "fetched": 682,
-    "new": 2,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
-    },
-    {
-      "dossier": "Saisie jet privé chinois G550 Iran",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-05-un-gulfstream-g550-chinois-saisi-a-anchorage-apres-un-voyage-0b47"
     },
     {
       "dossier": "Air France-KLM résultats T3 2026",
