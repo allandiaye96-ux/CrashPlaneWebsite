@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
+    "created": "2026-11-12T08:01:17Z",
+    "updated": "2026-11-12T08:01:17Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Baltic rend 18 Airbus A220-300 à des bailleurs dans le cadre de sa restructuration",
+    "chapo": "Selon aero.de, la compagnie lettone Air Baltic réduit sa flotte dans le cadre de son plan de redressement en restituant par anticipation 18 de ses 54 Airbus A220-300 à des sociétés de leasing.",
+    "paragraphes": [
+      "D'après le même média, la compagnie a également notifié au tribunal américain des faits de faillite compétent son intention de se retirer de trois contrats supplémentaires. Un appareil particulier, décrit comme une A220 aux couleurs lettones, doit quitter la flotte d'Air Baltic."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air Baltic gibt Airbus A220-300 in Lettland-Farben zurück",
+        "url": "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html",
+        "date": "2026-11-12T07:55:57Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
     "created": "2026-11-12T07:31:05Z",
     "updated": "2026-11-12T07:31:05Z",

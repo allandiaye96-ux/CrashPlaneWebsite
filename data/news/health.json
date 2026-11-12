@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T07:50:34Z",
+  "run": "2026-11-12T08:00:58Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7783,
+  "spend_month_usd": 4.7795,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -764,6 +764,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
+    },
+    {
+      "dossier": "Air Baltic retour A220 et sanierung insolvence",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

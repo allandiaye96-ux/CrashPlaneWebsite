@@ -1502,7 +1502,9 @@
     "https://simpleflying.com/united-airlines-bans-ai-agents-booking-flights-check-in/": "2026-11-12T07:00:58Z",
     "https://www.air-journal.fr/2026-11-12-easyjet-les-actionnaires-disent-oui-a-apollo-leurope-reste-a-convaincre-5278810.html": "2026-11-12T07:00:58Z",
     "https://www.airliners.de/flughafen-nuernberg-verlaengert-partnerschaft-1-fc-nuernberg/91472": "2026-11-12T07:20:36Z",
-    "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html": "2026-11-12T07:30:46Z"
+    "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html": "2026-11-12T07:30:46Z",
+    "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html": "2026-11-12T08:00:58Z",
+    "https://www.air-journal.fr/2026-11-12-magnifica-air-commande-dix-airbus-acj220-300-et-vise-une-flotte-de-17-appareils-5278805.html": "2026-11-12T08:00:58Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5296,10 +5298,31 @@
       ],
       "story_id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
       "written_count": 1
+    },
+    "ca88e675dbf": {
+      "id": "ca88e675dbf",
+      "label": "Air Baltic retour A220 et sanierung insolvence",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-12T08:01:14Z",
+      "updated": "2026-11-12T08:01:14Z",
+      "items": [
+        {
+          "id": "6b72c50fca8273aa",
+          "feed": "aero.de",
+          "title": "Air Baltic gibt Airbus A220-300 in Lettland-Farben zurück",
+          "url": "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html",
+          "domain": "aero.de",
+          "summary": "RIGA - Eine Flottenverkleinerung steht im Mittelpunkt der Sanierung von Air Baltic. Die Airline gibt 18 von 54 Airbus A220-300 vorzeitig an Leasingfirmen zurück. Jetzt hat Air Baltic dem zuständigen US-Insolvenzgericht den Ausstieg aus drei weiteren Verträgen angezeigt - eine besondere A220 wird Air Baltic verlassen.",
+          "published": "2026-11-12T07:55:57Z"
+        }
+      ],
+      "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.778305
+    "2026-11": 4.779535
   }
 }
