@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
+    "created": "2026-11-12T08:01:17Z",
+    "updated": "2026-11-12T09:21:18Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Baltic veut restituer trois Airbus A220-300 supplémentaires en plus de 18 appareils",
+    "chapo": "Dans le cadre de son redressement sous protection du Chapter 11, Air Baltic réduit encore sa flotte d'A220-300. Selon airliners.de, la compagnie veut rendre trois appareils loués supplémentaires.",
+    "paragraphes": [
+      "D'après aero.de, la compagnie lettone rend déjà 18 de ses 54 Airbus A220-300 à des sociétés de leasing avant la date prévue. Elle a par ailleurs notifié au tribunal américain des faillites son intention de sortir de trois autres contrats, dont celui d'un appareil à livrée spéciale aux couleurs de la Lettonie.",
+      "Selon airliners.de, cette seconde demande a été déposée début novembre auprès du tribunal des faillites de New York. La date retenue pour la résiliation est le 25 novembre, et l'audience est fixée au 9 décembre."
+    ],
+    "contradictions": "Aucune contradiction majeure. aero.de évoque une « livrée lettone » et un appareil particulier sans préciser le nombre de contrats concernés au-delà des trois contrats mentionnés ; airliners.de parle de trois appareils, ce qui concorde avec le nombre de contrats indiqué par aero.de.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air Baltic gibt Airbus A220-300 in Lettland-Farben zurück",
+        "url": "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html",
+        "date": "2026-11-12T07:55:57Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Air Baltic will drei weitere geleaste A220-300 zurückgeben",
+        "url": "https://www.airliners.de/air-baltic-will-drei-weitere-geleaste-a220-300-zurueckgeben/91482",
+        "date": "2026-11-12T08:50:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764",
+    "created": "2026-11-12T05:50:45Z",
+    "updated": "2026-11-12T09:21:15Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Fly4 Airlines : le High Court de Dublin nomme des administrateurs provisoires",
+    "chapo": "Selon aero.de, la compagnie irlandaise spécialisée en ACMI Fly4 Airlines doit disparaître du marché. Selon airliners.de, elle serait placée en liquidation provisoire.",
+    "paragraphes": [
+      "D'après aero.de, le tribunal compétent de Dublin, le High Court, a désigné des administrateurs provisoires pour la société.",
+      "Selon airliners.de, qui cite un témoin proche du dossier, Fly4 Airlines serait liquidée. Le média indique aussi que la société, dont Enter Air et Tui sont actionnaires, a obtenu auprès du High Court l'ouverture d'une liquidation provisoire, information également relayée par The Currency."
+    ],
+    "contradictions": "Les deux sources décrivent des procédures légèrement différentes : aero.de évoque la nomination d'administrateurs provisoires, airliners.de la liquidation provisoire. Elles concordent toutefois sur l'intervention du High Court de Dublin.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Fly4 Airlines soll aufgelöst werden",
+        "url": "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html",
+        "date": "2026-11-12T05:44:22Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Fly 4 Airlines geht in vorläufige Liquidation",
+        "url": "https://www.airliners.de/fly-4-airlines-vorlaeufige-liquidation/91483",
+        "date": "2026-11-12T08:47:51Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65",
     "created": "2026-11-12T08:20:49Z",
     "updated": "2026-11-12T08:20:49Z",
@@ -26,37 +104,6 @@
         "title": "Etihad reduziert ab Januar 2027 Angebot nach Deutschland",
         "url": "https://www.airliners.de/etihad-reduziert-januar-2027-angebot-deutschland/91476",
         "date": "2026-11-12T07:47:00Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
-    "created": "2026-11-12T08:01:17Z",
-    "updated": "2026-11-12T08:01:17Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air Baltic rend 18 Airbus A220-300 à des bailleurs dans le cadre de sa restructuration",
-    "chapo": "Selon aero.de, la compagnie lettone Air Baltic réduit sa flotte dans le cadre de son plan de redressement en restituant par anticipation 18 de ses 54 Airbus A220-300 à des sociétés de leasing.",
-    "paragraphes": [
-      "D'après le même média, la compagnie a également notifié au tribunal américain des faits de faillite compétent son intention de se retirer de trois contrats supplémentaires. Un appareil particulier, décrit comme une A220 aux couleurs lettones, doit quitter la flotte d'Air Baltic."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Air Baltic gibt Airbus A220-300 in Lettland-Farben zurück",
-        "url": "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html",
-        "date": "2026-11-12T07:55:57Z",
         "official": false
       }
     ]
@@ -174,37 +221,6 @@
         "title": "EasyJet : les actionnaires disent oui à Apollo, l’Europe reste à convaincre",
         "url": "https://www.air-journal.fr/2026-11-12-easyjet-les-actionnaires-disent-oui-a-apollo-leurope-reste-a-convaincre-5278810.html",
         "date": "2026-11-12T07:00:21Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764",
-    "created": "2026-11-12T05:50:45Z",
-    "updated": "2026-11-12T05:50:45Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Fly4 Airlines : le tribunal de Dublin nomme des administrateurs provisoires",
-    "chapo": "Selon aero.de, la compagnie irlandaise spécialisée dans le wet lease (ACMI) Fly4 Airlines doit disparaître du marché. Le High Court de Dublin a désigné des administrateurs provisoires.",
-    "paragraphes": [
-      "D'après le même média, la décision du tribunal irlandais concerne une dissolution de la société, qui n'a pas encore été actée à ce stade par les sources disponibles."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Fly4 Airlines soll aufgelöst werden",
-        "url": "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html",
-        "date": "2026-11-12T05:44:22Z",
         "official": false
       }
     ]

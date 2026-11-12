@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-12T09:10:34Z",
+  "run": "2026-11-12T09:20:38Z",
   "stats": {
-    "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "fetched": 582,
+    "new": 6,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.7823,
+  "spend_month_usd": 4.7842,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Leeham News": {
       "ok": true,
@@ -400,6 +400,18 @@
       "breve": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb"
     },
     {
+      "dossier": "Fly4 Airlines dissolution High Court Dublin",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
+    },
+    {
+      "dossier": "Air Baltic retour A220 et sanierung insolvence",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -748,12 +760,6 @@
       "breve": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac"
     },
     {
-      "dossier": "Fly4 Airlines dissolution High Court Dublin",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
-    },
-    {
       "dossier": "United interdit les agents IA pour réservations",
       "statut": "source_unique",
       "editeurs": 1,
@@ -766,12 +772,6 @@
       "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
     },
     {
-      "dossier": "Air Baltic retour A220 et sanierung insolvence",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
-    },
-    {
       "dossier": "Etihad réduit son offre vers l'Allemagne 2027",
       "statut": "source_unique",
       "editeurs": 1,
@@ -781,12 +781,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "United pilotes code détournement passager cockpit bombe",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/boeing-cleared-sell-parts-jets-belarus-belavia-despite-russia/": "2026-11-02T09:20:32Z",
-    "https://www.airliners.de/gate-future-aryve-kamerasystem-samt-lidar-scan-flughaefen-barrierefreier/91090": "2026-11-02T09:20:32Z",
-    "https://www.airliners.de/ryanair-verlaengert-partnerschaft-erasmus-student-network/91230": "2026-11-02T09:20:32Z",
     "https://www.air-journal.fr/2026-11-02-srilankan-airlines-laffaire-airbus-rattrape-le-fils-de-lancien-president-5278638.html": "2026-11-02T10:01:00Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=F6C14F06-105C-4791-9D1B-772ED9B186F7": "2026-11-02T10:06:15Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=84B682F4-7958-4A02-B10C-7A1C9A37BC3C": "2026-11-02T10:06:15Z",
@@ -1504,7 +1501,13 @@
     "https://www.airliners.de/etihad-reduziert-januar-2027-angebot-deutschland/91476": "2026-11-12T08:20:32Z",
     "https://www.easa.europa.eu/newsroom-and-events/news/sunny-swift-threat-and-error-management-part-1": "2026-11-12T09:00:59Z",
     "https://simpleflying.com/qantas-airbus-a321xlr-3-fewer-economy-seats/": "2026-11-12T09:00:59Z",
-    "https://www.air-journal.fr/2026-11-12-un-a321neo-comme-toile-cebu-pacific-celebre-ses-30-ans-et-ses-racines-5278808.html": "2026-11-12T09:00:59Z"
+    "https://www.air-journal.fr/2026-11-12-un-a321neo-comme-toile-cebu-pacific-celebre-ses-30-ans-et-ses-racines-5278808.html": "2026-11-12T09:00:59Z",
+    "https://www.airliners.de/china-eastern-legt-milliarden-yuan-anleihe-hongkong/91467": "2026-11-12T09:20:38Z",
+    "https://www.airliners.de/air-baltic-will-drei-weitere-geleaste-a220-300-zurueckgeben/91482": "2026-11-12T09:20:38Z",
+    "https://www.airliners.de/fly-4-airlines-vorlaeufige-liquidation/91483": "2026-11-12T09:20:38Z",
+    "https://www.airliners.de/sun-phuquoc-airways-prueft-frankfurt-ziel-boeing-787-9/91484": "2026-11-12T09:20:38Z",
+    "https://www.airliners.de/flughafen-zuerich-haelt-passagierzahlen-oktober-stabil/91480": "2026-11-12T09:20:38Z",
+    "https://www.airliners.de/emirates-bewirbt-meilensammeln-abseits-fliegens/91478": "2026-11-12T09:20:38Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4255,27 +4258,6 @@
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
       "written_count": 5
     },
-    "c52b068fd3e": {
-      "id": "c52b068fd3e",
-      "label": "United pilotes code détournement passager cockpit bombe",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-10T09:10:48Z",
-      "updated": "2026-11-10T09:10:48Z",
-      "items": [
-        {
-          "id": "f8486f26e94d8850",
-          "feed": "Simple Flying",
-          "title": "United Pilots Squawk Hijack Code As Passenger Tries To Storm Cockpit, Says He Has A Bomb",
-          "url": "https://simpleflying.com/united-pilots-squawk-hijack-code-passenger-storm-cockpit-bomb/",
-          "domain": "simpleflying.com",
-          "summary": "Despite the alarming incident, the flight was able to continue to its destination as planned.",
-          "published": "2026-11-10T09:01:53Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cdfd299e85a": {
       "id": "cdfd299e85a",
       "label": "Tankers USAF quittent RAF Mildenhall menace Iran",
@@ -5221,7 +5203,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T05:50:43Z",
-      "updated": "2026-11-12T05:50:43Z",
+      "updated": "2026-11-12T09:21:13Z",
       "items": [
         {
           "id": "09863ccd9fccbbc3",
@@ -5231,10 +5213,19 @@
           "domain": "aero.de",
           "summary": "DUBLIN - Der irische ACMI-Spezialist Fly4 Airlines verschwindet vom Markt. Der zuständige High Court in Dublin hat vorläufige Verwalter bestellt.",
           "published": "2026-11-12T05:44:22Z"
+        },
+        {
+          "id": "b0817a2667ea3f1b",
+          "feed": "airliners.de",
+          "title": "Fly 4 Airlines geht in vorläufige Liquidation",
+          "url": "https://www.airliners.de/fly-4-airlines-vorlaeufige-liquidation/91483",
+          "domain": "airliners.de",
+          "summary": "Fly 4 Airlines, an der Enter Air und Tui beteiligt sind, wird einem Insider zufolge liquidiert. Auch \"The Currency\" berichtete, die Gesellschaft habe beim High Court erfolgreich die vorläufige Liquidation beantragt.",
+          "published": "2026-11-12T08:47:51Z"
         }
       ],
       "story_id": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764",
-      "written_count": 1
+      "written_count": 2
     },
     "ca8a95cf5dc": {
       "id": "ca8a95cf5dc",
@@ -5284,7 +5275,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T08:01:14Z",
-      "updated": "2026-11-12T08:01:14Z",
+      "updated": "2026-11-12T09:21:13Z",
       "items": [
         {
           "id": "6b72c50fca8273aa",
@@ -5294,10 +5285,19 @@
           "domain": "aero.de",
           "summary": "RIGA - Eine Flottenverkleinerung steht im Mittelpunkt der Sanierung von Air Baltic. Die Airline gibt 18 von 54 Airbus A220-300 vorzeitig an Leasingfirmen zurück. Jetzt hat Air Baltic dem zuständigen US-Insolvenzgericht den Ausstieg aus drei weiteren Verträgen angezeigt - eine besondere A220 wird Air Baltic verlassen.",
           "published": "2026-11-12T07:55:57Z"
+        },
+        {
+          "id": "5de1c2c46d7b7c99",
+          "feed": "airliners.de",
+          "title": "Air Baltic will drei weitere geleaste A220-300 zurückgeben",
+          "url": "https://www.airliners.de/air-baltic-will-drei-weitere-geleaste-a220-300-zurueckgeben/91482",
+          "domain": "airliners.de",
+          "summary": "Air Baltic will im Gläubigerschutzverfahren nach \"Chapter 11\" drei weitere geleaste Airbus A220-300 zurückgeben. Das ging aus einem zweiten Antrag hervor, den die Airline Anfang November beim US-Insolvenzgericht in New York einreichte. Als Stichtag für die Ablehnung nennt der Antrag den 25. November. Die Anhörung ist für den 9. Dezember angesetzt.",
+          "published": "2026-11-12T08:50:00Z"
         }
       ],
       "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
-      "written_count": 1
+      "written_count": 2
     },
     "cc027c9fe65": {
       "id": "cc027c9fe65",
@@ -5323,6 +5323,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.782337
+    "2026-11": 4.784233
   }
 }
