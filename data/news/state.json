@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/wizz-air-bomb-threat-diversion/": "2026-11-02T17:01:05Z",
-    "https://www.aerotime.aero/articles/boeing-icelease-order-767-300bcfs-conversion-singapore": "2026-11-02T17:01:05Z",
-    "https://airlinegeeks.com/2026/11/02/denver-air-connection-plans-first-florida-service/": "2026-11-02T17:01:05Z",
-    "https://simpleflying.com/worlds-oldest-boeing-737-800-final-week-tracked/": "2026-11-02T17:10:35Z",
     "https://www.airliners.de/eurowings-praesentiert-berliner-winterflugplan-zielen/91264": "2026-11-02T17:20:35Z",
     "https://www.airliners.de/condor-winterziele-muensterosnabrueck/91265": "2026-11-02T17:20:35Z",
     "https://www.airliners.de/easyjet-fluege-grossbritannien-nuernberg/91263": "2026-11-02T17:20:35Z",
@@ -2257,27 +2253,6 @@
       ],
       "story_id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
       "written_count": 2
-    },
-    "c71393dfe23": {
-      "id": "c71393dfe23",
-      "label": "Air Tahiti Nui Starlink connectivité 787",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-05T17:01:21Z",
-      "updated": "2026-11-05T17:01:21Z",
-      "items": [
-        {
-          "id": "a9edced430667c52",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Air Tahiti Nui signe à son tour avec Starlink",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/connectivite-et-ife/air-tahiti-nui-signe-a-son-tour-avec-starlink-20261105.html",
-          "domain": "journal-aviation.com",
-          "summary": "Air Tahiti Nui va proposer une connectivité gratuite à bord de ses appareils, grâce à un accord signé avec SpaceX pour équiper sa flotte de quatre Boeing 787 avec le […] L’article Air Tahiti Nui signe à son tour avec Starlink a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-05T16:55:07Z"
-        }
-      ],
-      "story_id": "2026-11-05-air-tahiti-nui-choisit-la-connexion-starlink-pour-ses-quatre-fe23",
-      "written_count": 1
     },
     "ca2d91f6f04": {
       "id": "ca2d91f6f04",
