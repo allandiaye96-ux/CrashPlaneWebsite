@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-02-voyage-aux-baleares-une-destination-mediterraneenne-qui-seduit-bien-au-dela-de-lete-5278399.html": "2026-11-02T11:10:36Z",
     "https://avitrader.com/2026/11/02/eirtech-wins-easa-approval-for-a320-data-link-upgrade/": "2026-11-02T11:20:53Z",
     "https://www.aero.de/news-54066/Bericht-US-Regierung-hebt-Sanktionen-gegen-Belavia-auf.html": "2026-11-02T11:20:53Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/saft-equipera-toute-la-flotte-de-boeing-737-de-westjet-avec-ses-batteries-ulm-20261102.html": "2026-11-02T11:20:53Z",
@@ -1515,7 +1514,10 @@
     "https://avitrader.com/2026/11/12/easyjet-shareholders-back-5-7bn-apollo-takeover/": "2026-11-12T10:30:51Z",
     "https://avitrader.com/2026/11/12/general-atomics-breaks-ground-on-nordholz-mro-facility/": "2026-11-12T11:01:03Z",
     "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo": "2026-11-12T11:10:35Z",
-    "https://www.air-journal.fr/2026-11-12-prix-confort-temps-de-trajet-comment-le-voyageur-daffaires-choisit-son-vol-5278811.html": "2026-11-12T11:10:35Z"
+    "https://www.air-journal.fr/2026-11-12-prix-confort-temps-de-trajet-comment-le-voyageur-daffaires-choisit-son-vol-5278811.html": "2026-11-12T11:10:35Z",
+    "https://avitrader.com/2026/11/12/itochu-completes-investment-in-acg/": "2026-11-12T11:20:34Z",
+    "https://www.aero.de/news-54158/Ukrainischer-Drohnenhersteller-wirbt-Millionen-ein.html": "2026-11-12T11:20:34Z",
+    "https://www.airliners.de/video/airlinersde-spieleabend-4-pilotentraum-flughafenchef-ueber-air-berlin-koelnbonn-91492": "2026-11-12T11:20:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -5247,6 +5249,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.794646
+    "2026-11": 4.795522
   }
 }
