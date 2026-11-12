@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-12T18:01:03Z",
+  "run": "2026-11-12T18:10:35Z",
   "stats": {
     "fetched": 682,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -278,12 +278,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d"
-    },
-    {
-      "dossier": "SNC se retire du programme UJTS de la US Navy",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-05-ujts-de-l-us-navy-snc-renonce-textron-et-son-m-346n-restent-56bd"
     },
     {
       "dossier": "Saisie jet privé chinois G550 Iran",
