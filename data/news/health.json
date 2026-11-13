@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T10:10:33Z",
+  "run": "2026-11-13T10:20:37Z",
   "stats": {
-    "fetched": 683,
+    "fetched": 682,
     "new": 6,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8608,
+  "spend_month_usd": 4.8617,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 38
+      "items": 37
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -146,12 +146,6 @@
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
-    },
-    {
-      "dossier": "Collision d'hélicoptères près de l'Everest (Pheriche)",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de"
     },
     {
       "dossier": "NASA annonce avion expérimental X-70 Fractal",
@@ -254,12 +248,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
-    },
-    {
-      "dossier": "F-35B tir d'essai missile Meteor",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5"
     },
     {
       "dossier": "IAG résultats S1 2026 recul bénéfice kérosène",

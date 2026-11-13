@@ -1505,7 +1505,13 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=03DE9A48-2A37-4CA1-BCA2-DEAC4C3B36B4": "2026-11-13T10:10:33Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=B5AF8BC1-54B7-42A9-9BBB-36136BEE48D2": "2026-11-13T10:10:33Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=8E07D7BC-316B-4245-AFB0-0F10EAC9C34C": "2026-11-13T10:10:33Z",
-    "https://avitrader.com/2026/11/13/ryanair-opens-e40m-maintenance-hangar-in-porto/": "2026-11-13T10:10:33Z"
+    "https://avitrader.com/2026/11/13/ryanair-opens-e40m-maintenance-hangar-in-porto/": "2026-11-13T10:10:33Z",
+    "https://simpleflying.com/the-single-remote-airport-makes-airbus-a350s-south-pacific-crossing-possible/": "2026-11-13T10:20:37Z",
+    "https://www.airliners.de/microsoft-ausfall-trifft-fluggesellschaften/91507": "2026-11-13T10:20:37Z",
+    "https://www.airliners.de/iata-kritisiert-fehlende-abschlussberichte-flugunfaellen/91505": "2026-11-13T10:20:37Z",
+    "https://www.airliners.de/pfizer-streit-belgisches-gericht-hebt-pfaendung-polnische-flugsicherungsgebuehren-auf/91504": "2026-11-13T10:20:37Z",
+    "https://www.airliners.de/luftverkehrsbranche-warnt-folgekosten-drohnenabwehr-flughaefen/91503": "2026-11-13T10:20:37Z",
+    "https://www.journal-aviation.com/actualites-mro-support/mexicana-opte-pour-la-solution-de-maintenance-predictive-dembraer-20261113.html": "2026-11-13T10:20:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1612,54 +1618,6 @@
       ],
       "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
       "written_count": 6
-    },
-    "c33d94ac6de": {
-      "id": "c33d94ac6de",
-      "label": "Collision d'hélicoptères près de l'Everest (Pheriche)",
-      "categorie": "Accident",
-      "importance": 3,
-      "created": "2026-11-03T08:10:44Z",
-      "updated": "2026-11-06T10:10:54Z",
-      "items": [
-        {
-          "id": "eadd4313503ad45a",
-          "feed": "AeroTime",
-          "title": "Two helicopters collide near Mount Everest, killing passenger",
-          "url": "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche",
-          "domain": "aerotime.aero",
-          "summary": "A passenger was killed, and three people were injured when two helicopters collided while landing at the Pheriche… The post Two helicopters collide near Mount Everest, killing passenger appeared first on AeroTime .",
-          "published": "2026-11-03T07:53:29Z"
-        },
-        {
-          "id": "09128a6705118c47",
-          "feed": "aero.de",
-          "title": "Hubschrauber kollidieren am Mount Everest",
-          "url": "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html",
-          "domain": "aero.de",
-          "summary": "KATHMANDU - Am Mount Everest kollidieren zwei Hubschrauber an einem Landeplatz und stürzten ab. Ein Mensch stirbt.",
-          "published": "2026-11-03T08:39:49Z"
-        },
-        {
-          "id": "8de8bfa0629a8542",
-          "feed": "Simple Flying",
-          "title": "1 Dead, 2 Injured After 2 Helicopters Collide On Mount Everest",
-          "url": "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/",
-          "domain": "simpleflying.com",
-          "summary": "Two helicopters collided near Mount Everest during Nepal's peak trekking season, killing an Indian tourist and injuring passengers and pilots.",
-          "published": "2026-11-03T18:47:29Z"
-        },
-        {
-          "id": "3dd2c6ed866d46ec",
-          "feed": "Aero-News Network",
-          "title": "Two Airbus Helicopters Collide Near Mount Everest",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=DC861704-2DA5-401B-B541-E870A4209024",
-          "domain": "aero-news.net",
-          "summary": "1 Dead, 3 Injured In Collision While Landing At High-Altitude Helipad Two Airbus AS350-family helicopters collided while attempting to land at a high-altitude helipad in Nepal’s Everest region on Tuesday morning, killing one passenger and injuring others. The accident occurred at around 8:12 a.m. local time at Pheriche in Solukhumbu district, according to reporting by Aerospace Global News. Helicopters regularly carry tourists, climbers and supplies between remote Himalayan settlements. The Civil Aviation Authority of Nepal (CAAN) identified the two aircraft as an Air Dynasty helicopter, registration 9N-AOD, and a Fishtail Air helicopter, registration 9N-AJR. In a statement, the authority ex",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
-      "written_count": 4
     },
     "c2569f72076": {
       "id": "c2569f72076",
@@ -1903,36 +1861,6 @@
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 11
-    },
-    "c95c3af7cd5": {
-      "id": "c95c3af7cd5",
-      "label": "F-35B tir d'essai missile Meteor",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-05T21:10:59Z",
-      "updated": "2026-11-06T10:10:54Z",
-      "items": [
-        {
-          "id": "a887c940302b18fa",
-          "feed": "The Aviationist",
-          "title": "F-35B Releases Meteor BVRAAM for the First Time",
-          "url": "https://theaviationist.com/2026/11/05/f-35b-releases-meteor-bvraam-for-the-first-time/",
-          "domain": "theaviationist.com",
-          "summary": "The Oct. 7 trial saw the release of an inert Meteor test asset from an F-35B’s internal weapons bay, demonstrating safe separation and providing data for further release tests ahead of live firings. An F-35B Short Take-Off Vertical Landing (STOVL) fighter jettisoned an MBDA Meteor Beyond Visual-Range Air-to-Air Missile (BVRAAM) for the first time from […]",
-          "published": "2026-11-05T21:05:30Z"
-        },
-        {
-          "id": "b04d1f8cf797cfa2",
-          "feed": "AeroTime",
-          "title": "F-35B releases Meteor missile from internal weapons bay for first time",
-          "url": "https://www.aerotime.aero/articles/f-35b-meteor-missile-first-internal-bay-release",
-          "domain": "aerotime.aero",
-          "summary": "",
-          "published": "2026-11-06T09:59:04Z"
-        }
-      ],
-      "story_id": "2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5",
-      "written_count": 2
     },
     "c8734fa933e": {
       "id": "c8734fa933e",
@@ -4874,6 +4802,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.860777
+    "2026-11": 4.861738
   }
 }
