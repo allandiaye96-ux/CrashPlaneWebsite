@@ -2,23 +2,23 @@
   {
     "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
     "created": "2026-11-13T21:50:52Z",
-    "updated": "2026-11-13T21:50:52Z",
-    "version": 1,
+    "updated": "2026-11-13T22:01:20Z",
+    "version": 2,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Sécurité et réglementation",
     "importance": 3,
     "titre": "La FAA ordonne un arrêt national des départs de tous les vols aux États-Unis",
-    "chapo": "Selon AirlineGeeks, la FAA a ordonné un arrêt au sol national touchant l'ensemble des vols américains. D'après The War Zone, il s'agit de la troisième fois de l'histoire qu'une telle mesure est prise par l'agence.",
+    "chapo": "Selon AeroTime, la Federal Aviation Administration (FAA) a ordonné un arrêt au sol national de l'ensemble des départs aux États-Unis. Plusieurs médias rapportent que l'agence invoque des problèmes de communication liés au contrôle aérien.",
     "paragraphes": [
-      "Les départs ont été suspendus en raison de problèmes de communication avec le contrôle aérien, selon les informations publiées par AirlineGeeks. Simple Flying indique que l'agence a évoqué des problèmes de communication pour justifier cette mesure.",
-      "The War Zone précise que cette décision constitue seulement la troisième fois que la FAA prend un ordre de ce type."
+      "D'après AeroTime, la mesure a été décidée peu avant 4 p.m. heure de l'Est. Les médias consultés indiquent que les départs sont suspendus à l'échelle du pays en raison de problèmes de communications avec le contrôle aérien (ATC).",
+      "Selon The War Zone, il s'agit seulement de la troisième fois de l'histoire que la FAA prend un ordre de ce type. AeroTime précise par ailleurs que les vols déjà en l'air doivent s'attendre à des mises en attente (holding) à l'échelle nationale."
     ],
     "contradictions": "",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 3,
+      "independent_sources": 4,
       "official_source": false
     },
     "sources": [
@@ -41,6 +41,13 @@
         "title": "FAA Orders Ground Stop For All Flights Across The U.S.",
         "url": "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
         "date": "2026-11-13T21:46:29Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "FAA halts all US departures, warns airborne flights to expect holding nationwide",
+        "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026",
+        "date": "2026-11-13T21:53:31Z",
         "official": false
       }
     ]

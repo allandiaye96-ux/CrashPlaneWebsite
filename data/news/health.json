@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T21:50:36Z",
+  "run": "2026-11-13T22:00:58Z",
   "stats": {
     "fetched": 684,
-    "new": 2,
+    "new": 3,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9044,
+  "spend_month_usd": 4.9061,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -172,6 +172,12 @@
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
     },
     {
+      "dossier": "FAA ground stop national (problème ATC)",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
+    },
+    {
       "dossier": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
       "statut": "corrobore",
       "editeurs": 3,
@@ -254,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
-    },
-    {
-      "dossier": "FAA ground stop national (problème ATC)",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
     },
     {
       "dossier": "Drone explosif Leipzig/Halle",

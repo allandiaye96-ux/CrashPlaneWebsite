@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://theaircurrent.com/airlines/rolls-royce-steps-up-alaska-air-campaign-unseat-ge-future-787s/": "2026-11-03T21:50:40Z",
     "https://www.air-journal.fr/2026-11-04-le-4-novembre-1908-dans-le-ciel-les-ambitions-brisees-de-bleriot-5278666.html": "2026-11-03T23:10:34Z",
     "https://www.twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean": "2026-11-03T23:20:37Z",
     "https://simpleflying.com/westjet-porter-airlines-carrier-more-premium-2026/": "2026-11-04T00:01:02Z",
@@ -1503,7 +1502,10 @@
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-reports-share-buyback-transactions-9-13-november-2026": "2026-11-13T21:01:00Z",
     "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/": "2026-11-13T21:30:46Z",
     "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/": "2026-11-13T21:50:36Z",
-    "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s": "2026-11-13T21:50:36Z"
+    "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s": "2026-11-13T21:50:36Z",
+    "https://simpleflying.com/delta-air-lines-flying-replacement-aging-airbus-a319s-american-united-dont/": "2026-11-13T22:00:58Z",
+    "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026": "2026-11-13T22:00:58Z",
+    "https://www.aerotime.aero/articles/us-airlines-thanksgiving-air-travel-2026": "2026-11-13T22:00:58Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4716,7 +4718,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-13T21:50:50Z",
+      "updated": "2026-11-13T22:01:15Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4744,14 +4746,23 @@
           "domain": "twz.com",
           "summary": "This is only the third time in history such an order has been given by the FAA. The post FAA Orders Ground Stop For All Flights Across The U.S. appeared first on TWZ .",
           "published": "2026-11-13T21:46:29Z"
+        },
+        {
+          "id": "2a607402c030bd62",
+          "feed": "AeroTime",
+          "title": "FAA halts all US departures, warns airborne flights to expect holding nationwide",
+          "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026",
+          "domain": "aerotime.aero",
+          "summary": "The US Federal Aviation Administration (FAA) ordered a nationwide ground stop shortly before 4 p.m. Eastern time on… The post FAA halts all US departures, warns airborne flights to expect holding nationwide appeared first on AeroTime .",
+          "published": "2026-11-13T21:53:31Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 3
+      "written_count": 4
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.904424
+    "2026-11": 4.906126
   }
 }
