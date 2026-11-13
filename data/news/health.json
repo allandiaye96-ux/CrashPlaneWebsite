@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-13T14:20:36Z",
+  "run": "2026-11-13T14:30:47Z",
   "stats": {
-    "fetched": 683,
-    "new": 1,
-    "written": 1,
+    "fetched": 682,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 38
+      "items": 37
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -674,12 +674,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a"
-    },
-    {
-      "dossier": "Alerte drones Pays baltes Finlande espace aérien",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",

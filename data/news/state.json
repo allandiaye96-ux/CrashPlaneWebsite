@@ -1496,7 +1496,8 @@
     "https://www.aerotime.aero/articles/uk-france-military-exercise-poland-post-war-ukraine": "2026-11-13T14:20:36Z",
     "https://www.aerotime.aero/articles/germany-mbda-airborne-laser-weapon-demonstrator": "2026-11-13T14:20:36Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Travel-Demand-Propels-Middle-East-Fleet-to-Double-by-2045": "2026-11-13T14:20:36Z",
-    "https://airlinegeeks.com/2026/11/13/united-clears-halfway-mark-on-starlink-rollout/": "2026-11-13T14:20:36Z"
+    "https://airlinegeeks.com/2026/11/13/united-clears-halfway-mark-on-starlink-rollout/": "2026-11-13T14:20:36Z",
+    "https://www.aerotime.aero/articles/french-navy-airbus-aliaca-vtol-drone-qualified": "2026-11-13T14:30:47Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -3937,27 +3938,6 @@
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
       "written_count": 6
-    },
-    "c26b775d3a4": {
-      "id": "c26b775d3a4",
-      "label": "Alerte drones Pays baltes Finlande espace aérien",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-11T14:20:52Z",
-      "updated": "2026-11-11T14:20:52Z",
-      "items": [
-        {
-          "id": "49aaa430826be991",
-          "feed": "airliners.de",
-          "title": "Baltische Staaten lösen Drohnenalarm aus – Finnland beschränkt Luftraum",
-          "url": "https://www.airliners.de/baltische-staaten-loesen-drohnenalarm-finnland-beschraenkt-luftraum/91458",
-          "domain": "airliners.de",
-          "summary": "Litauen, Lettland und Estland haben am frühen Mittwochmorgen ihre Einwohner aufgerufen, wegen nicht identifizierter Drohnen Schutzräume aufzusuchen. Auch Finnland reagierte und schränkte vorübergehend den Luftraum ein.",
-          "published": "2026-11-11T13:40:19Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c066e08149a": {
       "id": "c066e08149a",
