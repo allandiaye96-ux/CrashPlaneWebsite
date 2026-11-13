@@ -1498,7 +1498,11 @@
     "https://www.aero.de/news-54170/Ermittlungen-nach-Cyberangriff-auf-Quantum-Systems.html": "2026-11-13T15:01:04Z",
     "https://www.air-journal.fr/2026-11-13-singapore-airlines-des-passagers-records-au-premier-semestre-mais-le-kerosene-rogne-les-benefices-5278845.html": "2026-11-13T15:01:04Z",
     "https://www.aero.de/news-54168/Spohr-Neue-Grossraummodelle-erst-in-den-40er-Jahren.html": "2026-11-13T15:10:35Z",
-    "https://www.airbus.com/en/newsroom/stories/2026-11-performance-and-precision-in-action-shaping-the-future-of-utility-helicopter-mission": "2026-11-13T15:20:48Z"
+    "https://www.airbus.com/en/newsroom/stories/2026-11-performance-and-precision-in-action-shaping-the-future-of-utility-helicopter-mission": "2026-11-13T15:20:48Z",
+    "https://www.aerotime.aero/articles/sweden-receives-taurus-missiles-germany-gripen": "2026-11-13T15:30:48Z",
+    "https://simpleflying.com/antonov-airlines-an-124-loses-part-takeoff-nagoya/": "2026-11-13T15:30:48Z",
+    "https://theaviationist.com/2026/11/13/b-21-raider-first-weapon-release/": "2026-11-13T15:30:48Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html": "2026-11-13T15:30:48Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4693,7 +4697,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-13T14:01:13Z",
-      "updated": "2026-11-13T14:01:13Z",
+      "updated": "2026-11-13T15:31:03Z",
       "items": [
         {
           "id": "7d7be558d61ab1cd",
@@ -4703,10 +4707,19 @@
           "domain": "aerotime.aero",
           "summary": "Saudi Arabia’s The Helicopter Company (THC) has signed firm purchase agreements for 12 Bombardier business jets, turning a… The post Saudi THC firms up 12-jet Bombardier order, with options for 48 more appeared first on AeroTime .",
           "published": "2026-11-13T13:36:42Z"
+        },
+        {
+          "id": "ea60cd9481483410",
+          "feed": "Le Journal de l'Aviation",
+          "title": "THC confirme sa commande pour 12 avions d’affaires de Bombardier",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html",
+          "domain": "journal-aviation.com",
+          "summary": "The Helicopter Company (THC) confirme son intention de lancer des opérations en avions d’affaires. La société saoudienne a finalisé son accord avec Bombardier et signé une commande ferme pour douze […] L’article THC confirme sa commande pour 12 avions d’affaires de Bombardier a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-13T15:28:29Z"
         }
       ],
       "story_id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
-      "written_count": 1
+      "written_count": 2
     },
     "ce360e6238a": {
       "id": "ce360e6238a",
@@ -4800,10 +4813,31 @@
       ],
       "story_id": null,
       "written_count": 1
+    },
+    "ced930dadb1": {
+      "id": "ced930dadb1",
+      "label": "B-21 Raider démonstration largage d'armement",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-13T15:31:03Z",
+      "updated": "2026-11-13T15:31:03Z",
+      "items": [
+        {
+          "id": "cac9699a5441f571",
+          "feed": "The Aviationist",
+          "title": "USAF and Northrop Grumman Confirm B-21 Raider’s First Weapon Release Capability Demonstration",
+          "url": "https://theaviationist.com/2026/11/13/b-21-raider-first-weapon-release/",
+          "domain": "theaviationist.com",
+          "summary": "While details of the test remain undisclosed, the U.S. Air Force and Northrop Grumman have confirmed that the B-21 Raider has demonstrated its weapon release capability, marking another important milestone in the stealth bomber’s flight test campaign. The U.S. Air Force has revealed another significant milestone in the B-21 Raider‘s flight test campaign: on Nov. 13, […]",
+          "published": "2026-11-13T15:21:15Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.881172
+    "2026-11": 4.88242
   }
 }

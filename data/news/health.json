@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T15:20:48Z",
+  "run": "2026-11-13T15:30:48Z",
   "stats": {
     "fetched": 682,
-    "new": 1,
-    "written": 0,
+    "new": 3,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8812,
+  "spend_month_usd": 4.8824,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -376,6 +376,12 @@
       "breve": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7"
     },
     {
+      "dossier": "THC commande 12 Bombardier business jets",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2"
+    },
+    {
       "dossier": "Cyberattaque Quantum Systems drones Bundeswehr",
       "statut": "corrobore",
       "editeurs": 2,
@@ -676,12 +682,6 @@
       "breve": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f"
     },
     {
-      "dossier": "THC commande 12 Bombardier business jets",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2"
-    },
-    {
       "dossier": "United Starlink déploiement mi-parcours",
       "statut": "source_unique",
       "editeurs": 1,
@@ -720,6 +720,12 @@
     {
       "dossier": "Singapore Airlines résultats semestriels 2026/2027",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "B-21 Raider démonstration largage d'armement",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }

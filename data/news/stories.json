@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
+    "created": "2026-11-13T14:01:22Z",
+    "updated": "2026-11-13T15:31:05Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Saudi THC confirme une commande ferme de 12 avions d'affaires Bombardier",
+    "chapo": "Selon AeroTime, la compagnie saoudienne The Helicopter Company (THC) a signé des accords d'achat fermes pour 12 avions d'affaires Bombardier. Le Journal de l'Aviation rapporte la même commande.",
+    "paragraphes": [
+      "THC souhaite lancer des opérations en avions d'affaires, d'après Le Journal de l'Aviation, qui indique que la société a finalisé son accord avec Bombardier. La commande porte sur douze appareils.",
+      "Selon AeroTime, la commande s'accompagne d'options portant sur 48 appareils supplémentaires."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Saudi THC firms up 12-jet Bombardier order, with options for 48 more",
+        "url": "https://www.aerotime.aero/articles/saudi-thc-firms-up-12-jet-bombardier-order-with-options-for-48-more",
+        "date": "2026-11-13T13:36:42Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "THC confirme sa commande pour 12 avions d’affaires de Bombardier",
+        "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html",
+        "date": "2026-11-13T15:28:29Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-quantum-systems-les-drones-de-la-bundeswehr-de-nouveau-en-vo-6a48",
     "created": "2026-11-13T15:01:22Z",
     "updated": "2026-11-13T15:01:22Z",
@@ -105,38 +144,6 @@
         "title": "United Clears Halfway Mark on Starlink Rollout",
         "url": "https://airlinegeeks.com/2026/11/13/united-clears-halfway-mark-on-starlink-rollout/",
         "date": "2026-11-13T14:13:13Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
-    "created": "2026-11-13T14:01:22Z",
-    "updated": "2026-11-13T14:01:22Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Constructeurs et industrie",
-    "importance": 2,
-    "titre": "L'Arabie saoudite THC ferme une commande de 12 avions d'affaires Bombardier",
-    "chapo": "Selon AeroTime, The Helicopter Company (THC), basée en Arabie saoudite, a signé des accords d'achat fermes portant sur 12 avions d'affaires Bombardier.",
-    "paragraphes": [
-      "D'après le même média, la commande prévoit également des options pour 48 appareils supplémentaires.",
-      "Le texte disponible reste bref et ne détaille pas davantage les modalités du contrat ni le calendrier de livraison."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "Saudi THC firms up 12-jet Bombardier order, with options for 48 more",
-        "url": "https://www.aerotime.aero/articles/saudi-thc-firms-up-12-jet-bombardier-order-with-options-for-48-more",
-        "date": "2026-11-13T13:36:42Z",
         "official": false
       }
     ]
