@@ -1502,7 +1502,8 @@
     "https://simpleflying.com/antonov-airlines-an-124-loses-part-takeoff-nagoya/": "2026-11-13T15:30:48Z",
     "https://theaviationist.com/2026/11/13/b-21-raider-first-weapon-release/": "2026-11-13T15:30:48Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html": "2026-11-13T15:30:48Z",
-    "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/": "2026-11-13T15:40:42Z"
+    "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/": "2026-11-13T15:40:42Z",
+    "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/": "2026-11-13T15:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1852,63 +1853,6 @@
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 11
-    },
-    "c8734fa933e": {
-      "id": "c8734fa933e",
-      "label": "Singapore Airlines suites First et Business 777-9",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-06T05:40:57Z",
-      "updated": "2026-11-06T15:40:50Z",
-      "items": [
-        {
-          "id": "6b8c66e27989f5e0",
-          "feed": "Simple Flying",
-          "title": "Live: Singapore Airlines Unveils All-New First & Business Class Suites For Its Boeing 777-9",
-          "url": "https://simpleflying.com/singapore-airlines-new-first-business-class-suites-boeing-777-9/",
-          "domain": "simpleflying.com",
-          "summary": "The airline has unveiled \"the largest double bed in commercial aviation\".",
-          "published": "2026-11-06T05:36:32Z"
-        },
-        {
-          "id": "afd95fa9ed322e9f",
-          "feed": "airliners.de",
-          "title": "Singapore Airlines setzt bei neuer Langstreckenkabine auf Doppelbetten",
-          "url": "https://www.airliners.de/singapore-airlines-langstreckenkabine-doppelbetten/91361",
-          "domain": "airliners.de",
-          "summary": "Singapore Airlines hat neue Sitze für alle vier Reiseklassen auf der Langstrecke vorgestellt und investiert dafür mehr als zwei Milliarden Singapur-Dollar. Die Kabinen kommen ab der zweiten Jahreshälfte 2027 in die Flotte – statt auf der verschobenen 777-9 nun zuerst in einem anderen Typen.",
-          "published": "2026-11-06T06:01:00Z"
-        },
-        {
-          "id": "95fd0b91c677afe0",
-          "feed": "AviTrader",
-          "title": "Singapore Airlines invests S$2bn in new long-haul cabins",
-          "url": "https://avitrader.com/2026/11/06/singapore-airlines-invests-s2bn-in-new-long-haul-cabins/",
-          "domain": "avitrader.com",
-          "summary": "Singapore Airlines (SIA) is investing more than S$2 billion in new long-haul cabin products across all four travel classes, with the first installations scheduled for the second half of 2027. The new first-class, business-class, premium-economy and economy-class products will be introduced progressively on 41 retrofitted Airbus A350-900 long-haul and A350-900 ultra-long-range (ULR) aircraft, as well […] The post Singapore Airlines invests S$2bn in new long-haul cabins appeared first on AviTrader Aviation News .",
-          "published": "2026-11-06T11:38:15Z"
-        },
-        {
-          "id": "7a8b5405556edf3e",
-          "feed": "AeroTime",
-          "title": "Singapore Airlines introduces new first and business long-haul cabin products",
-          "url": "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new",
-          "domain": "aerotime.aero",
-          "summary": "Singapore Airlines (SIA) has announced its new first, business, premium economy and economy long-haul products, to arrive from… The post Singapore Airlines introduces new first and business long-haul cabin products appeared first on AeroTime .",
-          "published": "2026-11-06T13:00:11Z"
-        },
-        {
-          "id": "8e29765cecb3cc35",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Singapore Airlines lance un nouveau produit cabine sur ses Boeing 777-9 et Airbus A350",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html",
-          "domain": "journal-aviation.com",
-          "summary": "Singapore Airlines a décidé de réviser son produit pour améliorer encore l’expérience de ses passagers. La compagnie a notamment consacré un investissement de 1,56 milliard de dollars (2 milliards de […] L’article Singapore Airlines lance un nouveau produit cabine sur ses Boeing 777-9 et Airbus A350 a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-06T15:39:34Z"
-        }
-      ],
-      "story_id": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e",
-      "written_count": 5
     },
     "cfca5dd9898": {
       "id": "cfca5dd9898",
@@ -4539,9 +4483,9 @@
       "id": "c63818ecf90",
       "label": "Global Airlines liquidation obligatoire",
       "categorie": "Compagnies",
-      "importance": 2,
+      "importance": 3,
       "created": "2026-11-13T10:01:10Z",
-      "updated": "2026-11-13T15:40:54Z",
+      "updated": "2026-11-13T15:50:46Z",
       "items": [
         {
           "id": "8a7ae03aa2455df0",
@@ -4560,10 +4504,19 @@
           "domain": "simpleflying.com",
           "summary": "Liquidators could find it difficult to see the aircraft in need of maintenance",
           "published": "2026-11-13T15:30:59Z"
+        },
+        {
+          "id": "a7f2955702ab65b4",
+          "feed": "Flightradar24 – Blog",
+          "title": "The End of Global Airlines?",
+          "url": "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/",
+          "domain": "flightradar24.com",
+          "summary": "Global Airlines, the British startup with grand ambitions to build a transatlantic airline around the Airbus A380, has been ordered into compulsory liquidation. The High Court of Justice made the winding-up order against Global Airlines Ltd on 4 November 2026, according to a notice in The Gazette published on 12 November. The order follows a […] The post The End of Global Airlines? appeared first on Flightradar24 Blog .",
+          "published": "2026-11-13T15:37:16Z"
         }
       ],
       "story_id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
-      "written_count": 2
+      "written_count": 3
     },
     "cfc03e5b30f": {
       "id": "cfc03e5b30f",
@@ -4847,6 +4800,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.883582
+    "2026-11": 4.88479
   }
 }

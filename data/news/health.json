@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-13T15:40:42Z",
+  "run": "2026-11-13T15:50:36Z",
   "stats": {
     "fetched": 682,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8836,
+  "spend_month_usd": 4.8848,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -142,12 +142,6 @@
       "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
     },
     {
-      "dossier": "Singapore Airlines suites First et Business 777-9",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-06-singapore-airlines-devoile-ses-nouvelles-suites-first-et-bus-933e"
-    },
-    {
       "dossier": "NASA annonce avion expérimental X-70 Fractal",
       "statut": "corrobore",
       "editeurs": 4,
@@ -254,6 +248,12 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
+    },
+    {
+      "dossier": "Global Airlines liquidation obligatoire",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
     },
     {
       "dossier": "Airbus objectif livraisons fin 2026",
@@ -368,12 +368,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-13-british-airways-immobilise-un-a321neo-apres-un-double-talonn-f106"
-    },
-    {
-      "dossier": "Global Airlines liquidation obligatoire",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
     },
     {
       "dossier": "SpiceJet vols Dubai annulés frais aéroportuaires",
