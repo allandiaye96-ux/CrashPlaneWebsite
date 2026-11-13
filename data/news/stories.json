@@ -6,7 +6,7 @@
     "version": 3,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Sécurité et réglementation",
     "importance": 3,
     "titre": "États-Unis : la FAA ordonne un arrêt national des départs de vols après une panne des communications du contrôle aérien",

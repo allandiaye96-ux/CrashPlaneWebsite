@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T23:01:01Z",
+  "run": "2026-11-13T23:10:34Z",
   "stats": {
     "fetched": 684,
     "new": 2,
-    "written": 1,
-    "held": 0,
+    "written": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.9093,
+  "spend_month_usd": 4.9113,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -136,16 +136,16 @@
       "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
     },
     {
+      "dossier": "FAA ground stop national (problème ATC)",
+      "statut": "corrobore",
+      "editeurs": 6,
+      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
+    },
+    {
       "dossier": "Boeing autorisée vente Belarus Belavia",
       "statut": "corrobore",
       "editeurs": 5,
       "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
-    },
-    {
-      "dossier": "FAA ground stop national (problème ATC)",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
     },
     {
       "dossier": "NASA annonce avion expérimental X-70 Fractal",

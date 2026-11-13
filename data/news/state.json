@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-04-le-4-novembre-1908-dans-le-ciel-les-ambitions-brisees-de-bleriot-5278666.html": "2026-11-03T23:10:34Z",
     "https://www.twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean": "2026-11-03T23:20:37Z",
     "https://simpleflying.com/westjet-porter-airlines-carrier-more-premium-2026/": "2026-11-04T00:01:02Z",
     "https://www.airliners.de/emirates-plaenen-ita-airways-plant-rueckkehr-malpensa/91279": "2026-11-04T03:20:35Z",
@@ -1509,7 +1508,9 @@
     "https://theaircurrent.com/airlines/rolls-royce-steps-up-alaska-air-campaign-unseat-ge-future-787s/": "2026-11-13T22:10:35Z",
     "https://theaviationist.com/2026/11/13/raf-lakenheath-sounds-alarm-drone-activity/": "2026-11-13T22:30:48Z",
     "https://simpleflying.com/true-airbus-a321xlr-flies-nose-pitch-up-cruising-altitude/": "2026-11-13T23:01:01Z",
-    "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/": "2026-11-13T23:01:01Z"
+    "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/": "2026-11-13T23:01:01Z",
+    "https://www.aero.de/news-54172/Landesweiter-Flugstopp-an-US-Flughaefen.html": "2026-11-13T23:10:34Z",
+    "https://www.air-journal.fr/2026-11-14-le-14-novembre-1918-dans-le-ciel-une-journee-de-chutes-a-paris-5278851.html": "2026-11-13T23:10:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4731,7 +4732,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-13T23:01:11Z",
+      "updated": "2026-11-13T23:10:47Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4777,14 +4778,23 @@
           "domain": "theaircurrent.com",
           "summary": "Air safety reporting is made accessible without a subscription as a public service. Subscribe to The Air Current for full access to our scoops, in-depth reporting and industry analysis. U.S. regulators ordered aircraft departures to halt nationwide on Friday after telecommunications outages at air traffic control centers disrupted radar and radio frequencies used by controllers and pilots. The ground stop was issued at 3:44 p.m. Eastern time, with the FAA telling airlines that […] The post U.S. halts flight departures nationwide on air traffic communications outage appeared first on The Air Current .",
           "published": "2026-11-13T22:56:24Z"
+        },
+        {
+          "id": "d7a47d4a7b6d6b14",
+          "feed": "aero.de",
+          "title": "Landesweiter Flugstopp an US-Flughäfen",
+          "url": "https://www.aero.de/news-54172/Landesweiter-Flugstopp-an-US-Flughaefen.html",
+          "domain": "aero.de",
+          "summary": "WASHINGTON - Die US-Luftfahrtaufsicht FAA hat einen landesweiten Stopp für Starts an Flughäfen verfügt. Grund seien Kommunikationsprobleme im Flugkontrollsystem, teilte Verkehrsminister Sean Duffy auf der Online-Plattform X mit. Techniker der FAA arbeiteten daran. Man werde neue Informationen umgehend mitteilen.",
+          "published": "2026-11-13T23:05:29Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 5
+      "written_count": 6
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.909271
+    "2026-11": 4.911285
   }
 }
