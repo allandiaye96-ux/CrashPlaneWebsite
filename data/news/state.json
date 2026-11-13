@@ -1507,7 +1507,9 @@
     "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026": "2026-11-13T22:00:58Z",
     "https://www.aerotime.aero/articles/us-airlines-thanksgiving-air-travel-2026": "2026-11-13T22:00:58Z",
     "https://theaircurrent.com/airlines/rolls-royce-steps-up-alaska-air-campaign-unseat-ge-future-787s/": "2026-11-13T22:10:35Z",
-    "https://theaviationist.com/2026/11/13/raf-lakenheath-sounds-alarm-drone-activity/": "2026-11-13T22:30:48Z"
+    "https://theaviationist.com/2026/11/13/raf-lakenheath-sounds-alarm-drone-activity/": "2026-11-13T22:30:48Z",
+    "https://simpleflying.com/true-airbus-a321xlr-flies-nose-pitch-up-cruising-altitude/": "2026-11-13T23:01:01Z",
+    "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/": "2026-11-13T23:01:01Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4729,7 +4731,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-13T22:01:15Z",
+      "updated": "2026-11-13T23:01:11Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4766,14 +4768,23 @@
           "domain": "aerotime.aero",
           "summary": "The US Federal Aviation Administration (FAA) ordered a nationwide ground stop shortly before 4 p.m. Eastern time on… The post FAA halts all US departures, warns airborne flights to expect holding nationwide appeared first on AeroTime .",
           "published": "2026-11-13T21:53:31Z"
+        },
+        {
+          "id": "5af24cbda2c4f8d6",
+          "feed": "The Air Current",
+          "title": "U.S. halts flight departures nationwide on air traffic communications outage",
+          "url": "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/",
+          "domain": "theaircurrent.com",
+          "summary": "Air safety reporting is made accessible without a subscription as a public service. Subscribe to The Air Current for full access to our scoops, in-depth reporting and industry analysis. U.S. regulators ordered aircraft departures to halt nationwide on Friday after telecommunications outages at air traffic control centers disrupted radar and radio frequencies used by controllers and pilots. The ground stop was issued at 3:44 p.m. Eastern time, with the FAA telling airlines that […] The post U.S. halts flight departures nationwide on air traffic communications outage appeared first on The Air Current .",
+          "published": "2026-11-13T22:56:24Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 4
+      "written_count": 5
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.907354
+    "2026-11": 4.909271
   }
 }

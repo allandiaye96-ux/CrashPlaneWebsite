@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T22:50:36Z",
+  "run": "2026-11-13T23:01:01Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9074,
+  "spend_month_usd": 4.9093,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -142,6 +142,12 @@
       "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
     },
     {
+      "dossier": "FAA ground stop national (problème ATC)",
+      "statut": "corrobore",
+      "editeurs": 5,
+      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
+    },
+    {
       "dossier": "NASA annonce avion expérimental X-70 Fractal",
       "statut": "corrobore",
       "editeurs": 4,
@@ -170,12 +176,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
-    },
-    {
-      "dossier": "FAA ground stop national (problème ATC)",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
