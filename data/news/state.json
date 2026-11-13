@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/ultra-long-haul-flights-still-need-4-pilots-cockpit-takeoff/": "2026-11-03T10:01:00Z",
-    "https://www.air-journal.fr/2026-11-03-air-montenegro-paris-cdg-parmi-cinq-liaisons-soutenues-par-letat-montenegrin-5278656.html": "2026-11-03T10:01:00Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=FBF604B1-6AC9-4BFE-BE3A-3F82A199C649": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=4397FD37-CBE8-4CE6-AD75-486C904727E3": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=37E4275C-7A3C-4295-8815-79F81CC27793": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C98F0496-D4CE-4BA3-8257-33DA1A66F44B": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=559C8591-990B-4EF5-8D63-BC6681AC6FD8": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=5E0BCEB7-AF25-4CAB-B8EE-0F060E7447B3": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C5C392DD-55D7-4775-BBE2-F9060254D129": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E25B6734-63D0-4BEB-9573-63FFEB0A0603": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=34FC9992-E65C-467C-B720-4F53F9F0B2F9": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=AF2EDD9E-EC96-475C-B43A-86CEC4D5AC60": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=56311C79-25C9-4245-B454-51FA4877D481": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=0595BCB4-0AB9-4039-8434-16E8D225D637": "2026-11-03T10:08:53Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=12BA1076-A9A1-47EB-AE8D-C94CDE440AA3": "2026-11-03T10:08:53Z",
     "https://simpleflying.com/emirates-56-seat-premium-economy-cabin-offer-that-singapore-airlines-structurally-cannot-match/": "2026-11-03T10:20:46Z",
     "https://www.airliners.de/lufthansa-steigert-quartalsgewinn-trotz-hoeherer-kerosinkosten-gewinnprognose/91268": "2026-11-03T10:20:46Z",
     "https://www.airliners.de/eurowings-schickt-beschaeftigte-winter-wohl-nicht-kurzarbeit/91269": "2026-11-03T10:20:46Z",
@@ -1514,7 +1499,13 @@
     "https://avitrader.com/2026/11/13/airbaltic-completes-amos-system-rollout/": "2026-11-13T09:30:46Z",
     "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court": "2026-11-13T10:00:57Z",
     "https://avitrader.com/2026/11/13/astronics-lifts-adjusted-ebitda-by-81/": "2026-11-13T10:00:57Z",
-    "https://www.air-journal.fr/2026-11-13-united-accelere-le-deploiement-de-starlink-avec-une-generalisation-visee-fin-2027-5278822.html": "2026-11-13T10:00:57Z"
+    "https://www.air-journal.fr/2026-11-13-united-accelere-le-deploiement-de-starlink-avec-une-generalisation-visee-fin-2027-5278822.html": "2026-11-13T10:00:57Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=412A6C7E-48E5-4E76-8027-FD964D1042EB": "2026-11-13T10:10:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E9FE6917-DD56-488C-B228-F134029544D0": "2026-11-13T10:10:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=03DE9A48-2A37-4CA1-BCA2-DEAC4C3B36B4": "2026-11-13T10:10:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=B5AF8BC1-54B7-42A9-9BBB-36136BEE48D2": "2026-11-13T10:10:33Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=8E07D7BC-316B-4245-AFB0-0F10EAC9C34C": "2026-11-13T10:10:33Z",
+    "https://avitrader.com/2026/11/13/ryanair-opens-e40m-maintenance-hangar-in-porto/": "2026-11-13T10:10:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4883,6 +4874,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.85984
+    "2026-11": 4.860777
   }
 }

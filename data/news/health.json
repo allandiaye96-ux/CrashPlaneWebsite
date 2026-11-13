@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T10:00:57Z",
+  "run": "2026-11-13T10:10:33Z",
   "stats": {
-    "fetched": 663,
-    "new": 3,
-    "written": 1,
+    "fetched": 683,
+    "new": 6,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8598,
+  "spend_month_usd": 4.8608,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": false,
-      "error": "ParseError: no element found: line 13, column 46"
+      "ok": true,
+      "items": 20
     },
     "airliners.de": {
       "ok": true,
