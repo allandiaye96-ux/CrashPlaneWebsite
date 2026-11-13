@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-03-le-caire-easyjet-holidays-ajoute-les-pyramides-et-le-grand-musee-egyptien-a-ses-sejours-5278663.html": "2026-11-03T15:30:59Z",
     "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/": "2026-11-03T16:01:07Z",
     "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat": "2026-11-03T16:20:39Z",
     "https://www.airliners.de/linke-fragt-bundesregierung-katar-abkommen-landerechten-golf-airlines/91301": "2026-11-03T16:20:39Z",
@@ -1502,7 +1501,8 @@
     "https://www.aerotime.aero/articles/sweden-receives-taurus-missiles-germany-gripen": "2026-11-13T15:30:48Z",
     "https://simpleflying.com/antonov-airlines-an-124-loses-part-takeoff-nagoya/": "2026-11-13T15:30:48Z",
     "https://theaviationist.com/2026/11/13/b-21-raider-first-weapon-release/": "2026-11-13T15:30:48Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html": "2026-11-13T15:30:48Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html": "2026-11-13T15:30:48Z",
+    "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/": "2026-11-13T15:40:42Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4541,7 +4541,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-13T10:01:10Z",
-      "updated": "2026-11-13T10:01:10Z",
+      "updated": "2026-11-13T15:40:54Z",
       "items": [
         {
           "id": "8a7ae03aa2455df0",
@@ -4551,10 +4551,19 @@
           "domain": "aerotime.aero",
           "summary": "Airbus A380 startup Global Airlines has been ordered into compulsory liquidation by the Insolvency and Companies Court in… The post A380 startup Global Airlines ordered into compulsory liquidation by UK court appeared first on AeroTime .",
           "published": "2026-11-13T09:38:43Z"
+        },
+        {
+          "id": "d71bc4350465394c",
+          "feed": "Simple Flying",
+          "title": "Global Airlines Ordered Into Liquidation: What’s Next For Its Lone Airbus A380?",
+          "url": "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/",
+          "domain": "simpleflying.com",
+          "summary": "Liquidators could find it difficult to see the aircraft in need of maintenance",
+          "published": "2026-11-13T15:30:59Z"
         }
       ],
       "story_id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
-      "written_count": 1
+      "written_count": 2
     },
     "cfc03e5b30f": {
       "id": "cfc03e5b30f",
@@ -4838,6 +4847,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.88242
+    "2026-11": 4.883582
   }
 }

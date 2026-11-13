@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
+    "created": "2026-11-13T10:01:14Z",
+    "updated": "2026-11-13T15:40:56Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Global Airlines placée en liquidation obligatoire par un tribunal britannique",
+    "chapo": "Selon AeroTime, la compagnie aérienne Global Airlines, qui exploite l'Airbus A380, a été placée en liquidation obligatoire par la juridiction britannique compétente en matière d'insolvabilité. Simple Flying évoque les conséquences possibles pour son unique A380.",
+    "paragraphes": [
+      "Le média AeroTime indique que la Insolvency and Companies Court, la juridiction britannique chargée de l'insolvabilité et des sociétés, a ordonné la liquidation obligatoire de cette jeune compagnie.",
+      "D'après Simple Flying, les liquidateurs pourraient avoir des difficultés à gérer l'appareil, qui nécessite de la maintenance."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
+        "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
+        "date": "2026-11-13T09:38:43Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Global Airlines Ordered Into Liquidation: What’s Next For Its Lone Airbus A380?",
+        "url": "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/",
+        "date": "2026-11-13T15:30:59Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
     "created": "2026-11-13T14:01:22Z",
     "updated": "2026-11-13T15:31:05Z",
@@ -367,38 +406,6 @@
         "title": "Qantas accélère dans l’IA, au prix de 850 suppressions de postes",
         "url": "https://www.air-journal.fr/2026-11-13-qantas-accelere-dans-lia-au-prix-de-850-suppressions-de-postes-5278774.html",
         "date": "2026-11-13T11:00:50Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
-    "created": "2026-11-13T10:01:14Z",
-    "updated": "2026-11-13T10:01:14Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Global Airlines placée en liquidation obligatoire par un tribunal britannique",
-    "chapo": "Selon AeroTime, la compagnie aérienne Global Airlines, spécialisée dans l'exploitation de l'Airbus A380, a été placée en liquidation obligatoire par la Insolvency and Companies Court britannique.",
-    "paragraphes": [
-      "La décision a été rendue par la juridiction britannique chargée des questions d'insolvabilité et des sociétés, selon le même média. Le texte consulté ne détaille pas les motifs de cette procédure.",
-      "Global Airlines était présentée comme une jeune compagnie exploitant l'A380, le plus grand avion de ligne en service à double pont produit par Airbus."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
-        "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
-        "date": "2026-11-13T09:38:43Z",
         "official": false
       }
     ]

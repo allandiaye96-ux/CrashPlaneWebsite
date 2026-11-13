@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T15:30:48Z",
+  "run": "2026-11-13T15:40:42Z",
   "stats": {
     "fetched": 682,
-    "new": 3,
+    "new": 1,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8824,
+  "spend_month_usd": 4.8836,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -370,6 +370,12 @@
       "breve": "2026-11-13-british-airways-immobilise-un-a321neo-apres-un-double-talonn-f106"
     },
     {
+      "dossier": "Global Airlines liquidation obligatoire",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
+    },
+    {
       "dossier": "SpiceJet vols Dubai annulés frais aéroportuaires",
       "statut": "corrobore",
       "editeurs": 2,
@@ -668,12 +674,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3"
-    },
-    {
-      "dossier": "Global Airlines liquidation obligatoire",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
     },
     {
       "dossier": "Air Asia soutien gouvernement malaisien",
