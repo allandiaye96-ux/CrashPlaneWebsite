@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://australianaviation.com.au/2026/11/perth-airport-prepares-to-open-new-p1-transport-hub/": "2026-11-03T20:01:16Z",
-    "https://australianaviation.com.au/2026/11/bonanza-had-engine-trouble-before-fatal-brisbane-crash-says-atsb/": "2026-11-03T20:01:16Z",
-    "https://australianaviation.com.au/2026/11/amadeus-hack-a-warning-for-australias-cybersecurity-expert/": "2026-11-03T20:01:16Z",
-    "https://australianaviation.com.au/2026/11/wa-helicopter-operator-grounded-over-serious-safety-concerns/": "2026-11-03T20:01:16Z",
-    "https://australianaviation.com.au/2026/11/investment-nsw-will-not-exhibit-at-avalon-2027/": "2026-11-03T20:01:16Z",
     "https://www.flightradar24.com/blog/aviation-news/runway-construction-wreaks-havoc-on-buenos-aires-international-network/": "2026-11-03T20:10:39Z",
     "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/": "2026-11-03T20:20:41Z",
     "https://simpleflying.com/us-army-black-hawk-helicopter-struck-fireworks-dramatic-nfl-flyover/": "2026-11-03T20:20:41Z",
@@ -2047,69 +2042,6 @@
       ],
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
       "written_count": 4
-    },
-    "c2e4e79d77b": {
-      "id": "c2e4e79d77b",
-      "label": "Virgin Australia grève ASU accord d'entreprise",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T20:01:40Z",
-      "updated": "2026-11-06T20:01:40Z",
-      "items": [
-        {
-          "id": "76f485752759cfb4",
-          "feed": "Australian Aviation",
-          "title": "Virgin staff continue protected action, suspend priority boarding",
-          "url": "https://australianaviation.com.au/2026/11/virgin-staff-continue-protected-action-suspend-priority-boarding/",
-          "domain": "australianaviation.com.au",
-          "summary": "Workers represented by the Australian Services Union (ASU) on Friday were boarding all guests at the same time, refusing to accept baggage at gates, and waiving some sales-related fees as negotiations over a new enterprise agreement continued to stall.",
-          "published": "2026-11-06T03:17:18Z"
-        }
-      ],
-      "story_id": "2026-11-06-virgin-australia-les-employes-representes-par-l-asu-poursuiv-d77b",
-      "written_count": 1
-    },
-    "cb6fa867f17": {
-      "id": "cb6fa867f17",
-      "label": "Qantas hausse coût carburant et réduction capacité",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T20:01:40Z",
-      "updated": "2026-11-06T20:01:40Z",
-      "items": [
-        {
-          "id": "ae19121b9c7bfa84",
-          "feed": "Australian Aviation",
-          "title": "Qantas eyes fare hike, reduced capacity amid fuel crisis",
-          "url": "https://australianaviation.com.au/2026/11/qantas-eyes-fare-hike-reduced-capacity-amid-fuel-crisis/",
-          "domain": "australianaviation.com.au",
-          "summary": "The airline has increased its anticipated fuel costs for the six months to 31 December 2026 by around $150 million to $3.75 billion, and has announced plans to ease capacity through to the end of the fiscal year.",
-          "published": "2026-11-06T00:40:20Z"
-        }
-      ],
-      "story_id": "2026-11-06-qantas-releve-ses-couts-de-carburant-prevus-a-3-75-milliards-7f17",
-      "written_count": 1
-    },
-    "c421394146c": {
-      "id": "c421394146c",
-      "label": "Qantas nouvelle ligne Sydney-Le Cap 787",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T20:01:40Z",
-      "updated": "2026-11-06T20:01:40Z",
-      "items": [
-        {
-          "id": "e1ae0a49438f0bc3",
-          "feed": "Australian Aviation",
-          "title": "Qantas to launch Australia’s first non-stop Cape Town flights",
-          "url": "https://australianaviation.com.au/2026/11/qantas-to-launch-australias-first-non-stop-cape-town-flights/",
-          "domain": "australianaviation.com.au",
-          "summary": "Building on its existing Johannesburg flights from Sydney and Perth, the Flying Kangaroo will fly three times per week on 787-9 Dreamliners between Sydney and Cape Town from 19 October 2027 until 24 March 2028.",
-          "published": "2026-11-06T00:29:06Z"
-        }
-      ],
-      "story_id": "2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c",
-      "written_count": 1
     },
     "cf595fc1e24": {
       "id": "cf595fc1e24",

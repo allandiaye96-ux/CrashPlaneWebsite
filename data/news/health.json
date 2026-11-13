@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-13T20:00:59Z",
+  "run": "2026-11-13T20:03:43Z",
   "stats": {
     "fetched": 682,
-    "new": 4,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -404,24 +404,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Virgin Australia grève ASU accord d'entreprise",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-virgin-australia-les-employes-representes-par-l-asu-poursuiv-d77b"
-    },
-    {
-      "dossier": "Qantas hausse coût carburant et réduction capacité",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-qantas-releve-ses-couts-de-carburant-prevus-a-3-75-milliards-7f17"
-    },
-    {
-      "dossier": "Qantas nouvelle ligne Sydney-Le Cap 787",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-qantas-annonce-des-vols-directs-sydneyle-cap-en-787-9-du-19-146c"
     },
     {
       "dossier": "Air Canada retrait routes long-courrier 737 MAX",
