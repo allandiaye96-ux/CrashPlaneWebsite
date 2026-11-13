@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-13T10:20:37Z",
+  "run": "2026-11-13T10:30:47Z",
   "stats": {
-    "fetched": 682,
-    "new": 6,
+    "fetched": 683,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 37
+      "items": 38
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -248,12 +248,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
-    },
-    {
-      "dossier": "IAG résultats S1 2026 recul bénéfice kérosène",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb"
     },
     {
       "dossier": "Airbus objectif livraisons fin 2026",
@@ -691,12 +685,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Merz EU ETS aviation 2029",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

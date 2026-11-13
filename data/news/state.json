@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/emirates-56-seat-premium-economy-cabin-offer-that-singapore-airlines-structurally-cannot-match/": "2026-11-03T10:20:46Z",
-    "https://www.airliners.de/lufthansa-steigert-quartalsgewinn-trotz-hoeherer-kerosinkosten-gewinnprognose/91268": "2026-11-03T10:20:46Z",
-    "https://www.airliners.de/eurowings-schickt-beschaeftigte-winter-wohl-nicht-kurzarbeit/91269": "2026-11-03T10:20:46Z",
-    "https://www.airliners.de/orix-aviation-schliesst-uebernahme-aerfin/91260": "2026-11-03T10:20:46Z",
     "https://avitrader.com/2026/11/03/honeywell-tests-thermal-response-module-at-equinix-data-centre/": "2026-11-03T10:40:36Z",
     "https://avitrader.com/2026/11/03/orix-aviation-completes-aerfin-acquisition/": "2026-11-03T10:40:36Z",
     "https://www.aero.de/news-54080/Lufthansa-Chef-sieht-wenig-Chancen-fuer-Flottenwachstum.html": "2026-11-03T10:50:34Z",
@@ -1976,36 +1972,6 @@
       "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
       "written_count": 5
     },
-    "c287d8f85fb": {
-      "id": "c287d8f85fb",
-      "label": "IAG résultats S1 2026 recul bénéfice kérosène",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T09:01:20Z",
-      "updated": "2026-11-06T10:20:47Z",
-      "items": [
-        {
-          "id": "429f6b1ddc3971c1",
-          "feed": "aero.de",
-          "title": "IAG erleidet Gewinnrückgang im Sommer",
-          "url": "https://www.aero.de/news-54107/IAG-erleidet-Gewinnrueckgang-im-Sommer.html",
-          "domain": "aero.de",
-          "summary": "LONDON - Der sprunghafte Anstieg der Kerosinpreise hat der British-Airways-Mutter IAG im Sommer einen Gewinnrückgang eingebrockt.",
-          "published": "2026-11-06T08:59:12Z"
-        },
-        {
-          "id": "fd0517fd98352475",
-          "feed": "airliners.de",
-          "title": "Kerosinpreise drücken Quartalsgewinn bei IAG",
-          "url": "https://www.airliners.de/kerosinpreise-druecken-quartalsgewinn-iag/91373",
-          "domain": "airliners.de",
-          "summary": "Teurer Treibstoff hat der British-Airways-Mutter IAG im dritten Quartal einen Gewinnrückgang gebracht. Konzernchef Luis Gallego hebt die Kostenprognose für das Gesamtjahr an und rechnet bei einer weiteren Kennzahl erstmals seit 2022 mit einem Minus.",
-          "published": "2026-11-06T10:12:52Z"
-        }
-      ],
-      "story_id": "2026-11-06-iag-le-groupe-de-british-airways-voit-son-benefice-reculer-c-85fb",
-      "written_count": 2
-    },
     "ce331bd8e7e": {
       "id": "ce331bd8e7e",
       "label": "Airbus A320 ATRA laboratoire radar Manching",
@@ -3922,27 +3888,6 @@
       ],
       "story_id": null,
       "written_count": 2
-    },
-    "c297567b095": {
-      "id": "c297567b095",
-      "label": "Merz EU ETS aviation 2029",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-11T10:20:49Z",
-      "updated": "2026-11-11T10:20:49Z",
-      "items": [
-        {
-          "id": "4db67c158877743f",
-          "feed": "airliners.de",
-          "title": "Merz hält am EU-Emissionshandel fest, Kommission will Luftverkehr ab 2029 stärker einbeziehen",
-          "url": "https://www.airliners.de/merz-haelt-eu-emissionshandel-fest-kommission-will-luftverkehr-2029-einbeziehen/91455",
-          "domain": "airliners.de",
-          "summary": "Bundeskanzler Friedrich Merz (CDU) spricht sich in einem Schreiben an die EU-Kommission für den Erhalt des Emissionshandels aus. Die Grünen begrüßen das Bekenntnis. Für die Luftfahrt steht im Dezember ein Termin an.",
-          "published": "2026-11-11T09:51:47Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c6dd42dc316": {
       "id": "c6dd42dc316",
