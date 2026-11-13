@@ -1501,7 +1501,9 @@
     "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force": "2026-11-13T20:50:34Z",
     "https://simpleflying.com/how-many-crew-members-fly-kc-135-stratotanker/": "2026-11-13T21:01:00Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-reports-share-buyback-transactions-9-13-november-2026": "2026-11-13T21:01:00Z",
-    "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/": "2026-11-13T21:30:46Z"
+    "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/": "2026-11-13T21:30:46Z",
+    "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/": "2026-11-13T21:50:36Z",
+    "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s": "2026-11-13T21:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4714,7 +4716,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-13T21:30:59Z",
+      "updated": "2026-11-13T21:50:50Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4724,14 +4726,32 @@
           "domain": "airlinegeeks.com",
           "summary": "Departures are halted due to ATC communications issues.",
           "published": "2026-11-13T21:27:13Z"
+        },
+        {
+          "id": "78afc4d9cf9071cd",
+          "feed": "Simple Flying",
+          "title": "Breaking: FAA Issues Nationwide Ground Stop For All US Flights",
+          "url": "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/",
+          "domain": "simpleflying.com",
+          "summary": "The agency cited communication problems for the halt.",
+          "published": "2026-11-13T21:41:18Z"
+        },
+        {
+          "id": "e8639288b01f5d0b",
+          "feed": "The War Zone",
+          "title": "FAA Orders Ground Stop For All Flights Across The U.S.",
+          "url": "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
+          "domain": "twz.com",
+          "summary": "This is only the third time in history such an order has been given by the FAA. The post FAA Orders Ground Stop For All Flights Across The U.S. appeared first on TWZ .",
+          "published": "2026-11-13T21:46:29Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
+      "written_count": 3
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.903236
+    "2026-11": 4.904424
   }
 }

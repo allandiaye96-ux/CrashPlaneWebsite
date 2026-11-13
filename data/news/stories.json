@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
+    "created": "2026-11-13T21:50:52Z",
+    "updated": "2026-11-13T21:50:52Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 3,
+    "titre": "La FAA ordonne un arrêt national des départs de tous les vols aux États-Unis",
+    "chapo": "Selon AirlineGeeks, la FAA a ordonné un arrêt au sol national touchant l'ensemble des vols américains. D'après The War Zone, il s'agit de la troisième fois de l'histoire qu'une telle mesure est prise par l'agence.",
+    "paragraphes": [
+      "Les départs ont été suspendus en raison de problèmes de communication avec le contrôle aérien, selon les informations publiées par AirlineGeeks. Simple Flying indique que l'agence a évoqué des problèmes de communication pour justifier cette mesure.",
+      "The War Zone précise que cette décision constitue seulement la troisième fois que la FAA prend un ordre de ce type."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AirlineGeeks",
+        "title": "FAA Orders Nationwide Ground Stop",
+        "url": "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/",
+        "date": "2026-11-13T21:27:13Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Breaking: FAA Issues Nationwide Ground Stop For All US Flights",
+        "url": "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/",
+        "date": "2026-11-13T21:41:18Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "FAA Orders Ground Stop For All Flights Across The U.S.",
+        "url": "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
+        "date": "2026-11-13T21:46:29Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46",
     "created": "2026-11-13T20:01:15Z",
     "updated": "2026-11-13T20:01:15Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T21:40:37Z",
+  "run": "2026-11-13T21:50:36Z",
   "stats": {
-    "fetched": 683,
-    "new": 0,
-    "written": 0,
+    "fetched": 684,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9032,
+  "spend_month_usd": 4.9044,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 38
+      "items": 39
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -254,6 +254,12 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
+    },
+    {
+      "dossier": "FAA ground stop national (problème ATC)",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
     },
     {
       "dossier": "Drone explosif Leipzig/Halle",
@@ -689,12 +695,6 @@
     },
     {
       "dossier": "Drones suspects au-dessus de RAF Lakenheath",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "FAA ground stop national (problème ATC)",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
