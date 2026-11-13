@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54073/Bangkok-plant-Mega-Ausbau-seines-Flughafens.html": "2026-11-03T05:30:46Z",
-    "https://www.aero.de/news-54072/Klaeger-wollen-Ausbau-des-Flughafens-LeipzigHalle-stoppen.html": "2026-11-03T05:30:46Z",
     "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html": "2026-11-03T05:40:39Z",
     "https://simpleflying.com/how-much-boeing-747-8-pilots-make-2026/": "2026-11-03T06:01:04Z",
     "https://www.air-journal.fr/2026-11-03-rome-bologne-bagdad-eurowings-elargit-ses-horizons-depuis-berlin-5278652.html": "2026-11-03T06:01:04Z",
@@ -1669,36 +1667,6 @@
       ],
       "story_id": "2026-11-03-nepal-deux-helicopteres-entrent-en-collision-pres-de-l-evere-c6de",
       "written_count": 4
-    },
-    "c9c88398f2d": {
-      "id": "c9c88398f2d",
-      "label": "Air India commande gros-porteurs supplémentaire",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-03T14:20:54Z",
-      "updated": "2026-11-06T05:20:52Z",
-      "items": [
-        {
-          "id": "776a571d2d3e2fd6",
-          "feed": "airliners.de",
-          "title": "Air India will Bestellung von Großraumflugzeugen aufstocken",
-          "url": "https://www.airliners.de/air-india-bestellung-grossraumflugzeuge-aufstocken/91274",
-          "domain": "airliners.de",
-          "summary": "Air India will eine Bestellung von Großraumflugzeugen aufstocken, um international zu wachsen. Gespräche laufen Insidern zufolge mit beiden großen Herstellern. Wie viele Flugzeuge es werden sollen, lässt der Vorstandsvorsitzende offen.",
-          "published": "2026-11-03T13:45:57Z"
-        },
-        {
-          "id": "0d7bc925c6d6bf19",
-          "feed": "aero.de",
-          "title": "Neuer Chef sieht Zukunft von Air India auf der Langstrecke",
-          "url": "https://www.aero.de/news-54099/Neuer-Chef-sieht-Zukunft-von-Air-India-auf-der-Langstrecke.html",
-          "domain": "aero.de",
-          "summary": "MUMBAI - \"Wir haben viele, aber wir brauchen mehr\": Air India will Interkontflugzeuge nachbestellen. Der indische Lufthansa-Partner hat seit Kurzem einen neuen Chef: Tewolde Gebremariam will Air India mit mehr Langstrecken und mehr Luftfracht aus der Verlustzone steuern.",
-          "published": "2026-11-06T05:15:10Z"
-        }
-      ],
-      "story_id": "2026-11-03-air-india-envisage-d-augmenter-sa-commande-d-avions-gros-por-8f2d",
-      "written_count": 2
     },
     "c2569f72076": {
       "id": "c2569f72076",
