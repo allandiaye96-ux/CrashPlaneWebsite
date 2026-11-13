@@ -1496,7 +1496,8 @@
     "https://www.aerotime.aero/articles/germany-mbda-airborne-laser-weapon-demonstrator": "2026-11-13T14:20:36Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Travel-Demand-Propels-Middle-East-Fleet-to-Double-by-2045": "2026-11-13T14:20:36Z",
     "https://airlinegeeks.com/2026/11/13/united-clears-halfway-mark-on-starlink-rollout/": "2026-11-13T14:20:36Z",
-    "https://www.aerotime.aero/articles/french-navy-airbus-aliaca-vtol-drone-qualified": "2026-11-13T14:30:47Z"
+    "https://www.aerotime.aero/articles/french-navy-airbus-aliaca-vtol-drone-qualified": "2026-11-13T14:30:47Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/wizz-air-reduit-encore-les-immobilisations-de-sa-flotte-20261113.html": "2026-11-13T14:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -3938,27 +3939,6 @@
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
       "written_count": 6
     },
-    "c066e08149a": {
-      "id": "c066e08149a",
-      "label": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-11T14:40:50Z",
-      "updated": "2026-11-11T14:40:50Z",
-      "items": [
-        {
-          "id": "d630cf83b0ab512b",
-          "feed": "The Aviationist",
-          "title": "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z",
-          "url": "https://theaviationist.com/2026/11/11/daircm-for-usmc-uh-1y-and-ah-1z/",
-          "domain": "theaviationist.com",
-          "summary": "The NAVAIR contract will support low-rate initial production of the AN/AAQ-45 system, which will equip the UH-1Y and AH-1Z with missile warning, laser warning, hostile-fire indication and DIRCM. Leonardo DRS, the U.S.-based subsidiary of the Italian firm, has been awarded a three-year contract by the U.S. Naval Air Systems Command (NAVAIR) to begin low-rate initial […]",
-          "published": "2026-11-11T14:36:31Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c8a4083b4f5": {
       "id": "c8a4083b4f5",
       "label": "Etihad retire A380 vols Amérique du Nord",
@@ -4738,10 +4718,31 @@
       ],
       "story_id": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a",
       "written_count": 1
+    },
+    "c9b381e5990": {
+      "id": "c9b381e5990",
+      "label": "Wizz Air résultats semestriels et flotte",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T14:50:49Z",
+      "updated": "2026-11-13T14:50:49Z",
+      "items": [
+        {
+          "id": "eff735390115b015",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Wizz Air réduit encore les immobilisations de sa flotte",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/wizz-air-reduit-encore-les-immobilisations-de-sa-flotte-20261113.html",
+          "domain": "journal-aviation.com",
+          "summary": "A l’occasion de la présentation de ses résultats pour son premier semestre (clôturé le 30 septembre), Wizz Air a notamment fait un point sur la situation de sa flotte. La […] L’article Wizz Air réduit encore les immobilisations de sa flotte a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-13T14:43:10Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.87553
+    "2026-11": 4.877065
   }
 }

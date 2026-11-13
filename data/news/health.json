@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T14:40:33Z",
+  "run": "2026-11-13T14:50:36Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
+    "new": 1,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.8755,
+  "spend_month_usd": 4.8771,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -676,12 +676,6 @@
       "breve": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a"
     },
     {
-      "dossier": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "British Airways A321neo double impact de queue",
       "statut": "signale",
       "editeurs": 1,
@@ -708,6 +702,12 @@
     {
       "dossier": "FTC enquête tarifs personnalisés Delta United JetBlue",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Wizz Air résultats semestriels et flotte",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }
