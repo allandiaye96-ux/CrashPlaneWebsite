@@ -1498,7 +1498,10 @@
     "https://www.aerotime.aero/articles/japan-f35-purchases-cuts-defense-budget": "2026-11-13T12:00:58Z",
     "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html": "2026-11-13T12:00:58Z",
     "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-395/": "2026-11-13T12:20:41Z",
-    "https://www.air-journal.fr/2026-11-13-korean-air-revient-a-newark-et-bouscule-la-concurrence-entre-seoul-et-new-york-5278839.html": "2026-11-13T13:01:02Z"
+    "https://www.air-journal.fr/2026-11-13-korean-air-revient-a-newark-et-bouscule-la-concurrence-entre-seoul-et-new-york-5278839.html": "2026-11-13T13:01:02Z",
+    "https://simpleflying.com/video/why-the-boeing-737-max-10-may-never-cross-the-atlantic-like-the-airbus-a321xlr/": "2026-11-13T13:30:56Z",
+    "https://simpleflying.com/microsoft-outage-airlines-spicejet-cancellations-cathay-pacific/": "2026-11-13T13:30:56Z",
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone": "2026-11-13T13:30:56Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4710,10 +4713,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6481b8a2dd": {
+      "id": "c6481b8a2dd",
+      "label": "DGA qualification drone U010 Aliaca VTOL",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-13T13:31:09Z",
+      "updated": "2026-11-13T13:31:09Z",
+      "items": [
+        {
+          "id": "d4211ec95049d1c5",
+          "feed": "Airbus – Communiqués",
+          "title": "French Armament General Directorate (DGA) qualifies Airbus U010 Aliaca drone",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone",
+          "domain": "airbus.com",
+          "summary": "The new VTOL variant of Airbus Helicopters’ tactical uncrewed aerial system U010 Aliaca has been officially qualified by the French DGA.",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.870353
+    "2026-11": 4.871214
   }
 }
