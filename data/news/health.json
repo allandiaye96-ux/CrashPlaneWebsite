@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-13T16:40:34Z",
+  "run": "2026-11-13T16:50:33Z",
   "stats": {
     "fetched": 682,
     "new": 0,
@@ -398,12 +398,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Singapore Airlines A350-900ULR nouvelles cabines 132 sièges",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-singapore-airlines-devoile-de-nouvelles-cabines-pour-ses-a35-2c03"
     },
     {
       "dossier": "Emirates nouvelle ligne A350 Orlando",
