@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T22:20:34Z",
+  "run": "2026-11-13T22:30:48Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9061,
+  "spend_month_usd": 4.9074,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -400,6 +400,12 @@
       "breve": "2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1"
     },
     {
+      "dossier": "Drones suspects au-dessus de RAF Lakenheath",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -690,12 +696,6 @@
     {
       "dossier": "Rolls-Royce prévisions 2026 confirmées",
       "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Drones suspects au-dessus de RAF Lakenheath",
-      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }

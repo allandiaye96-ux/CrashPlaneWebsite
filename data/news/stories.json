@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb",
+    "created": "2026-11-13T22:31:02Z",
+    "updated": "2026-11-13T22:31:02Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Drones suspectés au-dessus de RAF Lakenheath : l'USAF déclenche une réponse sécuritaire",
+    "chapo": "Selon The War Zone, des drones suspectés ont été repérés au-dessus de RAF Lakenheath, en Angleterre, et ont déclenché une réponse des forces de sécurité de l'US Air Force. D'après The Aviationist, l'alerte s'est accompagnée de signalements de confinement sur la base.",
+    "paragraphes": [
+      "Selon The Aviationist, les forces de sécurité de l'US Air Force ont réagi à une activité de drone suspectée et non autorisée sur la base, dans le Suffolk. Des vidéos publiées en ligne le soir du 13 novembre 2026 montrent une alarme retentissant sur le site.",
+      "The War Zone indique que cet incident intervient après l'évacuation de certains avions de l'USAF depuis l'Angleterre et une élévation du niveau de menace sur les bases. Des informations non confirmées circulaient par ailleurs sur l'installation au moment des faits."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "The War Zone",
+        "title": "Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force",
+        "url": "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force",
+        "date": "2026-11-13T20:45:42Z",
+        "official": false
+      },
+      {
+        "name": "The Aviationist",
+        "title": "RAF Lakenheath Sounds Alarm After Suspected Unauthorized Drone Activity",
+        "url": "https://theaviationist.com/2026/11/13/raf-lakenheath-sounds-alarm-drone-activity/",
+        "date": "2026-11-13T22:20:09Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
     "created": "2026-11-13T21:50:52Z",
     "updated": "2026-11-13T22:01:20Z",

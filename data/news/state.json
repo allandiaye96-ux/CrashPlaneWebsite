@@ -1506,7 +1506,8 @@
     "https://simpleflying.com/delta-air-lines-flying-replacement-aging-airbus-a319s-american-united-dont/": "2026-11-13T22:00:58Z",
     "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026": "2026-11-13T22:00:58Z",
     "https://www.aerotime.aero/articles/us-airlines-thanksgiving-air-travel-2026": "2026-11-13T22:00:58Z",
-    "https://theaircurrent.com/airlines/rolls-royce-steps-up-alaska-air-campaign-unseat-ge-future-787s/": "2026-11-13T22:10:35Z"
+    "https://theaircurrent.com/airlines/rolls-royce-steps-up-alaska-air-campaign-unseat-ge-future-787s/": "2026-11-13T22:10:35Z",
+    "https://theaviationist.com/2026/11/13/raf-lakenheath-sounds-alarm-drone-activity/": "2026-11-13T22:30:48Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4698,7 +4699,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-13T20:50:44Z",
-      "updated": "2026-11-13T20:50:44Z",
+      "updated": "2026-11-13T22:30:59Z",
       "items": [
         {
           "id": "f344fa03a93128a6",
@@ -4708,10 +4709,19 @@
           "domain": "twz.com",
           "summary": "The scare comes after some USAF aircraft were evacuated from England and the threat level at bases has been raised. The post Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force appeared first on TWZ .",
           "published": "2026-11-13T20:45:42Z"
+        },
+        {
+          "id": "5e4bff6fec12ee98",
+          "feed": "The Aviationist",
+          "title": "RAF Lakenheath Sounds Alarm After Suspected Unauthorized Drone Activity",
+          "url": "https://theaviationist.com/2026/11/13/raf-lakenheath-sounds-alarm-drone-activity/",
+          "domain": "theaviationist.com",
+          "summary": "U.S. Air Force security forces responded to suspected unauthorized drone activity at RAF Lakenheath, prompting an alarm and reports of a lockdown. Videos emerged online in the evening of Nov. 13, 2026, reportedly noted an alarm sounding at RAF Lakenheath, in Suffolk, England. About at the same time, unconfirmed reports emerged about the installation, as […]",
+          "published": "2026-11-13T22:20:09Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb",
+      "written_count": 2
     },
     "c4883c98720": {
       "id": "c4883c98720",
@@ -4764,6 +4774,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.906126
+    "2026-11": 4.907354
   }
 }

@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 22:20:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 22:31:02 +0000</lastBuildDate>
+  <item>
+    <title>Drones suspectés au-dessus de RAF Lakenheath : l&#x27;USAF déclenche une réponse sécuritaire</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb/</guid>
+    <pubDate>Fri, 13 Nov 2026 22:31:02 +0000</pubDate>
+    <category>Sécurité et réglementation</category>
+    <description>Selon The War Zone, des drones suspectés ont été repérés au-dessus de RAF Lakenheath, en Angleterre, et ont déclenché une réponse des forces de sécurité de l&#x27;US Air Force. D&#x27;après The Aviationist, l&#x27;alerte s&#x27;est accompagnée de signalements de confinement sur la base.</description>
+  </item>
   <item>
     <title>La FAA ordonne un arrêt national des départs de tous les vols aux États-Unis</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 12 Nov 2026 05:50:45 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon aero.de, la compagnie irlandaise spécialisée en ACMI Fly4 Airlines doit disparaître du marché. Selon airliners.de, elle serait placée en liquidation provisoire.</description>
-  </item>
-  <item>
-    <title>Fraport et Lufthansa négocient les conditions de l&#x27;assistance au sol à Francfort à partir de 2027</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac/</guid>
-    <pubDate>Thu, 12 Nov 2026 05:31:05 +0000</pubDate>
-    <category>Aéroports</category>
-    <description>Selon aero.de, l&#x27;exploitant de l&#x27;aéroport de Francfort et son principal client, Lufthansa, discutent depuis plusieurs mois de nouvelles conditions applicables à partir de 2027.</description>
   </item>
 </channel>
 </rss>
