@@ -1500,7 +1500,9 @@
     "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026": "2026-11-13T18:40:34Z",
     "https://simpleflying.com/boeing-freighters-replacing-mcdonnell-douglas-md-11/": "2026-11-13T19:00:59Z",
     "https://simpleflying.com/southwest-airlines-denies-liability-allegedly-damaging-passenger-stroller/": "2026-11-13T19:00:59Z",
-    "https://simpleflying.com/jetblue-cancels-all-flights-on-35-routes/": "2026-11-13T19:20:43Z"
+    "https://simpleflying.com/jetblue-cancels-all-flights-on-35-routes/": "2026-11-13T19:20:43Z",
+    "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk": "2026-11-13T19:30:48Z",
+    "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret": "2026-11-13T19:30:48Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4752,6 +4754,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.896861
+    "2026-11": 4.897655
   }
 }
