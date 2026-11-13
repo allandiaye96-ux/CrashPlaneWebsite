@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.airbus.com/en/newsroom/stories/2026-11-where-the-a220-flies-opening-routes-others-cannot": "2026-11-03T08:01:00Z",
-    "https://www.aero.de/news-54076/Hier-wartet-der-erste-Airbus-A220-300-auf-Lufthansa-City-Airlines.html": "2026-11-03T08:01:00Z",
-    "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche": "2026-11-03T08:10:31Z",
-    "https://www.air-journal.fr/2026-11-03-icelease-mise-sur-une-seconde-vie-cargo-pour-jusqua-trois-boeing-767-5278653.html": "2026-11-03T08:10:31Z",
     "https://www.airliners.de/herbstferien-flughafen-hamburg-passagierzahlen-steigern/91258": "2026-11-03T08:20:35Z",
     "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html": "2026-11-03T08:40:42Z",
     "https://simpleflying.com/delta-air-lines-18-hour-meal-pre-order-window-closest-departure-any-us-carrier/": "2026-11-03T09:01:03Z",
@@ -1512,7 +1508,8 @@
     "https://www.airliners.de/aena-flughaefen-spanien-oktober-passagiere/91494": "2026-11-13T06:20:34Z",
     "https://www.air-journal.fr/2026-11-13-volotea-annule-une-centaine-de-vols-a-lille-sur-fond-de-reorganisation-de-sa-flotte-5278828.html": "2026-11-13T07:00:58Z",
     "https://www.airliners.de/finnair-winter-31-fluege-woche-thailand/91497": "2026-11-13T07:19:43Z",
-    "https://www.aero.de/news-54165/Global-Airlines-wird-aufgeloest.html": "2026-11-13T07:30:56Z"
+    "https://www.aero.de/news-54165/Global-Airlines-wird-aufgeloest.html": "2026-11-13T07:30:56Z",
+    "https://www.air-journal.fr/2026-11-13-singapore-airlines-la-nouvelle-classe-affaires-fait-grincer-des-dents-5278824.html": "2026-11-13T08:10:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4932,6 +4929,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.85065
+    "2026-11": 4.85145
   }
 }
