@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/bombendrohungen-treffen-fluege/91272": "2026-11-03T12:20:32Z",
     "https://avitrader.com/2026/11/03/icelease-orders-boeing-767-freighter/": "2026-11-03T12:40:32Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/icelease-acquiert-jusqua-3-boeing-767-300bcf-20261103.html": "2026-11-03T12:40:32Z",
     "https://simpleflying.com/boeing-china-market-projection/": "2026-11-03T13:01:03Z",
@@ -1506,7 +1505,8 @@
     "https://simpleflying.com/project-sunrise-saves-4-hours/": "2026-11-13T12:00:58Z",
     "https://www.aerotime.aero/articles/spicejet-flights-dubai-cancelled-unpaid-airport-fees": "2026-11-13T12:00:58Z",
     "https://www.aerotime.aero/articles/japan-f35-purchases-cuts-defense-budget": "2026-11-13T12:00:58Z",
-    "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html": "2026-11-13T12:00:58Z"
+    "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html": "2026-11-13T12:00:58Z",
+    "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-395/": "2026-11-13T12:20:41Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4806,6 +4806,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.868777
+    "2026-11": 4.869557
   }
 }
