@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html": "2026-11-03T08:40:42Z",
     "https://simpleflying.com/delta-air-lines-18-hour-meal-pre-order-window-closest-departure-any-us-carrier/": "2026-11-03T09:01:03Z",
     "https://www.aero.de/news-54078/Keine-Kurzarbeit-bei-Eurowings.html": "2026-11-03T09:01:03Z",
     "https://www.air-journal.fr/2026-11-03-boeing-787-une-etude-chinoise-documente-lusure-prematuree-de-certaines-aubes-genx-5278655.html": "2026-11-03T09:01:03Z",
@@ -1513,7 +1512,8 @@
     "https://www.airbus.com/en/newsroom/stories/2026-11-where-the-a220-flies-opening-routes-others-cannot": "2026-11-13T08:20:34Z",
     "https://www.airliners.de/wizz-air-bombendrohungen-europaweit-einheitliches-vorgehen/91496": "2026-11-13T08:20:34Z",
     "https://avitrader.com/2026/11/13/jonathan-grant-becomes-chief-engineer-for-ontic/": "2026-11-13T08:30:47Z",
-    "https://avitrader.com/2026/11/13/delta-techops-wins-virgin-australia-support-deal/": "2026-11-13T08:40:34Z"
+    "https://avitrader.com/2026/11/13/delta-techops-wins-virgin-australia-support-deal/": "2026-11-13T08:40:34Z",
+    "https://avitrader.com/2026/11/13/mexicana-adopts-embraer-predictive-maintenance-platform/": "2026-11-13T08:50:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4891,6 +4891,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.854578
+    "2026-11": 4.855382
   }
 }
