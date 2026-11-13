@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T19:10:35Z",
+  "run": "2026-11-13T19:20:43Z",
   "stats": {
     "fetched": 681,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8961,
+  "spend_month_usd": 4.8969,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -404,12 +404,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Allegiant levée d'options 737 MAX 8",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a"
     },
     {
       "dossier": "Virgin Australia grève ASU accord d'entreprise",

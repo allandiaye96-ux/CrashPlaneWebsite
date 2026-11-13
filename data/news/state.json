@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://airlinegeeks.com/2026/11/03/frontier-shakes-up-leadership-team/": "2026-11-03T19:10:48Z",
-    "https://simpleflying.com/breeze-launches-flights-to-6-new-destinations/": "2026-11-03T19:20:36Z",
-    "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk": "2026-11-03T19:20:36Z",
-    "https://theaviationist.com/2026/11/03/ga-asi-opens-remote-split-operation-facility/": "2026-11-03T19:20:36Z",
     "https://simpleflying.com/jetblue-cancels-13-international-nonstop-routes/": "2026-11-03T19:31:09Z",
     "https://australianaviation.com.au/2026/11/perth-airport-prepares-to-open-new-p1-transport-hub/": "2026-11-03T20:01:16Z",
     "https://australianaviation.com.au/2026/11/bonanza-had-engine-trouble-before-fatal-brisbane-crash-says-atsb/": "2026-11-03T20:01:16Z",
@@ -1503,7 +1499,8 @@
     "https://airlinegeeks.com/2026/11/13/livery-of-the-week-etihad-partners-with-mclaren/": "2026-11-13T18:30:49Z",
     "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026": "2026-11-13T18:40:34Z",
     "https://simpleflying.com/boeing-freighters-replacing-mcdonnell-douglas-md-11/": "2026-11-13T19:00:59Z",
-    "https://simpleflying.com/southwest-airlines-denies-liability-allegedly-damaging-passenger-stroller/": "2026-11-13T19:00:59Z"
+    "https://simpleflying.com/southwest-airlines-denies-liability-allegedly-damaging-passenger-stroller/": "2026-11-13T19:00:59Z",
+    "https://simpleflying.com/jetblue-cancels-all-flights-on-35-routes/": "2026-11-13T19:20:43Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2045,27 +2042,6 @@
       ],
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
       "written_count": 4
-    },
-    "cdd1b7ed24a": {
-      "id": "cdd1b7ed24a",
-      "label": "Allegiant levée d'options 737 MAX 8",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T19:10:56Z",
-      "updated": "2026-11-06T19:10:56Z",
-      "items": [
-        {
-          "id": "fb3ba5e869c64ae5",
-          "feed": "Simple Flying",
-          "title": "Allegiant Air To Expand Fleet, Exercises Options For 6 New Boeing 737 MAX 8s Worth $720 Million",
-          "url": "https://simpleflying.com/allegiant-air-expand-fleet-exercises-options-6-new-boeing-737-max-8s/",
-          "domain": "simpleflying.com",
-          "summary": "Six jets slated for 2028 delivery feed into a decade-long fleet renewal and integration with Sun Country assets.",
-          "published": "2026-11-06T19:01:36Z"
-        }
-      ],
-      "story_id": "2026-11-06-allegiant-air-leve-ses-options-pour-six-boeing-737-max-8-sup-d24a",
-      "written_count": 1
     },
     "c2e4e79d77b": {
       "id": "c2e4e79d77b",
@@ -4776,6 +4752,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.896078
+    "2026-11": 4.896861
   }
 }
