@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat": "2026-11-03T16:20:39Z",
-    "https://www.airliners.de/linke-fragt-bundesregierung-katar-abkommen-landerechten-golf-airlines/91301": "2026-11-03T16:20:39Z",
-    "https://www.airliners.de/lufthansa-technik-bestaetigt-jahresprognose-umsatzplus-14-prozent/91281": "2026-11-03T16:20:39Z",
-    "https://www.airliners.de/austrian-airlines-steigert-operatives-ergebnis-dritten-quartal-18-prozent/91286": "2026-11-03T16:20:39Z",
-    "https://www.airliners.de/swiss-haelt-ergebnis-trotz-teurem-kerosin-stabil/91291": "2026-11-03T16:20:39Z",
-    "https://www.airliners.de/eurowings-gleicht-hoehere-kerosinkosten-ueber-ticketpreise/91299": "2026-11-03T16:20:39Z",
-    "https://www.airliners.de/brussels-airlines-erzielt-operatives-rekordergebnis-dritten-quartal/91280": "2026-11-03T16:20:39Z",
     "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany": "2026-11-03T16:30:56Z",
     "https://www.journal-aviation.com/leasing-et-financement/orix-aviation-finalise-lacquisition-daerfin-20261103.html": "2026-11-03T16:30:56Z",
     "https://airlinegeeks.com/2026/11/03/delta-adds-new-austin-route-2/": "2026-11-03T16:40:43Z",
@@ -1507,7 +1500,8 @@
     "https://simpleflying.com/canada-prints-airport-costs/": "2026-11-13T16:01:00Z",
     "https://simpleflying.com/united-starlink-wifi-half-daily-flights-delta-amazon-leo/": "2026-11-13T16:20:35Z",
     "https://www.airliners.de/lufthansa-group-buendelt-loyalty-marketing-clemens-strauss/91523": "2026-11-13T16:20:35Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/rolls-royce-confirme-ses-previsions-pour-2026-porte-par-la-demande-de-gros-porteurs-airbus-et-par-les-heures-de-vol-20261113.html": "2026-11-13T16:20:35Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/rolls-royce-confirme-ses-previsions-pour-2026-porte-par-la-demande-de-gros-porteurs-airbus-et-par-les-heures-de-vol-20261113.html": "2026-11-13T16:20:35Z",
+    "https://simpleflying.com/retired-boeing-747-freighter-demand/": "2026-11-13T16:30:46Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2070,48 +2064,6 @@
       ],
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
       "written_count": 4
-    },
-    "c4326057676": {
-      "id": "c4326057676",
-      "label": "Ita Airways accord syndicats départs volontaires",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T16:20:50Z",
-      "updated": "2026-11-06T16:20:50Z",
-      "items": [
-        {
-          "id": "b97b5c9b187e4a0b",
-          "feed": "airliners.de",
-          "title": "Lufthansa-Mehrheitsübernahme: Ita Airways einigt sich mit Gewerkschaften",
-          "url": "https://www.airliners.de/ita-airways-einigt-gewerkschaften-180-freiwillige-abgaenge/91384",
-          "domain": "airliners.de",
-          "summary": "Ita Airways hat sich mit den Gewerkschaften auf bis zu 180 freiwillige Abgänge verständigt. Wer geht, erhält zeitweise den Großteil seines bisherigen Gehalts. Gleichzeitig plant die Airline neue Strecken und Hunderte Neueinstellungen.",
-          "published": "2026-11-06T15:57:29Z"
-        }
-      ],
-      "story_id": "2026-11-06-ita-airways-s-accorde-avec-les-syndicats-sur-jusqu-a-180-dep-7676",
-      "written_count": 1
-    },
-    "cf95b9c7e5a": {
-      "id": "cf95b9c7e5a",
-      "label": "Beond arrêt des lignes régulières novembre 2026",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T16:20:50Z",
-      "updated": "2026-11-06T16:20:50Z",
-      "items": [
-        {
-          "id": "0bbb92a0c8502287",
-          "feed": "airliners.de",
-          "title": "Beond stellt im November alle Linienflüge ein",
-          "url": "https://www.airliners.de/beond-stellt-november-alle-linienfluege-ein/91383",
-          "domain": "airliners.de",
-          "summary": "Beond stellt im November den kompletten Linienverkehr ein. Nach Angaben der Luxus-Leisure-Airline fallen sämtliche planmäßigen Verbindungen vom 30. Oktober bis zum 30. November aus. Beond begründete den Schritt Ende Oktober mit den derzeitigen Verhältnissen in der Region. Charterflüge sind demnach nicht betroffen.",
-          "published": "2026-11-06T15:50:47Z"
-        }
-      ],
-      "story_id": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a",
-      "written_count": 1
     },
     "cf99bcf2c03": {
       "id": "cf99bcf2c03",
@@ -4867,6 +4819,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.888346
+    "2026-11": 4.889121
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T16:20:35Z",
+  "run": "2026-11-13T16:30:46Z",
   "stats": {
     "fetched": 682,
-    "new": 3,
-    "written": 1,
-    "held": 1,
+    "new": 1,
+    "written": 0,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8883,
+  "spend_month_usd": 4.8891,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -398,18 +398,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Ita Airways accord syndicats départs volontaires",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-ita-airways-s-accorde-avec-les-syndicats-sur-jusqu-a-180-dep-7676"
-    },
-    {
-      "dossier": "Beond arrêt des lignes régulières novembre 2026",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-beond-suspend-l-ensemble-de-ses-vols-reguliers-du-30-octobre-7e5a"
     },
     {
       "dossier": "Singapore Airlines A350-900ULR nouvelles cabines 132 sièges",
