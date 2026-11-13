@@ -1500,7 +1500,8 @@
     "https://www.flightradar24.com/blog/aviation-news/runway-construction-wreaks-havoc-on-buenos-aires-international-network/": "2026-11-13T20:30:48Z",
     "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability": "2026-11-13T20:40:35Z",
     "https://simpleflying.com/alaska-airlines-launches-4-new-nonstop-routes/": "2026-11-13T20:40:35Z",
-    "https://simpleflying.com/podcast-310/": "2026-11-13T20:40:35Z"
+    "https://simpleflying.com/podcast-310/": "2026-11-13T20:40:35Z",
+    "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force": "2026-11-13T20:50:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4685,10 +4686,31 @@
       ],
       "story_id": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46",
       "written_count": 1
+    },
+    "c472cae4cbb": {
+      "id": "c472cae4cbb",
+      "label": "Drones suspects au-dessus de RAF Lakenheath",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-13T20:50:44Z",
+      "updated": "2026-11-13T20:50:44Z",
+      "items": [
+        {
+          "id": "f344fa03a93128a6",
+          "feed": "The War Zone",
+          "title": "Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force",
+          "url": "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force",
+          "domain": "twz.com",
+          "summary": "The scare comes after some USAF aircraft were evacuated from England and the threat level at bases has been raised. The post Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force appeared first on TWZ .",
+          "published": "2026-11-13T20:45:42Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.900861
+    "2026-11": 4.901654
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T20:40:35Z",
+  "run": "2026-11-13T20:50:34Z",
   "stats": {
-    "fetched": 682,
-    "new": 2,
+    "fetched": 683,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9009,
+  "spend_month_usd": 4.9017,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 37
+      "items": 38
     },
     "Airbus – Communiqués": {
       "ok": true,
@@ -684,6 +684,12 @@
     {
       "dossier": "Rolls-Royce prévisions 2026 confirmées",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Drones suspects au-dessus de RAF Lakenheath",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }
