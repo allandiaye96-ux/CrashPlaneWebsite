@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean": "2026-11-03T23:20:37Z",
     "https://simpleflying.com/westjet-porter-airlines-carrier-more-premium-2026/": "2026-11-04T00:01:02Z",
     "https://www.airliners.de/emirates-plaenen-ita-airways-plant-rueckkehr-malpensa/91279": "2026-11-04T03:20:35Z",
     "https://simpleflying.com/perth-became-australia-gateway-europe/": "2026-11-04T05:01:02Z",
@@ -1510,7 +1509,8 @@
     "https://simpleflying.com/true-airbus-a321xlr-flies-nose-pitch-up-cruising-altitude/": "2026-11-13T23:01:01Z",
     "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/": "2026-11-13T23:01:01Z",
     "https://www.aero.de/news-54172/Landesweiter-Flugstopp-an-US-Flughaefen.html": "2026-11-13T23:10:34Z",
-    "https://www.air-journal.fr/2026-11-14-le-14-novembre-1918-dans-le-ciel-une-journee-de-chutes-a-paris-5278851.html": "2026-11-13T23:10:34Z"
+    "https://www.air-journal.fr/2026-11-14-le-14-novembre-1918-dans-le-ciel-une-journee-de-chutes-a-paris-5278851.html": "2026-11-13T23:10:34Z",
+    "https://www.airliners.de/faa-landesweiter-startstopp-kommunikationsstoerung-usa/91530": "2026-11-13T23:20:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4732,7 +4732,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-13T23:10:47Z",
+      "updated": "2026-11-13T23:20:46Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4787,14 +4787,23 @@
           "domain": "aero.de",
           "summary": "WASHINGTON - Die US-Luftfahrtaufsicht FAA hat einen landesweiten Stopp für Starts an Flughäfen verfügt. Grund seien Kommunikationsprobleme im Flugkontrollsystem, teilte Verkehrsminister Sean Duffy auf der Online-Plattform X mit. Techniker der FAA arbeiteten daran. Man werde neue Informationen umgehend mitteilen.",
           "published": "2026-11-13T23:05:29Z"
+        },
+        {
+          "id": "b648a11f9b90924d",
+          "feed": "airliners.de",
+          "title": "FAA verhängt landesweiten Startstopp nach Kommunikationsstörung",
+          "url": "https://www.airliners.de/faa-landesweiter-startstopp-kommunikationsstoerung-usa/91530",
+          "domain": "airliners.de",
+          "summary": "Wegen einer Kommunikationsstörung in der Flugsicherung dürfen in den USA keine Flugzeuge mehr starten. Es ist erst der zweite landesweite Startstopp seit den Anschlägen vom 11. September 2001.",
+          "published": "2026-11-13T23:10:40Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 6
+      "written_count": 7
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.911285
+    "2026-11": 4.913266
   }
 }
