@@ -6,14 +6,22 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 13:50:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 14:01:22 +0000</lastBuildDate>
   <item>
-    <title>SpiceJet annule plusieurs vols au départ de Dubaï en raison de frais aéroportuaires impayés</title>
+    <title>L&#x27;Arabie saoudite THC ferme une commande de 12 avions d&#x27;affaires Bombardier</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2/</guid>
+    <pubDate>Fri, 13 Nov 2026 14:01:22 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon AeroTime, The Helicopter Company (THC), basée en Arabie saoudite, a signé des accords d&#x27;achat fermes portant sur 12 avions d&#x27;affaires Bombardier.</description>
+  </item>
+  <item>
+    <title>SpiceJet annule des vols au départ de Dubaï pour des frais aéroportuaires impayés</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7/</guid>
     <pubDate>Fri, 13 Nov 2026 12:01:30 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon AeroTime, plusieurs vols de la compagnie SpiceJet au départ de Dubaï ont été annulés à cause de frais aéroportuaires non réglés.</description>
+    <description>Selon AeroTime, plusieurs vols de SpiceJet au départ de Dubaï ont été annulés en raison de frais aéroportuaires non réglés. D&#x27;après Air Journal, la compagnie indienne fait face à cette situation et tente de trouver une solution.</description>
   </item>
   <item>
     <title>Malaisie : le gouvernement étudie un soutien à AirAsia sous conditions</title>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 13:01:22 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AviTrader, la compagnie privée américaine Magnifica Air a validé l&#x27;achat ferme de dix appareils Airbus ACJ220-300. Ces avions figuraient déjà dans le carnet de commandes de l&#x27;avionneur sans que leur acheteur soit identifié.</description>
-  </item>
-  <item>
-    <title>Emirates devient propriétaire de six Airbus A380 loués, auprès de Lesha Bank</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37/</guid>
-    <pubDate>Wed, 11 Nov 2026 12:10:58 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AviTrader, la banque Lesha agit pour le compte du Lesha Aviation Fund et cède six A380 à Emirates, premier exploitant du type. D&#x27;après Air Journal, l&#x27;opération a été annoncée le 10 novembre 2026.</description>
   </item>
 </channel>
 </rss>

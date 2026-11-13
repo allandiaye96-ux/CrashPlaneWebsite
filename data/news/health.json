@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T13:50:35Z",
+  "run": "2026-11-13T14:00:59Z",
   "stats": {
     "fetched": 683,
-    "new": 0,
-    "written": 0,
+    "new": 3,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.872,
+  "spend_month_usd": 4.8744,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -364,6 +364,12 @@
       "breve": "2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e"
     },
     {
+      "dossier": "SpiceJet vols Dubai annulés frais aéroportuaires",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -664,10 +670,10 @@
       "breve": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f"
     },
     {
-      "dossier": "SpiceJet vols Dubai annulés frais aéroportuaires",
+      "dossier": "THC commande 12 Bombardier business jets",
       "statut": "source_unique",
       "editeurs": 1,
-      "breve": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7"
+      "breve": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2"
     },
     {
       "dossier": "Alerte drones Pays baltes Finlande espace aérien",

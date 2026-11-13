@@ -1,18 +1,19 @@
 [
   {
-    "id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
-    "created": "2026-11-13T12:01:30Z",
-    "updated": "2026-11-13T12:01:30Z",
+    "id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
+    "created": "2026-11-13T14:01:22Z",
+    "updated": "2026-11-13T14:01:22Z",
     "version": 1,
     "published": true,
     "hidden": false,
     "withdrawn": false,
-    "categorie": "Compagnies",
+    "categorie": "Constructeurs et industrie",
     "importance": 2,
-    "titre": "SpiceJet annule plusieurs vols au départ de Dubaï en raison de frais aéroportuaires impayés",
-    "chapo": "Selon AeroTime, plusieurs vols de la compagnie SpiceJet au départ de Dubaï ont été annulés à cause de frais aéroportuaires non réglés.",
+    "titre": "L'Arabie saoudite THC ferme une commande de 12 avions d'affaires Bombardier",
+    "chapo": "Selon AeroTime, The Helicopter Company (THC), basée en Arabie saoudite, a signé des accords d'achat fermes portant sur 12 avions d'affaires Bombardier.",
     "paragraphes": [
-      "Le média évoque des annulations de plusieurs rotations au départ de Dubaï, qui seraient liées à des redevances d'aéroport restées impayées. Le détail des vols concernés et la période exacte ne sont pas précisés dans l'information reprise."
+      "D'après le même média, la commande prévoit également des options pour 48 appareils supplémentaires.",
+      "Le texte disponible reste bref et ne détaille pas davantage les modalités du contrat ni le calendrier de livraison."
     ],
     "contradictions": "",
     "verification": {
@@ -23,9 +24,48 @@
     "sources": [
       {
         "name": "AeroTime",
+        "title": "Saudi THC firms up 12-jet Bombardier order, with options for 48 more",
+        "url": "https://www.aerotime.aero/articles/saudi-thc-firms-up-12-jet-bombardier-order-with-options-for-48-more",
+        "date": "2026-11-13T13:36:42Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
+    "created": "2026-11-13T12:01:30Z",
+    "updated": "2026-11-13T14:01:19Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "SpiceJet annule des vols au départ de Dubaï pour des frais aéroportuaires impayés",
+    "chapo": "Selon AeroTime, plusieurs vols de SpiceJet au départ de Dubaï ont été annulés en raison de frais aéroportuaires non réglés. D'après Air Journal, la compagnie indienne fait face à cette situation et tente de trouver une solution.",
+    "paragraphes": [
+      "D'après des médias indiens relayés par Air Journal, quatre départs de Dubaï vers l'Inde ont été supprimés le 12 novembre. Les services d'enregistrement de la compagnie ont été suspendus, les impayés étant estimés à 14 millions de dirhams. Les perturbations devaient se poursuivre le 13 novembre.",
+      "SpiceJet indique travailler à un règlement du litige. Le média précise également que la situation pèse sur le titre boursier de la compagnie en Inde."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
         "title": "SpiceJet flights from Dubai cancelled over unpaid airport fees: reports",
         "url": "https://www.aerotime.aero/articles/spicejet-flights-dubai-cancelled-unpaid-airport-fees",
         "date": "2026-11-13T11:39:40Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Annulations à Dubaï, menace boursière en Inde : SpiceJet sous pression",
+        "url": "https://www.air-journal.fr/2026-11-13-annulations-a-dubai-menace-boursiere-en-inde-spicejet-sous-pression-5278844.html",
+        "date": "2026-11-13T14:00:03Z",
         "official": false
       }
     ]

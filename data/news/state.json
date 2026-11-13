@@ -1501,7 +1501,10 @@
     "https://simpleflying.com/video/why-the-boeing-737-max-10-may-never-cross-the-atlantic-like-the-airbus-a321xlr/": "2026-11-13T13:30:56Z",
     "https://simpleflying.com/microsoft-outage-airlines-spicejet-cancellations-cathay-pacific/": "2026-11-13T13:30:56Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone": "2026-11-13T13:30:56Z",
-    "https://simpleflying.com/video/delta-united-jetblue-face-federal-probe-over-using-passenger-data-to-personalize-fares/": "2026-11-13T13:40:34Z"
+    "https://simpleflying.com/video/delta-united-jetblue-face-federal-probe-over-using-passenger-data-to-personalize-fares/": "2026-11-13T13:40:34Z",
+    "https://www.aerotime.aero/articles/saudi-thc-firms-up-12-jet-bombardier-order-with-options-for-48-more": "2026-11-13T14:00:59Z",
+    "https://www.aerotime.aero/articles/iag-media-british-airways-iberia-vueling": "2026-11-13T14:00:59Z",
+    "https://www.air-journal.fr/2026-11-13-annulations-a-dubai-menace-boursiere-en-inde-spicejet-sous-pression-5278844.html": "2026-11-13T14:00:59Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4657,7 +4660,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-13T12:01:22Z",
-      "updated": "2026-11-13T12:01:22Z",
+      "updated": "2026-11-13T14:01:13Z",
       "items": [
         {
           "id": "6bb2290cc88978b6",
@@ -4667,10 +4670,19 @@
           "domain": "aerotime.aero",
           "summary": "Several SpiceJet flights from Dubai have been cancelled due to unpaid airport fees, according to reports shared by… The post SpiceJet flights from Dubai cancelled over unpaid airport fees: reports appeared first on AeroTime .",
           "published": "2026-11-13T11:39:40Z"
+        },
+        {
+          "id": "42fda88ed7fe977a",
+          "feed": "Air Journal",
+          "title": "Annulations à Dubaï, menace boursière en Inde : SpiceJet sous pression",
+          "url": "https://www.air-journal.fr/2026-11-13-annulations-a-dubai-menace-boursiere-en-inde-spicejet-sous-pression-5278844.html",
+          "domain": "air-journal.fr",
+          "summary": "La compagnie low cost indienne SpiceJet a dû annuler quatre départs de Dubaï vers l’Inde le 12 novembre, après la suspension de ses services d’enregistrement pour des impayés estimés à 14 millions de dirhams, selon plusieurs médias indiens. Les perturbations se prolongeraient ce vendredi 13 novembre. SpiceJet assure travailler à une résolution du différend, alors […]",
+          "published": "2026-11-13T14:00:03Z"
         }
       ],
       "story_id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
-      "written_count": 1
+      "written_count": 2
     },
     "c44f80877c1": {
       "id": "c44f80877c1",
@@ -4734,10 +4746,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "ce92eeeffb2": {
+      "id": "ce92eeeffb2",
+      "label": "THC commande 12 Bombardier business jets",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-13T14:01:13Z",
+      "updated": "2026-11-13T14:01:13Z",
+      "items": [
+        {
+          "id": "7d7be558d61ab1cd",
+          "feed": "AeroTime",
+          "title": "Saudi THC firms up 12-jet Bombardier order, with options for 48 more",
+          "url": "https://www.aerotime.aero/articles/saudi-thc-firms-up-12-jet-bombardier-order-with-options-for-48-more",
+          "domain": "aerotime.aero",
+          "summary": "Saudi Arabia’s The Helicopter Company (THC) has signed firm purchase agreements for 12 Bombardier business jets, turning a… The post Saudi THC firms up 12-jet Bombardier order, with options for 48 more appeared first on AeroTime .",
+          "published": "2026-11-13T13:36:42Z"
+        }
+      ],
+      "story_id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.872015
+    "2026-11": 4.874397
   }
 }
