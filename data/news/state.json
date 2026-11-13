@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54074/Learjet-brach-bereits-in-der-Luft-auseinander.html": "2026-11-03T05:40:39Z",
     "https://simpleflying.com/how-much-boeing-747-8-pilots-make-2026/": "2026-11-03T06:01:04Z",
     "https://www.air-journal.fr/2026-11-03-rome-bologne-bagdad-eurowings-elargit-ses-horizons-depuis-berlin-5278652.html": "2026-11-03T06:01:04Z",
     "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html": "2026-11-03T06:10:35Z",
@@ -1512,7 +1511,8 @@
     "https://www.airliners.de/mehrheit-jetblue-glaeubiger-schliesst-kooperationsvereinbarung/91488": "2026-11-13T03:20:33Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years": "2026-11-13T04:20:36Z",
     "https://www.airliners.de/lufthansa-laesst-flugzeuge-czech-airlines-technics-warten/91490": "2026-11-13T04:20:36Z",
-    "https://www.aerotime.aero/articles/build-an-airport-that-can-adapt-alton-aviations-mabel-kwan-on-apac-financing": "2026-11-13T05:00:57Z"
+    "https://www.aerotime.aero/articles/build-an-airport-that-can-adapt-alton-aviations-mabel-kwan-on-apac-financing": "2026-11-13T05:00:57Z",
+    "https://www.aero.de/news-54164/SpaceX-will-beide-Starship-Stufen-wieder-einfangen.html": "2026-11-13T05:50:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4911,6 +4911,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.844662
+    "2026-11": 4.845448
   }
 }
