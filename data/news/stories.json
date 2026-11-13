@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a",
+    "created": "2026-11-13T14:20:49Z",
+    "updated": "2026-11-13T14:20:49Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "United Airlines atteint la moitié de son déploiement Starlink, selon AirlineGeeks",
+    "chapo": "D'après AirlineGeeks, United Airlines a franchi le cap de la moitié de son programme d'installation de Starlink à bord de sa flotte.",
+    "paragraphes": [
+      "Selon le même média, la compagnie prévoit d'équiper de Starlink près de 64 % de ses vols quotidiens d'ici la fin de l'année.",
+      "Le déploiement concerne donc la connectivité en vol à l'échelle du réseau de United, sans autres précisions dans les données disponibles à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AirlineGeeks",
+        "title": "United Clears Halfway Mark on Starlink Rollout",
+        "url": "https://airlinegeeks.com/2026/11/13/united-clears-halfway-mark-on-starlink-rollout/",
+        "date": "2026-11-13T14:13:13Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
     "created": "2026-11-13T14:01:22Z",
     "updated": "2026-11-13T14:01:22Z",

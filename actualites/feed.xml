@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 14:10:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 14:20:49 +0000</lastBuildDate>
+  <item>
+    <title>United Airlines atteint la moitié de son déploiement Starlink, selon AirlineGeeks</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a/</guid>
+    <pubDate>Fri, 13 Nov 2026 14:20:49 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>D&#x27;après AirlineGeeks, United Airlines a franchi le cap de la moitié de son programme d&#x27;installation de Starlink à bord de sa flotte.</description>
+  </item>
   <item>
     <title>L&#x27;Arabie saoudite THC ferme une commande de 12 avions d&#x27;affaires Bombardier</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 13:31:09 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Simple Flying, Alaska Airlines s&#x27;apprête à lancer une liaison sans escale entre Anchorage et Tokyo Narita le 13 mai 2027. Le projet reste soumis à l&#x27;approbation des autorités.</description>
-  </item>
-  <item>
-    <title>Magnifica Air officialise la commande de dix ACJ220-300 auprès d&#x27;Airbus</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-magnifica-air-confirme-une-commande-ferme-de-dix-airbus-acj2-0d0a/</guid>
-    <pubDate>Wed, 11 Nov 2026 13:01:22 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AviTrader, la compagnie privée américaine Magnifica Air a validé l&#x27;achat ferme de dix appareils Airbus ACJ220-300. Ces avions figuraient déjà dans le carnet de commandes de l&#x27;avionneur sans que leur acheteur soit identifié.</description>
   </item>
 </channel>
 </rss>
