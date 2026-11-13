@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.flightradar24.com/blog/aviation-news/runway-construction-wreaks-havoc-on-buenos-aires-international-network/": "2026-11-03T20:10:39Z",
     "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/": "2026-11-03T20:20:41Z",
     "https://simpleflying.com/us-army-black-hawk-helicopter-struck-fireworks-dramatic-nfl-flyover/": "2026-11-03T20:20:41Z",
     "https://www.aerotime.aero/articles/air-india-widebody-orders-new-ceo-profitability": "2026-11-03T20:20:41Z",
@@ -2043,27 +2042,6 @@
       ],
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
       "written_count": 4
-    },
-    "cf595fc1e24": {
-      "id": "cf595fc1e24",
-      "label": "Air Canada retrait routes long-courrier 737 MAX",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T20:10:49Z",
-      "updated": "2026-11-06T20:10:49Z",
-      "items": [
-        {
-          "id": "8a46949b5c4f9150",
-          "feed": "Simple Flying",
-          "title": "Air Canada Cancels 3 Long-Haul Boeing 737 MAX Routes: See Full List Now",
-          "url": "https://simpleflying.com/air-cancels-3-long-haul-737-max-routes/",
-          "domain": "simpleflying.com",
-          "summary": "Transatlantic routes reallocated to the A321XLR promise longer narrowbody reach and optimized network capacity.",
-          "published": "2026-11-06T20:04:12Z"
-        }
-      ],
-      "story_id": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24",
-      "written_count": 1
     },
     "cb93a058767": {
       "id": "cb93a058767",

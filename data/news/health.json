@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-13T20:10:35Z",
+  "run": "2026-11-13T20:20:37Z",
   "stats": {
     "fetched": 682,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -404,12 +404,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Air Canada retrait routes long-courrier 737 MAX",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-air-canada-supprimerait-trois-liaisons-long-courriers-assure-1e24"
     },
     {
       "dossier": "Boeing 777-9 calendrier certification livraison mi-2027",
