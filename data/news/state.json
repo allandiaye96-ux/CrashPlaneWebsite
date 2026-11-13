@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/herbstferien-flughafen-hamburg-passagierzahlen-steigern/91258": "2026-11-03T08:20:35Z",
     "https://www.aero.de/news-54077/Hubschrauber-kollidieren-am-Mount-Everest.html": "2026-11-03T08:40:42Z",
     "https://simpleflying.com/delta-air-lines-18-hour-meal-pre-order-window-closest-departure-any-us-carrier/": "2026-11-03T09:01:03Z",
     "https://www.aero.de/news-54078/Keine-Kurzarbeit-bei-Eurowings.html": "2026-11-03T09:01:03Z",
@@ -1512,7 +1511,8 @@
     "https://www.air-journal.fr/2026-11-13-singapore-airlines-la-nouvelle-classe-affaires-fait-grincer-des-dents-5278824.html": "2026-11-13T08:10:36Z",
     "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche": "2026-11-13T08:20:34Z",
     "https://www.airbus.com/en/newsroom/stories/2026-11-where-the-a220-flies-opening-routes-others-cannot": "2026-11-13T08:20:34Z",
-    "https://www.airliners.de/wizz-air-bombendrohungen-europaweit-einheitliches-vorgehen/91496": "2026-11-13T08:20:34Z"
+    "https://www.airliners.de/wizz-air-bombendrohungen-europaweit-einheitliches-vorgehen/91496": "2026-11-13T08:20:34Z",
+    "https://avitrader.com/2026/11/13/jonathan-grant-becomes-chief-engineer-for-ontic/": "2026-11-13T08:30:47Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2093,27 +2093,6 @@
       ],
       "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
       "written_count": 5
-    },
-    "c798fc89721": {
-      "id": "c798fc89721",
-      "label": "El Al résultats T3 2026",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T08:20:51Z",
-      "updated": "2026-11-06T08:20:51Z",
-      "items": [
-        {
-          "id": "e64cd029feb75e99",
-          "feed": "airliners.de",
-          "title": "El Al erzielt Rekordumsatz, Sondereffekt drückt Gewinn",
-          "url": "https://www.airliners.de/el-al-rekordumsatz-sondereffekt-drueckt-gewinn/91357",
-          "domain": "airliners.de",
-          "summary": "El Al hat im dritten Quartal trotz eines Rekordumsatzes weniger verdient. Der Nettogewinn sank auf 175 Millionen US-Dollar nach 203 Millionen US-Dollar ein Jahr zuvor, wie die israelische Fluggesellschaft am Donnerstag mitteilte. Der Umsatz stieg um rund 18 Prozent auf 1,27 Milliarden US-Dollar.",
-          "published": "2026-11-06T07:52:00Z"
-        }
-      ],
-      "story_id": "2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721",
-      "written_count": 1
     },
     "c287d8f85fb": {
       "id": "c287d8f85fb",
@@ -4911,6 +4890,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.852998
+    "2026-11": 4.853781
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T08:20:34Z",
+  "run": "2026-11-13T08:30:47Z",
   "stats": {
     "fetched": 683,
-    "new": 2,
-    "written": 1,
+    "new": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.853,
+  "spend_month_usd": 4.8538,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -380,12 +380,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "El Al résultats T3 2026",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-el-al-chiffre-d-affaires-record-au-troisieme-trimestre-mais-9721"
     },
     {
       "dossier": "Bombardier relève prévisions cash flow 2026",
