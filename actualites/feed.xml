@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 11:50:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 12:01:30 +0000</lastBuildDate>
+  <item>
+    <title>SpiceJet annule plusieurs vols au départ de Dubaï en raison de frais aéroportuaires impayés</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7/</guid>
+    <pubDate>Fri, 13 Nov 2026 12:01:30 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, plusieurs vols de la compagnie SpiceJet au départ de Dubaï ont été annulés à cause de frais aéroportuaires non réglés.</description>
+  </item>
   <item>
     <title>Malaisie : le gouvernement étudie un soutien à AirAsia sous conditions</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f/</link>
@@ -136,12 +144,12 @@
     <description>Dans le cadre de son redressement sous protection du Chapter 11, Air Baltic réduit encore sa flotte d&#x27;A220-300. Selon airliners.de, la compagnie veut rendre trois appareils loués supplémentaires.</description>
   </item>
   <item>
-    <title>Air Explore cesse ses opérations et renonce à son certificat d&#x27;exploitation</title>
+    <title>AirExplore cesse ses opérations et restitue son certificat de transporteur aérien</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c/</guid>
     <pubDate>Thu, 12 Nov 2026 07:31:05 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon aero.de, la compagnie slovaque Air Explore a mis fin à son activité aérienne. D&#x27;après Le Journal de l&#x27;Aviation, elle a annoncé l&#x27;arrêt de ses opérations le 10 novembre.</description>
+    <description>Selon Le Journal de l&#x27;Aviation, la compagnie slovaque AirExplore a définitivement suspendu ses opérations. D&#x27;après Air Journal, elle a cessé son activité le 10 novembre.</description>
   </item>
   <item>
     <title>United Airlines restreint l&#x27;accès des agents IA à ses plateformes numériques</title>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 12:10:58 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AviTrader, la banque Lesha agit pour le compte du Lesha Aviation Fund et cède six A380 à Emirates, premier exploitant du type. D&#x27;après Air Journal, l&#x27;opération a été annoncée le 10 novembre 2026.</description>
-  </item>
-  <item>
-    <title>Dubaï : Swiss, Austrian et ITA Airways retirent la destination de leur programme jusqu&#x27;à fin mars 2027</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316/</guid>
-    <pubDate>Wed, 11 Nov 2026 11:50:47 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon aero.de, l&#x27;enthousiasme de Lufthansa pour Dubaï est retombé : Swiss, Austrian Airlines et ITA Airways suppriment entièrement la destination jusqu&#x27;à fin mars 2027, et Lufthansa ne la maintient qu&#x27;au départ de Munich.</description>
   </item>
 </channel>
 </rss>

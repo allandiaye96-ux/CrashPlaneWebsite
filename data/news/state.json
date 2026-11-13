@@ -1508,7 +1508,11 @@
     "https://www.airliners.de/tui-airways-beantragt-registrierung-charterveranstalter-usa/91514": "2026-11-13T11:20:46Z",
     "https://www.airliners.de/atlantic-airways-erwaegt-codeshare-lufthansa/91510": "2026-11-13T11:20:46Z",
     "https://www.airliners.de/lufthansa-vereinigung-cockpit-mediation-ergebnis/91512": "2026-11-13T11:20:46Z",
-    "https://www.aero.de/news-54169/Microsoft-Ausfall-Lufthansa-meldet-Normalbetrieb.html": "2026-11-13T11:50:36Z"
+    "https://www.aero.de/news-54169/Microsoft-Ausfall-Lufthansa-meldet-Normalbetrieb.html": "2026-11-13T11:50:36Z",
+    "https://simpleflying.com/project-sunrise-saves-4-hours/": "2026-11-13T12:00:58Z",
+    "https://www.aerotime.aero/articles/spicejet-flights-dubai-cancelled-unpaid-airport-fees": "2026-11-13T12:00:58Z",
+    "https://www.aerotime.aero/articles/japan-f35-purchases-cuts-defense-budget": "2026-11-13T12:00:58Z",
+    "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html": "2026-11-13T12:00:58Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4307,7 +4311,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T07:31:02Z",
-      "updated": "2026-11-13T09:20:49Z",
+      "updated": "2026-11-13T12:01:22Z",
       "items": [
         {
           "id": "0e3f7974009890e7",
@@ -4326,10 +4330,19 @@
           "domain": "journal-aviation.com",
           "summary": "AirExplore a définitivement suspendu ses opérations. La compagnie charter et ACMI a annoncé le 10 novembre qu’elle arrêtait ses activités et qu’elle avait déposé une demande de renonciation à son […] L’article AirExplore cesse ses opérations a été publié sur Le Journal de l’Aviation .",
           "published": "2026-11-13T09:12:28Z"
+        },
+        {
+          "id": "87366dc551209bf6",
+          "feed": "Air Journal",
+          "title": "Dette, kérosène, contrats en berne : AirExplore et AlbaStar interrompent leurs opérations",
+          "url": "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html",
+          "domain": "air-journal.fr",
+          "summary": "La compagnie slovaque AirExplore a cessé ses opérations le 10 novembre, tandis que l’espagnole AlbaStar suspendait ses vols dans l’espoir de trouver un investisseur. Derrière ce calendrier commun, deux situations distinctes : un arrêt définitif pour la filiale d’Avia Solutions Group, une tentative de sauvetage pour le transporteur de Palma de Majorque. Toutes deux invoquent […]",
+          "published": "2026-11-13T12:00:40Z"
         }
       ],
       "story_id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
-      "written_count": 2
+      "written_count": 3
     },
     "ca88e675dbf": {
       "id": "ca88e675dbf",
@@ -4753,10 +4766,52 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "cde7a9324c7": {
+      "id": "cde7a9324c7",
+      "label": "SpiceJet vols Dubai annulés frais aéroportuaires",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T12:01:22Z",
+      "updated": "2026-11-13T12:01:22Z",
+      "items": [
+        {
+          "id": "6bb2290cc88978b6",
+          "feed": "AeroTime",
+          "title": "SpiceJet flights from Dubai cancelled over unpaid airport fees: reports",
+          "url": "https://www.aerotime.aero/articles/spicejet-flights-dubai-cancelled-unpaid-airport-fees",
+          "domain": "aerotime.aero",
+          "summary": "Several SpiceJet flights from Dubai have been cancelled due to unpaid airport fees, according to reports shared by… The post SpiceJet flights from Dubai cancelled over unpaid airport fees: reports appeared first on AeroTime .",
+          "published": "2026-11-13T11:39:40Z"
+        }
+      ],
+      "story_id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
+      "written_count": 1
+    },
+    "c44f80877c1": {
+      "id": "c44f80877c1",
+      "label": "Japon budget défense F-35 réduction achats",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-13T12:01:22Z",
+      "updated": "2026-11-13T12:01:22Z",
+      "items": [
+        {
+          "id": "23f2e0cfa35c4bee",
+          "feed": "AeroTime",
+          "title": "Japan could slash F-35 fighter purchases amid defense budget clash",
+          "url": "https://www.aerotime.aero/articles/japan-f35-purchases-cuts-defense-budget",
+          "domain": "aerotime.aero",
+          "summary": "Japan’s Ministry of Finance has proposed a five-year defense budget well below the level that some defense officials… The post Japan could slash F-35 fighter purchases amid defense budget clash appeared first on AeroTime .",
+          "published": "2026-11-13T11:32:43Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.866303
+    "2026-11": 4.868777
   }
 }

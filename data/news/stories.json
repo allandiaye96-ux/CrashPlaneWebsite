@@ -1,5 +1,82 @@
 [
   {
+    "id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
+    "created": "2026-11-13T12:01:30Z",
+    "updated": "2026-11-13T12:01:30Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "SpiceJet annule plusieurs vols au départ de Dubaï en raison de frais aéroportuaires impayés",
+    "chapo": "Selon AeroTime, plusieurs vols de la compagnie SpiceJet au départ de Dubaï ont été annulés à cause de frais aéroportuaires non réglés.",
+    "paragraphes": [
+      "Le média évoque des annulations de plusieurs rotations au départ de Dubaï, qui seraient liées à des redevances d'aéroport restées impayées. Le détail des vols concernés et la période exacte ne sont pas précisés dans l'information reprise."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "SpiceJet flights from Dubai cancelled over unpaid airport fees: reports",
+        "url": "https://www.aerotime.aero/articles/spicejet-flights-dubai-cancelled-unpaid-airport-fees",
+        "date": "2026-11-13T11:39:40Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
+    "created": "2026-11-12T07:31:05Z",
+    "updated": "2026-11-13T12:01:27Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "AirExplore cesse ses opérations et restitue son certificat de transporteur aérien",
+    "chapo": "Selon Le Journal de l'Aviation, la compagnie slovaque AirExplore a définitivement suspendu ses opérations. D'après Air Journal, elle a cessé son activité le 10 novembre.",
+    "paragraphes": [
+      "La compagnie charter et ACMI, filiale du groupe Avia Solutions Group, a annoncé le 10 novembre l'arrêt de ses activités. Elle a déposé une demande de renonciation à son certificat de transporteur aérien (AOC), selon Le Journal de l'Aviation.",
+      "D'après aero.de, une fusion envisagée avec la compagnie sœur Klasjet ne se fera donc plus. Air Journal relie l'arrêt à une situation de dette, de coûts de kérosène et de contrats en baisse, sans que les causes soient présentées comme établies par une autorité."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air Explore gibt ihre Betriebslizenz zurück",
+        "url": "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html",
+        "date": "2026-11-12T07:22:30Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "AirExplore cesse ses opérations",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airexplore-cesse-ses-operations-20261113.html",
+        "date": "2026-11-13T09:12:28Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Dette, kérosène, contrats en berne : AirExplore et AlbaStar interrompent leurs opérations",
+        "url": "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html",
+        "date": "2026-11-13T12:00:40Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f",
     "created": "2026-11-13T11:21:04Z",
     "updated": "2026-11-13T11:21:04Z",
@@ -165,45 +242,6 @@
         "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
         "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
         "date": "2026-11-13T09:38:43Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
-    "created": "2026-11-12T07:31:05Z",
-    "updated": "2026-11-13T09:20:51Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air Explore cesse ses opérations et renonce à son certificat d'exploitation",
-    "chapo": "Selon aero.de, la compagnie slovaque Air Explore a mis fin à son activité aérienne. D'après Le Journal de l'Aviation, elle a annoncé l'arrêt de ses opérations le 10 novembre.",
-    "paragraphes": [
-      "La compagnie charter et ACMI, appartenant au groupe Avia Solutions Group, a suspendu définitivement ses vols. Elle a déposé une demande de renonciation à son AOC, son certificat de transporteur aérien.",
-      "Une fusion avec Klasjet, sa sœur au sein du même groupe, prévue initialement, n'aura donc pas lieu."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Air Explore gibt ihre Betriebslizenz zurück",
-        "url": "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html",
-        "date": "2026-11-12T07:22:30Z",
-        "official": false
-      },
-      {
-        "name": "Le Journal de l'Aviation",
-        "title": "AirExplore cesse ses opérations",
-        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airexplore-cesse-ses-operations-20261113.html",
-        "date": "2026-11-13T09:12:28Z",
         "official": false
       }
     ]

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T11:50:36Z",
+  "run": "2026-11-13T12:00:58Z",
   "stats": {
     "fetched": 683,
-    "new": 1,
-    "written": 0,
+    "new": 4,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8663,
+  "spend_month_usd": 4.8688,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -244,6 +244,12 @@
       "breve": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc"
     },
     {
+      "dossier": "Air Explore arrêt AOC Avia Solutions",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
+    },
+    {
       "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
       "statut": "corrobore",
       "editeurs": 3,
@@ -338,12 +344,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
-    },
-    {
-      "dossier": "Air Explore arrêt AOC Avia Solutions",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
     },
     {
       "dossier": "Air Baltic retour A220 et sanierung insolvence",
@@ -682,6 +682,12 @@
       "breve": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f"
     },
     {
+      "dossier": "SpiceJet vols Dubai annulés frais aéroportuaires",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7"
+    },
+    {
       "dossier": "Pologne MiG-29 transfert Ukraine drones",
       "statut": "signale",
       "editeurs": 1,
@@ -713,6 +719,12 @@
     },
     {
       "dossier": "US demande 30,1 Md$ flugsicherung aéroports",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Japon budget défense F-35 réduction achats",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
