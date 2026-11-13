@@ -1507,7 +1507,8 @@
     "https://www.airliners.de/us-regierung-milliarden-flugsicherung-flughaefen/91517": "2026-11-13T11:20:46Z",
     "https://www.airliners.de/tui-airways-beantragt-registrierung-charterveranstalter-usa/91514": "2026-11-13T11:20:46Z",
     "https://www.airliners.de/atlantic-airways-erwaegt-codeshare-lufthansa/91510": "2026-11-13T11:20:46Z",
-    "https://www.airliners.de/lufthansa-vereinigung-cockpit-mediation-ergebnis/91512": "2026-11-13T11:20:46Z"
+    "https://www.airliners.de/lufthansa-vereinigung-cockpit-mediation-ergebnis/91512": "2026-11-13T11:20:46Z",
+    "https://www.aero.de/news-54169/Microsoft-Ausfall-Lufthansa-meldet-Normalbetrieb.html": "2026-11-13T11:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4756,6 +4757,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.865522
+    "2026-11": 4.866303
   }
 }
