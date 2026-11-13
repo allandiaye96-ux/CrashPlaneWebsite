@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.journal-aviation.com/leasing-et-financement/avolon-cree-constellation-aviation-20261103.html": "2026-11-03T15:10:38Z",
-    "https://www.aerotime.aero/articles/sweden-receives-taurus-missiles-germany-gripen": "2026-11-03T15:20:40Z",
-    "https://www.airliners.de/wizz-air-steigert-passagierzahlen-oktober-deutlich/91288": "2026-11-03T15:20:40Z",
-    "https://www.airliners.de/ryanair-fliegt-2027-alicante-malaga-paderbornlippstadt/91292": "2026-11-03T15:20:40Z",
-    "https://www.airliners.de/lufthansa-erwaegt-premium-economy-groessere-business-class/91285": "2026-11-03T15:20:40Z",
-    "https://www.airliners.de/ryanair-passagierzahlen-oktober-steigern/91278": "2026-11-03T15:20:40Z",
-    "https://www.airliners.de/ntsb-learjet-60-absturz-florida-auseinandergebrochen/91282": "2026-11-03T15:20:40Z",
     "https://www.air-journal.fr/2026-11-03-le-caire-easyjet-holidays-ajoute-les-pyramides-et-le-grand-musee-egyptien-a-ses-sejours-5278663.html": "2026-11-03T15:30:59Z",
     "https://airlinegeeks.com/2026/11/03/delta-ceo-calls-heathrow-move-short-sighted/": "2026-11-03T16:01:07Z",
     "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat": "2026-11-03T16:20:39Z",
@@ -1504,7 +1497,8 @@
     "https://www.aero.de/news-54171/Airbus-A321neo-von-British-Airways-hat-Zweifach-Tailstrike.html": "2026-11-13T15:01:04Z",
     "https://www.aero.de/news-54170/Ermittlungen-nach-Cyberangriff-auf-Quantum-Systems.html": "2026-11-13T15:01:04Z",
     "https://www.air-journal.fr/2026-11-13-singapore-airlines-des-passagers-records-au-premier-semestre-mais-le-kerosene-rogne-les-benefices-5278845.html": "2026-11-13T15:01:04Z",
-    "https://www.aero.de/news-54168/Spohr-Neue-Grossraummodelle-erst-in-den-40er-Jahren.html": "2026-11-13T15:10:35Z"
+    "https://www.aero.de/news-54168/Spohr-Neue-Grossraummodelle-erst-in-den-40er-Jahren.html": "2026-11-13T15:10:35Z",
+    "https://www.airbus.com/en/newsroom/stories/2026-11-performance-and-precision-in-action-shaping-the-future-of-utility-helicopter-mission": "2026-11-13T15:20:48Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4810,6 +4804,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.880398
+    "2026-11": 4.881172
   }
 }
