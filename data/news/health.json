@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-13T11:20:46Z",
+  "run": "2026-11-13T11:30:51Z",
   "stats": {
     "fetched": 683,
-    "new": 5,
-    "written": 2,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -680,12 +680,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f"
-    },
-    {
-      "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": null
     },
     {
       "dossier": "Pologne MiG-29 transfert Ukraine drones",

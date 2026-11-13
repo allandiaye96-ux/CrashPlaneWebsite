@@ -3847,36 +3847,6 @@
       "story_id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
       "written_count": 3
     },
-    "c29cbb8f05e": {
-      "id": "c29cbb8f05e",
-      "label": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-11T08:01:22Z",
-      "updated": "2026-11-11T11:20:49Z",
-      "items": [
-        {
-          "id": "c653e8b290c3aa7f",
-          "feed": "Air Journal",
-          "title": "Près de Toulouse, Airbus veut investir jusqu’à 900 millions d’euros dans les mâts réacteurs",
-          "url": "https://www.air-journal.fr/2026-11-11-pres-de-toulouse-airbus-veut-investir-jusqua-900-millions-deuros-dans-les-mats-reacteurs-5278779.html",
-          "domain": "air-journal.fr",
-          "summary": "Airbus prépare à Cornebarrieu, près de l’aéroport de Toulouse-Blagnac, une nouvelle usine destinée à accompagner la croissance de sa production au-delà de 2030. Baptisé « Saint-Éloi du futur », le projet représente un investissement estimatif pouvant atteindre 900 millions d’euros et pourrait accueillir jusqu’à 3 500 salariés à l’horizon 2037. Une concertation préalable s’ouvrira le […]",
-          "published": "2026-11-11T08:00:33Z"
-        },
-        {
-          "id": "1ac19f58934e3789",
-          "feed": "AeroTime",
-          "title": "Airbus announces plans to build new greenfield factory in Toulouse",
-          "url": "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse",
-          "domain": "aerotime.aero",
-          "summary": "Airbus has announced plans to build a new factory in Toulouse to produce engine pylons for its jets. … The post Airbus announces plans to build new greenfield factory in Toulouse appeared first on AeroTime .",
-          "published": "2026-11-11T10:31:41Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 2
-    },
     "c6dd42dc316": {
       "id": "c6dd42dc316",
       "label": "Lufthansa Group réduit vols Dubai hiver 2026/2027",
