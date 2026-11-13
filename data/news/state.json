@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/american-airlines-double-size-philadelphia-flagship-lounge/": "2026-11-03T00:10:34Z",
     "https://simpleflying.com/american-airlines-returns-haiti-2-hears-haitian-crew/": "2026-11-03T00:40:32Z",
     "https://www.twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it": "2026-11-03T00:50:33Z",
     "https://simpleflying.com/7-things-pilots-boeing-737-unique-jet-fly/": "2026-11-03T01:00:58Z",
@@ -1513,7 +1512,8 @@
     "https://www.aerotime.aero/articles/avelo-dallas-area-base-mckinney-airport-routes": "2026-11-12T23:00:58Z",
     "https://www.air-journal.fr/2026-11-13-le-13-novembre-1908-dans-le-ciel-wilbur-wright-a-loeuvre-5278821.html": "2026-11-12T23:10:34Z",
     "https://simpleflying.com/alaska-airlines-grows-4-new-us-cities-seattle-1-seasonal-route-mexico/": "2026-11-12T23:40:43Z",
-    "https://www.twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman": "2026-11-12T23:50:35Z"
+    "https://www.twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman": "2026-11-12T23:50:35Z",
+    "https://simpleflying.com/why-c-17-globemaster-taxi-backward-no-tow-truck/": "2026-11-13T00:10:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4942,6 +4942,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.837978
+    "2026-11": 4.838761
   }
 }
