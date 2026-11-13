@@ -1504,7 +1504,8 @@
     "https://www.aerotime.aero/articles/spicejet-flights-dubai-cancelled-unpaid-airport-fees": "2026-11-13T12:00:58Z",
     "https://www.aerotime.aero/articles/japan-f35-purchases-cuts-defense-budget": "2026-11-13T12:00:58Z",
     "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html": "2026-11-13T12:00:58Z",
-    "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-395/": "2026-11-13T12:20:41Z"
+    "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-395/": "2026-11-13T12:20:41Z",
+    "https://www.air-journal.fr/2026-11-13-korean-air-revient-a-newark-et-bouscule-la-concurrence-entre-seoul-et-new-york-5278839.html": "2026-11-13T13:01:02Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2076,27 +2077,6 @@
       ],
       "story_id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
       "written_count": 2
-    },
-    "cec9a0a18e2": {
-      "id": "cec9a0a18e2",
-      "label": "Alliance fret Lufthansa Cargo ANA Swiss NCA",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T12:50:46Z",
-      "updated": "2026-11-06T12:50:46Z",
-      "items": [
-        {
-          "id": "71266a173bfef061",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Lufthansa Cargo, ANA, Swiss et NCA préparent une alliance dans le fret aérien entre le Japon et l’Europe",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html",
-          "domain": "journal-aviation.com",
-          "summary": "Lufthansa Cargo, Swiss WorldCargo, All Nippon Airways (ANA) et Nippon Cargo Airlines (NCA) ont annoncé le 6 novembre un protocole d’accord (MoU) visant à étudier un renforcement de leur coopération […] L’article Lufthansa Cargo, ANA, Swiss et NCA préparent une alliance dans le fret aérien entre le Japon et l’Europe a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-06T12:42:09Z"
-        }
-      ],
-      "story_id": "2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2",
-      "written_count": 1
     },
     "cea071b6165": {
       "id": "cea071b6165",
@@ -4741,6 +4721,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.869557
+    "2026-11": 4.870353
   }
 }

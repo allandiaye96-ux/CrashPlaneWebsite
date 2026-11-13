@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T12:50:35Z",
+  "run": "2026-11-13T13:01:02Z",
   "stats": {
     "fetched": 683,
-    "new": 0,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8696,
+  "spend_month_usd": 4.8704,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -374,12 +374,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Alliance fret Lufthansa Cargo ANA Swiss NCA",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-fret-aerien-japon-europe-lufthansa-cargo-swiss-worldcargo-an-18e2"
     },
     {
       "dossier": "Alaska Airlines nouveaux sièges Aurora Suites 787 et 737 MAX 10",
