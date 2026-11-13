@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 03:10:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 03:20:46 +0000</lastBuildDate>
+  <item>
+    <title>JetBlue : une majorité de créanciers signe un accord de coopération</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0/</guid>
+    <pubDate>Fri, 13 Nov 2026 03:20:46 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, une majorité des créanciers de JetBlue Airways a signé un accord de coopération destiné à empêcher la compagnie américaine de conclure des arrangements séparés avec les prêteurs du groupe.</description>
+  </item>
   <item>
     <title>Turquie : quatre morts dans la chute d&#x27;un hélicoptère militaire près de Malatya</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e/</link>
@@ -238,14 +246,6 @@
     <pubDate>Tue, 10 Nov 2026 22:10:55 +0000</pubDate>
     <category>Constructeurs et industrie</category>
     <description>Selon AeroTime, le Pioneer 800 Twin d&#x27;Alpi Aviation a réalisé son premier vol le 5 novembre 2026. Cet appareil à quatre places est équipé de moteurs Rotax.</description>
-  </item>
-  <item>
-    <title>SAS renforce ses vols vers Atlanta et Seattle, hubs de Delta, pour l&#x27;été 2027</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-sas-renforce-ses-vols-vers-atlanta-et-seattle-hubs-de-delta-d490/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-sas-renforce-ses-vols-vers-atlanta-et-seattle-hubs-de-delta-d490/</guid>
-    <pubDate>Tue, 10 Nov 2026 22:10:53 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Simple Flying, SAS augmente ses vols vers Atlanta et Seattle pour l&#x27;été 2027, dans le cadre d&#x27;un partenariat renforcé avec Delta.</description>
   </item>
 </channel>
 </rss>

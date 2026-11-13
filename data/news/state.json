@@ -1514,7 +1514,8 @@
     "https://www.twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it": "2026-11-13T01:00:58Z",
     "https://simpleflying.com/early-flight-attendants-airport-before-flight/": "2026-11-13T01:00:58Z",
     "https://simpleflying.com/why-boeing-chose-traditional-aluminum-747-8-fuselage-airbus-hybrid-material-a380/": "2026-11-13T02:00:58Z",
-    "https://simpleflying.com/real-reason-why-boeing-is-building-f-47-stealth-fighter-and-not-lockheed/": "2026-11-13T02:50:35Z"
+    "https://simpleflying.com/real-reason-why-boeing-is-building-f-47-stealth-fighter-and-not-lockheed/": "2026-11-13T02:50:35Z",
+    "https://www.airliners.de/mehrheit-jetblue-glaeubiger-schliesst-kooperationsvereinbarung/91488": "2026-11-13T03:20:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4939,10 +4940,31 @@
       ],
       "story_id": "2026-11-12-virgin-australia-le-personnel-de-cabine-vote-massivement-en-c044",
       "written_count": 1
+    },
+    "c47435fb1e0": {
+      "id": "c47435fb1e0",
+      "label": "JetBlue accord créanciers coopération",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T03:20:44Z",
+      "updated": "2026-11-13T03:20:44Z",
+      "items": [
+        {
+          "id": "538576bfb7685f0c",
+          "feed": "airliners.de",
+          "title": "Mehrheit der Jetblue-Gläubiger schließt Kooperationsvereinbarung ab",
+          "url": "https://www.airliners.de/mehrheit-jetblue-glaeubiger-schliesst-kooperationsvereinbarung/91488",
+          "domain": "airliners.de",
+          "summary": "Eine Mehrheit der Gläubiger von Jetblue Airways hat eine Kooperationsvereinbarung unterzeichnet. Sie soll verhindern, dass die US-Fluggesellschaft Einzelabsprachen mit Kreditgebern der Gruppe schließt, berichtete \"Bloomberg News\" unter Berufung auf Insider.",
+          "published": "2026-11-13T03:06:00Z"
+        }
+      ],
+      "story_id": "2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.841906
+    "2026-11": 4.84307
   }
 }

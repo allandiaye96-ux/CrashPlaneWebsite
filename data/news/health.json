@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T03:10:37Z",
+  "run": "2026-11-13T03:20:33Z",
   "stats": {
     "fetched": 683,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8419,
+  "spend_month_usd": 4.8431,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -710,6 +710,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-12-virgin-australia-le-personnel-de-cabine-vote-massivement-en-c044"
+    },
+    {
+      "dossier": "JetBlue accord créanciers coopération",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

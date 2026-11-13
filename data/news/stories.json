@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0",
+    "created": "2026-11-13T03:20:46Z",
+    "updated": "2026-11-13T03:20:46Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "JetBlue : une majorité de créanciers signe un accord de coopération",
+    "chapo": "Selon airliners.de, une majorité des créanciers de JetBlue Airways a signé un accord de coopération destiné à empêcher la compagnie américaine de conclure des arrangements séparés avec les prêteurs du groupe.",
+    "paragraphes": [
+      "D'après le média allemand, qui cite Bloomberg News et des informations de sources internes, cet accord vise à éviter que la compagnie négocie individuellement avec ses créanciers.",
+      "Les détails de l'accord et ses conséquences pour la situation financière de la compagnie ne sont pas précisés dans cette information."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Mehrheit der Jetblue-Gläubiger schließt Kooperationsvereinbarung ab",
+        "url": "https://www.airliners.de/mehrheit-jetblue-glaeubiger-schliesst-kooperationsvereinbarung/91488",
+        "date": "2026-11-13T03:06:00Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9",
     "created": "2026-11-12T19:20:55Z",
     "updated": "2026-11-12T22:10:50Z",
