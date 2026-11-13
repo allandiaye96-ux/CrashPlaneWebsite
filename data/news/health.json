@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-13T13:40:34Z",
+  "run": "2026-11-13T13:50:35Z",
   "stats": {
     "fetched": 683,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -374,12 +374,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Alaska Airlines nouveaux sièges Aurora Suites 787 et 737 MAX 10",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-alaska-airlines-devoile-aurora-suites-lie-flat-sur-787-et-su-6165"
     },
     {
       "dossier": "Beta Technologies certification FAA Alia CX300",
