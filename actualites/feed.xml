@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 15:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 16:01:15 +0000</lastBuildDate>
+  <item>
+    <title>American, Delta et United annoncent 24 nouvelles liaisons transatlantiques sans escale</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9/</guid>
+    <pubDate>Fri, 13 Nov 2026 16:01:15 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, les compagnies américaines American, Delta et United vont desservir plusieurs nouvelles villes en Europe et au-delà au départ des États-Unis.</description>
+  </item>
   <item>
     <title>Quantum Systems : les drones de la Bundeswehr de nouveau en vol après une cyberattaque</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-quantum-systems-les-drones-de-la-bundeswehr-de-nouveau-en-vo-6a48/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 15:20:51 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, la compagnie aérienne Albastar, basée à Majorque, a suspendu temporairement ses opérations aériennes et déposé une demande de procédure d&#x27;insolvabilité.</description>
-  </item>
-  <item>
-    <title>Etihad : fin des vols en Airbus A380 vers l&#x27;Amérique du Nord, selon Simple Flying</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5/</guid>
-    <pubDate>Wed, 11 Nov 2026 15:01:31 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Etihad Airways retirerait l&#x27;Airbus A380 de l&#x27;ensemble de ses liaisons vers l&#x27;Amérique du Nord, d&#x27;après Simple Flying. Le site spécialisé évoque aussi une autre route qui ne verra plus l&#x27;appareil.</description>
   </item>
 </channel>
 </rss>

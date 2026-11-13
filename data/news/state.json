@@ -1503,7 +1503,9 @@
     "https://theaviationist.com/2026/11/13/b-21-raider-first-weapon-release/": "2026-11-13T15:30:48Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html": "2026-11-13T15:30:48Z",
     "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/": "2026-11-13T15:40:42Z",
-    "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/": "2026-11-13T15:50:36Z"
+    "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/": "2026-11-13T15:50:36Z",
+    "https://simpleflying.com/american-delta-united-launch-24-transatlantic-routes/": "2026-11-13T16:01:00Z",
+    "https://simpleflying.com/canada-prints-airport-costs/": "2026-11-13T16:01:00Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4796,10 +4798,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c42f193ffc9": {
+      "id": "c42f193ffc9",
+      "label": "American, Delta et United nouvelles routes transatlantiques",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T16:01:11Z",
+      "updated": "2026-11-13T16:01:11Z",
+      "items": [
+        {
+          "id": "223479e586895dbb",
+          "feed": "Simple Flying",
+          "title": "American, Delta & United Launch 24 Nonstop Transatlantic Routes: See Full List Now",
+          "url": "https://simpleflying.com/american-delta-united-launch-24-transatlantic-routes/",
+          "domain": "simpleflying.com",
+          "summary": "The United States legacy carriers will be flying to a host of new cities in Europe and beyond.",
+          "published": "2026-11-13T16:00:20Z"
+        }
+      ],
+      "story_id": "2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.88479
+    "2026-11": 4.886311
   }
 }

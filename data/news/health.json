@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T15:50:36Z",
+  "run": "2026-11-13T16:01:00Z",
   "stats": {
     "fetched": 682,
-    "new": 1,
+    "new": 2,
     "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8848,
+  "spend_month_usd": 4.8863,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -680,6 +680,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a"
+    },
+    {
+      "dossier": "American, Delta et United nouvelles routes transatlantiques",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9"
     },
     {
       "dossier": "US demande 30,1 Md$ flugsicherung aéroports",

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9",
+    "created": "2026-11-13T16:01:15Z",
+    "updated": "2026-11-13T16:01:15Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "American, Delta et United annoncent 24 nouvelles liaisons transatlantiques sans escale",
+    "chapo": "Selon Simple Flying, les compagnies américaines American, Delta et United vont desservir plusieurs nouvelles villes en Europe et au-delà au départ des États-Unis.",
+    "paragraphes": [
+      "D'après Simple Flying, les trois compagnies « legacy » américaines doivent ouvrir des vols directs vers un ensemble de destinations nouvelles, réparties en Europe et dans d'autres régions.",
+      "L'article annonce un total de 24 liaisons sans escale, sans toutefois détailler ici la liste complète des villes ni les calendriers de mise en service."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "American, Delta & United Launch 24 Nonstop Transatlantic Routes: See Full List Now",
+        "url": "https://simpleflying.com/american-delta-united-launch-24-transatlantic-routes/",
+        "date": "2026-11-13T16:00:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
     "created": "2026-11-13T10:01:14Z",
     "updated": "2026-11-13T15:50:48Z",
