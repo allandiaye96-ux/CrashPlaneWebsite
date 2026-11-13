@@ -1501,7 +1501,8 @@
     "https://simpleflying.com/podcast-310/": "2026-11-13T20:40:35Z",
     "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force": "2026-11-13T20:50:34Z",
     "https://simpleflying.com/how-many-crew-members-fly-kc-135-stratotanker/": "2026-11-13T21:01:00Z",
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-reports-share-buyback-transactions-9-13-november-2026": "2026-11-13T21:01:00Z"
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-reports-share-buyback-transactions-9-13-november-2026": "2026-11-13T21:01:00Z",
+    "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/": "2026-11-13T21:30:46Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4707,10 +4708,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c4883c98720": {
+      "id": "c4883c98720",
+      "label": "FAA ground stop national (problème ATC)",
+      "categorie": "Sécurité et réglementation",
+      "importance": 3,
+      "created": "2026-11-13T21:30:59Z",
+      "updated": "2026-11-13T21:30:59Z",
+      "items": [
+        {
+          "id": "e05f5c385448df5b",
+          "feed": "AirlineGeeks",
+          "title": "FAA Orders Nationwide Ground Stop",
+          "url": "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/",
+          "domain": "airlinegeeks.com",
+          "summary": "Departures are halted due to ATC communications issues.",
+          "published": "2026-11-13T21:27:13Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.902452
+    "2026-11": 4.903236
   }
 }
