@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 16:10:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 16:20:53 +0000</lastBuildDate>
+  <item>
+    <title>United étend le WiFi Starlink gratuit à plus de la moitié de ses vols quotidiens</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-united-etend-le-wifi-starlink-gratuit-a-plus-de-la-moitie-de-d362/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-united-etend-le-wifi-starlink-gratuit-a-plus-de-la-moitie-de-d362/</guid>
+    <pubDate>Fri, 13 Nov 2026 16:20:49 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, United Airlines franchit une étape importante dans le déploiement de son WiFi Starlink gratuit, qui concernerait désormais plus de 50 % de ses vols quotidiens. Le même article indique que Delta s&#x27;oriente vers Amazon Leo.</description>
+  </item>
   <item>
     <title>American, Delta et United annoncent 24 nouvelles liaisons transatlantiques sans escale</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 15:20:54 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, le groupe Cathay a passé commande ferme auprès d&#x27;Airbus pour onze A330-900 et trois A321 Neo supplémentaires, ce qui porte à 41 le nombre d&#x27;A330-900 commandés.</description>
-  </item>
-  <item>
-    <title>Albastar suspend temporairement ses vols et demande l&#x27;ouverture d&#x27;une procédure d&#x27;insolvabilité</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1/</guid>
-    <pubDate>Wed, 11 Nov 2026 15:20:51 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, la compagnie aérienne Albastar, basée à Majorque, a suspendu temporairement ses opérations aériennes et déposé une demande de procédure d&#x27;insolvabilité.</description>
   </item>
 </channel>
 </rss>

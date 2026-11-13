@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T16:10:37Z",
+  "run": "2026-11-13T16:20:35Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
-    "held": 0,
+    "new": 3,
+    "written": 1,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.8863,
+  "spend_month_usd": 4.8883,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -688,6 +688,12 @@
       "breve": "2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9"
     },
     {
+      "dossier": "United’s Free Starlink WiFi Now On Over 50% Of Daily Flights As Delta Bets On Amazon Leo",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-13-united-etend-le-wifi-starlink-gratuit-a-plus-de-la-moitie-de-d362"
+    },
+    {
       "dossier": "US demande 30,1 Md$ flugsicherung aéroports",
       "statut": "signale",
       "editeurs": 1,
@@ -726,6 +732,12 @@
     {
       "dossier": "B-21 Raider démonstration largage d'armement",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Rolls-Royce prévisions 2026 confirmées",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }

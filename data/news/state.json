@@ -1504,7 +1504,10 @@
     "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/": "2026-11-13T15:40:42Z",
     "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/": "2026-11-13T15:50:36Z",
     "https://simpleflying.com/american-delta-united-launch-24-transatlantic-routes/": "2026-11-13T16:01:00Z",
-    "https://simpleflying.com/canada-prints-airport-costs/": "2026-11-13T16:01:00Z"
+    "https://simpleflying.com/canada-prints-airport-costs/": "2026-11-13T16:01:00Z",
+    "https://simpleflying.com/united-starlink-wifi-half-daily-flights-delta-amazon-leo/": "2026-11-13T16:20:35Z",
+    "https://www.airliners.de/lufthansa-group-buendelt-loyalty-marketing-clemens-strauss/91523": "2026-11-13T16:20:35Z",
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/rolls-royce-confirme-ses-previsions-pour-2026-porte-par-la-demande-de-gros-porteurs-airbus-et-par-les-heures-de-vol-20261113.html": "2026-11-13T16:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4818,10 +4821,52 @@
       ],
       "story_id": "2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9",
       "written_count": 1
+    },
+    "ceb92f8d362": {
+      "id": "ceb92f8d362",
+      "label": "United’s Free Starlink WiFi Now On Over 50% Of Daily Flights As Delta Bets On Amazon Leo",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T16:20:47Z",
+      "updated": "2026-11-13T16:20:47Z",
+      "items": [
+        {
+          "id": "1833f2aa07b7af03",
+          "feed": "Simple Flying",
+          "title": "United’s Free Starlink WiFi Now On Over 50% Of Daily Flights As Delta Bets On Amazon Leo",
+          "url": "https://simpleflying.com/united-starlink-wifi-half-daily-flights-delta-amazon-leo/",
+          "domain": "simpleflying.com",
+          "summary": "United's Starlink rollout passes a major milestone, widening its lead over American and Southwest as Delta pursues Amazon Leo",
+          "published": "2026-11-13T16:17:18Z"
+        }
+      ],
+      "story_id": "2026-11-13-united-etend-le-wifi-starlink-gratuit-a-plus-de-la-moitie-de-d362",
+      "written_count": 1
+    },
+    "cb3f09b1517": {
+      "id": "cb3f09b1517",
+      "label": "Rolls-Royce prévisions 2026 confirmées",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-13T16:20:47Z",
+      "updated": "2026-11-13T16:20:47Z",
+      "items": [
+        {
+          "id": "a9480f5ab8d001a9",
+          "feed": "Le Journal de l'Aviation",
+          "title": "Rolls-Royce confirme ses prévisions pour 2026, porté par la demande de gros-porteurs Airbus et par les heures de vol",
+          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/rolls-royce-confirme-ses-previsions-pour-2026-porte-par-la-demande-de-gros-porteurs-airbus-et-par-les-heures-de-vol-20261113.html",
+          "domain": "journal-aviation.com",
+          "summary": "Rolls-Royce a confirmé ses prévisions pour l’exercice 2026, avec un résultat opérationnel sous-jacent attendu entre 4,7 et 4,9 milliards de livres sterling et un flux de trésorerie disponible compris entre […] L’article Rolls-Royce confirme ses prévisions pour 2026, porté par la demande de gros-porteurs Airbus et par les heures de vol a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-13T16:10:50Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.886311
+    "2026-11": 4.888346
   }
 }
