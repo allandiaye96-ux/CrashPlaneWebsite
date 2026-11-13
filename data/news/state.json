@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-american-united-airlines-turning-19-year-olds-zero-flight-hours-into-branded-pilots/": "2026-11-03T17:01:17Z",
     "https://simpleflying.com/cdc-ebola-declaration-us-bound-flights-crew-21-days/": "2026-11-03T17:40:43Z",
     "https://www.aero.de/news-54086/Lufthansa-unterzeichnet-Vertrag-ueber-TAP-Einstieg.html": "2026-11-03T17:40:43Z",
     "https://leehamnews.com/2026/11/03/open-comments-thread-week-of-november-2-2026/": "2026-11-03T18:10:46Z",
@@ -1498,7 +1497,8 @@
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/rolls-royce-confirme-ses-previsions-pour-2026-porte-par-la-demande-de-gros-porteurs-airbus-et-par-les-heures-de-vol-20261113.html": "2026-11-13T16:20:35Z",
     "https://simpleflying.com/retired-boeing-747-freighter-demand/": "2026-11-13T16:30:46Z",
     "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat": "2026-11-13T16:40:34Z",
-    "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany": "2026-11-13T16:50:33Z"
+    "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany": "2026-11-13T16:50:33Z",
+    "https://simpleflying.com/boeing-retire-noise-reduction-engine-design-777x/": "2026-11-13T17:10:40Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1984,36 +1984,6 @@
       "story_id": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9",
       "written_count": 2
     },
-    "c9e1d18a454": {
-      "id": "c9e1d18a454",
-      "label": "Airbus objectif livraisons fin 2026",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-06T11:10:49Z",
-      "updated": "2026-11-06T17:01:19Z",
-      "items": [
-        {
-          "id": "a3a432587aff8fa0",
-          "feed": "AeroTime",
-          "title": "Airbus aims for 259 aircraft deliveries before year end to reach annual target",
-          "url": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026",
-          "domain": "aerotime.aero",
-          "summary": "Airbus is aiming to make 259 commercial aircraft deliveries across November and December 2026, in order for the… The post Airbus aims for 259 aircraft deliveries before year end to reach annual target appeared first on AeroTime .",
-          "published": "2026-11-06T10:25:33Z"
-        },
-        {
-          "id": "8883db438b1bb703",
-          "feed": "Simple Flying",
-          "title": "Airbus January-October Deliveries Up 6% But 249 Required In 2 Months To Hit Annual Target",
-          "url": "https://simpleflying.com/airbus-january-october-delivery-increase/",
-          "domain": "simpleflying.com",
-          "summary": "Airbus has made an improvement from last year, but still needs a significant acceleration if it is to hit its 2026 target",
-          "published": "2026-11-06T16:52:08Z"
-        }
-      ],
-      "story_id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
-      "written_count": 2
-    },
     "ca424ce0528": {
       "id": "ca424ce0528",
       "label": "Drone explosif Leipzig/Halle",
@@ -2061,27 +2031,6 @@
       ],
       "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
       "written_count": 4
-    },
-    "cf3efc00eb8": {
-      "id": "cf3efc00eb8",
-      "label": "Emirates nouvelle ligne A350 Orlando",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T17:01:19Z",
-      "updated": "2026-11-06T17:01:19Z",
-      "items": [
-        {
-          "id": "bdf2fc719e0bbfac",
-          "feed": "Simple Flying",
-          "title": "Emirates Launches Major New 16-Hour A350 Route To The US: See Map Now",
-          "url": "https://simpleflying.com/emirates-launches-major-new-16-hour-a350-route-to-the-us/",
-          "domain": "simpleflying.com",
-          "summary": "The carrier now flies the A350 to Orlando, but there are positive and negative consequences. Find out more here!",
-          "published": "2026-11-06T17:00:20Z"
-        }
-      ],
-      "story_id": "2026-11-06-emirates-deploie-son-a350-vers-orlando-sur-une-nouvelle-liai-0eb8",
-      "written_count": 1
     },
     "cdd1b7ed24a": {
       "id": "cdd1b7ed24a",
@@ -4795,6 +4744,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.889121
+    "2026-11": 4.889896
   }
 }
