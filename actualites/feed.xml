@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 19:50:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 20:01:15 +0000</lastBuildDate>
+  <item>
+    <title>Virgin Australia : des arrêts de travail du personnel au sol annoncés pour le 16 novembre</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46/</guid>
+    <pubDate>Fri, 13 Nov 2026 20:01:15 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Australian Aviation, le syndicat Australian Services Union, qui représente les agents d&#x27;enregistrement et de porte de Virgin Australia, prévient que les passagers doivent s&#x27;attendre à des annulations et de fortes perturbations le lundi 16 novembre.</description>
+  </item>
   <item>
     <title>Le B-21 Raider réalise sa première largage d&#x27;armement lors des essais en vol</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 22:01:16 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>Selon AeroTime, la Federal Aviation Administration (FAA) élargit l&#x27;usage de son outil de planification du trafic aérien assisté par intelligence artificielle.</description>
-  </item>
-  <item>
-    <title>Royal Navy : le drone YFQ-48A Talon Blue de Northrop Grumman devrait opérer depuis un porte-avions en 2027</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e/</guid>
-    <pubDate>Wed, 11 Nov 2026 21:01:25 +0000</pubDate>
-    <category>Défense</category>
-    <description>Selon The Aviationist, la Royal Navy prévoit de faire voler le YFQ-48A Talon Blue de Northrop Grumman depuis un porte-avions de classe Queen Elizabeth en 2027. Northrop Grumman a confirmé ce projet, rapporte The War Zone.</description>
   </item>
 </channel>
 </rss>

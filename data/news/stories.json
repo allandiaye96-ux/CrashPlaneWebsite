@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46",
+    "created": "2026-11-13T20:01:15Z",
+    "updated": "2026-11-13T20:01:15Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Virgin Australia : des arrêts de travail du personnel au sol annoncés pour le 16 novembre",
+    "chapo": "Selon Australian Aviation, le syndicat Australian Services Union, qui représente les agents d'enregistrement et de porte de Virgin Australia, prévient que les passagers doivent s'attendre à des annulations et de fortes perturbations le lundi 16 novembre.",
+    "paragraphes": [
+      "D'après le même média, le personnel concerné retiendrait les horaires d'embarquement et mènerait des arrêts de travail d'une heure.",
+      "Le syndicat a notamment averti les voyageurs de possibles annulations de vols et de retards importants ce jour-là."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "‘Expect major delays’: Virgin airport staff set to stop work",
+        "url": "https://australianaviation.com.au/2026/11/expect-major-delays-virgin-airport-staff-set-to-stop-work/",
+        "date": "2026-11-12T23:40:20Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1",
     "created": "2026-11-13T17:20:53Z",
     "updated": "2026-11-13T17:20:53Z",

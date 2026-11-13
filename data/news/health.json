@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T19:50:37Z",
+  "run": "2026-11-13T20:00:59Z",
   "stats": {
     "fetched": 682,
-    "new": 0,
-    "written": 0,
+    "new": 4,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8977,
+  "spend_month_usd": 4.8993,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -662,6 +662,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-united-etend-le-wifi-starlink-gratuit-a-plus-de-la-moitie-de-d362"
+    },
+    {
+      "dossier": "Virgin Australia grève agents enregistrement 16 novembre",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46"
     },
     {
       "dossier": "US demande 30,1 Md$ flugsicherung aéroports",

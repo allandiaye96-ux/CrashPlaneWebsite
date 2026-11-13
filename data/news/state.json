@@ -1501,7 +1501,11 @@
     "https://simpleflying.com/southwest-airlines-denies-liability-allegedly-damaging-passenger-stroller/": "2026-11-13T19:00:59Z",
     "https://simpleflying.com/jetblue-cancels-all-flights-on-35-routes/": "2026-11-13T19:20:43Z",
     "https://www.aerotime.aero/articles/faa-boeing-787-fuel-tank-inspections-lightning-risk": "2026-11-13T19:30:48Z",
-    "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret": "2026-11-13T19:30:48Z"
+    "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret": "2026-11-13T19:30:48Z",
+    "https://simpleflying.com/pilot-ceding-rule-every-atc-taught-birth/": "2026-11-13T20:00:59Z",
+    "https://australianaviation.com.au/2026/11/airservices-review-failed-to-address-brisbane-noise-pollution-say-locals/": "2026-11-13T20:00:59Z",
+    "https://australianaviation.com.au/2026/11/expect-major-delays-virgin-airport-staff-set-to-stop-work/": "2026-11-13T20:00:59Z",
+    "https://australianaviation.com.au/2026/11/altura-airlines-celebrates-inaugural-flight/": "2026-11-13T20:00:59Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4749,10 +4753,31 @@
       ],
       "story_id": null,
       "written_count": 1
+    },
+    "c3b49115e46": {
+      "id": "c3b49115e46",
+      "label": "Virgin Australia grève agents enregistrement 16 novembre",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T20:01:11Z",
+      "updated": "2026-11-13T20:01:11Z",
+      "items": [
+        {
+          "id": "880832ade15e10c5",
+          "feed": "Australian Aviation",
+          "title": "‘Expect major delays’: Virgin airport staff set to stop work",
+          "url": "https://australianaviation.com.au/2026/11/expect-major-delays-virgin-airport-staff-set-to-stop-work/",
+          "domain": "australianaviation.com.au",
+          "summary": "The Australian Services Union, representing Virgin Australia check-in and gate agents, has said that passengers should “expect cancellations and major delays” on Monday, 16 November, as staff will hold back boarding times and perform one-hour work stoppages.",
+          "published": "2026-11-12T23:40:20Z"
+        }
+      ],
+      "story_id": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.897655
+    "2026-11": 4.899266
   }
 }
