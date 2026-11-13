@@ -1,5 +1,72 @@
 [
   {
+    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
+    "created": "2026-11-10T06:01:27Z",
+    "updated": "2026-11-13T11:01:22Z",
+    "version": 5,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Qantas externalise environ 850 postes administratifs à Accenture dans le cadre d'un virage vers l'IA",
+    "chapo": "Selon Air Journal, le groupe australien Qantas a conclu avec Accenture un partenariat pluriannuel portant sur ses systèmes informatiques et l'intelligence artificielle. Il est prévu de supprimer environ 850 postes, principalement au siège de Mascot.",
+    "paragraphes": [
+      "Le partenariat vise à moderniser l'infrastructure technologique de la compagnie, à simplifier ses opérations et à intégrer plus rapidement l'IA. D'après AviTrader, plus de 1 000 applications héritées, accumulées pendant plusieurs décennies, doivent être traitées. Certaines fonctions seraient confiées aux équipes d'Accenture en Inde, d'autres resteraient en Australie, et certaines seraient à terme transformées par l'automatisation et l'IA, selon Australian Aviation.",
+      "Le syndicat a dénoncé ce projet et rappelle que Qantas avait assuré en août qu'aucun emploi australien ne serait délocalisé. La ministre des Transports, Catherine King, s'est dite préoccupée par la cybersécurité, évoquant sur ABC Radio National des fuites de données chez des prestataires tiers, dont l'attaque visant Amadeus, et le risque que la compagnie perde en partie le contrôle de ses données. Air Journal indique qu'une première vague de changements est attendue d'ici à la mi-2027."
+    ],
+    "contradictions": "Les sources divergent sur le périmètre : Australian Aviation parle de 850 emplois du siège (head-office), AeroTime de postes exercés à Mascot, et Air Journal de suppressions en Australie. AviTrader et Air Journal évoquent une transformation sur plusieurs années, sans précision de calendrier commune.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Australian Aviation",
+        "title": "Qantas HQ to outsource 850 jobs to Accenture",
+        "url": "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/",
+        "date": "2026-11-10T00:15:19Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "‘Keep your word’: Union slams Qantas HQ outsourcing plans",
+        "url": "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/",
+        "date": "2026-11-10T03:13:42Z",
+        "official": false
+      },
+      {
+        "name": "AviTrader",
+        "title": "Qantas targets 850 jobs in technology overhaul",
+        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
+        "date": "2026-11-10T05:56:33Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Qantas to outsource 850 roles to India as part of major AI drive",
+        "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
+        "date": "2026-11-10T13:25:46Z",
+        "official": false
+      },
+      {
+        "name": "Australian Aviation",
+        "title": "Minister ‘concerned’ about Qantas cyber security in Accenture move",
+        "url": "https://australianaviation.com.au/2026/11/minister-concerned-about-qantas-cybersecurity-in-accenture-move/",
+        "date": "2026-11-11T02:45:39Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Qantas accélère dans l’IA, au prix de 850 suppressions de postes",
+        "url": "https://www.air-journal.fr/2026-11-13-qantas-accelere-dans-lia-au-prix-de-850-suppressions-de-postes-5278774.html",
+        "date": "2026-11-13T11:00:50Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
     "created": "2026-11-13T10:01:14Z",
     "updated": "2026-11-13T10:01:14Z",
@@ -1067,67 +1134,6 @@
         "title": "Plans To Fly Talon Blue CCA Drone From British Carrier Confirmed By Northrop Grumman",
         "url": "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman",
         "date": "2026-11-11T20:30:40Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
-    "created": "2026-11-10T06:01:27Z",
-    "updated": "2026-11-11T20:01:32Z",
-    "version": 4,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Qantas confie à Accenture la modernisation de sa technologie, environ 850 postes du siège concernés",
-    "chapo": "Qantas Group a signé un partenariat stratégique pluriannuel avec Accenture pour moderniser ses systèmes informatiques et accélérer l'usage de l'intelligence artificielle, selon AviTrader. Environ 850 emplois du siège sont concernés, d'après Australian Aviation.",
-    "paragraphes": [
-      "Selon AviTrader, l'accord doit traiter plus de 1 000 applications héritées, accumulées au sein de la compagnie depuis plusieurs décennies. D'après Australian Aviation, certains postes seront délocalisés vers les équipes d'Accenture en Inde, d'autres resteront en Australie, et d'autres encore seront à terme transformés par l'automatisation et l'IA. AeroTime précise que les postes visés sont actuellement tenus au siège de Mascot.",
-      "Le syndicat a réagi avec virulence, d'après Australian Aviation. Il demande à Qantas de tenir ses engagements : en août, les salariés auraient reçu l'assurance qu'aucune délocalisation d'emplois australiens n'était prévue. Il réclame une explication honnête sur ce qui a changé depuis.",
-      "La ministre des Transports, Catherine King, s'est dite préoccupée par la cybersécurité, selon Australian Aviation. Sur ABC Radio National, elle a évoqué des violations de données récentes chez des prestataires tiers, dont l'attaque visant Amadeus, et a estimé que la compagnie pourrait perdre en partie le contrôle de ses données."
-    ],
-    "contradictions": "Les sources ne concordent pas sur le sort des postes : AeroTime parle de suppression d'environ 850 emplois et d'externalisation vers l'Inde, tandis qu'Australian Aviation indique qu'une partie des rôles restera en Australie.",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "Australian Aviation",
-        "title": "Qantas HQ to outsource 850 jobs to Accenture",
-        "url": "https://australianaviation.com.au/2026/11/qantas-hq-to-outsource-850-jobs-to-accenture/",
-        "date": "2026-11-10T00:15:19Z",
-        "official": false
-      },
-      {
-        "name": "Australian Aviation",
-        "title": "‘Keep your word’: Union slams Qantas HQ outsourcing plans",
-        "url": "https://australianaviation.com.au/2026/11/keep-your-word-union-slams-qantas-hq-outsourcing-plans/",
-        "date": "2026-11-10T03:13:42Z",
-        "official": false
-      },
-      {
-        "name": "AviTrader",
-        "title": "Qantas targets 850 jobs in technology overhaul",
-        "url": "https://avitrader.com/2026/11/10/qantas-targets-850-jobs-in-technology-overhaul/",
-        "date": "2026-11-10T05:56:33Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "Qantas to outsource 850 roles to India as part of major AI drive",
-        "url": "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive",
-        "date": "2026-11-10T13:25:46Z",
-        "official": false
-      },
-      {
-        "name": "Australian Aviation",
-        "title": "Minister ‘concerned’ about Qantas cyber security in Accenture move",
-        "url": "https://australianaviation.com.au/2026/11/minister-concerned-about-qantas-cybersecurity-in-accenture-move/",
-        "date": "2026-11-11T02:45:39Z",
         "official": false
       }
     ]
