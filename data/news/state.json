@@ -1509,7 +1509,10 @@
     "https://www.air-journal.fr/2026-11-13-volotea-annule-une-centaine-de-vols-a-lille-sur-fond-de-reorganisation-de-sa-flotte-5278828.html": "2026-11-13T07:00:58Z",
     "https://www.airliners.de/finnair-winter-31-fluege-woche-thailand/91497": "2026-11-13T07:19:43Z",
     "https://www.aero.de/news-54165/Global-Airlines-wird-aufgeloest.html": "2026-11-13T07:30:56Z",
-    "https://www.air-journal.fr/2026-11-13-singapore-airlines-la-nouvelle-classe-affaires-fait-grincer-des-dents-5278824.html": "2026-11-13T08:10:36Z"
+    "https://www.air-journal.fr/2026-11-13-singapore-airlines-la-nouvelle-classe-affaires-fait-grincer-des-dents-5278824.html": "2026-11-13T08:10:36Z",
+    "https://www.aerotime.aero/articles/nepal-everest-helicopter-collision-pheriche": "2026-11-13T08:20:34Z",
+    "https://www.airbus.com/en/newsroom/stories/2026-11-where-the-a220-flies-opening-routes-others-cannot": "2026-11-13T08:20:34Z",
+    "https://www.airliners.de/wizz-air-bombendrohungen-europaweit-einheitliches-vorgehen/91496": "2026-11-13T08:20:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1842,7 +1845,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-12T14:20:48Z",
+      "updated": "2026-11-13T08:20:48Z",
       "items": [
         {
           "id": "f912a39ee0e16091",
@@ -1933,40 +1936,19 @@
           "domain": "airliners.de",
           "summary": "Bei den jüngsten Bombendrohungen in Europa ist es nach den Worten des französischen Präsidenten Emmanuel Macron noch zu früh, um einen bestimmten Urheber zu benennen. Das sagte er bei einem Gipfel der Europäischen Politischen Gemeinschaft in Dublin.",
           "published": "2026-11-12T14:07:54Z"
+        },
+        {
+          "id": "37a8304a92118093",
+          "feed": "airliners.de",
+          "title": "Wizz Air fordert nach Bombendrohungen europaweit einheitliches Vorgehen",
+          "url": "https://www.airliners.de/wizz-air-bombendrohungen-europaweit-einheitliches-vorgehen/91496",
+          "domain": "airliners.de",
+          "summary": "Wizz-Air-Vorstandsvorsitzender Jozsef Varadi fordert nach einer Serie von Bombendrohungen ein einheitliches Vorgehen in Europa. Er habe die EU-Kommission zum gemeinsamen Handeln gedrängt, sagte er, doch kein Land wolle in der Frage nachgeben.",
+          "published": "2026-11-13T07:47:00Z"
         }
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-      "written_count": 10
-    },
-    "c6312a4d415": {
-      "id": "c6312a4d415",
-      "label": "Air France-KLM résultats T3 2026",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-05T16:50:47Z",
-      "updated": "2026-11-06T08:10:51Z",
-      "items": [
-        {
-          "id": "261e502ef005a286",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Air France-KLM signe un 3e trimestre solide",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-france-klm-signe-un-3e-trimestre-solide-20261105.html",
-          "domain": "journal-aviation.com",
-          "summary": "Air France-KLM a enregistré des résultats solides au troisième trimestre. Comme nombre de ses concurrents, le groupe a enregistré une hausse importante de son chiffre d’affaires, de 7,6 % à […] L’article Air France-KLM signe un 3e trimestre solide a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-05T16:45:59Z"
-        },
-        {
-          "id": "2b0268fef23a6e3d",
-          "feed": "Air Journal",
-          "title": "Air France-KLM : le bénéfice grimpe de 22% au troisième trimestre",
-          "url": "https://www.air-journal.fr/2026-11-06-air-france-klm-le-benefice-grimpe-de-22-au-troisieme-trimestre-5278697.html",
-          "domain": "air-journal.fr",
-          "summary": "Porté par la montée en gamme de ses cabines et la progression de ses recettes unitaires, Air France-KLM a dégagé un bénéfice net de 938 millions d’euros au troisième trimestre 2026, malgré l’envolée du kérosène. Cette bonne saison estivale n’empêche pas KLM d’engager une nouvelle transformation : réorganisation des activités, réduction des effectifs et révision […]",
-          "published": "2026-11-06T08:00:42Z"
-        }
-      ],
-      "story_id": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415",
-      "written_count": 2
+      "written_count": 11
     },
     "c95c3af7cd5": {
       "id": "c95c3af7cd5",
@@ -4929,6 +4911,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.85145
+    "2026-11": 4.852998
   }
 }

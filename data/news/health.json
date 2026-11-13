@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T08:10:36Z",
+  "run": "2026-11-13T08:20:34Z",
   "stats": {
     "fetched": 683,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8514,
+  "spend_month_usd": 4.853,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
-    },
-    {
-      "dossier": "Air France-KLM résultats T3 2026",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-05-air-france-klm-annonce-un-troisieme-trimestre-solide-avec-un-d415"
     },
     {
       "dossier": "F-35B tir d'essai missile Meteor",
