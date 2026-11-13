@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T20:30:48Z",
+  "run": "2026-11-13T20:40:35Z",
   "stats": {
-    "fetched": 667,
-    "new": 0,
+    "fetched": 682,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9,
+  "spend_month_usd": 4.9009,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
