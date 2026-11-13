@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/video/jetblue-creditors-call-in-restructuring-experts-as-shares-plummet-to-all-time-low/": "2026-11-03T13:40:34Z",
     "https://www.aerotime.aero/articles/uk-france-military-exercise-poland-post-war-ukraine": "2026-11-03T14:01:05Z",
     "https://www.aerotime.aero/articles/germany-mbda-airborne-laser-weapon-demonstrator": "2026-11-03T14:01:05Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Travel-Demand-Propels-Middle-East-Fleet-to-Double-by-2045": "2026-11-03T14:01:05Z",
@@ -1501,7 +1500,8 @@
     "https://www.air-journal.fr/2026-11-13-korean-air-revient-a-newark-et-bouscule-la-concurrence-entre-seoul-et-new-york-5278839.html": "2026-11-13T13:01:02Z",
     "https://simpleflying.com/video/why-the-boeing-737-max-10-may-never-cross-the-atlantic-like-the-airbus-a321xlr/": "2026-11-13T13:30:56Z",
     "https://simpleflying.com/microsoft-outage-airlines-spicejet-cancellations-cathay-pacific/": "2026-11-13T13:30:56Z",
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone": "2026-11-13T13:30:56Z"
+    "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone": "2026-11-13T13:30:56Z",
+    "https://simpleflying.com/video/delta-united-jetblue-face-federal-probe-over-using-passenger-data-to-personalize-fares/": "2026-11-13T13:40:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4734,10 +4734,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c2c0d17c1dd": {
+      "id": "c2c0d17c1dd",
+      "label": "FTC enquête tarifs personnalisés Delta United JetBlue",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-13T13:40:45Z",
+      "updated": "2026-11-13T13:40:45Z",
+      "items": [
+        {
+          "id": "400fe043c1da80a6",
+          "feed": "Simple Flying",
+          "title": "Delta, United & JetBlue Face Federal Probe Over Using Passenger Data To Personalize Fares",
+          "url": "https://simpleflying.com/video/delta-united-jetblue-face-federal-probe-over-using-passenger-data-to-personalize-fares/",
+          "domain": "simpleflying.com",
+          "summary": "The US Federal Trade Commission (FTC) has ordered Delta Air Lines, United Airlines and JetBlue to explain how they set their ticket prices as part of an investigation into whether they use customers' personal data to charge personalized fares.",
+          "published": "2026-11-13T13:33:18Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.871214
+    "2026-11": 4.872015
   }
 }

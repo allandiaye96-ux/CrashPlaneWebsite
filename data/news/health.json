@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T13:30:56Z",
+  "run": "2026-11-13T13:40:34Z",
   "stats": {
     "fetched": 683,
-    "new": 3,
+    "new": 1,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8712,
+  "spend_month_usd": 4.872,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -707,6 +707,12 @@
     },
     {
       "dossier": "DGA qualification drone U010 Aliaca VTOL",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "FTC enquête tarifs personnalisés Delta United JetBlue",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
