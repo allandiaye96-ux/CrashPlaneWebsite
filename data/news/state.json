@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-much-boeing-747-8-pilots-make-2026/": "2026-11-03T06:01:04Z",
-    "https://www.air-journal.fr/2026-11-03-rome-bologne-bagdad-eurowings-elargit-ses-horizons-depuis-berlin-5278652.html": "2026-11-03T06:01:04Z",
-    "https://www.aero.de/news-54075/Lufthansa-steigert-Sommer-Gewinn-trotz-teuren-Kerosins.html": "2026-11-03T06:10:35Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/ryanair-le-benefice-net-semestriel-recule-de-15-impacte-par-le-doublement-du-prix-du-carburant-non-couvert-20261103.html": "2026-11-03T06:10:35Z",
     "https://www.airliners.de/wirtschaft-finanzen-spohr-haelt-sparkurs-fest-gate-of-the-future-bremen-erwaegt-schliessung-terminal-2/91262": "2026-11-03T06:20:39Z",
     "https://www.airliners.de/avolon-gruendet-leasingplattform-constellation-aviation/91255": "2026-11-03T06:20:39Z",
     "https://www.air-journal.fr/2026-11-03-airbus-washington-menace-la-treve-commerciale-pour-un-pret-europeen-de-3-milliards-deuros-5278651.html": "2026-11-03T07:01:01Z",
@@ -1513,7 +1509,8 @@
     "https://www.airliners.de/lufthansa-laesst-flugzeuge-czech-airlines-technics-warten/91490": "2026-11-13T04:20:36Z",
     "https://www.aerotime.aero/articles/build-an-airport-that-can-adapt-alton-aviations-mabel-kwan-on-apac-financing": "2026-11-13T05:00:57Z",
     "https://www.aero.de/news-54164/SpaceX-will-beide-Starship-Stufen-wieder-einfangen.html": "2026-11-13T05:50:34Z",
-    "https://simpleflying.com/5-busy-airports-intersecting-runways-complicate-takeoffs-landings/": "2026-11-13T06:00:58Z"
+    "https://simpleflying.com/5-busy-airports-intersecting-runways-complicate-takeoffs-landings/": "2026-11-13T06:00:58Z",
+    "https://www.air-journal.fr/2026-11-13-klm-deploie-les-outils-dimmfly-pour-ses-ventes-a-bord-et-ses-surclassements-5278820.html": "2026-11-13T06:10:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4912,6 +4909,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.846226
+    "2026-11": 4.847012
   }
 }
