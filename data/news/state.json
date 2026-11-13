@@ -1511,7 +1511,10 @@
     "https://www.air-journal.fr/2026-11-13-iberia-generalise-le-wi-fi-starlink-gratuit-sur-ses-huit-a321xlr-5278825.html": "2026-11-13T09:00:58Z",
     "https://www.airliners.de/cyprus-airways-fliegt-dezember-nonstop-muenchen-larnaka/91499": "2026-11-13T09:20:37Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airexplore-cesse-ses-operations-20261113.html": "2026-11-13T09:20:37Z",
-    "https://avitrader.com/2026/11/13/airbaltic-completes-amos-system-rollout/": "2026-11-13T09:30:46Z"
+    "https://avitrader.com/2026/11/13/airbaltic-completes-amos-system-rollout/": "2026-11-13T09:30:46Z",
+    "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court": "2026-11-13T10:00:57Z",
+    "https://avitrader.com/2026/11/13/astronics-lifts-adjusted-ebitda-by-81/": "2026-11-13T10:00:57Z",
+    "https://www.air-journal.fr/2026-11-13-united-accelere-le-deploiement-de-starlink-avec-une-generalisation-visee-fin-2027-5278822.html": "2026-11-13T10:00:57Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4855,10 +4858,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c63818ecf90": {
+      "id": "c63818ecf90",
+      "label": "Global Airlines liquidation obligatoire",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T10:01:10Z",
+      "updated": "2026-11-13T10:01:10Z",
+      "items": [
+        {
+          "id": "8a7ae03aa2455df0",
+          "feed": "AeroTime",
+          "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
+          "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
+          "domain": "aerotime.aero",
+          "summary": "Airbus A380 startup Global Airlines has been ordered into compulsory liquidation by the Insolvency and Companies Court in… The post A380 startup Global Airlines ordered into compulsory liquidation by UK court appeared first on AeroTime .",
+          "published": "2026-11-13T09:38:43Z"
+        }
+      ],
+      "story_id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.858242
+    "2026-11": 4.85984
   }
 }

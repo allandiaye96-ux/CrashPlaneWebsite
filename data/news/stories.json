@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
+    "created": "2026-11-13T10:01:14Z",
+    "updated": "2026-11-13T10:01:14Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Global Airlines placée en liquidation obligatoire par un tribunal britannique",
+    "chapo": "Selon AeroTime, la compagnie aérienne Global Airlines, spécialisée dans l'exploitation de l'Airbus A380, a été placée en liquidation obligatoire par la Insolvency and Companies Court britannique.",
+    "paragraphes": [
+      "La décision a été rendue par la juridiction britannique chargée des questions d'insolvabilité et des sociétés, selon le même média. Le texte consulté ne détaille pas les motifs de cette procédure.",
+      "Global Airlines était présentée comme une jeune compagnie exploitant l'A380, le plus grand avion de ligne en service à double pont produit par Airbus."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
+        "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
+        "date": "2026-11-13T09:38:43Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
     "created": "2026-11-12T07:31:05Z",
     "updated": "2026-11-13T09:20:51Z",

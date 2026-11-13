@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 09:50:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 10:01:14 +0000</lastBuildDate>
+  <item>
+    <title>Global Airlines placée en liquidation obligatoire par un tribunal britannique</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90/</guid>
+    <pubDate>Fri, 13 Nov 2026 10:01:14 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon AeroTime, la compagnie aérienne Global Airlines, spécialisée dans l&#x27;exploitation de l&#x27;Airbus A380, a été placée en liquidation obligatoire par la Insolvency and Companies Court britannique.</description>
+  </item>
   <item>
     <title>Global Airlines, startup britannique exploitant l&#x27;A380, en voie de dissolution</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 07:31:07 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AeroTime, Cathay Pacific a exercé des droits d&#x27;achat portant sur 11 Airbus A330-900 supplémentaires. La compagnie hongkongaise atteint ainsi un total de 41 exemplaires de ce type commandés ferme.</description>
-  </item>
-  <item>
-    <title>Emirates attend ses premiers Boeing 777X vers fin 2027 et tranchera bientôt sur ses 787</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34/</guid>
-    <pubDate>Wed, 11 Nov 2026 07:20:56 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, le président d&#x27;Emirates, Tim Clark, ne s&#x27;attend à recevoir les premiers Boeing 777X que vers la fin de 2027. La compagnie doit par ailleurs décider si elle prend livraison de ses Boeing 787 commandés.</description>
   </item>
 </channel>
 </rss>
