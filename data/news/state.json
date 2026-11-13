@@ -2079,27 +2079,6 @@
       "story_id": "2026-11-06-airbus-vise-259-livraisons-d-avions-commerciaux-en-novembre-a454",
       "written_count": 2
     },
-    "c6c127bf066": {
-      "id": "c6c127bf066",
-      "label": "Condor accord tarifaire personnel navigant",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-06T12:20:48Z",
-      "updated": "2026-11-06T12:20:48Z",
-      "items": [
-        {
-          "id": "5aa8aea19705baad",
-          "feed": "aero.de",
-          "title": "Condor hat an Bord Tarifsicherheit",
-          "url": "https://www.aero.de/news-54111/Condor-hat-an-Bord-Tarifsicherheit.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Condor muss in den kommenden beiden Jahren keine Streiks des fliegenden Personals befürchten. Nach einem Tarifabschluss zu den Pilotengehältern einigte sich das Unternehmen nun auch mit der Kabinengewerkschaft Ufo auf einen Manteltarif zu Dienstregeln in der Kabine.",
-          "published": "2026-11-06T12:20:35Z"
-        }
-      ],
-      "story_id": "2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066",
-      "written_count": 1
-    },
     "cec9a0a18e2": {
       "id": "cec9a0a18e2",
       "label": "Alliance fret Lufthansa Cargo ANA Swiss NCA",
@@ -3905,48 +3884,6 @@
       ],
       "story_id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
       "written_count": 3
-    },
-    "ce706b09bd9": {
-      "id": "ce706b09bd9",
-      "label": "Pologne MiG-29 transfert Ukraine drones",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-11T12:20:48Z",
-      "updated": "2026-11-11T12:20:48Z",
-      "items": [
-        {
-          "id": "84c7870ee66cab9d",
-          "feed": "AeroTime",
-          "title": "Poland revives MiG-29 transfer to Ukraine in drone technology deal",
-          "url": "https://www.aerotime.aero/articles/poland-mig-29-ukraine-drone-technology-exchange",
-          "domain": "aerotime.aero",
-          "summary": "Poland is finalizing plans to transfer MiG-29 fighter jets to Ukraine in exchange for access to Ukrainian drone… The post Poland revives MiG-29 transfer to Ukraine in drone technology deal appeared first on AeroTime .",
-          "published": "2026-11-11T11:19:05Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
-    "c54f784a8e1": {
-      "id": "c54f784a8e1",
-      "label": "Bundeswehr bannit drones chinois",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-11T12:20:48Z",
-      "updated": "2026-11-11T12:20:48Z",
-      "items": [
-        {
-          "id": "0299c388b977c26d",
-          "feed": "aero.de",
-          "title": "Bundeswehr sortiert chinesische Drohnen aus",
-          "url": "https://www.aero.de/news-54147/Bundeswehr-sortiert-chinesische-Drohnen-aus.html",
-          "domain": "aero.de",
-          "summary": "BERLIN - Die Bundeswehr verbannt chinesische Drohnen komplett aus dem Arsenal - auch für Zieldarstellung und Ausbildung dürfen chinesische Fabrikate nicht mehr eingesetzt werden.",
-          "published": "2026-11-11T12:15:25Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "cc487650d0a": {
       "id": "cc487650d0a",

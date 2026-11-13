@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-13T12:20:41Z",
+  "run": "2026-11-13T12:30:52Z",
   "stats": {
     "fetched": 683,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -376,12 +376,6 @@
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
     },
     {
-      "dossier": "Condor accord tarifaire personnel navigant",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-condor-accord-avec-le-syndicat-ufo-sur-les-regles-de-service-f066"
-    },
-    {
       "dossier": "Alliance fret Lufthansa Cargo ANA Swiss NCA",
       "statut": "source_unique",
       "editeurs": 1,
@@ -686,18 +680,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7"
-    },
-    {
-      "dossier": "Pologne MiG-29 transfert Ukraine drones",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "Bundeswehr bannit drones chinois",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Alerte drones Pays baltes Finlande espace aérien",
