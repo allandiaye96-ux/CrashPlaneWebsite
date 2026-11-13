@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 17:10:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 17:20:53 +0000</lastBuildDate>
+  <item>
+    <title>Le B-21 Raider réalise sa première largage d&#x27;armement lors des essais en vol</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1/</guid>
+    <pubDate>Fri, 13 Nov 2026 17:20:53 +0000</pubDate>
+    <category>Défense</category>
+    <description>Selon The Aviationist, l&#x27;US Air Force et Northrop Grumman ont confirmé que le bombardier furtif B-21 Raider a démontré sa capacité de largage d&#x27;armement. D&#x27;après The War Zone, il s&#x27;agit d&#x27;une nouvelle étape de la campagne d&#x27;essais en vol.</description>
+  </item>
   <item>
     <title>United étend le WiFi Starlink gratuit à plus de la moitié de ses vols quotidiens</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-united-etend-le-wifi-starlink-gratuit-a-plus-de-la-moitie-de-d362/</link>
@@ -80,12 +88,12 @@
     <description>Selon AeroTime, la compagnie britannique Global Airlines, projet de transport transatlantique fondé sur l&#x27;Airbus A380, a été placée en liquidation obligatoire par la justice du Royaume-Uni. Flightradar24 précise que l&#x27;ordonnance a été rendue le 4 novembre 2026.</description>
   </item>
   <item>
-    <title>Global Airlines, startup britannique exploitant l&#x27;A380, en voie de dissolution</title>
+    <title>Global Airlines, start-up britannique exploitant l&#x27;A380, placée en liquidation judiciaire</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3/</guid>
     <pubDate>Fri, 13 Nov 2026 07:31:07 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon aero.de, la compagnie britannique Global Airlines, jeune société spécialisée dans l&#x27;exploitation de l&#x27;Airbus A380, doit être dissoute. La procédure a été engagée à l&#x27;initiative d&#x27;un créancier.</description>
+    <description>Selon airliners.de, la haute cour de justice britannique a ordonné la liquidation de la compagnie Global Airlines, jeune transporteur britannique qui exploitait l&#x27;Airbus A380. Aero.de indique que la procédure avait été engagée par une créancière.</description>
   </item>
   <item>
     <title>JetBlue : une majorité de créanciers signe un accord de coopération</title>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 21:01:25 +0000</pubDate>
     <category>Défense</category>
     <description>Selon The Aviationist, la Royal Navy prévoit de faire voler le YFQ-48A Talon Blue de Northrop Grumman depuis un porte-avions de classe Queen Elizabeth en 2027. Northrop Grumman a confirmé ce projet, rapporte The War Zone.</description>
-  </item>
-  <item>
-    <title>Cathay Group commande 14 Airbus supplémentaires : l&#x27;engagement sur l&#x27;A330-900 passe à 41 appareils</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb/</guid>
-    <pubDate>Wed, 11 Nov 2026 15:20:54 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, le groupe Cathay a passé commande ferme auprès d&#x27;Airbus pour onze A330-900 et trois A321 Neo supplémentaires, ce qui porte à 41 le nombre d&#x27;A330-900 commandés.</description>
   </item>
 </channel>
 </rss>

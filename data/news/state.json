@@ -1498,7 +1498,13 @@
     "https://simpleflying.com/retired-boeing-747-freighter-demand/": "2026-11-13T16:30:46Z",
     "https://www.aerotime.aero/articles/ryanair-wizz-air-lot-polish-sas-targeted-bomb-threat": "2026-11-13T16:40:34Z",
     "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany": "2026-11-13T16:50:33Z",
-    "https://simpleflying.com/boeing-retire-noise-reduction-engine-design-777x/": "2026-11-13T17:10:40Z"
+    "https://simpleflying.com/boeing-retire-noise-reduction-engine-design-777x/": "2026-11-13T17:10:40Z",
+    "https://simpleflying.com/air-canada-cancels-all-flights-to-3-international-destinations/": "2026-11-13T17:20:35Z",
+    "https://www.twz.com/air/b-21-raider-has-released-its-first-weapon": "2026-11-13T17:20:35Z",
+    "https://www.airliners.de/gericht-schickt-a380-start-up-global-airlines-zwangsliquidation/91529": "2026-11-13T17:20:35Z",
+    "https://www.airliners.de/frankfurt-verbindung-lufthansa-group-kuerzt-dubai-programm-winter/91528": "2026-11-13T17:20:35Z",
+    "https://www.airliners.de/ajet-april-2027-strecken-deutschland/91527": "2026-11-13T17:20:35Z",
+    "https://www.airliners.de/leipzig-halle-naechtliche-triebwerkstests-ausnahmen/91524": "2026-11-13T17:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1507,7 +1513,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-10-31T12:01:10Z",
-      "updated": "2026-11-07T13:01:15Z",
+      "updated": "2026-11-13T17:20:47Z",
       "items": [
         {
           "id": "36bab4f129e7eb46",
@@ -1535,10 +1541,19 @@
           "domain": "simpleflying.com",
           "summary": "Most of these are short haul international services.",
           "published": "2026-11-07T13:00:17Z"
+        },
+        {
+          "id": "bcf23d2e0403a226",
+          "feed": "Simple Flying",
+          "title": "Air Canada Cancels All Flights To 3 International Destinations: See Full List Now",
+          "url": "https://simpleflying.com/air-canada-cancels-all-flights-to-3-international-destinations/",
+          "domain": "simpleflying.com",
+          "summary": "From suspending New York JFK and dropping Charleston to ending its longest flight to Singapore in 2027, Air Canada is reshaping its network.",
+          "published": "2026-11-13T17:15:20Z"
         }
       ],
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
-      "written_count": 3
+      "written_count": 4
     },
     "c4f7de42402": {
       "id": "c4f7de42402",
@@ -4315,7 +4330,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-13T07:31:05Z",
-      "updated": "2026-11-13T07:31:05Z",
+      "updated": "2026-11-13T17:20:47Z",
       "items": [
         {
           "id": "64bc4c4a655b9af7",
@@ -4325,10 +4340,19 @@
           "domain": "aero.de",
           "summary": "LONDON - Das britische A380-Startup Global Airlines wird aufgelöst. Eine Gläubigerin hatte das Verfahren angestoßen.",
           "published": "2026-11-13T07:28:39Z"
+        },
+        {
+          "id": "a99ee1a00a42021a",
+          "feed": "airliners.de",
+          "title": "Gericht schickt A380-Start-up Global Airlines in Zwangsliquidation",
+          "url": "https://www.airliners.de/gericht-schickt-a380-start-up-global-airlines-zwangsliquidation/91529",
+          "domain": "airliners.de",
+          "summary": "Der High Court of Justice hat die Abwicklung des britischen Start-ups Global Airlines angeordnet. Das Unternehmen hatte im Mai 2025 mit einem Airbus A380 vier Passagierflüge absolviert. Wie es mit dem Flugzeug weitergeht, ist unklar.",
+          "published": "2026-11-13T17:11:00Z"
         }
       ],
       "story_id": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3",
-      "written_count": 1
+      "written_count": 2
     },
     "c8ac1a0f106": {
       "id": "c8ac1a0f106",
@@ -4663,7 +4687,7 @@
       "categorie": "Défense",
       "importance": 2,
       "created": "2026-11-13T15:31:03Z",
-      "updated": "2026-11-13T15:31:03Z",
+      "updated": "2026-11-13T17:20:47Z",
       "items": [
         {
           "id": "cac9699a5441f571",
@@ -4673,10 +4697,19 @@
           "domain": "theaviationist.com",
           "summary": "While details of the test remain undisclosed, the U.S. Air Force and Northrop Grumman have confirmed that the B-21 Raider has demonstrated its weapon release capability, marking another important milestone in the stealth bomber’s flight test campaign. The U.S. Air Force has revealed another significant milestone in the B-21 Raider‘s flight test campaign: on Nov. 13, […]",
           "published": "2026-11-13T15:21:15Z"
+        },
+        {
+          "id": "f7a50123c74294f0",
+          "feed": "The War Zone",
+          "title": "B-21 Raider Has Released Its First Weapon",
+          "url": "https://www.twz.com/air/b-21-raider-has-released-its-first-weapon",
+          "domain": "twz.com",
+          "summary": "Beginning weapons testing is the latest milestone for the B-21, but its schedule is tight with the Air Force still aiming to declare the Raider operational next year. The post B-21 Raider Has Released Its First Weapon appeared first on TWZ .",
+          "published": "2026-11-13T17:11:10Z"
         }
       ],
-      "story_id": null,
-      "written_count": 0
+      "story_id": "2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1",
+      "written_count": 2
     },
     "c42f193ffc9": {
       "id": "c42f193ffc9",
@@ -4744,6 +4777,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.889896
+    "2026-11": 4.89212
   }
 }

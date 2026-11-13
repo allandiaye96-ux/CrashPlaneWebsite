@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T17:10:40Z",
+  "run": "2026-11-13T17:20:35Z",
   "stats": {
     "fetched": 682,
-    "new": 1,
-    "written": 0,
+    "new": 6,
+    "written": 3,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8899,
+  "spend_month_usd": 4.8921,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -358,6 +358,12 @@
       "breve": "2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e"
     },
     {
+      "dossier": "Global Airlines dissolution (A380)",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3"
+    },
+    {
       "dossier": "British Airways A321neo double impact de queue",
       "statut": "corrobore",
       "editeurs": 2,
@@ -380,6 +386,12 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-13-quantum-systems-les-drones-de-la-bundeswehr-de-nouveau-en-vo-6a48"
+    },
+    {
+      "dossier": "B-21 Raider démonstration largage d'armement",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
@@ -634,12 +646,6 @@
       "breve": "2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0"
     },
     {
-      "dossier": "Global Airlines dissolution (A380)",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3"
-    },
-    {
       "dossier": "Air Asia soutien gouvernement malaisien",
       "statut": "source_unique",
       "editeurs": 1,
@@ -696,12 +702,6 @@
     {
       "dossier": "Singapore Airlines résultats semestriels 2026/2027",
       "statut": "source_unique",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
-      "dossier": "B-21 Raider démonstration largage d'armement",
-      "statut": "signale",
       "editeurs": 1,
       "breve": null
     },
