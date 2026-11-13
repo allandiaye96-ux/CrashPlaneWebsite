@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 07:20:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 07:31:07 +0000</lastBuildDate>
+  <item>
+    <title>Global Airlines, startup britannique exploitant l&#x27;A380, en voie de dissolution</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3/</guid>
+    <pubDate>Fri, 13 Nov 2026 07:31:07 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, la compagnie britannique Global Airlines, jeune société spécialisée dans l&#x27;exploitation de l&#x27;Airbus A380, doit être dissoute. La procédure a été engagée à l&#x27;initiative d&#x27;un créancier.</description>
+  </item>
   <item>
     <title>JetBlue : une majorité de créanciers signe un accord de coopération</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0/</link>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 07:20:56 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, le président d&#x27;Emirates, Tim Clark, ne s&#x27;attend à recevoir les premiers Boeing 777X que vers la fin de 2027. La compagnie doit par ailleurs décider si elle prend livraison de ses Boeing 787 commandés.</description>
-  </item>
-  <item>
-    <title>Alpi Aviation : le Pioneer 800 Twin, propulsé par Rotax, a effectué son premier vol le 5 novembre 2026</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21/</guid>
-    <pubDate>Tue, 10 Nov 2026 22:10:55 +0000</pubDate>
-    <category>Constructeurs et industrie</category>
-    <description>Selon AeroTime, le Pioneer 800 Twin d&#x27;Alpi Aviation a réalisé son premier vol le 5 novembre 2026. Cet appareil à quatre places est équipé de moteurs Rotax.</description>
   </item>
 </channel>
 </rss>

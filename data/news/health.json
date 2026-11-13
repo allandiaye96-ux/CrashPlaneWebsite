@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T07:20:34Z",
+  "run": "2026-11-13T07:30:56Z",
   "stats": {
-    "fetched": 683,
-    "new": 0,
-    "written": 0,
+    "fetched": 673,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8495,
+  "spend_month_usd": 4.8506,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -704,6 +704,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0"
+    },
+    {
+      "dossier": "Global Airlines dissolution (A380)",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",

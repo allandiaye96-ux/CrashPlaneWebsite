@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3",
+    "created": "2026-11-13T07:31:07Z",
+    "updated": "2026-11-13T07:31:07Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Global Airlines, startup britannique exploitant l'A380, en voie de dissolution",
+    "chapo": "Selon aero.de, la compagnie britannique Global Airlines, jeune société spécialisée dans l'exploitation de l'Airbus A380, doit être dissoute. La procédure a été engagée à l'initiative d'un créancier.",
+    "paragraphes": [
+      "Le média allemand indique que la dissolution de cette startup britannique, présentée comme un exploitant du gros-porteur A380, concerne une société basée à Londres. Il précise qu'une créancière a été à l'origine de la procédure.",
+      "Les éléments disponibles à ce stade se limitent à cette annonce et ne détaillent ni les motifs financiers de la démarche, ni le calendrier précis de la liquidation, ni le devenir des appareils ou des activités de la compagnie."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Global Airlines wird aufgelöst",
+        "url": "https://www.aero.de/news-54165/Global-Airlines-wird-aufgeloest.html",
+        "date": "2026-11-13T07:28:39Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0",
     "created": "2026-11-13T03:20:46Z",
     "updated": "2026-11-13T03:20:46Z",
