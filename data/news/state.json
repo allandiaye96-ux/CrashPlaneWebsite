@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/7-things-pilots-boeing-737-unique-jet-fly/": "2026-11-03T01:00:58Z",
     "https://simpleflying.com/60-percent-southwest-airlines-fliyrs-paying-to-upgrade-reveal-lcc-really-about/": "2026-11-03T02:50:42Z",
     "https://www.airliners.de/air-astana-ruestet-a321-lr-satelliten-wlan/91250": "2026-11-03T03:20:34Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years": "2026-11-03T04:01:00Z",
@@ -1512,7 +1511,9 @@
     "https://simpleflying.com/alaska-airlines-grows-4-new-us-cities-seattle-1-seasonal-route-mexico/": "2026-11-12T23:40:43Z",
     "https://www.twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman": "2026-11-12T23:50:35Z",
     "https://simpleflying.com/why-c-17-globemaster-taxi-backward-no-tow-truck/": "2026-11-13T00:10:34Z",
-    "https://www.twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane": "2026-11-13T00:31:03Z"
+    "https://www.twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane": "2026-11-13T00:31:03Z",
+    "https://www.twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it": "2026-11-13T01:00:58Z",
+    "https://simpleflying.com/early-flight-attendants-airport-before-flight/": "2026-11-13T01:00:58Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4941,6 +4942,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.839564
+    "2026-11": 4.840343
   }
 }
