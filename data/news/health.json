@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T09:10:35Z",
+  "run": "2026-11-13T09:20:37Z",
   "stats": {
     "fetched": 683,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8562,
+  "spend_month_usd": 4.8575,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -358,6 +358,12 @@
       "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
     },
     {
+      "dossier": "Air Explore arrêt AOC Avia Solutions",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
+    },
+    {
       "dossier": "Air Baltic retour A220 et sanierung insolvence",
       "statut": "corrobore",
       "editeurs": 2,
@@ -622,12 +628,6 @@
       "breve": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac"
     },
     {
-      "dossier": "Air Explore arrêt AOC Avia Solutions",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
-    },
-    {
       "dossier": "Etihad réduit son offre vers l'Allemagne 2027",
       "statut": "source_unique",
       "editeurs": 1,
@@ -697,12 +697,6 @@
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
       "statut": "corrobore",
       "editeurs": 2,
-      "breve": null
-    },
-    {
-      "dossier": "Drone non abattu Lituanie alertes Baltes",
-      "statut": "signale",
-      "editeurs": 1,
       "breve": null
     },
     {

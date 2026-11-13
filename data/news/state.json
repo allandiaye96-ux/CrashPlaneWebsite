@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/deutsche-flughaefen-september-passagierzahlen-stillstand/91261": "2026-11-03T09:20:33Z",
-    "https://www.airliners.de/merz-will-luftverkehrsteuer-weiter-senken-und-berlin-besser-anbinden/91267": "2026-11-03T09:20:33Z",
-    "https://www.airliners.de/hiserv-oeffnet-werkstatt-flughafen-kopenhagen/91259": "2026-11-03T09:20:33Z",
     "https://simpleflying.com/ultra-long-haul-flights-still-need-4-pilots-cockpit-takeoff/": "2026-11-03T10:01:00Z",
     "https://www.air-journal.fr/2026-11-03-air-montenegro-paris-cdg-parmi-cinq-liaisons-soutenues-par-letat-montenegrin-5278656.html": "2026-11-03T10:01:00Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=FBF604B1-6AC9-4BFE-BE3A-3F82A199C649": "2026-11-03T10:08:53Z",
@@ -1511,7 +1508,9 @@
     "https://avitrader.com/2026/11/13/mexicana-adopts-embraer-predictive-maintenance-platform/": "2026-11-13T08:50:35Z",
     "https://simpleflying.com/boeing-757-climbs-like-rocket-airbus-a321xlr-stuggles-reach-cruising-altitude-quickly/": "2026-11-13T09:00:58Z",
     "https://simpleflying.com/british-airways-grounds-airbus-a321neo-double-tail-strike-landing-london/": "2026-11-13T09:00:58Z",
-    "https://www.air-journal.fr/2026-11-13-iberia-generalise-le-wi-fi-starlink-gratuit-sur-ses-huit-a321xlr-5278825.html": "2026-11-13T09:00:58Z"
+    "https://www.air-journal.fr/2026-11-13-iberia-generalise-le-wi-fi-starlink-gratuit-sur-ses-huit-a321xlr-5278825.html": "2026-11-13T09:00:58Z",
+    "https://www.airliners.de/cyprus-airways-fliegt-dezember-nonstop-muenchen-larnaka/91499": "2026-11-13T09:20:37Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airexplore-cesse-ses-operations-20261113.html": "2026-11-13T09:20:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4001,27 +4000,6 @@
       "story_id": null,
       "written_count": 2
     },
-    "ce02caf13a4": {
-      "id": "ce02caf13a4",
-      "label": "Drone non abattu Lituanie alertes Baltes",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-11T09:10:54Z",
-      "updated": "2026-11-11T09:10:54Z",
-      "items": [
-        {
-          "id": "54720351a5504475",
-          "feed": "AeroTime",
-          "title": "NATO fighter jets miss drone as air-threat alerts sweep Baltic states",
-          "url": "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts",
-          "domain": "aerotime.aero",
-          "summary": "NATO fighter jets made two unsuccessful attempts to shoot down a drone that entered Lithuanian airspace from Belarus… The post NATO fighter jets miss drone as air-threat alerts sweep Baltic states appeared first on AeroTime .",
-          "published": "2026-11-11T08:56:41Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c297567b095": {
       "id": "c297567b095",
       "label": "Merz EU ETS aviation 2029",
@@ -4502,7 +4480,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T07:31:02Z",
-      "updated": "2026-11-12T07:31:02Z",
+      "updated": "2026-11-13T09:20:49Z",
       "items": [
         {
           "id": "0e3f7974009890e7",
@@ -4512,10 +4490,19 @@
           "domain": "aero.de",
           "summary": "BRATISLAVA - Air Explore meldet ihr AOC ab - die slowakische ACMI-Airline aus der Avia Solutions Group hat den Flugbetrieb eingestellt. Eine geplante Fusion mit der Schwesterairline Klasjet ist damit hinfällig.",
           "published": "2026-11-12T07:22:30Z"
+        },
+        {
+          "id": "fdac0756488e10a0",
+          "feed": "Le Journal de l'Aviation",
+          "title": "AirExplore cesse ses opérations",
+          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airexplore-cesse-ses-operations-20261113.html",
+          "domain": "journal-aviation.com",
+          "summary": "AirExplore a définitivement suspendu ses opérations. La compagnie charter et ACMI a annoncé le 10 novembre qu’elle arrêtait ses activités et qu’elle avait déposé une demande de renonciation à son […] L’article AirExplore cesse ses opérations a été publié sur Le Journal de l’Aviation .",
+          "published": "2026-11-13T09:12:28Z"
         }
       ],
       "story_id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
-      "written_count": 1
+      "written_count": 2
     },
     "ca88e675dbf": {
       "id": "ca88e675dbf",
@@ -4871,6 +4858,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.856232
+    "2026-11": 4.85745
   }
 }

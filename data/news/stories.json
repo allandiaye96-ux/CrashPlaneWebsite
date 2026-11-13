@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
+    "created": "2026-11-12T07:31:05Z",
+    "updated": "2026-11-13T09:20:51Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Air Explore cesse ses opérations et renonce à son certificat d'exploitation",
+    "chapo": "Selon aero.de, la compagnie slovaque Air Explore a mis fin à son activité aérienne. D'après Le Journal de l'Aviation, elle a annoncé l'arrêt de ses opérations le 10 novembre.",
+    "paragraphes": [
+      "La compagnie charter et ACMI, appartenant au groupe Avia Solutions Group, a suspendu définitivement ses vols. Elle a déposé une demande de renonciation à son AOC, son certificat de transporteur aérien.",
+      "Une fusion avec Klasjet, sa sœur au sein du même groupe, prévue initialement, n'aura donc pas lieu."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air Explore gibt ihre Betriebslizenz zurück",
+        "url": "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html",
+        "date": "2026-11-12T07:22:30Z",
+        "official": false
+      },
+      {
+        "name": "Le Journal de l'Aviation",
+        "title": "AirExplore cesse ses opérations",
+        "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airexplore-cesse-ses-operations-20261113.html",
+        "date": "2026-11-13T09:12:28Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
     "created": "2026-11-05T14:31:25Z",
     "updated": "2026-11-13T08:20:52Z",
@@ -893,38 +932,6 @@
         "title": "Etihad reduziert ab Januar 2027 Angebot nach Deutschland",
         "url": "https://www.airliners.de/etihad-reduziert-januar-2027-angebot-deutschland/91476",
         "date": "2026-11-12T07:47:00Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
-    "created": "2026-11-12T07:31:05Z",
-    "updated": "2026-11-12T07:31:05Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air Explore renonce à son certificat de transporteur aérien et cesse son activité",
-    "chapo": "Selon aero.de, la compagnie slovaque Air Explore a abandonné son certificat AOC et mis fin à son exploitation aérienne. Ce changement annule une fusion prévue avec sa compagnie sœur Klasjet.",
-    "paragraphes": [
-      "Air Explore est une compagnie ACMI basée à Bratislava et rattachée au groupe Avia Solutions Group, d'après le même éditeur. Elle a restitué sa licence d'exploitation, ce qui signifie l'arrêt définitif de ses vols.",
-      "La fusion envisagée avec Klasjet, autre filiale de la même famille de sociétés, n'aura donc pas lieu."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Air Explore gibt ihre Betriebslizenz zurück",
-        "url": "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html",
-        "date": "2026-11-12T07:22:30Z",
         "official": false
       }
     ]
