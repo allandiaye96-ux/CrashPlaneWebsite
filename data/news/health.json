@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-13T09:00:58Z",
+  "run": "2026-11-13T09:10:35Z",
   "stats": {
     "fetched": 683,
-    "new": 3,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -176,12 +176,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
-    },
-    {
-      "dossier": "Emirates résultats S1 2026",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-05-emirates-le-benefice-net-du-premier-semestre-chute-de-66-ent-b6c4"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
