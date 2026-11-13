@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-11-13-quantum-systems-les-drones-de-la-bundeswehr-de-nouveau-en-vo-6a48",
+    "created": "2026-11-13T15:01:22Z",
+    "updated": "2026-11-13T15:01:22Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Défense",
+    "importance": 2,
+    "titre": "Quantum Systems : les drones de la Bundeswehr de nouveau en vol après une cyberattaque",
+    "chapo": "Selon AeroTime, le fabricant de drones Quantum Systems a annoncé que les appareils qu'exploite la Bundeswehr sont de nouveau opérationnels après une cyberattaque. Le média d'outre-Rhin aero.de indique qu'une enquête est en cours.",
+    "paragraphes": [
+      "D'après aero.de, l'entreprise, fournisseur de longue date des forces armées ukrainiennes, a été visée par une cyberattaque attribuée à un « acteur hostile ». Un organisme civil a ouvert une enquête, sans que son nom ni ses conclusions ne soient précisés dans les sources disponibles.",
+      "Les sources ne détaillent pas la nature de l'attaque, ni son impact précis sur les opérations, et n'établissent pas à ce stade l'origine de l'intrusion."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "Quantum Systems says Bundeswehr drones flying again after cyberattack",
+        "url": "https://www.aerotime.aero/articles/bundeswehr-quantum-systems-drones-flying-again-cyberattack",
+        "date": "2026-11-13T14:37:18Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Ermittlungen nach Cyberangriff auf Quantum Systems",
+        "url": "https://www.aero.de/news-54170/Ermittlungen-nach-Cyberangriff-auf-Quantum-Systems.html",
+        "date": "2026-11-13T14:53:07Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-13-british-airways-immobilise-un-a321neo-apres-un-double-talonn-f106",
+    "created": "2026-11-13T15:01:20Z",
+    "updated": "2026-11-13T15:01:20Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Incident",
+    "importance": 2,
+    "titre": "British Airways immobilise un A321neo après un double talonnage lors d'un atterrissage à Londres",
+    "chapo": "Selon Simple Flying, un Airbus A321neo de British Airways a été immobilisé après un double talonnage de la queue lors d'un atterrissage à Londres. D'après aero.de, l'incident s'est produit à Londres-Heathrow.",
+    "paragraphes": [
+      "Le heurt de l'arrière de l'appareil avec la piste a eu lieu à deux reprises pendant la même landing, selon les deux sources. Simple Flying indique que la scène a été filmée et diffusée en direct.",
+      "Les sources disponibles ne donnent pas d'information sur les causes de l'incident. Aucune enquête officielle n'est mentionnée à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "British Airways Grounds Airbus A321neo After Double Tail Strike During Landing In London",
+        "url": "https://simpleflying.com/british-airways-grounds-airbus-a321neo-double-tail-strike-landing-london/",
+        "date": "2026-11-13T08:51:38Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Airbus A321neo von British Airways hat Zweifach-Tailstrike",
+        "url": "https://www.aero.de/news-54171/Airbus-A321neo-von-British-Airways-hat-Zweifach-Tailstrike.html",
+        "date": "2026-11-13T15:00:45Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a",
     "created": "2026-11-13T14:20:49Z",
     "updated": "2026-11-13T14:20:49Z",
