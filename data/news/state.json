@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026": "2026-11-03T18:20:38Z",
-    "https://www.airliners.de/lufthansa-group-unterzeichnet-vertrag-einstieg-tap-air-portugal/91304": "2026-11-03T18:20:38Z",
     "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled": "2026-11-03T18:40:36Z",
     "https://simpleflying.com/helicopters-collide-mount-everest-1-dead-2-injured/": "2026-11-03T18:50:46Z",
     "https://simpleflying.com/re-engined-narrowbody-quadjet-real-calling-freighter/": "2026-11-03T19:01:14Z",
@@ -1505,7 +1503,8 @@
     "https://theaircurrent.com/airlines/singapore-airlines-business-class-seat-soft-power-boeing-777x-news-analysis/": "2026-11-13T17:50:33Z",
     "https://simpleflying.com/american-airlines-passenger-byod-hopes-failed-long-term-domestic-competitor/": "2026-11-13T18:00:58Z",
     "https://airlinegeeks.com/2026/11/13/american-adds-new-routes-drops-others-in-reshuffle-at-lax/": "2026-11-13T18:00:58Z",
-    "https://www.twz.com/sea/destroyer-that-has-been-deployed-longer-than-any-since-wwii-returns-home": "2026-11-13T18:10:34Z"
+    "https://www.twz.com/sea/destroyer-that-has-been-deployed-longer-than-any-since-wwii-returns-home": "2026-11-13T18:10:34Z",
+    "https://airlinegeeks.com/2026/11/13/livery-of-the-week-etihad-partners-with-mclaren/": "2026-11-13T18:30:49Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4778,6 +4777,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.894495
+    "2026-11": 4.895269
   }
 }
