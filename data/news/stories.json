@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f",
+    "created": "2026-11-13T11:21:04Z",
+    "updated": "2026-11-13T11:21:04Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Malaisie : le gouvernement étudie un soutien à AirAsia sous conditions",
+    "chapo": "Selon airliners.de, le gouvernement malaisien examine les moyens de soutenir la compagnie AirAsia face à la hausse des prix du kérosène et aux fluctuations monétaires.",
+    "paragraphes": [
+      "D'après le même éditeur, l'ancien ministre des Transports Anthony Loke, aujourd'hui démissionnaire, exclut une simple injection de fonds pour la compagnie.",
+      "Les modalités d'un éventuel soutien ne sont pas détaillées à ce stade."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "Malaysia will Air Asia nur unter Auflagen stützen",
+        "url": "https://www.airliners.de/malaysia-air-asia-hilfen-auflagen/91518",
+        "date": "2026-11-13T10:54:50Z",
+        "official": false
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
+    "created": "2026-11-12T16:01:21Z",
+    "updated": "2026-11-13T11:21:02Z",
+    "version": 2,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Lufthansa et Vereinigung Cockpit approchent d'un résultat de médiation",
+    "chapo": "Selon aero.de, la médiation entre Lufthansa et le syndicat de pilotes Vereinigung Cockpit semble aboutir à un résultat. Les négociations se poursuivent à huis clos.",
+    "paragraphes": [
+      "Les conciliations menées chez Lufthansa se sont achevées sans accord en octobre 2026. Les discussions se sont alors déplacées vers une médiation destinée à trouver une solution globale, dans laquelle les deux parties explorent leurs limites respectives.",
+      "D'après airliners.de, qui cite aero.de, un premier projet de proposition a déjà été remis aux deux parties. Il concerne notamment l'avenir des pilotes de Cityline."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Kreise: Mediationsergebnis für Lufthansa und Piloten",
+        "url": "https://www.aero.de/news-54156/Kreise-Annaeherung-von-Lufthansa-und-Piloten-moeglich.html",
+        "date": "2026-11-12T16:00:03Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Lufthansa und Vereinigung Cockpit steuern auf Ergebnis der Mediation zu",
+        "url": "https://www.airliners.de/lufthansa-vereinigung-cockpit-mediation-ergebnis/91512",
+        "date": "2026-11-13T10:31:08Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
     "created": "2026-11-10T06:01:27Z",
     "updated": "2026-11-13T11:01:22Z",
@@ -395,38 +466,6 @@
         "title": "Virgin cabin crew vote for industrial action in landslide",
         "url": "https://australianaviation.com.au/2026/11/virgin-cabin-crew-vote-for-industrial-action-in-landslide/",
         "date": "2026-11-12T00:26:43Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
-    "created": "2026-11-12T16:01:21Z",
-    "updated": "2026-11-12T16:01:21Z",
-    "version": 1,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Lufthansa et Vereinigung Cockpit en médiation, un résultat se dessinerait selon aero.de",
-    "chapo": "Selon aero.de, les négociations entre Lufthansa et le syndicat de pilotes Vereinigung Cockpit se poursuivent en médiation après l'échec des arbitrages d'octobre 2026, et un résultat se dessinerait.",
-    "paragraphes": [
-      "D'après aero.de, les arbitrages engagés chez Lufthansa ont pris fin en octobre 2026 sans accord. Les discussions se poursuivent à huis clos dans le cadre d'une médiation, où les deux parties cherchent une solution globale.",
-      "Toujours d'après ce média, les deux parties testent leurs limites respectives dans ce cadre. Aucun détail sur les termes d'un éventuel accord n'a été communiqué à ce stade."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "source_unique",
-      "independent_sources": 1,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Kreise: Mediationsergebnis für Lufthansa und Piloten",
-        "url": "https://www.aero.de/news-54156/Kreise-Annaeherung-von-Lufthansa-und-Piloten-moeglich.html",
-        "date": "2026-11-12T16:00:03Z",
         "official": false
       }
     ]

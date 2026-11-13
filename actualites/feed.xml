@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Fri, 13 Nov 2026 11:10:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 11:21:04 +0000</lastBuildDate>
+  <item>
+    <title>Malaisie : le gouvernement étudie un soutien à AirAsia sous conditions</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f/</guid>
+    <pubDate>Fri, 13 Nov 2026 11:21:04 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon airliners.de, le gouvernement malaisien examine les moyens de soutenir la compagnie AirAsia face à la hausse des prix du kérosène et aux fluctuations monétaires.</description>
+  </item>
   <item>
     <title>Global Airlines placée en liquidation obligatoire par un tribunal britannique</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90/</link>
@@ -56,12 +64,12 @@
     <description>Selon AeroTime, la Tchéquie pourrait livrer jusqu&#x27;à 16 avions Aero Vodochody L-39 Skyfox à l&#x27;Ukraine. Plusieurs médias spécialisés évoquent aussi un usage potentiel contre les drones d&#x27;attaque russes.</description>
   </item>
   <item>
-    <title>Lufthansa et Vereinigung Cockpit en médiation, un résultat se dessinerait selon aero.de</title>
+    <title>Lufthansa et Vereinigung Cockpit approchent d&#x27;un résultat de médiation</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471/</link>
     <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471/</guid>
     <pubDate>Thu, 12 Nov 2026 16:01:21 +0000</pubDate>
     <category>Compagnies</category>
-    <description>Selon aero.de, les négociations entre Lufthansa et le syndicat de pilotes Vereinigung Cockpit se poursuivent en médiation après l&#x27;échec des arbitrages d&#x27;octobre 2026, et un résultat se dessinerait.</description>
+    <description>Selon aero.de, la médiation entre Lufthansa et le syndicat de pilotes Vereinigung Cockpit semble aboutir à un résultat. Les négociations se poursuivent à huis clos.</description>
   </item>
   <item>
     <title>Européens : ACI Europe appelle à mieux coordonner aéroports, compagnies et pouvoirs publics face aux menaces</title>
@@ -238,14 +246,6 @@
     <pubDate>Wed, 11 Nov 2026 11:50:47 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon aero.de, l&#x27;enthousiasme de Lufthansa pour Dubaï est retombé : Swiss, Austrian Airlines et ITA Airways suppriment entièrement la destination jusqu&#x27;à fin mars 2027, et Lufthansa ne la maintient qu&#x27;au départ de Munich.</description>
-  </item>
-  <item>
-    <title>Cathay Pacific commande 11 A330-900 supplémentaires et porte sa flotte à 41 appareils</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f/</guid>
-    <pubDate>Wed, 11 Nov 2026 07:31:07 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, Cathay Pacific a exercé des droits d&#x27;achat portant sur 11 Airbus A330-900 supplémentaires. La compagnie hongkongaise atteint ainsi un total de 41 exemplaires de ce type commandés ferme.</description>
   </item>
 </channel>
 </rss>

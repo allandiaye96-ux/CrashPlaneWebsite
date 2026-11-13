@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T11:10:35Z",
+  "run": "2026-11-13T11:20:46Z",
   "stats": {
     "fetched": 683,
-    "new": 0,
-    "written": 0,
+    "new": 5,
+    "written": 2,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8638,
+  "spend_month_usd": 4.8655,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -352,6 +352,12 @@
       "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
     },
     {
+      "dossier": "Lufthansa médiation pilotes Vereinigung Cockpit",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471"
+    },
+    {
       "dossier": "Crash hélicoptère Malatya Turquie",
       "statut": "corrobore",
       "editeurs": 2,
@@ -646,12 +652,6 @@
       "breve": "2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8"
     },
     {
-      "dossier": "Lufthansa médiation pilotes Vereinigung Cockpit",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471"
-    },
-    {
       "dossier": "Virgin Australia grève PNC vote",
       "statut": "source_unique",
       "editeurs": 1,
@@ -674,6 +674,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
+    },
+    {
+      "dossier": "Air Asia soutien gouvernement malaisien",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f"
     },
     {
       "dossier": "Airbus usine mâts réacteurs Cornebarrieu 900 M€",
@@ -707,6 +713,12 @@
     },
     {
       "dossier": "British Airways A321neo double impact de queue",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "US demande 30,1 Md$ flugsicherung aéroports",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

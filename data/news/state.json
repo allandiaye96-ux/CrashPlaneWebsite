@@ -1500,7 +1500,14 @@
     "https://www.airliners.de/pfizer-streit-belgisches-gericht-hebt-pfaendung-polnische-flugsicherungsgebuehren-auf/91504": "2026-11-13T10:20:37Z",
     "https://www.airliners.de/luftverkehrsbranche-warnt-folgekosten-drohnenabwehr-flughaefen/91503": "2026-11-13T10:20:37Z",
     "https://www.journal-aviation.com/actualites-mro-support/mexicana-opte-pour-la-solution-de-maintenance-predictive-dembraer-20261113.html": "2026-11-13T10:20:37Z",
-    "https://www.air-journal.fr/2026-11-13-qantas-accelere-dans-lia-au-prix-de-850-suppressions-de-postes-5278774.html": "2026-11-13T11:00:59Z"
+    "https://www.air-journal.fr/2026-11-13-qantas-accelere-dans-lia-au-prix-de-850-suppressions-de-postes-5278774.html": "2026-11-13T11:00:59Z",
+    "https://www.aerotime.aero/articles/saab-in-house-ai-gripen-e-flight-tests": "2026-11-13T11:20:46Z",
+    "https://www.aerotime.aero/articles/lufthansa-groups-third-quarter-profits-2026": "2026-11-13T11:20:46Z",
+    "https://www.airliners.de/malaysia-air-asia-hilfen-auflagen/91518": "2026-11-13T11:20:46Z",
+    "https://www.airliners.de/us-regierung-milliarden-flugsicherung-flughaefen/91517": "2026-11-13T11:20:46Z",
+    "https://www.airliners.de/tui-airways-beantragt-registrierung-charterveranstalter-usa/91514": "2026-11-13T11:20:46Z",
+    "https://www.airliners.de/atlantic-airways-erwaegt-codeshare-lufthansa/91510": "2026-11-13T11:20:46Z",
+    "https://www.airliners.de/lufthansa-vereinigung-cockpit-mediation-ergebnis/91512": "2026-11-13T11:20:46Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4575,7 +4582,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T16:01:19Z",
-      "updated": "2026-11-12T16:01:19Z",
+      "updated": "2026-11-13T11:21:00Z",
       "items": [
         {
           "id": "995e6dc61bad8534",
@@ -4585,10 +4592,19 @@
           "domain": "aero.de",
           "summary": "FRANKFURT - Schlichtungen bei Lufthansa endeten im Oktober 2026 ergebnislos. Doch hinter verschlossenen Türen wird weiter um eine Gesamtlösung gerungen: Lufthansa und Vereinigung Cockpit loten in einer Mediation Schmerzgrenzen aus. Nach Informationen von aero.de zeichnet sich ein Resultat ab.",
           "published": "2026-11-12T16:00:03Z"
+        },
+        {
+          "id": "13cc3c5118fa5a6b",
+          "feed": "airliners.de",
+          "title": "Lufthansa und Vereinigung Cockpit steuern auf Ergebnis der Mediation zu",
+          "url": "https://www.airliners.de/lufthansa-vereinigung-cockpit-mediation-ergebnis/91512",
+          "domain": "airliners.de",
+          "summary": "Die Lufthansa und die Vereinigung Cockpit stehen nach Informationen von \"Aero.de\" kurz vor einem Ergebnis ihrer Mediation. Ein erster Vorschlag liegt beiden Seiten bereits vor. Er betrifft unter anderem die Zukunft der Cityline-Piloten.",
+          "published": "2026-11-13T10:31:08Z"
         }
       ],
       "story_id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
-      "written_count": 1
+      "written_count": 2
     },
     "c8b79e9cf9e": {
       "id": "c8b79e9cf9e",
@@ -4724,10 +4740,52 @@
       ],
       "story_id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
       "written_count": 1
+    },
+    "cfc03e5b30f": {
+      "id": "cfc03e5b30f",
+      "label": "Air Asia soutien gouvernement malaisien",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-13T11:21:00Z",
+      "updated": "2026-11-13T11:21:00Z",
+      "items": [
+        {
+          "id": "748f425d2a619359",
+          "feed": "airliners.de",
+          "title": "Malaysia will Air Asia nur unter Auflagen stützen",
+          "url": "https://www.airliners.de/malaysia-air-asia-hilfen-auflagen/91518",
+          "domain": "airliners.de",
+          "summary": "Die malaysische Regierung prüft, wie sie Air Asia angesichts hoher Kerosinpreise und Währungsschwankungen unterstützen kann. Eine bloße Finanzspritze schließt der zurückgetretene Verkehrsminister Anthony Loke aus.",
+          "published": "2026-11-13T10:54:50Z"
+        }
+      ],
+      "story_id": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f",
+      "written_count": 1
+    },
+    "cd4c01f8429": {
+      "id": "cd4c01f8429",
+      "label": "US demande 30,1 Md$ flugsicherung aéroports",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-13T11:21:00Z",
+      "updated": "2026-11-13T11:21:00Z",
+      "items": [
+        {
+          "id": "2f71a1a5f16e0b24",
+          "feed": "airliners.de",
+          "title": "US-Regierung fordert weitere Milliarden für Flugsicherung und Flughäfen",
+          "url": "https://www.airliners.de/us-regierung-milliarden-flugsicherung-flughaefen/91517",
+          "domain": "airliners.de",
+          "summary": "Die US-Regierung bittet den Kongress um weitere 30,1 Milliarden US-Dollar für Flugsicherung und Flughäfen. Große US-Fluggesellschaften unterstützen den Vorstoß. Für die Bewilligung bleibt allerdings nur ein enges Zeitfenster.",
+          "published": "2026-11-13T10:42:02Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.863813
+    "2026-11": 4.865522
   }
 }
