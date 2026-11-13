@@ -1510,7 +1510,10 @@
     "https://www.aerotime.aero/articles/build-an-airport-that-can-adapt-alton-aviations-mabel-kwan-on-apac-financing": "2026-11-13T05:00:57Z",
     "https://www.aero.de/news-54164/SpaceX-will-beide-Starship-Stufen-wieder-einfangen.html": "2026-11-13T05:50:34Z",
     "https://simpleflying.com/5-busy-airports-intersecting-runways-complicate-takeoffs-landings/": "2026-11-13T06:00:58Z",
-    "https://www.air-journal.fr/2026-11-13-klm-deploie-les-outils-dimmfly-pour-ses-ventes-a-bord-et-ses-surclassements-5278820.html": "2026-11-13T06:10:36Z"
+    "https://www.air-journal.fr/2026-11-13-klm-deploie-les-outils-dimmfly-pour-ses-ventes-a-bord-et-ses-surclassements-5278820.html": "2026-11-13T06:10:36Z",
+    "https://simpleflying.com/severe-hail-storm-inspections-2-dozen-american-airlines-jets-philadelphia/": "2026-11-13T06:20:34Z",
+    "https://www.airliners.de/vorfeld-terminal-condor-plant-terminal-umzug-bremen-erwaegt-terminal-2-stilllegung-fraport-airlines-terminal-1-holen/91501": "2026-11-13T06:20:34Z",
+    "https://www.airliners.de/aena-flughaefen-spanien-oktober-passagiere/91494": "2026-11-13T06:20:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4909,6 +4912,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.847012
+    "2026-11": 4.847883
   }
 }
