@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/air-astana-ruestet-a321-lr-satelliten-wlan/91250": "2026-11-03T03:20:34Z",
     "https://boeing.mediaroom.com/2026-11-03-Boeing-Projects-Chinas-Commercial-Fleet-Will-More-than-Double-Over-20-Years": "2026-11-03T04:01:00Z",
     "https://simpleflying.com/delta-ceo-vows-fight-heathrow-virgin-atlantic-split/": "2026-11-03T04:10:34Z",
     "https://www.airliners.de/icelease-laesst-boeing-767-300-frachter-umbauen/91252": "2026-11-03T05:20:33Z",
@@ -2033,27 +2032,6 @@
       ],
       "story_id": "2026-11-06-un-f-35b-largue-pour-la-premiere-fois-un-missile-meteor-depu-7cd5",
       "written_count": 2
-    },
-    "c817887e2f0": {
-      "id": "c817887e2f0",
-      "label": "Avolon résultats T3 et commande 250 avions Boeing Airbus",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-06T03:20:46Z",
-      "updated": "2026-11-06T03:20:46Z",
-      "items": [
-        {
-          "id": "96c3fbc941e1fc36",
-          "feed": "airliners.de",
-          "title": "Avolon steigert Nettogewinn um 43 Prozent und bestellt 250 neue Flugzeuge bei Boeing und Airbus",
-          "url": "https://www.airliners.de/avolon-nettogewinn-43-prozent-250-flugzeuge-boeing-airbus/91341",
-          "domain": "airliners.de",
-          "summary": "Die Flugzeugfinanzierungsgesellschaft Avolon hat nach dem Ende des dritten Quartals fest 250 Flugzeuge bei Boeing und Airbus bestellt, wie das Unternehmen mitteilte. Der Nettogewinn stieg derweil im dritten Quartal um 43 Prozent.",
-          "published": "2026-11-06T03:07:00Z"
-        }
-      ],
-      "story_id": "2026-11-06-avolon-commande-250-avions-chez-boeing-et-airbus-et-voit-son-e2f0",
-      "written_count": 1
     },
     "c8734fa933e": {
       "id": "c8734fa933e",
