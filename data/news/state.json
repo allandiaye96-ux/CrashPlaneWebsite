@@ -1513,7 +1513,10 @@
     "https://www.airliners.de/wizz-air-bombendrohungen-europaweit-einheitliches-vorgehen/91496": "2026-11-13T08:20:34Z",
     "https://avitrader.com/2026/11/13/jonathan-grant-becomes-chief-engineer-for-ontic/": "2026-11-13T08:30:47Z",
     "https://avitrader.com/2026/11/13/delta-techops-wins-virgin-australia-support-deal/": "2026-11-13T08:40:34Z",
-    "https://avitrader.com/2026/11/13/mexicana-adopts-embraer-predictive-maintenance-platform/": "2026-11-13T08:50:35Z"
+    "https://avitrader.com/2026/11/13/mexicana-adopts-embraer-predictive-maintenance-platform/": "2026-11-13T08:50:35Z",
+    "https://simpleflying.com/boeing-757-climbs-like-rocket-airbus-a321xlr-stuggles-reach-cruising-altitude-quickly/": "2026-11-13T09:00:58Z",
+    "https://simpleflying.com/british-airways-grounds-airbus-a321neo-double-tail-strike-landing-london/": "2026-11-13T09:00:58Z",
+    "https://www.air-journal.fr/2026-11-13-iberia-generalise-le-wi-fi-starlink-gratuit-sur-ses-huit-a321xlr-5278825.html": "2026-11-13T09:00:58Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4887,10 +4890,31 @@
       ],
       "story_id": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3",
       "written_count": 1
+    },
+    "c8ac1a0f106": {
+      "id": "c8ac1a0f106",
+      "label": "British Airways A321neo double impact de queue",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-13T09:01:11Z",
+      "updated": "2026-11-13T09:01:11Z",
+      "items": [
+        {
+          "id": "d7bdcce999c436de",
+          "feed": "Simple Flying",
+          "title": "British Airways Grounds Airbus A321neo After Double Tail Strike During Landing In London",
+          "url": "https://simpleflying.com/british-airways-grounds-airbus-a321neo-double-tail-strike-landing-london/",
+          "domain": "simpleflying.com",
+          "summary": "The incident was captured on a live stream.",
+          "published": "2026-11-13T08:51:38Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.855382
+    "2026-11": 4.856232
   }
 }

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-13T08:50:35Z",
+  "run": "2026-11-13T09:00:58Z",
   "stats": {
     "fetched": 683,
-    "new": 1,
+    "new": 3,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.8554,
+  "spend_month_usd": 4.8562,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -737,6 +737,12 @@
     },
     {
       "dossier": "Leonardo DRS DIRCM USMC UH-1Y AH-1Z",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "British Airways A321neo double impact de queue",
       "statut": "signale",
       "editeurs": 1,
       "breve": null
