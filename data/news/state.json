@@ -1462,7 +1462,11 @@
     "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m": "2026-11-14T16:00:59Z",
     "https://simpleflying.com/delta-air-lines-replaced-unique-boeing-777-200lrs-new-airbus-a350s-casm-too-much/": "2026-11-14T16:00:59Z",
     "https://simpleflying.com/how-many-crew-members-fly-e-4b-nightwatch/": "2026-11-14T17:01:00Z",
-    "https://simpleflying.com/united-airlines-requests-ground-stop-chicago-ohare-influx-arrivals/": "2026-11-14T17:50:31Z"
+    "https://simpleflying.com/united-airlines-requests-ground-stop-chicago-ohare-influx-arrivals/": "2026-11-14T17:50:31Z",
+    "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition": "2026-11-14T18:00:59Z",
+    "https://simpleflying.com/cirrus-vision-jet-annual-ownership-operating-costs/": "2026-11-14T18:00:59Z",
+    "https://simpleflying.com/american-launches-7-new-international-routes/": "2026-11-14T18:00:59Z",
+    "https://www.aero.de/news-54176/Router-ueberlastete-FAA-System.html": "2026-11-14T18:00:59Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4510,7 +4514,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T10:40:55Z",
+      "updated": "2026-11-14T18:01:10Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4646,10 +4650,19 @@
           "domain": "aero.de",
           "summary": "FRANKFURT - Das zwischenzeitliche Startverbot für Flüge in den Vereinigten Staaten hat sich nach Angaben der Lufthansa \"nur in begrenztem Umfang\" auf die zu dem Unternehmen gehörenden Fluggesellschaften ausgewirkt.",
           "published": "2026-11-14T10:35:13Z"
+        },
+        {
+          "id": "7a140fb63a97a392",
+          "feed": "aero.de",
+          "title": "Duffy: Router überlastete FAA-System",
+          "url": "https://www.aero.de/news-54176/Router-ueberlastete-FAA-System.html",
+          "domain": "aero.de",
+          "summary": "WASHINGTON - Nach dem stundenlangen landesweiten Flugstopp in den USA soll sich der Flugverkehr bis Sonntagabend wieder vollständig normalisieren.",
+          "published": "2026-11-14T18:00:13Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 15
+      "written_count": 16
     },
     "c8c9ab12da0": {
       "id": "c8c9ab12da0",
@@ -4759,6 +4772,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.95159
+    "2026-11": 4.953736
   }
 }

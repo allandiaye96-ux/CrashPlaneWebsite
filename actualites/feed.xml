@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 14 Nov 2026 17:50:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 18:01:17 +0000</lastBuildDate>
   <item>
     <title>United Airlines demande un arrêt ciblé des départs à Chicago O&#x27;Hare</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77/</link>
@@ -38,6 +38,14 @@
     <pubDate>Fri, 13 Nov 2026 22:31:02 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>Selon The War Zone, des drones suspectés ont été repérés au-dessus de RAF Lakenheath, en Angleterre, et ont déclenché une réponse des forces de sécurité de l&#x27;US Air Force. D&#x27;après The Aviationist, l&#x27;alerte s&#x27;est accompagnée de signalements de confinement sur la base.</description>
+  </item>
+  <item>
+    <title>États-Unis : arrêt national des décollages levé après environ quatre heures de panne du contrôle aérien</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720/</guid>
+    <pubDate>Fri, 13 Nov 2026 21:50:52 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Australian Aviation, le ministre des Transports Sean Duffy attribue la panne à du matériel vieillissant. D&#x27;après Air Journal, la FAA a levé la suspension nationale des décollages après plus de quatre heures.</description>
   </item>
   <item>
     <title>Virgin Australia : des arrêts de travail du personnel au sol annoncés pour le 16 novembre</title>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 12 Nov 2026 08:01:17 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon aero.de, la compagnie lettone airBaltic rend 18 de ses 54 Airbus A220-300 à des sociétés de leasing avant leur terme. Selon airliners.de, elle veut aussi restituer trois appareils supplémentaires.</description>
-  </item>
-  <item>
-    <title>AirExplore cesse ses opérations et restitue son certificat de transporteur aérien</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c/</guid>
-    <pubDate>Thu, 12 Nov 2026 07:31:05 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon Le Journal de l&#x27;Aviation, la compagnie slovaque AirExplore a définitivement suspendu ses opérations. D&#x27;après Air Journal, elle a cessé son activité le 10 novembre.</description>
   </item>
 </channel>
 </rss>
