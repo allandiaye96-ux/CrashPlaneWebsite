@@ -6,7 +6,7 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 14 Nov 2026 10:30:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 10:41:02 +0000</lastBuildDate>
   <item>
     <title>Washington demande 30,1 milliards de dollars au Congrès pour la aviation américaine</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429/</link>
@@ -22,14 +22,6 @@
     <pubDate>Fri, 13 Nov 2026 22:31:02 +0000</pubDate>
     <category>Sécurité et réglementation</category>
     <description>Selon The War Zone, des drones suspectés ont été repérés au-dessus de RAF Lakenheath, en Angleterre, et ont déclenché une réponse des forces de sécurité de l&#x27;US Air Force. D&#x27;après The Aviationist, l&#x27;alerte s&#x27;est accompagnée de signalements de confinement sur la base.</description>
-  </item>
-  <item>
-    <title>États-Unis : arrêt national des décollages levé après une panne de communication du contrôle aérien</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720/</guid>
-    <pubDate>Fri, 13 Nov 2026 21:50:52 +0000</pubDate>
-    <category>Sécurité et réglementation</category>
-    <description>Selon Air Journal, la FAA a mis fin vendredi soir à la suspension nationale des décollages aux États-Unis, imposée après une panne de télécommunications de la Flugsicherung américaine. Des milliers de vols ont été retardés ou annulés.</description>
   </item>
   <item>
     <title>Virgin Australia : des arrêts de travail du personnel au sol annoncés pour le 16 novembre</title>
@@ -246,6 +238,14 @@
     <pubDate>Thu, 12 Nov 2026 07:01:17 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon AeroTime, United Airlines a annoncé le 11 novembre 2026 limiter l&#x27;accès des agents IA tiers à ses plateformes numériques. La compagnie invoque la sécurité des données.</description>
+  </item>
+  <item>
+    <title>Fly4 Airlines : le High Court de Dublin nomme des administrateurs provisoires</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764/</guid>
+    <pubDate>Thu, 12 Nov 2026 05:50:45 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon aero.de, la compagnie irlandaise spécialisée en ACMI Fly4 Airlines doit disparaître du marché. Selon airliners.de, elle serait placée en liquidation provisoire.</description>
   </item>
 </channel>
 </rss>
