@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429",
+    "created": "2026-11-14T02:40:50Z",
+    "updated": "2026-11-14T02:40:50Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 2,
+    "titre": "Washington demande 30,1 milliards de dollars au Congrès pour la aviation américaine",
+    "chapo": "Selon airliners.de, le gouvernement américain sollicite du Congrès 30,1 milliards de dollars pour la navigation aérienne et les aéroports. Selon Simple Flying, cette demande intervient alors que des perturbations de vols dans tout le pays ravivent les inquiétudes en matière de sécurité.",
+    "paragraphes": [
+      "D'après airliners.de, les grandes compagnies aériennes américaines soutiennent cette initiative, mais la fenêtre pour obtenir l'autorisation budgétaire est étroite.",
+      "Simple Flying évoque des améliorations destinées aux infrastructures aériennes du pays. Le détail de l'affectation des fonds n'est pas précisé dans les sources disponibles."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "airliners.de",
+        "title": "US-Regierung fordert weitere Milliarden für Flugsicherung und Flughäfen",
+        "url": "https://www.airliners.de/us-regierung-milliarden-flugsicherung-flughaefen/91517",
+        "date": "2026-11-13T10:42:02Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "White House Urges Congress To Approve $30 Billion In Upgrades To US Aviation Infrastructure",
+        "url": "https://simpleflying.com/white-house-urge-congress-approve-30-billion-upgrades-us-aviation-infrastructure/",
+        "date": "2026-11-14T02:33:55Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
     "created": "2026-11-13T21:50:52Z",
     "updated": "2026-11-13T23:01:17Z",
