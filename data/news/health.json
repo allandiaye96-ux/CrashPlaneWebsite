@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-14T14:40:37Z",
+  "run": "2026-11-14T14:50:37Z",
   "stats": {
     "fetched": 684,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Procès entente tarifaire 7 compagnies US",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-07-sept-compagnies-aeriennes-americaines-visees-par-des-plainte-6a91"
     },
     {
       "dossier": "Eve Air Mobility And FlyBIS Sign eVTOL Deal",
