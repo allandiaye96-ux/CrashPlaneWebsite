@@ -1514,7 +1514,9 @@
     "https://simpleflying.com/white-house-urge-congress-approve-30-billion-upgrades-us-aviation-infrastructure/": "2026-11-14T02:40:35Z",
     "https://simpleflying.com/the-us-navy-retired-100-pound-cargo-workhourse-tiltrotor-carries-4000-pounds-less/": "2026-11-14T02:50:39Z",
     "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage": "2026-11-14T04:30:45Z",
-    "https://simpleflying.com/what-pilot-actually-do-hour-by-hour-on-18-hour-new-york-jfk-flight/": "2026-11-14T05:10:34Z"
+    "https://simpleflying.com/what-pilot-actually-do-hour-by-hour-on-18-hour-new-york-jfk-flight/": "2026-11-14T05:10:34Z",
+    "https://simpleflying.com/why-boeing-787-cockpits-use-electronic-checklists-instead-of-paper/": "2026-11-14T06:00:57Z",
+    "https://www.aero.de/news-54173/FAA-Panne-sorgt-auch-am-Samstag-fuer-Flugusfaelle.html": "2026-11-14T06:00:57Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4724,7 +4726,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T04:30:58Z",
+      "updated": "2026-11-14T06:01:09Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4806,14 +4808,23 @@
           "domain": "aerotime.aero",
           "summary": "As US Transportation Secretary Sean Duffy faces the prospect of hours of congressional grilling over what precisely caused… The post Duffy presses Republican Congress to fund ATC overhaul after nationwide outage appeared first on AeroTime .",
           "published": "2026-11-14T03:31:51Z"
+        },
+        {
+          "id": "21e8a87ef40f8e5d",
+          "feed": "aero.de",
+          "title": "FAA-Panne sorgt auch am Samstag für Flugusfälle",
+          "url": "https://www.aero.de/news-54173/FAA-Panne-sorgt-auch-am-Samstag-fuer-Flugusfaelle.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Nach dem zwischenzeitlichen Startverbot für Flüge in den Vereinigten Staaten fallen heute auch einige Verbindungen aus Frankfurt und München in Richtung USA aus.",
+          "published": "2026-11-14T05:57:55Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 9
+      "written_count": 10
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.923311
+    "2026-11": 4.925561
   }
 }
