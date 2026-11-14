@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/jetblue-cancels-19-routes-from-florida/": "2026-11-04T20:10:37Z",
-    "https://simpleflying.com/7-airlines-largest-dreamliner-fleets-2026/": "2026-11-04T20:10:37Z",
     "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz": "2026-11-04T20:30:52Z",
     "https://www.aerotime.aero/articles/gulfstream-general-dynamics-q3-2026-results": "2026-11-04T21:20:37Z",
     "https://www.aerotime.aero/articles/maxwell-m1-hybrid-amphibious-cargo-aircraft": "2026-11-04T21:20:37Z",
@@ -1469,7 +1467,8 @@
     "https://simpleflying.com/nationwide-ground-stop-caused-same-firm-left-trump-boeing-747-8-security-gaps/": "2026-11-14T19:01:01Z",
     "https://www.aero.de/news-54177/Comac.html": "2026-11-14T19:20:35Z",
     "https://www.twz.com/land/which-guns-and-optics-are-best-according-to-battle-tested-ukrainian-soldiers": "2026-11-14T19:30:50Z",
-    "https://simpleflying.com/delta-air-lines-boston-expansion-safer-bet-postponed-atlanta-riyadh-launch/": "2026-11-14T20:01:06Z"
+    "https://simpleflying.com/delta-air-lines-boston-expansion-safer-bet-postponed-atlanta-riyadh-launch/": "2026-11-14T20:01:06Z",
+    "https://simpleflying.com/emirates-pokes-fun-us-aviation-disaster-ground-stop-microsoft-outage/": "2026-11-14T20:20:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4826,6 +4825,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.959772
+    "2026-11": 4.960559
   }
 }
