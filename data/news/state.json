@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/": "2026-11-04T10:01:02Z",
     "https://simpleflying.com/how-breeze-airways-makes-money-routes-with-just-10-passengers-per-day-each-way/": "2026-11-04T10:20:33Z",
     "https://simpleflying.com/ita-airways-milan-malpensa-u-turn-lima-route/": "2026-11-04T10:20:33Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=40764465-AF22-4A7B-B810-15A35C1691D3": "2026-11-04T10:20:33Z",
@@ -1498,7 +1497,12 @@
     "https://www.air-journal.fr/2026-11-14-airbaltic-reduit-la-voilure-son-accord-avec-lufthansa-passe-de-21-a-six-a220-en-ete-5278846.html": "2026-11-14T09:01:10Z",
     "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile": "2026-11-14T09:10:38Z",
     "https://www.airliners.de/podcast/luftfahrt-podcast-72-condor-ente-drohnenabwehr-stellenabbau-91516": "2026-11-14T09:20:33Z",
-    "https://www.air-journal.fr/2026-11-14-global-airlines-en-liquidation-fin-de-parcours-pour-son-projet-transatlantique-en-airbus-a380-5278829.html": "2026-11-14T10:00:58Z"
+    "https://www.air-journal.fr/2026-11-14-global-airlines-en-liquidation-fin-de-parcours-pour-son-projet-transatlantique-en-airbus-a380-5278829.html": "2026-11-14T10:00:58Z",
+    "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order": "2026-11-14T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=92B35E42-B33E-43B6-A17B-C57FDC4496C6": "2026-11-14T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C09C729F-3025-4EDE-9AD6-131D91316E26": "2026-11-14T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=11FD1805-1CFC-4A90-9C59-43845D4BC041": "2026-11-14T10:10:37Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=DB0A69BD-FAB3-49AD-94BF-1862C7320ED7": "2026-11-14T10:10:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4810,6 +4814,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.938183
+    "2026-11": 4.939068
   }
 }
