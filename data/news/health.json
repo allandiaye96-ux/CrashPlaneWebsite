@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T13:50:34Z",
+  "run": "2026-11-14T14:01:00Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
+    "new": 4,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9464,
+  "spend_month_usd": 4.9473,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -683,6 +683,12 @@
     },
     {
       "dossier": "Suisse F-35 fonds détournés pour Patriot",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Panne technique FAA ground stop Allemagne",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

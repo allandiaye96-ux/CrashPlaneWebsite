@@ -1482,7 +1482,11 @@
     "https://www.aerotime.aero/articles/eve-air-mobilitty-agreement-evtols-brazilian-operator": "2026-11-14T13:10:31Z",
     "https://simpleflying.com/video/short-sighted-delta-ceo-vows-to-fight-heathrow-s-move-to-split-it-from-virgin-atlantic/": "2026-11-14T13:30:51Z",
     "https://airlinegeeks.com/2026/11/14/american-cfo-lays-out-vision-for-reaching-premium-global-status/": "2026-11-14T13:30:51Z",
-    "https://www.twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs": "2026-11-14T13:40:33Z"
+    "https://www.twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs": "2026-11-14T13:40:33Z",
+    "https://simpleflying.com/flair-airlines-eyes-europe-routes/": "2026-11-14T14:01:00Z",
+    "https://simpleflying.com/common-complaint-premium-passengers-have-flying-american-united-airlines-newest-narrowbodies/": "2026-11-14T14:01:00Z",
+    "https://www.aero.de/news-54175/Wie-sicher-ist-die-Technik-in-Deutschland.html": "2026-11-14T14:01:00Z",
+    "https://www.air-journal.fr/2026-11-14-italie-un-record-historique-de-deux-millions-de-vols-en-neuf-mois-5278859.html": "2026-11-14T14:01:00Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4775,10 +4779,31 @@
       ],
       "story_id": "2026-11-14-heathrow-le-pdg-de-delta-critique-le-projet-de-transfert-ver-0b5f",
       "written_count": 1
+    },
+    "cf12ef115a8": {
+      "id": "cf12ef115a8",
+      "label": "Panne technique FAA ground stop Allemagne",
+      "categorie": "Sécurité et réglementation",
+      "importance": 2,
+      "created": "2026-11-14T14:01:09Z",
+      "updated": "2026-11-14T14:01:09Z",
+      "items": [
+        {
+          "id": "169e01f69ce7a0ee",
+          "feed": "aero.de",
+          "title": "Wie sicher ist die Technik in Deutschland",
+          "url": "https://www.aero.de/news-54175/Wie-sicher-ist-die-Technik-in-Deutschland.html",
+          "domain": "aero.de",
+          "summary": "FRANKFURT - Stundenlang bleiben alle Flugzeuge am Boden in den USA - die Auswirkungen der Technik-Panne sind erheblich und auch an deutschen und europäischen Flughäfen zu spüren. Wie konnte es dazu kommen? Und wäre ein solches Chaos auch im deutschen Luftverkehr möglich?",
+          "published": "2026-11-14T13:59:27Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.946411
+    "2026-11": 4.947308
   }
 }
