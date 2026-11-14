@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-14T13:30:51Z",
+  "run": "2026-11-14T13:40:33Z",
   "stats": {
     "fetched": 684,
-    "new": 2,
-    "written": 1,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -140,12 +140,6 @@
       "statut": "corrobore",
       "editeurs": 6,
       "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
-    },
-    {
-      "dossier": "Boeing autorisée vente Belarus Belavia",
-      "statut": "corrobore",
-      "editeurs": 5,
-      "breve": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402"
     },
     {
       "dossier": "NASA annonce avion expérimental X-70 Fractal",

@@ -1482,7 +1482,8 @@
     "https://www.air-journal.fr/2026-11-14-air-new-zealand-les-nouveaux-dreamliner-donnent-des-ailes-au-programme-2027-5278856.html": "2026-11-14T13:01:13Z",
     "https://www.aerotime.aero/articles/eve-air-mobilitty-agreement-evtols-brazilian-operator": "2026-11-14T13:10:31Z",
     "https://simpleflying.com/video/short-sighted-delta-ceo-vows-to-fight-heathrow-s-move-to-split-it-from-virgin-atlantic/": "2026-11-14T13:30:51Z",
-    "https://airlinegeeks.com/2026/11/14/american-cfo-lays-out-vision-for-reaching-premium-global-status/": "2026-11-14T13:30:51Z"
+    "https://airlinegeeks.com/2026/11/14/american-cfo-lays-out-vision-for-reaching-premium-global-status/": "2026-11-14T13:30:51Z",
+    "https://www.twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs": "2026-11-14T13:40:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1532,72 +1533,6 @@
       ],
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
       "written_count": 4
-    },
-    "c4f7de42402": {
-      "id": "c4f7de42402",
-      "label": "Boeing autorisée vente Belarus Belavia",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-02T09:20:47Z",
-      "updated": "2026-11-07T13:30:59Z",
-      "items": [
-        {
-          "id": "0c77640a093db5ea",
-          "feed": "Simple Flying",
-          "title": "Boeing Cleared To Sell Parts & Jets To Belarus Despite Fears They’ll End Up In Russia",
-          "url": "https://simpleflying.com/boeing-cleared-sell-parts-jets-belarus-belavia-despite-russia/",
-          "domain": "simpleflying.com",
-          "summary": "US sanctions on Belavia were initially eased more than a year ago, with the latest approval now allowing the carrier to work directly with Boeing.",
-          "published": "2026-11-02T09:18:59Z"
-        },
-        {
-          "id": "74d71f282dc0fe09",
-          "feed": "AeroTime",
-          "title": "US allows Boeing to work with Belarus’ Belavia, CEO claims",
-          "url": "https://www.aerotime.aero/articles/united-states-boeing-belarus-belavia-ceo",
-          "domain": "aerotime.aero",
-          "summary": "The US Department of Commerce has given Boeing permission to work with Belarus’ national carrier Belavia, according to… The post US allows Boeing to work with Belarus’ Belavia, CEO claims appeared first on AeroTime .",
-          "published": "2026-11-02T10:20:37Z"
-        },
-        {
-          "id": "15a6017744b498f0",
-          "feed": "aero.de",
-          "title": "Bericht: US-Regierung hebt Sanktionen gegen Belavia auf",
-          "url": "https://www.aero.de/news-54066/Bericht-US-Regierung-hebt-Sanktionen-gegen-Belavia-auf.html",
-          "domain": "aero.de",
-          "summary": "MINSK - Belavia kommt wieder über offizielle Bezugsquellen an Ersatzteile für ihre zehn Boeing 737. Das US-Handelsministerium hat Boeing nach Darstellung Weißrusslands die Wiederaufnahme einer Zusammenarbeit mit der seit 2022 sanktionierten staatlichen Fluggesellschaft genehmigt.",
-          "published": "2026-11-02T11:13:16Z"
-        },
-        {
-          "id": "0d4f4b584df8612f",
-          "feed": "Air Journal",
-          "title": "La biélorusse Belavia affirme être autorisée à reprendre ses relations directes avec Boeing",
-          "url": "https://www.air-journal.fr/2026-11-02-la-bielorusse-belavia-affirme-etre-autorisee-a-reprendre-ses-relations-directes-avec-boeing-5278644.html",
-          "domain": "air-journal.fr",
-          "summary": "La compagnie nationale biélorusse Belavia affirme que Washington a autorisé Boeing à reprendre sa coopération directe avec elle. Annoncée le 31 octobre 2026, cette décision doit faciliter l’approvisionnement en pièces détachées et en logiciels pour les avions déjà en service, tout en ouvrant la voie à des discussions sur de futures acquisitions. Une nouvelle étape […]",
-          "published": "2026-11-02T14:00:28Z"
-        },
-        {
-          "id": "49df8358a94ec74a",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Belavia : Washington autorise Boeing à reprendre sa coopération directe avec la compagnie biélorusse",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/belavia-washington-autorise-boeing-a-reprendre-sa-cooperation-directe-avec-la-compagnie-bielorusse-20261102.html",
-          "domain": "journal-aviation.com",
-          "summary": "Le département américain du Commerce a autorisé Boeing à reprendre sa coopération avec Belavia, selon un communiqué du transporteur biélorusse publié le 31 octobre. Selon Belavia, cette décision lui permettra de […] L’article Belavia : Washington autorise Boeing à reprendre sa coopération directe avec la compagnie biélorusse a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-02T15:01:33Z"
-        },
-        {
-          "id": "560265dc6e119206",
-          "feed": "Simple Flying",
-          "title": "Boeing Cleared To Sell Parts & Jets To Belarus Despite Fears They’ll End Up In Russia",
-          "url": "https://simpleflying.com/video/boeing-cleared-to-sell-parts-jets-to-belarus-despite-fears-they-ll-end-up-in-russia/",
-          "domain": "simpleflying.com",
-          "summary": "Boeing has officially been cleared to resume direct business with Belarusian flag carrier Belavia, which flies 12 aircraft from the US planemaker. The airline had been placed under sanctions by the US, but these were initially eased back in September of 2025. Now the US has gone a step further after its Commerce Department licensed Boeing to deal directly with Belavia in terms of both parts and planes.",
-          "published": "2026-11-07T13:28:18Z"
-        }
-      ],
-      "story_id": "2026-11-02-belavia-washington-autoriserait-boeing-a-travailler-avec-la-2402",
-      "written_count": 6
     },
     "c2569f72076": {
       "id": "c2569f72076",
