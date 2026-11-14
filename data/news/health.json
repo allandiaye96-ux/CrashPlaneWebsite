@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-14T22:44:49Z",
+  "run": "2026-11-14T22:50:34Z",
   "stats": {
-    "fetched": 645,
+    "fetched": 684,
     "new": 0,
     "written": 0,
     "held": 0,
@@ -70,8 +70,8 @@
       "items": 10
     },
     "The War Zone": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 39
     },
     "Airbus – Communiqués": {
       "ok": true,
