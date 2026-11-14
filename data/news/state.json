@@ -1466,7 +1466,9 @@
     "https://simpleflying.com/american-launches-7-new-international-routes/": "2026-11-14T18:00:59Z",
     "https://www.aero.de/news-54176/Router-ueberlastete-FAA-System.html": "2026-11-14T18:00:59Z",
     "https://simpleflying.com/riyadh-air-first-airbus-a321neo-pearl-livery-photos/": "2026-11-14T18:29:30Z",
-    "https://simpleflying.com/why-the-worlds-fastest-commerical-aircraft-has-no-winglets/": "2026-11-14T18:40:34Z"
+    "https://simpleflying.com/why-the-worlds-fastest-commerical-aircraft-has-no-winglets/": "2026-11-14T18:40:34Z",
+    "https://simpleflying.com/breeze-airways-taking-spirit-airlines-leftover-leisure-markets-avoiding-big-trunk-routes/": "2026-11-14T19:01:01Z",
+    "https://simpleflying.com/nationwide-ground-stop-caused-same-firm-left-trump-boeing-747-8-security-gaps/": "2026-11-14T19:01:01Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4514,7 +4516,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T18:01:10Z",
+      "updated": "2026-11-14T19:01:14Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4659,10 +4661,19 @@
           "domain": "aero.de",
           "summary": "WASHINGTON - Nach dem stundenlangen landesweiten Flugstopp in den USA soll sich der Flugverkehr bis Sonntagabend wieder vollständig normalisieren.",
           "published": "2026-11-14T18:00:13Z"
+        },
+        {
+          "id": "a453395668b158cb",
+          "feed": "Simple Flying",
+          "title": "Nationwide Ground Stop Caused By Same Firm That Left Trump’s Boeing 747-8 With Security Gaps",
+          "url": "https://simpleflying.com/nationwide-ground-stop-caused-same-firm-left-trump-boeing-747-8-security-gaps/",
+          "domain": "simpleflying.com",
+          "summary": "Technicians switching copper to fiber triggered out of sync data floods across legacy FAA routers and grounded flights.",
+          "published": "2026-11-14T18:57:18Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 16
+      "written_count": 17
     },
     "c8c9ab12da0": {
       "id": "c8c9ab12da0",
@@ -4768,10 +4779,31 @@
       ],
       "story_id": "2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77",
       "written_count": 1
+    },
+    "c6c48e76289": {
+      "id": "c6c48e76289",
+      "label": "Breeze Airways reprend les marchés laissés par Spirit",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-14T19:01:14Z",
+      "updated": "2026-11-14T19:01:14Z",
+      "items": [
+        {
+          "id": "33abdd0f5c5ce932",
+          "feed": "Simple Flying",
+          "title": "Why Breeze Airways Is Taking Spirit Airlines' Leftover Leisure Markets But Avoiding Big Trunk Routes",
+          "url": "https://simpleflying.com/breeze-airways-taking-spirit-airlines-leftover-leisure-markets-avoiding-big-trunk-routes/",
+          "domain": "simpleflying.com",
+          "summary": "The carrier is making the most of the opportunities created by Spirit Airlines' demise.",
+          "published": "2026-11-14T19:00:18Z"
+        }
+      ],
+      "story_id": "2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.955309
+    "2026-11": 4.957838
   }
 }

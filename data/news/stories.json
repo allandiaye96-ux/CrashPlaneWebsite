@@ -1,12 +1,43 @@
 [
   {
+    "id": "2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289",
+    "created": "2026-11-14T19:01:23Z",
+    "updated": "2026-11-14T19:01:23Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "Breeze Airways reprend des marchés loisirs laissés par Spirit Airlines, sans viser les grandes lignes",
+    "chapo": "Selon Simple Flying, la compagnie Breeze Airways profite des opportunités ouvertes par la disparition de Spirit Airlines. L'éditeur indique qu'elle cible des marchés loisirs délaissés plutôt que les grandes lignes principales.",
+    "paragraphes": [
+      "D'après Simple Flying, Breeze Airways tire parti du retrait de Spirit Airlines en se positionnant sur des marchés de loisirs que cette dernière laisse derrière elle. L'article met en avant une stratégie de sélection des routes, la compagnie évitant les grandes lignes au profit de dessertes plus ciblées."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Why Breeze Airways Is Taking Spirit Airlines' Leftover Leisure Markets But Avoiding Big Trunk Routes",
+        "url": "https://simpleflying.com/breeze-airways-taking-spirit-airlines-leftover-leisure-markets-avoiding-big-trunk-routes/",
+        "date": "2026-11-14T19:00:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
     "created": "2026-11-13T21:50:52Z",
     "updated": "2026-11-14T18:01:17Z",
     "version": 7,
     "published": true,
     "hidden": false,
-    "withdrawn": false,
+    "withdrawn": true,
     "categorie": "Aéroports",
     "importance": 3,
     "titre": "États-Unis : arrêt national des décollages levé après environ quatre heures de panne du contrôle aérien",

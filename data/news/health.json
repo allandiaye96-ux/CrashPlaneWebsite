@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T18:50:35Z",
+  "run": "2026-11-14T19:01:01Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
-    "held": 0,
+    "new": 2,
+    "written": 1,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.9553,
+  "spend_month_usd": 4.9578,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -632,6 +632,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77"
+    },
+    {
+      "dossier": "Breeze Airways reprend les marchés laissés par Spirit",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289"
     },
     {
       "dossier": "Japon budget défense F-35 réduction achats",
