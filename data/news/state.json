@@ -1512,7 +1512,8 @@
     "https://www.airliners.de/faa-landesweiter-startstopp-kommunikationsstoerung-usa/91530": "2026-11-13T23:20:37Z",
     "https://simpleflying.com/alaska-airlines-connecting-tokyo-anchorage-only-1-boeing-737/": "2026-11-14T00:00:59Z",
     "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-215": "2026-11-14T00:40:35Z",
-    "https://simpleflying.com/new-boeing-planes-green-before-delivery-airbus-aircraft-arent/": "2026-11-14T01:00:55Z"
+    "https://simpleflying.com/new-boeing-planes-green-before-delivery-airbus-aircraft-arent/": "2026-11-14T01:00:55Z",
+    "https://airlinegeeks.com/2026/11/13/update-duffy-mullin-to-speak-on-groundings-communications-outage/": "2026-11-14T01:30:47Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4734,7 +4735,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-13T23:20:46Z",
+      "updated": "2026-11-14T01:30:57Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4798,14 +4799,23 @@
           "domain": "airliners.de",
           "summary": "Wegen einer Kommunikationsstörung in der Flugsicherung dürfen in den USA keine Flugzeuge mehr starten. Es ist erst der zweite landesweite Startstopp seit den Anschlägen vom 11. September 2001.",
           "published": "2026-11-13T23:10:40Z"
+        },
+        {
+          "id": "81dc57b9248dffa3",
+          "feed": "AirlineGeeks",
+          "title": "Update: Duffy, Mullin to Speak on Groundings, Communications Outage",
+          "url": "https://airlinegeeks.com/2026/11/13/update-duffy-mullin-to-speak-on-groundings-communications-outage/",
+          "domain": "airlinegeeks.com",
+          "summary": "A small number of flights, mostly international, have been cleared for takeoff, but most remain grounded as of Friday evening.",
+          "published": "2026-11-14T01:29:13Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 7
+      "written_count": 8
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.91558
+    "2026-11": 4.917674
   }
 }
