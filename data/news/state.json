@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.twz.com/sea/did-the-blue-wave-just-sink-trumps-battleship": "2026-11-04T23:01:00Z",
     "https://simpleflying.com/ill-fated-learjet-altitude-struggles-severe-turbulence-6-months-ago/": "2026-11-04T23:10:33Z",
     "https://www.air-journal.fr/2026-11-05-le-5-novembre-1908-le-gouvernement-francais-accorde-un-budget-pour-le-developpement-de-la-locomotion-aerienne-5278679.html": "2026-11-04T23:10:33Z",
     "https://simpleflying.com/17-gates-matter-so-much-airlne-carrying-over-60-percent-miami-passengers/": "2026-11-05T00:01:02Z",
@@ -1474,7 +1473,9 @@
     "https://simpleflying.com/how-much-boeing-737-max-pilots-earn-us-carriers/": "2026-11-14T22:30:47Z",
     "https://simpleflying.com/why-did-emirates-order-more-boeing-777x-than-a350/": "2026-11-14T22:30:47Z",
     "https://simpleflying.com/iata-half-air-accident-investigations-lack-final-reports/": "2026-11-14T22:30:47Z",
-    "https://airlinegeeks.com/2026/11/14/american-cco-lays-out-vision-for-reaching-premium-global-status/": "2026-11-14T22:40:32Z"
+    "https://airlinegeeks.com/2026/11/14/american-cco-lays-out-vision-for-reaching-premium-global-status/": "2026-11-14T22:40:32Z",
+    "https://simpleflying.com/hidden-math-delta-air-lines-only-us-carrer-mainline-jets-under-110-seats/": "2026-11-14T23:01:02Z",
+    "https://theaviationist.com/2026/11/14/mi-28-launching-dan-t-low-cost-cruise-missile/": "2026-11-14T23:01:02Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4827,10 +4828,31 @@
       ],
       "story_id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
       "written_count": 1
+    },
+    "c8317a8c3bd": {
+      "id": "c8317a8c3bd",
+      "label": "Mi-28NM lancement missile Dan-T",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-14T23:01:18Z",
+      "updated": "2026-11-14T23:01:18Z",
+      "items": [
+        {
+          "id": "8c8a668dcb852ed3",
+          "feed": "The Aviationist",
+          "title": "Russia’s Mi-28 Attack Helicopter Officially Shown Launching Dan-T Low-Cost Cruise Missile",
+          "url": "https://theaviationist.com/2026/11/14/mi-28-launching-dan-t-low-cost-cruise-missile/",
+          "domain": "theaviationist.com",
+          "summary": "The newly released footage confirms the Mi-28NM as a launch platform for the compact missile, which Russia says can also be deployed from other aircraft and ground-based systems. The Russian Ministry of Defense (MoD) has released footage showing a Mi-28NM attack helicopter launching a Dan-T low-cost cruise missile. The missile was officially presented during September’s […]",
+          "published": "2026-11-14T22:48:03Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.965349
+    "2026-11": 4.966175
   }
 }
