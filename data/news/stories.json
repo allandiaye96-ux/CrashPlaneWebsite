@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
+    "created": "2026-11-13T10:01:14Z",
+    "updated": "2026-11-14T10:01:17Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 3,
+    "titre": "Global Airlines placée en liquidation judiciaire par la justice britannique",
+    "chapo": "Selon AeroTime, la compagnie britannique Global Airlines, qui projetait un réseau transatlantique avec l'Airbus A380, a été placée en liquidation obligatoire. Plusieurs médias spécialisés relaient la décision.",
+    "paragraphes": [
+      "D'après Flightradar24, le tribunal de la High Court of Justice a prononcé l'ordonnance de mise en liquidation à l'encontre de Global Airlines Ltd le 4 novembre 2026. Cette décision a été rendue publique par un avis publié dans The Gazette le 12 novembre.",
+      "Air Journal indique que la compagnie n'a réalisé son projet que par deux allers-retours entre Londres et New York, au printemps 2025. Simple Flying s'interroge de son côté sur le sort de l'unique A380 de la flotte, dont les liquidateurs pourraient avoir du mal à assurer l'entretien."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 4,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "AeroTime",
+        "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
+        "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
+        "date": "2026-11-13T09:38:43Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Global Airlines Ordered Into Liquidation: What’s Next For Its Lone Airbus A380?",
+        "url": "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/",
+        "date": "2026-11-13T15:30:59Z",
+        "official": false
+      },
+      {
+        "name": "Flightradar24 – Blog",
+        "title": "The End of Global Airlines?",
+        "url": "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/",
+        "date": "2026-11-13T15:37:16Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Global Airlines en liquidation : fin de parcours pour son projet transatlantique en Airbus A380",
+        "url": "https://www.air-journal.fr/2026-11-14-global-airlines-en-liquidation-fin-de-parcours-pour-son-projet-transatlantique-en-airbus-a380-5278829.html",
+        "date": "2026-11-14T10:00:05Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
     "created": "2026-11-12T08:01:17Z",
     "updated": "2026-11-14T09:01:24Z",
@@ -427,52 +480,6 @@
         "title": "American, Delta & United Launch 24 Nonstop Transatlantic Routes: See Full List Now",
         "url": "https://simpleflying.com/american-delta-united-launch-24-transatlantic-routes/",
         "date": "2026-11-13T16:00:20Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
-    "created": "2026-11-13T10:01:14Z",
-    "updated": "2026-11-13T15:50:48Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 3,
-    "titre": "Global Airlines placée en liquidation obligatoire par un tribunal britannique",
-    "chapo": "Selon AeroTime, la compagnie britannique Global Airlines, projet de transport transatlantique fondé sur l'Airbus A380, a été placée en liquidation obligatoire par la justice du Royaume-Uni. Flightradar24 précise que l'ordonnance a été rendue le 4 novembre 2026.",
-    "paragraphes": [
-      "D'après Flightradar24, la High Court of Justice a prononcé la mise en liquidation de Global Airlines Ltd le 4 novembre 2026, information publiée dans The Gazette le 12 novembre. Le blog cite cette publication officielle comme point de départ de la procédure.",
-      "Simple Flying souligne que les liquidateurs pourraient avoir des difficultés à gérer le seul A380 de la compagnie, un appareil qui nécessite de la maintenance."
-    ],
-    "contradictions": "",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 3,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AeroTime",
-        "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
-        "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
-        "date": "2026-11-13T09:38:43Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Global Airlines Ordered Into Liquidation: What’s Next For Its Lone Airbus A380?",
-        "url": "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/",
-        "date": "2026-11-13T15:30:59Z",
-        "official": false
-      },
-      {
-        "name": "Flightradar24 – Blog",
-        "title": "The End of Global Airlines?",
-        "url": "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/",
-        "date": "2026-11-13T15:37:16Z",
         "official": false
       }
     ]

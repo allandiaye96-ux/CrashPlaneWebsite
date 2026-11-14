@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T09:50:33Z",
+  "run": "2026-11-14T10:00:58Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9364,
+  "spend_month_usd": 4.9382,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -178,6 +178,12 @@
       "breve": "2026-11-10-embraer-releve-ses-previsions-de-chiffre-d-affaires-et-de-tr-f208"
     },
     {
+      "dossier": "Global Airlines liquidation obligatoire",
+      "statut": "corrobore",
+      "editeurs": 4,
+      "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
+    },
+    {
       "dossier": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
       "statut": "corrobore",
       "editeurs": 3,
@@ -260,12 +266,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
-    },
-    {
-      "dossier": "Global Airlines liquidation obligatoire",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
     },
     {
       "dossier": "Drone explosif Leipzig/Halle",
