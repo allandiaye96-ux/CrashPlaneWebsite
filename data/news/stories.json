@@ -1,5 +1,86 @@
 [
   {
+    "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
+    "created": "2026-11-13T21:50:52Z",
+    "updated": "2026-11-14T04:31:06Z",
+    "version": 4,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Sécurité et réglementation",
+    "importance": 3,
+    "titre": "États-Unis : la FAA ordonne un arrêt national des départs après une panne de communications du contrôle aérien",
+    "chapo": "Selon AeroTime, la FAA américaine a ordonné un arrêt national des départs de vols, vendredi en fin d'après-midi, à cause de problèmes de communication dans la gestion du trafic aérien. Les causes de la panne ne sont pas établies à ce stade.",
+    "paragraphes": [
+      "D'après The Air Current, l'ordre a été émis à 3:44 p.m. heure de l'Est après des coupures de télécommunications dans des centres de contrôle aérien, qui ont perturbé les radars et les fréquences radio utilisées par les contrôleurs et les pilotes. Le secrétaire aux Transports Sean Duffy a indiqué sur la plateforme X que des techniciens de la FAA travaillaient sur le problème.",
+      "Selon AirlineGeeks, quelques vols, pour la plupart internationaux, ont reçu l'autorisation de décoller en fin de vendredi, tandis que la majorité restait clouée au sol. TWZ souligne qu'il s'agit seulement de la troisième fois de l'histoire qu'un tel ordre est donné par la FAA. Le lendemain, AeroTime rapporte que M. Duffy fait face à des auditions au Congrès sur les causes de la panne et demande des fonds pour moderniser le contrôle aérien."
+    ],
+    "contradictions": "Les sources divergent sur l'heure de l'ordre : AeroTime évoque « shortly before 4 p.m. Eastern time », tandis que The Air Current indique 3:44 p.m. Eastern time. Source [5] parle de « deuxième » arrêt national depuis le 11 septembre 2001, alors que TWZ parle du « troisième » ordre de ce type de l'histoire de la FAA ; ces deux formulations ne concernent pas nécessairement le même décompte.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 7,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "Breaking: FAA Issues Nationwide Ground Stop For All US Flights",
+        "url": "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/",
+        "date": "2026-11-13T21:41:18Z",
+        "official": false
+      },
+      {
+        "name": "The War Zone",
+        "title": "FAA Orders Ground Stop For All Flights Across The U.S.",
+        "url": "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
+        "date": "2026-11-13T21:46:29Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "FAA halts all US departures, warns airborne flights to expect holding nationwide",
+        "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026",
+        "date": "2026-11-13T21:53:31Z",
+        "official": false
+      },
+      {
+        "name": "The Air Current",
+        "title": "U.S. halts flight departures nationwide on air traffic communications outage",
+        "url": "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/",
+        "date": "2026-11-13T22:56:24Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "Landesweiter Flugstopp an US-Flughäfen",
+        "url": "https://www.aero.de/news-54172/Landesweiter-Flugstopp-an-US-Flughaefen.html",
+        "date": "2026-11-13T23:05:29Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "FAA verhängt landesweiten Startstopp nach Kommunikationsstörung",
+        "url": "https://www.airliners.de/faa-landesweiter-startstopp-kommunikationsstoerung-usa/91530",
+        "date": "2026-11-13T23:10:40Z",
+        "official": false
+      },
+      {
+        "name": "AirlineGeeks",
+        "title": "Update: Duffy, Mullin to Speak on Groundings, Communications Outage",
+        "url": "https://airlinegeeks.com/2026/11/13/update-duffy-mullin-to-speak-on-groundings-communications-outage/",
+        "date": "2026-11-14T01:29:13Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "Duffy presses Republican Congress to fund ATC overhaul after nationwide outage",
+        "url": "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage",
+        "date": "2026-11-14T03:31:51Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429",
     "created": "2026-11-14T02:40:50Z",
     "updated": "2026-11-14T02:40:50Z",
@@ -34,66 +115,6 @@
         "title": "White House Urges Congress To Approve $30 Billion In Upgrades To US Aviation Infrastructure",
         "url": "https://simpleflying.com/white-house-urge-congress-approve-30-billion-upgrades-us-aviation-infrastructure/",
         "date": "2026-11-14T02:33:55Z",
-        "official": false
-      }
-    ]
-  },
-  {
-    "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-    "created": "2026-11-13T21:50:52Z",
-    "updated": "2026-11-13T23:01:17Z",
-    "version": 3,
-    "published": true,
-    "hidden": false,
-    "withdrawn": true,
-    "categorie": "Sécurité et réglementation",
-    "importance": 3,
-    "titre": "États-Unis : la FAA ordonne un arrêt national des départs de vols après une panne des communications du contrôle aérien",
-    "chapo": "Selon AeroTime, la FAA américaine a ordonné un arrêt national des départs peu avant 4 p.m. heure de l'Est. D'après The Air Current, la mesure fait suite à des pannes de télécommunications dans des centres de contrôle aérien.",
-    "paragraphes": [
-      "Selon The Air Current, les autorités américaines ont décidé de suspendre les départs dans tout le pays un vendredi, après des coupures de télécommunications qui ont perturbé les fréquences radar et radio utilisées par les contrôleurs et les pilotes. Le ground stop a été émis à 3:44 p.m. heure de l'Est.",
-      "Simple Flying évoque des problèmes de communication invoqués par l'agence pour justifier cet arrêt. D'après The War Zone, il s'agit seulement de la troisième fois de l'histoire que la FAA prend une telle mesure. AeroTime indique par ailleurs que les vols en vol devront s'attendre à des mises en attente à l'échelle nationale."
-    ],
-    "contradictions": "Les sources donnent deux heures différentes pour le déclenchement : « shortly before 4 p.m. Eastern time » selon AeroTime et 3:44 p.m. Eastern time selon The Air Current, qui est cohérent avec « peu avant 4 p.m. ». Aucune contradiction sur le fond.",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 5,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "AirlineGeeks",
-        "title": "FAA Orders Nationwide Ground Stop",
-        "url": "https://airlinegeeks.com/2026/11/13/faa-orders-nationwide-ground-stop/",
-        "date": "2026-11-13T21:27:13Z",
-        "official": false
-      },
-      {
-        "name": "Simple Flying",
-        "title": "Breaking: FAA Issues Nationwide Ground Stop For All US Flights",
-        "url": "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/",
-        "date": "2026-11-13T21:41:18Z",
-        "official": false
-      },
-      {
-        "name": "The War Zone",
-        "title": "FAA Orders Ground Stop For All Flights Across The U.S.",
-        "url": "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
-        "date": "2026-11-13T21:46:29Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "FAA halts all US departures, warns airborne flights to expect holding nationwide",
-        "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026",
-        "date": "2026-11-13T21:53:31Z",
-        "official": false
-      },
-      {
-        "name": "The Air Current",
-        "title": "U.S. halts flight departures nationwide on air traffic communications outage",
-        "url": "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/",
-        "date": "2026-11-13T22:56:24Z",
         "official": false
       }
     ]

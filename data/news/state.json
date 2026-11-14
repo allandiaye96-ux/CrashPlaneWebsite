@@ -1515,7 +1515,8 @@
     "https://airlinegeeks.com/2026/11/13/update-duffy-mullin-to-speak-on-groundings-communications-outage/": "2026-11-14T01:30:47Z",
     "https://simpleflying.com/airbus-clever-engineering-tricks-a330-butter-machine/": "2026-11-14T02:00:55Z",
     "https://simpleflying.com/white-house-urge-congress-approve-30-billion-upgrades-us-aviation-infrastructure/": "2026-11-14T02:40:35Z",
-    "https://simpleflying.com/the-us-navy-retired-100-pound-cargo-workhourse-tiltrotor-carries-4000-pounds-less/": "2026-11-14T02:50:39Z"
+    "https://simpleflying.com/the-us-navy-retired-100-pound-cargo-workhourse-tiltrotor-carries-4000-pounds-less/": "2026-11-14T02:50:39Z",
+    "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage": "2026-11-14T04:30:45Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4746,7 +4747,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T01:30:57Z",
+      "updated": "2026-11-14T04:30:58Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4819,14 +4820,23 @@
           "domain": "airlinegeeks.com",
           "summary": "A small number of flights, mostly international, have been cleared for takeoff, but most remain grounded as of Friday evening.",
           "published": "2026-11-14T01:29:13Z"
+        },
+        {
+          "id": "97a36f5a4a6caa97",
+          "feed": "AeroTime",
+          "title": "Duffy presses Republican Congress to fund ATC overhaul after nationwide outage",
+          "url": "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage",
+          "domain": "aerotime.aero",
+          "summary": "As US Transportation Secretary Sean Duffy faces the prospect of hours of congressional grilling over what precisely caused… The post Duffy presses Republican Congress to fund ATC overhaul after nationwide outage appeared first on AeroTime .",
+          "published": "2026-11-14T03:31:51Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 8
+      "written_count": 9
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.920394
+    "2026-11": 4.92254
   }
 }
