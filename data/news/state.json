@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/11/04/avair-secures-us170m-to-fund-expansion/": "2026-11-04T06:30:52Z",
-    "https://avitrader.com/2026/11/04/airbus-aliaca-vtol-drone-cleared-for-french-navy/": "2026-11-04T06:40:33Z",
-    "https://www.aero.de/news-54087/Fraport-sieht-sich-trotz-Iran-Kriegs-auf-Kurs.html": "2026-11-04T06:40:33Z",
     "https://australianaviation.com.au/2026/11/video-podcast-hack-me-amadeus/": "2026-11-04T06:50:37Z",
     "https://australianaviation.com.au/2026/11/rex-and-flypelican-return-to-sydneys-terminal-2/": "2026-11-04T06:50:37Z",
     "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/": "2026-11-04T06:50:37Z",
@@ -1513,7 +1510,8 @@
     "https://simpleflying.com/why-boeing-787-cockpits-use-electronic-checklists-instead-of-paper/": "2026-11-14T06:00:57Z",
     "https://www.aero.de/news-54173/FAA-Panne-sorgt-auch-am-Samstag-fuer-Flugusfaelle.html": "2026-11-14T06:00:57Z",
     "https://www.air-journal.fr/2026-11-14-panne-du-controle-aerien-aux-etats-unis-la-suspension-des-decollages-levee-les-perturbations-se-prolongent-5278855.html": "2026-11-14T06:10:33Z",
-    "https://www.airliners.de/industrie-technik-emirates-777x-2027-deutsche-aircraft-kunden-boeing-streicht-stellen/91521": "2026-11-14T06:20:37Z"
+    "https://www.airliners.de/industrie-technik-emirates-777x-2027-deutsche-aircraft-kunden-boeing-streicht-stellen/91521": "2026-11-14T06:20:37Z",
+    "https://www.aero.de/news-54167/SpaceX-faengt-seine-Riesenrakete-wieder-ein.html": "2026-11-14T06:40:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4780,6 +4778,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.928549
+    "2026-11": 4.929329
   }
 }
