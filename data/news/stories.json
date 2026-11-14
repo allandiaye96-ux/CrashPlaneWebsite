@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
+    "created": "2026-11-14T19:20:51Z",
+    "updated": "2026-11-14T19:20:51Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Constructeurs et industrie",
+    "importance": 2,
+    "titre": "Comac fait voler CE-25A, un prototype d'avion électrique à batterie",
+    "chapo": "Selon aero.de, le constructeur chinois Comac a fait voler pour la première fois son prototype électrique CE-25A, un appareil à propulsion par batterie.",
+    "paragraphes": [
+      "Le vol est présenté comme un premier essai en vol de cet appareil, dont le fonctionnement est alimenté par batterie. Comac travaille sur ce projet d'avion électrique, d'après le même éditeur, qui rapporte l'événement depuis Binzhou."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Comac E-Flugzeug dreht erste Testrunde",
+        "url": "https://www.aero.de/news-54177/Comac.html",
+        "date": "2026-11-14T19:18:58Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289",
     "created": "2026-11-14T19:01:23Z",
     "updated": "2026-11-14T19:01:23Z",

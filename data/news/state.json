@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/american-airlines-launches-10-new-boeing-777-routes/": "2026-11-04T19:10:41Z",
-    "https://www.twz.com/land/which-guns-and-optics-are-best-according-to-battle-tested-ukrainian-soldiers": "2026-11-04T19:20:34Z",
     "https://simpleflying.com/jetblue-cancels-19-routes-from-florida/": "2026-11-04T20:10:37Z",
     "https://simpleflying.com/7-airlines-largest-dreamliner-fleets-2026/": "2026-11-04T20:10:37Z",
     "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz": "2026-11-04T20:30:52Z",
@@ -1468,7 +1466,8 @@
     "https://simpleflying.com/riyadh-air-first-airbus-a321neo-pearl-livery-photos/": "2026-11-14T18:29:30Z",
     "https://simpleflying.com/why-the-worlds-fastest-commerical-aircraft-has-no-winglets/": "2026-11-14T18:40:34Z",
     "https://simpleflying.com/breeze-airways-taking-spirit-airlines-leftover-leisure-markets-avoiding-big-trunk-routes/": "2026-11-14T19:01:01Z",
-    "https://simpleflying.com/nationwide-ground-stop-caused-same-firm-left-trump-boeing-747-8-security-gaps/": "2026-11-14T19:01:01Z"
+    "https://simpleflying.com/nationwide-ground-stop-caused-same-firm-left-trump-boeing-747-8-security-gaps/": "2026-11-14T19:01:01Z",
+    "https://www.aero.de/news-54177/Comac.html": "2026-11-14T19:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4800,10 +4799,31 @@
       ],
       "story_id": "2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289",
       "written_count": 1
+    },
+    "c46f12057c8": {
+      "id": "c46f12057c8",
+      "label": "COMAC CE-25A avion électrique premier vol",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-14T19:20:49Z",
+      "updated": "2026-11-14T19:20:49Z",
+      "items": [
+        {
+          "id": "fdb0e284f7d5a10f",
+          "feed": "aero.de",
+          "title": "Comac E-Flugzeug dreht erste Testrunde",
+          "url": "https://www.aero.de/news-54177/Comac.html",
+          "domain": "aero.de",
+          "summary": "BINZHOU - COMAC arbeitet an einem E-Flugzeug. Der batteriebetriebene Prototyp CE-25A ist jetzt zum ersten Mal geflogen.",
+          "published": "2026-11-14T19:18:58Z"
+        }
+      ],
+      "story_id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.957838
+    "2026-11": 4.958979
   }
 }

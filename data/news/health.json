@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T19:10:34Z",
+  "run": "2026-11-14T19:20:35Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9578,
+  "spend_month_usd": 4.959,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -638,6 +638,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289"
+    },
+    {
+      "dossier": "COMAC CE-25A avion électrique premier vol",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8"
     },
     {
       "dossier": "Japon budget défense F-35 réduction achats",

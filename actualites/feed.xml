@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 14 Nov 2026 19:10:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 19:20:51 +0000</lastBuildDate>
+  <item>
+    <title>Comac fait voler CE-25A, un prototype d&#x27;avion électrique à batterie</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8/</guid>
+    <pubDate>Sat, 14 Nov 2026 19:20:51 +0000</pubDate>
+    <category>Constructeurs et industrie</category>
+    <description>Selon aero.de, le constructeur chinois Comac a fait voler pour la première fois son prototype électrique CE-25A, un appareil à propulsion par batterie.</description>
+  </item>
   <item>
     <title>Breeze Airways reprend des marchés loisirs laissés par Spirit Airlines, sans viser les grandes lignes</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 12 Nov 2026 08:20:49 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon airliners.de, Etihad Airways va réduire à partir de janvier 2027 son offre sur de nombreuses lignes au départ d&#x27;Abu Dhabi, notamment vers Francfort et Düsseldorf.</description>
-  </item>
-  <item>
-    <title>airBaltic réduit sa flotte d&#x27;A220-300 dans le cadre de sa restructuration</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf/</guid>
-    <pubDate>Thu, 12 Nov 2026 08:01:17 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon aero.de, la compagnie lettone airBaltic rend 18 de ses 54 Airbus A220-300 à des sociétés de leasing avant leur terme. Selon airliners.de, elle veut aussi restituer trois appareils supplémentaires.</description>
   </item>
 </channel>
 </rss>
