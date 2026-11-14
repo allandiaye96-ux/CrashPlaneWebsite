@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/eve-air-mobilitty-agreement-evtols-brazilian-operator": "2026-11-04T12:50:34Z",
-    "https://theaviationist.com/2026/11/04/first-hh-60w-joint-base-andrews/": "2026-11-04T12:50:34Z",
-    "https://www.air-journal.fr/2026-11-04-deroutements-avions-de-chasse-fouilles-des-alertes-a-la-bombe-perturbent-plusieurs-vols-en-europe-5278673.html": "2026-11-04T13:01:06Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/lufthansa-signe-laccord-pour-la-prise-de-participation-dans-tap-air-portugal-20261104.html": "2026-11-04T13:20:36Z",
     "https://www.twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs": "2026-11-04T13:30:51Z",
     "https://www.aero.de/news-54092/Flughafen-beordert-Flug-von-Air-Serbia-zurueck.html": "2026-11-04T13:30:51Z",
@@ -1483,7 +1480,9 @@
     "https://simpleflying.com/rock-bands-mid-air-concert-southwest-faa-ground-stop/": "2026-11-14T12:00:58Z",
     "https://www.aerotime.aero/articles/indigo-explores-large-regional-jet-order-with-embraer-reuters": "2026-11-14T12:10:36Z",
     "https://www.aerotime.aero/articles/finland-hornets-highway-strip-protective-fence-26-ace": "2026-11-14T12:10:36Z",
-    "https://www.air-journal.fr/2026-11-14-air-cote-divoire-un-club-prive-et-des-rencontres-exclusives-pour-ses-voyageurs-fideles-5278864.html": "2026-11-14T12:10:36Z"
+    "https://www.air-journal.fr/2026-11-14-air-cote-divoire-un-club-prive-et-des-rencontres-exclusives-pour-ses-voyageurs-fideles-5278864.html": "2026-11-14T12:10:36Z",
+    "https://simpleflying.com/how-much-wider-boeing-787-fuselage-compared-767/": "2026-11-14T13:01:13Z",
+    "https://www.air-journal.fr/2026-11-14-air-new-zealand-les-nouveaux-dreamliner-donnent-des-ailes-au-programme-2027-5278856.html": "2026-11-14T13:01:13Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4825,6 +4824,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.944379
+    "2026-11": 4.945204
   }
 }

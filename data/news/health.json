@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T12:50:33Z",
+  "run": "2026-11-14T13:01:13Z",
   "stats": {
-    "fetched": 684,
-    "new": 0,
+    "fetched": 674,
+    "new": 2,
     "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9444,
+  "spend_month_usd": 4.9452,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
