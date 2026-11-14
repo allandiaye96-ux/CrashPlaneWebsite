@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T17:40:32Z",
+  "run": "2026-11-14T17:50:31Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 1,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9505,
+  "spend_month_usd": 4.9516,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -626,6 +626,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-14-heathrow-le-pdg-de-delta-critique-le-projet-de-transfert-ver-0b5f"
+    },
+    {
+      "dossier": "United demande ground stop O'Hare congestion",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77"
     },
     {
       "dossier": "Japon budget défense F-35 réduction achats",

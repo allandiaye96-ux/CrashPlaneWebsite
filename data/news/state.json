@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition": "2026-11-04T17:40:34Z",
     "https://simpleflying.com/5-boeing-787-9-fleets-40-business-class-seats/": "2026-11-04T18:01:03Z",
     "https://airlinegeeks.com/2026/11/04/qatar-launches-two-south-american-destinations/": "2026-11-04T18:01:03Z",
     "https://simpleflying.com/american-airlines-launches-10-new-boeing-777-routes/": "2026-11-04T19:10:41Z",
@@ -1462,7 +1461,8 @@
     "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans": "2026-11-14T16:00:59Z",
     "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m": "2026-11-14T16:00:59Z",
     "https://simpleflying.com/delta-air-lines-replaced-unique-boeing-777-200lrs-new-airbus-a350s-casm-too-much/": "2026-11-14T16:00:59Z",
-    "https://simpleflying.com/how-many-crew-members-fly-e-4b-nightwatch/": "2026-11-14T17:01:00Z"
+    "https://simpleflying.com/how-many-crew-members-fly-e-4b-nightwatch/": "2026-11-14T17:01:00Z",
+    "https://simpleflying.com/united-airlines-requests-ground-stop-chicago-ohare-influx-arrivals/": "2026-11-14T17:50:31Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4734,10 +4734,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c8d9f179a77": {
+      "id": "c8d9f179a77",
+      "label": "United demande ground stop O'Hare congestion",
+      "categorie": "Aéroports",
+      "importance": 2,
+      "created": "2026-11-14T17:50:41Z",
+      "updated": "2026-11-14T17:50:41Z",
+      "items": [
+        {
+          "id": "7e4addcb6abf2853",
+          "feed": "Simple Flying",
+          "title": "United Airlines Requests Ground Stop At Chicago O’Hare To Manage Influx Of Arrivals",
+          "url": "https://simpleflying.com/united-airlines-requests-ground-stop-chicago-ohare-influx-arrivals/",
+          "domain": "simpleflying.com",
+          "summary": "United sought a targeted halt to relieve severe gate congestion after a nationwide outage left crews and aircraft displaced.",
+          "published": "2026-11-14T17:42:10Z"
+        }
+      ],
+      "story_id": "2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.950461
+    "2026-11": 4.95159
   }
 }

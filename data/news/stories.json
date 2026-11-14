@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77",
+    "created": "2026-11-14T17:50:43Z",
+    "updated": "2026-11-14T17:50:43Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "United Airlines demande un arrêt ciblé des départs à Chicago O'Hare",
+    "chapo": "Selon Simple Flying, United Airlines a sollicité un arrêt ciblé des départs à l'aéroport de Chicago O'Hare afin de gérer un afflux d'arrivées.",
+    "paragraphes": [
+      "D'après le même article, la compagnie cherchait à réduire une forte congestion aux portes, consécutive à une panne à l'échelle nationale ayant laissé des équipages et des avions déplacés.",
+      "Les éléments disponibles à ce stade ne permettent pas de détailler la durée de la mesure ni son application effective."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "United Airlines Requests Ground Stop At Chicago O’Hare To Manage Influx Of Arrivals",
+        "url": "https://simpleflying.com/united-airlines-requests-ground-stop-chicago-ohare-influx-arrivals/",
+        "date": "2026-11-14T17:42:10Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-14-heathrow-le-pdg-de-delta-critique-le-projet-de-transfert-ver-0b5f",
     "created": "2026-11-14T13:31:06Z",
     "updated": "2026-11-14T13:31:06Z",

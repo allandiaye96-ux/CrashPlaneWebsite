@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sat, 14 Nov 2026 17:40:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 17:50:43 +0000</lastBuildDate>
+  <item>
+    <title>United Airlines demande un arrêt ciblé des départs à Chicago O&#x27;Hare</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77/</guid>
+    <pubDate>Sat, 14 Nov 2026 17:50:43 +0000</pubDate>
+    <category>Compagnies</category>
+    <description>Selon Simple Flying, United Airlines a sollicité un arrêt ciblé des départs à l&#x27;aéroport de Chicago O&#x27;Hare afin de gérer un afflux d&#x27;arrivées.</description>
+  </item>
   <item>
     <title>Heathrow : le PDG de Delta critique le projet de transfert vers le Terminal 4 en 2028</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-14-heathrow-le-pdg-de-delta-critique-le-projet-de-transfert-ver-0b5f/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 12 Nov 2026 07:31:05 +0000</pubDate>
     <category>Compagnies</category>
     <description>Selon Le Journal de l&#x27;Aviation, la compagnie slovaque AirExplore a définitivement suspendu ses opérations. D&#x27;après Air Journal, elle a cessé son activité le 10 novembre.</description>
-  </item>
-  <item>
-    <title>United Airlines restreint l&#x27;accès des agents IA à ses plateformes numériques</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc/</guid>
-    <pubDate>Thu, 12 Nov 2026 07:01:17 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon AeroTime, United Airlines a annoncé le 11 novembre 2026 limiter l&#x27;accès des agents IA tiers à ses plateformes numériques. La compagnie invoque la sécurité des données.</description>
   </item>
 </channel>
 </rss>
