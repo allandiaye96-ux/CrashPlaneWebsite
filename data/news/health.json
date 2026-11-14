@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T06:00:57Z",
+  "run": "2026-11-14T06:10:33Z",
   "stats": {
     "fetched": 684,
-    "new": 2,
+    "new": 1,
     "written": 0,
     "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.9256,
+  "spend_month_usd": 4.9278,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -120,7 +120,7 @@
     {
       "dossier": "FAA ground stop national (problème ATC)",
       "statut": "corrobore",
-      "editeurs": 7,
+      "editeurs": 8,
       "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
     },
     {
@@ -422,12 +422,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Singapore Airlines nouvelles cabines long-courriers 6 novembre",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6"
     },
     {
       "dossier": "Grandes compagnies chinoises pertes 2026",

@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/11/04/willis-lease-finance-posts-us246-3-million-quarterly-revenue/": "2026-11-04T06:01:01Z",
-    "https://www.air-journal.fr/2026-11-04-ita-airways-prepare-son-retour-a-milan-malpensa-pour-couper-la-route-a-emirates-vers-lima-5278664.html": "2026-11-04T06:01:01Z",
     "https://avitrader.com/2026/11/04/lufthansa-seals-e1-025bn-deal-for-tap-stake/": "2026-11-04T06:20:35Z",
     "https://www.airliners.de/politik-gesellschaft-emirates-klarheit-merz-luftverkehrsteuer-kerosinkosten-ryanair-druck/91302": "2026-11-04T06:20:35Z",
     "https://www.airliners.de/condor-tarifkommission-wirft-vc-vorstand-eingriffe-abstimmung-zukunftspaket/91266": "2026-11-04T06:20:35Z",
@@ -1516,7 +1514,8 @@
     "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage": "2026-11-14T04:30:45Z",
     "https://simpleflying.com/what-pilot-actually-do-hour-by-hour-on-18-hour-new-york-jfk-flight/": "2026-11-14T05:10:34Z",
     "https://simpleflying.com/why-boeing-787-cockpits-use-electronic-checklists-instead-of-paper/": "2026-11-14T06:00:57Z",
-    "https://www.aero.de/news-54173/FAA-Panne-sorgt-auch-am-Samstag-fuer-Flugusfaelle.html": "2026-11-14T06:00:57Z"
+    "https://www.aero.de/news-54173/FAA-Panne-sorgt-auch-am-Samstag-fuer-Flugusfaelle.html": "2026-11-14T06:00:57Z",
+    "https://www.air-journal.fr/2026-11-14-panne-du-controle-aerien-aux-etats-unis-la-suspension-des-decollages-levee-les-perturbations-se-prolongent-5278855.html": "2026-11-14T06:10:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -2088,27 +2087,6 @@
       ],
       "story_id": "2026-11-07-southwest-un-737-max-a-vole-44-fois-avec-des-degats-de-tempe-8767",
       "written_count": 2
-    },
-    "c48d46f7ad6": {
-      "id": "c48d46f7ad6",
-      "label": "Singapore Airlines nouvelles cabines long-courriers 6 novembre",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-07T06:01:16Z",
-      "updated": "2026-11-07T06:01:16Z",
-      "items": [
-        {
-          "id": "c76a9a3d246ee88f",
-          "feed": "Air Journal",
-          "title": "Lits doubles et suites à portes : Singapore Airlines dévoile ses nouvelles cabines",
-          "url": "https://www.air-journal.fr/2026-11-07-lits-doubles-et-suites-a-portes-singapore-airlines-devoile-ses-nouvelles-cabines-5278711.html",
-          "domain": "air-journal.fr",
-          "summary": "Singapore Airlines a présenté le 6 novembre à Singapour ses nouvelles cabines long-courriers, au cœur d’un investissement de plus de 2 milliards de dollars singapouriens. Leur déploiement commencera au second semestre 2027 sur une partie de ses Airbus A350, puis accompagnera l’arrivée des Boeing 777-9. Première classe, affaires, divertissement, restauration et services au sol : […]",
-          "published": "2026-11-07T06:00:02Z"
-        }
-      ],
-      "story_id": "2026-11-07-singapore-airlines-revele-ses-futures-cabines-long-courrier-7ad6",
-      "written_count": 1
     },
     "c12852d88c2": {
       "id": "c12852d88c2",
@@ -4726,7 +4704,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T06:01:09Z",
+      "updated": "2026-11-14T06:10:45Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4817,14 +4795,23 @@
           "domain": "aero.de",
           "summary": "FRANKFURT - Nach dem zwischenzeitlichen Startverbot für Flüge in den Vereinigten Staaten fallen heute auch einige Verbindungen aus Frankfurt und München in Richtung USA aus.",
           "published": "2026-11-14T05:57:55Z"
+        },
+        {
+          "id": "37439024a513ae0b",
+          "feed": "Air Journal",
+          "title": "Panne du contrôle aérien aux États-Unis : la suspension des décollages levée, les perturbations se prolongent",
+          "url": "https://www.air-journal.fr/2026-11-14-panne-du-controle-aerien-aux-etats-unis-la-suspension-des-decollages-levee-les-perturbations-se-prolongent-5278855.html",
+          "domain": "air-journal.fr",
+          "summary": "La Federal Aviation Administration (FAA) a levé, vendredi 13 novembre à 20 h 15, heure de la côte Est, soit samedi à 2 h 15 à Paris, la suspension nationale des décollages imposée après une panne de télécommunications du contrôle aérien. L’interruption, qui a duré plus de quatre heures, a provoqué des milliers d’annulations et […]",
+          "published": "2026-11-14T06:00:47Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 10
+      "written_count": 11
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.925561
+    "2026-11": 4.927768
   }
 }
