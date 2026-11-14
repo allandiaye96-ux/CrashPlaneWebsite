@@ -1482,7 +1482,9 @@
     "https://www.aero.de/news-54175/Wie-sicher-ist-die-Technik-in-Deutschland.html": "2026-11-14T14:01:00Z",
     "https://www.air-journal.fr/2026-11-14-italie-un-record-historique-de-deux-millions-de-vols-en-neuf-mois-5278859.html": "2026-11-14T14:01:00Z",
     "https://leehamnews.com/2026/11/04/scott-kirby-laments-long-wait-for-airbus-and-boeing-to-build-new-aircraft/": "2026-11-14T14:30:47Z",
-    "https://simpleflying.com/how-fast-the-b-2-spirit-bomber-can-fly/": "2026-11-14T14:40:37Z"
+    "https://simpleflying.com/how-fast-the-b-2-spirit-bomber-can-fly/": "2026-11-14T14:40:37Z",
+    "https://simpleflying.com/rolls-royce-trent-xwb-engine-cost/": "2026-11-14T15:00:59Z",
+    "https://www.air-journal.fr/2026-11-14-toulouse-blagnac-le-trafic-progresse-de-46-au-troisieme-trimestre-2026-5278869.html": "2026-11-14T15:00:59Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4758,6 +4760,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.948082
+    "2026-11": 4.948905
   }
 }
