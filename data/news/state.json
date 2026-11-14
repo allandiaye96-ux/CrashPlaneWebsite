@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/": "2026-11-04T16:50:48Z",
     "https://simpleflying.com/breeze-airways-cancels-11-nonstop-routes/": "2026-11-04T17:01:07Z",
     "https://simpleflying.com/why-cargo-airline-broke-3-decades-boeing-widebody-loyalty-give-airbus-1-order/": "2026-11-04T17:01:07Z",
     "https://www.airliners.de/video/airlinersde-spieleabend-3-flughafen-kaffee-problem-e-gepaeckanlage-91308": "2026-11-04T17:20:38Z",
@@ -1468,7 +1467,8 @@
     "https://www.air-journal.fr/2026-11-14-toulouse-blagnac-le-trafic-progresse-de-46-au-troisieme-trimestre-2026-5278869.html": "2026-11-14T15:00:59Z",
     "https://www.aerotime.aero/articles/qantas-sells-44-boeing-737ngs-to-aerfin-as-part-of-fleet-retirement-plans": "2026-11-14T16:00:59Z",
     "https://www.aerotime.aero/articles/joby-us-air-force-autonomous-cargo-funding-37m": "2026-11-14T16:00:59Z",
-    "https://simpleflying.com/delta-air-lines-replaced-unique-boeing-777-200lrs-new-airbus-a350s-casm-too-much/": "2026-11-14T16:00:59Z"
+    "https://simpleflying.com/delta-air-lines-replaced-unique-boeing-777-200lrs-new-airbus-a350s-casm-too-much/": "2026-11-14T16:00:59Z",
+    "https://simpleflying.com/how-many-crew-members-fly-e-4b-nightwatch/": "2026-11-14T17:01:00Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4744,6 +4744,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.949685
+    "2026-11": 4.950461
   }
 }
