@@ -1471,7 +1471,10 @@
     "https://www.aerotime.aero/articles/gulfstream-general-dynamics-q3-2026-results": "2026-11-14T21:40:37Z",
     "https://www.aerotime.aero/articles/maxwell-m1-hybrid-amphibious-cargo-aircraft": "2026-11-14T21:40:37Z",
     "https://theaircurrent.com/defense/us-air-force-operations-rebuilt-world-war-ii-era-pacific-airfields/": "2026-11-14T21:50:35Z",
-    "https://simpleflying.com/how-boeing-737-max-747-8-787-dreamliner-engine-create-problems-no-other-modern-jet-face/": "2026-11-14T21:50:35Z"
+    "https://simpleflying.com/how-boeing-737-max-747-8-787-dreamliner-engine-create-problems-no-other-modern-jet-face/": "2026-11-14T21:50:35Z",
+    "https://simpleflying.com/how-much-boeing-737-max-pilots-earn-us-carriers/": "2026-11-14T22:30:47Z",
+    "https://simpleflying.com/why-did-emirates-order-more-boeing-777x-than-a350/": "2026-11-14T22:30:47Z",
+    "https://simpleflying.com/iata-half-air-accident-investigations-lack-final-reports/": "2026-11-14T22:30:47Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4828,6 +4831,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.963715
+    "2026-11": 4.964566
   }
 }
