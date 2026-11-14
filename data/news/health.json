@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-14T18:29:30Z",
+  "run": "2026-11-14T18:30:50Z",
   "stats": {
-    "fetched": 684,
-    "new": 1,
+    "fetched": 664,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -82,8 +82,8 @@
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "airliners.de": {
       "ok": true,
