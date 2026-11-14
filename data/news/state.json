@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/ill-fated-learjet-altitude-struggles-severe-turbulence-6-months-ago/": "2026-11-04T23:10:33Z",
-    "https://www.air-journal.fr/2026-11-05-le-5-novembre-1908-le-gouvernement-francais-accorde-un-budget-pour-le-developpement-de-la-locomotion-aerienne-5278679.html": "2026-11-04T23:10:33Z",
     "https://simpleflying.com/17-gates-matter-so-much-airlne-carrying-over-60-percent-miami-passengers/": "2026-11-05T00:01:02Z",
     "https://www.aerotime.aero/articles/retired-jet-engines-powering-ai-data-centers": "2026-11-05T01:40:31Z",
     "https://simpleflying.com/qantas-retiring-airbus-a380s-4-years-early-trust-a350-1000-boeing-787-deliveries/": "2026-11-05T02:01:00Z",
@@ -1475,7 +1473,9 @@
     "https://simpleflying.com/iata-half-air-accident-investigations-lack-final-reports/": "2026-11-14T22:30:47Z",
     "https://airlinegeeks.com/2026/11/14/american-cco-lays-out-vision-for-reaching-premium-global-status/": "2026-11-14T22:40:32Z",
     "https://simpleflying.com/hidden-math-delta-air-lines-only-us-carrer-mainline-jets-under-110-seats/": "2026-11-14T23:01:02Z",
-    "https://theaviationist.com/2026/11/14/mi-28-launching-dan-t-low-cost-cruise-missile/": "2026-11-14T23:01:02Z"
+    "https://theaviationist.com/2026/11/14/mi-28-launching-dan-t-low-cost-cruise-missile/": "2026-11-14T23:01:02Z",
+    "https://www.twz.com/sea/did-the-blue-wave-just-sink-trumps-battleship": "2026-11-14T23:10:35Z",
+    "https://www.air-journal.fr/2026-11-15-le-15-novembre-1913-dans-le-ciel-debut-des-hostilites-5278876.html": "2026-11-14T23:10:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4853,6 +4853,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.966175
+    "2026-11": 4.966966
   }
 }
