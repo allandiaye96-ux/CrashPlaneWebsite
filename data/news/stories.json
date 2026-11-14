@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-14-heathrow-le-pdg-de-delta-critique-le-projet-de-transfert-ver-0b5f",
+    "created": "2026-11-14T13:31:06Z",
+    "updated": "2026-11-14T13:31:06Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Heathrow : le PDG de Delta critique le projet de transfert vers le Terminal 4 en 2028",
+    "chapo": "Selon Simple Flying, le PDG de Delta Air Lines, Ed Bastian, s'oppose publiquement à la décision de l'aéroport de Heathrow de déplacer la compagnie vers le Terminal 4 en 2028.",
+    "paragraphes": [
+      "Ed Bastian juge cette décision « à courte vue » et « mauvaise pour les consommateurs du transport aérien », d'après le média. Le dirigeant a annoncé son intention de la contester.",
+      "Le texte source ne décrit pas davantage les arguments avancés par Heathrow ni les modalités du transfert, qui impliquerait de séparer Delta de Virgin Atlantic."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "\"Short-Sighted\": Delta CEO Vows To Fight Heathrow’s Move To Split It From Virgin Atlantic",
+        "url": "https://simpleflying.com/video/short-sighted-delta-ceo-vows-to-fight-heathrow-s-move-to-split-it-from-virgin-atlantic/",
+        "date": "2026-11-14T13:28:18Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
     "created": "2026-11-13T10:01:14Z",
     "updated": "2026-11-14T10:01:17Z",

@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T13:20:34Z",
+  "run": "2026-11-14T13:30:51Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9452,
+  "spend_month_usd": 4.9464,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -638,6 +638,12 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46"
+    },
+    {
+      "dossier": "Delta critique Heathrow déplacement Terminal 4",
+      "statut": "source_unique",
+      "editeurs": 1,
+      "breve": "2026-11-14-heathrow-le-pdg-de-delta-critique-le-projet-de-transfert-ver-0b5f"
     },
     {
       "dossier": "Japon budget défense F-35 réduction achats",
