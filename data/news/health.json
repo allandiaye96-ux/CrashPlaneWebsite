@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-14T14:01:00Z",
+  "run": "2026-11-14T14:10:33Z",
   "stats": {
     "fetched": 684,
-    "new": 4,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "ANA rachat Airdo et Solaseed Air",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-07-japon-ana-holdings-vise-le-controle-total-de-regionalplus-wi-fe56"
     },
     {
       "dossier": "Procès entente tarifaire 7 compagnies US",
