@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-14T08:50:35Z",
+  "run": "2026-11-14T09:01:10Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9343,
+  "spend_month_usd": 4.9356,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -250,6 +250,12 @@
       "breve": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c"
     },
     {
+      "dossier": "Air Baltic retour A220 et sanierung insolvence",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
+    },
+    {
       "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
       "statut": "corrobore",
       "editeurs": 3,
@@ -338,12 +344,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764"
-    },
-    {
-      "dossier": "Air Baltic retour A220 et sanierung insolvence",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
     },
     {
       "dossier": "Lufthansa médiation pilotes Vereinigung Cockpit",

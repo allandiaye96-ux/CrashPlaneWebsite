@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
+    "created": "2026-11-12T08:01:17Z",
+    "updated": "2026-11-14T09:01:24Z",
+    "version": 3,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Compagnies",
+    "importance": 2,
+    "titre": "airBaltic réduit sa flotte d'A220-300 dans le cadre de sa restructuration",
+    "chapo": "Selon aero.de, la compagnie lettone airBaltic rend 18 de ses 54 Airbus A220-300 à des sociétés de leasing avant leur terme. Selon airliners.de, elle veut aussi restituer trois appareils supplémentaires.",
+    "paragraphes": [
+      "Dans le cadre de la procédure de protection contre les créanciers « Chapter 11 », airBaltic a notifié au tribunal des faillites américain sa sortie de trois contrats de location supplémentaires. D'après airliners.de, une seconde demande déposée début novembre auprès du tribunal de New York fixe au 25 novembre la date d'effet du rejet, l'audience étant prévue le 9 décembre.",
+      "Selon Air Journal, la compagnie a également annoncé un nouvel accord de location avec équipage conclu avec le groupe Lufthansa, portant sur six A220-300 au maximum en été et quatre en hiver, contre 21 auparavant. airBaltic prévoit d'exploiter 36 appareils en 2027, contre 54 aujourd'hui."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 3,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "aero.de",
+        "title": "Air Baltic gibt Airbus A220-300 in Lettland-Farben zurück",
+        "url": "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html",
+        "date": "2026-11-12T07:55:57Z",
+        "official": false
+      },
+      {
+        "name": "airliners.de",
+        "title": "Air Baltic will drei weitere geleaste A220-300 zurückgeben",
+        "url": "https://www.airliners.de/air-baltic-will-drei-weitere-geleaste-a220-300-zurueckgeben/91482",
+        "date": "2026-11-12T08:50:00Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "AirBaltic réduit la voilure : son accord avec Lufthansa passe de 21 à six A220 en été",
+        "url": "https://www.air-journal.fr/2026-11-14-airbaltic-reduit-la-voilure-son-accord-avec-lufthansa-passe-de-21-a-six-a220-en-ete-5278846.html",
+        "date": "2026-11-14T09:00:17Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
     "created": "2026-11-13T21:50:52Z",
     "updated": "2026-11-14T07:01:16Z",
@@ -1525,45 +1571,6 @@
         "url": "https://www.gov.uk/aaib-reports/aaib-investigation-to-leonardo-aw169-g-hhem",
         "date": "2026-11-12T10:01:46Z",
         "official": true
-      }
-    ]
-  },
-  {
-    "id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
-    "created": "2026-11-12T08:01:17Z",
-    "updated": "2026-11-12T09:21:18Z",
-    "version": 2,
-    "published": true,
-    "hidden": false,
-    "withdrawn": false,
-    "categorie": "Compagnies",
-    "importance": 2,
-    "titre": "Air Baltic veut restituer trois Airbus A220-300 supplémentaires en plus de 18 appareils",
-    "chapo": "Dans le cadre de son redressement sous protection du Chapter 11, Air Baltic réduit encore sa flotte d'A220-300. Selon airliners.de, la compagnie veut rendre trois appareils loués supplémentaires.",
-    "paragraphes": [
-      "D'après aero.de, la compagnie lettone rend déjà 18 de ses 54 Airbus A220-300 à des sociétés de leasing avant la date prévue. Elle a par ailleurs notifié au tribunal américain des faillites son intention de sortir de trois autres contrats, dont celui d'un appareil à livrée spéciale aux couleurs de la Lettonie.",
-      "Selon airliners.de, cette seconde demande a été déposée début novembre auprès du tribunal des faillites de New York. La date retenue pour la résiliation est le 25 novembre, et l'audience est fixée au 9 décembre."
-    ],
-    "contradictions": "Aucune contradiction majeure. aero.de évoque une « livrée lettone » et un appareil particulier sans préciser le nombre de contrats concernés au-delà des trois contrats mentionnés ; airliners.de parle de trois appareils, ce qui concorde avec le nombre de contrats indiqué par aero.de.",
-    "verification": {
-      "status": "corrobore",
-      "independent_sources": 2,
-      "official_source": false
-    },
-    "sources": [
-      {
-        "name": "aero.de",
-        "title": "Air Baltic gibt Airbus A220-300 in Lettland-Farben zurück",
-        "url": "https://www.aero.de/news-54154/Air-Baltic-gibt-Airbus-A220-300-in-Lettland-Farben-zurueck.html",
-        "date": "2026-11-12T07:55:57Z",
-        "official": false
-      },
-      {
-        "name": "airliners.de",
-        "title": "Air Baltic will drei weitere geleaste A220-300 zurückgeben",
-        "url": "https://www.airliners.de/air-baltic-will-drei-weitere-geleaste-a220-300-zurueckgeben/91482",
-        "date": "2026-11-12T08:50:00Z",
-        "official": false
       }
     ]
   },

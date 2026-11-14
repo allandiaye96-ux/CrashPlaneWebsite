@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/france-sylex-rocket-test-m51-4-missile": "2026-11-04T08:50:36Z",
     "https://www.air-journal.fr/2026-11-04-reservoirs-du-boeing-787-des-controles-de-fabrication-non-verifies-declenchent-une-directive-de-la-faa-5278669.html": "2026-11-04T09:10:35Z",
     "https://simpleflying.com/avolon-boeing-737-max-10-order/": "2026-11-04T09:20:33Z",
     "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order": "2026-11-04T09:50:37Z",
@@ -1497,7 +1496,9 @@
     "https://simpleflying.com/faa-ground-stop-chaos-far-from-over-planes-crews-stuck/": "2026-11-14T07:00:56Z",
     "https://www.air-journal.fr/2026-11-14-russie-pres-de-34-000-vols-retardes-ou-annules-en-octobre-sur-fond-de-menaces-de-drones-ukrainiens-5278747.html": "2026-11-14T07:00:56Z",
     "https://www.air-journal.fr/2026-11-14-video-un-a321neo-de-british-airways-remet-les-gaz-apres-un-tail-strike-a-londres-heathrow-5278857.html": "2026-11-14T08:00:56Z",
-    "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets": "2026-11-14T08:50:35Z"
+    "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets": "2026-11-14T08:50:35Z",
+    "https://simpleflying.com/what-passengers-actually-get-extra-fare-premium-economy-why-increasingly-popular/": "2026-11-14T09:01:10Z",
+    "https://www.air-journal.fr/2026-11-14-airbaltic-reduit-la-voilure-son-accord-avec-lufthansa-passe-de-21-a-six-a220-en-ete-5278846.html": "2026-11-14T09:01:10Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -3807,7 +3808,7 @@
       "categorie": "Compagnies",
       "importance": 2,
       "created": "2026-11-12T08:01:14Z",
-      "updated": "2026-11-12T09:21:13Z",
+      "updated": "2026-11-14T09:01:21Z",
       "items": [
         {
           "id": "6b72c50fca8273aa",
@@ -3826,10 +3827,19 @@
           "domain": "airliners.de",
           "summary": "Air Baltic will im Gläubigerschutzverfahren nach \"Chapter 11\" drei weitere geleaste Airbus A220-300 zurückgeben. Das ging aus einem zweiten Antrag hervor, den die Airline Anfang November beim US-Insolvenzgericht in New York einreichte. Als Stichtag für die Ablehnung nennt der Antrag den 25. November. Die Anhörung ist für den 9. Dezember angesetzt.",
           "published": "2026-11-12T08:50:00Z"
+        },
+        {
+          "id": "3c53c6c1212587c3",
+          "feed": "Air Journal",
+          "title": "AirBaltic réduit la voilure : son accord avec Lufthansa passe de 21 à six A220 en été",
+          "url": "https://www.air-journal.fr/2026-11-14-airbaltic-reduit-la-voilure-son-accord-avec-lufthansa-passe-de-21-a-six-a220-en-ete-5278846.html",
+          "domain": "air-journal.fr",
+          "summary": "La compagnie lettone a annoncé un nouvel accord de location avec équipage avec le groupe Lufthansa, portant sur un maximum de six Airbus A220-300 en été et quatre en hiver. Un partenariat maintenu, mais nettement réduit, alors qu’airBaltic restructure ses activités et prévoit de n’exploiter plus que 36 appareils en 2027, contre 54 aujourd’hui. Chez […]",
+          "published": "2026-11-14T09:00:17Z"
         }
       ],
       "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
-      "written_count": 2
+      "written_count": 3
     },
     "cc027c9fe65": {
       "id": "cc027c9fe65",
@@ -4791,6 +4801,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.934338
+    "2026-11": 4.935642
   }
 }
