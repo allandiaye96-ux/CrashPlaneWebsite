@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/how-breeze-airways-makes-money-routes-with-just-10-passengers-per-day-each-way/": "2026-11-04T10:20:33Z",
-    "https://simpleflying.com/ita-airways-milan-malpensa-u-turn-lima-route/": "2026-11-04T10:20:33Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=40764465-AF22-4A7B-B810-15A35C1691D3": "2026-11-04T10:20:33Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=28619094-59C1-4DA0-B304-B23AEBD9D954": "2026-11-04T10:20:33Z",
-    "https://www.airliners.de/tap-strecken-brasilien-usa/91290": "2026-11-04T10:20:33Z",
-    "https://www.airliners.de/eurowings-verbindet-friedrichshafen-kommenden-sommer-korsika/91295": "2026-11-04T10:20:33Z",
-    "https://www.airliners.de/eigener-sache-lieferbar-airlinersde-flugzeugkalender-2027/89705": "2026-11-04T10:20:33Z",
-    "https://www.air-journal.fr/2026-11-04-air-india-vise-de-nouveaux-gros-porteurs-pour-reconquerir-linternational-5278670.html": "2026-11-04T10:20:33Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/air-india-va-commander-de-nouveaux-avions-gros-porteurs-long-courriers-20261104.html": "2026-11-04T10:20:33Z",
-    "https://www.journal-aviation.com/actualites-mro-support/maintenance-militaire-mco/fokker-services-group-monte-a-bord-de-la-maintenance-des-futurs-embraer-c-390-neerlandais-20261104.html": "2026-11-04T10:20:33Z",
     "https://www.aero.de/news-54090/Air-Baltic-gibt-die-ersten-sechs-Airbus-A220-300-zurueck.html": "2026-11-04T10:40:35Z",
     "https://www.aerotime.aero/articles/us-air-force-divests-a29-super-tucanos-edwards": "2026-11-04T10:50:37Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/bangkok-suvarnabhumi-aot-prevoit-de-doubler-la-capacite-de-laeroport-dici-6-a-7-ans-20261104.html": "2026-11-04T10:50:37Z",
@@ -1502,7 +1492,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=92B35E42-B33E-43B6-A17B-C57FDC4496C6": "2026-11-14T10:10:37Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=C09C729F-3025-4EDE-9AD6-131D91316E26": "2026-11-14T10:10:37Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=11FD1805-1CFC-4A90-9C59-43845D4BC041": "2026-11-14T10:10:37Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=DB0A69BD-FAB3-49AD-94BF-1862C7320ED7": "2026-11-14T10:10:37Z"
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=DB0A69BD-FAB3-49AD-94BF-1862C7320ED7": "2026-11-14T10:10:37Z",
+    "https://simpleflying.com/us-quietly-raided-f-35-account-pay-patriot-missiles-heres-what-happened-next/": "2026-11-14T10:20:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4810,10 +4801,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c6198962ddc": {
+      "id": "c6198962ddc",
+      "label": "Suisse F-35 fonds détournés pour Patriot",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-14T10:20:45Z",
+      "updated": "2026-11-14T10:20:45Z",
+      "items": [
+        {
+          "id": "ce7a1536c54eb4b2",
+          "feed": "Simple Flying",
+          "title": "The US Quietly Raided Switzerland's F-35 Account To Pay For Patriot Missiles — Here's What Happened Next",
+          "url": "https://simpleflying.com/us-quietly-raided-f-35-account-pay-patriot-missiles-heres-what-happened-next/",
+          "domain": "simpleflying.com",
+          "summary": "A diplomatic debacle bogged down the Swiss Air Force's plans.",
+          "published": "2026-11-14T10:15:18Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.939068
+    "2026-11": 4.93986
   }
 }
