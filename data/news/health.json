@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-14T06:50:35Z",
+  "run": "2026-11-14T07:00:56Z",
   "stats": {
     "fetched": 684,
     "new": 2,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9314,
+  "spend_month_usd": 4.9336,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -678,6 +678,12 @@
     {
       "dossier": "Rolls-Royce prévisions 2026 confirmées",
       "statut": "source_unique",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Vols retardés ou annulés en Russie octobre 2026",
+      "statut": "signale",
       "editeurs": 1,
       "breve": null
     }

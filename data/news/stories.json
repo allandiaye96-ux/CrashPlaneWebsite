@@ -2,33 +2,26 @@
   {
     "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
     "created": "2026-11-13T21:50:52Z",
-    "updated": "2026-11-14T06:50:52Z",
-    "version": 5,
+    "updated": "2026-11-14T07:01:16Z",
+    "version": 6,
     "published": true,
     "hidden": false,
     "withdrawn": false,
     "categorie": "Sécurité et réglementation",
     "importance": 3,
     "titre": "États-Unis : arrêt national des décollages levé après une panne de communication du contrôle aérien",
-    "chapo": "Selon Air Journal, la FAA a mis fin vendredi soir, heure de la côte Est, à la suspension nationale des départs imposée après une panne de télécommunications. Le blocage a duré un peu plus de quatre heures.",
+    "chapo": "Selon Air Journal, la FAA a mis fin vendredi soir à la suspension nationale des décollages aux États-Unis, imposée après une panne de télécommunications de la Flugsicherung américaine. Des milliers de vols ont été retardés ou annulés.",
     "paragraphes": [
-      "D'après Australian Aviation, des milliers de vols ont été retardés ou annulés. Il s'agit du premier arrêt national de ce type depuis janvier 2023 et du deuxième depuis les attentats du 11 septembre 2001. Le ministre des Transports Sean Duffy a indiqué, selon la même publication, que l'équipement vieillissant était en cause.",
-      "Selon AeroTime, Sean Duffy doit s'expliquer devant le Congrès sur les causes de la panne et réclame des fonds pour moderniser le contrôle aérien. Le samedi, des vols au départ de Francfort et de Munich vers les États-Unis ont encore été annulés, d'après aero.de."
+      "D'après Air Journal, l'interruption a duré plus de quatre heures. D'après Australian Aviation, il s'agit du premier arrêt national de ce type depuis janvier 2023 et du deuxième depuis les attentats du 11 septembre 2001. Airlines Warn, cité par Simple Flying, indique que les perturbations se poursuivent, avec des équipages et des appareils bloqués dans de mauvaises villes.",
+      "Interrogé lors d'un point presse à la Maison-Blanche, le secrétaire aux Transports Sean Duffy a attribué la panne à des équipements obsolètes, selon Australian Aviation. D'après AeroTime, il fait pression sur le Congrès républicain pour financer une modernisation du contrôle aérien. Samedi, plusieurs liaisons entre Francfort, Munich et les États-Unis ont encore été annulées, selon aero.de."
     ],
-    "contradictions": "Les sources divergent sur la nature de la panne : aero.de et airliners.de évoquent des problèmes de communication dans le système de contrôle aérien, tandis qu'Australian Aviation, citant le secrétaire aux Transports, attribue l'arrêt à un équipement dépassé. La durée est également indiquée différemment : « environ quatre heures » selon Australian Aviation, « plus de quatre heures » selon Air Journal.",
+    "contradictions": "Les sources divergent sur le nombre de vols concernés : Australian Aviation parle de milliers de vols retardés ou annulés, sans chiffre précis. Les sources ne précisent pas de la même façon la durée de l'arrêt : environ quatre heures selon Australian Aviation, plus de quatre heures selon Air Journal.",
     "verification": {
       "status": "corrobore",
       "independent_sources": 9,
       "official_source": false
     },
     "sources": [
-      {
-        "name": "aero.de",
-        "title": "Landesweiter Flugstopp an US-Flughäfen",
-        "url": "https://www.aero.de/news-54172/Landesweiter-Flugstopp-an-US-Flughaefen.html",
-        "date": "2026-11-13T23:05:29Z",
-        "official": false
-      },
       {
         "name": "airliners.de",
         "title": "FAA verhängt landesweiten Startstopp nach Kommunikationsstörung",
@@ -76,6 +69,13 @@
         "title": "Panne du contrôle aérien aux États-Unis : la suspension des décollages levée, les perturbations se prolongent",
         "url": "https://www.air-journal.fr/2026-11-14-panne-du-controle-aerien-aux-etats-unis-la-suspension-des-decollages-levee-les-perturbations-se-prolongent-5278855.html",
         "date": "2026-11-14T06:00:47Z",
+        "official": false
+      },
+      {
+        "name": "Simple Flying",
+        "title": "Airlines Warn Ground Stop Chaos Is Far From Over With Planes & Crews Stuck In Wrong Cities",
+        "url": "https://simpleflying.com/faa-ground-stop-chaos-far-from-over-planes-crews-stuck/",
+        "date": "2026-11-14T06:53:53Z",
         "official": false
       }
     ]

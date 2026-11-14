@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://australianaviation.com.au/2026/11/video-podcast-hack-me-amadeus/": "2026-11-04T06:50:37Z",
-    "https://australianaviation.com.au/2026/11/rex-and-flypelican-return-to-sydneys-terminal-2/": "2026-11-04T06:50:37Z",
-    "https://australianaviation.com.au/2026/11/virgin-galactic-unveils-lead-spacecraft-ahead-of-2027-flights/": "2026-11-04T06:50:37Z",
-    "https://australianaviation.com.au/2026/11/cairns-airport-to-get-first-public-bus-route-this-month/": "2026-11-04T06:50:37Z",
     "https://avitrader.com/2026/11/04/air-europa-extends-boeing-787-nacelle-deal-to-2037/": "2026-11-04T07:01:04Z",
     "https://www.air-journal.fr/2026-11-04-lufthansa-signe-pour-449-de-tap-air-portugal-a-1025-milliard-deuros-5278667.html": "2026-11-04T07:01:04Z",
     "https://www.airliners.de/ryanair-baut-angebot-klagenfurt/91298": "2026-11-04T07:20:34Z",
@@ -1513,7 +1509,9 @@
     "https://www.airliners.de/industrie-technik-emirates-777x-2027-deutsche-aircraft-kunden-boeing-streicht-stellen/91521": "2026-11-14T06:20:37Z",
     "https://www.aero.de/news-54167/SpaceX-faengt-seine-Riesenrakete-wieder-ein.html": "2026-11-14T06:40:34Z",
     "https://australianaviation.com.au/2026/11/equipment-failure-caused-nationwide-us-ground-stop-says-transportation-secretary/": "2026-11-14T06:50:35Z",
-    "https://australianaviation.com.au/2026/11/flights-grounded-across-us-as-faa-issues-nationwide-stop/": "2026-11-14T06:50:35Z"
+    "https://australianaviation.com.au/2026/11/flights-grounded-across-us-as-faa-issues-nationwide-stop/": "2026-11-14T06:50:35Z",
+    "https://simpleflying.com/faa-ground-stop-chaos-far-from-over-planes-crews-stuck/": "2026-11-14T07:00:56Z",
+    "https://www.air-journal.fr/2026-11-14-russie-pres-de-34-000-vols-retardes-ou-annules-en-octobre-sur-fond-de-menaces-de-drones-ukrainiens-5278747.html": "2026-11-14T07:00:56Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4672,7 +4670,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T06:50:46Z",
+      "updated": "2026-11-14T07:01:10Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4790,14 +4788,44 @@
           "domain": "australianaviation.com.au",
           "summary": "Thousands of flights have been delayed or cancelled due to the issue, which is the first nationwide ground stop since January 2023 and the second since the September 11 attacks. It comes less than two weeks before Thanksgiving on 26 November.",
           "published": "2026-11-13T23:26:43Z"
+        },
+        {
+          "id": "beb9c40fb6dc447d",
+          "feed": "Simple Flying",
+          "title": "Airlines Warn Ground Stop Chaos Is Far From Over With Planes & Crews Stuck In Wrong Cities",
+          "url": "https://simpleflying.com/faa-ground-stop-chaos-far-from-over-planes-crews-stuck/",
+          "domain": "simpleflying.com",
+          "summary": "Stranded crews and grounded jets paint chaotic airport scenes as tech failures ripple through nationwide schedules.",
+          "published": "2026-11-14T06:53:53Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 13
+      "written_count": 14
+    },
+    "c8c9ab12da0": {
+      "id": "c8c9ab12da0",
+      "label": "Vols retardés ou annulés en Russie octobre 2026",
+      "categorie": "Autre",
+      "importance": 2,
+      "created": "2026-11-14T07:01:10Z",
+      "updated": "2026-11-14T07:01:10Z",
+      "items": [
+        {
+          "id": "e915cfdd1162febb",
+          "feed": "Air Journal",
+          "title": "Russie : près de 34 000 vols retardés ou annulés en octobre, sur fond de menaces de drones ukrainiens",
+          "url": "https://www.air-journal.fr/2026-11-14-russie-pres-de-34-000-vols-retardes-ou-annules-en-octobre-sur-fond-de-menaces-de-drones-ukrainiens-5278747.html",
+          "domain": "air-journal.fr",
+          "summary": "Près d’un vol sur deux a été retardé ou annulé dans les aéroports russes entre le 1er et le 30 octobre 2026, selon un relevé du canal Telegram russophone spécialisé Aviatorchtchina. Sur environ 69 200 vols recensés auprès de 50 compagnies aériennes, près de 34 000 vols n’ont pas été effectués à l’heure prévue ou […]",
+          "published": "2026-11-14T07:00:39Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.931418
+    "2026-11": 4.933555
   }
 }
