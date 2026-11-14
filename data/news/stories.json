@@ -2,54 +2,26 @@
   {
     "id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
     "created": "2026-11-13T21:50:52Z",
-    "updated": "2026-11-14T04:31:06Z",
-    "version": 4,
+    "updated": "2026-11-14T06:50:52Z",
+    "version": 5,
     "published": true,
     "hidden": false,
-    "withdrawn": true,
+    "withdrawn": false,
     "categorie": "Sécurité et réglementation",
     "importance": 3,
-    "titre": "États-Unis : la FAA ordonne un arrêt national des départs après une panne de communications du contrôle aérien",
-    "chapo": "Selon AeroTime, la FAA américaine a ordonné un arrêt national des départs de vols, vendredi en fin d'après-midi, à cause de problèmes de communication dans la gestion du trafic aérien. Les causes de la panne ne sont pas établies à ce stade.",
+    "titre": "États-Unis : arrêt national des décollages levé après une panne de communication du contrôle aérien",
+    "chapo": "Selon Air Journal, la FAA a mis fin vendredi soir, heure de la côte Est, à la suspension nationale des départs imposée après une panne de télécommunications. Le blocage a duré un peu plus de quatre heures.",
     "paragraphes": [
-      "D'après The Air Current, l'ordre a été émis à 3:44 p.m. heure de l'Est après des coupures de télécommunications dans des centres de contrôle aérien, qui ont perturbé les radars et les fréquences radio utilisées par les contrôleurs et les pilotes. Le secrétaire aux Transports Sean Duffy a indiqué sur la plateforme X que des techniciens de la FAA travaillaient sur le problème.",
-      "Selon AirlineGeeks, quelques vols, pour la plupart internationaux, ont reçu l'autorisation de décoller en fin de vendredi, tandis que la majorité restait clouée au sol. TWZ souligne qu'il s'agit seulement de la troisième fois de l'histoire qu'un tel ordre est donné par la FAA. Le lendemain, AeroTime rapporte que M. Duffy fait face à des auditions au Congrès sur les causes de la panne et demande des fonds pour moderniser le contrôle aérien."
+      "D'après Australian Aviation, des milliers de vols ont été retardés ou annulés. Il s'agit du premier arrêt national de ce type depuis janvier 2023 et du deuxième depuis les attentats du 11 septembre 2001. Le ministre des Transports Sean Duffy a indiqué, selon la même publication, que l'équipement vieillissant était en cause.",
+      "Selon AeroTime, Sean Duffy doit s'expliquer devant le Congrès sur les causes de la panne et réclame des fonds pour moderniser le contrôle aérien. Le samedi, des vols au départ de Francfort et de Munich vers les États-Unis ont encore été annulés, d'après aero.de."
     ],
-    "contradictions": "Les sources divergent sur l'heure de l'ordre : AeroTime évoque « shortly before 4 p.m. Eastern time », tandis que The Air Current indique 3:44 p.m. Eastern time. Source [5] parle de « deuxième » arrêt national depuis le 11 septembre 2001, alors que TWZ parle du « troisième » ordre de ce type de l'histoire de la FAA ; ces deux formulations ne concernent pas nécessairement le même décompte.",
+    "contradictions": "Les sources divergent sur la nature de la panne : aero.de et airliners.de évoquent des problèmes de communication dans le système de contrôle aérien, tandis qu'Australian Aviation, citant le secrétaire aux Transports, attribue l'arrêt à un équipement dépassé. La durée est également indiquée différemment : « environ quatre heures » selon Australian Aviation, « plus de quatre heures » selon Air Journal.",
     "verification": {
       "status": "corrobore",
-      "independent_sources": 7,
+      "independent_sources": 9,
       "official_source": false
     },
     "sources": [
-      {
-        "name": "Simple Flying",
-        "title": "Breaking: FAA Issues Nationwide Ground Stop For All US Flights",
-        "url": "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/",
-        "date": "2026-11-13T21:41:18Z",
-        "official": false
-      },
-      {
-        "name": "The War Zone",
-        "title": "FAA Orders Ground Stop For All Flights Across The U.S.",
-        "url": "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
-        "date": "2026-11-13T21:46:29Z",
-        "official": false
-      },
-      {
-        "name": "AeroTime",
-        "title": "FAA halts all US departures, warns airborne flights to expect holding nationwide",
-        "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026",
-        "date": "2026-11-13T21:53:31Z",
-        "official": false
-      },
-      {
-        "name": "The Air Current",
-        "title": "U.S. halts flight departures nationwide on air traffic communications outage",
-        "url": "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/",
-        "date": "2026-11-13T22:56:24Z",
-        "official": false
-      },
       {
         "name": "aero.de",
         "title": "Landesweiter Flugstopp an US-Flughäfen",
@@ -65,6 +37,13 @@
         "official": false
       },
       {
+        "name": "Australian Aviation",
+        "title": "Flights grounded across US as FAA issues nationwide stop",
+        "url": "https://australianaviation.com.au/2026/11/flights-grounded-across-us-as-faa-issues-nationwide-stop/",
+        "date": "2026-11-13T23:26:43Z",
+        "official": false
+      },
+      {
         "name": "AirlineGeeks",
         "title": "Update: Duffy, Mullin to Speak on Groundings, Communications Outage",
         "url": "https://airlinegeeks.com/2026/11/13/update-duffy-mullin-to-speak-on-groundings-communications-outage/",
@@ -72,10 +51,31 @@
         "official": false
       },
       {
+        "name": "Australian Aviation",
+        "title": "Equipment failure caused nationwide US ground stop, says Transportation Secretary",
+        "url": "https://australianaviation.com.au/2026/11/equipment-failure-caused-nationwide-us-ground-stop-says-transportation-secretary/",
+        "date": "2026-11-14T02:21:22Z",
+        "official": false
+      },
+      {
         "name": "AeroTime",
         "title": "Duffy presses Republican Congress to fund ATC overhaul after nationwide outage",
         "url": "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage",
         "date": "2026-11-14T03:31:51Z",
+        "official": false
+      },
+      {
+        "name": "aero.de",
+        "title": "FAA-Panne sorgt auch am Samstag für Flugusfälle",
+        "url": "https://www.aero.de/news-54173/FAA-Panne-sorgt-auch-am-Samstag-fuer-Flugusfaelle.html",
+        "date": "2026-11-14T05:57:55Z",
+        "official": false
+      },
+      {
+        "name": "Air Journal",
+        "title": "Panne du contrôle aérien aux États-Unis : la suspension des décollages levée, les perturbations se prolongent",
+        "url": "https://www.air-journal.fr/2026-11-14-panne-du-controle-aerien-aux-etats-unis-la-suspension-des-decollages-levee-les-perturbations-se-prolongent-5278855.html",
+        "date": "2026-11-14T06:00:47Z",
         "official": false
       }
     ]

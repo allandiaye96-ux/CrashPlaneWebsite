@@ -1511,7 +1511,9 @@
     "https://www.aero.de/news-54173/FAA-Panne-sorgt-auch-am-Samstag-fuer-Flugusfaelle.html": "2026-11-14T06:00:57Z",
     "https://www.air-journal.fr/2026-11-14-panne-du-controle-aerien-aux-etats-unis-la-suspension-des-decollages-levee-les-perturbations-se-prolongent-5278855.html": "2026-11-14T06:10:33Z",
     "https://www.airliners.de/industrie-technik-emirates-777x-2027-deutsche-aircraft-kunden-boeing-streicht-stellen/91521": "2026-11-14T06:20:37Z",
-    "https://www.aero.de/news-54167/SpaceX-faengt-seine-Riesenrakete-wieder-ein.html": "2026-11-14T06:40:34Z"
+    "https://www.aero.de/news-54167/SpaceX-faengt-seine-Riesenrakete-wieder-ein.html": "2026-11-14T06:40:34Z",
+    "https://australianaviation.com.au/2026/11/equipment-failure-caused-nationwide-us-ground-stop-says-transportation-secretary/": "2026-11-14T06:50:35Z",
+    "https://australianaviation.com.au/2026/11/flights-grounded-across-us-as-faa-issues-nationwide-stop/": "2026-11-14T06:50:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4670,7 +4672,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T06:10:45Z",
+      "updated": "2026-11-14T06:50:46Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4770,14 +4772,32 @@
           "domain": "air-journal.fr",
           "summary": "La Federal Aviation Administration (FAA) a levé, vendredi 13 novembre à 20 h 15, heure de la côte Est, soit samedi à 2 h 15 à Paris, la suspension nationale des décollages imposée après une panne de télécommunications du contrôle aérien. L’interruption, qui a duré plus de quatre heures, a provoqué des milliers d’annulations et […]",
           "published": "2026-11-14T06:00:47Z"
+        },
+        {
+          "id": "b753b64c1dfe8dd3",
+          "feed": "Australian Aviation",
+          "title": "Equipment failure caused nationwide US ground stop, says Transportation Secretary",
+          "url": "https://australianaviation.com.au/2026/11/equipment-failure-caused-nationwide-us-ground-stop-says-transportation-secretary/",
+          "domain": "australianaviation.com.au",
+          "summary": "Speaking to reporters at a White House press briefing on Friday evening US time, Sean Duffy confirmed that the ground stop had been lifted after around four hours, and blamed outdated equipment for the shutdown.",
+          "published": "2026-11-14T02:21:22Z"
+        },
+        {
+          "id": "2af1ee93cc6741ac",
+          "feed": "Australian Aviation",
+          "title": "Flights grounded across US as FAA issues nationwide stop",
+          "url": "https://australianaviation.com.au/2026/11/flights-grounded-across-us-as-faa-issues-nationwide-stop/",
+          "domain": "australianaviation.com.au",
+          "summary": "Thousands of flights have been delayed or cancelled due to the issue, which is the first nationwide ground stop since January 2023 and the second since the September 11 attacks. It comes less than two weeks before Thanksgiving on 26 November.",
+          "published": "2026-11-13T23:26:43Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 11
+      "written_count": 13
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.929329
+    "2026-11": 4.931418
   }
 }
