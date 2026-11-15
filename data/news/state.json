@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/netz-strecken-discover-ziele-a350-emirates-klarheit-air-transat-streicht-toronto-berlin/91332": "2026-11-05T06:20:35Z",
-    "https://www.airliners.de/helvetic-fliegt-2027-swiss-condor/91315": "2026-11-05T06:20:35Z",
     "https://www.air-journal.fr/2026-11-05-indigo-lorgne-jusqua-150-embraer-pour-muscler-son-reseau-regional-5278678.html": "2026-11-05T07:01:01Z",
     "https://simpleflying.com/delta-air-lines-must-face-lawsuit-window-seats-no-window/": "2026-11-05T07:10:34Z",
     "https://www.aero.de/news-54095/Luftfracht-treibt-Gewinne-bei-DHL-hoch.html": "2026-11-05T07:20:32Z",
@@ -1468,7 +1466,8 @@
     "https://www.aerotime.aero/articles/retired-jet-engines-powering-ai-data-centers": "2026-11-15T01:50:34Z",
     "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft": "2026-11-15T03:01:04Z",
     "https://simpleflying.com/emirates-stripping-airbus-a380s-bare-metal-qantas-retires-superjumbos-4-years-early/": "2026-11-15T05:30:56Z",
-    "https://www.air-journal.fr/2026-11-15-panne-du-controle-aerien-aux-etats-unis-15-000-vols-annules-en-deux-jours-la-reprise-attendue-dimanche-soir-5278858.html": "2026-11-15T06:10:43Z"
+    "https://www.air-journal.fr/2026-11-15-panne-du-controle-aerien-aux-etats-unis-15-000-vols-annules-en-deux-jours-la-reprise-attendue-dimanche-soir-5278858.html": "2026-11-15T06:10:43Z",
+    "https://www.airliners.de/personal-karriere-lufthansa-vc-mediation-perspektive-boeing-streicht-stellen-sicheres-ground-handling/91522": "2026-11-15T06:20:41Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4855,6 +4854,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.969921
+    "2026-11": 4.970715
   }
 }
