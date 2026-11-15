@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-15T13:40:35Z",
+  "run": "2026-11-15T13:50:33Z",
   "stats": {
     "fetched": 684,
     "new": 0,
@@ -632,12 +632,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47"
-    },
-    {
-      "dossier": "FTC enquête tarifs personnalisés Delta United JetBlue",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Wizz Air résultats semestriels et flotte",

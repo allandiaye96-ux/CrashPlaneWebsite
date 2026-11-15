@@ -3994,27 +3994,6 @@
       "story_id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
       "written_count": 2
     },
-    "c2c0d17c1dd": {
-      "id": "c2c0d17c1dd",
-      "label": "FTC enquête tarifs personnalisés Delta United JetBlue",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-13T13:40:45Z",
-      "updated": "2026-11-13T13:40:45Z",
-      "items": [
-        {
-          "id": "400fe043c1da80a6",
-          "feed": "Simple Flying",
-          "title": "Delta, United & JetBlue Face Federal Probe Over Using Passenger Data To Personalize Fares",
-          "url": "https://simpleflying.com/video/delta-united-jetblue-face-federal-probe-over-using-passenger-data-to-personalize-fares/",
-          "domain": "simpleflying.com",
-          "summary": "The US Federal Trade Commission (FTC) has ordered Delta Air Lines, United Airlines and JetBlue to explain how they set their ticket prices as part of an investigation into whether they use customers' personal data to charge personalized fares.",
-          "published": "2026-11-13T13:33:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "ce92eeeffb2": {
       "id": "ce92eeeffb2",
       "label": "THC commande 12 Bombardier business jets",
