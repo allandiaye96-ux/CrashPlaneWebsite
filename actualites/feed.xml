@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 15 Nov 2026 12:31:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 12:41:00 +0000</lastBuildDate>
+  <item>
+    <title>Collision au sol à Miami entre un Boeing 767 de UPS et un 737 de Copa Airlines</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84/</guid>
+    <pubDate>Sun, 15 Nov 2026 12:41:00 +0000</pubDate>
+    <category>Accident</category>
+    <description>Selon Simple Flying, un Boeing 767 cargo exploité par UPS est entré en collision avec un Boeing 737 de Copa Airlines sur l&#x27;aéroport international de Miami. D&#x27;après AeroTime, l&#x27;incident s&#x27;est produit au sol.</description>
+  </item>
   <item>
     <title>Port Polska : la Pologne maintient l&#x27;objectif d&#x27;une ouverture fin 2032</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 12 Nov 2026 10:10:54 +0000</pubDate>
     <category>Enquête</category>
     <description>Selon l&#x27;AAIB, le Royaume-Uni, l&#x27;autorité britannique ouvre une enquête sur un incident concernant le Aero L-159E immatriculé G-DKNA. Les défaillances des systèmes d&#x27;oxygène principal et de secours sont à l&#x27;origine d&#x27;une descente rapide.</description>
-  </item>
-  <item>
-    <title>Hélicoptère Leonardo AW169 G-HHEM : blessure grave d&#x27;un passant par le souffle des rotors à Southend</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33/</guid>
-    <pubDate>Thu, 12 Nov 2026 10:10:52 +0000</pubDate>
-    <category>Enquête</category>
-    <description>Selon l&#x27;AAIB, l&#x27;enquête britannique sur l&#x27;hélicoptère Leonardo AW169 immatriculé G-HHEM porte sur une personne grièvement blessée par le souffle de ses rotors (downwash) à Southend, dans l&#x27;Essex, le 28 février 2026.</description>
   </item>
 </channel>
 </rss>

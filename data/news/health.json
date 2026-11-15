@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-15T12:30:50Z",
+  "run": "2026-11-15T12:40:47Z",
   "stats": {
     "fetched": 684,
-    "new": 1,
-    "written": 0,
+    "new": 2,
+    "written": 1,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9847,
+  "spend_month_usd": 4.9859,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -394,6 +394,12 @@
       "breve": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8"
     },
     {
+      "dossier": "Collision UPS 767 et Copa 737 à Miami",
+      "statut": "corrobore",
+      "editeurs": 2,
+      "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
+    },
+    {
       "dossier": "Ryanair suppression 19 routes UK",
       "statut": "source_unique",
       "editeurs": 1,
@@ -682,12 +688,6 @@
       "breve": null
     },
     {
-      "dossier": "Collision UPS 767 et Copa 737 à Miami",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
-    },
-    {
       "dossier": "ECA enquête fatigue des pilotes",
       "statut": "signale",
       "editeurs": 1,
@@ -701,6 +701,12 @@
     },
     {
       "dossier": "Arrivée F-15EX à Kadena (Japon)",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "SpaceX récupération étage Starship",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84",
+    "created": "2026-11-15T12:41:00Z",
+    "updated": "2026-11-15T12:41:00Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Accident",
+    "importance": 2,
+    "titre": "Collision au sol à Miami entre un Boeing 767 de UPS et un 737 de Copa Airlines",
+    "chapo": "Selon Simple Flying, un Boeing 767 cargo exploité par UPS est entré en collision avec un Boeing 737 de Copa Airlines sur l'aéroport international de Miami. D'après AeroTime, l'incident s'est produit au sol.",
+    "paragraphes": [
+      "Deux personnes ont été soignées pour des blessures légères après le choc, selon Simple Flying. Ce média attribue l'accident à un avion qui aurait roulé trop loin lors de son roulage, mais cette version n'est pas confirmée par une autorité d'enquête.",
+      "AeroTime décrit les deux appareils comme un 737 de Copa Airlines et un 767 cargo de UPS entrés en collision au sol à l'aéroport international de Miami."
+    ],
+    "contradictions": "Simple Flying indique que l'avion UPS aurait roulé trop loin ; cette version n'est pas confirmée par une autorité d'enquête. AeroTime ne donne pas de cause ni de bilan.",
+    "verification": {
+      "status": "corrobore",
+      "independent_sources": 2,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Simple Flying",
+        "title": "‘Somebody Hit Us’: UPS Boeing 767 Collides With Copa 737 In Miami After Taxiing Too Far",
+        "url": "https://simpleflying.com/ups-boeing-767-collides-copa-737-miami-airport-taxiway/",
+        "date": "2026-11-15T06:48:04Z",
+        "official": false
+      },
+      {
+        "name": "AeroTime",
+        "title": "A B737 and a B767 collide on the ground at Miami International Airport",
+        "url": "https://www.aerotime.aero/articles/a-b737-and-a-b767-collide-on-the-ground-at-miami-international-airport",
+        "date": "2026-11-15T12:36:31Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47",
     "created": "2026-11-15T12:01:35Z",
     "updated": "2026-11-15T12:01:35Z",
