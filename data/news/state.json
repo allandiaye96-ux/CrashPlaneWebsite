@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/ups-137-million-hit-replace-mcdonnell-douglas-md-11s-smaller-widebody-freighters/": "2026-11-05T20:01:00Z",
-    "https://australianaviation.com.au/2026/11/air-tractor-crashed-while-trying-to-avoid-power-pole-says-atsb/": "2026-11-05T20:01:00Z",
-    "https://australianaviation.com.au/2026/11/virgin-australia-to-make-major-lounge-investments/": "2026-11-05T20:01:00Z",
-    "https://australianaviation.com.au/2026/11/qantas-offloads-44-737-800s-in-huge-fleet-sale/": "2026-11-05T20:01:00Z",
-    "https://australianaviation.com.au/2026/11/submissions-nominations-open-for-australasian-space-awards-2027/": "2026-11-05T20:01:00Z",
-    "https://australianaviation.com.au/2026/11/china-southern-axes-darwin-guangzhou-flights/": "2026-11-05T20:01:00Z",
-    "https://theaviationist.com/2026/11/05/shield-xbat-prototype-revealed/": "2026-11-05T20:01:00Z",
     "https://simpleflying.com/breeze-airways-launches-15-new-routes-from-major-airport/": "2026-11-05T20:20:35Z",
     "https://simpleflying.com/podcast-309/": "2026-11-05T20:30:50Z",
     "https://simpleflying.com/avelo-airlines-cancels-all-6-international-routes/": "2026-11-05T20:50:34Z",
@@ -1422,7 +1415,11 @@
     "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-15T18:20:37Z",
     "https://simpleflying.com/airline-replacing-airbus-a350-fleet-2030/": "2026-11-15T19:07:08Z",
     "https://www.twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons": "2026-11-15T19:20:35Z",
-    "https://simpleflying.com/southwest-airlines-auctioning-off-old-oakland-baggage-carts-750/": "2026-11-15T19:50:36Z"
+    "https://simpleflying.com/southwest-airlines-auctioning-off-old-oakland-baggage-carts-750/": "2026-11-15T19:50:36Z",
+    "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash": "2026-11-15T20:01:02Z",
+    "https://simpleflying.com/pilatus-pc-12-hourly-charter-cost-2026/": "2026-11-15T20:01:02Z",
+    "https://simpleflying.com/delta-launches-new-9-hour-route/": "2026-11-15T20:01:02Z",
+    "https://www.aero.de/news-54179/US-Luftverkehr-stabilisiert-sich-nur-langsam.html": "2026-11-15T20:01:02Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4098,7 +4095,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-15T06:10:53Z",
+      "updated": "2026-11-15T20:01:14Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4261,10 +4258,19 @@
           "domain": "air-journal.fr",
           "summary": "Les conséquences de la panne du contrôle aérien continuent de désorganiser les voyages aux États-Unis. Après environ 9 200 annulations vendredi, plus de 6 150 vols supplémentaires avaient été supprimés samedi en début de soirée, selon le site de suivi FlightAware. Les autorités espèrent un retour à la normale ce dimanche soir. L’enquête se concentre […]",
           "published": "2026-11-15T06:00:31Z"
+        },
+        {
+          "id": "aafe08ceb799f7b1",
+          "feed": "aero.de",
+          "title": "US-Luftverkehr stabilisiert sich nur langsam",
+          "url": "https://www.aero.de/news-54179/US-Luftverkehr-stabilisiert-sich-nur-langsam.html",
+          "domain": "aero.de",
+          "summary": "WASHINGTON - Nach dem stundenlangen landesweiten Flugstopp in den USA rechnet US-Verkehrsminister Sean Duffy erst am Montag mit einer vollständigen Normalisierung des Flugverkehrs.",
+          "published": "2026-11-15T19:58:18Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 18
+      "written_count": 19
     },
     "c8c9ab12da0": {
       "id": "c8c9ab12da0",
@@ -4644,6 +4650,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.996193
+    "2026-11": 4.998404
   }
 }
