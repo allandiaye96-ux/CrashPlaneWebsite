@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-15T11:20:35Z",
+  "run": "2026-11-15T11:30:49Z",
   "stats": {
     "fetched": 684,
     "new": 0,
@@ -404,12 +404,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "IAG réduit capacité 2026 Moyen-Orient",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5"
     },
     {
       "dossier": "TUI fly Belgium réseau été 2027",

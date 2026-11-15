@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/11/05/liebherr-aerospace-wins-klm-cityhopper-landing-gear-deal/": "2026-11-05T11:30:49Z",
-    "https://www.aero.de/news-54100/Daempfer-fuer-Ryanair-im-Streit-um-Hilfen-fuer-KLM-und-Condor.html": "2026-11-05T11:30:49Z",
     "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts": "2026-11-05T11:50:33Z",
     "https://simpleflying.com/aircraft-set-replace-most-beloved-aircraft-sky-2026/": "2026-11-05T12:01:02Z",
     "https://simpleflying.com/video/why-the-boeing-787-s-wings-are-under-faa-scrutiny/": "2026-11-05T12:01:02Z",
@@ -1920,27 +1918,6 @@
       ],
       "story_id": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754",
       "written_count": 3
-    },
-    "c1652cb2bb5": {
-      "id": "c1652cb2bb5",
-      "label": "IAG réduit capacité 2026 Moyen-Orient",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-08T11:20:45Z",
-      "updated": "2026-11-08T11:20:45Z",
-      "items": [
-        {
-          "id": "440f689199aaa9e6",
-          "feed": "Air Journal",
-          "title": "IAG réduit ses ambitions pour 2026 et prévoit une légère baisse de sa capacité",
-          "url": "https://www.air-journal.fr/2026-11-08-iag-reduit-ses-ambitions-pour-2026-et-prevoit-une-legere-baisse-de-sa-capacite-5278733.html",
-          "domain": "air-journal.fr",
-          "summary": "IAG, maison mère de British Airways, Iberia, Aer Lingus et Vueling, prévoit désormais une capacité légèrement inférieure à celle de 2025. Le groupe anglo-espagnol invoque les perturbations au Moyen-Orient et des ajustements de son programme hivernal destinés à préserver sa rentabilité. Malgré une hausse de son chiffre d’affaires au troisième trimestre, l’envolée de la facture […]",
-          "published": "2026-11-08T11:00:21Z"
-        }
-      ],
-      "story_id": "2026-11-08-iag-prevoit-une-capacite-2026-legerement-inferieure-a-celle-2bb5",
-      "written_count": 1
     },
     "cadb14a8d19": {
       "id": "cadb14a8d19",
