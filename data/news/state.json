@@ -1420,7 +1420,10 @@
     "https://simpleflying.com/why-fedex-retiring-boeing-757-isnt-opening-door-airbus-a321-freighter/": "2026-11-15T16:01:03Z",
     "https://simpleflying.com/why-35-year-old-turboprop-aircraft-going-back-production/": "2026-11-15T16:01:03Z",
     "https://www.aerotime.aero/articles/delta-air-lines-wheels-up-order-embraer-phenom-300es": "2026-11-15T16:50:32Z",
-    "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-15T16:50:32Z"
+    "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-15T16:50:32Z",
+    "https://simpleflying.com/united-doubles-flights-on-7-routes-from-major-hub/": "2026-11-15T18:01:01Z",
+    "https://simpleflying.com/airline-expanding-airbus-a330-fleet-comfort-capacity-costs/": "2026-11-15T18:01:01Z",
+    "https://simpleflying.com/united-launches-6-new-routes-in-9-days/": "2026-11-15T18:01:01Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4690,6 +4693,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.993066
+    "2026-11": 4.993904
   }
 }
