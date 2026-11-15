@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-15T06:40:34Z",
+  "run": "2026-11-15T06:50:36Z",
   "stats": {
     "fetched": 684,
     "new": 1,
@@ -7,7 +7,7 @@
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9715,
+  "spend_month_usd": 4.9723,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -701,6 +701,12 @@
     },
     {
       "dossier": "Mi-28NM lancement missile Dan-T",
+      "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Collision UPS 767 et Copa 737 à Miami",
       "statut": "signale",
       "editeurs": 1,
       "breve": null

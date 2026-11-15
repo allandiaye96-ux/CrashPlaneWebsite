@@ -1468,7 +1468,8 @@
     "https://simpleflying.com/emirates-stripping-airbus-a380s-bare-metal-qantas-retires-superjumbos-4-years-early/": "2026-11-15T05:30:56Z",
     "https://www.air-journal.fr/2026-11-15-panne-du-controle-aerien-aux-etats-unis-15-000-vols-annules-en-deux-jours-la-reprise-attendue-dimanche-soir-5278858.html": "2026-11-15T06:10:43Z",
     "https://www.airliners.de/personal-karriere-lufthansa-vc-mediation-perspektive-boeing-streicht-stellen-sicheres-ground-handling/91522": "2026-11-15T06:20:41Z",
-    "https://www.aero.de/news-54178/Greifarme-fangen-zum-ersten-Mal-Oberstufe-ein.html": "2026-11-15T06:40:34Z"
+    "https://www.aero.de/news-54178/Greifarme-fangen-zum-ersten-Mal-Oberstufe-ein.html": "2026-11-15T06:40:34Z",
+    "https://simpleflying.com/ups-boeing-767-collides-copa-737-miami-airport-taxiway/": "2026-11-15T06:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4851,10 +4852,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c0a69375a84": {
+      "id": "c0a69375a84",
+      "label": "Collision UPS 767 et Copa 737 à Miami",
+      "categorie": "Incident",
+      "importance": 2,
+      "created": "2026-11-15T06:50:48Z",
+      "updated": "2026-11-15T06:50:48Z",
+      "items": [
+        {
+          "id": "60b71b936837b25d",
+          "feed": "Simple Flying",
+          "title": "‘Somebody Hit Us’: UPS Boeing 767 Collides With Copa 737 In Miami After Taxiing Too Far",
+          "url": "https://simpleflying.com/ups-boeing-767-collides-copa-737-miami-airport-taxiway/",
+          "domain": "simpleflying.com",
+          "summary": "Two people were treated for minor injuries following the dramatic impact.",
+          "published": "2026-11-15T06:48:04Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.971503
+    "2026-11": 4.972299
   }
 }
