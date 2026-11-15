@@ -1,9 +1,9 @@
 {
-  "run": "2026-11-15T12:01:03Z",
+  "run": "2026-11-15T12:10:34Z",
   "stats": {
-    "fetched": 659,
-    "new": 3,
-    "written": 1,
+    "fetched": 684,
+    "new": 0,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -626,12 +626,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47"
-    },
-    {
-      "dossier": "Japon budget défense F-35 réduction achats",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "DGA qualification drone U010 Aliaca VTOL",

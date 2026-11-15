@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/british-airways-has-axed-8-major-a380-routes-from-heathrow/": "2026-11-05T12:10:34Z",
-    "https://avitrader.com/2026/11/05/lufthansa-cargo-completes-lug-acquisition/": "2026-11-05T12:10:34Z",
-    "https://www.air-journal.fr/2026-11-05-klm-se-restructure-1-000-postes-en-moins-et-un-virage-vers-les-embraer-e195-e2-5278687.html": "2026-11-05T12:10:34Z",
     "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/": "2026-11-05T12:20:33Z",
     "https://www.aerotime.aero/articles/emirates-financial-results-fuel-profit": "2026-11-05T12:40:33Z",
     "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions": "2026-11-05T12:40:33Z",
@@ -3995,27 +3992,6 @@
       ],
       "story_id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
       "written_count": 2
-    },
-    "c44f80877c1": {
-      "id": "c44f80877c1",
-      "label": "Japon budget défense F-35 réduction achats",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-13T12:01:22Z",
-      "updated": "2026-11-13T12:01:22Z",
-      "items": [
-        {
-          "id": "23f2e0cfa35c4bee",
-          "feed": "AeroTime",
-          "title": "Japan could slash F-35 fighter purchases amid defense budget clash",
-          "url": "https://www.aerotime.aero/articles/japan-f35-purchases-cuts-defense-budget",
-          "domain": "aerotime.aero",
-          "summary": "Japan’s Ministry of Finance has proposed a five-year defense budget well below the level that some defense officials… The post Japan could slash F-35 fighter purchases amid defense budget clash appeared first on AeroTime .",
-          "published": "2026-11-13T11:32:43Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c6481b8a2dd": {
       "id": "c6481b8a2dd",
