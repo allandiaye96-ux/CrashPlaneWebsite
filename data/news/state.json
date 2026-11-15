@@ -1431,7 +1431,8 @@
     "https://www.aerotime.aero/articles/nasa-x-70-fractal-aircraft-jared-isaacman": "2026-11-15T14:50:36Z",
     "https://leehamnews.com/2026/11/05/will-airbus-stretch-the-a350-part-2/": "2026-11-15T14:50:36Z",
     "https://simpleflying.com/jetblue-trueblue-earn-spend-points-united-airlines/": "2026-11-15T15:01:02Z",
-    "https://www.air-journal.fr/2026-11-15-berlin-brandebourg-bientot-plus-besoin-de-sortir-liquides-et-appareils-electroniques-aux-controles-5278871.html": "2026-11-15T15:10:33Z"
+    "https://www.air-journal.fr/2026-11-15-berlin-brandebourg-bientot-plus-besoin-de-sortir-liquides-et-appareils-electroniques-aux-controles-5278871.html": "2026-11-15T15:10:33Z",
+    "https://simpleflying.com/luxury-startup-magnifica-air-10-airbus-a220s-private-suite-54-seats/": "2026-11-15T15:30:52Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4697,10 +4698,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c996ad4c375": {
+      "id": "c996ad4c375",
+      "label": "Commande 10 A220 corporate par startup US",
+      "categorie": "Constructeurs et industrie",
+      "importance": 2,
+      "created": "2026-11-15T15:31:05Z",
+      "updated": "2026-11-15T15:31:05Z",
+      "items": [
+        {
+          "id": "97b5f0110f781a16",
+          "feed": "Simple Flying",
+          "title": "Luxury US Startup Bets Big On 10 Airbus A220s With A Private Suite And Just 54 Seats",
+          "url": "https://simpleflying.com/luxury-startup-magnifica-air-10-airbus-a220s-private-suite-54-seats/",
+          "domain": "simpleflying.com",
+          "summary": "Airbus has revealed the mystery buyer behind a major order for corporate A220s.",
+          "published": "2026-11-15T15:22:16Z"
+        }
+      ],
+      "story_id": "2026-11-15-une-start-up-americaine-de-luxe-commande-10-airbus-a220-dote-c375",
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.990737
+    "2026-11": 4.992254
   }
 }
