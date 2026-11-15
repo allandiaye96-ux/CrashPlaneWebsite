@@ -1419,7 +1419,8 @@
     "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash": "2026-11-15T20:01:02Z",
     "https://simpleflying.com/pilatus-pc-12-hourly-charter-cost-2026/": "2026-11-15T20:01:02Z",
     "https://simpleflying.com/delta-launches-new-9-hour-route/": "2026-11-15T20:01:02Z",
-    "https://www.aero.de/news-54179/US-Luftverkehr-stabilisiert-sich-nur-langsam.html": "2026-11-15T20:01:02Z"
+    "https://www.aero.de/news-54179/US-Luftverkehr-stabilisiert-sich-nur-langsam.html": "2026-11-15T20:01:02Z",
+    "https://www.aero.de/news-54180/Flugzeuge-kollidieren-auf-Rollweg-in-Miami.html": "2026-11-15T20:10:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4455,7 +4456,7 @@
       "categorie": "Incident",
       "importance": 2,
       "created": "2026-11-15T06:50:48Z",
-      "updated": "2026-11-15T12:40:57Z",
+      "updated": "2026-11-15T20:10:46Z",
       "items": [
         {
           "id": "60b71b936837b25d",
@@ -4474,10 +4475,19 @@
           "domain": "aerotime.aero",
           "summary": "Two aircraft, a Copa Airlines B737 and a B767 freighter operated by UPS, collided on the ground at… The post A B737 and a B767 collide on the ground at Miami International Airport appeared first on AeroTime .",
           "published": "2026-11-15T12:36:31Z"
+        },
+        {
+          "id": "5225a671477d689f",
+          "feed": "aero.de",
+          "title": "Flugzeuge kollidieren auf Rollweg in Miami",
+          "url": "https://www.aero.de/news-54180/Flugzeuge-kollidieren-auf-Rollweg-in-Miami.html",
+          "domain": "aero.de",
+          "summary": "MIAMI - Erst vor wenigen Tagen mussten ein Lufthansa-Crew auf einem Rollweg in Miami in die Eisen steigen. Nun sind dort ein Passagierflugzeug und eine UPS-Frachtmaschine zusammengestoßen. Die US-Luftverkehrsbehörde FAA untersucht, wie es trotz einer Anweisung der Flugsicherung zu der Kollision kam.",
+          "published": "2026-11-15T20:01:53Z"
         }
       ],
       "story_id": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84",
-      "written_count": 2
+      "written_count": 3
     },
     "c5e74678151": {
       "id": "c5e74678151",
@@ -4650,6 +4660,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.998404
+    "2026-11": 4.999623
   }
 }

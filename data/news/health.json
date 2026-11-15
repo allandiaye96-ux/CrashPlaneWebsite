@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-15T20:01:02Z",
+  "run": "2026-11-15T20:10:34Z",
   "stats": {
     "fetched": 684,
-    "new": 3,
-    "written": 0,
-    "held": 1,
+    "new": 1,
+    "written": 1,
+    "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9984,
+  "spend_month_usd": 4.9996,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -250,6 +250,12 @@
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
     },
     {
+      "dossier": "Collision UPS 767 et Copa 737 à Miami",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
+    },
+    {
       "dossier": "Drone explosif Leipzig/Halle",
       "statut": "corrobore",
       "editeurs": 2,
@@ -386,12 +392,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8"
-    },
-    {
-      "dossier": "Collision UPS 767 et Copa 737 à Miami",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
