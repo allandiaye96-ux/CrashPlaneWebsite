@@ -1449,7 +1449,16 @@
     "https://www.air-journal.fr/2026-11-15-sexe-appels-video-et-reseaux-sociaux-les-nouveaux-defis-du-calme-en-cabine-premium-5278874.html": "2026-11-15T08:00:59Z",
     "https://www.air-journal.fr/2026-11-15-aircalin-prepare-larrivee-de-son-premier-airbus-a350-attendu-en-service-debut-2027-5278832.html": "2026-11-15T09:20:45Z",
     "https://www.aerotime.aero/articles/autoflight-worlds-first-formation-flight-five-unmanned-evtols-video": "2026-11-15T10:00:58Z",
-    "https://www.air-journal.fr/2026-11-15-repos-insuffisant-micro-sommeils-et-peur-des-sanctions-leca-alerte-sur-la-fatigue-des-pilotes-5278875.html": "2026-11-15T10:00:58Z"
+    "https://www.air-journal.fr/2026-11-15-repos-insuffisant-micro-sommeils-et-peur-des-sanctions-leca-alerte-sur-la-fatigue-des-pilotes-5278875.html": "2026-11-15T10:00:58Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=0D281732-5B3F-424A-884D-E1EC182237E1": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=90D1158C-78D8-48DC-A472-1EE9FFABBEF0": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=60AD7158-563B-4920-B571-8C594A78C42A": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F763D8D5-FAC4-43D5-9326-731B4FDCB0FD": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=9F7AD986-82F8-40A8-9C64-4322E243F99F": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=16CC5804-334D-4322-B15E-4ABDED04D2E0": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=860CDC52-B47E-48BB-AC38-C302FD774432": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=0CF0F8FA-3F34-49D4-820C-2E4F09DDD8C9": "2026-11-15T10:10:34Z",
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=5F4A3DD4-4715-460F-8882-5D0007DCA165": "2026-11-15T10:10:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4874,10 +4883,31 @@
       ],
       "story_id": null,
       "written_count": 0
+    },
+    "c502b619435": {
+      "id": "c502b619435",
+      "label": "Accident Bell 407 Myakka City Floride",
+      "categorie": "Accident",
+      "importance": 2,
+      "created": "2026-11-15T10:10:48Z",
+      "updated": "2026-11-15T10:10:48Z",
+      "items": [
+        {
+          "id": "d05f50fbbb7090dc",
+          "feed": "Aero-News Network",
+          "title": "NTSB Prelim: Bell 407",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=60AD7158-563B-4920-B571-8C594A78C42A",
+          "domain": "aero-news.net",
+          "summary": "According to the Operator, Mosquito Control Spraying Was Conducted At Night With Pilots Utilizing Night Vision Goggles On October 15, 2026, about 2051 eastern daylight time, a Bell 407 helicopter, N618TS, was destroyed when it was involved in an accident near Myakka City, Florida. The commercial pilot was fatally injured. The helicopter was operated as a Title 14 Code of Federal Regulations Part 91 public use flight. The helicopter was owned and operated by Manatee County Mosquito Control District (MCMCD). The accident flight was the pilot’s first mosquito control spraying mission that day. According to the operator, mosquito control spraying was conducted at night with pilots utilizing nigh",
+          "published": null
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.976364
+    "2026-11": 4.97741
   }
 }
