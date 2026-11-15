@@ -1436,7 +1436,8 @@
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-provides-complete-easy-access-rules-publication-history-xml": "2026-11-15T14:30:51Z",
     "https://www.aerotime.aero/articles/bombardier-2026-cash-flow-forecast-services-record": "2026-11-15T14:50:36Z",
     "https://www.aerotime.aero/articles/nasa-x-70-fractal-aircraft-jared-isaacman": "2026-11-15T14:50:36Z",
-    "https://leehamnews.com/2026/11/05/will-airbus-stretch-the-a350-part-2/": "2026-11-15T14:50:36Z"
+    "https://leehamnews.com/2026/11/05/will-airbus-stretch-the-a350-part-2/": "2026-11-15T14:50:36Z",
+    "https://simpleflying.com/jetblue-trueblue-earn-spend-points-united-airlines/": "2026-11-15T15:01:02Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4043,27 +4044,6 @@
       "story_id": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a",
       "written_count": 1
     },
-    "c9b381e5990": {
-      "id": "c9b381e5990",
-      "label": "Wizz Air résultats semestriels et flotte",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-13T14:50:49Z",
-      "updated": "2026-11-13T14:50:49Z",
-      "items": [
-        {
-          "id": "eff735390115b015",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Wizz Air réduit encore les immobilisations de sa flotte",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/wizz-air-reduit-encore-les-immobilisations-de-sa-flotte-20261113.html",
-          "domain": "journal-aviation.com",
-          "summary": "A l’occasion de la présentation de ses résultats pour son premier semestre (clôturé le 30 septembre), Wizz Air a notamment fait un point sur la situation de sa flotte. La […] L’article Wizz Air réduit encore les immobilisations de sa flotte a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-13T14:43:10Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 1
-    },
     "ca7db7f6a48": {
       "id": "ca7db7f6a48",
       "label": "Cyberattaque Quantum Systems drones Bundeswehr",
@@ -4769,6 +4749,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.989147
+    "2026-11": 4.989929
   }
 }
