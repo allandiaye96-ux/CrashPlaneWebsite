@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://airlinegeeks.com/2026/11/05/klm-plans-1000-more-job-cuts/": "2026-11-05T18:10:36Z",
     "https://www.twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons": "2026-11-05T19:10:33Z",
     "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash": "2026-11-05T19:40:33Z",
     "https://simpleflying.com/ups-137-million-hit-replace-mcdonnell-douglas-md-11s-smaller-widebody-freighters/": "2026-11-05T20:01:00Z",
@@ -1421,7 +1420,8 @@
     "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/": "2026-11-15T16:50:32Z",
     "https://simpleflying.com/united-doubles-flights-on-7-routes-from-major-hub/": "2026-11-15T18:01:01Z",
     "https://simpleflying.com/airline-expanding-airbus-a330-fleet-comfort-capacity-costs/": "2026-11-15T18:01:01Z",
-    "https://simpleflying.com/united-launches-6-new-routes-in-9-days/": "2026-11-15T18:01:01Z"
+    "https://simpleflying.com/united-launches-6-new-routes-in-9-days/": "2026-11-15T18:01:01Z",
+    "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-15T18:20:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1948,27 +1948,6 @@
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
       "written_count": 4
-    },
-    "c5d23a87c26": {
-      "id": "c5d23a87c26",
-      "label": "Philippine Airlines nouvelle liaison long-courrier 17 h vers les États-Unis",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-08T18:10:48Z",
-      "updated": "2026-11-08T18:10:48Z",
-      "items": [
-        {
-          "id": "179e308e715ee761",
-          "feed": "Simple Flying",
-          "title": "Philippine Airlines Launches Major New 17-Hour Nonstop US Route: See Map Now",
-          "url": "https://simpleflying.com/philippine-airlines-launches-new-17-hour-us-route-1-day/",
-          "domain": "simpleflying.com",
-          "summary": "North America is becoming an increasingly important market for the carrier.",
-          "published": "2026-11-08T18:01:18Z"
-        }
-      ],
-      "story_id": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26",
-      "written_count": 1
     },
     "c0b28ab7f96": {
       "id": "c0b28ab7f96",

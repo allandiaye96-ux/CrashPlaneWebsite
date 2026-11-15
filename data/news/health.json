@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-15T18:10:35Z",
+  "run": "2026-11-15T18:20:37Z",
   "stats": {
     "fetched": 684,
     "new": 0,
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Philippine Airlines nouvelle liaison long-courrier 17 h vers les États-Unis",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-08-philippine-airlines-lance-une-nouvelle-liaison-sans-escale-d-7c26"
     },
     {
       "dossier": "Heathrow troisième piste et aéroports régionaux",
