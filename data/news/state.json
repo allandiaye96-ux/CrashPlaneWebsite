@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=7E281995-7276-4F16-9CBE-CAF4D074BAF3": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3F3EA56C-5E34-4AEE-B7E2-E0F96D7F61AE": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=A021AF0F-82B0-456E-B3BD-C57F85AFD231": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=47723995-ABF2-4D2D-B8B6-82222A877B83": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E25AC3A3-DF34-4804-87D5-EAE155A6769A": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=E3663397-3927-460D-B275-CC134A60D247": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=8A3BD211-0985-4E65-9604-212439AFD2D5": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C956B846-8759-4875-9380-5AA81860EF9F": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=C8E16E91-8A10-4B32-8C06-E8DCFD2C6B8D": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=4FE374E7-FC36-41F1-94BC-BFE8A65D1E7A": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F449A919-F404-4F42-BE5F-2304E6FC9E58": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=FC8FE091-C291-4B40-ACF2-F885846113DC": "2026-11-05T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=29CA2F7E-BEA5-441A-82FD-5DE1D3176C83": "2026-11-05T10:10:36Z",
-    "https://avitrader.com/2026/11/05/lufthansa-technik-aero-alzey-renews-psa-airlines-engine-deal/": "2026-11-05T10:10:36Z",
-    "https://www.air-journal.fr/2026-11-05-condor-met-le-cap-sur-bangkok-via-le-hub-detihad-5278682.html": "2026-11-05T10:10:36Z",
-    "https://www.airliners.de/frachtdrohnen-unternehmen-dronamics-plant-boersengang-nasdaq/91330": "2026-11-05T10:20:32Z",
-    "https://www.airliners.de/aerfin-uebernimmt-44-boeing-737-ng-qantas/91326": "2026-11-05T10:20:32Z",
-    "https://www.airliners.de/auto-flight-plant-europazentrale-flughafen-moenchengladbach/91339": "2026-11-05T10:20:32Z",
     "https://avitrader.com/2026/11/05/setna-io-acquires-four-spirit-a320-airframes/": "2026-11-05T10:30:50Z",
     "https://simpleflying.com/differences-economy-premium-economy-business-first-class/": "2026-11-05T10:40:35Z",
     "https://www.air-journal.fr/2026-11-05-voyage-en-thailande-thai-airways-double-ses-frequences-sur-la-liaison-bangkok-paris-5278422.html": "2026-11-05T11:10:32Z",
@@ -1458,7 +1440,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=16CC5804-334D-4322-B15E-4ABDED04D2E0": "2026-11-15T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=860CDC52-B47E-48BB-AC38-C302FD774432": "2026-11-15T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=0CF0F8FA-3F34-49D4-820C-2E4F09DDD8C9": "2026-11-15T10:10:34Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=5F4A3DD4-4715-460F-8882-5D0007DCA165": "2026-11-15T10:10:34Z"
+    "https://www.aero-news.net/index.cfm?do=main.textpost&id=5F4A3DD4-4715-460F-8882-5D0007DCA165": "2026-11-15T10:10:34Z",
+    "https://simpleflying.com/why-airlines-dont-want-first-class/": "2026-11-15T10:20:38Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1508,90 +1491,6 @@
       ],
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
       "written_count": 4
-    },
-    "c2569f72076": {
-      "id": "c2569f72076",
-      "label": "Avolon commande 140 Boeing 737-10",
-      "categorie": "Constructeurs et industrie",
-      "importance": 3,
-      "created": "2026-11-04T08:31:07Z",
-      "updated": "2026-11-08T10:10:46Z",
-      "items": [
-        {
-          "id": "b1354994aece0cb6",
-          "feed": "Boeing – Communiqués",
-          "title": "Avolon Finalizes Order for 140 Boeing 737-10 Jets",
-          "url": "https://boeing.mediaroom.com/2026-11-04-Avolon-Finalizes-Order-for-140-Boeing-737-10-Jets",
-          "domain": "boeing.mediaroom.com",
-          "summary": "",
-          "published": "2026-11-04T08:30:00Z"
-        },
-        {
-          "id": "6882e3de4d2ea24d",
-          "feed": "Simple Flying",
-          "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor",
-          "url": "https://simpleflying.com/avolon-boeing-737-max-10-order/",
-          "domain": "simpleflying.com",
-          "summary": "Lessors are betting big on the largest MAX variant this year.",
-          "published": "2026-11-04T09:18:12Z"
-        },
-        {
-          "id": "b2e96e2d05895899",
-          "feed": "AeroTime",
-          "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
-          "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
-          "domain": "aerotime.aero",
-          "summary": "Boeing has confirmed that a triple-digit order announced last month from lessor Avolon is for 737 MAX 10… The post Boeing confirms triple-digit Avolon order is for MAX 10 jets appeared first on AeroTime .",
-          "published": "2026-11-04T09:19:46Z"
-        },
-        {
-          "id": "b910af0cfb357d05",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Avolon finalise sa commande pour 140 Boeing",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/avolon-finalise-sa-commande-pour-140-boeing-20261104.html",
-          "domain": "journal-aviation.com",
-          "summary": "Boeing a annoncé le 3 novembre que la commande d’Avolon avait été finalisée. Annoncée au début du mois d’octobre, elle porte sur 140 737-10, la version la plus capacitaire, qui […] L’article Avolon finalise sa commande pour 140 Boeing a été publié sur Le Journal de l'Aviation .",
-          "published": "2026-11-04T11:40:07Z"
-        },
-        {
-          "id": "c3a0702fcb70f8a9",
-          "feed": "Air Journal",
-          "title": "Boeing : Avolon frappe fort avec 140 737 MAX 10",
-          "url": "https://www.air-journal.fr/2026-11-04-boeing-avolon-frappe-fort-avec-140-737-max-10-5278671.html",
-          "domain": "air-journal.fr",
-          "summary": "Le loueur aéronautique Avolon a finalisé l’achat de 140 Boeing 737-10, la plus grande version de la famille MAX, portant à plus de 240 appareils son carnet de commandes de 737 MAX restant à livrer. Annoncée le 4 novembre, cette opération intervient deux semaines après la certification américaine du monocouloir et précise la version retenue […]",
-          "published": "2026-11-04T12:00:46Z"
-        },
-        {
-          "id": "3556e32813382477",
-          "feed": "airliners.de",
-          "title": "Avolon macht Auftrag über 140 Boeing 737 Max 10 fest",
-          "url": "https://www.airliners.de/avolon-auftrag-ueber-140-boeing-737-max-10-fest/91314",
-          "domain": "airliners.de",
-          "summary": "Der Leasinggeber Avolon hat den Kauf von 140 Boeing 737 Max 10 fest abgeschlossen, wie der Flugzeughersteller mitteilte . Avolons Bestand an offenen Bestellungen steigt damit auf mehr als 240 Flugzeuge.",
-          "published": "2026-11-04T14:09:38Z"
-        },
-        {
-          "id": "df3aef77b28c1b0b",
-          "feed": "AviTrader",
-          "title": "Avolon finalises 140 Boeing 737-10 order",
-          "url": "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/",
-          "domain": "avitrader.com",
-          "summary": "Boeing and aircraft lessor Avolon have confirmed the finalisation of the lessor’s previously announced purchase of 140 737-10 aircraft. The deal represents the largest 737 MAX order by a leasing company and takes Avolon’s backlog to more than 240 unfilled orders. Lessors have placed firm orders for more than 230 737-10s in 2026, five times […] The post Avolon finalises 140 Boeing 737-10 order appeared first on AviTrader Aviation News .",
-          "published": "2026-11-05T12:16:46Z"
-        },
-        {
-          "id": "9758a815a0e3d56b",
-          "feed": "Aero-News Network",
-          "title": "Avolon Finalizes Order For 140 Boeing 737-10 Jets",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=EAA2A96D-3FE2-4F9C-B0AE-E58B7F8C397C",
-          "domain": "aero-news.net",
-          "summary": "Large Single-Aisle Jets Are Fastest-Growing Segment Of Commercial Aviation Boeing and Avolon have announced the lessor finalized its purchase of 140 737-10 airplanes, a record 737 MAX order by a lessor that increases Avolon's backlog to more than 240 unfilled orders. Lessors have placed firm orders for more than 230 737-10 airplanes in 2026, five times more than the lessor backlog for the largest 737 MAX variant at the end of 2025. With the 737-10, Avolon can meet strong market demand for larger single-aisle jets and leverage the versatility of the 737 family. \"We continue to see strong demand for new technology aircraft, and this order further strengthens our long-term delivery pipeline. Th",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-04-avolon-finalise-sa-commande-de-140-boeing-737-10-annonce-boe-2076",
-      "written_count": 8
     },
     "c00a49a8b4f": {
       "id": "c00a49a8b4f",
@@ -1983,36 +1882,6 @@
       "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
       "written_count": 4
     },
-    "cc2e38be887": {
-      "id": "cc2e38be887",
-      "label": "Rapport ANSV A320 Air Arabia Maroc Catane",
-      "categorie": "Enquête",
-      "importance": 2,
-      "created": "2026-11-08T07:01:15Z",
-      "updated": "2026-11-08T10:10:46Z",
-      "items": [
-        {
-          "id": "226cdf2a32910817",
-          "feed": "Air Journal",
-          "title": "Air Arabia Maroc : à 12,5 mètres au-dessus de la mer, un Airbus A320 a frôlé la catastrophe à Catane",
-          "url": "https://www.air-journal.fr/2026-11-08-air-arabia-maroc-a-125-metres-au-dessus-de-la-mer-un-airbus-a320-a-frole-la-catastrophe-a-catane-5278726.html",
-          "domain": "air-journal.fr",
-          "summary": "Un Airbus A320 d’Air Arabia Maroc est descendu jusqu’à 12,5 mètres au-dessus de la mer, quelques secondes après son décollage de Catane-Fontanarossa, en Italie, le 20 septembre 2025. Selon les conclusions du rapport final de l’ANSV publiées le 6 novembre 2026, une succession d’erreurs de pilotage, la pression liée à la fermeture imminente de la […]",
-          "published": "2026-11-08T07:00:02Z"
-        },
-        {
-          "id": "cd7cad731a6bda2b",
-          "feed": "Aero-News Network",
-          "title": "AerFin Has Agreed To Acquire 44 Aircraft From Qantas",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=CF901330-598B-404D-A1B3-07961FD9E814",
-          "domain": "aero-news.net",
-          "summary": "Aircraft Will Be Transferred Over The Next Seven Years AerFin has agreed to acquire 44 aircraft from Qantas in the largest transaction in the company’s history. The acquisition comprises 44 Boeing 737NG aircraft and 88 CFM56-7B engines, marking a major milestone in AerFin’s continued expansion and further cementing its position as a leading global aviation aftermarket specialist. The transaction will strengthen support for airline and maintenance, repair and overhaul customers worldwide, providing access to high-quality aircraft material and tailored aftermarket solutions. The agreement also underscores AerFin’s expanding footprint across the Asia-Pacific region and its proven capability to ",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-08-aerfin-acquiert-44-boeing-737ng-aupres-de-qantas-sa-plus-imp-e887",
-      "written_count": 2
-    },
     "caa8b495754": {
       "id": "caa8b495754",
       "label": "Quasi-collision LAX Air France A350 American A321",
@@ -2051,27 +1920,6 @@
       ],
       "story_id": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754",
       "written_count": 3
-    },
-    "ca6bda9a970": {
-      "id": "ca6bda9a970",
-      "label": "Eve Air Mobility And FlyBIS Sign eVTOL Deal",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-08T10:10:46Z",
-      "updated": "2026-11-08T10:10:46Z",
-      "items": [
-        {
-          "id": "21c5c6df90b17d36",
-          "feed": "Aero-News Network",
-          "title": "Eve Air Mobility And FlyBIS Sign eVTOL Deal",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=3CB40DCF-6EC1-4FEB-B60A-ECB57BC20E92",
-          "domain": "aero-news.net",
-          "summary": "Binding Agreement For Up To 12 eVTOLs In Southern Brazil Eve Air Mobility and FlyBIS Aviation Limited have announced the signing of a binding agreement for up to 12 electric Vertical Take-Off and Landing (eVTOL) aircraft. The agreement comprises two firm orders and purchase rights for ten additional units. The agreement builds on the Letter of Intent the companies announced in 2022 and advances their collaboration to establish electric air mobility operations in Brazil. FlyBIS plans to deploy Eve’s eVTOL in Southern Brazil, initially connecting destinations in Santa Catarina and Rio Grande do Sul. Eve and FlyBIS will continue collaborating on the requirements to support entry into service, i",
-          "published": null
-        }
-      ],
-      "story_id": "2026-11-08-eve-air-mobility-et-flybis-signent-un-accord-ferme-pour-jusq-a970",
-      "written_count": 1
     },
     "c1652cb2bb5": {
       "id": "c1652cb2bb5",
@@ -4908,6 +4756,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.97741
+    "2026-11": 4.978197
   }
 }
