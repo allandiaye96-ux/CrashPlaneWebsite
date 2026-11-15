@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-15T18:40:35Z",
+  "run": "2026-11-15T18:50:35Z",
   "stats": {
     "fetched": 684,
     "new": 0,
@@ -140,12 +140,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f"
-    },
-    {
-      "dossier": "Airbus A320 ATRA laboratoire radar Manching",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-06-airbus-l-a320-atra-laboratoire-volant-au-nez-d-eurofighter-t-8e7e"
     },
     {
       "dossier": "CFM moteurs China Eastern 101 A320neo",
