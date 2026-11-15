@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/11/05/setna-io-acquires-four-spirit-a320-airframes/": "2026-11-05T10:30:50Z",
-    "https://simpleflying.com/differences-economy-premium-economy-business-first-class/": "2026-11-05T10:40:35Z",
     "https://www.air-journal.fr/2026-11-05-voyage-en-thailande-thai-airways-double-ses-frequences-sur-la-liaison-bangkok-paris-5278422.html": "2026-11-05T11:10:32Z",
     "https://avitrader.com/2026/11/05/liebherr-aerospace-wins-klm-cityhopper-landing-gear-deal/": "2026-11-05T11:30:49Z",
     "https://www.aero.de/news-54100/Daempfer-fuer-Ryanair-im-Streit-um-Hilfen-fuer-KLM-und-Condor.html": "2026-11-05T11:30:49Z",
@@ -1441,7 +1439,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=860CDC52-B47E-48BB-AC38-C302FD774432": "2026-11-15T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=0CF0F8FA-3F34-49D4-820C-2E4F09DDD8C9": "2026-11-15T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=5F4A3DD4-4715-460F-8882-5D0007DCA165": "2026-11-15T10:10:34Z",
-    "https://simpleflying.com/why-airlines-dont-want-first-class/": "2026-11-15T10:20:38Z"
+    "https://simpleflying.com/why-airlines-dont-want-first-class/": "2026-11-15T10:20:38Z",
+    "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft": "2026-11-15T10:40:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4654,7 +4653,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-14T19:20:49Z",
-      "updated": "2026-11-14T19:20:49Z",
+      "updated": "2026-11-15T10:40:52Z",
       "items": [
         {
           "id": "fdb0e284f7d5a10f",
@@ -4664,10 +4663,19 @@
           "domain": "aero.de",
           "summary": "BINZHOU - COMAC arbeitet an einem E-Flugzeug. Der batteriebetriebene Prototyp CE-25A ist jetzt zum ersten Mal geflogen.",
           "published": "2026-11-14T19:18:58Z"
+        },
+        {
+          "id": "a95ec8047b42f9b6",
+          "feed": "AeroTime",
+          "title": "China’s COMAC completes first piloted flight of CE-25A electric aircraft",
+          "url": "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft",
+          "domain": "aerotime.aero",
+          "summary": "China’s first domestically developed fixed-wing electric commercial aircraft, the CE-25A, completed its first piloted test flight on November… The post China’s COMAC completes first piloted flight of CE-25A electric aircraft appeared first on AeroTime .",
+          "published": "2026-11-15T10:32:27Z"
         }
       ],
       "story_id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
-      "written_count": 1
+      "written_count": 2
     },
     "c8317a8c3bd": {
       "id": "c8317a8c3bd",
@@ -4756,6 +4764,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.978197
+    "2026-11": 4.979813
   }
 }
