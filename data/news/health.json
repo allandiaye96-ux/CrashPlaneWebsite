@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-15T13:30:54Z",
+  "run": "2026-11-15T13:40:35Z",
   "stats": {
-    "fetched": 674,
-    "new": 1,
+    "fetched": 684,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -632,12 +632,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47"
-    },
-    {
-      "dossier": "DGA qualification drone U010 Aliaca VTOL",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "FTC enquête tarifs personnalisés Delta United JetBlue",

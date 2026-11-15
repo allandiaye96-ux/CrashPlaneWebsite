@@ -3994,27 +3994,6 @@
       "story_id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
       "written_count": 2
     },
-    "c6481b8a2dd": {
-      "id": "c6481b8a2dd",
-      "label": "DGA qualification drone U010 Aliaca VTOL",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-13T13:31:09Z",
-      "updated": "2026-11-13T13:31:09Z",
-      "items": [
-        {
-          "id": "d4211ec95049d1c5",
-          "feed": "Airbus – Communiqués",
-          "title": "French Armament General Directorate (DGA) qualifies Airbus U010 Aliaca drone",
-          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone",
-          "domain": "airbus.com",
-          "summary": "The new VTOL variant of Airbus Helicopters’ tactical uncrewed aerial system U010 Aliaca has been officially qualified by the French DGA.",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c2c0d17c1dd": {
       "id": "c2c0d17c1dd",
       "label": "FTC enquête tarifs personnalisés Delta United JetBlue",
