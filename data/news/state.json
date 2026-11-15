@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/breeze-airways-launches-15-new-routes-from-major-airport/": "2026-11-05T20:20:35Z",
     "https://simpleflying.com/podcast-309/": "2026-11-05T20:30:50Z",
     "https://simpleflying.com/avelo-airlines-cancels-all-6-international-routes/": "2026-11-05T20:50:34Z",
     "https://www.aerotime.aero/articles/us-gulfstream-g550-seized-iran-trip": "2026-11-05T21:01:02Z",
@@ -1420,7 +1419,8 @@
     "https://simpleflying.com/pilatus-pc-12-hourly-charter-cost-2026/": "2026-11-15T20:01:02Z",
     "https://simpleflying.com/delta-launches-new-9-hour-route/": "2026-11-15T20:01:02Z",
     "https://www.aero.de/news-54179/US-Luftverkehr-stabilisiert-sich-nur-langsam.html": "2026-11-15T20:01:02Z",
-    "https://www.aero.de/news-54180/Flugzeuge-kollidieren-auf-Rollweg-in-Miami.html": "2026-11-15T20:10:34Z"
+    "https://www.aero.de/news-54180/Flugzeuge-kollidieren-auf-Rollweg-in-Miami.html": "2026-11-15T20:10:34Z",
+    "https://simpleflying.com/comac-ce-25a-electric-plane-first-piloted-flight/": "2026-11-15T20:20:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4405,7 +4405,7 @@
       "categorie": "Constructeurs et industrie",
       "importance": 2,
       "created": "2026-11-14T19:20:49Z",
-      "updated": "2026-11-15T10:40:52Z",
+      "updated": "2026-11-15T20:20:49Z",
       "items": [
         {
           "id": "fdb0e284f7d5a10f",
@@ -4424,6 +4424,15 @@
           "domain": "aerotime.aero",
           "summary": "China’s first domestically developed fixed-wing electric commercial aircraft, the CE-25A, completed its first piloted test flight on November… The post China’s COMAC completes first piloted flight of CE-25A electric aircraft appeared first on AeroTime .",
           "published": "2026-11-15T10:32:27Z"
+        },
+        {
+          "id": "0ac26b09503ff8a2",
+          "feed": "Simple Flying",
+          "title": "China Completes First Piloted Flight Of 19-Seat Electric Plane Built To Fly Between Cities",
+          "url": "https://simpleflying.com/comac-ce-25a-electric-plane-first-piloted-flight/",
+          "domain": "simpleflying.com",
+          "summary": "First flight is complete but certification is still a major hurdle.",
+          "published": "2026-11-15T20:14:04Z"
         }
       ],
       "story_id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
@@ -4660,6 +4669,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.999623
+    "2026-11": 5.000407
   }
 }

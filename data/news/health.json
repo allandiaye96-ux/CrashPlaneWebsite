@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-15T20:10:34Z",
+  "run": "2026-11-15T20:20:36Z",
   "stats": {
     "fetched": 684,
     "new": 1,
-    "written": 1,
+    "written": 0,
     "held": 0,
     "errors": 0
   },
-  "spend_month_usd": 4.9996,
+  "spend_month_usd": 5.0004,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -250,6 +250,12 @@
       "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
     },
     {
+      "dossier": "COMAC CE-25A avion électrique premier vol",
+      "statut": "corrobore",
+      "editeurs": 3,
+      "breve": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8"
+    },
+    {
       "dossier": "Collision UPS 767 et Copa 737 à Miami",
       "statut": "corrobore",
       "editeurs": 3,
@@ -386,12 +392,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb"
-    },
-    {
-      "dossier": "COMAC CE-25A avion électrique premier vol",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8"
     },
     {
       "dossier": "Ryanair suppression 19 routes UK",
