@@ -1437,7 +1437,8 @@
     "https://simpleflying.com/2-hour-rest-rule-ultra-long-haul-airbus-a350-pilots-have-before-landing/": "2026-11-15T12:01:03Z",
     "https://simpleflying.com/spool-up-turn-burn-takeoff-concept-more-effective/": "2026-11-15T12:01:03Z",
     "https://www.air-journal.fr/2026-11-15-port-polska-le-pari-polonais-pour-bousculer-les-grands-hubs-europeens-5278852.html": "2026-11-15T12:01:03Z",
-    "https://www.airliners.de/jobs-der-woche-2026-kw-46/91520": "2026-11-15T12:20:35Z"
+    "https://www.airliners.de/jobs-der-woche-2026-kw-46/91520": "2026-11-15T12:20:35Z",
+    "https://theaviationist.com/2026/11/15/kadena-welcomes-its-first-f-15ex-eagle-ii-fighters/": "2026-11-15T12:30:50Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4736,10 +4737,31 @@
       ],
       "story_id": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47",
       "written_count": 1
+    },
+    "cd85a071485": {
+      "id": "cd85a071485",
+      "label": "Arrivée F-15EX à Kadena (Japon)",
+      "categorie": "Défense",
+      "importance": 2,
+      "created": "2026-11-15T12:31:03Z",
+      "updated": "2026-11-15T12:31:03Z",
+      "items": [
+        {
+          "id": "a712d709a2b150b5",
+          "feed": "The Aviationist",
+          "title": "Kadena Welcomes Its First F-15EX Eagle II Fighters",
+          "url": "https://theaviationist.com/2026/11/15/kadena-welcomes-its-first-f-15ex-eagle-ii-fighters/",
+          "domain": "theaviationist.com",
+          "summary": "The first permanently stationed U.S. Air Force F-15EX Eagle IIs assigned to the 67th Fighter Squadron arrived at Kadena Air Base, Japan. The first two U.S. Air Force F-15EX Eagle II fighters jets permanently stationed at Kadena Air Base, Japan, arrived at their new home on Nov. 15, 2026. The two aircraft are assigned to […]",
+          "published": "2026-11-15T12:14:40Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 0
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.983851
+    "2026-11": 4.984662
   }
 }
