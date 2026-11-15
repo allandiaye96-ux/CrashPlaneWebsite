@@ -6,7 +6,15 @@
   <atom:link href="https://www.cahierdevol.fr/actualites/feed.xml" rel="self" type="application/rss+xml" />
   <description>L’actualité aéronautique recoupée entre plusieurs sources.</description>
   <language>fr-fr</language>
-  <lastBuildDate>Sun, 15 Nov 2026 11:50:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 12:01:35 +0000</lastBuildDate>
+  <item>
+    <title>Port Polska : la Pologne maintient l&#x27;objectif d&#x27;une ouverture fin 2032</title>
+    <link>https://www.cahierdevol.fr/actualites/2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47/</link>
+    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47/</guid>
+    <pubDate>Sun, 15 Nov 2026 12:01:35 +0000</pubDate>
+    <category>Aéroports</category>
+    <description>Selon Air Journal, la Pologne conserve l&#x27;objectif d&#x27;ouvrir Port Polska fin 2032, un aéroport destiné à prendre le relais de Varsovie-Chopin.</description>
+  </item>
   <item>
     <title>Le COMAC CE-25A, avion commercial électrique chinois, réalise son premier vol avec pilote</title>
     <link>https://www.cahierdevol.fr/actualites/2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8/</link>
@@ -238,14 +246,6 @@
     <pubDate>Thu, 12 Nov 2026 10:10:52 +0000</pubDate>
     <category>Enquête</category>
     <description>Selon l&#x27;AAIB, l&#x27;enquête britannique sur l&#x27;hélicoptère Leonardo AW169 immatriculé G-HHEM porte sur une personne grièvement blessée par le souffle de ses rotors (downwash) à Southend, dans l&#x27;Essex, le 28 février 2026.</description>
-  </item>
-  <item>
-    <title>Etihad réduit son offre vers l&#x27;Allemagne à partir de janvier 2027</title>
-    <link>https://www.cahierdevol.fr/actualites/2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65/</link>
-    <guid isPermaLink="true">https://www.cahierdevol.fr/actualites/2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65/</guid>
-    <pubDate>Thu, 12 Nov 2026 08:20:49 +0000</pubDate>
-    <category>Compagnies</category>
-    <description>Selon airliners.de, Etihad Airways va réduire à partir de janvier 2027 son offre sur de nombreuses lignes au départ d&#x27;Abu Dhabi, notamment vers Francfort et Düsseldorf.</description>
   </item>
 </channel>
 </rss>

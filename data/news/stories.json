@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47",
+    "created": "2026-11-15T12:01:35Z",
+    "updated": "2026-11-15T12:01:35Z",
+    "version": 1,
+    "published": true,
+    "hidden": false,
+    "withdrawn": false,
+    "categorie": "Aéroports",
+    "importance": 2,
+    "titre": "Port Polska : la Pologne maintient l'objectif d'une ouverture fin 2032",
+    "chapo": "Selon Air Journal, la Pologne conserve l'objectif d'ouvrir Port Polska fin 2032, un aéroport destiné à prendre le relais de Varsovie-Chopin.",
+    "paragraphes": [
+      "Ce nouvel aéroport doit accompagner le développement de LOT Polish Airlines et combiner correspondances, fret et grande vitesse ferroviaire. Le projet vise ainsi à se positionner face aux grands hubs européens.",
+      "Le financement et le calendrier des travaux figurent parmi les points de vigilance évoqués par le média. Le tracé de la liaison ferroviaire entre Varsovie et Łódź est également mentionné dans l'article."
+    ],
+    "contradictions": "",
+    "verification": {
+      "status": "source_unique",
+      "independent_sources": 1,
+      "official_source": false
+    },
+    "sources": [
+      {
+        "name": "Air Journal",
+        "title": "Port Polska : le pari polonais pour bousculer les grands hubs européens",
+        "url": "https://www.air-journal.fr/2026-11-15-port-polska-le-pari-polonais-pour-bousculer-les-grands-hubs-europeens-5278852.html",
+        "date": "2026-11-15T12:00:55Z",
+        "official": false
+      }
+    ]
+  },
+  {
     "id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
     "created": "2026-11-14T19:20:51Z",
     "updated": "2026-11-15T10:40:57Z",
