@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/learjet-elevator-pieces-florida-crash": "2026-11-05T19:40:33Z",
     "https://simpleflying.com/ups-137-million-hit-replace-mcdonnell-douglas-md-11s-smaller-widebody-freighters/": "2026-11-05T20:01:00Z",
     "https://australianaviation.com.au/2026/11/air-tractor-crashed-while-trying-to-avoid-power-pole-says-atsb/": "2026-11-05T20:01:00Z",
     "https://australianaviation.com.au/2026/11/virgin-australia-to-make-major-lounge-investments/": "2026-11-05T20:01:00Z",
@@ -1422,7 +1421,8 @@
     "https://simpleflying.com/united-launches-6-new-routes-in-9-days/": "2026-11-15T18:01:01Z",
     "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-15T18:20:37Z",
     "https://simpleflying.com/airline-replacing-airbus-a350-fleet-2030/": "2026-11-15T19:07:08Z",
-    "https://www.twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons": "2026-11-15T19:20:35Z"
+    "https://www.twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons": "2026-11-15T19:20:35Z",
+    "https://simpleflying.com/southwest-airlines-auctioning-off-old-oakland-baggage-carts-750/": "2026-11-15T19:50:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4644,6 +4644,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.995408
+    "2026-11": 4.996193
   }
 }
