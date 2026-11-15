@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-15T15:10:33Z",
+  "run": "2026-11-15T15:20:34Z",
   "stats": {
     "fetched": 684,
-    "new": 1,
+    "new": 0,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -410,12 +410,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "TUI fly Belgium réseau été 2027",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25"
     },
     {
       "dossier": "Philippine Airlines nouvelle liaison long-courrier 17 h vers les États-Unis",

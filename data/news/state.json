@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-05-camera-cachee-dans-les-toilettes-dun-vol-scoot-un-britannique-inculpe-5278684.html": "2026-11-05T15:10:36Z",
-    "https://www.airliners.de/ryanair-luebeck-alicante-programm/91349": "2026-11-05T15:20:34Z",
-    "https://www.airliners.de/nesma-airlines-flyplus-business-class/91348": "2026-11-05T15:20:34Z",
-    "https://www.airliners.de/bericht-airbus-steigert-auslieferungen-oktober/91347": "2026-11-05T15:20:34Z",
-    "https://www.airliners.de/liebherr-aerospace-eroeffnet-buero-sydney/91346": "2026-11-05T15:20:34Z",
-    "https://www.airliners.de/streit-kosten-luftsicherheit-frankfurt-hahn/91344": "2026-11-05T15:20:34Z",
-    "https://www.airliners.de/ki-boom-dhl-express-geschaeft-punktet/91345": "2026-11-05T15:20:34Z",
     "https://theaviationist.com/2026/11/05/japan-intercepts-chinese-wz-7/": "2026-11-05T15:40:34Z",
     "https://www.journal-aviation.com/actualites-mro-support/airbus-services-du-fhs-a-skywise-une-offre-en-pleine-expansion-pour-accompagner-les-operateurs-20261105.html": "2026-11-05T15:40:34Z",
     "https://simpleflying.com/full-life-engine-prices-nearly-doubles-13-million-keeping-old-freighters-air/": "2026-11-05T16:20:35Z",
@@ -1965,27 +1958,6 @@
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
       "written_count": 4
-    },
-    "cad1dd58c25": {
-      "id": "cad1dd58c25",
-      "label": "TUI fly Belgium réseau été 2027",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-08T15:10:45Z",
-      "updated": "2026-11-08T15:10:45Z",
-      "items": [
-        {
-          "id": "6c39a88b201b9280",
-          "feed": "Air Journal",
-          "title": "Moins de destinations, plus de vols : TUI fly Belgium revoit son réseau pour 2027",
-          "url": "https://www.air-journal.fr/2026-11-08-moins-de-destinations-plus-de-vols-tui-fly-belgium-revoit-son-reseau-pour-2027-5278736.html",
-          "domain": "air-journal.fr",
-          "summary": "TUI fly Belgium va profondément remanier son programme estival 2027 : 17 destinations seront supprimées, tandis que quatre autres rejoindront son offre au départ de Bruxelles-Zaventem (Brussels Airport). La compagnie aérienne entend néanmoins augmenter ses capacités en renforçant les fréquences vers les destinations conservées. Cette réorganisation intervient alors que la maison mère, le groupe allemand […]",
-          "published": "2026-11-08T15:00:25Z"
-        }
-      ],
-      "story_id": "2026-11-08-tui-fly-belgium-supprime-17-destinations-pour-l-ete-2027-mai-8c25",
-      "written_count": 1
     },
     "c5d23a87c26": {
       "id": "c5d23a87c26",
