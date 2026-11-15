@@ -1,13 +1,13 @@
 {
-  "run": "2026-11-15T19:01:02Z",
+  "run": "2026-11-15T19:07:08Z",
   "stats": {
     "fetched": 684,
-    "new": 0,
+    "new": 1,
     "written": 0,
-    "held": 0,
+    "held": 1,
     "errors": 0
   },
-  "spend_month_usd": 4.9939,
+  "spend_month_usd": 4.9954,
   "feeds": {
     "AAIB (Royaume-Uni) – Rapports": {
       "ok": true,
@@ -672,6 +672,12 @@
     {
       "dossier": "FAA consignes inspection 787 réservoirs carburant",
       "statut": "signale",
+      "editeurs": 1,
+      "breve": null
+    },
+    {
+      "dossier": "Malaysia Airlines remplacement A350 à partir de 2030",
+      "statut": "source_unique",
       "editeurs": 1,
       "breve": null
     }

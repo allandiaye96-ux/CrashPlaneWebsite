@@ -1421,7 +1421,8 @@
     "https://simpleflying.com/united-doubles-flights-on-7-routes-from-major-hub/": "2026-11-15T18:01:01Z",
     "https://simpleflying.com/airline-expanding-airbus-a330-fleet-comfort-capacity-costs/": "2026-11-15T18:01:01Z",
     "https://simpleflying.com/united-launches-6-new-routes-in-9-days/": "2026-11-15T18:01:01Z",
-    "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-15T18:20:37Z"
+    "https://www.twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid": "2026-11-15T18:20:37Z",
+    "https://simpleflying.com/airline-replacing-airbus-a350-fleet-2030/": "2026-11-15T19:07:08Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4618,10 +4619,31 @@
       ],
       "story_id": "2026-11-15-une-start-up-americaine-de-luxe-commande-10-airbus-a220-dote-c375",
       "written_count": 1
+    },
+    "c1237aa7056": {
+      "id": "c1237aa7056",
+      "label": "Malaysia Airlines remplacement A350 à partir de 2030",
+      "categorie": "Compagnies",
+      "importance": 2,
+      "created": "2026-11-15T19:07:19Z",
+      "updated": "2026-11-15T19:07:19Z",
+      "items": [
+        {
+          "id": "25f4e4ddae1ef57c",
+          "feed": "Simple Flying",
+          "title": "Why This Airline Wants To Replace Its Airbus A350s From 2030",
+          "url": "https://simpleflying.com/airline-replacing-airbus-a350-fleet-2030/",
+          "domain": "simpleflying.com",
+          "summary": "The paradigm shift coming the Malaysia Airlines' the before the end of the decade.",
+          "published": "2026-11-15T19:01:21Z"
+        }
+      ],
+      "story_id": null,
+      "written_count": 1
     }
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.993904
+    "2026-11": 4.995408
   }
 }
