@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-boeing-787-9-operators-moving-1-2-1-business-class/": "2026-11-05T06:01:00Z",
-    "https://www.air-journal.fr/2026-11-05-aeroport-de-bangkok-suvarnabhumi-moins-de-duty-free-plus-de-services-premium-et-extension-des-capacites-5278677.html": "2026-11-05T06:01:00Z",
     "https://www.airliners.de/netz-strecken-discover-ziele-a350-emirates-klarheit-air-transat-streicht-toronto-berlin/91332": "2026-11-05T06:20:35Z",
     "https://www.airliners.de/helvetic-fliegt-2027-swiss-condor/91315": "2026-11-05T06:20:35Z",
     "https://www.air-journal.fr/2026-11-05-indigo-lorgne-jusqua-150-embraer-pour-muscler-son-reseau-regional-5278678.html": "2026-11-05T07:01:01Z",
@@ -1469,7 +1467,8 @@
     "https://www.air-journal.fr/2026-11-15-le-15-novembre-1913-dans-le-ciel-debut-des-hostilites-5278876.html": "2026-11-14T23:10:35Z",
     "https://www.aerotime.aero/articles/retired-jet-engines-powering-ai-data-centers": "2026-11-15T01:50:34Z",
     "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft": "2026-11-15T03:01:04Z",
-    "https://simpleflying.com/emirates-stripping-airbus-a380s-bare-metal-qantas-retires-superjumbos-4-years-early/": "2026-11-15T05:30:56Z"
+    "https://simpleflying.com/emirates-stripping-airbus-a380s-bare-metal-qantas-retires-superjumbos-4-years-early/": "2026-11-15T05:30:56Z",
+    "https://www.air-journal.fr/2026-11-15-panne-du-controle-aerien-aux-etats-unis-15-000-vols-annules-en-deux-jours-la-reprise-attendue-dimanche-soir-5278858.html": "2026-11-15T06:10:43Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4517,7 +4516,7 @@
       "categorie": "Sécurité et réglementation",
       "importance": 3,
       "created": "2026-11-13T21:30:59Z",
-      "updated": "2026-11-14T19:01:14Z",
+      "updated": "2026-11-15T06:10:53Z",
       "items": [
         {
           "id": "e05f5c385448df5b",
@@ -4671,10 +4670,19 @@
           "domain": "simpleflying.com",
           "summary": "Technicians switching copper to fiber triggered out of sync data floods across legacy FAA routers and grounded flights.",
           "published": "2026-11-14T18:57:18Z"
+        },
+        {
+          "id": "526a84b1cc894cb5",
+          "feed": "Air Journal",
+          "title": "Panne du contrôle aérien aux États-Unis : 15 000 vols annulés en deux jours, la reprise attendue dimanche soir",
+          "url": "https://www.air-journal.fr/2026-11-15-panne-du-controle-aerien-aux-etats-unis-15-000-vols-annules-en-deux-jours-la-reprise-attendue-dimanche-soir-5278858.html",
+          "domain": "air-journal.fr",
+          "summary": "Les conséquences de la panne du contrôle aérien continuent de désorganiser les voyages aux États-Unis. Après environ 9 200 annulations vendredi, plus de 6 150 vols supplémentaires avaient été supprimés samedi en début de soirée, selon le site de suivi FlightAware. Les autorités espèrent un retour à la normale ce dimanche soir. L’enquête se concentre […]",
+          "published": "2026-11-15T06:00:31Z"
         }
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
-      "written_count": 17
+      "written_count": 18
     },
     "c8c9ab12da0": {
       "id": "c8c9ab12da0",
@@ -4847,6 +4855,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.967766
+    "2026-11": 4.969921
   }
 }
