@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/vaeridion-945-millionen-euro-eu-foerdermittel-microliner/91337": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/air-france-klm-uebertrifft-gewinnerwartungen-streicht-klm-1000-stellen/91338": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/emirates-nettogewinn-bricht-halbjahr-66-prozent-ein/91335": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/malaysia-verschiebt-saf-beimischungspflicht-2030/91340": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/michael-schwarz-geschaeftsfuehrer-flughafen-paderbornlippstadt/91336": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/latam-aktie-legt-trotz-gesenkter-jahresprognose-prozent/91334": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/fahrwerk-dornier-328-d328-eco-tests/91320": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/herbstferien-flughafen-dortmund-passagiere/91313": "2026-11-05T09:20:35Z",
-    "https://www.airliners.de/fraport-condor-umzug-einzelne-airlines-terminal-1-ueckholen/91309": "2026-11-05T09:20:35Z",
     "https://www.aerotime.aero/articles/autoflight-worlds-first-formation-flight-five-unmanned-evtols-video": "2026-11-05T09:40:43Z",
     "https://avitrader.com/2026/11/05/flybis-orders-up-to-12-eve-evtols/": "2026-11-05T09:40:43Z",
     "https://www.aero.de/news-54098/Erneut-Bombendrohung-gegen-Linienflug.html": "2026-11-05T09:40:43Z",
@@ -1460,7 +1451,8 @@
     "https://www.air-journal.fr/2026-11-15-tui-fly-supprime-quatre-lignes-reliant-lille-au-maroc-agadir-casablanca-marrakech-et-oujda-5278831.html": "2026-11-15T07:00:59Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-and-blue-angels-air-will-deliver-ab-initio-pilot-training-for-the-indian-market": "2026-11-15T07:50:38Z",
     "https://simpleflying.com/how-boeing-737-max-10-growing-first-class-flying-us/": "2026-11-15T08:00:59Z",
-    "https://www.air-journal.fr/2026-11-15-sexe-appels-video-et-reseaux-sociaux-les-nouveaux-defis-du-calme-en-cabine-premium-5278874.html": "2026-11-15T08:00:59Z"
+    "https://www.air-journal.fr/2026-11-15-sexe-appels-video-et-reseaux-sociaux-les-nouveaux-defis-du-calme-en-cabine-premium-5278874.html": "2026-11-15T08:00:59Z",
+    "https://www.air-journal.fr/2026-11-15-aircalin-prepare-larrivee-de-son-premier-airbus-a350-attendu-en-service-debut-2027-5278832.html": "2026-11-15T09:20:45Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4868,6 +4860,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.974748
+    "2026-11": 4.975554
   }
 }
