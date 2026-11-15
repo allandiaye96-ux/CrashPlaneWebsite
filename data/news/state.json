@@ -1437,7 +1437,8 @@
     "https://www.aerotime.aero/articles/bombardier-2026-cash-flow-forecast-services-record": "2026-11-15T14:50:36Z",
     "https://www.aerotime.aero/articles/nasa-x-70-fractal-aircraft-jared-isaacman": "2026-11-15T14:50:36Z",
     "https://leehamnews.com/2026/11/05/will-airbus-stretch-the-a350-part-2/": "2026-11-15T14:50:36Z",
-    "https://simpleflying.com/jetblue-trueblue-earn-spend-points-united-airlines/": "2026-11-15T15:01:02Z"
+    "https://simpleflying.com/jetblue-trueblue-earn-spend-points-united-airlines/": "2026-11-15T15:01:02Z",
+    "https://www.air-journal.fr/2026-11-15-berlin-brandebourg-bientot-plus-besoin-de-sortir-liquides-et-appareils-electroniques-aux-controles-5278871.html": "2026-11-15T15:10:33Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4074,27 +4075,6 @@
       "story_id": "2026-11-13-quantum-systems-les-drones-de-la-bundeswehr-de-nouveau-en-vo-6a48",
       "written_count": 2
     },
-    "cc59c4015b3": {
-      "id": "cc59c4015b3",
-      "label": "Singapore Airlines résultats semestriels 2026/2027",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-13T15:01:18Z",
-      "updated": "2026-11-13T15:01:18Z",
-      "items": [
-        {
-          "id": "b5f7d0b68e0f113c",
-          "feed": "Air Journal",
-          "title": "Singapore Airlines : des passagers records au premier semestre, mais le kérosène rogne les bénéfices",
-          "url": "https://www.air-journal.fr/2026-11-13-singapore-airlines-des-passagers-records-au-premier-semestre-mais-le-kerosene-rogne-les-benefices-5278845.html",
-          "domain": "air-journal.fr",
-          "summary": "Le groupe Singapore Airlines a enregistré un chiffre d’affaires et un nombre de passagers records au premier semestre de son exercice 2026/2027. Mais la flambée du kérosène a fait reculer son bénéfice net de 43,9%, malgré un net redressement au deuxième trimestre et la bonne tenue du fret. Transporter davantage de voyageurs, améliorer ses recettes […]",
-          "published": "2026-11-13T15:00:38Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 1
-    },
     "ced930dadb1": {
       "id": "ced930dadb1",
       "label": "B-21 Raider démonstration largage d'armement",
@@ -4749,6 +4729,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.989929
+    "2026-11": 4.990737
   }
 }
