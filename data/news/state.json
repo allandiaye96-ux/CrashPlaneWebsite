@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://avitrader.com/2026/11/05/avolon-finalises-140-boeing-737-10-order/": "2026-11-05T12:20:33Z",
     "https://www.aerotime.aero/articles/emirates-financial-results-fuel-profit": "2026-11-05T12:40:33Z",
     "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions": "2026-11-05T12:40:33Z",
     "https://theaviationist.com/2026/11/05/from-drones-to-bomb-hoaxes/": "2026-11-05T12:50:34Z",
@@ -1437,7 +1436,8 @@
     "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts": "2026-11-15T12:01:03Z",
     "https://simpleflying.com/2-hour-rest-rule-ultra-long-haul-airbus-a350-pilots-have-before-landing/": "2026-11-15T12:01:03Z",
     "https://simpleflying.com/spool-up-turn-burn-takeoff-concept-more-effective/": "2026-11-15T12:01:03Z",
-    "https://www.air-journal.fr/2026-11-15-port-polska-le-pari-polonais-pour-bousculer-les-grands-hubs-europeens-5278852.html": "2026-11-15T12:01:03Z"
+    "https://www.air-journal.fr/2026-11-15-port-polska-le-pari-polonais-pour-bousculer-les-grands-hubs-europeens-5278852.html": "2026-11-15T12:01:03Z",
+    "https://www.airliners.de/jobs-der-woche-2026-kw-46/91520": "2026-11-15T12:20:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4740,6 +4740,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.983056
+    "2026-11": 4.983851
   }
 }
