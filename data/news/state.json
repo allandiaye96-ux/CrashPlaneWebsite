@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-05-voyage-en-thailande-thai-airways-double-ses-frequences-sur-la-liaison-bangkok-paris-5278422.html": "2026-11-05T11:10:32Z",
     "https://avitrader.com/2026/11/05/liebherr-aerospace-wins-klm-cityhopper-landing-gear-deal/": "2026-11-05T11:30:49Z",
     "https://www.aero.de/news-54100/Daempfer-fuer-Ryanair-im-Streit-um-Hilfen-fuer-KLM-und-Condor.html": "2026-11-05T11:30:49Z",
     "https://www.aerotime.aero/articles/air-france-klm-q3-2026-profit-klm-job-cuts": "2026-11-05T11:50:33Z",
@@ -1441,7 +1440,8 @@
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=5F4A3DD4-4715-460F-8882-5D0007DCA165": "2026-11-15T10:10:34Z",
     "https://simpleflying.com/why-airlines-dont-want-first-class/": "2026-11-15T10:20:38Z",
     "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft": "2026-11-15T10:40:37Z",
-    "https://www.air-journal.fr/2026-11-15-pekin-capital-des-passagers-soupconnes-dutiliser-les-fauteuils-roulants-pour-embarquer-en-priorite-5278870.html": "2026-11-15T11:01:00Z"
+    "https://www.air-journal.fr/2026-11-15-pekin-capital-des-passagers-soupconnes-dutiliser-les-fauteuils-roulants-pour-embarquer-en-priorite-5278870.html": "2026-11-15T11:01:00Z",
+    "https://simpleflying.com/why-united-airlines-flies-boeing-787-9-domestic-routes/": "2026-11-15T11:10:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -4765,6 +4765,6 @@
   },
   "spend": {
     "2026-10": 0.524533,
-    "2026-11": 4.980623
+    "2026-11": 4.981411
   }
 }
