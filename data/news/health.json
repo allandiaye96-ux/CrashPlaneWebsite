@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T16:30:52Z",
+  "run": "2026-11-16T16:40:44Z",
   "stats": {
-    "fetched": 676,
-    "new": 82,
+    "fetched": 666,
+    "new": 77,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da"
-    },
-    {
-      "dossier": "airBaltic wet-lease Lufthansa A220",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e"
     },
     {
       "dossier": "United 9 nouvelles routes depuis SFO",

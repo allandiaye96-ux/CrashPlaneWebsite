@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/us-navy-vs-us-air-force-pilot-salaries/": "2026-11-06T16:40:35Z",
-    "https://simpleflying.com/only-132-seats-singapore-airlines-ultra-premium-a350-900ulrs/": "2026-11-06T16:40:35Z",
     "https://simpleflying.com/emirates-launches-major-new-16-hour-a350-route-to-the-us/": "2026-11-06T17:01:04Z",
     "https://simpleflying.com/airbus-january-october-delivery-increase/": "2026-11-06T17:01:04Z",
     "https://www.airliners.de/bombendrohungen-fluege-weiten-sich-fernsehsender-aus/91378": "2026-11-06T17:20:34Z",
@@ -1809,36 +1807,6 @@
         }
       ],
       "story_id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
-      "written_count": 2
-    },
-    "c70eb37c49e": {
-      "id": "c70eb37c49e",
-      "label": "airBaltic wet-lease Lufthansa A220",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-09T15:31:23Z",
-      "updated": "2026-11-09T16:31:06Z",
-      "items": [
-        {
-          "id": "abef5fe2d87fd17d",
-          "feed": "AeroTime",
-          "title": "airBaltic signs Lufthansa wet-lease deal to scale back A220 fleet",
-          "url": "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet",
-          "domain": "aerotime.aero",
-          "summary": "airBaltic has signed a new wet lease agreement with Lufthansa Group in preparation to reduce its Airbus A220-300… The post airBaltic signs Lufthansa wet-lease deal to scale back A220 fleet appeared first on AeroTime .",
-          "published": "2026-11-09T15:20:35Z"
-        },
-        {
-          "id": "c8de1bccf32ed172",
-          "feed": "aero.de",
-          "title": "Air Baltic und Lufthansa entflechten Wetlease-Beziehung",
-          "url": "https://www.aero.de/news-54127/Air-Baltic-und-Lufthansa-entflechten-Wetlease-Kooperation.html",
-          "domain": "aero.de",
-          "summary": "RIGA - Lufthansa bleibt Wetlease-Kunde von Air Baltic. Die Fluggesellschaften schrauben den bisherigen Umfang der Vertragsbeziehung aber drastisch zurück: Lufthansa wird in den Sommermonaten künftig maximal sechs Airbus A220-300 von Air Baltic ins eigene Netz ziehen, im Winter nur bis zu vier Flugzeuge.",
-          "published": "2026-11-09T16:25:59Z"
-        }
-      ],
-      "story_id": "2026-11-09-airbaltic-signe-un-accord-de-wet-lease-avec-le-groupe-luftha-c49e",
       "written_count": 2
     },
     "c177f6e1c93": {
