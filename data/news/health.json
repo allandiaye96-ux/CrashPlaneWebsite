@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T11:50:35Z",
+  "run": "2026-11-16T12:01:04Z",
   "stats": {
     "fetched": 677,
-    "new": 49,
+    "new": 51,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     "The Local France – Accidents": {
       "ok": true,
