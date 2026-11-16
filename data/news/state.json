@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-06-montpellier-volotea-ajoute-malaga-et-bari-a-son-programme-de-lete-2027-5278700.html": "2026-11-06T14:01:02Z",
-    "https://simpleflying.com/airbus-a320-eurofighter-nose-commissioning-flights/": "2026-11-06T14:10:34Z",
-    "https://leehamnews.com/2026/11/06/beta-focusing-electric-airplane-sales-on-cargo-medical/": "2026-11-06T14:10:34Z",
     "https://www.airliners.de/bdl-vorausschau-deutschland-faellt-winter-hinter-europa-zurueck/91379": "2026-11-06T14:20:34Z",
     "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights": "2026-11-06T14:50:35Z",
     "https://simpleflying.com/7-longest-nonstop-boeing-787-9-flights-2026/": "2026-11-06T15:01:04Z",
@@ -4000,27 +3997,6 @@
       ],
       "story_id": "2026-11-14-heathrow-le-pdg-de-delta-critique-le-projet-de-transfert-ver-0b5f",
       "written_count": 1
-    },
-    "cf12ef115a8": {
-      "id": "cf12ef115a8",
-      "label": "Panne technique FAA ground stop Allemagne",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-14T14:01:09Z",
-      "updated": "2026-11-14T14:01:09Z",
-      "items": [
-        {
-          "id": "169e01f69ce7a0ee",
-          "feed": "aero.de",
-          "title": "Wie sicher ist die Technik in Deutschland",
-          "url": "https://www.aero.de/news-54175/Wie-sicher-ist-die-Technik-in-Deutschland.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Stundenlang bleiben alle Flugzeuge am Boden in den USA - die Auswirkungen der Technik-Panne sind erheblich und auch an deutschen und europäischen Flughäfen zu spüren. Wie konnte es dazu kommen? Und wäre ein solches Chaos auch im deutschen Luftverkehr möglich?",
-          "published": "2026-11-14T13:59:27Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c8d9f179a77": {
       "id": "c8d9f179a77",
