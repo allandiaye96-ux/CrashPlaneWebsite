@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T12:10:34Z",
+  "run": "2026-11-16T12:20:39Z",
   "stats": {
     "fetched": 677,
-    "new": 52,
+    "new": 55,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -392,12 +392,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Qantas nouvelle liaison long-courrier 15 h depuis Sydney",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
     },
     {
       "dossier": "ANA et Vietnam Airlines coentreprise",
