@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T15:10:36Z",
+  "run": "2026-11-16T15:20:56Z",
   "stats": {
     "fetched": 676,
-    "new": 71,
+    "new": 76,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -256,12 +256,6 @@
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
     },
     {
-      "dossier": "Philippine Airlines commande A350-1000",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe"
-    },
-    {
       "dossier": "Qantas vol sans escale Sydney-Londres Project Sunrise",
       "statut": "corrobore",
       "editeurs": 2,
@@ -380,12 +374,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "ANA et Vietnam Airlines coentreprise",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f"
     },
     {
       "dossier": "Air France 60e A220 livraison",

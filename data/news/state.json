@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381": "2026-11-06T15:20:32Z",
-    "https://www.airliners.de/video/video-d328-eco-fabrik-entsteht-deutschlands-regionalflug-91380": "2026-11-06T15:20:32Z",
-    "https://www.airliners.de/klage-delta-fensterloser-fensterplaetze/91360": "2026-11-06T15:20:32Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/singapore-airlines-lance-un-nouveau-produit-cabine-sur-ses-boeing-777-9-et-airbus-a350-20261106.html": "2026-11-06T15:40:35Z",
     "https://simpleflying.com/bomb-threats-hit-european-aviation-third-time-this-week/": "2026-11-06T15:50:33Z",
     "https://www.aerotime.aero/articles/south-korea-selects-four-sikorsky-s-92a-presidential-helicopters": "2026-11-06T15:50:33Z",
@@ -1723,36 +1720,6 @@
       "story_id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
       "written_count": 3
     },
-    "c7d44cb2dfe": {
-      "id": "c7d44cb2dfe",
-      "label": "Philippine Airlines commande A350-1000",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-09T13:20:54Z",
-      "updated": "2026-11-09T15:20:49Z",
-      "items": [
-        {
-          "id": "5fed844a36330834",
-          "feed": "airliners.de",
-          "title": "Philippine Airlines bestellt neun weitere Airbus A350-1000",
-          "url": "https://www.airliners.de/philippine-airlines-bestellt-airbus-a350-1000/91404",
-          "domain": "airliners.de",
-          "summary": "Philippine Airlines hat neun weitere Airbus A350-1000 fest bestellt und sich Kaufrechte für fünf zusätzliche Maschinen gesichert. Die Verträge mit Airbus und dem Triebwerkshersteller Rolls Royce sind unterzeichnet, wie die Fluggesellschaft mitteilte. Insgesamt kommt die philippinische Airline damit auf 18 Flugzeuge des Typs.",
-          "published": "2026-11-09T13:05:00Z"
-        },
-        {
-          "id": "5f21a3c30af20c45",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Philippine Airlines a finalisé sa commande d’Airbus A350-1000 supplémentaires",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/philippine-airlines-a-finalise-sa-commande-dairbus-a350-1000-supplementaires-20261109.html",
-          "domain": "journal-aviation.com",
-          "summary": "Philippine Airlines, Airbus et Rolls-Royce ont finalisés les accords définitifs portant sur une commande de 9 A350-1000 supplémentaires le 5 novembre à Manille. Ses contrats incluent la fourniture des moteurs […] L’article Philippine Airlines a finalisé sa commande d’Airbus A350-1000 supplémentaires a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-09T15:13:31Z"
-        }
-      ],
-      "story_id": "2026-11-09-philippine-airlines-commande-neuf-airbus-a350-1000-supplemen-2dfe",
-      "written_count": 2
-    },
     "caba8983790": {
       "id": "caba8983790",
       "label": "A350-1000ULR record du monde de distance Qantas",
@@ -1818,27 +1785,6 @@
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
       "written_count": 6
-    },
-    "c4ee0ae593f": {
-      "id": "c4ee0ae593f",
-      "label": "ANA et Vietnam Airlines coentreprise",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-09T15:10:51Z",
-      "updated": "2026-11-09T15:10:51Z",
-      "items": [
-        {
-          "id": "1faddf6d096bea85",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Une coentreprise en préparation entre ANA et Vietnam Airlines",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/une-coentreprise-en-preparation-entre-ana-et-vietnam-airlines-20261109.html",
-          "domain": "journal-aviation.com",
-          "summary": "Après dix ans de partenariat, ANA et Vietnam Airlines souhaitent passer à l’étape suivante. Les deux compagnies ont signé un accord-cadre le 9 novembre, envisageant la création d’une coentreprise couvrant […] L’article Une coentreprise en préparation entre ANA et Vietnam Airlines a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-09T15:09:33Z"
-        }
-      ],
-      "story_id": "2026-11-09-ana-et-vietnam-airlines-signent-un-accord-cadre-en-vue-d-une-593f",
-      "written_count": 1
     },
     "cae5eddd0da": {
       "id": "cae5eddd0da",
