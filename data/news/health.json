@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-16T17:50:32Z",
+  "run": "2026-11-16T18:01:03Z",
   "stats": {
-    "fetched": 676,
+    "fetched": 675,
     "new": 93,
     "written": 0,
     "held": 0,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 31
+      "items": 30
     },
     "Airbus – Communiqués": {
       "ok": true,
