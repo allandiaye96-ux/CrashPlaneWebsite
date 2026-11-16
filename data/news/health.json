@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T15:01:04Z",
+  "run": "2026-11-16T15:10:36Z",
   "stats": {
     "fetched": 676,
-    "new": 70,
+    "new": 71,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -254,12 +254,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
-    },
-    {
-      "dossier": "Russie avions loués étrangers jusqu'en 2028",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96"
     },
     {
       "dossier": "Philippine Airlines commande A350-1000",

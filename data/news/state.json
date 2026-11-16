@@ -1320,7 +1320,8 @@
     "https://www.aerotime.aero/articles/nato-counter-drone-marketplace-16-systems": "2026-11-16T11:30:55Z",
     "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-orders-october-2026": "2026-11-16T11:30:55Z",
     "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new": "2026-11-16T13:20:35Z",
-    "https://leehamnews.com/2026/11/06/beta-focusing-electric-airplane-sales-on-cargo-medical/": "2026-11-16T14:20:52Z"
+    "https://leehamnews.com/2026/11/06/beta-focusing-electric-airplane-sales-on-cargo-medical/": "2026-11-16T14:20:52Z",
+    "https://www.aerotime.aero/articles/airbus-a320-eurofighter-nose-radar-test-flights": "2026-11-16T15:10:36Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1682,36 +1683,6 @@
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
       "written_count": 4
-    },
-    "c0b28ab7f96": {
-      "id": "c0b28ab7f96",
-      "label": "Russie avions loués étrangers jusqu'en 2028",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-09T07:51:04Z",
-      "updated": "2026-11-09T15:01:27Z",
-      "items": [
-        {
-          "id": "1f17a2043a201aee",
-          "feed": "AeroTime",
-          "title": "Russia aims to keep disputed leased aircraft flying until 2028",
-          "url": "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028",
-          "domain": "aerotime.aero",
-          "summary": "Russia’s Transport Ministry has drafted a government resolution that would allow domestic airlines to continue operating foreign aircraft… The post Russia aims to keep disputed leased aircraft flying until 2028 appeared first on AeroTime .",
-          "published": "2026-11-09T04:00:00Z"
-        },
-        {
-          "id": "62ddc359636677aa",
-          "feed": "Air Journal",
-          "title": "Avions retenus en Russie : deux années de plus pour voler, sans solder les litiges",
-          "url": "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html",
-          "domain": "air-journal.fr",
-          "summary": "Le ministère russe des Transports propose de prolonger jusqu’au 31 décembre 2028 le régime dérogatoire encadrant l’exploitation d’avions et de moteurs loués à des sociétés étrangères avant l’invasion de l’Ukraine. Ce dispositif permet aux compagnies de continuer à utiliser ces équipements selon les règles russes, malgré les litiges avec leurs propriétaires. Encore à l’état de […]",
-          "published": "2026-11-09T15:00:25Z"
-        }
-      ],
-      "story_id": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96",
-      "written_count": 2
     },
     "c56ff96fbca": {
       "id": "c56ff96fbca",
