@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-16T10:20:37Z",
+  "run": "2026-11-16T10:30:51Z",
   "stats": {
     "fetched": 677,
     "new": 41,
@@ -590,12 +590,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-15-une-start-up-americaine-de-luxe-commande-10-airbus-a220-dote-c375"
-    },
-    {
-      "dossier": "Suisse F-35 fonds détournés pour Patriot",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Panne technique FAA ground stop Allemagne",
