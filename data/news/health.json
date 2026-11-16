@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T20:20:34Z",
+  "run": "2026-11-16T20:31:08Z",
   "stats": {
-    "fetched": 676,
-    "new": 98,
+    "fetched": 667,
+    "new": 99,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -58,8 +58,8 @@
       "items": 0
     },
     "The Air Current": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "AirlineGeeks": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "Airbus – Communiqués": {
       "ok": true,
