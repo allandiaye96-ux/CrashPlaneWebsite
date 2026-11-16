@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://australianaviation.com.au/2026/11/man-arrested-after-allegedly-crashing-stolen-ute-into-hangar/": "2026-11-06T20:01:04Z",
-    "https://australianaviation.com.au/2026/11/virgin-staff-continue-protected-action-suspend-priority-boarding/": "2026-11-06T20:01:04Z",
-    "https://australianaviation.com.au/2026/11/ga-hangars-up-for-grabs-in-new-darwin-precinct/": "2026-11-06T20:01:04Z",
-    "https://australianaviation.com.au/2026/11/qantas-eyes-fare-hike-reduced-capacity-amid-fuel-crisis/": "2026-11-06T20:01:04Z",
-    "https://australianaviation.com.au/2026/11/qantas-to-launch-australias-first-non-stop-cape-town-flights/": "2026-11-06T20:01:04Z",
-    "https://simpleflying.com/air-cancels-3-long-haul-737-max-routes/": "2026-11-06T20:10:35Z",
-    "https://simpleflying.com/new-runways-do-not-increase-airports-flight-capacity/": "2026-11-06T20:10:35Z",
     "https://www.flightradar24.com/blog/avtalk-podcast/avtalk-394/": "2026-11-06T20:20:35Z",
     "https://simpleflying.com/delta-cancels-15-routes-from-3-busiest-hubs/": "2026-11-06T20:30:51Z",
     "https://airlinegeeks.com/2026/11/06/psa-pilots-secure-contract-extension-through-2030/": "2026-11-06T21:10:33Z",
@@ -1354,54 +1347,6 @@
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
       "written_count": 4
     },
-    "c00a49a8b4f": {
-      "id": "c00a49a8b4f",
-      "label": "NASA annonce avion expérimental X-70 Fractal",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-05T02:40:48Z",
-      "updated": "2026-11-09T20:01:19Z",
-      "items": [
-        {
-          "id": "c540d314da64c0ad",
-          "feed": "The War Zone",
-          "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
-          "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
-          "domain": "twz.com",
-          "summary": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability. The post NASA Announces X-70 “Fractal” Experimental Aircraft appeared first on TWZ .",
-          "published": "2026-11-05T02:37:32Z"
-        },
-        {
-          "id": "150eb8bc62b459c1",
-          "feed": "The Aviationist",
-          "title": "NASA Announces X-70 Fractal, its Latest Experimental Aircraft",
-          "url": "https://theaviationist.com/2026/11/05/nasa-announces-x-70-fractal/",
-          "domain": "theaviationist.com",
-          "summary": "NASA has announced its newest experimental aircraft, the X-70 Fractal, described as a high-performance, highly adaptable crewed research platform with rapidly reconfigurable flight-control technology. NASA has announced on Nov. 4, 2026, its latest experimental aircraft, the X-70 Fractal, reflecting the agency’s push toward a renewed X-plane portfolio. The announcement arrived during the UP.Summit at NASA’s […]",
-          "published": "2026-11-05T09:43:47Z"
-        },
-        {
-          "id": "634b289590383e5d",
-          "feed": "aero.de",
-          "title": "Neues X-Flugzeug der NASA wird modular und extrem wendig",
-          "url": "https://www.aero.de/news-54103/Neues-X-Flugzeug-der-NASA-wird-modular-und-extrem-wendig.html",
-          "domain": "aero.de",
-          "summary": "ORLANDO - Mit einem neuen X-Flugzeug will die NASA die Entwicklung von Zukunftstechnik vorantreiben. Die X-70 \"Fractal\" wird von einem Piloten geflogen, ist laut NASA modular aufgebaut - und wird neue Grenzen bei der Manövrierfähigkeit ausloten.",
-          "published": "2026-11-06T05:39:47Z"
-        },
-        {
-          "id": "18dd99d4351e484e",
-          "feed": "Australian Aviation",
-          "title": "NASA reveals new experimental X-70 Fractal aircraft",
-          "url": "https://australianaviation.com.au/2026/11/nasa-reveals-new-experimental-x-70-fractal-aircraft/",
-          "domain": "australianaviation.com.au",
-          "summary": "The aircraft was announced at the UP.Summit at the agency’s Kennedy Space Center in Florida. The high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
-          "published": "2026-11-09T03:32:05Z"
-        }
-      ],
-      "story_id": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f",
-      "written_count": 4
-    },
     "c73fa996211": {
       "id": "c73fa996211",
       "label": "Menaces à la bombe vols Europe 5 novembre 2026",
@@ -1770,36 +1715,6 @@
       ],
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
       "written_count": 6
-    },
-    "cae5eddd0da": {
-      "id": "cae5eddd0da",
-      "label": "Qantas vol sans escale Sydney-Londres Project Sunrise",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-09T15:20:49Z",
-      "updated": "2026-11-09T20:01:19Z",
-      "items": [
-        {
-          "id": "e91a8c124351ef28",
-          "feed": "airliners.de",
-          "title": "Qantas fliegt ab Oktober 2027 ohne Zwischenstopp von Sydney nach London",
-          "url": "https://www.airliners.de/qantas-fliegt-oktober-2027-zwischenstopp-sydney-london/91392",
-          "domain": "airliners.de",
-          "summary": "Qantas fliegt ab Oktober 2027 ohne Zwischenstopp zwischen Sydney und London. Die Verbindung im Rahmen von Project Sunrise läuft unter den Flugnummern QF1 und QF2 und verkürzt die Reisezeit nach Angaben der Airline um bis zu vier Stunden. Der Ticketverkauf soll im Februar 2027 beginnen.",
-          "published": "2026-11-09T15:14:16Z"
-        },
-        {
-          "id": "d857a8121a075daa",
-          "feed": "Australian Aviation",
-          "title": "New Kangaroo Route: Project Sunrise will fly as QF1 and QF2",
-          "url": "https://australianaviation.com.au/2026/11/new-kangaroo-route-project-sunrise-will-fly-as-qf1-and-qf2/",
-          "domain": "australianaviation.com.au",
-          "summary": "QF1 and QF2, which are currently used for Sydney to London flights via Singapore, will be switched to the non-stop A350-1000ULR flights on their launch in October 2027. It comes as flight tests continue on the first Project Sunrise aircraft.",
-          "published": "2026-11-09T04:20:03Z"
-        }
-      ],
-      "story_id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
-      "written_count": 2
     },
     "c2e888f59d8": {
       "id": "c2e888f59d8",

@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-16T20:00:59Z",
+  "run": "2026-11-16T20:10:38Z",
   "stats": {
     "fetched": 676,
     "new": 97,
@@ -136,12 +136,6 @@
       "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
     },
     {
-      "dossier": "NASA annonce avion expérimental X-70 Fractal",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-05-la-nasa-annonce-le-x-70-fractal-un-avion-experimental-dedie-8b4f"
-    },
-    {
       "dossier": "CFM moteurs China Eastern 101 A320neo",
       "statut": "corrobore",
       "editeurs": 4,
@@ -254,12 +248,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
-    },
-    {
-      "dossier": "Qantas vol sans escale Sydney-Londres Project Sunrise",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da"
     },
     {
       "dossier": "United 9 nouvelles routes depuis SFO",
