@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54112/Weitere-Bombendrohung-gegen-Linienflug.html": "2026-11-06T12:30:52Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/fret-aerien/lufthansa-cargo-ana-swiss-et-nca-preparent-une-alliance-dans-le-fret-aerien-entre-le-japon-et-leurope-20261106.html": "2026-11-06T12:50:34Z",
     "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html": "2026-11-06T13:01:02Z",
     "https://www.aerotime.aero/articles/singapore-airlines-first-business-economy-cabins-long-haul-new": "2026-11-06T13:10:35Z",
@@ -1602,54 +1601,6 @@
       ],
       "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
       "written_count": 5
-    },
-    "ca424ce0528": {
-      "id": "ca424ce0528",
-      "label": "Drone explosif Leipzig/Halle",
-      "categorie": "Incident",
-      "importance": 3,
-      "created": "2026-11-06T15:01:40Z",
-      "updated": "2026-11-09T12:20:43Z",
-      "items": [
-        {
-          "id": "42df815549fab89d",
-          "feed": "aero.de",
-          "title": "Personenfahndung nach Drohnenangriff auf Leipzig/Halle",
-          "url": "https://www.aero.de/news-54114/Personenfahndung-nach-Drohnenangriff-auf-Flughafen-LeipzigHalle.html",
-          "domain": "aero.de",
-          "summary": "LEIPZIG - Im Zusammenhang mit dem mutmaßlichen Anschlagsversuch mit einer Sprengstoffdrohne auf dem Flughafen Leipzig fahndet die Polizei nach einer verdächtigen Person.",
-          "published": "2026-11-06T15:00:09Z"
-        },
-        {
-          "id": "aa2192fbd4670961",
-          "feed": "airliners.de",
-          "title": "Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
-          "url": "https://www.airliners.de/drohnenangriff-ermittler-fahnden-verdaechtiger-person/91381",
-          "domain": "airliners.de",
-          "summary": "Ein Fahndungsbild des BKA zeigt eine Person mit Kapuze auf einem E-Bike. Hat der oder die Unbekannte mit dem Anschlagsversuch am Leipziger Flughafen zu tun? Die Polizei sucht Zeugen.",
-          "published": "2026-11-06T15:03:34Z"
-        },
-        {
-          "id": "2f917c5125749f6a",
-          "feed": "aero.de",
-          "title": "Drohnen: Flughafen Leipzig/Halle sperrt Start- und Landebahnen",
-          "url": "https://www.aero.de/news-54125/Drohnen-Flughafen-LeipzigHalle-sperrt-Start--und-Landebahnen.html",
-          "domain": "aero.de",
-          "summary": "LEIPZIG - In der Nähe eines Flughafens können Drohnen zu einer Gefahr werden. Am Wochenende mussten in Leipzig/Halle zwei Landebahnen zeitweise gesperrt werden.",
-          "published": "2026-11-09T11:55:22Z"
-        },
-        {
-          "id": "a3f11e826de3752e",
-          "feed": "airliners.de",
-          "title": "Drohnen beeinträchtigen Betrieb am Flughafen Leipzig/Halle",
-          "url": "https://www.airliners.de/drohnen-beeintraechtigen-betrieb-flughafen-leipzighalle/91398",
-          "domain": "airliners.de",
-          "summary": "Zwei Drohnen haben am Wochenende den Betrieb des Flughafens Leipzig/Halle vorübergehend beeinträchtigt. Wie die Polizei mitteilte, wurde am Samstag und am Sonntag jeweils eine der beiden Landebahnen kurzzeitig gesperrt.",
-          "published": "2026-11-09T12:04:41Z"
-        }
-      ],
-      "story_id": "2026-11-06-leipzig-halle-la-police-recherche-une-personne-apres-une-ten-0528",
-      "written_count": 4
     },
     "c8a2c7b5903": {
       "id": "c8a2c7b5903",
