@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T17:30:51Z",
+  "run": "2026-11-16T17:41:40Z",
   "stats": {
-    "fetched": 661,
-    "new": 90,
+    "fetched": 676,
+    "new": 93,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -42,8 +42,8 @@
       "items": 10
     },
     "The Aviationist": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "AviTrader": {
       "ok": true,
