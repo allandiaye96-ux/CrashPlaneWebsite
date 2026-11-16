@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T18:01:03Z",
+  "run": "2026-11-16T18:10:38Z",
   "stats": {
     "fetched": 675,
-    "new": 93,
+    "new": 94,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -368,12 +368,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Air France 60e A220 livraison",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93"
     },
     {
       "dossier": "Frequentis Digital Tower FAA",

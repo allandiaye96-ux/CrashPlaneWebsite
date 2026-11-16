@@ -1805,27 +1805,6 @@
       "story_id": "2026-11-09-qantas-annonce-un-vol-sans-escale-sydney-londres-a-partir-d-d0da",
       "written_count": 2
     },
-    "c177f6e1c93": {
-      "id": "c177f6e1c93",
-      "label": "Air France 60e A220 livraison",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-09T18:01:27Z",
-      "updated": "2026-11-09T18:01:27Z",
-      "items": [
-        {
-          "id": "eda59896bc1f2e2f",
-          "feed": "AirlineGeeks",
-          "title": "Air France Takes Its 60th A220 as A318s Fly On",
-          "url": "https://airlinegeeks.com/2026/11/09/air-france-takes-its-60th-a220-as-a318s-fly-on/",
-          "domain": "airlinegeeks.com",
-          "summary": "The delivery completes the carrier’s original A220 order, while its smallest Airbus jets remain on the schedule through March.",
-          "published": "2026-11-09T18:00:43Z"
-        }
-      ],
-      "story_id": "2026-11-09-air-france-recoit-son-60e-airbus-a220-dernier-de-sa-commande-1c93",
-      "written_count": 1
-    },
     "c2e888f59d8": {
       "id": "c2e888f59d8",
       "label": "United 9 nouvelles routes depuis SFO",
