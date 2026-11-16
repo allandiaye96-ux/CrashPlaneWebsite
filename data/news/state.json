@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/el-al-rekordumsatz-sondereffekt-drueckt-gewinn/91357": "2026-11-06T08:20:36Z",
-    "https://www.airliners.de/hohe-pilotengehaelter-passagierluftfahrt-hoechsten-arbeitskosten-branchen/91353": "2026-11-06T08:20:36Z",
     "https://simpleflying.com/every-airline-flying-us-australia-2026-routes-operating/": "2026-11-06T09:01:02Z",
     "https://www.aero.de/news-54107/IAG-erleidet-Gewinnrueckgang-im-Sommer.html": "2026-11-06T09:01:02Z",
     "https://www.air-journal.fr/2026-11-06-emirates-benefice-en-chute-de-68-mais-toujours-dans-le-vert-5278696.html": "2026-11-06T09:01:02Z",
@@ -1860,27 +1858,6 @@
       ],
       "story_id": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96",
       "written_count": 2
-    },
-    "cc6aeb1aad6": {
-      "id": "cc6aeb1aad6",
-      "label": "Airbus rachat d'actions 5 Md€",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-09T08:10:51Z",
-      "updated": "2026-11-09T08:10:51Z",
-      "items": [
-        {
-          "id": "d13c0bae7063db2d",
-          "feed": "AeroTime",
-          "title": "Airbus launches €5 billion share buyback with first €800 million tranche",
-          "url": "https://www.aerotime.aero/articles/airbus-5-billion-share-buyback-800-million-tranche",
-          "domain": "aerotime.aero",
-          "summary": "Airbus launched the first tranche of its €5 billion (about $5.6 billion) share buyback program on November 9,… The post Airbus launches €5 billion share buyback with first €800 million tranche appeared first on AeroTime .",
-          "published": "2026-11-09T07:58:27Z"
-        }
-      ],
-      "story_id": "2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6",
-      "written_count": 1
     },
     "c7eaa6bbaac": {
       "id": "c7eaa6bbaac",

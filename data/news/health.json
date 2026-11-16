@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T08:10:45Z",
+  "run": "2026-11-16T08:20:42Z",
   "stats": {
-    "fetched": 667,
-    "new": 22,
+    "fetched": 677,
+    "new": 24,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -398,12 +398,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "Airbus rachat d'actions 5 Md€",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-airbus-lance-la-premiere-tranche-de-800-millions-d-euros-de-aad6"
     },
     {
       "dossier": "GE Aerospace et BETA vol hybride-électrique",
