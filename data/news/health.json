@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-16T09:10:37Z",
+  "run": "2026-11-16T09:20:36Z",
   "stats": {
     "fetched": 677,
-    "new": 26,
+    "new": 28,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -398,12 +398,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "KLM reçoit son premier A350 (22 appareils)",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762"
     },
     {
       "dossier": "ANA et Vietnam Airlines coentreprise",

@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/umbuchungen-kosten-geschaeftsreisende-deutlich-haeufiger-gebuehren/91359": "2026-11-06T09:20:34Z",
-    "https://www.airliners.de/turkish-airlines-quartalsgewinn-einstellungsstopp-kerosin/91356": "2026-11-06T09:20:34Z",
     "https://avitrader.com/2026/11/06/ga-telesis-secures-afra-recertification/": "2026-11-06T10:01:01Z",
     "https://www.air-journal.fr/2026-11-06-air-tahiti-nui-choisit-starlink-pour-ses-quatre-boeing-787-9-5278698.html": "2026-11-06T10:01:01Z",
     "https://www.aerotime.aero/articles/f-35b-meteor-missile-first-internal-bay-release": "2026-11-06T10:10:37Z",
@@ -1854,27 +1852,6 @@
       ],
       "story_id": "2026-11-09-russie-moscou-veut-maintenir-en-vol-jusqu-en-2028-les-avions-7f96",
       "written_count": 2
-    },
-    "c5c7ea3d762": {
-      "id": "c5c7ea3d762",
-      "label": "KLM reçoit son premier A350 (22 appareils)",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-09T09:10:52Z",
-      "updated": "2026-11-09T09:10:52Z",
-      "items": [
-        {
-          "id": "ef2628d70f3fdf76",
-          "feed": "Simple Flying",
-          "title": "Why KLM Is Replacing Older Widebodies With 22 Airbus A350s That Cut Fuel Burn & CO2 By 25%",
-          "url": "https://simpleflying.com/klm-replacing-older-widebodies-22-airbus-a350s-cut-fuel-burn-co2-25-percent/",
-          "domain": "simpleflying.com",
-          "summary": "KLM has just received its first next-generation Airbus A350.",
-          "published": "2026-11-09T09:01:18Z"
-        }
-      ],
-      "story_id": "2026-11-09-klm-recoit-son-premier-airbus-a350-de-nouvelle-generation-d762",
-      "written_count": 1
     },
     "c56ff96fbca": {
       "id": "c56ff96fbca",
