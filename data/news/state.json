@@ -1787,45 +1787,6 @@
       "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
       "written_count": 4
     },
-    "caa8b495754": {
-      "id": "caa8b495754",
-      "label": "Quasi-collision LAX Air France A350 American A321",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-08T07:40:49Z",
-      "updated": "2026-11-09T07:01:20Z",
-      "items": [
-        {
-          "id": "29c7cce9d43637ad",
-          "feed": "Simple Flying",
-          "title": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX",
-          "url": "https://simpleflying.com/air-france-a350-american-airlines-a321-near-midair-collision-lax/",
-          "domain": "simpleflying.com",
-          "summary": "A midnight LAX departure turned tense when an A350's unauthorized left turn intersected an A321's climb path.",
-          "published": "2026-11-08T07:35:47Z"
-        },
-        {
-          "id": "8bcb520ba1823200",
-          "feed": "AeroTime",
-          "title": "Air France A350 departure deviation brings it close to American A321 at LAX",
-          "url": "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax",
-          "domain": "aerotime.aero",
-          "summary": "An Air France Airbus A350-900 and an American Airlines Airbus A321-200 were involved in a near-mid-air collision shortly… The post Air France A350 departure deviation brings it close to American A321 at LAX appeared first on AeroTime .",
-          "published": "2026-11-08T13:38:31Z"
-        },
-        {
-          "id": "1295da786b1f038c",
-          "feed": "Air Journal",
-          "title": "À Los Angeles, un virage inattendu d’un A350 d’Air France déclenche une alerte trafic",
-          "url": "https://www.air-journal.fr/2026-11-09-a-los-angeles-un-virage-inattendu-dun-a350-dair-france-declenche-une-alerte-trafic-5278741.html",
-          "domain": "air-journal.fr",
-          "summary": "Un Airbus A350-900 d’Air France à destination de Papeete a engagé un virage à gauche inattendu après son décollage de Los Angeles, le 7 novembre 2026, le rapprochant de la trajectoire d’un A321 d’American Airlines. Le contrôle aérien est intervenu immédiatement. Les deux vols ont poursuivi leur route, mais les circonstances précises de cet écart […]",
-          "published": "2026-11-09T07:00:19Z"
-        }
-      ],
-      "story_id": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754",
-      "written_count": 3
-    },
     "cadb14a8d19": {
       "id": "cadb14a8d19",
       "label": "CFM moteurs China Eastern 101 A320neo",
@@ -4246,27 +4207,6 @@
       ],
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
       "written_count": 19
-    },
-    "c8c9ab12da0": {
-      "id": "c8c9ab12da0",
-      "label": "Vols retardés ou annulés en Russie octobre 2026",
-      "categorie": "Autre",
-      "importance": 2,
-      "created": "2026-11-14T07:01:10Z",
-      "updated": "2026-11-14T07:01:10Z",
-      "items": [
-        {
-          "id": "e915cfdd1162febb",
-          "feed": "Air Journal",
-          "title": "Russie : près de 34 000 vols retardés ou annulés en octobre, sur fond de menaces de drones ukrainiens",
-          "url": "https://www.air-journal.fr/2026-11-14-russie-pres-de-34-000-vols-retardes-ou-annules-en-octobre-sur-fond-de-menaces-de-drones-ukrainiens-5278747.html",
-          "domain": "air-journal.fr",
-          "summary": "Près d’un vol sur deux a été retardé ou annulé dans les aéroports russes entre le 1er et le 30 octobre 2026, selon un relevé du canal Telegram russophone spécialisé Aviatorchtchina. Sur environ 69 200 vols recensés auprès de 50 compagnies aériennes, près de 34 000 vols n’ont pas été effectués à l’heure prévue ou […]",
-          "published": "2026-11-14T07:00:39Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c6198962ddc": {
       "id": "c6198962ddc",

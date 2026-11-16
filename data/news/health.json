@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-16T07:01:04Z",
+  "run": "2026-11-16T07:10:38Z",
   "stats": {
     "fetched": 677,
     "new": 19,
@@ -176,12 +176,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
-    },
-    {
-      "dossier": "Quasi-collision LAX Air France A350 American A321",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-08-lax-un-a350-d-air-france-et-un-a321-d-american-airlines-se-c-5754"
     },
     {
       "dossier": "EASA capacité A330-900 480 passagers",
@@ -620,12 +614,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-15-une-start-up-americaine-de-luxe-commande-10-airbus-a220-dote-c375"
-    },
-    {
-      "dossier": "Vols retardés ou annulés en Russie octobre 2026",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Suisse F-35 fonds détournés pour Patriot",
