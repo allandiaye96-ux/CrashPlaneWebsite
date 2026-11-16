@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-16T08:40:33Z",
+  "run": "2026-11-16T08:50:35Z",
   "stats": {
     "fetched": 677,
     "new": 24,
@@ -398,12 +398,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-06-qantas-lance-une-nouvelle-liaison-sans-escale-de-15-heures-a-1cb9"
-    },
-    {
-      "dossier": "GE Aerospace et BETA vol hybride-électrique",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-09-ge-aerospace-et-beta-annoncent-un-decollage-assiste-hybride-baac"
     },
     {
       "dossier": "KLM reçoit son premier A350 (22 appareils)",
