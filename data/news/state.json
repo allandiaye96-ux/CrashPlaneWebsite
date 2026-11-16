@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-pilatus-pc24-can-land-on-grass/": "2026-11-06T23:01:01Z",
     "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-214": "2026-11-06T23:10:32Z",
     "https://www.air-journal.fr/2026-11-07-le-7-novembre-1927-dans-le-ciel-un-nouveau-record-pour-williams-5278716.html": "2026-11-06T23:10:32Z",
     "https://simpleflying.com/19-year-old-southwest-airlines-boeing-737-loses-engine-takeoff-emergency/": "2026-11-06T23:30:51Z",
@@ -3830,27 +3829,6 @@
       ],
       "story_id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
       "written_count": 2
-    },
-    "c8317a8c3bd": {
-      "id": "c8317a8c3bd",
-      "label": "Mi-28NM lancement missile Dan-T",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-14T23:01:18Z",
-      "updated": "2026-11-14T23:01:18Z",
-      "items": [
-        {
-          "id": "8c8a668dcb852ed3",
-          "feed": "The Aviationist",
-          "title": "Russia’s Mi-28 Attack Helicopter Officially Shown Launching Dan-T Low-Cost Cruise Missile",
-          "url": "https://theaviationist.com/2026/11/14/mi-28-launching-dan-t-low-cost-cruise-missile/",
-          "domain": "theaviationist.com",
-          "summary": "The newly released footage confirms the Mi-28NM as a launch platform for the compact missile, which Russia says can also be deployed from other aircraft and ground-based systems. The Russian Ministry of Defense (MoD) has released footage showing a Mi-28NM attack helicopter launching a Dan-T low-cost cruise missile. The missile was officially presented during September’s […]",
-          "published": "2026-11-14T22:48:03Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c0a69375a84": {
       "id": "c0a69375a84",
