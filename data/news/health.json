@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T00:50:35Z",
+  "run": "2026-11-17T01:00:59Z",
   "stats": {
-    "fetched": 635,
-    "new": 102,
+    "fetched": 667,
+    "new": 109,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -70,8 +70,8 @@
       "items": 10
     },
     "The War Zone": {
-      "ok": false,
-      "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+      "ok": true,
+      "items": 32
     },
     "Airbus – Communiqués": {
       "ok": true,
