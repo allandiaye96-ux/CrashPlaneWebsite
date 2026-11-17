@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T07:01:01Z",
+  "run": "2026-11-17T07:10:41Z",
   "stats": {
-    "fetched": 667,
-    "new": 119,
+    "fetched": 557,
+    "new": 110,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 32
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     "Boeing – Communiqués": {
       "ok": true,
