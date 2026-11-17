@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T12:40:34Z",
+  "run": "2026-11-17T12:50:42Z",
   "stats": {
-    "fetched": 667,
-    "new": 152,
+    "fetched": 567,
+    "new": 149,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 32
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -512,12 +512,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-15-une-start-up-americaine-de-luxe-commande-10-airbus-a220-dote-c375"
-    },
-    {
-      "dossier": "SpaceX récupération étage Starship",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "FAA consignes inspection 787 réservoirs carburant",

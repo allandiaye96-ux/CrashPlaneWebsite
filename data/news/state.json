@@ -3748,27 +3748,6 @@
       "story_id": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47",
       "written_count": 1
     },
-    "c7070ddd10b": {
-      "id": "c7070ddd10b",
-      "label": "SpaceX récupération étage Starship",
-      "categorie": "Autre",
-      "importance": 2,
-      "created": "2026-11-15T12:40:57Z",
-      "updated": "2026-11-15T12:40:57Z",
-      "items": [
-        {
-          "id": "f39bea6160e60ad2",
-          "feed": "AeroTime",
-          "title": "SpaceX successfully recovers Starship upper stage in world first",
-          "url": "https://www.aerotime.aero/articles/spacex-successfully-recovers-starship-upper-stage-in-world-first",
-          "domain": "aerotime.aero",
-          "summary": "SpaceX achieved another industry first on November 14, 2026, as it successfully recovered the upper stage of a… The post SpaceX successfully recovers Starship upper stage in world first appeared first on AeroTime .",
-          "published": "2026-11-15T11:42:36Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "cba7eb8954a": {
       "id": "cba7eb8954a",
       "label": "FAA consignes inspection 787 réservoirs carburant",
