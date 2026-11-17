@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T19:30:57Z",
+  "run": "2026-11-17T19:40:35Z",
   "stats": {
-    "fetched": 669,
-    "new": 195,
+    "fetched": 569,
+    "new": 190,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 34
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -236,12 +236,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
-    },
-    {
-      "dossier": "Nouvelles images du drone GJ-11 chinois",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e"
     },
     {
       "dossier": "Emirates Berlin suspension vol",
