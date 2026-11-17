@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-07-fatigue-des-pilotes-le-repos-au-coeur-dune-bataille-judiciaire-chez-horizon-air-5278721.html": "2026-11-07T10:00:59Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=367710E9-AC0F-413A-937D-3B7E42449874": "2026-11-07T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=E5A58313-5972-47DA-B80B-915E4E54B428": "2026-11-07T10:10:34Z",
     "https://www.aero-news.net/index.cfm?do=main.textpost&id=350F4757-5EE6-4586-841A-C21669379E70": "2026-11-07T10:10:34Z",
@@ -3747,27 +3746,6 @@
       ],
       "story_id": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84",
       "written_count": 3
-    },
-    "c5e74678151": {
-      "id": "c5e74678151",
-      "label": "ECA enquête fatigue des pilotes",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-15T10:01:11Z",
-      "updated": "2026-11-15T10:01:11Z",
-      "items": [
-        {
-          "id": "68048031e66daf72",
-          "feed": "Air Journal",
-          "title": "Repos insuffisant, micro-sommeils et peur des sanctions : l’ECA alerte sur la fatigue des pilotes",
-          "url": "https://www.air-journal.fr/2026-11-15-repos-insuffisant-micro-sommeils-et-peur-des-sanctions-leca-alerte-sur-la-fatigue-des-pilotes-5278875.html",
-          "domain": "air-journal.fr",
-          "summary": "Près d’un pilote interrogé sur quatre déclare prendre les commandes sans signaler son état lorsqu’il se juge inapte à voler en raison de la fatigue. C’est l’un des principaux enseignements d’une enquête menée auprès de 7 200 pilotes dans 32 pays, publiée par l’European Cockpit Association (ECA). Trois ans après une première étude, l’organisation dénonce […]",
-          "published": "2026-11-15T10:00:46Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c502b619435": {
       "id": "c502b619435",
