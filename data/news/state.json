@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/inside-the-b-2-spirit-bomber-crew-rest-areas/": "2026-11-07T10:20:34Z",
     "https://www.air-journal.fr/2026-11-07-voyage-aux-etats-unis-les-europeens-continuent-de-se-detourner-de-la-destination-5278703.html": "2026-11-07T11:00:59Z",
     "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-on-project-sunrise/": "2026-11-07T12:00:59Z",
     "https://www.air-journal.fr/2026-11-07-du-ciel-aux-grandes-tables-american-airlines-sallie-au-guide-michelin-5278719.html": "2026-11-07T12:00:59Z",
@@ -3731,27 +3730,6 @@
       ],
       "story_id": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84",
       "written_count": 3
-    },
-    "c502b619435": {
-      "id": "c502b619435",
-      "label": "Accident Bell 407 Myakka City Floride",
-      "categorie": "Accident",
-      "importance": 2,
-      "created": "2026-11-15T10:10:48Z",
-      "updated": "2026-11-15T10:10:48Z",
-      "items": [
-        {
-          "id": "d05f50fbbb7090dc",
-          "feed": "Aero-News Network",
-          "title": "NTSB Prelim: Bell 407",
-          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=60AD7158-563B-4920-B571-8C594A78C42A",
-          "domain": "aero-news.net",
-          "summary": "According to the Operator, Mosquito Control Spraying Was Conducted At Night With Pilots Utilizing Night Vision Goggles On October 15, 2026, about 2051 eastern daylight time, a Bell 407 helicopter, N618TS, was destroyed when it was involved in an accident near Myakka City, Florida. The commercial pilot was fatally injured. The helicopter was operated as a Title 14 Code of Federal Regulations Part 91 public use flight. The helicopter was owned and operated by Manatee County Mosquito Control District (MCMCD). The accident flight was the pilot’s first mosquito control spraying mission that day. According to the operator, mosquito control spraying was conducted at night with pilots utilizing nigh",
-          "published": null
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
     },
     "c1aad160b47": {
       "id": "c1aad160b47",
