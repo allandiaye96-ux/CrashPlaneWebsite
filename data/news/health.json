@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T15:40:34Z",
+  "run": "2026-11-17T15:50:40Z",
   "stats": {
-    "fetched": 567,
-    "new": 174,
+    "fetched": 558,
+    "new": 165,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "Airbus – Communiqués": {
       "ok": false,
