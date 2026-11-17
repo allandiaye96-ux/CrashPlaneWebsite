@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T22:10:39Z",
+  "run": "2026-11-17T22:20:52Z",
   "stats": {
-    "fetched": 569,
-    "new": 198,
+    "fetched": 570,
+    "new": 201,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 34
+      "items": 35
     },
     "Airbus – Communiqués": {
       "ok": false,
@@ -314,18 +314,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "SAS hausse vols Atlanta Seattle été 2027",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-sas-renforce-ses-vols-vers-atlanta-et-seattle-hubs-de-delta-d490"
-    },
-    {
-      "dossier": "Alpi Pioneer 800 Twin premier vol",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21"
     },
     {
       "dossier": "Emirates 777X calendrier et commande 787",

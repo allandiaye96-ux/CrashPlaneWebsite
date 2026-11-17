@@ -1722,48 +1722,6 @@
       "story_id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
       "written_count": 3
     },
-    "cf96650d490": {
-      "id": "cf96650d490",
-      "label": "SAS hausse vols Atlanta Seattle été 2027",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-10T22:10:49Z",
-      "updated": "2026-11-10T22:10:49Z",
-      "items": [
-        {
-          "id": "1585656bf483aafd",
-          "feed": "Simple Flying",
-          "title": "SAS Boosts Flights To These 2 Major Delta Hubs For Summer 2027",
-          "url": "https://simpleflying.com/sas-boosts-flights-2-major-delta-hubs-summer-2027/",
-          "domain": "simpleflying.com",
-          "summary": "SAS is increasing Atlanta and Seattle flights while strengthening its Delta partnership, expanding long-haul capacity and European connectivity.",
-          "published": "2026-11-10T22:02:34Z"
-        }
-      ],
-      "story_id": "2026-11-10-sas-renforce-ses-vols-vers-atlanta-et-seattle-hubs-de-delta-d490",
-      "written_count": 1
-    },
-    "c67934dca21": {
-      "id": "c67934dca21",
-      "label": "Alpi Pioneer 800 Twin premier vol",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-10T22:10:49Z",
-      "updated": "2026-11-10T22:10:49Z",
-      "items": [
-        {
-          "id": "76d72fc598f1c9d6",
-          "feed": "AeroTime",
-          "title": "Alpi Aviation’s Rotax-powered Pioneer 800 Twin makes first flight",
-          "url": "https://www.aerotime.aero/articles/alpi-aviation-pioneer-800-twin-first-flight",
-          "domain": "aerotime.aero",
-          "summary": "Alpi Aviation’s Pioneer 800 Twin made its first flight on November 5, 2026. The four-seat aircraft is powered… The post Alpi Aviation’s Rotax-powered Pioneer 800 Twin makes first flight appeared first on AeroTime .",
-          "published": "2026-11-10T21:12:20Z"
-        }
-      ],
-      "story_id": "2026-11-10-alpi-aviation-le-pioneer-800-twin-propulse-par-rotax-a-effec-ca21",
-      "written_count": 1
-    },
     "c077aa50f0e": {
       "id": "c077aa50f0e",
       "label": "Royal Navy YFQ-48A CCA porte-avions 2027",
