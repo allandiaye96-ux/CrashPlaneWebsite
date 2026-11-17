@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T12:50:42Z",
+  "run": "2026-11-17T13:01:03Z",
   "stats": {
-    "fetched": 567,
-    "new": 149,
+    "fetched": 647,
+    "new": 141,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,16 +74,16 @@
       "items": 32
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
       "items": 5
     },
     "aero.de": {
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "error": "ParseError: no element found: line 13, column 46"
     },
     "airliners.de": {
       "ok": true,
