@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T09:20:37Z",
+  "run": "2026-11-17T09:30:52Z",
   "stats": {
     "fetched": 567,
-    "new": 130,
+    "new": 131,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -250,12 +250,6 @@
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
     },
     {
-      "dossier": "United 9 nouvelles routes depuis SFO",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8"
-    },
-    {
       "dossier": "Nouvelles images du drone GJ-11 chinois",
       "statut": "corrobore",
       "editeurs": 2,
@@ -350,18 +344,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Frequentis Digital Tower FAA",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb"
-    },
-    {
-      "dossier": "Etihad investit dans Condor",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd"
     },
     {
       "dossier": "SAS hausse vols Atlanta Seattle été 2027",

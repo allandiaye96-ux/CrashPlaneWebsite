@@ -1687,36 +1687,6 @@
       "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
       "written_count": 6
     },
-    "c2e888f59d8": {
-      "id": "c2e888f59d8",
-      "label": "United 9 nouvelles routes depuis SFO",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-09T19:50:49Z",
-      "updated": "2026-11-10T09:20:51Z",
-      "items": [
-        {
-          "id": "4a5dc5373d5a76a1",
-          "feed": "Simple Flying",
-          "title": "United Airlines Launches 9 New Routes From Major West Coast Hub: See Full List Now",
-          "url": "https://simpleflying.com/united-airlines-launches-9-new-routes-from-major-west-coast-hub/",
-          "domain": "simpleflying.com",
-          "summary": "Nine new SFO connections expand Pacific reach and bolster year round East Coast feeds while adding seasonal Midwest and Florida service.",
-          "published": "2026-11-09T19:40:51Z"
-        },
-        {
-          "id": "3cef1d48b629ad50",
-          "feed": "AeroTime",
-          "title": "France orders two IRIS spy satellites from Airbus and Thales",
-          "url": "https://www.aerotime.aero/articles/france-airbus-thales-iris-military-satellites",
-          "domain": "aerotime.aero",
-          "summary": "France’s defense procurement agency, the Direction générale de l’armement (DGA), has awarded Airbus Defence and Space and Thales… The post France orders two IRIS spy satellites from Airbus and Thales appeared first on AeroTime .",
-          "published": "2026-11-10T08:33:57Z"
-        }
-      ],
-      "story_id": "2026-11-09-united-airlines-annonce-neuf-nouvelles-liaisons-au-depart-de-59d8",
-      "written_count": 2
-    },
     "c71c60a80f5": {
       "id": "c71c60a80f5",
       "label": "Boeing suppression 5% postes BCA",
@@ -1935,48 +1905,6 @@
       ],
       "story_id": "2026-11-10-raf-mildenhall-des-ravitailleurs-de-l-us-air-force-disperses-e85a",
       "written_count": 3
-    },
-    "ce1eb17eabb": {
-      "id": "ce1eb17eabb",
-      "label": "Frequentis Digital Tower FAA",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-10T09:20:51Z",
-      "updated": "2026-11-10T09:20:51Z",
-      "items": [
-        {
-          "id": "b62de050e8e457a7",
-          "feed": "airliners.de",
-          "title": "Frequentis erhält FAA-Freigabe für Digital Tower",
-          "url": "https://www.airliners.de/frequentis-faa-freigabe-digital-tower/91419",
-          "domain": "airliners.de",
-          "summary": "Die US-Luftfahrtbehörde FAA hat dem Digital-Tower-System von Frequentis eine Designzulassung erteilt. Vor allem eine Gruppe von Flughäfen soll davon profitieren.",
-          "published": "2026-11-10T08:30:02Z"
-        }
-      ],
-      "story_id": "2026-11-10-frequentis-obtient-une-approbation-de-conception-de-la-faa-p-eabb",
-      "written_count": 1
-    },
-    "c075cde2bcd": {
-      "id": "c075cde2bcd",
-      "label": "Etihad investit dans Condor",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-10T09:20:51Z",
-      "updated": "2026-11-10T09:20:51Z",
-      "items": [
-        {
-          "id": "eec56711ab510e74",
-          "feed": "airliners.de",
-          "title": "Etihad investiert Insidern zufolge Millionen in Condor",
-          "url": "https://www.airliners.de/etihad-investiert-insidern-millionen-condor/91417",
-          "domain": "airliners.de",
-          "summary": "Etihad Airways hat Insidern zufolge einen hohen zweistelligen Millionenbetrag in Condor investiert. Basis dafür ist offenbar ein Codeshare auf Verbindungen nach Abu Dhabi und darüber hinaus.",
-          "published": "2026-11-10T08:24:13Z"
-        }
-      ],
-      "story_id": "2026-11-10-etihad-aurait-investi-un-montant-a-deux-chiffres-en-millions-2bcd",
-      "written_count": 1
     },
     "c831f953ecd": {
       "id": "c831f953ecd",
