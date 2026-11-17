@@ -3670,27 +3670,6 @@
       ],
       "story_id": "2026-11-15-une-start-up-americaine-de-luxe-commande-10-airbus-a220-dote-c375",
       "written_count": 1
-    },
-    "c1237aa7056": {
-      "id": "c1237aa7056",
-      "label": "Malaysia Airlines remplacement A350 à partir de 2030",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-15T19:07:19Z",
-      "updated": "2026-11-15T19:07:19Z",
-      "items": [
-        {
-          "id": "25f4e4ddae1ef57c",
-          "feed": "Simple Flying",
-          "title": "Why This Airline Wants To Replace Its Airbus A350s From 2030",
-          "url": "https://simpleflying.com/airline-replacing-airbus-a350-fleet-2030/",
-          "domain": "simpleflying.com",
-          "summary": "The paradigm shift coming the Malaysia Airlines' the before the end of the decade.",
-          "published": "2026-11-15T19:01:21Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 1
     }
   },
   "spend": {
