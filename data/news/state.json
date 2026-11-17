@@ -3745,27 +3745,6 @@
       "story_id": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47",
       "written_count": 1
     },
-    "cba7eb8954a": {
-      "id": "cba7eb8954a",
-      "label": "FAA consignes inspection 787 réservoirs carburant",
-      "categorie": "Sécurité et réglementation",
-      "importance": 3,
-      "created": "2026-11-15T13:31:03Z",
-      "updated": "2026-11-15T13:31:03Z",
-      "items": [
-        {
-          "id": "9276933f483b4982",
-          "feed": "Simple Flying",
-          "title": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
-          "url": "https://simpleflying.com/video/dozens-of-boeing-787s-face-checks-over-fuel-tanks-that-could-ignite-when-hit-by-lightning/",
-          "domain": "simpleflying.com",
-          "summary": "The Federal Aviation Administration has ordered inspections of certain Boeing 787 Dreamliners, warning that sealant defects could create a spark inside the tank during a lightning strike, potentially triggering a fuel tank explosion. The airworthiness directive will take effect next month and covers specific 787-8, 787-9 and 787-10 aircraft identified by Boeing.According to the FAA, 60 US-registered 787s fall under the order, with US airlines collectively operating over 170 Dreamliners. However, dozens of Dreamliners operated by foreign airlines and so the total number of affected aircraft worldwide could be higher.",
-          "published": "2026-11-15T13:27:18Z"
-        }
-      ],
-      "story_id": null,
-      "written_count": 0
-    },
     "c996ad4c375": {
       "id": "c996ad4c375",
       "label": "Commande 10 A220 corporate par startup US",

@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T13:30:51Z",
+  "run": "2026-11-17T13:40:37Z",
   "stats": {
-    "fetched": 567,
-    "new": 153,
+    "fetched": 667,
+    "new": 157,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 32
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -512,12 +512,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-11-15-une-start-up-americaine-de-luxe-commande-10-airbus-a220-dote-c375"
-    },
-    {
-      "dossier": "FAA consignes inspection 787 réservoirs carburant",
-      "statut": "signale",
-      "editeurs": 1,
-      "breve": null
     },
     {
       "dossier": "Malaysia Airlines remplacement A350 à partir de 2030",
