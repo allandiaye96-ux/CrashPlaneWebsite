@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-17T09:01:10Z",
+  "run": "2026-11-17T09:10:47Z",
   "stats": {
-    "fetched": 557,
-    "new": 121,
+    "fetched": 567,
+    "new": 128,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,16 +46,16 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": false,
@@ -260,12 +260,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e"
-    },
-    {
-      "dossier": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996"
     },
     {
       "dossier": "Emirates Berlin suspension vol",

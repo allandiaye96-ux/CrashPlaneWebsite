@@ -1832,36 +1832,6 @@
       "story_id": "2026-11-10-chine-de-nouvelles-images-officielles-devoilent-le-drone-de-d38e",
       "written_count": 2
     },
-    "cd406e85996": {
-      "id": "cd406e85996",
-      "label": "Crash Miami : enquête NTSB, enregistreur vocal récupéré",
-      "categorie": "Enquête",
-      "importance": 3,
-      "created": "2026-11-10T00:10:47Z",
-      "updated": "2026-11-10T09:01:21Z",
-      "items": [
-        {
-          "id": "66c04eb7203989a6",
-          "feed": "Simple Flying",
-          "title": "NTSB Recovers Cockpit Voice Recorder From Miami Crash As On-Scene Investigation Ends",
-          "url": "https://simpleflying.com/ntsb-recovers-cockpit-voice-recorder-miami-crash-on-scene-investigation/",
-          "domain": "simpleflying.com",
-          "summary": "Fragments found miles from the impact crater include tail sections, supporting evidence of in flight structural failure.",
-          "published": "2026-11-10T00:02:59Z"
-        },
-        {
-          "id": "7df66f86b3eda368",
-          "feed": "aero.de",
-          "title": "NTSB stellt Flugschreiber sicher",
-          "url": "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html",
-          "domain": "aero.de",
-          "summary": "WEST PALM BEACH - Ein Learjet 60 stürzt in Florida fast senkrecht auf eine Straße, neun Menschen sterben. Nun haben US-Ermittler den Stimmenrekorder gefunden. Kann er Aufschluss darüber geben, was in den letzten Sekunden geschah?",
-          "published": "2026-11-10T08:59:01Z"
-        }
-      ],
-      "story_id": "2026-11-10-crash-d-un-learjet-60-en-floride-le-ntsb-a-recupere-l-enregi-5996",
-      "written_count": 2
-    },
     "c6c40cb11b9": {
       "id": "c6c40cb11b9",
       "label": "Qantas suppression 850 postes technologie Accenture",
