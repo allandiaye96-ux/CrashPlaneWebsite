@@ -1457,54 +1457,6 @@
       "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
       "written_count": 5
     },
-    "c8a2c7b5903": {
-      "id": "c8a2c7b5903",
-      "label": "Dulles modernisation 20 Md$ hub United",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-07T20:01:09Z",
-      "updated": "2026-11-10T15:20:51Z",
-      "items": [
-        {
-          "id": "c06e6550c9948be5",
-          "feed": "Simple Flying",
-          "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
-          "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
-          "domain": "simpleflying.com",
-          "summary": "Dulles just tripled its modernization budget to more than $20 billion, with Concourse C and D set for replacement.",
-          "published": "2026-11-07T20:00:18Z"
-        },
-        {
-          "id": "98605c3503efb152",
-          "feed": "Simple Flying",
-          "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
-          "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
-          "domain": "simpleflying.com",
-          "summary": "Among the most notable additions are 14 gates and a new United Club lounge.",
-          "published": "2026-11-09T13:56:34Z"
-        },
-        {
-          "id": "80f94d1ce05e1427",
-          "feed": "AirlineGeeks",
-          "title": "United Unveils 14-Gate Concourse at Dulles",
-          "url": "https://airlinegeeks.com/2026/11/09/united-unveils-14-gate-concourse-at-dulles/",
-          "domain": "airlinegeeks.com",
-          "summary": "The airline expects to top 300 daily departures from the hub next summer.",
-          "published": "2026-11-09T16:15:57Z"
-        },
-        {
-          "id": "6178a059ac076dde",
-          "feed": "AeroTime",
-          "title": "United Airlines opens new Concourse E at Washington Dulles Airport",
-          "url": "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport",
-          "domain": "aerotime.aero",
-          "summary": "United Airlines and the Metropolitan Washington Airports Authority is set to open a new concourse at Washington Dulles… The post United Airlines opens new Concourse E at Washington Dulles Airport appeared first on AeroTime .",
-          "published": "2026-11-10T14:57:43Z"
-        }
-      ],
-      "story_id": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903",
-      "written_count": 4
-    },
     "cadb14a8d19": {
       "id": "cadb14a8d19",
       "label": "CFM moteurs China Eastern 101 A320neo",
@@ -1552,45 +1504,6 @@
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
       "written_count": 4
-    },
-    "c56ff96fbca": {
-      "id": "c56ff96fbca",
-      "label": "EASA capacité A330-900 480 passagers",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-09T11:20:50Z",
-      "updated": "2026-11-10T15:20:51Z",
-      "items": [
-        {
-          "id": "f43f010b9874475a",
-          "feed": "aero.de",
-          "title": "EASA erlaubt bis zu 480 Passagiere im Airbus A330-900",
-          "url": "https://www.aero.de/news-54123/EASA-erlaubt-bis-zu-480-Passagiere-im-Airbus-A330-900.html",
-          "domain": "aero.de",
-          "summary": "TOULOUSE - Einige Fluggesellschaften reizen die Kabine im Airbus A330-900 mit einer Economy-Maximalbestuhlung aus. Bald sind noch mehr Sitze noch mehr möglich. Die EASA hebt die Passagierkapazität des Airbus-Interkontmodells von bislang 465 auf 480 Fluggäste an - unter Bedingungen.",
-          "published": "2026-11-09T11:16:52Z"
-        },
-        {
-          "id": "0cda1494a777a9a8",
-          "feed": "Air Journal",
-          "title": "Quinze sièges de plus : l’Airbus A330-900 repousse sa limite à 480 passagers, sous conditions",
-          "url": "https://www.air-journal.fr/2026-11-10-quinze-sieges-de-plus-lairbus-a330-900-repousse-sa-limite-a-480-passagers-sous-conditions-5278761.html",
-          "domain": "air-journal.fr",
-          "summary": "L’Airbus A330-900 peut désormais être certifié pour accueillir jusqu’à 480 passagers, contre 465 auparavant. Cette hausse de quinze places, inscrite dans la dernière révision de la fiche de certification européenne du gros-porteur, reste conditionnée à une modification des équipements d’évacuation et à un aménagement intérieur approuvé. A330-900 : une capacité maximale relevée de 465 à 480 […]",
-          "published": "2026-11-10T09:00:46Z"
-        },
-        {
-          "id": "ff5bbcbe14c8c841",
-          "feed": "airliners.de",
-          "title": "EASA hebt Höchstkapazität der A330-900 auf 480 Plätze an",
-          "url": "https://www.airliners.de/easa-hebt-hoechstkapazitaet-a330-900-480-plaetze/91440",
-          "domain": "airliners.de",
-          "summary": "Die EASA hat die zulässige Höchstzahl an Passagieren für den Airbus A330-900 von 465 auf 480 angehoben. Die Freigabe ist allerdings an eine technische Nachrüstung der Notausgänge geknüpft.",
-          "published": "2026-11-10T15:13:24Z"
-        }
-      ],
-      "story_id": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca",
-      "written_count": 3
     },
     "caba8983790": {
       "id": "caba8983790",

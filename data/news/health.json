@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-17T15:20:47Z",
+  "run": "2026-11-17T15:30:51Z",
   "stats": {
     "fetched": 567,
     "new": 172,
@@ -164,18 +164,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898"
-    },
-    {
-      "dossier": "Dulles modernisation 20 Md$ hub United",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-07-dulles-le-budget-de-modernisation-triple-a-plus-de-20-millia-5903"
-    },
-    {
-      "dossier": "EASA capacité A330-900 480 passagers",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-10-airbus-a330-900-l-easa-releve-la-capacite-maximale-de-465-a-fbca"
     },
     {
       "dossier": "Tankers USAF quittent RAF Mildenhall menace Iran",
