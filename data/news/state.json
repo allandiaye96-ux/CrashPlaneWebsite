@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/": "2026-11-07T20:00:57Z",
     "https://simpleflying.com/united-airlines-pilots-defy-atc-orders-fly-through-worst-part-severe-storm/": "2026-11-07T20:30:47Z",
     "https://simpleflying.com/boeing-777-9-vs-airbus-a380-replacement/": "2026-11-07T21:00:56Z",
     "https://www.easa.europa.eu/newsroom-and-events/press-releases/eurocontrol-and-easa-launch-avenir-environmental-catalogue-strengthen-environmental-transparency": "2026-11-07T21:30:46Z",
@@ -1500,72 +1499,6 @@
       ],
       "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
       "written_count": 4
-    },
-    "caba8983790": {
-      "id": "caba8983790",
-      "label": "A350-1000ULR record du monde de distance Qantas",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-09T14:50:45Z",
-      "updated": "2026-11-10T20:01:15Z",
-      "items": [
-        {
-          "id": "cf13344b8de74db0",
-          "feed": "Airbus – Communiqués",
-          "title": "Airbus A350-1000ULR for Qantas breaks world distance record",
-          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
-          "domain": "airbus.com",
-          "summary": "The Airbus A350-1000ULR (Ultra-Long Range) has officially broken the Guinness World Record for the longest flight by distance by a commercial airliner.",
-          "published": null
-        },
-        {
-          "id": "845ea4b472dd736f",
-          "feed": "Simple Flying",
-          "title": "14,388 Miles: Airbus A350-1000ULR Test Flight Officially Breaks The Guinness World Record",
-          "url": "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/",
-          "domain": "simpleflying.com",
-          "summary": "Airbus has eclipsed Boeing's legendary Baby Blue 2 record, validating the A350-1000ULR ahead of Qantas' Project Sunrise launch.",
-          "published": "2026-11-09T22:17:03Z"
-        },
-        {
-          "id": "b3f33a358ba4ab55",
-          "feed": "Flightradar24 – Blog",
-          "title": "Airbus A350-1000ULR officially sets record for longest commercial airliner flight",
-          "url": "https://www.flightradar24.com/blog/aircraft-stories/airbus-officially-sets-record-for-longest-commercial-airliner-flight/",
-          "domain": "flightradar24.com",
-          "summary": "Millions followed the live flight. Now it’s officially in the record books. Airbus’ A350-1000ULR has secured the Guinness World Record for the longest flight by distance by a commercial airliner—and Flightradar24 is proud to have helped support the record’s certification. Airbus announced the recognition on 9 November, confirming a distance of 12,503 nautical miles (23,155 […] The post Airbus A350-1000ULR officially sets record for longest commercial airliner flight appeared first on Flightradar24 Blog .",
-          "published": "2026-11-09T22:42:32Z"
-        },
-        {
-          "id": "4184ffcbe4a4356d",
-          "feed": "Air Journal",
-          "title": "Plus de 23 000 kilomètres et 24 heures sans escale : l’A350-1000ULR s’offre un record mondial",
-          "url": "https://www.air-journal.fr/2026-11-10-plus-de-23-000-kilometres-et-24-heures-sans-escale-la350-1000ulr-soffre-un-record-mondial-5278763.html",
-          "domain": "air-journal.fr",
-          "summary": "L’Airbus A350-1000ULR développé pour Qantas a parcouru 23 155 kilomètres sans escale entre Melbourne et Toulouse, lors d’un vol d’essai de 24 heures et 24 minutes réalisé en juillet. Annoncée le 9 novembre 2026 par Airbus, cette performance, reconnue selon le constructeur par Guinness World Records, prépare l’arrivée des liaisons sans escale du « Project […]",
-          "published": "2026-11-10T07:00:46Z"
-        },
-        {
-          "id": "e54454805c8c2ee3",
-          "feed": "AirlineGeeks",
-          "title": "A350-1000ULR Sets New Distance Record",
-          "url": "https://airlinegeeks.com/2026/11/10/a350-1000ulr-sets-new-distance-record/",
-          "domain": "airlinegeeks.com",
-          "summary": "The aircraft flew nonstop from Melbourne to Toulouse, France.",
-          "published": "2026-11-10T17:30:00Z"
-        },
-        {
-          "id": "42c8ec4c950cf4f2",
-          "feed": "Australian Aviation",
-          "title": "Qantas’ Project Sunrise jet breaks Guinness World Record",
-          "url": "https://australianaviation.com.au/2026/11/qantas-project-sunrise-jet-breaks-guinness-world-record/",
-          "domain": "australianaviation.com.au",
-          "summary": "The Airbus A350-1000ULR, custom-designed and built for Qantas’ Project Sunrise initiative, is undergoing test flights ahead of the first planned aircraft delivery Down Under in April 2027.",
-          "published": "2026-11-10T02:42:56Z"
-        }
-      ],
-      "story_id": "2026-11-09-l-airbus-a350-1000ulr-destine-a-qantas-decroche-le-record-gu-3790",
-      "written_count": 6
     },
     "c71c60a80f5": {
       "id": "c71c60a80f5",
