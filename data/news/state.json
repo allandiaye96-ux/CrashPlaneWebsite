@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/5-airbus-a321xlr-routes-replacing-widebody-aircraft/": "2026-11-08T12:01:00Z",
     "https://www.air-journal.fr/2026-11-08-air-algerie-et-transavia-sollicitees-par-la-caf-un-allocataire-doit-rembourser-4-225-euros-5278737.html": "2026-11-08T12:10:33Z",
     "https://www.gov.uk/aaib-reports/aaib-investigation-to-dg-aviation-ls8-e-g-cmmg": "2026-11-08T12:40:32Z",
     "https://www.gov.uk/aaib-reports/aaib-investigation-to-zenair-ch-601hds-g-chzs": "2026-11-08T12:40:32Z",
@@ -1072,7 +1071,9 @@
     "https://www.aerotime.aero/articles/ula-rocket-fails-after-liftoff-amazon-leo-satellites": "2026-11-18T10:10:35Z",
     "https://www.air-journal.fr/2026-11-16-voyage-au-bresil-recettes-touristiques-record-et-vols-air-france-renforces-pour-la-haute-saison-5278819.html": "2026-11-18T11:01:08Z",
     "https://www.aerotime.aero/articles/philippine-airlines-firms-order-for-up-to-20-boeing-787-10s-with-ge-engines": "2026-11-18T11:10:38Z",
-    "https://www.aerotime.aero/articles/schiphol-gps-jamming-80-aircraft-north-sea": "2026-11-18T11:10:38Z"
+    "https://www.aerotime.aero/articles/schiphol-gps-jamming-80-aircraft-north-sea": "2026-11-18T11:10:38Z",
+    "https://theaviationist.com/2026/11/16/french-navy-falcon-10-retirement/": "2026-11-18T12:01:03Z",
+    "https://www.air-journal.fr/2026-11-16-etats-unis-apres-la-paralysie-du-ciel-trump-reclame-des-milliards-pour-le-controle-aerien-5278893.html": "2026-11-18T12:01:03Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1719,27 +1720,6 @@
       ],
       "story_id": "2026-11-11-cathay-pacific-commande-onze-a330-900-et-trois-a321neo-suppl-664f",
       "written_count": 3
-    },
-    "c6dd42dc316": {
-      "id": "c6dd42dc316",
-      "label": "Lufthansa Group réduit vols Dubai hiver 2026/2027",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-11T11:50:43Z",
-      "updated": "2026-11-11T11:50:43Z",
-      "items": [
-        {
-          "id": "a7876cdd90c3c0f1",
-          "feed": "aero.de",
-          "title": "Die Dubai-Euphorie von Lufthansa ist verflogen",
-          "url": "https://www.aero.de/news-54145/Die-Dubai-Euphorie-von-Lufthansa-ist-verflogen.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Lufthansa hatte im Winterflugplan 2026/2027 zwischenzeitlich bis zu 36 wöchentliche Flüge nach Dubai hinterlegt. Davon ist nicht mehr viel übrig - Swiss, Austrian Airlines und ITA Airways streichen Dubai bis Ende März 2027 komplett aus dem Programm, Lufthansa beschränkt sich auf Flüge aus München.",
-          "published": "2026-11-11T11:43:01Z"
-        }
-      ],
-      "story_id": "2026-11-11-dubai-swiss-austrian-et-ita-airways-retirent-la-destination-c316",
-      "written_count": 1
     },
     "cd49071bd37": {
       "id": "cd49071bd37",
