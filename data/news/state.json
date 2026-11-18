@@ -1079,7 +1079,8 @@
     "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027": "2026-11-17T21:50:45Z",
     "https://www.air-journal.fr/2026-11-16-le-16-novembre-1925-dans-le-ciel-cobham-entreprend-un-voyage-detude-5278885.html": "2026-11-17T23:10:34Z",
     "https://australianaviation.com.au/2026/11/caloundra-aerodrome-flagged-for-priority-development/": "2026-11-17T23:31:01Z",
-    "https://www.aerotime.aero/articles/spanish-airline-plus-ultra-files-for-creditor-protection-drops-most-routes": "2026-11-18T04:01:03Z"
+    "https://www.aerotime.aero/articles/spanish-airline-plus-ultra-files-for-creditor-protection-drops-most-routes": "2026-11-18T04:01:03Z",
+    "https://australianaviation.com.au/2026/11/flight-training-incidents-on-the-decline-in-australia-says-atsb/": "2026-11-18T05:30:50Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1495,45 +1496,6 @@
       ],
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
       "written_count": 6
-    },
-    "c831f953ecd": {
-      "id": "c831f953ecd",
-      "label": "Emirates Berlin suspension vol",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-10T10:20:53Z",
-      "updated": "2026-11-11T05:20:48Z",
-      "items": [
-        {
-          "id": "2c30986dd8bb6feb",
-          "feed": "aero.de",
-          "title": "Emirates will Luftfahrtdeal wieder aufschnüren",
-          "url": "https://www.aero.de/news-54137/Emirates-will-Luftfahrtdeal-wieder-aufschnueren.html",
-          "domain": "aero.de",
-          "summary": "BELRIN - Emirates hat ihre Pläne, den Flughafen in Berlin anzufliegen, nach Aussage ihres Präsidenten Tim Clark vorerst ausgesetzt. \"Wir hoffen, erneut mit dem Verkehrsministerium hier in Kontakt zu treten, um ein paar Dinge in dieser Hinsicht zu klären\", sagte Clark in Berlin vor Journalisten.",
-          "published": "2026-11-10T10:18:22Z"
-        },
-        {
-          "id": "52c8ccb8d639f1bc",
-          "feed": "airliners.de",
-          "title": "Emirates hält Berlin-Start zurück und sucht Gespräch mit Verkehrsminister",
-          "url": "https://www.airliners.de/emirates-haelt-berlin-start-ueck-sucht-gespraech-verkehrsminister/91423",
-          "domain": "airliners.de",
-          "summary": "Emirates-Präsident Tim Clark sagt, die Airline sei zum 1. April 2027 startbereit für Berlin. Nun wartet die Airline auf Klarheit im Luftverkehrsabkommen mit den VAE. Offen ist, ob sie dafür auf Wachstum an den vier anderen deutschen Zielen verzichten müsste.",
-          "published": "2026-11-10T09:38:58Z"
-        },
-        {
-          "id": "e4e7985522d837c5",
-          "feed": "aero.de",
-          "title": "Bundesregierung: \"Sehr klares Abkommen\"",
-          "url": "https://www.aero.de/news-54136/Emirates-Verkehrsrechte-BER.html",
-          "domain": "aero.de",
-          "summary": "BERLIN - Emirates stoppt ihre BER-Pläne: Emirates-Chef Tim Clark hat noch Fragen zu der zwischen Deutschland und den VAE vereinbarten Erweiterung des Luftverkehrsabkommens - und raunt über Interpretationsmöglichkeiten. Die Bundesregierung spricht hingegen von einem \"sehr klaren Abkommen\".",
-          "published": "2026-11-11T05:12:52Z"
-        }
-      ],
-      "story_id": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd",
-      "written_count": 3
     },
     "c7e5388f208": {
       "id": "c7e5388f208",

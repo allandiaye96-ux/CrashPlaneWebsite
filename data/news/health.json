@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T05:20:34Z",
+  "run": "2026-11-18T05:30:50Z",
   "stats": {
-    "fetched": 671,
-    "new": 287,
+    "fetched": 571,
+    "new": 201,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 36
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -224,12 +224,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
-    },
-    {
-      "dossier": "Emirates Berlin suspension vol",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-10-emirates-suspend-son-projet-de-desserte-de-berlin-et-cherche-3ecd"
     },
     {
       "dossier": "Royal Navy YFQ-48A CCA porte-avions 2027",
