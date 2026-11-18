@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T17:20:36Z",
+  "run": "2026-11-18T17:30:54Z",
   "stats": {
-    "fetched": 671,
-    "new": 283,
+    "fetched": 571,
+    "new": 195,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 36
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -110,12 +110,6 @@
       "statut": "corrobore",
       "editeurs": 8,
       "breve": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5"
-    },
-    {
-      "dossier": "Lufthansa premier A350-1000 et 700e Airbus livré",
-      "statut": "corrobore",
-      "editeurs": 8,
-      "breve": "2026-11-10-airbus-livre-a-lufthansa-son-premier-a350-1000-700e-appareil-cf6d"
     },
     {
       "dossier": "Menaces à la bombe vols Europe 5 novembre 2026",
