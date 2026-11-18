@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T07:20:34Z",
+  "run": "2026-11-18T07:30:53Z",
   "stats": {
-    "fetched": 471,
-    "new": 200,
+    "fetched": 571,
+    "new": 201,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -14,12 +14,12 @@
       "items": 50
     },
     "EASA – Communiqués": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "items": 50
     },
     "EASA – Actualités": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "items": 50
     },
     "Simple Flying": {
       "ok": true,
@@ -308,12 +308,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Emirates 777X calendrier et commande 787",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-emirates-attend-ses-premiers-boeing-777x-vers-fin-2027-et-tr-ad34"
     },
     {
       "dossier": "Lufthansa Group réduit vols Dubai hiver 2026/2027",
