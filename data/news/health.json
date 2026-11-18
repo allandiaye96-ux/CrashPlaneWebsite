@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T16:30:53Z",
+  "run": "2026-11-18T16:40:34Z",
   "stats": {
-    "fetched": 661,
-    "new": 275,
+    "fetched": 571,
+    "new": 198,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -22,8 +22,8 @@
       "items": 50
     },
     "Simple Flying": {
-      "ok": false,
-      "error": "RemoteDisconnected: Remote end closed connection without response"
+      "ok": true,
+      "items": 10
     },
     "AeroTime": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 36
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
