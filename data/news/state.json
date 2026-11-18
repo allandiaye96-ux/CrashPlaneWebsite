@@ -1363,36 +1363,6 @@
       "story_id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
       "written_count": 3
     },
-    "c077aa50f0e": {
-      "id": "c077aa50f0e",
-      "label": "Royal Navy YFQ-48A CCA porte-avions 2027",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-10T22:50:47Z",
-      "updated": "2026-11-11T21:01:22Z",
-      "items": [
-        {
-          "id": "1216e95d6c499650",
-          "feed": "The Aviationist",
-          "title": "Royal Navy to Fly Northrop Grumman’s YFQ-48A from Aircraft Carrier in 2027",
-          "url": "https://theaviationist.com/2026/11/10/royal-navy-yfq-48a-aircraft-carrier-2027/",
-          "domain": "theaviationist.com",
-          "summary": "The Royal Navy plans to demonstrate Northrop Grumman’s YFQ-48A Talon Blue CCA from a Queen Elizabeth-class aircraft carrier in 2027, as part of efforts to develop a future Hybrid Air Wing combining crewed and uncrewed aircraft. The Royal Navy is planning to launch Northrop Grumman’s YFQ-48A Talon Blue Collaborative Combat Aircraft (CCA) from one of […]",
-          "published": "2026-11-10T22:42:39Z"
-        },
-        {
-          "id": "675acb05238f9c1b",
-          "feed": "The War Zone",
-          "title": "Plans To Fly Talon Blue CCA Drone From British Carrier Confirmed By Northrop Grumman",
-          "url": "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman",
-          "domain": "twz.com",
-          "summary": "The Royal Navy wants to infuse drone capabilities into its air wings and Talon Blue would be far more advanced than anything that has flown off the carriers yet. The post Plans To Fly Talon Blue CCA Drone From British Carrier Confirmed By Northrop Grumman appeared first on TWZ .",
-          "published": "2026-11-11T20:30:40Z"
-        }
-      ],
-      "story_id": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e",
-      "written_count": 2
-    },
     "c75c493664f": {
       "id": "c75c493664f",
       "label": "Cathay Pacific commande A330-900 et A321neo",
