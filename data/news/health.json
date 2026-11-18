@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T12:01:03Z",
+  "run": "2026-11-18T12:10:34Z",
   "stats": {
-    "fetched": 671,
-    "new": 285,
+    "fetched": 571,
+    "new": 198,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 36
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -158,12 +158,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738"
-    },
-    {
-      "dossier": "Cathay commande 14 Airbus supplémentaires",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093"
     },
     {
       "dossier": "Cathay Pacific commande A330-900 et A321neo",

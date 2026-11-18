@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-08-air-algerie-et-transavia-sollicitees-par-la-caf-un-allocataire-doit-rembourser-4-225-euros-5278737.html": "2026-11-08T12:10:33Z",
     "https://www.gov.uk/aaib-reports/aaib-investigation-to-dg-aviation-ls8-e-g-cmmg": "2026-11-08T12:40:32Z",
     "https://www.gov.uk/aaib-reports/aaib-investigation-to-zenair-ch-601hds-g-chzs": "2026-11-08T12:40:32Z",
     "https://www.gov.uk/aaib-reports/aaib-investigation-to-airbus-a319-131-g-eups": "2026-11-08T12:40:32Z",
@@ -1073,7 +1072,8 @@
     "https://www.aerotime.aero/articles/philippine-airlines-firms-order-for-up-to-20-boeing-787-10s-with-ge-engines": "2026-11-18T11:10:38Z",
     "https://www.aerotime.aero/articles/schiphol-gps-jamming-80-aircraft-north-sea": "2026-11-18T11:10:38Z",
     "https://theaviationist.com/2026/11/16/french-navy-falcon-10-retirement/": "2026-11-18T12:01:03Z",
-    "https://www.air-journal.fr/2026-11-16-etats-unis-apres-la-paralysie-du-ciel-trump-reclame-des-milliards-pour-le-controle-aerien-5278893.html": "2026-11-18T12:01:03Z"
+    "https://www.air-journal.fr/2026-11-16-etats-unis-apres-la-paralysie-du-ciel-trump-reclame-des-milliards-pour-le-controle-aerien-5278893.html": "2026-11-18T12:01:03Z",
+    "https://www.aerotime.aero/articles/wideroe-embraer-e195-e2-aircraft": "2026-11-18T12:10:34Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1642,45 +1642,6 @@
       ],
       "story_id": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e",
       "written_count": 2
-    },
-    "c6ab2ac1093": {
-      "id": "c6ab2ac1093",
-      "label": "Cathay commande 14 Airbus supplémentaires",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-11T05:20:48Z",
-      "updated": "2026-11-11T12:01:20Z",
-      "items": [
-        {
-          "id": "f816c0f1eb1c12f0",
-          "feed": "Airbus – Communiqués",
-          "title": "The Cathay Group orders 14 additional Airbus aircraft",
-          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft",
-          "domain": "airbus.com",
-          "summary": "Read more about The Cathay Group orders 14 additional Airbus aircraft",
-          "published": null
-        },
-        {
-          "id": "68891514cbe88482",
-          "feed": "AviTrader",
-          "title": "Cathay orders 14 more Airbus aircraft",
-          "url": "https://avitrader.com/2026/11/11/cathay-orders-14-more-airbus-aircraft/",
-          "domain": "avitrader.com",
-          "summary": "Hong Kong’s Cathay Group (Cathay) has placed a firm order for 14 additional Airbus aircraft, comprising 11 A330-900s and three A321neos, as it continues to modernise and expand its fleet. The latest order brings Cathay’s total commitment for the A330-900 to 41 aircraft, following an order for 30 in 2024. The three additional A321neos add […] The post Cathay orders 14 more Airbus aircraft appeared first on AviTrader Aviation News .",
-          "published": "2026-11-11T10:38:53Z"
-        },
-        {
-          "id": "fbc6e60526d80067",
-          "feed": "Air Journal",
-          "title": "Cathay renforce sa flotte régionale avec 11 A330neo et trois A321neo",
-          "url": "https://www.air-journal.fr/2026-11-11-cathay-renforce-sa-flotte-regionale-avec-11-a330neo-et-trois-a321neo-5278789.html",
-          "domain": "air-journal.fr",
-          "summary": "Le groupe hongkongais Cathay a annoncé, le 11 novembre 2026, une commande ferme de 14 Airbus supplémentaires : 11 A330-900 pour Cathay Pacific et trois A321neo pour sa filiale à bas coûts HK Express. Issus de l’exercice de droits d’achat, ces nouveaux engagements accompagneront le renouvellement des flottes et le développement du réseau au départ de […]",
-          "published": "2026-11-11T12:00:19Z"
-        }
-      ],
-      "story_id": "2026-11-11-le-groupe-cathay-commande-14-appareils-airbus-supplementaire-1093",
-      "written_count": 3
     },
     "c75c493664f": {
       "id": "c75c493664f",
