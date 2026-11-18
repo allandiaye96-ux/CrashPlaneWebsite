@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T17:01:15Z",
+  "run": "2026-11-18T17:10:34Z",
   "stats": {
-    "fetched": 561,
-    "new": 187,
+    "fetched": 571,
+    "new": 195,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -212,12 +212,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-11-royal-navy-le-drone-yfq-48a-talon-blue-de-northrop-grumman-d-0f0e"
-    },
-    {
-      "dossier": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-11-cathay-group-commande-onze-a330-900-et-trois-a321neo-supplem-2abb"
     },
     {
       "dossier": "Fly4 Airlines dissolution High Court Dublin",
