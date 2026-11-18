@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T20:20:42Z",
+  "run": "2026-11-18T20:30:52Z",
   "stats": {
-    "fetched": 564,
-    "new": 192,
+    "fetched": 574,
+    "new": 201,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
