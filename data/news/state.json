@@ -1765,27 +1765,6 @@
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
       "written_count": 6
     },
-    "c8ce687a6b1": {
-      "id": "c8ce687a6b1",
-      "label": "Albastar arrêt vols insolvence",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-11T15:20:48Z",
-      "updated": "2026-11-11T15:20:48Z",
-      "items": [
-        {
-          "id": "40f1eedcd3a012a8",
-          "feed": "airliners.de",
-          "title": "Albastar stellt Flugbetrieb vorübergehend ein und beantragt Insolvenz",
-          "url": "https://www.airliners.de/albastar-stellt-flugbetrieb-uebergehend-beantragt-insolvenz/91469",
-          "domain": "airliners.de",
-          "summary": "Die auf Mallorca ansässige Fluggesellschaft Albastar hat ihren Flugbetrieb vorübergehend ausgesetzt und ein Insolvenzverfahren beantragt. Geschäftsführer Oriol Hernández begründete den Schritt in einem Schreiben an Mitarbeiter und Partner mit finanziellen Schwierigkeiten, wie das spanische Reiseportal \"Preferente\" berichtete.",
-          "published": "2026-11-11T14:54:30Z"
-        }
-      ],
-      "story_id": "2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1",
-      "written_count": 1
-    },
     "c76e1232abb": {
       "id": "c76e1232abb",
       "label": "Cathay Group bestellt 14 weitere Airbus-Flugzeuge",

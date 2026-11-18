@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T15:20:46Z",
+  "run": "2026-11-18T15:30:52Z",
   "stats": {
-    "fetched": 561,
-    "new": 188,
+    "fetched": 571,
+    "new": 198,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -290,12 +290,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Albastar arrêt vols insolvence",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-albastar-suspend-temporairement-ses-vols-et-demande-l-ouvert-a6b1"
     },
     {
       "dossier": "FAA outil IA planification trafic centres",
