@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T15:01:07Z",
+  "run": "2026-11-18T15:10:37Z",
   "stats": {
-    "fetched": 671,
-    "new": 289,
+    "fetched": 571,
+    "new": 201,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 36
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -128,12 +128,6 @@
       "statut": "corrobore",
       "editeurs": 6,
       "breve": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7"
-    },
-    {
-      "dossier": "CFM moteurs China Eastern 101 A320neo",
-      "statut": "corrobore",
-      "editeurs": 4,
-      "breve": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19"
     },
     {
       "dossier": "Qantas suppression 850 postes technologie Accenture",
@@ -296,12 +290,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Etihad retire A380 vols Amérique du Nord",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5"
     },
     {
       "dossier": "Albastar arrêt vols insolvence",

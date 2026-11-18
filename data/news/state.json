@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.air-journal.fr/2026-11-08-moins-de-destinations-plus-de-vols-tui-fly-belgium-revoit-son-reseau-pour-2027-5278736.html": "2026-11-08T15:10:33Z",
     "https://www.aerotime.aero/articles/ge-approves-nyco-oil-boeing-787-genx-1b": "2026-11-08T15:50:33Z",
     "https://www.aerotime.aero/articles/airbaltic-redundancies-pilots-cabin-crew-latvia-lithuania-estonia": "2026-11-08T15:50:33Z",
     "https://www.aerotime.aero/articles/signature-aviation-fbo-fees-pricing-aopa": "2026-11-08T15:50:33Z",
@@ -1057,7 +1056,8 @@
     "https://airlinegeeks.com/2026/11/16/flight-disruptions-ease-dot-lays-blame-for-atc-outage/": "2026-11-18T14:40:36Z",
     "https://theaviationist.com/2026/11/16/chinas-fourth-aircraft-carrier-satellite-images/": "2026-11-18T14:50:38Z",
     "https://www.twz.com/nuclear/mysterious-new-b94-nuclear-bomb-designation-emerges-first-in-decades": "2026-11-18T14:50:38Z",
-    "https://www.air-journal.fr/2026-11-16-philippine-airlines-confirme-jusqua-20-boeing-787-10-pour-renouveler-sa-flotte-5278897.html": "2026-11-18T15:01:07Z"
+    "https://www.air-journal.fr/2026-11-16-philippine-airlines-confirme-jusqua-20-boeing-787-10-pour-renouveler-sa-flotte-5278897.html": "2026-11-18T15:01:07Z",
+    "https://www.aerotime.aero/articles/china-world-first-a350-business-seating-production": "2026-11-18T15:10:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1218,54 +1218,6 @@
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 11
-    },
-    "cadb14a8d19": {
-      "id": "cadb14a8d19",
-      "label": "CFM moteurs China Eastern 101 A320neo",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-08T14:50:48Z",
-      "updated": "2026-11-11T15:01:16Z",
-      "items": [
-        {
-          "id": "629b0b3b7aae12f8",
-          "feed": "AeroTime",
-          "title": "CFM wins engine deal for 101 China Eastern A320neo family jets",
-          "url": "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets",
-          "domain": "aerotime.aero",
-          "summary": "China Eastern Airlines has confirmed CFM International as the engine supplier for its latest Airbus narrowbody order, selecting… The post CFM wins engine deal for 101 China Eastern A320neo family jets appeared first on AeroTime .",
-          "published": "2026-11-08T14:21:34Z"
-        },
-        {
-          "id": "093157e2b1d0c285",
-          "feed": "AviTrader",
-          "title": "China Eastern selects LEAP engines for 101 Airbus aircraft",
-          "url": "https://avitrader.com/2026/11/09/china-eastern-selects-leap-engines-for-101-airbus-aircraft/",
-          "domain": "avitrader.com",
-          "summary": "China Eastern Airlines has selected CFM International LEAP-1A engines to power 101 new Airbus A320neo-family aircraft, alongside spare engines and a long-term services agreement. The agreement was marked by a signing ceremony at the ninth China International Import Expo (CIIE) in Shanghai. “CFM LEAP engines are helping us build one of the most modern fleets […] The post China Eastern selects LEAP engines for 101 Airbus aircraft appeared first on AviTrader Aviation News .",
-          "published": "2026-11-09T08:12:59Z"
-        },
-        {
-          "id": "b1c8a1cdf2ff6e25",
-          "feed": "Le Journal de l'Aviation",
-          "title": "China Eastern choisit le LEAP-1A pour 101 nouveaux monocouloirs Airbus, dont des A321XLR",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html",
-          "domain": "journal-aviation.com",
-          "summary": "China Eastern Airlines (CEA) a sélectionné le LEAP-1A de CFM International pour motoriser 101 nouveaux appareils de la famille Airbus A320neo, dont des A321XLR. Annoncé le 6 novembre à l’occasion […] L’article China Eastern choisit le LEAP-1A pour 101 nouveaux monocouloirs Airbus, dont des A321XLR a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-09T13:01:51Z"
-        },
-        {
-          "id": "391e2d2e3c01f39e",
-          "feed": "Air Journal",
-          "title": "Chine : les contrats records de GE pour 12,9 milliards de dollars soulignent la dépendance du C919 aux moteurs occidentaux",
-          "url": "https://www.air-journal.fr/2026-11-11-chine-les-contrats-records-de-ge-pour-129-milliards-de-dollars-soulignent-la-dependance-du-c919-aux-moteurs-occidentaux-5278799.html",
-          "domain": "air-journal.fr",
-          "summary": "GE Aerospace a annoncé plus de 12,9 milliards de dollars d’accords commerciaux au salon des importations de Shanghai. China Eastern Airlines renforce notamment ses approvisionnements en moteurs CFM, pour ses futurs Airbus comme pour sa flotte actuelle, dont les C919. Une nouvelle illustration des liens industriels avec l’Occident, alors que l’avionneur chinois Comac peine à […]",
-          "published": "2026-11-11T15:00:55Z"
-        }
-      ],
-      "story_id": "2026-11-08-china-eastern-choisit-cfm-international-pour-motoriser-101-a-8d19",
-      "written_count": 4
     },
     "c71c60a80f5": {
       "id": "c71c60a80f5",
@@ -1809,27 +1761,6 @@
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
       "written_count": 6
-    },
-    "c8a4083b4f5": {
-      "id": "c8a4083b4f5",
-      "label": "Etihad retire A380 vols Amérique du Nord",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-11T15:01:16Z",
-      "updated": "2026-11-11T15:01:16Z",
-      "items": [
-        {
-          "id": "8d5c8743b377eee7",
-          "feed": "Simple Flying",
-          "title": "Etihad Airways Scraps All Airbus A380 Flights To North America: See Map Now",
-          "url": "https://simpleflying.com/etihad-airways-scraps-all-airbus-a380-flights-to-north-america/",
-          "domain": "simpleflying.com",
-          "summary": "Another route will also stop seeing the type. Find out more here!",
-          "published": "2026-11-11T15:00:18Z"
-        }
-      ],
-      "story_id": "2026-11-11-etihad-fin-des-vols-en-airbus-a380-vers-l-amerique-du-nord-s-b4f5",
-      "written_count": 1
     },
     "c8ce687a6b1": {
       "id": "c8ce687a6b1",
