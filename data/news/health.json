@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-18T07:10:35Z",
+  "run": "2026-11-18T07:20:34Z",
   "stats": {
-    "fetched": 571,
+    "fetched": 471,
     "new": 200,
     "written": 0,
     "held": 0,
@@ -14,12 +14,12 @@
       "items": 50
     },
     "EASA – Communiqués": {
-      "ok": true,
-      "items": 50
+      "ok": false,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     "EASA – Actualités": {
-      "ok": true,
-      "items": 50
+      "ok": false,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     "Simple Flying": {
       "ok": true,
