@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T13:30:49Z",
+  "run": "2026-11-18T13:40:36Z",
   "stats": {
     "fetched": 571,
-    "new": 198,
+    "new": 200,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -296,12 +296,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Alaska Airlines nouvelle ligne Anchorage-Tokyo Narita 2027",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-11-alaska-airlines-prepare-un-vol-anchoragetokyo-narita-en-boei-a438"
     },
     {
       "dossier": "Etihad retire A380 vols Amérique du Nord",
