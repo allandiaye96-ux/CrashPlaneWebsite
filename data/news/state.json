@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airlines-offer-amenity-kits-in-economy-class-in-2026/": "2026-11-08T20:10:32Z",
     "https://simpleflying.com/why-singapore-airlines-boeing-787-10s-short-regional-routes/": "2026-11-08T21:01:00Z",
     "https://simpleflying.com/airbus-a350-passengers-often-dont-feel-as-tired-flying-long-haul-compared-boeing-777/": "2026-11-08T22:00:58Z",
     "https://www.twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production": "2026-11-08T22:20:32Z",
@@ -1209,90 +1208,6 @@
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 11
-    },
-    "c71c60a80f5": {
-      "id": "c71c60a80f5",
-      "label": "Boeing suppression 5% postes BCA",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-09T21:01:20Z",
-      "updated": "2026-11-11T20:01:18Z",
-      "items": [
-        {
-          "id": "2fae47b1b276bb60",
-          "feed": "aero.de",
-          "title": "Stockender Hochlauf: Boeing baut Personal ab",
-          "url": "https://www.aero.de/news-54129/Stockender-Hochlauf-Boeing-baut-Personal-ab.html",
-          "domain": "aero.de",
-          "summary": "ARLINGTON - Der Flugzeughersteller Boeing will angesichts von Problemen beim weiteren Produktionsausbau rund fünf Prozent der Stellen in seiner Verkehrsflugzeugsparte BCA streichen.",
-          "published": "2026-11-09T20:51:23Z"
-        },
-        {
-          "id": "4b3ab54bb79c96f9",
-          "feed": "Leeham News",
-          "title": "Boeing Plans to Cut 5% of Commercial Workforce",
-          "url": "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/",
-          "domain": "leehamnews.com",
-          "summary": "By Howard Hardee • Editor November 9, 2026 Boeing is making cuts to its commercial workforce as it resets the pace of 737 Max production. The U.S. airframer disclosed during its third-quarter earnings call late last month that... Read More The post Boeing Plans to Cut 5% of Commercial Workforce appeared first on Leeham News .",
-          "published": "2026-11-09T22:29:56Z"
-        },
-        {
-          "id": "995491c912330f3d",
-          "feed": "AeroTime",
-          "title": "Boeing to cut 5% of commercial jet workforce as production ramp-up falters",
-          "url": "https://www.aerotime.aero/articles/boeing-commercial-airplanes-workforce-cuts-737-production",
-          "domain": "aerotime.aero",
-          "summary": "Boeing will cut about 5% of the jobs in its commercial airplane workforce as it builds jets more… The post Boeing to cut 5% of commercial jet workforce as production ramp-up falters appeared first on AeroTime .",
-          "published": "2026-11-09T22:10:54Z"
-        },
-        {
-          "id": "28a7d325a3399010",
-          "feed": "Simple Flying",
-          "title": "Boeing Cuts 5% Of Commercial Airplanes Workforce As Production Ramp-Up Slows",
-          "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
-          "domain": "simpleflying.com",
-          "summary": "Slower wing delivery and factory stability issues reshape output plans while a long backlog cushions near term impact.",
-          "published": "2026-11-09T23:25:34Z"
-        },
-        {
-          "id": "fa97fe243d1df671",
-          "feed": "airliners.de",
-          "title": "Boeing streicht fünf Prozent der Stellen in Verkehrsflugzeugsparte",
-          "url": "https://www.airliners.de/boeing-streicht-prozent-stellen-verkehrsflugzeugsparte/91422",
-          "domain": "airliners.de",
-          "summary": "Boeing will fünf Prozent der Stellen in der Verkehrsflugzeugsparte streichen. Hintergrund sind Probleme beim Hochfahren der Produktion. Wie der Abbau ablaufen soll, geht aus einem internen Memo der Spartenchefin hervor.",
-          "published": "2026-11-10T08:41:39Z"
-        },
-        {
-          "id": "38e813d679df6896",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/boeing-va-supprimer-5-des-effectifs-de-sa-division-avions-commerciaux-20261110.html",
-          "domain": "journal-aviation.com",
-          "summary": "Boeing prévoit de réduire d’environ 5% les effectifs de sa division Avions Commerciaux (Commercial Airplanes), par des départs naturels (non remplacés) et des licenciements, conséquence d’une montée en cadence plus […] L’article Boeing va supprimer 5% des effectifs de sa division Avions Commerciaux a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-10T11:43:04Z"
-        },
-        {
-          "id": "ff4e256595f87b24",
-          "feed": "Air Journal",
-          "title": "Boeing : la reprise industrielle patine, environ 2 500 postes menacés",
-          "url": "https://www.air-journal.fr/2026-11-10-boeing-la-reprise-industrielle-patine-environ-2-500-postes-menaces-5278769.html",
-          "domain": "air-journal.fr",
-          "summary": "Boeing prévoit de réduire de 5% les effectifs de sa division avions commerciaux, alors que la montée en cadence de ses usines prend davantage de temps que prévu. Environ 2 500 postes pourraient être concernés, entre départs naturels non remplacés et licenciements. Le constructeur doit notamment repousser au début de 2027 la stabilisation de sa […]",
-          "published": "2026-11-10T12:00:46Z"
-        },
-        {
-          "id": "8476f4216eaa6408",
-          "feed": "Australian Aviation",
-          "title": "Boeing cuts commercial airplanes workforce amid slow production",
-          "url": "https://australianaviation.com.au/2026/11/boeing-cuts-commercial-airplanes-workforce-amid-slow-production/",
-          "domain": "australianaviation.com.au",
-          "summary": "The planemaker is set to reduce its commercial airplanes workforce by around 5 per cent starting in December, with its plan to ramp up manufacturing of 737 MAX aircraft hampered by “slower than expected” wing production at its Renton factory.",
-          "published": "2026-11-11T00:28:12Z"
-        }
-      ],
-      "story_id": "2026-11-09-boeing-prevoit-de-supprimer-environ-cinq-pour-cent-des-poste-80f5",
-      "written_count": 8
     },
     "c6c40cb11b9": {
       "id": "c6c40cb11b9",
