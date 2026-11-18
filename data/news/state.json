@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=3CB40DCF-6EC1-4FEB-B60A-ECB57BC20E92": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=848AC0FE-5626-4B2B-BAD5-5570EAFA1BE9": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=64C56C9E-20FE-4B1F-93FB-EE929DCC3502": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=6FDEB9DA-8BE9-4829-B339-1334452D36AA": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=CF901330-598B-404D-A1B3-07961FD9E814": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=37E0F66B-630B-47E9-A053-8EDB2C25CA45": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=48E20A4C-0AEC-44BB-9133-B4F0DBF44142": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=D57F9549-8D14-435D-A1B4-5F01BA1DD4C6": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=EAA2A96D-3FE2-4F9C-B0AE-E58B7F8C397C": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=1EBCA918-486D-4946-B4DE-7FF4A42D93F2": "2026-11-08T10:10:31Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=7D9062F9-9A33-4FFC-A6B6-C46C48B556FB": "2026-11-08T10:10:31Z",
-    "https://www.air-journal.fr/2026-11-08-turbulences-en-avion-une-application-aide-les-passagers-a-preparer-leur-vol-5278728.html": "2026-11-08T10:10:31Z",
     "https://simpleflying.com/5-degree-rule-that-now-governs-every-737-max-takeoff-boeing-mcas-rewrite/": "2026-11-08T10:20:31Z",
     "https://www.air-journal.fr/2026-11-08-iag-reduit-ses-ambitions-pour-2026-et-prevoit-une-legere-baisse-de-sa-capacite-5278733.html": "2026-11-08T11:20:32Z",
     "https://simpleflying.com/5-airbus-a321xlr-routes-replacing-widebody-aircraft/": "2026-11-08T12:01:00Z",
@@ -1082,7 +1070,8 @@
     "https://www.aero.de/news-54183/Amazon-verliert-40-neue-Leo-Satelliten.html": "2026-11-18T09:40:36Z",
     "https://www.aerotime.aero/articles/south-korean-government-approves-merger-between-three-low-cost-airlines": "2026-11-18T10:01:01Z",
     "https://www.airliners.de/spohr-erwartet-langstreckengeneration-2040er-jahren/91533": "2026-11-18T10:01:01Z",
-    "https://www.air-journal.fr/2026-11-16-united-airlines-les-boeing-757-300-jouent-les-prolongations-avec-une-cabine-modernisee-5278891.html": "2026-11-18T10:01:01Z"
+    "https://www.air-journal.fr/2026-11-16-united-airlines-les-boeing-757-300-jouent-les-prolongations-avec-une-cabine-modernisee-5278891.html": "2026-11-18T10:01:01Z",
+    "https://www.aerotime.aero/articles/ula-rocket-fails-after-liftoff-amazon-leo-satellites": "2026-11-18T10:10:35Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1243,63 +1232,6 @@
       ],
       "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
       "written_count": 11
-    },
-    "cfca5dd9898": {
-      "id": "cfca5dd9898",
-      "label": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-06T07:40:53Z",
-      "updated": "2026-11-11T10:01:12Z",
-      "items": [
-        {
-          "id": "8f5806f6e1ac8df8",
-          "feed": "aero.de",
-          "title": "Frankreich ermittelt gegen Pilot von Aer Lingus",
-          "url": "https://www.aero.de/news-54104/Frankreich-ermittelt-gegen-Pilot-von-Aer-Lingus.html",
-          "domain": "aero.de",
-          "summary": "PARIS - Gegen mindestens 27 Flüge im europäischen Luftraum gehen Drohungen ein - durchweg Fehlalarm. Einen Airbus A320 von Aer Lingus ereilt die Warnung im französischen Luftraum. Kapitän und Behörden streiten über den Ausweichairport, Frankreich lässt Kampfjets aufsteigen.",
-          "published": "2026-11-06T07:38:31Z"
-        },
-        {
-          "id": "358c3b5a2abbcf8e",
-          "feed": "Air Journal",
-          "title": "Aer Lingus : deux chasseurs pour escorter le Dublin-Rome, le commandant de bord visé par une enquête",
-          "url": "https://www.air-journal.fr/2026-11-06-aer-lingus-deux-chasseurs-pour-escorter-le-dublin-rome-le-commandant-de-bord-vise-par-une-enquete-5278704.html",
-          "domain": "air-journal.fr",
-          "summary": "Le parquet d’Évreux a ouvert une enquête après le refus présumé du commandant de bord d’un Airbus A320 d’Aer Lingus de rejoindre immédiatement la base aérienne normande, jeudi 5 novembre. Visé par une alerte à la bombe finalement infondée, l’appareil reliant Dublin à Rome avec 157 personnes à bord s’est posé sans incident, escorté par […]",
-          "published": "2026-11-06T13:00:09Z"
-        },
-        {
-          "id": "9b0f0599c4c17650",
-          "feed": "Air Journal",
-          "title": "Un commandant de bord peut-il refuser un déroutement militaire ? L’affaire Aer Lingus relance le débat",
-          "url": "https://www.air-journal.fr/2026-11-09-un-commandant-de-bord-peut-il-refuser-un-deroutement-militaire-laffaire-aer-lingus-relance-le-debat-5278743.html",
-          "domain": "air-journal.fr",
-          "summary": "Le déroutement sous escorte militaire d’un Airbus A320 d’Aer Lingus, le 5 novembre, suscite une controverse sur la gestion des alertes à la bombe. Alors que le parquet d’Évreux enquête sur le refus initial présumé du commandant de bord de se poser sur une base militaire, l’association belge de pilotes BeCA défend sa décision de […]",
-          "published": "2026-11-09T09:00:28Z"
-        },
-        {
-          "id": "9246bb3ce9a04d97",
-          "feed": "airliners.de",
-          "title": "Pilotenverbände kritisieren Behördenvorgehen nach Bombendrohungen",
-          "url": "https://www.airliners.de/pilotenverbaende-kritisieren-behoerdenvorgehen-bombendrohungen/91435",
-          "domain": "airliners.de",
-          "summary": "Nach einer Serie von Bombendrohungen gegen europäische Verkehrsflugzeuge erheben Pilotenverbände Vorwürfe gegen staatliche Stellen. Militärflugzeuge sollen Besatzungen Landeorte vorgegeben haben, ohne deren Anforderungen ausreichend zu berücksichtigen.",
-          "published": "2026-11-10T16:21:17Z"
-        },
-        {
-          "id": "9ce948a6c67890ec",
-          "feed": "Air Journal",
-          "title": "Aer Lingus dérouté à Évreux : les syndicats de pilotes contestent les conditions de l’interception",
-          "url": "https://www.air-journal.fr/2026-11-11-aer-lingus-deroute-a-evreux-les-syndicats-de-pilotes-contestent-les-conditions-de-linterception-5278783.html",
-          "domain": "air-journal.fr",
-          "summary": "Après plusieurs fausses alertes à la bombe visant des vols européens, les organisations de pilotes s’inquiètent des conditions dans lesquelles certains avions de ligne ont été interceptés et déroutés par les autorités militaires. Dans un communiqué publié le 10 novembre, l’European Cockpit Association, l’IALPA irlandaise et le SNPL français demandent que les impératifs de sûreté […]",
-          "published": "2026-11-11T10:00:24Z"
-        }
-      ],
-      "story_id": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898",
-      "written_count": 5
     },
     "cadb14a8d19": {
       "id": "cadb14a8d19",

@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-18T10:01:01Z",
+  "run": "2026-11-18T10:10:35Z",
   "stats": {
     "fetched": 571,
-    "new": 196,
+    "new": 199,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -152,12 +152,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
-    },
-    {
-      "dossier": "Menaces à la bombe vols Europe 2026 - Aer Lingus A320 et Frankreich",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-06-alerte-a-la-bombe-sur-un-a320-d-aer-lingus-enquete-ouverte-e-9898"
     },
     {
       "dossier": "Boeing livraisons et commandes octobre",
