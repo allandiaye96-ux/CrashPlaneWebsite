@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/pal-deploys-a350-1000-daily-on-manila-san-francisco-route-ahead-of-year-end-peak": "2026-11-09T09:30:50Z",
-    "https://www.aero.de/news-54121/Aer-Lingus-baut-Verwaltungsstellen-und-Flugpersonal-ab.html": "2026-11-09T09:30:50Z",
     "https://simpleflying.com/lufthansa-boeing-747-american-airlines-787-miami-close-accident/": "2026-11-09T09:40:34Z",
     "https://www.air-journal.fr/2026-11-09-zurich-mumbai-swiss-deploie-la350-pour-lhiver-5278744.html": "2026-11-09T10:01:03Z",
     "https://www.aerotime.aero/articles/air-france-receives-final-airbus-a220-300-2019-order": "2026-11-09T10:10:35Z",
@@ -1546,36 +1544,6 @@
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
       "written_count": 6
-    },
-    "c655319e764": {
-      "id": "c655319e764",
-      "label": "Fly4 Airlines dissolution High Court Dublin",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-12T05:50:43Z",
-      "updated": "2026-11-12T09:21:13Z",
-      "items": [
-        {
-          "id": "09863ccd9fccbbc3",
-          "feed": "aero.de",
-          "title": "Fly4 Airlines soll aufgelöst werden",
-          "url": "https://www.aero.de/news-54152/Fly4-Airlines-soll-aufgeloest-werden.html",
-          "domain": "aero.de",
-          "summary": "DUBLIN - Der irische ACMI-Spezialist Fly4 Airlines verschwindet vom Markt. Der zuständige High Court in Dublin hat vorläufige Verwalter bestellt.",
-          "published": "2026-11-12T05:44:22Z"
-        },
-        {
-          "id": "b0817a2667ea3f1b",
-          "feed": "airliners.de",
-          "title": "Fly 4 Airlines geht in vorläufige Liquidation",
-          "url": "https://www.airliners.de/fly-4-airlines-vorlaeufige-liquidation/91483",
-          "domain": "airliners.de",
-          "summary": "Fly 4 Airlines, an der Enter Air und Tui beteiligt sind, wird einem Insider zufolge liquidiert. Auch \"The Currency\" berichtete, die Gesellschaft habe beim High Court erfolgreich die vorläufige Liquidation beantragt.",
-          "published": "2026-11-12T08:47:51Z"
-        }
-      ],
-      "story_id": "2026-11-12-fly4-airlines-le-tribunal-de-dublin-nomme-des-administrateur-e764",
-      "written_count": 2
     },
     "ca8a95cf5dc": {
       "id": "ca8a95cf5dc",
