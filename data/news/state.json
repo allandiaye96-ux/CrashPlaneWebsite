@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.airliners.de/feuerwehren-proben-flughafen-braunschweig-wolfsburg-ernstfall/91390": "2026-11-09T10:20:34Z",
-    "https://www.airliners.de/airbus-aktienrueckkauf-milliarden-euro/91391": "2026-11-09T10:20:34Z",
-    "https://www.airliners.de/aegean-bestaetigt-a321-lr-kabine-haelt-trotz-kerosinpreise-indien-fest/91393": "2026-11-09T10:20:34Z",
-    "https://www.airliners.de/israir-verhandelt-uebernahme-arkia/91388": "2026-11-09T10:20:34Z",
-    "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389": "2026-11-09T10:20:34Z",
     "https://www.aerotime.aero/articles/italian-army-chinook-crash-bosnia-eufor": "2026-11-09T10:30:53Z",
     "https://www.aerotime.aero/articles/boeing-and-lufthansa-technik-lock-in-three-more-years-of-parts-collaboration": "2026-11-09T10:30:53Z",
     "https://simpleflying.com/airlines-with-worlds-most-high-density-economy-cabins-in-2026/": "2026-11-09T10:50:37Z",
@@ -1656,69 +1651,6 @@
       ],
       "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
       "written_count": 3
-    },
-    "ca389b14f33": {
-      "id": "ca389b14f33",
-      "label": "AAIB Leonardo AW169 G-HHEM Southend downwash",
-      "categorie": "Enquête",
-      "importance": 2,
-      "created": "2026-11-12T10:10:50Z",
-      "updated": "2026-11-12T10:10:50Z",
-      "items": [
-        {
-          "id": "1812235df007a554",
-          "feed": "AAIB (Royaume-Uni) – Rapports",
-          "title": "AAIB investigation to Leonardo AW169, G-HHEM",
-          "url": "https://www.gov.uk/aaib-reports/aaib-investigation-to-leonardo-aw169-g-hhem",
-          "domain": "gov.uk",
-          "summary": "Serious injury to member of the public caused by downwash, Southend, Essex, 28 February 2026",
-          "published": "2026-11-12T10:01:46Z"
-        }
-      ],
-      "story_id": "2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33",
-      "written_count": 1
-    },
-    "ccfce6ae70c": {
-      "id": "ccfce6ae70c",
-      "label": "AAIB Aero L-159E G-DKNA oxygène mer du Nord",
-      "categorie": "Enquête",
-      "importance": 2,
-      "created": "2026-11-12T10:10:50Z",
-      "updated": "2026-11-12T10:10:50Z",
-      "items": [
-        {
-          "id": "d13c25cb38ef6a3c",
-          "feed": "AAIB (Royaume-Uni) – Rapports",
-          "title": "AAIB investigation to Aero L-159E, G-DKNA",
-          "url": "https://www.gov.uk/aaib-reports/aaib-investigation-to-aero-l-159e-g-dkna",
-          "domain": "gov.uk",
-          "summary": "Rapid descent due to failure of main and emergency aircraft oxygen systems, North Sea Danger Area (D323 D), 27 October 2025",
-          "published": "2026-11-12T10:01:19Z"
-        }
-      ],
-      "story_id": "2026-11-12-aero-l-159e-g-dkna-enquete-de-l-aaib-sur-une-descente-rapide-e70c",
-      "written_count": 1
-    },
-    "cba3602e07c": {
-      "id": "cba3602e07c",
-      "label": "Frontier première classe A320 2027",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-12T10:10:50Z",
-      "updated": "2026-11-12T10:10:50Z",
-      "items": [
-        {
-          "id": "1498aebc61ab2d9b",
-          "feed": "Air Journal",
-          "title": "Frontier s’offre une première classe : le grand écart de l’ultra-low-cost",
-          "url": "https://www.air-journal.fr/2026-11-12-frontier-soffre-une-premiere-classe-le-grand-ecart-de-lultra-low-cost-5278800.html",
-          "domain": "air-journal.fr",
-          "summary": "Frontier Airlines a ouvert, le 10 novembre, les réservations de sa première cabine First Class, dont l’entrée en service est prévue le 5 mars 2027 sur sa flotte d’Airbus A320 et A321. Avec huit fauteuils à l’avant, davantage de sièges offrant de l’espace pour les jambes et une connectivité annoncée pour 2027, la compagnie américaine […]",
-          "published": "2026-11-12T10:00:32Z"
-        }
-      ],
-      "story_id": "2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c",
-      "written_count": 1
     },
     "ce4bf01bfb9": {
       "id": "ce4bf01bfb9",

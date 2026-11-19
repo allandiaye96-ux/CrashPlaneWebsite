@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-19T10:10:39Z",
+  "run": "2026-11-19T10:20:36Z",
   "stats": {
     "fetched": 577,
     "new": 185,
@@ -260,24 +260,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "AAIB Leonardo AW169 G-HHEM Southend downwash",
-      "statut": "officiel",
-      "editeurs": 1,
-      "breve": "2026-11-12-helicoptere-leonardo-aw169-g-hhem-blessure-grave-d-un-passan-4f33"
-    },
-    {
-      "dossier": "AAIB Aero L-159E G-DKNA oxygène mer du Nord",
-      "statut": "officiel",
-      "editeurs": 1,
-      "breve": "2026-11-12-aero-l-159e-g-dkna-enquete-de-l-aaib-sur-une-descente-rapide-e70c"
-    },
-    {
-      "dossier": "Frontier première classe A320 2027",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-frontier-airlines-ouvre-les-reservations-de-sa-cabine-premiu-e07c"
     },
     {
       "dossier": "Charlotte CLT accord de bail et investissement 2 Md$",
