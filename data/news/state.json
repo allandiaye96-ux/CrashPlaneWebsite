@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record": "2026-11-09T14:50:33Z",
     "https://simpleflying.com/air-canada-cancels-7-hour-long-haul-route-europe/": "2026-11-09T15:01:11Z",
     "https://simpleflying.com/5-airlines-operating-boeing-787-dreamliners-airbus-a350s/": "2026-11-09T15:01:11Z",
     "https://www.air-journal.fr/2026-11-09-avions-retenus-en-russie-deux-annees-de-plus-pour-voler-sans-solder-les-litiges-5278756.html": "2026-11-09T15:01:11Z",
@@ -1275,72 +1274,6 @@
       ],
       "story_id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
       "written_count": 3
-    },
-    "c1d863f44f7": {
-      "id": "c1d863f44f7",
-      "label": "Apollo rachat easyJet vote actionnaires",
-      "categorie": "Compagnies",
-      "importance": 3,
-      "created": "2026-11-11T14:20:52Z",
-      "updated": "2026-11-12T14:40:53Z",
-      "items": [
-        {
-          "id": "6e189edcdfa80c62",
-          "feed": "airliners.de",
-          "title": "Easyjet-Aktionäre stimmen Übernahme durch Apollo zu",
-          "url": "https://www.airliners.de/easyjet-aktionaere-stimmen-uebernahme-apollo-zu/91459",
-          "domain": "airliners.de",
-          "summary": "Die Aktionäre der Easyjet haben mit großer Mehrheit den Weg für die Übernahme durch den Finanzinvestor Apollo freigemacht. Damit rückt der Rückzug der Airline von der Börse näher. Eine entscheidende Hürde steht allerdings noch aus.",
-          "published": "2026-11-11T13:41:21Z"
-        },
-        {
-          "id": "ff76efd30689e838",
-          "feed": "Simple Flying",
-          "title": "$7.6 Billion Takeover: easyJet Shareholders Back Apollo Deal That Will Take The Airline Private",
-          "url": "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/",
-          "domain": "simpleflying.com",
-          "summary": "An American private equity firm now has easyJet shareholder approval to take over the budget airline.",
-          "published": "2026-11-11T17:55:22Z"
-        },
-        {
-          "id": "de61ebc303b3fad5",
-          "feed": "AeroTime",
-          "title": "easyJet shareholders approve Apollo’s £5.7 billion takeover bid",
-          "url": "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover",
-          "domain": "aerotime.aero",
-          "summary": "easyJet shareholders approved Apollo’s proposed £5.7 billion ($7.6 billion) takeover on November 11, 2026. The UK low-cost carrier… The post easyJet shareholders approve Apollo’s £5.7 billion takeover bid appeared first on AeroTime .",
-          "published": "2026-11-11T21:18:22Z"
-        },
-        {
-          "id": "b8bddfdd1d3bfd44",
-          "feed": "Air Journal",
-          "title": "EasyJet : les actionnaires disent oui à Apollo, l’Europe reste à convaincre",
-          "url": "https://www.air-journal.fr/2026-11-12-easyjet-les-actionnaires-disent-oui-a-apollo-leurope-reste-a-convaincre-5278810.html",
-          "domain": "air-journal.fr",
-          "summary": "Les actionnaires d’easyJet ont approuvé, mercredi 11 novembre, le rachat de la compagnie britannique par le fonds d’investissement américain Apollo pour 5,7 milliards de livres sterling. L’opération, qui pourrait entraîner son retrait de la Bourse de Londres au premier trimestre 2027, doit encore franchir un obstacle majeur : démontrer que les activités aériennes européennes du […]",
-          "published": "2026-11-12T07:00:21Z"
-        },
-        {
-          "id": "b0534f34c59230da",
-          "feed": "AviTrader",
-          "title": "EasyJet shareholders back £5.7bn Apollo takeover",
-          "url": "https://avitrader.com/2026/11/12/easyjet-shareholders-back-5-7bn-apollo-takeover/",
-          "domain": "avitrader.com",
-          "summary": "EasyJet shareholders have approved the airline’s £5.7bn (US$7.61bn) takeover by US private equity group Apollo Global Management, clearing a major hurdle for the deal, according to the BBC. The Luton-based airline said 97.07% of shareholders voted in favour of the acquisition at a meeting on Wednesday, November 11. The transaction is expected to be completed […] The post EasyJet shareholders back £5.7bn Apollo takeover appeared first on AviTrader Aviation News .",
-          "published": "2026-11-12T10:24:08Z"
-        },
-        {
-          "id": "5c0165a3b1dbf223",
-          "feed": "Le Journal de l'Aviation",
-          "title": "Les actionnaires d’easyJet approuvent l’offre de rachat de 5,7 milliards de livres sterling du fonds américain Apollo",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/les-actionnaires-deasyjet-approuvent-loffre-de-rachat-de-57-milliards-de-livres-sterling-du-fonds-americain-apollo-20261112.html",
-          "domain": "journal-aviation.com",
-          "summary": "Les actionnaires d’easyJet ont approuvé l’offre de rachat du fonds américain Apollo, qui valorise compagnie aérienne britannique à bas coûts à 5,7 milliards de livres sterling (environ 6,8 milliards d’euros). […] L’article Les actionnaires d’easyJet approuvent l’offre de rachat de 5,7 milliards de livres sterling du fonds américain Apollo a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-12T14:35:22Z"
-        }
-      ],
-      "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
-      "written_count": 6
     },
     "cf74760ce9c": {
       "id": "cf74760ce9c",
