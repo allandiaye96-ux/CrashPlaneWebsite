@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T22:10:37Z",
+  "run": "2026-11-19T22:20:39Z",
   "stats": {
     "fetched": 577,
-    "new": 187,
+    "new": 186,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -134,12 +134,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
-    },
-    {
-      "dossier": "Tchéquie L-39 Skyfox pour Ukraine",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9"
     },
     {
       "dossier": "COMAC CE-25A avion électrique premier vol",

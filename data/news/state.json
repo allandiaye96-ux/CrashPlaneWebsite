@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/": "2026-11-09T22:20:35Z",
     "https://simpleflying.com/jetblue-launches-new-6-hour-route-next-week/": "2026-11-09T22:30:50Z",
     "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/": "2026-11-09T22:30:50Z",
     "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets": "2026-11-09T22:30:50Z",
@@ -986,7 +985,8 @@
     "https://www.aerotime.aero/articles/controllers-question-us-atc-outage-explanation": "2026-11-19T20:58:45Z",
     "https://www.flightradar24.com/blog/aviation-news/airline-news/air-astana-adds-first-boeing-787-to-its-fleet/": "2026-11-19T21:01:03Z",
     "https://www.aerotime.aero/articles/aerodata-aeroforce-x-maiden-flight": "2026-11-19T21:20:52Z",
-    "https://www.aerotime.aero/articles/us-lawmakers-aviation-safety-deal-ads-b-in": "2026-11-19T22:10:37Z"
+    "https://www.aerotime.aero/articles/us-lawmakers-aviation-safety-deal-ads-b-in": "2026-11-19T22:10:37Z",
+    "https://www.twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair": "2026-11-19T22:20:39Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1290,45 +1290,6 @@
         }
       ],
       "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
-      "written_count": 3
-    },
-    "cd353bfa8a9": {
-      "id": "cd353bfa8a9",
-      "label": "Tchéquie L-39 Skyfox pour Ukraine",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-12T13:50:50Z",
-      "updated": "2026-11-12T22:10:48Z",
-      "items": [
-        {
-          "id": "f0e756a39f86c5a6",
-          "feed": "AeroTime",
-          "title": "Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets",
-          "url": "https://www.aerotime.aero/articles/czechia-ukraine-16-l39-skyfox-jets",
-          "domain": "aerotime.aero",
-          "summary": "Czechia could supply Ukraine with up to 16 Aero Vodochody L-39 Skyfox jets, First Deputy Prime Minister and… The post Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets appeared first on AeroTime .",
-          "published": "2026-11-12T13:17:39Z"
-        },
-        {
-          "id": "afd428a893f62396",
-          "feed": "The War Zone",
-          "title": "L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone Hunting Capability",
-          "url": "https://www.twz.com/air/l-39ng-skyfox-jets-could-give-ukraine-a-critical-new-russian-drone-hunting-capability",
-          "domain": "twz.com",
-          "summary": "The aircraft would offer a far cheaper alternative to using frontline fighters against Moscow’s expanding arsenal of one-way attack drones. The post L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone Hunting Capability appeared first on TWZ .",
-          "published": "2026-11-12T19:13:31Z"
-        },
-        {
-          "id": "946d728d96012b2a",
-          "feed": "The Aviationist",
-          "title": "Ukraine Eyes Up to 16 L-39NG Skyfox Trainers as First Gripens Near Arrival in 2027",
-          "url": "https://theaviationist.com/2026/11/12/ukraine-eyes-up-to-16-l-39ng-skyfox-trainers/",
-          "domain": "theaviationist.com",
-          "summary": "Ukraine could get up to 16 L-39NG Skyfox aircraft, potentially adapted for counter-drone missions, while the first JAS 39 Gripen C/D fighters are expected to arrive in January or February 2027. Ukraine could acquire up to 16 L-39NG Skyfox jet trainers, as the country also prepares to receive its first JAS 39 C/D Gripen fighters […]",
-          "published": "2026-11-12T22:08:40Z"
-        }
-      ],
-      "story_id": "2026-11-12-la-tchequie-envisage-de-fournir-jusqu-a-16-avions-l-39-skyfo-a8a9",
       "written_count": 3
     },
     "c046061c471": {
