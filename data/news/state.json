@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/tsa-liquids-rule-really-means-us-airports-2026/": "2026-11-09T22:10:37Z",
-    "https://www.aerotime.aero/articles/california-startup-cow-manure-jet-fuel": "2026-11-09T22:10:37Z",
     "https://simpleflying.com/airbus-a350-1000ulr-test-flight-guinness-world-record/": "2026-11-09T22:20:35Z",
     "https://simpleflying.com/jetblue-launches-new-6-hour-route-next-week/": "2026-11-09T22:30:50Z",
     "https://leehamnews.com/2026/11/09/boeing-plans-to-cut-5-of-commercial-workforce/": "2026-11-09T22:30:50Z",
@@ -987,7 +985,8 @@
     "https://theaviationist.com/2026/11/17/b-1b-new-external-pylons-critical-design-review/": "2026-11-19T20:40:35Z",
     "https://www.aerotime.aero/articles/controllers-question-us-atc-outage-explanation": "2026-11-19T20:58:45Z",
     "https://www.flightradar24.com/blog/aviation-news/airline-news/air-astana-adds-first-boeing-787-to-its-fleet/": "2026-11-19T21:01:03Z",
-    "https://www.aerotime.aero/articles/aerodata-aeroforce-x-maiden-flight": "2026-11-19T21:20:52Z"
+    "https://www.aerotime.aero/articles/aerodata-aeroforce-x-maiden-flight": "2026-11-19T21:20:52Z",
+    "https://www.aerotime.aero/articles/us-lawmakers-aviation-safety-deal-ads-b-in": "2026-11-19T22:10:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1360,36 +1359,6 @@
         }
       ],
       "story_id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
-      "written_count": 2
-    },
-    "c8b79e9cf9e": {
-      "id": "c8b79e9cf9e",
-      "label": "Crash hélicoptère Malatya Turquie",
-      "categorie": "Accident",
-      "importance": 3,
-      "created": "2026-11-12T17:50:48Z",
-      "updated": "2026-11-12T22:01:07Z",
-      "items": [
-        {
-          "id": "62c3be4bd130cb6b",
-          "feed": "aero.de",
-          "title": "Tote bei Hubschrauber-Absturz in der Türkei",
-          "url": "https://www.aero.de/news-54162/Tote-bei-Hubschrauber-Absturz-in-der-Tuerkei.html",
-          "domain": "aero.de",
-          "summary": "MALATYA - Am Abend meldete das türkische Verteidigungsministerium einen Helikopterabsturz mit vier Toten. Die Ursache ist unklar, die Bergungsarbeiten dauern an.",
-          "published": "2026-11-12T17:44:19Z"
-        },
-        {
-          "id": "a0da5a558631db60",
-          "feed": "AeroTime",
-          "title": "Four killed in Turkish military S-70 helicopter crash",
-          "url": "https://www.aerotime.aero/articles/turkish-military-s70-helicopter-crash-malatya",
-          "domain": "aerotime.aero",
-          "summary": "Four Turkish service members died when a military Sikorsky S-70 helicopter crashed on the outskirts of Malatya in… The post Four killed in Turkish military S-70 helicopter crash appeared first on AeroTime .",
-          "published": "2026-11-12T20:56:53Z"
-        }
-      ],
-      "story_id": "2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e",
       "written_count": 2
     },
     "c47435fb1e0": {

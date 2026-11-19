@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-19T22:01:00Z",
+  "run": "2026-11-19T22:10:37Z",
   "stats": {
-    "fetched": 576,
+    "fetched": 577,
     "new": 187,
     "written": 0,
     "held": 0,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 41
+      "items": 42
     },
     "Airbus – Communiqués": {
       "ok": false,
@@ -158,12 +158,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471"
-    },
-    {
-      "dossier": "Crash hélicoptère Malatya Turquie",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-12-turquie-quatre-morts-dans-la-chute-d-un-helicoptere-militair-cf9e"
     },
     {
       "dossier": "Global Airlines dissolution (A380)",
