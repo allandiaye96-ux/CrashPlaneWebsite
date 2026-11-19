@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T14:01:03Z",
+  "run": "2026-11-19T14:10:48Z",
   "stats": {
-    "fetched": 677,
-    "new": 274,
+    "fetched": 567,
+    "new": 175,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 42
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -236,18 +236,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Air India annule 8 routes internationales",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-air-india-annule-huit-lignes-internationales-trois-vers-l-eu-5735"
-    },
-    {
-      "dossier": "ACI Europe appel sursaut menaces aéroports",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-europeens-aci-europe-appelle-a-mieux-coordonner-aeroports-co-a3d8"
     },
     {
       "dossier": "Virgin Australia grève PNC vote",
