@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T05:30:51Z",
+  "run": "2026-11-19T05:40:36Z",
   "stats": {
-    "fetched": 677,
-    "new": 280,
+    "fetched": 577,
+    "new": 192,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 42
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -266,12 +266,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Fraport Lufthansa négociations bodenabfertigung",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac"
     },
     {
       "dossier": "Etihad réduit son offre vers l'Allemagne 2027",

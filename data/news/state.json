@@ -1549,27 +1549,6 @@
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
       "written_count": 6
     },
-    "c765c1154ac": {
-      "id": "c765c1154ac",
-      "label": "Fraport Lufthansa négociations bodenabfertigung",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-12T05:31:03Z",
-      "updated": "2026-11-12T05:31:03Z",
-      "items": [
-        {
-          "id": "26685695342d82ee",
-          "feed": "aero.de",
-          "title": "Harte Verhandlungen zwischen Fraport und Lufthansa",
-          "url": "https://www.aero.de/news-54120/Harte-Verhandlungen-zwischen-Fraport-und-Lufthansa.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Die Bodenabfertigung von Lufthansa-Flügen in Frankfurt ist für Fraport ein herbes Verlustgeschäft. Flughafenbetreiber und Hauptkunde verhandeln seit Monaten intensiv über neue Konditionen ab 2027. Laut Fraport-Chef Stefan Schulte gehen die Gespräche \"in die richtige Richtung\".",
-          "published": "2026-11-12T05:22:49Z"
-        }
-      ],
-      "story_id": "2026-11-12-fraport-et-lufthansa-negocient-les-conditions-de-l-assistanc-54ac",
-      "written_count": 1
-    },
     "c655319e764": {
       "id": "c655319e764",
       "label": "Fly4 Airlines dissolution High Court Dublin",
