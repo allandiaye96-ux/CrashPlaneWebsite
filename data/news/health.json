@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T15:10:37Z",
+  "run": "2026-11-19T15:20:37Z",
   "stats": {
     "fetched": 577,
-    "new": 187,
+    "new": 188,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -122,12 +122,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
-    },
-    {
-      "dossier": "Lesha Bank vend six A380 à Emirates",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37"
     },
     {
       "dossier": "Air Explore arrêt AOC Avia Solutions",

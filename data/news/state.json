@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors": "2026-11-09T15:20:34Z",
-    "https://www.aero.de/news-54126/Gericht-stellt-Verfahren-gegen-Klimaaktivisten-ein.html": "2026-11-09T15:20:34Z",
-    "https://www.airliners.de/qantas-fliegt-oktober-2027-zwischenstopp-sydney-london/91392": "2026-11-09T15:20:34Z",
-    "https://www.airliners.de/dat-stellt-saarbruecken-hamburg-ein-stockt-berlin-auf/91416": "2026-11-09T15:20:34Z",
-    "https://www.airliners.de/ryanair-schliesst-gepaeckaufgabe-ab-dienstag-eine-stunde-vor-abflug/91397": "2026-11-09T15:20:34Z",
-    "https://www.airliners.de/wizz-air-plant-maerz-2027-strecke-bosnien-deutschland/91414": "2026-11-09T15:20:34Z",
-    "https://www.airliners.de/hainan-airlines-streicht-shenzhen-wien-jahresende/91413": "2026-11-09T15:20:34Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/avions-commerciaux/philippine-airlines-a-finalise-sa-commande-dairbus-a350-1000-supplementaires-20261109.html": "2026-11-09T15:20:34Z",
     "https://www.easa.europa.eu/newsroom-and-events/news/easa-and-eurocontrol-joint-air-traffic-controller-competency-based-training-and-assessment-cbta": "2026-11-09T15:31:01Z",
     "https://www.aerotime.aero/articles/airbaltic-lufthansa-wet-lease-airbus-a220-fleet": "2026-11-09T15:31:01Z",
     "https://simpleflying.com/captain-first-officer-difference/": "2026-11-09T15:40:36Z",
@@ -1007,7 +999,9 @@
     "https://www.journal-aviation.com/actualites-transport-aerien/operateurs-daffaires/le-salon-ebace-ne-reviendra-pas-en-2027-20261117.html": "2026-11-19T14:40:36Z",
     "https://airlinegeeks.com/2026/11/17/starlux-adds-first-route-to-australia-new-zealand/": "2026-11-19T15:01:16Z",
     "https://www.air-journal.fr/2026-11-17-middle-east-airlines-accueille-un-premier-a321xlr-de-160-places-dont-22-sieges-lits-en-affaires-5278920.html": "2026-11-19T15:01:16Z",
-    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/mtu-aero-engines-inaugure-un-nouveau-centre-dingenierie-a-munich-20261117.html": "2026-11-19T15:01:16Z"
+    "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/mtu-aero-engines-inaugure-un-nouveau-centre-dingenierie-a-munich-20261117.html": "2026-11-19T15:01:16Z",
+    "https://www.aerotime.aero/articles/ghana-air-force-takes-delivery-of-dassault-falcon-6x-executive-jet": "2026-11-19T15:20:37Z",
+    "https://www.aerotime.aero/articles/aapa-urges-governments-to-rethink-airline-taxes-fees-amid-soaring-fuel-costs": "2026-11-19T15:20:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1234,45 +1228,6 @@
       ],
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
       "written_count": 6
-    },
-    "cd49071bd37": {
-      "id": "cd49071bd37",
-      "label": "Lesha Bank vend six A380 à Emirates",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-11T12:10:52Z",
-      "updated": "2026-11-12T15:10:49Z",
-      "items": [
-        {
-          "id": "cccf7e78953bcc91",
-          "feed": "AviTrader",
-          "title": "Lesha Bank sells six A380s to Emirates",
-          "url": "https://avitrader.com/2026/11/11/lesha-bank-sells-six-a380s-to-emirates/",
-          "domain": "avitrader.com",
-          "summary": "Lesha Bank, acting on behalf of the Lesha Aviation Fund, has agreed to sell six Airbus A380 aircraft to Emirates, the world’s largest operator of the type. Two aircraft have already been delivered, with the remaining four scheduled for transfer in stages through April 2028 as their existing leases expire. The transaction will secure Emirates’ […] The post Lesha Bank sells six A380s to Emirates appeared first on AviTrader Aviation News .",
-          "published": "2026-11-11T12:06:19Z"
-        },
-        {
-          "id": "cc99afae640f5570",
-          "feed": "AeroTime",
-          "title": "Emirates strikes deal to take ownership of six Airbus A380 aircraft",
-          "url": "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank",
-          "domain": "aerotime.aero",
-          "summary": "Emirates will take ownership of six Airbus A380-800 aircraft currently operated as part of its fleet under a… The post Emirates strikes deal to take ownership of six Airbus A380 aircraft appeared first on AeroTime .",
-          "published": "2026-11-12T09:42:37Z"
-        },
-        {
-          "id": "6cd28b1c79a7304f",
-          "feed": "Air Journal",
-          "title": "Emirates mise sur la durée et rachète six Airbus A380",
-          "url": "https://www.air-journal.fr/2026-11-12-emirates-mise-sur-la-duree-et-rachete-six-airbus-a380-5278817.html",
-          "domain": "air-journal.fr",
-          "summary": "Emirates a conclu un accord pour devenir propriétaire de six Airbus A380 qu’elle exploite déjà en location. Annoncée le 10 novembre 2026 par la banque qatarienne Lesha Bank, l’opération est déjà réalisée pour deux appareils ; les quatre autres changeront de propriétaire progressivement, jusqu’en avril 2028. Six Airbus A380 rachetés à l’échéance de leurs contrats […]",
-          "published": "2026-11-12T15:00:53Z"
-        }
-      ],
-      "story_id": "2026-11-11-lesha-bank-cede-six-airbus-a380-a-emirates-dont-deux-deja-li-bd37",
-      "written_count": 3
     },
     "cf74760ce9c": {
       "id": "cf74760ce9c",
