@@ -1037,7 +1037,8 @@
     "https://www.aero.de/news-54193/Flughafen-Muenchen-verliert-Geschaeftsfuehrer.html": "2026-11-19T09:10:39Z",
     "https://www.air-journal.fr/2026-11-17-givrage-leasa-resserre-la-surveillance-des-atr-42-et-atr-72-5278902.html": "2026-11-19T10:01:02Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/philippine-airlines-confirme-sa-commande-de-boeing-787-10-20261117.html": "2026-11-19T10:01:02Z",
-    "https://www.aerotime.aero/articles/iceye-takeover-bid-vega-c-rocket-maker-avio": "2026-11-19T10:10:39Z"
+    "https://www.aerotime.aero/articles/iceye-takeover-bid-vega-c-rocket-maker-avio": "2026-11-19T10:10:39Z",
+    "https://www.aerotime.aero/articles/elroy-air-signs-dea-uae-firm-hybrid-electric-cargo-drones": "2026-11-19T10:30:52Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1534,45 +1535,6 @@
       ],
       "story_id": "2026-11-11-easyjet-les-actionnaires-approuvent-a-une-large-majorite-le-44f7",
       "written_count": 6
-    },
-    "ca8a95cf5dc": {
-      "id": "ca8a95cf5dc",
-      "label": "United interdit les agents IA pour réservations",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-12T07:01:09Z",
-      "updated": "2026-11-12T10:20:45Z",
-      "items": [
-        {
-          "id": "5f2229d7844537a5",
-          "feed": "Simple Flying",
-          "title": "United Airlines Officially Bans AI Agents From Booking Your Flights And Checking You In",
-          "url": "https://simpleflying.com/united-airlines-bans-ai-agents-booking-flights-check-in/",
-          "domain": "simpleflying.com",
-          "summary": "United’s new contract of carriage lets it cancel any reservation made or changed by an AI agent",
-          "published": "2026-11-12T07:00:12Z"
-        },
-        {
-          "id": "d1ee96141d1652a1",
-          "feed": "AeroTime",
-          "title": "United Airlines to block third-party AI agents from accessing digital platforms",
-          "url": "https://www.aerotime.aero/articles/united-airlines-to-block-third-party-ai-agents-from-accessing-digital-platforms",
-          "domain": "aerotime.aero",
-          "summary": "In an industry first, United Airlines announced on November 11, 2026, that it is restricting unauthorized third-party artificial… The post United Airlines to block third-party AI agents from accessing digital platforms appeared first on AeroTime .",
-          "published": "2026-11-12T09:32:51Z"
-        },
-        {
-          "id": "4260e8bd80bc0eb5",
-          "feed": "airliners.de",
-          "title": "United schränkt Zugang für KI-Agenten ein, Jetblue fürchtet Kosten durch Vermittler",
-          "url": "https://www.airliners.de/united-schraenkt-zugang-ki-agenten-ein-jetblue-fuerchtet-kosten-vermittler/91481",
-          "domain": "airliners.de",
-          "summary": "Die United Airlines will den Zugang von KI-Agenten zu ihren digitalen Plattformen beschränken und verweist auf Datensicherheit. Jetblue-President Marty St. George kann die Skepsis nachvollziehen und nennt die Kosten, die er auf die Branche zukommen sieht.",
-          "published": "2026-11-12T09:26:47Z"
-        }
-      ],
-      "story_id": "2026-11-12-united-airlines-interdit-aux-agents-ia-de-reserver-des-vols-f5dc",
-      "written_count": 3
     },
     "cf74760ce9c": {
       "id": "cf74760ce9c",
