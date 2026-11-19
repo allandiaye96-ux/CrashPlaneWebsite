@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/german-union-demands-disclosure-emirates-berlin-traffic-rights/": "2026-11-09T13:01:01Z",
     "https://www.air-journal.fr/2026-11-09-avec-mimizan-air-france-passe-le-cap-des-60-airbus-a220-5278753.html": "2026-11-09T13:10:32Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/equipements/eaton-fournira-les-systemes-hydrauliques-et-des-equipements-carburant-du-falcon-10x-de-dassault-aviation-20261109.html": "2026-11-09T13:10:32Z",
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/moteurs-propulsion/china-eastern-choisit-le-leap-1a-pour-101-nouveaux-monocouloirs-airbus-dont-des-a321xlr-20261109.html": "2026-11-09T13:10:32Z",
@@ -1024,7 +1023,8 @@
     "https://www.aerotime.aero/articles/serbia-mig-29-crash-belgrade-pilot-killed": "2026-11-19T11:40:38Z",
     "https://www.aero.de/news-54194/Lufthansa-will-zurueck-in-die-Schlichtung-Cockpit-nicht.html": "2026-11-19T11:40:38Z",
     "https://www.aerotime.aero/articles/australian-army-receives-seventh-and-eighth-ah-64e-apaches-as-tiger-replacement": "2026-11-19T12:01:05Z",
-    "https://www.air-journal.fr/2026-11-17-avec-son-futur-atelier-de-moteurs-ryanair-change-de-dimension-industrielle-a-seville-5278916.html": "2026-11-19T12:01:05Z"
+    "https://www.air-journal.fr/2026-11-17-avec-son-futur-atelier-de-moteurs-ryanair-change-de-dimension-industrielle-a-seville-5278916.html": "2026-11-19T12:01:05Z",
+    "https://www.air-journal.fr/2026-11-17-lufthansa-et-ses-pilotes-le-bras-de-fer-se-durcit-echeance-au-23-novembre-5278915.html": "2026-11-19T13:01:07Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1251,45 +1251,6 @@
       ],
       "story_id": "2026-11-10-qantas-s-associe-a-accenture-pour-moderniser-ses-systemes-in-11b9",
       "written_count": 6
-    },
-    "c15de394738": {
-      "id": "c15de394738",
-      "label": "Boeing livraisons et commandes octobre",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-10T17:20:53Z",
-      "updated": "2026-11-12T12:50:51Z",
-      "items": [
-        {
-          "id": "c720d0bb96e885cc",
-          "feed": "airliners.de",
-          "title": "Boeing liefert im Oktober weniger Flugzeuge aus",
-          "url": "https://www.airliners.de/boeing-liefert-oktober-weniger-flugzeuge-aus/91453",
-          "domain": "airliners.de",
-          "summary": "Boeing hat im Oktober weniger Flugzeuge ausgeliefert als im Vormonat und im Vorjahresmonat. Bei den Bestellungen verbuchte der US-Hersteller dagegen seinen stärksten Oktober seit 1997. Den Großteil der Aufträge steuerte ein einzelner Kunde bei.",
-          "published": "2026-11-10T16:49:58Z"
-        },
-        {
-          "id": "79d4cc22bf5b49df",
-          "feed": "Air Journal",
-          "title": "Boeing : 49 avions livrés et 165 commandes enregistrées en octobre 2026",
-          "url": "https://www.air-journal.fr/2026-11-11-boeing-49-avions-livres-et-165-commandes-enregistrees-en-octobre-2026-5278778.html",
-          "domain": "air-journal.fr",
-          "summary": "Boeing a livré 49 avions en octobre 2026, contre 57 en septembre, mais enregistré 165 commandes sans aucune annulation. Un bilan contrasté, dominé par l’achat de 140 Boeing 737 MAX par le loueur irlandais Avolon. Sur les dix premiers mois de l’année, l’avionneur américain affiche une progression d’environ 6% de ses livraisons, tout en restant […]",
-          "published": "2026-11-11T06:00:39Z"
-        },
-        {
-          "id": "30e40c8d044ff159",
-          "feed": "AeroTime",
-          "title": "Boeing slide in 737 MAX deliveries hampers recent progress",
-          "url": "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026",
-          "domain": "aerotime.aero",
-          "summary": "Boeing saw a slide in its 737 MAX deliveries in October 2026, hampering recent progress made by the… The post Boeing slide in 737 MAX deliveries hampers recent progress appeared first on AeroTime .",
-          "published": "2026-11-12T11:48:00Z"
-        }
-      ],
-      "story_id": "2026-11-10-boeing-moins-de-livraisons-en-octobre-mais-des-commandes-au-4738",
-      "written_count": 3
     },
     "c75c493664f": {
       "id": "c75c493664f",
