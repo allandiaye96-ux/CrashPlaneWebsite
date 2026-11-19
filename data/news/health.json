@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T07:40:35Z",
+  "run": "2026-11-19T07:50:48Z",
   "stats": {
     "fetched": 577,
-    "new": 253,
+    "new": 191,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -26,8 +26,8 @@
       "items": 10
     },
     "AeroTime": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     "Leeham News": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 42
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
