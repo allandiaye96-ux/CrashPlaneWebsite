@@ -1693,27 +1693,6 @@
       "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
       "written_count": 3
     },
-    "cc027c9fe65": {
-      "id": "cc027c9fe65",
-      "label": "Etihad réduit son offre vers l'Allemagne 2027",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-12T08:20:47Z",
-      "updated": "2026-11-12T08:20:47Z",
-      "items": [
-        {
-          "id": "5dace2a4b961f2e0",
-          "feed": "airliners.de",
-          "title": "Etihad reduziert ab Januar 2027 Angebot nach Deutschland",
-          "url": "https://www.airliners.de/etihad-reduziert-januar-2027-angebot-deutschland/91476",
-          "domain": "airliners.de",
-          "summary": "Etihad Airways reduziert ab Januar 2027 ihr Angebot auf zahlreichen Strecken ab Abu Dhabi, darunter nach Frankfurt und Düsseldorf. Damit geht die Airline einen anderen Weg als ihre Konkurrentin aus Dubai, die in Deutschland eigentlich zulegen will.",
-          "published": "2026-11-12T07:47:00Z"
-        }
-      ],
-      "story_id": "2026-11-12-etihad-reduit-son-offre-vers-l-allemagne-a-partir-de-janvier-fe65",
-      "written_count": 1
-    },
     "ca389b14f33": {
       "id": "ca389b14f33",
       "label": "AAIB Leonardo AW169 G-HHEM Southend downwash",
