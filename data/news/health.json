@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T07:10:35Z",
+  "run": "2026-11-19T07:20:37Z",
   "stats": {
-    "fetched": 567,
-    "new": 180,
+    "fetched": 562,
+    "new": 239,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -22,20 +22,20 @@
       "items": 50
     },
     "Simple Flying": {
-      "ok": false,
-      "error": "RemoteDisconnected: Remote end closed connection without response"
+      "ok": true,
+      "items": 10
     },
     "AeroTime": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Leeham News": {
       "ok": true,
       "items": 10
     },
     "Aero-News Network": {
-      "ok": true,
-      "items": 15
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "Australian Aviation": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 42
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
