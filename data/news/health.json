@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T20:01:11Z",
+  "run": "2026-11-19T20:10:36Z",
   "stats": {
-    "fetched": 676,
-    "new": 279,
+    "fetched": 576,
+    "new": 188,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -218,12 +218,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Virgin Australia grève PNC vote",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-virgin-australia-le-personnel-de-cabine-vote-massivement-en-c044"
     },
     {
       "dossier": "JetBlue accord créanciers coopération",
