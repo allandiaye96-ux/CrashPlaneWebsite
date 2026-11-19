@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-19T12:20:37Z",
+  "run": "2026-11-19T12:30:54Z",
   "stats": {
-    "fetched": 577,
-    "new": 182,
+    "fetched": 677,
+    "new": 271,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 42
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -248,12 +248,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Charlotte CLT accord de bail et investissement 2 Md$",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-12-charlotte-un-accord-de-2-milliards-de-dollars-pour-modernise-bfb9"
     },
     {
       "dossier": "Air India annule 8 routes internationales",
