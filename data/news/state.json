@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://theaviationist.com/2026/11/10/raf-mildenhall-security-threat-dispersal/": "2026-11-10T15:40:35Z",
     "https://simpleflying.com/why-qantas-taking-airbus-a321xlr-international-brisbane/": "2026-11-10T16:01:09Z",
     "https://airlinegeeks.com/2026/11/10/jsx-adds-two-nonstop-routes-from-new-city/": "2026-11-10T16:01:09Z",
     "https://www.aerotime.aero/articles/spanish-nh90-helicopters-first-nato-scramble-romania": "2026-11-10T16:20:35Z",
@@ -928,7 +927,8 @@
     "https://www.aerotime.aero/articles/russian-drone-antonov-an124-hostomel": "2026-11-20T15:01:06Z",
     "https://www.air-journal.fr/2026-11-18-voyages-daffaires-air-india-et-airbus-veulent-faire-decoller-le-saf-en-inde-5278976.html": "2026-11-20T15:01:06Z",
     "https://www.aero.de/news-54208/Lufthansa-bleibt-DFB-Partner.html": "2026-11-20T15:10:37Z",
-    "https://www.airliners.de/vc-sicherheitskultur-gelockerten-kuendigungsschutz-gefaehrdet/91616": "2026-11-20T15:30:57Z"
+    "https://www.airliners.de/vc-sicherheitskultur-gelockerten-kuendigungsschutz-gefaehrdet/91616": "2026-11-20T15:30:57Z",
+    "https://www.journal-aviation.com/actualites-mro-support/collins-aerospace-se-dote-dun-centre-de-maintenance-dhelices-en-inde-20261118.html": "2026-11-20T15:40:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1124,36 +1124,6 @@
         }
       ],
       "story_id": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429",
-      "written_count": 2
-    },
-    "ce92eeeffb2": {
-      "id": "ce92eeeffb2",
-      "label": "THC commande 12 Bombardier business jets",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-13T14:01:13Z",
-      "updated": "2026-11-13T15:31:03Z",
-      "items": [
-        {
-          "id": "7d7be558d61ab1cd",
-          "feed": "AeroTime",
-          "title": "Saudi THC firms up 12-jet Bombardier order, with options for 48 more",
-          "url": "https://www.aerotime.aero/articles/saudi-thc-firms-up-12-jet-bombardier-order-with-options-for-48-more",
-          "domain": "aerotime.aero",
-          "summary": "Saudi Arabia’s The Helicopter Company (THC) has signed firm purchase agreements for 12 Bombardier business jets, turning a… The post Saudi THC firms up 12-jet Bombardier order, with options for 48 more appeared first on AeroTime .",
-          "published": "2026-11-13T13:36:42Z"
-        },
-        {
-          "id": "ea60cd9481483410",
-          "feed": "Le Journal de l'Aviation",
-          "title": "THC confirme sa commande pour 12 avions d’affaires de Bombardier",
-          "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/thc-confirme-sa-commande-pour-12-avions-daffaires-de-bombardier-20261113.html",
-          "domain": "journal-aviation.com",
-          "summary": "The Helicopter Company (THC) confirme son intention de lancer des opérations en avions d’affaires. La société saoudienne a finalisé son accord avec Bombardier et signé une commande ferme pour douze […] L’article THC confirme sa commande pour 12 avions d’affaires de Bombardier a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-13T15:28:29Z"
-        }
-      ],
-      "story_id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
       "written_count": 2
     },
     "ced930dadb1": {
