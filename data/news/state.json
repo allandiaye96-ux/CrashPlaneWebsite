@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aero.de/news-54132/Boeing-737-pustet-Cessna-C172-um.html": "2026-11-10T08:30:54Z",
     "https://simpleflying.com/7-airlines-flying-airbus-a321xlr-both-short-long-haul/": "2026-11-10T09:01:04Z",
     "https://www.aero.de/news-54133/NTSB-stellt-Flugschreiber-sicher.html": "2026-11-10T09:01:04Z",
     "https://simpleflying.com/united-pilots-squawk-hijack-code-passenger-storm-cockpit-bomb/": "2026-11-10T09:10:34Z",
@@ -1015,117 +1014,6 @@
       ],
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
       "written_count": 4
-    },
-    "c73fa996211": {
-      "id": "c73fa996211",
-      "label": "Menaces à la bombe vols Europe 5 novembre 2026",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-05T12:40:48Z",
-      "updated": "2026-11-13T08:20:48Z",
-      "items": [
-        {
-          "id": "f912a39ee0e16091",
-          "feed": "AeroTime",
-          "title": "Bomb threats hit at least 16 flights across Europe, trigger fighter escorts",
-          "url": "https://www.aerotime.aero/articles/bomb-threats-europe-flights-fighter-escorts-diversions",
-          "domain": "aerotime.aero",
-          "summary": "At least 16 passenger flights were targeted by bomb threats across Europe on November 5, 2026, prompting fighter… The post Bomb threats hit at least 16 flights across Europe, trigger fighter escorts appeared first on AeroTime .",
-          "published": "2026-11-05T12:02:11Z"
-        },
-        {
-          "id": "17f01c0970077792",
-          "feed": "Air Journal",
-          "title": "Un A320 d’Aer Lingus dérouté sous escorte à Évreux, sur fond d’alertes à la bombe en Europe",
-          "url": "https://www.air-journal.fr/2026-11-05-un-a320-daer-lingus-deroute-sous-escorte-a-evreux-sur-fond-dalertes-a-la-bombe-en-europe-5278689.html",
-          "domain": "air-journal.fr",
-          "summary": "Pour la troisième journée cette semaine, des menaces à la bombe ont perturbé plusieurs liaisons européennes, jeudi 5 novembre. Au moins douze vols étaient concernés à la mi-journée, tous ayant atterri en sécurité. En France, un Airbus A320 d’Aer Lingus reliant Dublin à Rome a été dérouté vers la base aérienne d’Évreux. Ailleurs, plusieurs appareils […]",
-          "published": "2026-11-05T13:00:35Z"
-        },
-        {
-          "id": "5ed23b72e801d363",
-          "feed": "aero.de",
-          "title": "Mysteriöse Bombendrohungen stören Flugverkehr in Europa",
-          "url": "https://www.aero.de/news-54102/Mysterioese-Bombendrohungen-stoeren-Flugverkehr-in-Europa.html",
-          "domain": "aero.de",
-          "summary": "LONDON - Eine rätselhafte Häufung von Bombendrohungen gegen Passagiermaschinen in Europa macht Fluggesellschaften und Airports zu schaffen. Bisher entpuppen sich alle Drohungen als Fehlalarm. Neu ist das Phänomen nicht. Was - und vor allem wer - steckt hinter der Drohserie?",
-          "published": "2026-11-05T14:25:16Z"
-        },
-        {
-          "id": "1380aed1d10f37f4",
-          "feed": "Simple Flying",
-          "title": "Fighter Jets Scrambled As More Bomb Threats Force Multiple Passenger Flights To Divert",
-          "url": "https://simpleflying.com/fighter-jets-scrambled-bomb-threats-passenger-flights-divert/",
-          "domain": "simpleflying.com",
-          "summary": "The French and Italian Air Forces have had to respond to more commercial aviation bomb threats",
-          "published": "2026-11-05T16:26:11Z"
-        },
-        {
-          "id": "6b09dc42f041702e",
-          "feed": "Flightradar24 – Blog",
-          "title": "Second straight day of threats affects nearly two dozen flights across Europe",
-          "url": "https://www.flightradar24.com/blog/aviation-news/second-straight-day-of-threats-affects-nearly-two-dozen-flights-across-europe/",
-          "domain": "flightradar24.com",
-          "summary": "For the second straight day, flights across Europe have been subject to bomb threats, leading to diversions, delays, and security responses at nearly a dozen airports. Authorities thus far have found no actual threat aboard any of the aircraft. On Wednesday, 4 November, at least seven flights were subject to threats as well. Nearly two […] The post Second straight day of threats affects nearly two dozen flights across Europe appeared first on Flightradar24 Blog .",
-          "published": "2026-11-05T16:14:43Z"
-        },
-        {
-          "id": "5e8ba3854d627913",
-          "feed": "airliners.de",
-          "title": "Bombendrohungen gegen Flüge in Europa reißen nicht ab",
-          "url": "https://www.airliners.de/bombendrohungen-fluege-europa-reissen-nicht-ab/91378",
-          "domain": "airliners.de",
-          "summary": "Zum dritten Mal in dieser Woche haben Bombendrohungen den Luftverkehr in Europa behindert. Betroffen waren am Freitag unter anderem Flüge in Prag, Kopenhagen und Frankreich. Sprengsätze wurden nicht gefunden.",
-          "published": "2026-11-06T12:46:45Z"
-        },
-        {
-          "id": "9b52eaca53e10d67",
-          "feed": "Simple Flying",
-          "title": "Disruption Continues As Bomb Threats Hit European Aviation For The Third Day This Week",
-          "url": "https://simpleflying.com/bomb-threats-hit-european-aviation-third-time-this-week/",
-          "domain": "simpleflying.com",
-          "summary": "European flights have been disrupted by the hoaxes for the second day in a row",
-          "published": "2026-11-06T15:45:45Z"
-        },
-        {
-          "id": "500565a619dcd4e2",
-          "feed": "airliners.de",
-          "title": "Bombendrohungen gegen Flüge: Bekennerschreiben und Drohungen erreichen Fernsehsender",
-          "url": "https://www.airliners.de/bombendrohungen-fluege-weiten-sich-fernsehsender-aus/91378",
-          "domain": "airliners.de",
-          "summary": "Zum dritten Mal in dieser Woche haben Bombendrohungen den Luftverkehr in Europa beschäftigt. Nun erhielten auch mehrere Fernsehsender Drohungen, samt Bekenntnis zu den Flugdrohungen und der Ankündigung weiterer Angriffe auf Verkehrsmittel. Das Auswärtige Amt sieht Hinweise auf ein koordiniertes Vorgehen.",
-          "published": "2026-11-06T12:46:45Z"
-        },
-        {
-          "id": "07d00a8085fd7f2f",
-          "feed": "airliners.de",
-          "title": "Behörden ermitteln nach Serie von Bombendrohungen gegen Flüge in Europa",
-          "url": "https://www.airliners.de/behoerden-ermitteln-serie-bombendrohungen-fluege-europa/91389",
-          "domain": "airliners.de",
-          "summary": "Eine Serie von Bombendrohungen erschüttert den europäischen Luftverkehr. Mehr als 30 Fälle verunsichern die Passagiere, Sprengkörper wurden zunächst nicht gefunden. Ein Sicherheitsexperte hat einen Verdacht, mahnt aber zur Vorsicht.",
-          "published": "2026-11-09T09:31:44Z"
-        },
-        {
-          "id": "a112dc84116d1eb2",
-          "feed": "airliners.de",
-          "title": "Macron hält Urheber der Bombendrohungen in Europa noch nicht für benennbar",
-          "url": "https://www.airliners.de/macron-haelt-urheber-bombendrohungen-europa-benennbar/91498",
-          "domain": "airliners.de",
-          "summary": "Bei den jüngsten Bombendrohungen in Europa ist es nach den Worten des französischen Präsidenten Emmanuel Macron noch zu früh, um einen bestimmten Urheber zu benennen. Das sagte er bei einem Gipfel der Europäischen Politischen Gemeinschaft in Dublin.",
-          "published": "2026-11-12T14:07:54Z"
-        },
-        {
-          "id": "37a8304a92118093",
-          "feed": "airliners.de",
-          "title": "Wizz Air fordert nach Bombendrohungen europaweit einheitliches Vorgehen",
-          "url": "https://www.airliners.de/wizz-air-bombendrohungen-europaweit-einheitliches-vorgehen/91496",
-          "domain": "airliners.de",
-          "summary": "Wizz-Air-Vorstandsvorsitzender Jozsef Varadi fordert nach einer Serie von Bombendrohungen ein einheitliches Vorgehen in Europa. Er habe die EU-Kommission zum gemeinsamen Handeln gedrängt, sagte er, doch kein Land wolle in der Frage nachgeben.",
-          "published": "2026-11-13T07:47:00Z"
-        }
-      ],
-      "story_id": "2026-11-05-alertes-a-la-bombe-en-europe-au-moins-16-vols-vises-le-5-nov-6211",
-      "written_count": 11
     },
     "c6c40cb11b9": {
       "id": "c6c40cb11b9",
