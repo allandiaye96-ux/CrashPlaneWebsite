@@ -998,45 +998,6 @@
       "story_id": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d",
       "written_count": 4
     },
-    "cf74760ce9c": {
-      "id": "cf74760ce9c",
-      "label": "Air Explore arrêt AOC Avia Solutions",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-12T07:31:02Z",
-      "updated": "2026-11-13T12:01:22Z",
-      "items": [
-        {
-          "id": "0e3f7974009890e7",
-          "feed": "aero.de",
-          "title": "Air Explore gibt ihre Betriebslizenz zurück",
-          "url": "https://www.aero.de/news-54153/Air-Explore-gibt-ihre-Betriebslizenz-zurueck.html",
-          "domain": "aero.de",
-          "summary": "BRATISLAVA - Air Explore meldet ihr AOC ab - die slowakische ACMI-Airline aus der Avia Solutions Group hat den Flugbetrieb eingestellt. Eine geplante Fusion mit der Schwesterairline Klasjet ist damit hinfällig.",
-          "published": "2026-11-12T07:22:30Z"
-        },
-        {
-          "id": "fdac0756488e10a0",
-          "feed": "Le Journal de l'Aviation",
-          "title": "AirExplore cesse ses opérations",
-          "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airexplore-cesse-ses-operations-20261113.html",
-          "domain": "journal-aviation.com",
-          "summary": "AirExplore a définitivement suspendu ses opérations. La compagnie charter et ACMI a annoncé le 10 novembre qu’elle arrêtait ses activités et qu’elle avait déposé une demande de renonciation à son […] L’article AirExplore cesse ses opérations a été publié sur Le Journal de l’Aviation .",
-          "published": "2026-11-13T09:12:28Z"
-        },
-        {
-          "id": "87366dc551209bf6",
-          "feed": "Air Journal",
-          "title": "Dette, kérosène, contrats en berne : AirExplore et AlbaStar interrompent leurs opérations",
-          "url": "https://www.air-journal.fr/2026-11-13-dette-kerosene-contrats-en-berne-airexplore-et-albastar-interrompent-leurs-operations-5278835.html",
-          "domain": "air-journal.fr",
-          "summary": "La compagnie slovaque AirExplore a cessé ses opérations le 10 novembre, tandis que l’espagnole AlbaStar suspendait ses vols dans l’espoir de trouver un investisseur. Derrière ce calendrier commun, deux situations distinctes : un arrêt définitif pour la filiale d’Avia Solutions Group, une tentative de sauvetage pour le transporteur de Palma de Majorque. Toutes deux invoquent […]",
-          "published": "2026-11-13T12:00:40Z"
-        }
-      ],
-      "story_id": "2026-11-12-air-explore-renonce-a-son-certificat-de-transporteur-aerien-ce9c",
-      "written_count": 3
-    },
     "ca88e675dbf": {
       "id": "ca88e675dbf",
       "label": "Air Baltic retour A220 et sanierung insolvence",
