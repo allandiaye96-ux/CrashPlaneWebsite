@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-20T17:20:39Z",
+  "run": "2026-11-20T17:30:54Z",
   "stats": {
-    "fetched": 575,
-    "new": 182,
+    "fetched": 675,
+    "new": 275,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 40
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -130,34 +130,16 @@
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
     },
     {
-      "dossier": "Global Airlines dissolution (A380)",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3"
-    },
-    {
       "dossier": "US demande 30,1 Md$ flugsicherung aéroports",
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429"
     },
     {
-      "dossier": "B-21 Raider démonstration largage d'armement",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1"
-    },
-    {
       "dossier": "Drones suspects au-dessus de RAF Lakenheath",
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb"
-    },
-    {
-      "dossier": "Ryanair suppression 19 routes UK",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
     },
     {
       "dossier": "Virgin Australia grève agents enregistrement 16 novembre",
