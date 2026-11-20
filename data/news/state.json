@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://airlinegeeks.com/2026/11/10/frontier-begins-first-class-ticket-sales/": "2026-11-10T15:01:08Z",
-    "https://www.aero.de/news-54140/Syrian-Airlines-fliegt-vom-BER-nach-Damaskus.html": "2026-11-10T15:10:34Z",
     "https://www.aerotime.aero/articles/lufthansa-receives-first-a350-1000-its-700th-airbus-aircraft": "2026-11-10T15:20:35Z",
     "https://www.aerotime.aero/articles/united-airlines-opens-new-concourse-e-at-washington-dulles-airport": "2026-11-10T15:20:35Z",
     "https://www.airliners.de/easa-hebt-hoechstkapazitaet-a330-900-480-plaetze/91440": "2026-11-10T15:20:35Z",
@@ -935,7 +933,8 @@
     "https://www.journal-aviation.com/actualites-industrie-aeronautique/air-india-et-airbus-etudient-la-faisabilite-dune-adoption-plus-large-du-saf-en-inde-20261118.html": "2026-11-20T14:40:39Z",
     "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/deepak-rajawat-devient-ceo-dair-india-express-20261118.html": "2026-11-20T14:50:42Z",
     "https://www.aerotime.aero/articles/russian-drone-antonov-an124-hostomel": "2026-11-20T15:01:06Z",
-    "https://www.air-journal.fr/2026-11-18-voyages-daffaires-air-india-et-airbus-veulent-faire-decoller-le-saf-en-inde-5278976.html": "2026-11-20T15:01:06Z"
+    "https://www.air-journal.fr/2026-11-18-voyages-daffaires-air-india-et-airbus-veulent-faire-decoller-le-saf-en-inde-5278976.html": "2026-11-20T15:01:06Z",
+    "https://www.aero.de/news-54208/Lufthansa-bleibt-DFB-Partner.html": "2026-11-20T15:10:37Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1055,36 +1054,6 @@
       "story_id": "2026-11-13-global-airlines-startup-britannique-exploitant-l-a380-en-voi-e1e3",
       "written_count": 2
     },
-    "c8ac1a0f106": {
-      "id": "c8ac1a0f106",
-      "label": "British Airways A321neo double impact de queue",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-13T09:01:11Z",
-      "updated": "2026-11-13T15:01:18Z",
-      "items": [
-        {
-          "id": "d7bdcce999c436de",
-          "feed": "Simple Flying",
-          "title": "British Airways Grounds Airbus A321neo After Double Tail Strike During Landing In London",
-          "url": "https://simpleflying.com/british-airways-grounds-airbus-a321neo-double-tail-strike-landing-london/",
-          "domain": "simpleflying.com",
-          "summary": "The incident was captured on a live stream.",
-          "published": "2026-11-13T08:51:38Z"
-        },
-        {
-          "id": "82667785ca176252",
-          "feed": "aero.de",
-          "title": "Airbus A321neo von British Airways hat Zweifach-Tailstrike",
-          "url": "https://www.aero.de/news-54171/Airbus-A321neo-von-British-Airways-hat-Zweifach-Tailstrike.html",
-          "domain": "aero.de",
-          "summary": "LONDON - Ein Airbus A321neo von British Airways hat bei einer Landung in London-Heathrow Probleme - gleich zweimal setzt das Heck auf dem Boden auf.",
-          "published": "2026-11-13T15:00:45Z"
-        }
-      ],
-      "story_id": "2026-11-13-british-airways-immobilise-un-a321neo-apres-un-double-talonn-f106",
-      "written_count": 2
-    },
     "c63818ecf90": {
       "id": "c63818ecf90",
       "label": "Global Airlines liquidation obligatoire",
@@ -1191,36 +1160,6 @@
         }
       ],
       "story_id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
-      "written_count": 2
-    },
-    "ca7db7f6a48": {
-      "id": "ca7db7f6a48",
-      "label": "Cyberattaque Quantum Systems drones Bundeswehr",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-13T15:01:18Z",
-      "updated": "2026-11-13T15:01:18Z",
-      "items": [
-        {
-          "id": "680bf9cc0f20f15c",
-          "feed": "AeroTime",
-          "title": "Quantum Systems says Bundeswehr drones flying again after cyberattack",
-          "url": "https://www.aerotime.aero/articles/bundeswehr-quantum-systems-drones-flying-again-cyberattack",
-          "domain": "aerotime.aero",
-          "summary": "On November 13, 2026, Quantum Systems announced that its drones operated by the Bundeswehr are flying again, after… The post Quantum Systems says Bundeswehr drones flying again after cyberattack appeared first on AeroTime .",
-          "published": "2026-11-13T14:37:18Z"
-        },
-        {
-          "id": "7e714e68566e6cd7",
-          "feed": "aero.de",
-          "title": "Ermittlungen nach Cyberangriff auf Quantum Systems",
-          "url": "https://www.aero.de/news-54170/Ermittlungen-nach-Cyberangriff-auf-Quantum-Systems.html",
-          "domain": "aero.de",
-          "summary": "BAMBERG - Der Drohnenhersteller Quantum Systems ist langjähriger Lieferant der ukrainischen Streitkräfte - und wurde Ziel der Cyberattacke eines \"feindseligen Akteurs\". Nun ermittelt eine zivile Stelle.",
-          "published": "2026-11-13T14:53:07Z"
-        }
-      ],
-      "story_id": "2026-11-13-quantum-systems-les-drones-de-la-bundeswehr-de-nouveau-en-vo-6a48",
       "written_count": 2
     },
     "ced930dadb1": {
