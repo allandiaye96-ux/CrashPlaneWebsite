@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-20T15:50:39Z",
+  "run": "2026-11-20T16:01:14Z",
   "stats": {
-    "fetched": 575,
-    "new": 180,
+    "fetched": 565,
+    "new": 168,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -158,12 +158,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "American, Delta et United nouvelles routes transatlantiques",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9"
     },
     {
       "dossier": "United’s Free Starlink WiFi Now On Over 50% Of Daily Flights As Delta Bets On Amazon Leo",

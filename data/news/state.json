@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/why-qantas-taking-airbus-a321xlr-international-brisbane/": "2026-11-10T16:01:09Z",
-    "https://airlinegeeks.com/2026/11/10/jsx-adds-two-nonstop-routes-from-new-city/": "2026-11-10T16:01:09Z",
     "https://www.aerotime.aero/articles/spanish-nh90-helicopters-first-nato-scramble-romania": "2026-11-10T16:20:35Z",
     "https://www.aerotime.aero/articles/pentagon-f35-parts-accountability-gao-report": "2026-11-10T16:20:35Z",
     "https://www.airliners.de/gewinnausschuettung-muenchen-denkt-ueber-ausstieg-fmg/91441": "2026-11-10T16:20:35Z",
@@ -929,7 +927,10 @@
     "https://www.aero.de/news-54208/Lufthansa-bleibt-DFB-Partner.html": "2026-11-20T15:10:37Z",
     "https://www.airliners.de/vc-sicherheitskultur-gelockerten-kuendigungsschutz-gefaehrdet/91616": "2026-11-20T15:30:57Z",
     "https://www.journal-aviation.com/actualites-mro-support/collins-aerospace-se-dote-dun-centre-de-maintenance-dhelices-en-inde-20261118.html": "2026-11-20T15:40:37Z",
-    "https://www.aerotime.aero/articles/textron-sells-industrial-segment-aerospace-defense-core": "2026-11-20T15:50:39Z"
+    "https://www.aerotime.aero/articles/textron-sells-industrial-segment-aerospace-defense-core": "2026-11-20T15:50:39Z",
+    "https://www.airliners.de/egyptair-plant-sommerflugplan-2027-strecke-deutschland/91613": "2026-11-20T16:01:14Z",
+    "https://www.airliners.de/fly-cham-dezember-fluege-syrien-deutschland/91611": "2026-11-20T16:01:14Z",
+    "https://www.airliners.de/eurowings-kuendigt-sommer-2027-strecken/91623": "2026-11-20T16:01:14Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1156,27 +1157,6 @@
       ],
       "story_id": "2026-11-13-le-b-21-raider-realise-sa-premiere-largage-d-armement-lors-d-adb1",
       "written_count": 2
-    },
-    "c42f193ffc9": {
-      "id": "c42f193ffc9",
-      "label": "American, Delta et United nouvelles routes transatlantiques",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-13T16:01:11Z",
-      "updated": "2026-11-13T16:01:11Z",
-      "items": [
-        {
-          "id": "223479e586895dbb",
-          "feed": "Simple Flying",
-          "title": "American, Delta & United Launch 24 Nonstop Transatlantic Routes: See Full List Now",
-          "url": "https://simpleflying.com/american-delta-united-launch-24-transatlantic-routes/",
-          "domain": "simpleflying.com",
-          "summary": "The United States legacy carriers will be flying to a host of new cities in Europe and beyond.",
-          "published": "2026-11-13T16:00:20Z"
-        }
-      ],
-      "story_id": "2026-11-13-american-delta-et-united-annoncent-24-nouvelles-liaisons-tra-ffc9",
-      "written_count": 1
     },
     "ceb92f8d362": {
       "id": "ceb92f8d362",
