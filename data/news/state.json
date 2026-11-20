@@ -1033,27 +1033,6 @@
       "story_id": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429",
       "written_count": 2
     },
-    "c3b49115e46": {
-      "id": "c3b49115e46",
-      "label": "Virgin Australia grève agents enregistrement 16 novembre",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-13T20:01:11Z",
-      "updated": "2026-11-13T20:01:11Z",
-      "items": [
-        {
-          "id": "880832ade15e10c5",
-          "feed": "Australian Aviation",
-          "title": "‘Expect major delays’: Virgin airport staff set to stop work",
-          "url": "https://australianaviation.com.au/2026/11/expect-major-delays-virgin-airport-staff-set-to-stop-work/",
-          "domain": "australianaviation.com.au",
-          "summary": "The Australian Services Union, representing Virgin Australia check-in and gate agents, has said that passengers should “expect cancellations and major delays” on Monday, 16 November, as staff will hold back boarding times and perform one-hour work stoppages.",
-          "published": "2026-11-12T23:40:20Z"
-        }
-      ],
-      "story_id": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46",
-      "written_count": 1
-    },
     "c472cae4cbb": {
       "id": "c472cae4cbb",
       "label": "Drones suspects au-dessus de RAF Lakenheath",

@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-20T20:01:03Z",
+  "run": "2026-11-20T20:10:41Z",
   "stats": {
-    "fetched": 575,
-    "new": 185,
+    "fetched": 675,
+    "new": 278,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 40
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -140,12 +140,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb"
-    },
-    {
-      "dossier": "Virgin Australia grève agents enregistrement 16 novembre",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-13-virgin-australia-des-arrets-de-travail-du-personnel-au-sol-a-5e46"
     },
     {
       "dossier": "Delta critique Heathrow déplacement Terminal 4",
