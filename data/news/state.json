@@ -1028,36 +1028,6 @@
       "story_id": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429",
       "written_count": 2
     },
-    "c472cae4cbb": {
-      "id": "c472cae4cbb",
-      "label": "Drones suspects au-dessus de RAF Lakenheath",
-      "categorie": "Défense",
-      "importance": 2,
-      "created": "2026-11-13T20:50:44Z",
-      "updated": "2026-11-13T22:30:59Z",
-      "items": [
-        {
-          "id": "f344fa03a93128a6",
-          "feed": "The War Zone",
-          "title": "Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force",
-          "url": "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force",
-          "domain": "twz.com",
-          "summary": "The scare comes after some USAF aircraft were evacuated from England and the threat level at bases has been raised. The post Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force appeared first on TWZ .",
-          "published": "2026-11-13T20:45:42Z"
-        },
-        {
-          "id": "5e4bff6fec12ee98",
-          "feed": "The Aviationist",
-          "title": "RAF Lakenheath Sounds Alarm After Suspected Unauthorized Drone Activity",
-          "url": "https://theaviationist.com/2026/11/13/raf-lakenheath-sounds-alarm-drone-activity/",
-          "domain": "theaviationist.com",
-          "summary": "U.S. Air Force security forces responded to suspected unauthorized drone activity at RAF Lakenheath, prompting an alarm and reports of a lockdown. Videos emerged online in the evening of Nov. 13, 2026, reportedly noted an alarm sounding at RAF Lakenheath, in Suffolk, England. About at the same time, unconfirmed reports emerged about the installation, as […]",
-          "published": "2026-11-13T22:20:09Z"
-        }
-      ],
-      "story_id": "2026-11-13-drones-suspectes-au-dessus-de-raf-lakenheath-l-usaf-declench-4cbb",
-      "written_count": 2
-    },
     "c4883c98720": {
       "id": "c4883c98720",
       "label": "FAA ground stop national (problème ATC)",
