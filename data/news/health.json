@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-20T14:01:07Z",
+  "run": "2026-11-20T14:10:38Z",
   "stats": {
-    "fetched": 675,
-    "new": 277,
+    "fetched": 575,
+    "new": 183,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 40
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -146,12 +146,6 @@
       "statut": "corrobore",
       "editeurs": 2,
       "breve": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429"
-    },
-    {
-      "dossier": "SpiceJet vols Dubai annulés frais aéroportuaires",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7"
     },
     {
       "dossier": "THC commande 12 Bombardier business jets",

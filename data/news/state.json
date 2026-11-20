@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/tap-unveils-new-longest-a321lr-route/": "2026-11-10T14:10:36Z",
-    "https://www.aerotime.aero/articles/pistorius-fcas-collapse-ideology-contracts": "2026-11-10T14:10:36Z",
-    "https://www.aerotime.aero/articles/qantas-to-outsource-850-roles-to-india-as-part-of-major-ai-drive": "2026-11-10T14:10:36Z",
-    "https://leehamnews.com/2026/11/10/why-did-comac-pursue-the-c919-600-shrink-chinas-high-altitude-demands/": "2026-11-10T14:10:36Z",
-    "https://www.aero.de/news-54139/Erster-Airbus-A350-1000-von-Lufthansa-landet-in-Muenchen.html": "2026-11-10T14:10:36Z",
-    "https://www.air-journal.fr/2026-11-10-sas-davantage-de-vols-vers-lasie-et-les-etats-unis-a-lete-2027-5278772.html": "2026-11-10T14:10:36Z",
     "https://simpleflying.com/lufthansa-first-a350-1000-delivery-700th-airbus-overall/": "2026-11-10T14:20:38Z",
     "https://www.airliners.de/lufthansa-uebernimmt-ersten-a350-1000/91433": "2026-11-10T14:20:38Z",
     "https://www.airliners.de/air-baltic-bis-sechs-a220-lufthansa-group-wet-lease/91432": "2026-11-10T14:20:38Z",
@@ -942,7 +936,9 @@
     "https://theaviationist.com/2026/11/18/akinci-and-tb2-highway-operations/": "2026-11-20T13:20:36Z",
     "https://www.aero.de/news-54207/VC-warnt-vor-gelockertem-Kuendungsschutz-fuer-Topverdiener.html": "2026-11-20T13:40:37Z",
     "https://leehamnews.com/2026/11/18/surf-air-mobility-scales-back-hybrid-caravan-plans/": "2026-11-20T14:01:07Z",
-    "https://www.air-journal.fr/2026-11-18-aeroport-de-dubai-504-millions-de-passagers-sur-neuf-mois-en-baisse-de-281-5278937.html": "2026-11-20T14:01:07Z"
+    "https://www.air-journal.fr/2026-11-18-aeroport-de-dubai-504-millions-de-passagers-sur-neuf-mois-en-baisse-de-281-5278937.html": "2026-11-20T14:01:07Z",
+    "https://www.aerotime.aero/articles/vertical-aerospace-largest-shareholder-jason-mudrick-capital-board-directors": "2026-11-20T14:10:38Z",
+    "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/aer-lingus-va-installer-une-premium-economy-sur-ses-airbus-a330-20261118.html": "2026-11-20T14:10:38Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1168,36 +1164,6 @@
         }
       ],
       "story_id": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429",
-      "written_count": 2
-    },
-    "cde7a9324c7": {
-      "id": "cde7a9324c7",
-      "label": "SpiceJet vols Dubai annulés frais aéroportuaires",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-13T12:01:22Z",
-      "updated": "2026-11-13T14:01:13Z",
-      "items": [
-        {
-          "id": "6bb2290cc88978b6",
-          "feed": "AeroTime",
-          "title": "SpiceJet flights from Dubai cancelled over unpaid airport fees: reports",
-          "url": "https://www.aerotime.aero/articles/spicejet-flights-dubai-cancelled-unpaid-airport-fees",
-          "domain": "aerotime.aero",
-          "summary": "Several SpiceJet flights from Dubai have been cancelled due to unpaid airport fees, according to reports shared by… The post SpiceJet flights from Dubai cancelled over unpaid airport fees: reports appeared first on AeroTime .",
-          "published": "2026-11-13T11:39:40Z"
-        },
-        {
-          "id": "42fda88ed7fe977a",
-          "feed": "Air Journal",
-          "title": "Annulations à Dubaï, menace boursière en Inde : SpiceJet sous pression",
-          "url": "https://www.air-journal.fr/2026-11-13-annulations-a-dubai-menace-boursiere-en-inde-spicejet-sous-pression-5278844.html",
-          "domain": "air-journal.fr",
-          "summary": "La compagnie low cost indienne SpiceJet a dû annuler quatre départs de Dubaï vers l’Inde le 12 novembre, après la suspension de ses services d’enregistrement pour des impayés estimés à 14 millions de dirhams, selon plusieurs médias indiens. Les perturbations se prolongeraient ce vendredi 13 novembre. SpiceJet assure travailler à une résolution du différend, alors […]",
-          "published": "2026-11-13T14:00:03Z"
-        }
-      ],
-      "story_id": "2026-11-13-spicejet-annule-plusieurs-vols-au-depart-de-dubai-en-raison-24c7",
       "written_count": 2
     },
     "ce92eeeffb2": {
