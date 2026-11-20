@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-20T03:20:38Z",
+  "run": "2026-11-20T03:30:50Z",
   "stats": {
     "fetched": 575,
-    "new": 184,
+    "new": 185,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -206,12 +206,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "JetBlue accord créanciers coopération",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-13-jetblue-une-majorite-de-creanciers-signe-un-accord-de-cooper-b1e0"
     },
     {
       "dossier": "Air Asia soutien gouvernement malaisien",
