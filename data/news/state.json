@@ -930,7 +930,8 @@
     "https://leehamnews.com/2026/11/18/surf-air-mobility-scales-back-hybrid-caravan-plans/": "2026-11-20T14:01:07Z",
     "https://www.air-journal.fr/2026-11-18-aeroport-de-dubai-504-millions-de-passagers-sur-neuf-mois-en-baisse-de-281-5278937.html": "2026-11-20T14:01:07Z",
     "https://www.aerotime.aero/articles/vertical-aerospace-largest-shareholder-jason-mudrick-capital-board-directors": "2026-11-20T14:10:38Z",
-    "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/aer-lingus-va-installer-une-premium-economy-sur-ses-airbus-a330-20261118.html": "2026-11-20T14:10:38Z"
+    "https://www.journal-aviation.com/actualites-transport-aerien/confort-et-services-a-bord/aer-lingus-va-installer-une-premium-economy-sur-ses-airbus-a330-20261118.html": "2026-11-20T14:10:38Z",
+    "https://airlinegeeks.com/2026/11/18/mullin-wave-of-tech-failures-may-be-linked-to-ai/": "2026-11-20T14:30:53Z"
   },
   "clusters": {
     "cb354155b2d": {
@@ -1187,27 +1188,6 @@
       ],
       "story_id": "2026-11-13-l-arabie-saoudite-thc-ferme-une-commande-de-12-avions-d-affa-ffb2",
       "written_count": 2
-    },
-    "ce360e6238a": {
-      "id": "ce360e6238a",
-      "label": "United Starlink déploiement mi-parcours",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-13T14:20:47Z",
-      "updated": "2026-11-13T14:20:47Z",
-      "items": [
-        {
-          "id": "e9d2bd8b9fe7dafb",
-          "feed": "AirlineGeeks",
-          "title": "United Clears Halfway Mark on Starlink Rollout",
-          "url": "https://airlinegeeks.com/2026/11/13/united-clears-halfway-mark-on-starlink-rollout/",
-          "domain": "airlinegeeks.com",
-          "summary": "The airline expects to have Starlink on nearly 64% of daily flights by the end of the year.",
-          "published": "2026-11-13T14:13:13Z"
-        }
-      ],
-      "story_id": "2026-11-13-united-airlines-atteint-la-moitie-de-son-deploiement-starlin-238a",
-      "written_count": 1
     },
     "ca7db7f6a48": {
       "id": "ca7db7f6a48",
