@@ -1080,36 +1080,6 @@
       "story_id": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf",
       "written_count": 3
     },
-    "c046061c471": {
-      "id": "c046061c471",
-      "label": "Lufthansa médiation pilotes Vereinigung Cockpit",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-12T16:01:19Z",
-      "updated": "2026-11-13T11:21:00Z",
-      "items": [
-        {
-          "id": "995e6dc61bad8534",
-          "feed": "aero.de",
-          "title": "Kreise: Mediationsergebnis für Lufthansa und Piloten",
-          "url": "https://www.aero.de/news-54156/Kreise-Annaeherung-von-Lufthansa-und-Piloten-moeglich.html",
-          "domain": "aero.de",
-          "summary": "FRANKFURT - Schlichtungen bei Lufthansa endeten im Oktober 2026 ergebnislos. Doch hinter verschlossenen Türen wird weiter um eine Gesamtlösung gerungen: Lufthansa und Vereinigung Cockpit loten in einer Mediation Schmerzgrenzen aus. Nach Informationen von aero.de zeichnet sich ein Resultat ab.",
-          "published": "2026-11-12T16:00:03Z"
-        },
-        {
-          "id": "13cc3c5118fa5a6b",
-          "feed": "airliners.de",
-          "title": "Lufthansa und Vereinigung Cockpit steuern auf Ergebnis der Mediation zu",
-          "url": "https://www.airliners.de/lufthansa-vereinigung-cockpit-mediation-ergebnis/91512",
-          "domain": "airliners.de",
-          "summary": "Die Lufthansa und die Vereinigung Cockpit stehen nach Informationen von \"Aero.de\" kurz vor einem Ergebnis ihrer Mediation. Ein erster Vorschlag liegt beiden Seiten bereits vor. Er betrifft unter anderem die Zukunft der Cityline-Piloten.",
-          "published": "2026-11-13T10:31:08Z"
-        }
-      ],
-      "story_id": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471",
-      "written_count": 2
-    },
     "c4ccbc3e1e3": {
       "id": "c4ccbc3e1e3",
       "label": "Global Airlines dissolution (A380)",
@@ -1217,27 +1187,6 @@
       ],
       "story_id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
       "written_count": 4
-    },
-    "cfc03e5b30f": {
-      "id": "cfc03e5b30f",
-      "label": "Air Asia soutien gouvernement malaisien",
-      "categorie": "Compagnies",
-      "importance": 2,
-      "created": "2026-11-13T11:21:00Z",
-      "updated": "2026-11-13T11:21:00Z",
-      "items": [
-        {
-          "id": "748f425d2a619359",
-          "feed": "airliners.de",
-          "title": "Malaysia will Air Asia nur unter Auflagen stützen",
-          "url": "https://www.airliners.de/malaysia-air-asia-hilfen-auflagen/91518",
-          "domain": "airliners.de",
-          "summary": "Die malaysische Regierung prüft, wie sie Air Asia angesichts hoher Kerosinpreise und Währungsschwankungen unterstützen kann. Eine bloße Finanzspritze schließt der zurückgetretene Verkehrsminister Anthony Loke aus.",
-          "published": "2026-11-13T10:54:50Z"
-        }
-      ],
-      "story_id": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f",
-      "written_count": 1
     },
     "cd4c01f8429": {
       "id": "cd4c01f8429",

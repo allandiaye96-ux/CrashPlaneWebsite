@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-20T11:20:48Z",
+  "run": "2026-11-20T11:30:50Z",
   "stats": {
     "fetched": 575,
     "new": 186,
@@ -136,12 +136,6 @@
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
     },
     {
-      "dossier": "Lufthansa médiation pilotes Vereinigung Cockpit",
-      "statut": "corrobore",
-      "editeurs": 2,
-      "breve": "2026-11-12-lufthansa-et-vereinigung-cockpit-en-mediation-un-resultat-se-c471"
-    },
-    {
       "dossier": "Global Airlines dissolution (A380)",
       "statut": "corrobore",
       "editeurs": 2,
@@ -194,12 +188,6 @@
       "statut": "source_unique",
       "editeurs": 1,
       "breve": "2026-10-31-ryanair-supprime-tous-ses-vols-sur-19-autres-liaisons-au-roy-5b2d"
-    },
-    {
-      "dossier": "Air Asia soutien gouvernement malaisien",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-13-malaisie-le-gouvernement-etudie-un-soutien-a-airasia-sous-co-b30f"
     },
     {
       "dossier": "United Starlink déploiement mi-parcours",
