@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-20T07:50:38Z",
+  "run": "2026-11-20T08:01:03Z",
   "stats": {
-    "fetched": 575,
-    "new": 188,
+    "fetched": 675,
+    "new": 278,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 40
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
