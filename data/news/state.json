@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/boeing-jet-already-sitting-american-airlines-fleet-quietly-replace-its-47-oldest-widebodies/": "2026-11-11T02:50:31Z",
     "https://www.airliners.de/qatar-airways-vereinbart-codeshare-porter-airlines/91442": "2026-11-11T03:20:35Z",
     "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft": "2026-11-11T05:20:32Z",
     "https://www.aero.de/news-54136/Emirates-Verkehrsrechte-BER.html": "2026-11-11T05:20:32Z",
@@ -997,36 +996,6 @@
       ],
       "story_id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
       "written_count": 4
-    },
-    "cd4c01f8429": {
-      "id": "cd4c01f8429",
-      "label": "US demande 30,1 Md$ flugsicherung aéroports",
-      "categorie": "Sécurité et réglementation",
-      "importance": 2,
-      "created": "2026-11-13T11:21:00Z",
-      "updated": "2026-11-14T02:40:47Z",
-      "items": [
-        {
-          "id": "2f71a1a5f16e0b24",
-          "feed": "airliners.de",
-          "title": "US-Regierung fordert weitere Milliarden für Flugsicherung und Flughäfen",
-          "url": "https://www.airliners.de/us-regierung-milliarden-flugsicherung-flughaefen/91517",
-          "domain": "airliners.de",
-          "summary": "Die US-Regierung bittet den Kongress um weitere 30,1 Milliarden US-Dollar für Flugsicherung und Flughäfen. Große US-Fluggesellschaften unterstützen den Vorstoß. Für die Bewilligung bleibt allerdings nur ein enges Zeitfenster.",
-          "published": "2026-11-13T10:42:02Z"
-        },
-        {
-          "id": "4c8bc3aa48586719",
-          "feed": "Simple Flying",
-          "title": "White House Urges Congress To Approve $30 Billion In Upgrades To US Aviation Infrastructure",
-          "url": "https://simpleflying.com/white-house-urge-congress-approve-30-billion-upgrades-us-aviation-infrastructure/",
-          "domain": "simpleflying.com",
-          "summary": "The White House wants Congress to approve $30.1 billion for aviation upgrades as nationwide flight disruptions renew safety concerns.",
-          "published": "2026-11-14T02:33:55Z"
-        }
-      ],
-      "story_id": "2026-11-14-washington-demande-30-1-milliards-de-dollars-au-congres-pour-8429",
-      "written_count": 2
     },
     "c4883c98720": {
       "id": "c4883c98720",
