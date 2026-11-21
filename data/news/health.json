@@ -1,7 +1,7 @@
 {
-  "run": "2026-11-21T11:10:41Z",
+  "run": "2026-11-21T11:20:37Z",
   "stats": {
-    "fetched": 576,
+    "fetched": 577,
     "new": 164,
     "written": 0,
     "held": 0,
@@ -50,12 +50,12 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": false,
@@ -71,7 +71,7 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 41
+      "items": 42
     },
     "Airbus – Communiqués": {
       "ok": false,
