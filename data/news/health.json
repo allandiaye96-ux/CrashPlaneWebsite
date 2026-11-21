@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-21T07:42:16Z",
+  "run": "2026-11-21T07:50:44Z",
   "stats": {
-    "fetched": 677,
-    "new": 270,
+    "fetched": 576,
+    "new": 175,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -54,8 +54,8 @@
       "items": 0
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": false,
@@ -71,11 +71,11 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 42
+      "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
