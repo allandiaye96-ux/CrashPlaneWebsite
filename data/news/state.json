@@ -1077,27 +1077,6 @@
       "story_id": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720",
       "written_count": 19
     },
-    "c8d9f179a77": {
-      "id": "c8d9f179a77",
-      "label": "United demande ground stop O'Hare congestion",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-14T17:50:41Z",
-      "updated": "2026-11-14T17:50:41Z",
-      "items": [
-        {
-          "id": "7e4addcb6abf2853",
-          "feed": "Simple Flying",
-          "title": "United Airlines Requests Ground Stop At Chicago O’Hare To Manage Influx Of Arrivals",
-          "url": "https://simpleflying.com/united-airlines-requests-ground-stop-chicago-ohare-influx-arrivals/",
-          "domain": "simpleflying.com",
-          "summary": "United sought a targeted halt to relieve severe gate congestion after a nationwide outage left crews and aircraft displaced.",
-          "published": "2026-11-14T17:42:10Z"
-        }
-      ],
-      "story_id": "2026-11-14-united-airlines-demande-un-arret-cible-des-departs-a-chicago-9a77",
-      "written_count": 1
-    },
     "c6c48e76289": {
       "id": "c6c48e76289",
       "label": "Breeze Airways reprend les marchés laissés par Spirit",
