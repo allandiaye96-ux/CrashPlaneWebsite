@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=DF410FFD-F626-4B20-BAE5-D1DEFD6722CA": "2026-11-11T10:10:33Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=BBB030DF-1011-4C9A-ABBE-12DBC75DBC6E": "2026-11-11T10:10:33Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=52A4A81A-C2B1-4C02-895A-3B18B23D1ABA": "2026-11-11T10:10:33Z",
     "https://simpleflying.com/highest-paid-international-flight-attendants-ranks-and-average-salaries/": "2026-11-11T10:20:33Z",
     "https://www.aerotime.aero/articles/develop-once-deploy-everywhere-honeywell-aerospaces-anthony-florian-on-apac": "2026-11-11T10:20:33Z",
     "https://www.aerotime.aero/articles/rafael-super-ice-cruise-missile-warhead": "2026-11-11T10:20:33Z",
@@ -913,54 +910,6 @@
     "https://www.air-journal.fr/2026-11-19-de-porto-a-washington-sans-escale-tap-ouvre-une-troisieme-route-vers-les-etats-unis-5279206.html": "2026-11-21T10:01:02Z"
   },
   "clusters": {
-    "c63818ecf90": {
-      "id": "c63818ecf90",
-      "label": "Global Airlines liquidation obligatoire",
-      "categorie": "Compagnies",
-      "importance": 3,
-      "created": "2026-11-13T10:01:10Z",
-      "updated": "2026-11-14T10:01:13Z",
-      "items": [
-        {
-          "id": "8a7ae03aa2455df0",
-          "feed": "AeroTime",
-          "title": "A380 startup Global Airlines ordered into compulsory liquidation by UK court",
-          "url": "https://www.aerotime.aero/articles/a380-startup-global-airlines-order-compulsory-liquidation-uk-court",
-          "domain": "aerotime.aero",
-          "summary": "Airbus A380 startup Global Airlines has been ordered into compulsory liquidation by the Insolvency and Companies Court in… The post A380 startup Global Airlines ordered into compulsory liquidation by UK court appeared first on AeroTime .",
-          "published": "2026-11-13T09:38:43Z"
-        },
-        {
-          "id": "d71bc4350465394c",
-          "feed": "Simple Flying",
-          "title": "Global Airlines Ordered Into Liquidation: What’s Next For Its Lone Airbus A380?",
-          "url": "https://simpleflying.com/global-airlines-ordered-into-liquidation-a380/",
-          "domain": "simpleflying.com",
-          "summary": "Liquidators could find it difficult to see the aircraft in need of maintenance",
-          "published": "2026-11-13T15:30:59Z"
-        },
-        {
-          "id": "a7f2955702ab65b4",
-          "feed": "Flightradar24 – Blog",
-          "title": "The End of Global Airlines?",
-          "url": "https://www.flightradar24.com/blog/aviation-news/the-end-of-global-airlines/",
-          "domain": "flightradar24.com",
-          "summary": "Global Airlines, the British startup with grand ambitions to build a transatlantic airline around the Airbus A380, has been ordered into compulsory liquidation. The High Court of Justice made the winding-up order against Global Airlines Ltd on 4 November 2026, according to a notice in The Gazette published on 12 November. The order follows a […] The post The End of Global Airlines? appeared first on Flightradar24 Blog .",
-          "published": "2026-11-13T15:37:16Z"
-        },
-        {
-          "id": "94e3d7772ac019cd",
-          "feed": "Air Journal",
-          "title": "Global Airlines en liquidation : fin de parcours pour son projet transatlantique en Airbus A380",
-          "url": "https://www.air-journal.fr/2026-11-14-global-airlines-en-liquidation-fin-de-parcours-pour-son-projet-transatlantique-en-airbus-a380-5278829.html",
-          "domain": "air-journal.fr",
-          "summary": "La justice britannique a ordonné la liquidation de Global Airlines le 4 novembre 2026, selon un avis publié le 12 novembre dans The London Gazette. La jeune compagnie aérienne, qui voulait s’imposer sur le marché transatlantique avec des Airbus A380, n’aura concrétisé son projet que par deux allers-retours vers New York au printemps 2025, opérés […]",
-          "published": "2026-11-14T10:00:05Z"
-        }
-      ],
-      "story_id": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90",
-      "written_count": 4
-    },
     "c4883c98720": {
       "id": "c4883c98720",
       "label": "FAA ground stop national (problème ATC)",
