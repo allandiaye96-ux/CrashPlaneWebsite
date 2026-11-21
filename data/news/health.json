@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-21T19:01:01Z",
+  "run": "2026-11-21T19:10:46Z",
   "stats": {
-    "fetched": 676,
-    "new": 219,
+    "fetched": 576,
+    "new": 124,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -116,12 +116,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
-    },
-    {
-      "dossier": "Breeze Airways reprend les marchés laissés par Spirit",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-14-breeze-airways-reprend-des-marches-loisirs-laisses-par-spiri-6289"
     },
     {
       "dossier": "Port Polska nouvel aéroport Pologne",
