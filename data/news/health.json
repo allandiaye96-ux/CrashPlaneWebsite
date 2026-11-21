@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-21T13:50:38Z",
+  "run": "2026-11-21T14:01:10Z",
   "stats": {
-    "fetched": 577,
-    "new": 153,
+    "fetched": 676,
+    "new": 244,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -71,11 +71,11 @@
     },
     "The War Zone": {
       "ok": true,
-      "items": 42
+      "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
