@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-21T09:01:02Z",
+  "run": "2026-11-21T09:10:37Z",
   "stats": {
-    "fetched": 677,
-    "new": 260,
+    "fetched": 577,
+    "new": 166,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 42
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -110,12 +110,6 @@
       "statut": "corrobore",
       "editeurs": 4,
       "breve": "2026-11-13-global-airlines-placee-en-liquidation-obligatoire-par-un-tri-cf90"
-    },
-    {
-      "dossier": "Air Baltic retour A220 et sanierung insolvence",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-12-air-baltic-rend-18-airbus-a220-300-a-des-bailleurs-dans-le-c-5dbf"
     },
     {
       "dossier": "COMAC CE-25A avion électrique premier vol",
