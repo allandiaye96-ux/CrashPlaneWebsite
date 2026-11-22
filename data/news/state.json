@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aerotime.aero/articles/netjets-columbus-headquarters-expansion-800-jobs": "2026-11-12T20:20:36Z",
-    "https://www.aerotime.aero/articles/florida-learjet-crash-ntsb-in-flight-breakup": "2026-11-12T20:20:36Z",
-    "https://www.aero.de/news-54163/Cyberangriff-auf-Quantum-Systems.html": "2026-11-12T20:20:36Z",
     "https://simpleflying.com/worlds-busiest-airport-has-no-flights-to-2-us-states/": "2026-11-12T20:27:49Z",
     "https://simpleflying.com/8-things-frequent-flyers-do-survive-long-haul-flights/": "2026-11-12T21:00:58Z",
     "https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin": "2026-11-12T21:00:58Z",
@@ -844,7 +841,8 @@
     "https://airlinegeeks.com/2026/11/20/american-grows-maintenance-footprint-in-miami/": "2026-11-22T19:01:06Z",
     "https://www.twz.com/air/mysterious-mq-25-stingray-like-chinese-drone-emerges-at-little-known-flight-test-center": "2026-11-22T19:20:37Z",
     "https://www.twz.com/air/l-39ng-skyfox-jets-could-give-ukraine-a-critical-new-russian-drone-hunting-capability": "2026-11-22T19:30:50Z",
-    "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter": "2026-11-22T19:40:39Z"
+    "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter": "2026-11-22T19:40:39Z",
+    "https://www.flightradar24.com/blog/aviation-news/airline-news/paradise-gets-an-upgrade-air-tahiti-inaugurates-all-business-class-atr-72/": "2026-11-22T20:20:38Z"
   },
   "clusters": {
     "c46f12057c8": {
@@ -885,45 +883,6 @@
       ],
       "story_id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
       "written_count": 2
-    },
-    "c0a69375a84": {
-      "id": "c0a69375a84",
-      "label": "Collision UPS 767 et Copa 737 à Miami",
-      "categorie": "Incident",
-      "importance": 2,
-      "created": "2026-11-15T06:50:48Z",
-      "updated": "2026-11-15T20:10:46Z",
-      "items": [
-        {
-          "id": "60b71b936837b25d",
-          "feed": "Simple Flying",
-          "title": "‘Somebody Hit Us’: UPS Boeing 767 Collides With Copa 737 In Miami After Taxiing Too Far",
-          "url": "https://simpleflying.com/ups-boeing-767-collides-copa-737-miami-airport-taxiway/",
-          "domain": "simpleflying.com",
-          "summary": "Two people were treated for minor injuries following the dramatic impact.",
-          "published": "2026-11-15T06:48:04Z"
-        },
-        {
-          "id": "a1036cdc390d2795",
-          "feed": "AeroTime",
-          "title": "A B737 and a B767 collide on the ground at Miami International Airport",
-          "url": "https://www.aerotime.aero/articles/a-b737-and-a-b767-collide-on-the-ground-at-miami-international-airport",
-          "domain": "aerotime.aero",
-          "summary": "Two aircraft, a Copa Airlines B737 and a B767 freighter operated by UPS, collided on the ground at… The post A B737 and a B767 collide on the ground at Miami International Airport appeared first on AeroTime .",
-          "published": "2026-11-15T12:36:31Z"
-        },
-        {
-          "id": "5225a671477d689f",
-          "feed": "aero.de",
-          "title": "Flugzeuge kollidieren auf Rollweg in Miami",
-          "url": "https://www.aero.de/news-54180/Flugzeuge-kollidieren-auf-Rollweg-in-Miami.html",
-          "domain": "aero.de",
-          "summary": "MIAMI - Erst vor wenigen Tagen mussten ein Lufthansa-Crew auf einem Rollweg in Miami in die Eisen steigen. Nun sind dort ein Passagierflugzeug und eine UPS-Frachtmaschine zusammengestoßen. Die US-Luftverkehrsbehörde FAA untersucht, wie es trotz einer Anweisung der Flugsicherung zu der Kollision kam.",
-          "published": "2026-11-15T20:01:53Z"
-        }
-      ],
-      "story_id": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84",
-      "written_count": 3
     }
   },
   "spend": {
