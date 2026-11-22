@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-22T12:30:55Z",
+  "run": "2026-11-22T12:40:34Z",
   "stats": {
-    "fetched": 656,
-    "new": 183,
+    "fetched": 676,
+    "new": 186,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -30,8 +30,8 @@
       "items": 100
     },
     "Leeham News": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 10
     },
     "Aero-News Network": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
