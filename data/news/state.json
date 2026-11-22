@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.gov.uk/aaib-reports/aaib-investigation-to-dji-m300-uas-registration-n-slash-a": "2026-11-12T10:10:36Z",
-    "https://www.gov.uk/aaib-reports/aaib-investigation-to-quik-gt450-g-cgtu": "2026-11-12T10:10:36Z",
-    "https://www.gov.uk/aaib-reports/aaib-investigation-to-titan-t-51-mustang-g-muzy": "2026-11-12T10:10:36Z",
-    "https://www.gov.uk/aaib-reports/aaib-investigation-to-pulsar-xp-g-ckis": "2026-11-12T10:10:36Z",
-    "https://www.gov.uk/aaib-reports/aaib-investigation-to-leonardo-aw169-g-hhem": "2026-11-12T10:10:36Z",
-    "https://www.gov.uk/aaib-reports/aaib-investigation-to-aero-l-159e-g-dkna": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=AB6502EF-8DAC-4FA9-8571-070B1289C75B": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=06C1E37E-FDE8-41C3-997F-4863DC5BECFE": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=9080FD85-B06F-4F67-AA2D-93582BA877D1": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=7B8FB5AD-570C-4E9B-90C9-7F19C8814B19": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=0FCFD341-2CF8-48E5-9242-AFC54C394F2D": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=76137FAD-032B-4BA7-B8B9-82758A0D9A1D": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=844B8A88-D9FA-41FB-85C5-71171813E256": "2026-11-12T10:10:36Z",
-    "https://www.aero-news.net/index.cfm?do=main.textpost&id=F2289B93-8436-4DB7-9301-2778862D77F0": "2026-11-12T10:10:36Z",
-    "https://www.air-journal.fr/2026-11-12-frontier-soffre-une-premiere-classe-le-grand-ecart-de-lultra-low-cost-5278800.html": "2026-11-12T10:10:36Z",
     "https://simpleflying.com/the-most-likely-aircraft-to-replace-airbus-a380-on-high-capacity-routes/": "2026-11-12T10:20:34Z",
     "https://www.airliners.de/jetblue-blue-first-premium-rueckkehr-profitabilitaet/91486": "2026-11-12T10:20:34Z",
     "https://www.airliners.de/wizz-air-kuendigt-steigende-stueckkosten-halbjahresgewinn-sinkt/91485": "2026-11-12T10:20:34Z",
@@ -880,7 +865,14 @@
     "https://www.easa.europa.eu/newsroom-and-events/news/sunny-swift-threat-and-error-management-part-1": "2026-11-22T09:10:38Z",
     "https://www.airliners.de/us-ausschuss-china-gebaute-flugzeuge-zulassung-verweigern/91650": "2026-11-22T09:10:38Z",
     "https://www.airliners.de/skyguide-modernisiert-radarstandort-la-ole/91643": "2026-11-22T09:40:46Z",
-    "https://www.air-journal.fr/2026-11-20-norwegian-un-premier-boeing-737-max-8-livre-dans-le-cadre-dun-accord-avec-acg-5279221.html": "2026-11-22T10:00:59Z"
+    "https://www.air-journal.fr/2026-11-20-norwegian-un-premier-boeing-737-max-8-livre-dans-le-cadre-dun-accord-avec-acg-5279221.html": "2026-11-22T10:00:59Z",
+    "https://www.gov.uk/aaib-reports/aaib-investigation-to-sikorsky-s-92a-g-cijc": "2026-11-22T10:10:39Z",
+    "https://www.gov.uk/aaib-reports/aaib-investigation-to-cameron-z-133-g-clzi": "2026-11-22T10:10:39Z",
+    "https://www.gov.uk/aaib-reports/aaib-investigation-to-airbus-a300-600f-d-aeag": "2026-11-22T10:10:39Z",
+    "https://www.aerotime.aero/articles/france-rafale-sweden-first-forward-deterrence-exercise": "2026-11-22T10:10:39Z",
+    "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank": "2026-11-22T10:10:39Z",
+    "https://www.aerotime.aero/articles/united-airlines-to-block-third-party-ai-agents-from-accessing-digital-platforms": "2026-11-22T10:10:39Z",
+    "https://www.aerotime.aero/articles/zelenskyy-says-starshield-speed-cap-returns-hindering-russian-drone-interceptions": "2026-11-22T10:10:39Z"
   },
   "clusters": {
     "c4883c98720": {
