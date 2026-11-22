@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-22T20:20:38Z",
+  "run": "2026-11-22T20:30:50Z",
   "stats": {
-    "fetched": 576,
-    "new": 74,
+    "fetched": 676,
+    "new": 170,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -98,12 +98,5 @@
       "items": 20
     }
   },
-  "dossiers": [
-    {
-      "dossier": "COMAC CE-25A avion électrique premier vol",
-      "statut": "corrobore",
-      "editeurs": 3,
-      "breve": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8"
-    }
-  ]
+  "dossiers": []
 }

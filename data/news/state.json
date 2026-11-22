@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/worlds-busiest-airport-has-no-flights-to-2-us-states/": "2026-11-12T20:27:49Z",
     "https://simpleflying.com/8-things-frequent-flyers-do-survive-long-haul-flights/": "2026-11-12T21:00:58Z",
     "https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin": "2026-11-12T21:00:58Z",
     "https://www.aerotime.aero/articles/united-ceo-boom-overture-supersonic-jet-delay": "2026-11-12T21:20:34Z",
@@ -844,47 +843,7 @@
     "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter": "2026-11-22T19:40:39Z",
     "https://www.flightradar24.com/blog/aviation-news/airline-news/paradise-gets-an-upgrade-air-tahiti-inaugurates-all-business-class-atr-72/": "2026-11-22T20:20:38Z"
   },
-  "clusters": {
-    "c46f12057c8": {
-      "id": "c46f12057c8",
-      "label": "COMAC CE-25A avion électrique premier vol",
-      "categorie": "Constructeurs et industrie",
-      "importance": 2,
-      "created": "2026-11-14T19:20:49Z",
-      "updated": "2026-11-15T20:20:49Z",
-      "items": [
-        {
-          "id": "fdb0e284f7d5a10f",
-          "feed": "aero.de",
-          "title": "Comac E-Flugzeug dreht erste Testrunde",
-          "url": "https://www.aero.de/news-54177/Comac.html",
-          "domain": "aero.de",
-          "summary": "BINZHOU - COMAC arbeitet an einem E-Flugzeug. Der batteriebetriebene Prototyp CE-25A ist jetzt zum ersten Mal geflogen.",
-          "published": "2026-11-14T19:18:58Z"
-        },
-        {
-          "id": "a95ec8047b42f9b6",
-          "feed": "AeroTime",
-          "title": "China’s COMAC completes first piloted flight of CE-25A electric aircraft",
-          "url": "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft",
-          "domain": "aerotime.aero",
-          "summary": "China’s first domestically developed fixed-wing electric commercial aircraft, the CE-25A, completed its first piloted test flight on November… The post China’s COMAC completes first piloted flight of CE-25A electric aircraft appeared first on AeroTime .",
-          "published": "2026-11-15T10:32:27Z"
-        },
-        {
-          "id": "0ac26b09503ff8a2",
-          "feed": "Simple Flying",
-          "title": "China Completes First Piloted Flight Of 19-Seat Electric Plane Built To Fly Between Cities",
-          "url": "https://simpleflying.com/comac-ce-25a-electric-plane-first-piloted-flight/",
-          "domain": "simpleflying.com",
-          "summary": "First flight is complete but certification is still a major hurdle.",
-          "published": "2026-11-15T20:14:04Z"
-        }
-      ],
-      "story_id": "2026-11-14-comac-fait-voler-ce-25a-un-prototype-d-avion-electrique-a-ba-57c8",
-      "written_count": 2
-    }
-  },
+  "clusters": {},
   "spend": {
     "2026-10": 0.524533,
     "2026-11": 5.000407
