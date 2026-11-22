@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-22T20:01:02Z",
+  "run": "2026-11-22T20:10:39Z",
   "stats": {
-    "fetched": 676,
-    "new": 171,
+    "fetched": 576,
+    "new": 75,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -99,12 +99,6 @@
     }
   },
   "dossiers": [
-    {
-      "dossier": "FAA ground stop national (problème ATC)",
-      "statut": "corrobore",
-      "editeurs": 9,
-      "breve": "2026-11-13-la-faa-ordonne-un-arret-national-des-departs-de-tous-les-vol-8720"
-    },
     {
       "dossier": "COMAC CE-25A avion électrique premier vol",
       "statut": "corrobore",
