@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-22T12:01:00Z",
+  "run": "2026-11-22T12:10:46Z",
   "stats": {
-    "fetched": 576,
-    "new": 88,
+    "fetched": 666,
+    "new": 183,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
@@ -116,12 +116,6 @@
       "statut": "corrobore",
       "editeurs": 3,
       "breve": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84"
-    },
-    {
-      "dossier": "Port Polska nouvel aéroport Pologne",
-      "statut": "source_unique",
-      "editeurs": 1,
-      "breve": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47"
     },
     {
       "dossier": "Commande 10 A220 corporate par startup US",

@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://simpleflying.com/british-airways-unveils-8-new-boeing-787-heathrow-routes/": "2026-11-12T12:01:01Z",
-    "https://simpleflying.com/how-short-runways-limit-boeing-787-9-payloads-on-hot-days/": "2026-11-12T12:01:01Z",
-    "https://simpleflying.com/video/the-airbus-a321xlr-s-premium-economy-problem/": "2026-11-12T12:01:01Z",
-    "https://www.air-journal.fr/2026-11-12-animawings-en-insolvabilite-la-suspension-des-vols-prolongee-jusquau-31-decembre-5278812.html": "2026-11-12T12:01:01Z",
     "https://www.aerotime.aero/articles/airasia-appoints-bahrain-board-hub-launch-by-march-2027": "2026-11-12T12:20:34Z",
     "https://avitrader.com/2026/11/12/charlotte-airport-secures-us2bn-investment-deal/": "2026-11-12T12:20:34Z",
     "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026": "2026-11-12T12:50:34Z",
@@ -1134,27 +1130,6 @@
       ],
       "story_id": "2026-11-15-collision-au-sol-a-miami-entre-un-boeing-767-de-ups-et-un-73-5a84",
       "written_count": 3
-    },
-    "c1aad160b47": {
-      "id": "c1aad160b47",
-      "label": "Port Polska nouvel aéroport Pologne",
-      "categorie": "Aéroports",
-      "importance": 2,
-      "created": "2026-11-15T12:01:31Z",
-      "updated": "2026-11-15T12:01:31Z",
-      "items": [
-        {
-          "id": "e72a4b4c7535dbe7",
-          "feed": "Air Journal",
-          "title": "Port Polska : le pari polonais pour bousculer les grands hubs européens",
-          "url": "https://www.air-journal.fr/2026-11-15-port-polska-le-pari-polonais-pour-bousculer-les-grands-hubs-europeens-5278852.html",
-          "domain": "air-journal.fr",
-          "summary": "La Pologne maintient l’objectif d’une ouverture de Port Polska fin 2032. Destiné à prendre le relais de Varsovie-Chopin et à accompagner le développement de LOT Polish Airlines, ce nouvel aéroport doit conjuguer correspondances, fret et grande vitesse ferroviaire. Mais le financement et le calendrier des travaux restent des points de vigilance. Entre Varsovie et Łódź, […]",
-          "published": "2026-11-15T12:00:55Z"
-        }
-      ],
-      "story_id": "2026-11-15-port-polska-la-pologne-maintient-l-objectif-d-une-ouverture-0b47",
-      "written_count": 1
     },
     "c996ad4c375": {
       "id": "c996ad4c375",
