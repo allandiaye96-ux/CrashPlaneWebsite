@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-22T18:20:37Z",
+  "run": "2026-11-22T18:31:02Z",
   "stats": {
-    "fetched": 576,
-    "new": 76,
+    "fetched": 666,
+    "new": 173,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,16 +46,16 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 0
-    },
-    "The Local France – Accidents": {
       "ok": false,
       "error": "HTTPError: HTTP Error 500: Internal Server Error"
+    },
+    "The Local France – Accidents": {
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": false,
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
