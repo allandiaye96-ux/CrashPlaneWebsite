@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-22T12:10:46Z",
+  "run": "2026-11-22T12:20:37Z",
   "stats": {
-    "fetched": 666,
-    "new": 183,
+    "fetched": 576,
+    "new": 90,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
