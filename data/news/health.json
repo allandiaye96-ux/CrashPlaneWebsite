@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-22T16:01:11Z",
+  "run": "2026-11-22T16:10:38Z",
   "stats": {
     "fetched": 576,
-    "new": 82,
+    "new": 81,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "items": 0
     },
     "The Local France – Accidents": {
       "ok": true,
