@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-23T17:20:38Z",
+  "run": "2026-11-23T17:30:53Z",
   "stats": {
-    "fetched": 569,
-    "new": 119,
+    "fetched": 679,
+    "new": 219,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -58,8 +58,8 @@
       "items": 0
     },
     "The Air Current": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "AirlineGeeks": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 34
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
