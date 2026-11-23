@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-23T07:50:37Z",
+  "run": "2026-11-23T08:01:05Z",
   "stats": {
-    "fetched": 569,
-    "new": 72,
+    "fetched": 669,
+    "new": 168,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -54,8 +54,8 @@
       "items": 0
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": false,
@@ -74,8 +74,8 @@
       "items": 34
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
