@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-23T07:40:37Z",
+  "run": "2026-11-23T07:50:37Z",
   "stats": {
     "fetched": 569,
     "new": 72,
@@ -54,8 +54,8 @@
       "items": 0
     },
     "The Local France – Accidents": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "The Air Current": {
       "ok": false,
@@ -75,7 +75,7 @@
     },
     "Airbus – Communiqués": {
       "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "Boeing – Communiqués": {
       "ok": true,
