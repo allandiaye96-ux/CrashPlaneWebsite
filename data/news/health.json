@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-23T06:50:45Z",
+  "run": "2026-11-23T07:01:05Z",
   "stats": {
-    "fetched": 559,
-    "new": 166,
+    "fetched": 669,
+    "new": 165,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -14,12 +14,12 @@
       "items": 50
     },
     "EASA – Communiqués": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "items": 50
     },
     "EASA – Actualités": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "ok": true,
+      "items": 50
     },
     "Simple Flying": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
