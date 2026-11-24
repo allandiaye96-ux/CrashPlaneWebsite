@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-24T06:20:38Z",
+  "run": "2026-11-24T06:30:52Z",
   "stats": {
-    "fetched": 577,
-    "new": 138,
+    "fetched": 477,
+    "new": 137,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -14,12 +14,12 @@
       "items": 50
     },
     "EASA – Communiqués": {
-      "ok": true,
-      "items": 50
+      "ok": false,
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
     },
     "EASA – Actualités": {
-      "ok": true,
-      "items": 50
+      "ok": false,
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
     },
     "Simple Flying": {
       "ok": true,
