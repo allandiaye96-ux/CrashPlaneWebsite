@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-24T22:30:48Z",
+  "run": "2026-11-24T22:40:36Z",
   "stats": {
-    "fetched": 580,
-    "new": 196,
+    "fetched": 545,
+    "new": 189,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -70,8 +70,8 @@
       "items": 10
     },
     "The War Zone": {
-      "ok": true,
-      "items": 35
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "Airbus – Communiqués": {
       "ok": false,
