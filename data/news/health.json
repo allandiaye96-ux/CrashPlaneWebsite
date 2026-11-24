@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-24T15:30:53Z",
+  "run": "2026-11-24T15:40:36Z",
   "stats": {
     "fetched": 677,
     "new": 275,
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "TimeoutError: The read operation timed out"
     },
     "The Local France – Accidents": {
       "ok": true,
