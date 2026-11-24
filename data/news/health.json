@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-24T15:40:36Z",
+  "run": "2026-11-24T15:50:37Z",
   "stats": {
-    "fetched": 677,
-    "new": 275,
+    "fetched": 577,
+    "new": 176,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 0
     },
     "The Local France – Accidents": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 32
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
