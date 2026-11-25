@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-25T06:40:43Z",
+  "run": "2026-11-25T06:50:36Z",
   "stats": {
-    "fetched": 571,
-    "new": 192,
+    "fetched": 581,
+    "new": 202,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -46,16 +46,16 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "The Local France – Accidents": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "The Air Current": {
       "ok": true,
