@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-25T06:20:36Z",
+  "run": "2026-11-25T06:30:48Z",
   "stats": {
     "fetched": 581,
     "new": 202,
@@ -54,8 +54,8 @@
       "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "The Local France – Accidents": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "The Air Current": {
       "ok": true,
