@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-26T05:10:40Z",
+  "run": "2026-11-26T05:20:42Z",
   "stats": {
     "fetched": 586,
     "new": 206,
@@ -75,7 +75,7 @@
     },
     "Airbus – Communiqués": {
       "ok": false,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
