@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-26T22:20:34Z",
+  "run": "2026-11-26T22:30:49Z",
   "stats": {
     "fetched": 584,
     "new": 200,
@@ -75,7 +75,7 @@
     },
     "Airbus – Communiqués": {
       "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "error": "ParseError: not well-formed (invalid token): line 1, column 2"
     },
     "Boeing – Communiqués": {
       "ok": true,
