@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-26T18:10:37Z",
+  "run": "2026-11-26T18:20:39Z",
   "stats": {
-    "fetched": 586,
-    "new": 204,
+    "fetched": 686,
+    "new": 304,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -50,8 +50,8 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
     },
     "The Local France – Accidents": {
       "ok": true,
@@ -74,8 +74,8 @@
       "items": 41
     },
     "Airbus – Communiqués": {
-      "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 100
     },
     "Boeing – Communiqués": {
       "ok": true,
