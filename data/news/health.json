@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-26T11:31:01Z",
+  "run": "2026-11-26T11:40:48Z",
   "stats": {
-    "fetched": 561,
-    "new": 177,
+    "fetched": 586,
+    "new": 202,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
@@ -46,16 +46,16 @@
       "items": 15
     },
     "AviTrader": {
+      "ok": true,
+      "items": 10
+    },
+    "The Local France – Aviation": {
       "ok": false,
       "error": "HTTPError: HTTP Error 403: Forbidden"
     },
-    "The Local France – Aviation": {
-      "ok": true,
-      "items": 0
-    },
     "The Local France – Accidents": {
-      "ok": true,
-      "items": 0
+      "ok": false,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "The Air Current": {
       "ok": true,
