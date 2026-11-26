@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-26T11:40:48Z",
+  "run": "2026-11-26T11:50:35Z",
   "stats": {
-    "fetched": 586,
-    "new": 202,
+    "fetched": 571,
+    "new": 187,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": true,
-      "items": 15
+      "ok": false,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     "Australian Aviation": {
       "ok": true,
@@ -50,12 +50,12 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": true,
