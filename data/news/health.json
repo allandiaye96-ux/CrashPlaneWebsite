@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-27T08:01:12Z",
+  "run": "2026-11-27T08:10:38Z",
   "stats": {
     "fetched": 584,
     "new": 191,
@@ -50,12 +50,12 @@
       "items": 10
     },
     "The Local France – Aviation": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Local France – Accidents": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 0
     },
     "The Air Current": {
       "ok": true,
