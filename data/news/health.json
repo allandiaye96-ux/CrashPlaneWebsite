@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-27T02:30:57Z",
+  "run": "2026-11-27T02:40:34Z",
   "stats": {
-    "fetched": 664,
-    "new": 276,
+    "fetched": 584,
+    "new": 195,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -74,16 +74,16 @@
       "items": 39
     },
     "Airbus – Communiqués": {
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Boeing – Communiqués": {
       "ok": true,
       "items": 5
     },
     "aero.de": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+      "ok": true,
+      "items": 20
     },
     "airliners.de": {
       "ok": true,
