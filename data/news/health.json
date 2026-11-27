@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-27T15:31:01Z",
+  "run": "2026-11-27T15:40:37Z",
   "stats": {
-    "fetched": 659,
-    "new": 261,
+    "fetched": 684,
+    "new": 285,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -34,8 +34,8 @@
       "items": 10
     },
     "Aero-News Network": {
-      "ok": false,
-      "error": "TimeoutError: The read operation timed out"
+      "ok": true,
+      "items": 15
     },
     "Australian Aviation": {
       "ok": true,
@@ -46,8 +46,8 @@
       "items": 15
     },
     "AviTrader": {
-      "ok": false,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10
     },
     "The Local France – Aviation": {
       "ok": true,
