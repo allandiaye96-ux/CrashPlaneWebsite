@@ -1,8 +1,8 @@
 {
-  "run": "2026-11-28T05:40:35Z",
+  "run": "2026-11-28T05:50:36Z",
   "stats": {
     "fetched": 580,
-    "new": 175,
+    "new": 173,
     "written": 0,
     "held": 0,
     "errors": 0
@@ -75,7 +75,7 @@
     },
     "Airbus – Communiqués": {
       "ok": false,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     "Boeing – Communiqués": {
       "ok": true,
